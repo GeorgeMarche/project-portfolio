@@ -1,0 +1,2164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0 minimum-scale=1, maximum-scale=1" />
+<title>Best CBSE Boarding School in Rajasthan near Delhi NCR & Gurgaon | The Sagar School, India</title>
+<meta name="description" content="The Sagar School Residential CBSE Boarding School Ranked No 1 near Rajasthan, Alwar, Gurgaon, Near Delhi & North India." />
+<meta name="keywords" content="The Sagar school alwar, International School, Indian school, best school of India, best school in India, senior secondary, international boarding schools, best Indian boarding schools, boarding school in Rajasthan, boarding school delhi,  cbse boarding schools, boarding school in Delhi, Boarding school in Jaipur, boarding school in Gurgaon, schools in Alwar, schools in Rajasthan, residential schools, top school in India, best Indian boarding school, boarding schools in delhi ncr region, british council" />
+<link rel="canonical" href="https://thesagarschool.org">
+<meta property="og:title" content="Best CBSE Boarding School in Rajasthan near Delhi NCR & Gurgaon | The Sagar School, India" />
+<meta property="og:description" content="The Sagar School Residential CBSE Boarding School Ranked No 1 near Rajasthan, Alwar, Gurgaon, Near Delhi & North India." />
+<meta property="og:url" content="https://thesagarschool.org" />
+<!--Foundation Framework-->
+<link rel="stylesheet" href="sagarnewlib/css/foundation.css" />
+<!--Custom Style Sheet-->
+<link rel="stylesheet" href="sagarnewlib/css/custom_foundation.css" />
+<link rel="stylesheet" href="sagarnewlib/css/layout.css" />
+
+<!--Socio Font-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="sagarnewlib/css/custom_fontawesome.css">
+
+<!--Royal Slider--> 
+<script class="rs-file" src="sagarnewlib/lib/royalslider/jquery-1.8.3.min.js"></script> 
+<script class="rs-file" src="sagarnewlib/lib/royalslider/jquery.royalslider.min.js"></script>
+<link class="rs-file" href="sagarnewlib/lib/royalslider/royalslider.css" rel="stylesheet">
+<!-- slider stylesheets -->
+<link class="rs-file" href="sagarnewlib/lib/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
+<link class="rs-file" href="sagarnewlib/lib/royalslider/full_width_slider.css" rel="stylesheet">
+<!--calendar start here-->
+<link rel="stylesheet" href="sagarnewlib/css/custom_pickmeup.css" type="text/css" />
+<link rel="stylesheet" href="sagarnewlib/lib/calendar/css/pickmeup.css" type="text/css" />
+<script type="text/javascript" src="sagarnewlib/lib/calendar/js/jquery.pickmeup.js"></script> 
+<script type="text/javascript" src="sagarnewlib/lib/calendar/js/demo.js"></script> 
+<!--Font Style start here-->
+<link rel="stylesheet" href="sagarnewlib/css/fonts.css">
+<script src="sagarnewlib/js/vendor/modernizr.js"></script> 
+
+<!--Swiper Slider-->
+<link class="rs-file" href="sagarnewlib/css/swiper.min.css" rel="stylesheet">
+
+<!--Instragram Scripts--> 
+<script type="text/javascript" src="sagarnewlib/js/instafeed.min.js"></script> 
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+--> 
+<script type="text/javascript" src="sagarnewlib/js/custom.js"></script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code --> 
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '2233398780236734'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2233398780236734&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+$(document).ready(function() {	
+
+	if (once_per_session==0)
+		loadpopunder()
+	else
+	{
+	if (get_cookie('popunder')==''){
+		loadpopunder()
+		document.cookie="popunder=yes"
+	}
+	}
+
+});
+</script>
+<script type="text/javascript">
+
+//Pop-under window II- By JavaScript Kit
+//Credit notice must stay intact for use
+//Visit http://javascriptkit.com for this script
+
+//Pop-under only once per browser session? (0=no, 1=yes)
+//Specifying 0 will cause popunder to load every time page is loaded
+var once_per_session=0
+
+///No editing beyond here required/////
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function loadornot(){
+if (get_cookie('popunder')==''){
+loadpopunder()
+document.cookie="popunder=yes"
+}
+}
+function loadpopunder(){
+var id = '#dialog';
+			
+		
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(1000);	
+		$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		//$(id).fadeIn(2000);
+		
+	    //Popup transition effect
+		setTimeout(function(){
+		$(id).animate({opacity: 1}, 2500);
+		}, 2000);
+		
+			
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		$('#mask').remove();
+		$('.window').remove();
+	});		
+	
+	//if mask is clicked
+	$('#mask').click(function () {
+		$(this).remove();
+		$('.window').remove();
+	});	
+	
+	
+	//fadein fadeout start here
+ var faderIndex = 0,
+        faders = $('.fadey');
+    
+    function nextFade() {
+        $(faders[faderIndex]).fadeOut(1500, function() {
+            faderIndex++;
+            if (faderIndex >= faders.length)
+                faderIndex = 0;
+            $(faders[faderIndex]).fadeIn(4000, nextFade);
+        });
+    }
+    nextFade();
+
+//popup delay start here
+$( "div.first" ).delay( 1000 ).fadeIn( 100 );
+$( "#boxes" ).slideUp( 300 ).delay( 1000 ).fadeIn( 100 );
+
+
+//slider start here
+function ticker() {
+    $('#ticker li:first').slideUp(function() {
+        $(this).appendTo($('#ticker')).slideDown();
+    });
+}
+
+setInterval(function(){ ticker(); }, 6000);
+}
+
+</script>
+	
+	<script>
+	jQuery(document).ready(function() {
+  jQuery('#playvideo').click(function(ev) {
+  
+  jQuery("#tssvideo")[0].src += "&autoplay=1";
+    ev.preventDefault();
+  });
+  
+  setTimeout(function() {
+    jQuery('#tssvideo').trigger('click');
+  }, 1000);
+
+}); 
+
+	
+	
+	
+	</script>	
+	
+
+<style type="text/css">
+/*home page popup start here*/
+#mask {
+	position: fixed;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	z-index: 999;
+	width: 100% !important;
+	background: rgba(0, 0, 0, 0.99)!important;
+	height: 100% !important;
+}
+#boxes .window {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 440px;
+	opacity: 0;
+	z-index: 10000;
+	padding: 20px;
+	text-align: center;
+}
+#boxes #dialog {
+	max-width: 99vh;
+	width: 100%;
+	position: fixed;
+	top: 50% !important;
+	left: 50% !important;
+	margin-right: -50%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+#boxes #dialog .popvd img {
+	width: 99%;
+	max-height: calc(99vh - 70px);
+	width: auto;
+	margin: auto;
+	margin-right: auto;
+	display: block;
+/*
+    max-width: 480px;
+width: 100%;
+padding: 1rem
+*/
+   
+}
+#popupfoot {
+	position: absolute;
+	right: 0.5rem;
+    top: 0.2rem;
+}
+    
+@media screen and (max-width:1023px) {
+    #popupfoot {
+	right: 0.3rem;
+    top: 0;
+}
+    
+    }
+    
+    
+.quotes {
+	display: none;
+}
+
+/*
+#popupfoot {
+    position: absolute;
+    right: 0.3rem;
+    top: 0.3rem;
+}  
+*/
+
+    .about{
+        position: relative;
+    }  
+	
+	
+.hmvideocontainer{
+	position: relative;
+    padding-left: 4rem;
+    padding-right: 4rem;
+	}	
+	
+	
+.popvd {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 0;
+    height: 0;
+    position: relative;
+    width: 100%;
+    height: 0;
+    background-color: #000;
+}	
+	
+.popvd iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    background-color: transparent;
+}	
+    
+</style>
+</head><body>
+
+<!--popup start here--> 
+
+<!--
+	<div id="boxes">
+		<div id="dialog" class="window first" >
+			<section class="about contact popvd">
+				
+				<iframe id="tssvideo" type="text/html" width="840" height="470" src="https://www.youtube.com/embed/Hw4kYUT9PYQ?controls=0&showinfo=0&rel=0&loop=1&playlist=Hw4kYUT9PYQ&autoplay=1" frameborder="0"></iframe>
+				</section>
+            
+            <div id="popupfoot"> <a href="#" class="close"><img src="sagarnewlib/images/close_button.svg" style="width:35px;"></a> </div>
+
+		</div>
+		<div id="mask"></div>
+	</div>
+-->
+
+<!--popup end here-->
+
+<div class="off-canvas-wrap" data-offcanvas>
+
+<!--Mobile Navigation Header Starts  include 'sagarnewlib/includes/config.php';-->
+ <div class="inner-wrap">
+    <nav class="tab-bar hideOnDesktop">
+      <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      </section>
+
+      <section class="middle tab-bar-section">
+        <h1 class="title"></h1>
+      </section>
+<!--
+
+      <section class="right-small">
+        <a class="right-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      </section>
+-->
+    </nav>
+
+    <aside class="left-off-canvas-menu mobilesidemenu">
+      <ul class="off-canvas-list">
+      <li><a href="https://thesagarschool.org/index.php"><img src="https://thesagarschool.org/sagarnewlib/images/logo_thesagarschool_white.png" alt="THE SAGAR SCHOOL" title="THE SAGAR SCHOOL"></a></li>
+        <li>
+        	<ul class="accordion mobilesidemenuinner" data-accordion>
+  				<li class="accordion-navigation">
+    				<a href="#Mabout">About Us</a>
+    				<div id="Mabout" class="content">
+						<ul>
+							<li><a href="https://thesagarschool.org/about.php">About us</a></li>
+							<li><a href="https://thesagarschool.org/our-founders.php">Our Founders</a></li>
+							<li><a href="https://thesagarschool.org/board-of-directors.php">Board of Directors</a></li>
+							<li><a href="https://thesagarschool.org/executive-body.php">The Executive Body</a></li>
+							<li style="padding:.75rem 0 .1rem 0; margin-bottom:.25rem;"><a href="#">
+								<strong>Advisory Committee</strong></a></li>
+							<li><a href="https://thesagarschool.org/management-committee.php" class="subSubmenu">School Management Committee</a></li>
+							<li><a href="https://thesagarschool.org/panel-of-experts.php" class="subSubmenu">Panel of Experts</a></li>
+							<li style="padding:.75rem 0 .1rem 0; margin-bottom:.25rem;"><a href="#">
+								<strong>Our Staff</strong></a></li>
+							<li><a href="https://thesagarschool.org/faculty.php" class="subSubmenu">Faculty</a></li>
+							<li><a href="https://thesagarschool.org/other-staff.php" class="subSubmenu">Other Staff</a></li>
+							<li style=""><a href="https://thesagarschool.org/contracted-service.php" class="subSubmenu">Contracted services</a></li>
+							<li style="padding:.75rem 0 .1rem 0; margin-bottom:.25rem;"><a href="#">
+								<strong>Our Infrastructure</strong></a></li>
+							<li><a href="https://thesagarschool.org/concept-plan.php" class="subSubmenu">Campus layout</a></li>
+						</ul>
+                    
+                    </div>
+  				</li>
+  				<li class="accordion-navigation">
+    				<a href="#Macedemics">Academics</a>
+    				<div id="Macedemics" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/curriculum.php">Curriculum</a></li>
+                            <li><a href="">Resources Cell</a></li>
+                            <li><a href="https://thesagarschool.org/library-and-labs.php" class="subSubmenu">Library-IT-Labs</a></li>
+                        </ul>
+                    </div>
+  				</li>
+  				<li class="accordion-navigation">
+    				<a href="#MBacedemics">Beyond Academics</a>
+    				<div id="MBacedemics" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/performing-and-creative-arts.php">Performing & Creative Arts</a></li>
+                            <li><a href="https://thesagarschool.org/music-and-dance.php" class="subSubmenu">Music & Dances</a></li>
+                            <li><a href="https://thesagarschool.org/theatre.php" class="subSubmenu">Theatre</a></li>
+                            <li><a href="https://thesagarschool.org/art.php" class="subSubmenu">Art</a></li>
+                            <li><a href="https://thesagarschool.org/club-socities.php">Clubs & Societies</a></li>
+                            <li><a href="https://thesagarschool.org/workshops.php">Workshops</a></li>
+                            <li><a href="https://thesagarschool.org/ba_community_service.php">Community Service</a></li>
+                            <li><a href="https://thesagarschool.org/excursions-expedition.php">Excursions, Expeditions, Camps & Outings</a></li>
+                            <li><a href="https://thesagarschool.org/exchange-programme.php">Exchange Programmes</a></li>
+                        </ul>
+                    </div>
+  				</li>
+                <li class="accordion-navigation">
+    				<a href="#MCcell">Counselling Cell</a>
+    				<div id="MCcell" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/behaviour-counselling.php" class="subSubmenu">Behaviour</a></li>
+                            <li><a href="https://thesagarschool.org/career-counselling.php" class="subSubmenu">Career</a></li>
+                         </ul>
+                    </div>
+  				</li>
+                <li class="accordion-navigation">
+    				<a href="#Msports">Sports</a>
+    				<div id="Msports" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/sports_choices_related_infrastructure.php">Choices & Related Infrastructure</a></li>
+                        </ul>
+                    </div>
+  				</li>
+                                <a href="https://thesagarschool.org/social-outreach-programme.php" class="noaccordionLink NoaccordinLinkMobileNav">SOCIAL OUTREACH PROGRAMME</a>
+                <li class="accordion-navigation">
+    				<a href="#Mboarding">Boarding Life</a>
+    				<div id="Mboarding" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/boarding-house-common-room.php">Boarding Houses & Common Room</a></li>
+                            <li><a href="https://thesagarschool.org/dining-hall.php" class="subSubmenu">Dining Hall & Meals</a></li>
+                            <li><a href="https://thesagarschool.org/tuckshop.php" class="subSubmenu">Tuck Shop</a></li>
+                            <li><a href="https://thesagarschool.org/celebrations.php">Celebrations</a></li>
+                            <li><a href="https://thesagarschool.org/health-and-safety.php">Health, Safety & Security</a></li>
+<!--                            <li><a href="http://thesagarschool.org/calendar.php">Calendar</a></li>-->
+                            <li><a href="https://thesagarschool.org/days-schedule.php">Day’s Schedule</a></li>
+                        </ul> 
+                    </div>
+  				</li>
+				<a href="https://thesagarschool.org/students-council.php">Student’s Council</a>
+         		<a href="https://thesagarschool.org/alumni.php">ALUMNI</a>
+                <li class="accordion-navigation">
+    				<a href="#Mnews">News</a>
+    				<div id="Mnews" class="content">
+                    	<ul>
+                            <li><a href="https://thesagarschool.org/news_newsletters_main.php">Newsletters</a></li>
+                            <li><a href="https://thesagarschool.org/press.php">Press</a></li>
+                            <li><a href="https://thesagarschool.org/gallery.php">Image Gallery</a></li>
+                            <li style="padding:.75rem 0 .1rem 0; margin-bottom:.25rem;">
+                              <a href="#"><strong>Results</strong></a>
+<!--                            <a href="http://thesagarschool.org/class_xii_board_results_2019-20.php">Results</a>-->
+                                             
+                            </li>
+                            
+                            <li><a href="https://thesagarschool.org/class_xii_board_results_2019-20.php">Result Class XII</a></li>
+                            <li><a href="https://thesagarschool.org/class_x_board_results_2019-20.php">Result Class X</a></li>
+                            
+                            
+                            
+                            
+                        </ul> 
+                    </div>
+  				</li>
+            <a href="https://thesagarschool.org/work-with-us.php" class=" noaccordionLink NoaccordinLinkMobileNav">Work with Us</a>
+				<a href="https://thesagarschool.org/reach-us.php" class="noaccordionLink NoaccordinLinkMobileNav">Contact Us</a>
+			</ul>
+       </li>    
+       
+        
+      </ul>
+      
+		<ul class="off-canvas-list mobilesocial">
+			<li></li>
+			<li>
+				<a href="https://www.facebook.com/TheSagarSchool" target="_blank"><i class="fa fa-facebook"></i></a>
+			</li>
+			<li>
+				<a href="https://twitter.com/thesagarschool" target="_blank"><i class="fa fa-twitter"></i></a>
+			</li>
+<!--
+			<li>
+				<a href="https://plus.google.com/108838815464035718181/posts" target="_blank"><i class="fa fa-google-plus"></i></a>
+			</li>
+-->
+			<li>
+				<a href="https://www.instagram.com/thesagarschool/" target="_blank"><i class="fa fa-instagram"></i></a>
+			</li>
+		</ul>
+    </aside>
+
+    <aside class="right-off-canvas-menu">
+
+      
+    </aside>
+
+    <section class="main-section">
+   <!--Mobile Navigation Header Ends--> 
+
+<!--Top Bar Menu Starts-->
+<style>
+    	 #map {
+    		width: 100%;
+    		height: 37.5vh;
+			min-width:300px;
+			min-height:250px;
+			max-width:960px;
+			max-height:497px;
+   			background-color: #CCC;
+			color:#863442 !important;
+  			}
+			#map a {color:#863442 !important; text-decoration:underline !important;}
+		</style>
+		<script src="https://maps.googleapis.com/maps/api/js"></script>
+      
+      <script>
+			// In the following example, markers appear when the user clicks on the map.
+			// Each marker is labeled with a single alphabetical character.
+			var labels = '';
+			var labelIndex = 0;
+			
+			function initialize() {
+			   var artisan = { lat:27.8868665, lng:76.8973166};
+			  var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 10,
+				center: artisan
+			  });
+			
+			  // This event listener calls addMarker() when the map is clicked.
+			  //google.maps.event.addListener(map, 'click', function(event) {
+			//	addMarker(event.latLng, map);
+			 // });
+			
+			  // Add a marker at the center of the map.
+			  addMarker(artisan, map);
+			}
+			
+			// Adds a marker to the map.
+			function addMarker(location, map) {
+			  // Add the marker at the clicked location, and add the next-available label
+			  // from the array of alphabetical characters.
+			  var image = { 
+			  		url:'sagarnewlib/images/google_pin.png',
+			  	size: new google.maps.Size(32, 47),
+
+			  }
+			var contentString = '<div id="content">'+
+					  '<div id="siteNotice">'+
+					  '</div>'+
+					  '<div id="bodyContent">'+
+					  '<p><strong>THE SAGAR SCHOOL</strong> <br> Village Baghor, Tehsil Tijara <br> District Alwar-301411, Rajasthan' +
+					  '<br>tel: <a href="tel:+91 98710 98498">'+
+					  '+91 98710 98498</a> '+
+					  '<br><a href="mailto:info@thesagarschool.org">info@thesagarschool.org</a> '+
+					  '<br><a href="https://www.google.com/maps/dir/Current+Location/The+Sagar+School,+Village+Baghor,+Tehsil+Tijara,+Near+Maliyar+Gurjar,+Alwar,+Rajasthan+301411,+India/@27.8868665,76.8973166,10z" target="_blank">Get Directions</a>'+
+					  '</p>'+
+					  '</div>'+
+					  '</div>';
+				
+				  var infowindow = new google.maps.InfoWindow({
+					content: contentString
+				  });
+
+			  var marker = new google.maps.Marker({
+				position: location,
+				label: labels[labelIndex++ % labels.length],
+				map: map,
+				icon: image,
+				title: 'The Sagar School'
+
+			  });
+			   marker.addListener('click', function() {
+				infowindow.open(map, marker);
+			  });
+
+			}
+			
+			google.maps.event.addDomListener(window, 'load', initialize);
+
+		</script>
+<section class="section_full_width border_bottom_brandColor hide-for-medium-down"> 
+    <div class="row backgroundBrandColour colourWhite ">
+      <div class="large-6 medium-12 columns">
+      	<nav class="left-align top_bar_menu">
+        	<a href="https://thesagarschool.org/index.php">home</a>
+            <a href="https://thesagarschool.org/admissions.php">admissions</a>
+            <a href="https://thesagarschool.org/downloads/Sagar_School_eBrochure.pdf" target="_blank">download brochure</a>
+<!--            <a href="http://thesagarschool.org/hoildayhomework.php" target="_blank">Holiday Homework</a>-->
+            
+         
+      	</nav>
+        </div>
+        <div class="large-6 medium-12 columns">
+        <nav class="right inline-list top_social_icon">
+        	
+        	 <a href="https://www.facebook.com/TheSagarSchool" target="_blank" class="">
+             	<i class="fa fa-facebook"></i></a>
+              <i class="border_left" ></i>
+             <a href="https://twitter.com/thesagarschool" target="_blank">
+             	<i class="fa fa-twitter"></i></a>
+              <i class="border_left" ></i>
+        
+              <a href="https://instagram.com/thesagarschool/" target="_blank">
+              	<i class="fa fa-instagram"></i></a>
+              <i class="border_left" ></i>
+              <a href="https://www.youtube.com/channel/UCUFO-OCP_vYs-oJU33QLaSQ" target="_blank">
+              	<i class="fa fa-youtube"></i></a>
+              <i class="border_left" ></i>
+              <a href="https://in.linkedin.com/pub/the-sagar-school/60/313/8b7" target="_blank">
+              	<i class="fa fa-linkedin"></i></a>
+			 <i class="border_left" ></i>
+               <a href="https://thesagarschool.org/panorama/tour.html" target="_blank">
+              360<sup>0</sup></a>
+             
+        </nav>
+      </div>
+    </div>
+   </section><!--Top Bar Menu Ends--> 
+
+<!--Header Starts-->
+<section class="margin_top1rem">
+	<div class="row newheadsection">
+    	<div class="large-7 medium-7 small-12 columns logo_block left-align">
+        	<div class="top_headline_head "> 
+			<h5><a href="https://thesagarschool.org/index.php"><img src="sagarnewlib/images/home/the-sagar-school-logo.png" alt="" title="" class=""> </a></h5>
+			</div>
+        </div>
+		
+		<div class="large-12 medium-5 small-12 columns logo_block left-right top_headline_head">
+        
+			<h5 style="text-align: right;"><div class="unparalleled">UNPARALLELED INFRASTRUCTURE <span>–  A GREEN OASIS IN NCR</span></div></h5>
+			
+        </div>
+      
+    </div>
+</section>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '2233398780236734'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2233398780236734&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code --><!--Header Ends-->
+
+<section class="">
+  <div class="row">
+    <div class="large-12 columns">
+      <hr class="brand	Hr" style="margin: 0;">
+    </div>
+  </div>
+</section>
+
+<!--Navigation and Slider Section Starts-->
+
+<section>
+  <div class="row"> 
+    <!--Left Section Starts-->
+    <div class="large-3 hide-for-medium-down columns" >
+        <ul class="side-nav sidenav24">
+  			<li><a href="javascript:void(0);" data-dropdown="AboutUs" data-options="align:right">About us</a>
+				<ul id="AboutUs" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="about.php">About us</a>
+                    	<a href="our-founders.php">Our Founder</a>
+            			<a href="board-of-directors.php">Board of Directors</a>
+            			<a href="executive-body.php">The Executive Body</a>
+            			<a href="#" style="cursor:default"><strong>Advisory Committee</strong></a>
+            			<a href="management-committee.php">School Management Committee</a>
+                       <a href="panel-of-experts.php">Panel of Experts</a>
+            			
+            			<a href="#" style="cursor:default"><strong>Our Staff</strong></a>
+                        <a href="faculty.php">Faculty</a>
+                        	<a href="other-staff.php">Other Staff</a>
+                       <a href="contracted-service.php">Contracted services</a>
+            			
+            			
+            			<a href="#" style="cursor:default"><strong>Our Infrastructure</strong></a>
+						<a href="concept-plan.php">Campus layout</a>
+        			</li>
+      			</ul>
+			</li>
+            
+            <li><a href="javascript:void(0)" data-dropdown="Acedemics" data-options="align:right">ACADEMICS</a>
+				<ul id="Acedemics" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="curriculum.php">Curriculum</a>
+            			<a href="#" style="cursor:default"><strong>Resource Cell</strong></a>
+            			<a href="library-and-labs.php" style="cursor:default">-Library-IT-Labs</a>
+        			</li>
+      			</ul>
+			</li>
+            
+            <li><a href="javascript:void(0)" data-dropdown="BeyondAcedemics" data-options="align:right">BEYOND ACADEMICS</a>
+            	<ul id="BeyondAcedemics" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="performing-and-creative-arts.php"><strong>Performing & Creative Arts</strong></a>
+                    	         <a href="music-and-dance.php">-Music & Dance</a>
+                  <a href="theatre.php">-Theatre</a>
+            		<a href="art.php">-Art</a>
+                    	
+            			<a href="club-socities.php">Clubs & Societies</a>
+            			<a href="workshops.php">Workshops</a>
+                        <!--<a href="ba_community_service.php">Community Service</a>-->
+                        <a href="excursions-expedition.php">Excursions, Expeditions, Camps & Outings</a>
+                        <a href="exchange-programme.php">Exchange Programmes</a>
+        			</li>
+      			</ul>
+            </li>
+            <li><a href="javascript:void(0)" data-dropdown="CounsellingCell" data-options="align:right">Counselling Cell</a>
+            	<ul id="CounsellingCell" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    <a href="behaviour-counselling.php">Behaviour</a>
+                    <a href="career-counselling.php">Career</a>
+        			</li>
+      			</ul>
+            </li>
+              <li><a href="sports.php">SPORTS</a></li>
+              <li><a href="social-outreach-programme.php">SOCIAL OUTREACH PROGRAMME</a></li>
+           <!-- <li><a href="javascript:void(0)" data-dropdown="Sports" data-options="align:right">SPORTS</a>
+            	<ul id="Sports" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="sports.php">SPORTS</a>
+                    	<a href="sports_choices_related_infrastructure.php">Choices & Related Infrastructure</a>
+                    </li>
+                </ul>        
+            </li>-->
+            <li><a href="javascript:void(0)" data-dropdown="BoardingLife" data-options="align:right">BOARDING LIFE</a>
+            	<ul id="BoardingLife" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="boarding-house-common-room.php"><strong>Boarding Houses & Common Room</strong></a>
+                        <a href="dining-hall.php">-Dining Hall & Meals</a>
+                    <a href="tuckshop.php">-Tuck Shop</a>
+                       
+                        <a href="celebrations.php">Celebrations</a>
+                        <a href="health-and-safety.php">Health, Safety & Security</a>
+<!--                        <a href="calendar.php">Calendar</a>-->
+                        <a href="days-schedule.php">Day’s Schedule</a>
+                        <!--<a href="bl_students_councils.php">Student’s Council</a>-->
+                    </li>
+                </ul> 
+            </li>
+            
+			<li><a href="students-council.php" class="noaccordionLink" >Student Council</a></li>
+            
+            <!--alumni.php-->
+            <li><a href="alumni.php" >ALUMNI</a></li>
+            <li><a href="javascript:void(0)" data-dropdown="News" data-options="align:right">NEWS</a>
+            	<ul id="News" class="f-dropdown" data-dropdown-content>
+        			<li>
+                    	<a href="news-main.php">NEWS</a>
+                    	<a href="newsletters.php">Newsletters</a>
+                        <a href="press.php">Press</a>
+                        <a href="gallery.php">Image Gallery</a>
+                      <a href="https://thesagarschool.org/class_xii_board_results_2019-20.php">Results</a>
+
+                        
+                    </li>
+                </ul> 
+            </li>
+            <li><a href="work-with-us.php">WORK WITH US</a></li>
+            <li><a href="reach-us.php">Contact Us</a></li>
+           
+           
+           
+     
+           
+           
+        
+            
+		</ul>
+  <section class="margin_top1rem">
+        	<div class="block_SmallBanckgroundBrandLightColor" id="">
+            	<a href="https://thesagarschool.org/class_xii_board_results_2019-20.php"><h4 class="block_BottomHeadingBrandColour">Results</h4></a>
+        	</div>
+        </section>
+        
+               <section class="margin_top1rem">
+        	<div class="block_SmallBanckgroundBrandLightColor" id="">
+            	<a href="admissions.php"><h4 class="block_BottomHeadingBrandColour">Admissions</h4></a>
+        	</div>
+        </section>
+        
+             
+<!--
+        <section class="margin_top1rem">
+        	<a href="#"><img src="sagarnewlib/images/logo_british_council.jpg" /></a>
+        </section>
+-->
+ 
+        
+        
+        </div>    <!--Left Section Ends-->
+    
+    <div class="large-9 medium-12  columns"> 
+      <!--Right Section Starts-->
+      <div class="top_about topabout_new"> The Sagar School is a thriving co-educational boarding CBSE School, a 2 hour drive from Delhi airport and a 4.5 hours drive from Jaipur, located on a picturesque 160 acres campus. The undulating green landscape has more than 2500 beautiful flowering trees, over 10,000 shrubs and fruit orchards. With world-class facilities, an excellent teacher-student ratio of 1:8, the School has students from over 22 states of India and other countries including Bangladesh, Nepal, Nigeria, Russia, South Korea and UAE, studying in classes IV to XII. </div>
+      
+      <!--RigtSlider Section Starts-->
+      <section class="slider_section">
+        <div class="sliderContainer fullWidth clearfix">
+          <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/EducationWorld.jpg" alt="" /></div>
+            <!--						<div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/b.jpg" alt="" /></div>-->
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/b2.jpg" alt="" /></div>
+            <!--                        <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/b3.jpg" alt="" /></div>--> 
+            <!--                        <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/c.jpg" alt="" /></div>						-->
+            
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider01.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider02.jpg" alt="" /></div>
+            <!--						<div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider03.jpg" alt="" /></div>-->
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider04.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/observatory.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider05.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/artificialwall.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/slider06.jpg" alt="" /></div>
+            <div class="rsContent"><img class="rsImg" src="sagarnewlib/images/slider_home_page/geetabist.jpg" alt="" /></div>
+          </div>
+        </div>
+      </section>
+      <!--RigtSlider Section Ends--> 
+      
+      <!--Right Section Ends--> 
+      
+      <!--
+            <div class="top_about">
+				<img src="sagarnewlib/images/tssbanner.png"/>
+            </div>
+--> 
+      
+    </div>
+  </div>
+</section>
+
+<!--Navigation and Slider Section Ends--> 
+
+<!--Four Blocks Section Starts-->
+
+<div class="row margin_top1rem fourblocksection"> 
+  
+  <!--Instrgram Block -->
+  <div class="large-3 small-12 columns medium-6 noMargin " id="SecondRow">
+    <ul class="grid-instagram">
+    <li id="instagaram">
+        <a href="https://www.instagram.com/p/CF0w4p8FfKo/" target="_blank"><img src="https://instagram.fdel1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/120453879_190210999211649_8414834689292778076_n.jpg?_nc_ht=instagram.fdel1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=9IF7dQ0ixP8AX8-bmSu&_nc_tp=15&oh=98990e6ba4c4362b61b3a38fdac44595&oe=5FA06C68"></a>
+					
+
+</ul>  </div>
+  <div class="large-3 small-12  medium-6 columns">
+    <div  class="block_DarkGrey "> 
+      
+      <!--<ul id="admission">
+				<li><a href="http://thesagarschool.org/sagarnewlib/images/admission_invite/Jodhpur.png" target="_blank"><img src="sagarnewlib/images/admission_invite/Jodhpur.png"/></a></li>
+                <li><a href="http://thesagarschool.org/sagarnewlib/images/admission_invite/lucknow.png" target="_blank"><img src="sagarnewlib/images/admission_invite/lucknow.png"/></a></li>
+                <li><a href="http://thesagarschool.org/sagarnewlib/images/admission_invite/Balotra.png" target="_blank"><img src="sagarnewlib/images/admission_invite/Balotra.png"/></a></li>
+			</ul>--> 
+      
+      <a href="https://www.canford.com/Award-winning-boarding-at-Canford?returnUrl=/Main-School-News" target="_blank"><img src="sagarnewlib/images/canford.png" alt="Partnering with Award Winning Canford School UK for Academic / Exchange Programme." title="Partnering with Award Winning Canford School UK for Academic / Exchange Programme." /></a> 
+      
+      <!--<h4 class="block_headingBrandColour">Upcoming Events</h4>
+        	<a href="" class="block_link">
+        	<ul id="upcoming_event">
+            	<li class="dt" > 
+                	<span>01</span>
+                	<span>March</span>
+                </li>
+                <li class="desc">
+                	<span>09.00 AM</span>
+                    <span>CBSE BOARD  EXAM <br /> Class X and XII</span>
+                </li>
+            </ul>
+        </a>--> 
+      <!--<footer class="block_footer">
+             <nav><a href="" class="footerLink pull-right">All Events</a></nav>
+        </footer>--> 
+    </div>
+  </div>
+  <div class="large-3  medium-6 small-12 columns">
+    <div class="block_LightGrey">
+      <h4 class="block_headingBrandColour">AVAILABLE DOWNLOADS</h4>
+      <ul id="download">
+          <li style="border-top:0;"><a href="downloads/Magazine2020.pdf" target="_blank">Magazine
+
+                  <!--<span>PDF</span>-->
+              </a></li>
+          <li><a href="downloads/Sagar_School_eBrochure.pdf" target="_blank">Brochure
+
+                  <!--<span>PDF</span>-->
+              </a></li>
+
+          
+          <li>
+              <a href="downloads/prcreds.pdf">
+                  TSS - an insight
+                  <!--<span>PDF</span>-->
+              </a>
+          </li>
+      </ul>
+      <footer class="block_footer">
+        <nav><a href="downloads.php" class="footerLink pull-right">Other Downloads</a></nav>
+      </footer>
+    </div>
+  </div>
+  <div class="large-3  medium-6 small-12 columns">
+    <div class="block_LightGreyDoubleHeight" id="latest_new">
+      <h4 class="block_headingBrandColour">E-NEWSLETTERS</h4>
+      <ul>
+         <li> <a href="https://thesagarschool.org/sagarnewlib/newsletters/2020/TSS_Newsletter_Jan-Mar.pdf"> <span>January - March 2020</span> The Sagarian Times</a> </li>  
+        <li> <a href="https://thesagarschool.org/sagarnewlib/newsletters/2019/Newsletter_November_December.pdf"> <span>November - December 2019</span> The Sagarian Times</a> </li>
+        <li> <a href="https://thesagarschool.org/sagarnewlib/newsletters/2019/Newsletter_September_October.pdf"> <span>September - October 2019</span> The Sagarian Times</a> </li>
+        <li> <a href="https://thesagarschool.org/sagarnewlib/newsletters/2019/Newletter_July_August.pdf"> <span>July - August 2019</span> The Sagarian Times</a> </li>
+<!--        <li> <a href="https://thesagarschool.org/sagarnewlib/newsletters/2019/Newletter_April_May.pdf" target="_blank"> <span>April – May 2019</span>The Sagarian Times</a> </li>-->
+<!--        <li> <a href="sagarnewlib/newsletters/2019/Newletter_January_March_2019.pdf" target="_blank"> <span>January – March 2019 </span>The Sagarian Times</a> </li>-->
+      </ul>
+      <footer class="block_footer">
+        <nav><a href="news-main.php" class="footerLink pull-right">All News</a></nav>
+      </footer>
+    </div>
+  </div>
+</div>
+<div class="row margin_top1rem latestnews">
+  <div class="large-3 medium-6 small-12 columns" id="SecondRow"> <a href="https://www.youtube.com/watch?v=nhI-3s3hhnc" target="_blank">
+    <div id="admission_block"> <img src="sagarnewlib/images/landingPage/av.jpg"/> </div>
+    </a> </div>
+  <div class="large-6 medium-6 small-12 columns " id="SecondRow">
+    <div class="testimonials_section testimonials_section_new">
+      <div class="cntsection">
+<!--        <h4>TESTIMONIALS</h4>-->
+          
+          
+          
+<!--
+                    <div class="row quotes">
+          	    <div class="profileblock">
+          	        <div class="profile-detail valign-middle">
+          	            <div class="large-2 medium-3 small-3 columns">
+          	                <img src="sagarnewlib/images/testimonials/AmitLodha.jpg">
+          	            </div>
+          	            <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+          	                <h5>Amit Lodha IPS</h5>
+          	                <h6 style="line-height: 1.3 !important;">Inspector General<br> Rajasthan Frontier<br> Border Security Force</h6>
+          	            </div>
+          	        </div>
+          	        <p>I had the privilege to visit this beautiful, oasis of a school. Salute to the vision of Shri Vidya Sagar for founding the Sagar School. Kudos to Mr Amlan Saha, Principal for organising a wonderful founder’s Day. And more than that, for nurturing the character of the students to become better citizens of our country. He is ably supported by the VP, Shailendra Ji and his staff. Best wishes.</p>
+          	    </div>
+          	</div>
+-->
+          
+          
+          
+<!--
+         <div class="row quotes">
+          	    <div class="profileblock">
+          	        <div class="profile-detail valign-middle">
+          	            <div class="large-10 medium-9 small-9 columns">
+          	                <h5>S. K. Sehgal</h5>
+          	            </div>
+          	        </div>
+          	        <p>It is my privilege to be present on the 20th anniversary. The students and organisers put up a great performance. The Headmaster and teachers did wonderful job in mentoring the students and imbibing in them the great values.</p>
+                    <p>It is a matter of pride that the institution has made great progress as I have known it from the day the foundation was laid. My best wishes for the future.</p>
+          	    </div>
+          	</div>
+-->
+          
+		  
+		  
+          
+						<div class="row quotes">
+						  <div class="profileblock">
+                              <div class="profile-detail valign-middle">
+                              	    <div class="large-2 medium-3 small-3 columns">
+                              	        <img src="sagarnewlib/images/testimonials/nishi.jpg">
+                              	    </div>
+                              	    <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+                              	        <h5>Nishi Misra</h5>
+                              	        <h6 style="line-height: 1.3 !important;">Principal <br> Scindia Kanya Vidyalaya</h6>
+                              	    </div>
+                              	</div>
+                              <p>Coming to see The Sagar School is undeniably one of the best decisions I have made. I am amazed to see the pristine landscapes, aesthetically done buildings and fantastic infrastructure. The Observatory and S.O.P. is most impressive. <br><br> It is only a matter of time that under the leadership of Dr. Amlan Saha, the school will take its rightful place on the education map of the world. <br>All good wishes &amp; God bless!</p>
+						  </div>
+						</div>
+
+          
+						<div class="row quotes">
+						  <div class="profileblock">
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/kulkarni.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+								<h5>Lt. Gen Surendra Kulkarni (Retd.)</h5>
+								<h6>Director, Mayo College, Ajmer</h6>
+							  </div>
+							</div>
+                              <p class="">It has been a privilege to visit The Sagar School. In barely two decades, this institution has launched itself on a frequency of becoming the bench mark for boarding schools. My best wishes.</p>
+						  </div>
+						</div>
+
+		  
+		  
+		  
+		  		<div class="row quotes">
+						  <div class="profileblock">
+                              	<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/bubble.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+								<h5>Rajbir Sandhu</h5>
+								<h6>School Support Director S. Asia &amp; Gulf Round Square</h6>
+							  </div>
+							</div>
+                              
+							<p class="">An enriching visit to this wonderful serene campus and a vibrant school community.  The school has immense potential to contribute to the overall development of the students. Good wishes for your success in all endeavours!</p>
+						
+						  </div>
+						</div>
+
+		  
+		  	<div class="row quotes">
+		  	    <div class="profileblock">
+		  	        <div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/b.r_dubey.jpg">
+								</div>
+
+		  	            <div class="large-10 medium-9 small-9 columns">
+		  	                <h5>B.R. Dubey</h5>
+		  	                <h6 style="line-height: 1.3 !important;">Former Chairman, IPSC <br>Ex Principal Birla Vidya Mandir, Nainital</h6>
+		  	            </div>
+		  	        </div>
+		  	        <p class="">Visiting a School like The Sagar School is a matter of great pleasure. I was overwhelmed to see a beautiful campus well maintained. The Ambience of the school is very attractive. I am here to inspect the school for its membership of IPSC along with two colleagues and take pleasure to mention that the school is one of the best one by all standards.<br>Dr. Saha &amp; team is committed to give in their best. SUPERB overall an excellent world of living here. Good Wishes</p>
+
+		  	    </div>
+		  	</div>
+          
+          
+          <div class="row quotes">
+						  <div class="profileblock">
+                            	<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/inder.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+								<h5>Inderjeet Singh</h5>
+								<h6>Collector &amp; District Magistrate Alwar, Rajasthan
+</h6>
+							  </div>
+							</div>  
+                              
+							<p class="">Had the opportunity of visiting The Sagar School on 31st Aug’19 during the closing ceremony of  `I CAN’ workshop. It is really heartening to know that Alwar is home to such a good School with exemplary vision and state-of-the-art infrastructure. Though the visit was quite short and specific but here one can easily grasp the liveliness and exemplary stuff being put up by The Sagar School Staff. Hope to visit the School soon and interact with staff/students further.</p>
+						
+						  </div>
+						</div>
+		  
+		  <div class="row quotes">
+		      <div class="profileblock">
+		          <div class="profile-detail valign-middle">
+		              <div class="large-2 medium-3 small-3 columns">
+		                  <img src="sagarnewlib/images/testimonials/anand.jpg">
+		              </div>
+		              <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+		                  <h5>Anand Sharma</h5>
+		                  <h6>Deputy Director General of Meteorological, Mausam Bhavan, Delhi.</h6>
+		              </div>
+		          </div>
+
+		          <p class="">It was a great experience to interact with students and staff of this greenest and cleanest school campus. The landscape is fantastic with rich flora and birds and provides the ideal environment for learning. The staff, teachers and management (including the dynamic Principal) are thorough professionals. I am sure this school is going to touch greater heights in the near future and will be the best school in the country. I am highly impressed! <br> Thanks for the invitation.Fallen in love with the place.</p>
+
+		      </div>
+		  </div>
+          
+          
+		  
+           <div class="row quotes">
+						  <div class="profileblock">
+							
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/brig_nk_misra.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns">
+								<h5>Brig. N K Misra (Retd.)</h5>
+								<h6>DIG Faculty of Studies, BSF</h6>
+							  </div>
+							</div>
+                              <p class="">The Sagar School is one of the finest schools in the country. It is as close to nature as possible. We wish all the best to the School.</p>
+						  </div>
+						</div>
+          
+          
+          
+               <div class="row quotes">
+						  <div class="profileblock">
+                              	<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/jamini.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+								<h5>Dr. Jaimini Bhagwati</h5>
+								<h6>The former Indian High Commissioner to UK</h6>
+							  </div>
+							</div>
+                              
+							<p class="">It was such a pleasure to spend time with the talented and highly accomplished students of The Sagar School. The teachers, management and all associated with the school are convinced about what they are doing. Namely, building an exemplary educational institution. My compliments to the Sagar family, the Julkas and the Principal.</p>
+						
+						  </div>
+						</div>
+          
+          
+           <div class="row quotes">
+						  <div class="profileblock">
+						
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/sree_sreenivasan.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns">
+								<h5>Sree Sreenivasan </h5>
+								<h6>Chief Digital Officer<br>The Metropolitan Museum of Art, New York, USA</h6>
+							  </div>
+							</div>
+                              	<p class="">I was delighted to host students from The Sagar School on their visit to the Museum. They asked terrific questions and seeing the museum through their eyes was a treat for me. In the 2+ years that I have been here, this was the first time I've seen a formal group from a school in India visit the Met.</p>
+						  </div>
+						</div>
+          
+          
+                     <div class="row quotes">
+						  <div class="profileblock">
+							
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/dr_steven_edwards.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns">
+								<h5>Steve Edwards, Educationist</h5>
+								<h6>Washington DC, USA</h6>
+							  </div>
+							</div>
+                              <p class="">Incredible experience, the grounds, the facilities are amazing!! In addition, the hospitality of the staff, administration and children is extremely welcoming.</p>
+						  </div>
+						</div>
+          
+          
+          
+            <div class="row quotes">
+						  <div class="profileblock">
+							
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/Gaur.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns">
+								<h5>Gouramangi Singh</h5>
+								<h6>Professional Football Player</h6>
+							  </div>
+							</div>
+                              <p class="">I am in love with everything here!</p>
+						  </div>
+						</div>
+
+          
+          <div class="row quotes">
+						  <div class="profileblock">
+                              	<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/Shiva.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns" style="padding-left: 0;">
+								<h5>Shiva Keshavan</h5>
+								<h6>Six time Olympian, Kullu, Himachal Pradesh</h6>
+							  </div>
+							</div>
+                              
+							<p class="">Wonderful to see the facilities and specially to interact with the students. The staff showed me the lovely extra-curricular and social initiatives which was impressive. Keep striving for excellence. Thank you!!</p>
+						
+						  </div>
+						</div>
+          
+          
+             <div class="row quotes">
+						  <div class="profileblock">
+							
+							<div class="profile-detail valign-middle">
+							  <div class="large-2 medium-3 small-3 columns"> 
+								 <img src="sagarnewlib/images/testimonials/gowri_ishwaran.jpg">
+								</div>
+							  <div class="large-10 medium-9 small-9 columns">
+								<h5>Padma Shri GAURI ISHWARAN</h5>
+								<h6>CEO of the Global Education and Leadership Foundation(tGELF)</h6>
+							  </div>
+							</div>
+                              <p class="">This has been an inspirational visit to a great campus - this is an institution that can be a role model for others. Congrats &amp; Good Luck. 
+
+</p>
+						  </div>
+						</div>
+          
+          
+      </div>
+    </div>
+  </div>
+  
+  <!-- CALENDER -->
+  <div class="large-3 medium-12 small-12 columns " id="SecondRow">
+    <div class="block_BanckgroundBrandColorFour foundersimage" id="four_one"> <span id="whatsHappening" class=""> <a href="https://www.facebook.com/TheSagarSchool/photos/a.752204008137248.1073741835.567617246595926/1367523403271969/?type=3&theater" target="_blank"><img src="sagarnewlib/images/home/foundersday16.png"/></a> </span></span> </div>
+  </div>
+  <!-- CALENDER END --> 
+</div>
+
+<!--Thanks Msg poup starts -->
+<div id="thanksmsg" class="reveal-modal reveal_modal_750" data-reveal aria-labelledby="firstModalTitle" aria-hidden="true" role="dialog">
+  <hr>
+  <h5 class="modal-title cvuploadErr" id="myModalLabel" class="text-center">
+  Thanks, your request has been submitted successfully.
+  </h5>
+  <hr>
+  <a class="close-reveal-modal" aria-label="Close">&#215;</a> </div>
+<!--Thanks Msg poup ends -->
+
+<section class="awardsection margin_top1rem noPaddingLeft noPaddingRight">
+  <div class="row headsectionaward">
+    <div class="large-12 columns " >
+      <h4 style="font-size: .9rem">Awards and Recognition</h4>
+    </div>
+  </div>
+  <div class="row margin_top1rem">
+    <div class="small-4 medium-2 columns " style="padding: 0; margin: 0;"> <img src="sagarnewlib/images/home/educationworld.jpg"> </div>
+    <div class="small-8 medium-10 columns " style="padding: 0; margin: 0;">
+      <h6>RANKED AMONGST THE TOP CO-EDUCATIONAL BOARDING SCHOOLS IN THE COUNTRY</h6>
+      <h6>NO. 1 CO-ED BOARDING SCHOOL IN RAJASTHAN FOR 7 CONSECUTIVE YEARS</h6>
+      <h6>RANKED AT 4TH POSITION IN CAMPUS ARCHITECTURE & DESIGN IN INDIA BY GRAND JURY RANKINGS 2019-20</h6>
+    </div>
+  </div>
+	 <hr style="max-width: 866px; margin-left: auto; margin-right: auto;">
+	
+  <div class="row margin_top1rem">
+    <div class="small-4 medium-2 columns " style="padding: 0; margin: 0;"> <img src="sagarnewlib/images/home/global_education.jpg"> </div>
+    <div class="small-8 medium-10 columns " style="padding: 0; margin: 0;">
+      <h6>WINNER OF THE GREEN SCHOOL OF THE YEAR AWARD (NORTH) </h6>
+      <h6>THE BEST INFRASTRUCTURE (JURY CHOICE) AWARD AT THE GLOBAL EDUCATION AWARDS</h6>
+    </div>
+  </div>
+</section>
+<div class="clearfix"></div>
+<div class="row margin_top1rem fixwidthbg">
+  <div class="large-12 columns noPaddingLeft noPaddingRight slider2">
+    <section>
+      <div class="row">
+        <div class="large-12 medium-12 columns slider2"> 
+          <!-- Swiper -->
+          <div class="swiper-container2">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide"></div>
+              <div class="swiper-slide"> <a href="social_outreach_programme.php">
+                <h4>Social Outreach Programme</h4>
+                </a> </div>
+              <div class="swiper-slide"> <a href="ba_performing_creative_arts.php">
+                <h4>Performing &amp;<br>
+                  Creative Arts</h4>
+                </a> </div>
+              <div class="swiper-slide"> <a href="sports.php">
+                <h4>Sports</h4>
+                </a> </div>
+              <!--
+									<div class="swiper-slide">
+										<a href="ba_music_dance.php">
+										<h4>Dance<br>&amp; Music</h4>
+										</a>
+									</div>
+--> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!--   <div class="row margin_top1rem" >
+    	<div class="large-12  columns noPaddingLeft noPaddingRight" style="background:url(sagarnewlib/images/background_homeFooter_Slider.png) no-repeat top left; background-size:cover; max-width:1164px;">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                    	<div>&amp;</div>
+                    </div>
+                    <div class="swiper-slide">Slide 2</div>
+                     <div class="swiper-slide">Slide 2</div>
+                      <div class="swiper-slide">Slide 2</div>
+                </div>
+                
+                <div class="swiper-pagination"></div>
+            </div>
+   		 </div>
+    </div>--> 
+
+<!--Footer Section Ends-->
+
+  
+<section id="Sectionfooter" class="">
+    <div class="row margin_top1rem " style="padding:1.5rem 1rem; background-color:#863442; ">
+        <div class="large-4 medium-6 small-12 columns " id="school_address">
+
+
+            <h6 class="colourWhite margin_top1rem">The Sagar School</h6>
+            <p class="colourWhite">Village Baghor, Tehsil Tijara<br>
+                District Alwar-301411, Rajasthan<br>
+               National Capital Region, India </p>
+
+
+
+            <p class="colourWhite">
+                <i class="fa fa-map-marker" style="font: 1.4rem/1 FontAwesome !important; color:#FFFFFF !important;"></i>
+                <a href="https://www.google.com/maps/dir/Current+Location/The+Sagar+School,+Village+Baghor,+Tehsil+Tijara,+Near+Maliyar+Gurjar,+Alwar,+Rajasthan+301411,+India/@27.8868665,76.8973166,10z" class="colourWhite">
+                    Get Directions</a><br>
+
+                <i class="fa fa-phone" style="font: 1.2rem/1 FontAwesome !important;"></i>
+                <a href="tel:+91 99833 08801" class="colourWhite">+91 99833 08801</a> – 04,
+                <a href="tel:+91 98710 98498" class="colourWhite">+91 98710 98498</a><br>
+                <i class="fa fa-envelope" style="font: 0.99rem/1 FontAwesome !important; "></i> <a href="/cdn-cgi/l/email-protection#91f8fff7fed1e5f9f4e2f0f6f0e3e2f2f9fefefdbffee3f6" class="colourWhite"><span class="__cf_email__" data-cfemail="96fff8f0f9d6e2fef3e5f7f1f7e4e5f5fef9f9fab8f9e4f1">[email&#160;protected]</span></a><br>
+                <a href="/cdn-cgi/l/email-protection#cbbbb9aeb3aea8bebfa2bdae8bbfa3aeb8aaacaab9b8a8a3a4a4a7e5a4b9ac" class="colourWhite">
+                    <span class="__cf_email__" data-cfemail="b0c0c2d5c8d5d3c5c4d9c6d5f0c4d8d5c3d1d7d1c2c3d3d8dfdfdc9edfc2d7">[email&#160;protected]</span></a></p>
+
+        </div>
+
+
+        <div class="large-5 small-12 columns hide-for-medium-down">
+            <ul class="colourWhite" id="links">
+                <li>
+                    <ul style=" text-transform:capitalize !important;">
+                        <li><a href="https://thesagarschool.org/curriculum.php" class="colourWhite">Academics</a> </li>
+                        <li><a href="https://thesagarschool.org/calendar.php" class="colourWhite">Calendar</a></li>
+                        <li><a href="https://thesagarschool.org/newsletters.php" class="colourWhite">Newsletters</a></li>
+                        <li><a href="https://thesagarschool.org/sports.php" class="colourWhite">Sports</a></li>
+                        <li><a href="https://thesagarschool.org/fees-structure.php" class="colourWhite">Fee Structure</a></li>
+
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li><a href="https://thesagarschool.org/days-schedule.php" class="colourWhite">Day’s Schedule</a></li>
+                        <li><a href="https://thesagarschool.org/gallery.php" class="colourWhite">Gallery</a></li>
+                        <li><a href="https://thesagarschool.org/theatre.php" class="colourWhite">Theatre</a></li>
+                        <li><a href="https://thesagarschool.org/workshops.php" class="colourWhite">Workshops</a></li>
+                        <li><a href="https://thesagarschool.org/downloads.php" class="colourWhite">Downloads</a></li>
+
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li><a href="https://thesagarschool.org/alumni.php" class="colourWhite">Alumni</a></li>
+                        <li><a href="https://thesagarschool.org/press.php" class="colourWhite">Press</a></li>
+<!--                        <li><a href="http://thesagarschool.org/ba_community_service.php" class="colourWhite">Community Service</a></li>-->
+                        <li><a href="https://thesagarschool.org/social-outreach-programme.php" class="colourWhite">Social Outreach Programme</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <ul>
+                        <li><a href="https://thesagarschool.org/celebrations.php" class="colourWhite">Celebrations</a></li>
+                        <li><a href="https://thesagarschool.org/boarding-house-common-room.php" class="colourWhite">Boarding Life</a></li>
+                        <li><a href="https://thesagarschool.org/vritual-tour.php" class="colourWhite">Virtual Tour</a></li>
+                        <li><a href="https://thesagarschool.org/reach-us.php" class="colourWhite">Contact Us</a></li>
+                        <!--<li><a href="http://thesagarschool.org/hoildayHomework.php" class="colourWhite">Holiday Homework</a> </li>    -->
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+
+
+
+        <div class="large-3 medium-6 small-12 columns">
+
+            <h6 class="colourWhite margin_top1rem">SIGN UP FOR OUR NEWSLETTER</h6>
+            <form>
+
+                <div class="row collapse margin_top1rem" id="SecondRow">
+                    <!--<div class="small-9 columns noPaddingRight noPaddingLeft">
+                      <input type="email" placeholder="E-MAIL" class="subscribe_input">
+                    </div>-->
+                    <div class="small-12 columns noPaddingLeft">
+                        <a href="#" class="button postfix subscribe_submit" data-reveal-id="newsletter_subscriptionform">SUBSCRIBE</a>
+                    </div>
+                </div>
+
+
+            </form>
+
+            <!--        hide-for-medium-down-->
+
+            <h6 class="colourWhite ">FOLLOW US</h6>
+            <nav class="margin_top1rem">
+                <a href="https://www.facebook.com/TheSagarSchool" target="_blank"><i class="fa fa-facebook facebook_footer" style="font: 1.2rem/1 FontAwesome !important;"></i></a>
+                <a href="https://twitter.com/thesagarschool" target="_blank"><i class="fa fa-twitter twitter_footer" style="  font: 1.2rem/1 FontAwesome !important;"></i></a>
+                <!--                <a href="https://plus.google.com/108838815464035718181/about" target="_blank"><i class="fa fa-google-plus google_footer" style="font: 1.2rem/1 FontAwesome !important;"></i></a>-->
+                <a href="https://instagram.com/thesagarschool/" target="_blank"><i class="fa fa-instagram instagram_footer" style="font: 1.2rem/1 FontAwesome !important;"></i></a>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row" style="background-color:#511925;">
+        <div class="large-12 columns">
+            <span class="colourWhite" style="display:block; text-align:center; padding:.75rem 0;">Copyright &copy; 2020. All rights reserved. The Sagar School</span>
+        </div>
+    </div>
+</section>
+
+<!--Alumini Pop up Stars-->
+
+<div id="alumniRegister" class="reveal-modal reveal_modal_750" data-reveal aria-labelledby="firstModalTitle" aria-hidden="true" role="dialog">
+    <h5 class="modal-title alumniErr" id="myModalLabel">Fill in the required fields</h5>
+    <hr>
+    <form id="alumniSubmit_frm" method="POST" name="alumniform" enctype="multipart/form-data" target="rame" onSubmit="return formvalidate();" action="#">
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Full Name*</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="alumni_name" value="" name="fullname" placeholder="Enter Full Name" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Email*</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="alumni_email" value="" placeholder="username@domain.com" name="email">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Contact Number</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="right-label" placeholder="+91-98 xxxx xxxx" name="contact" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Batch Passout*</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <select name="batch_passout" id="alumni_batch">
+                            <option value="blank">Select Batch</option>
+                            <option value="2014">2014</option>
+                            <option value="2013">2013</option>
+                            <option value="2012">2012</option>
+                            <option value="2011">2011</option>
+                            <option value="2010">2010</option>
+                            <option value="2009">2009</option>
+                            <option value="2008">2008</option>
+                            <option value="2007">2007</option>
+                            <option value="2006">2006</option>
+                            <option value="2005">2005</option>
+                            <option value="2004">2004</option>
+                            <option value="2003">2003</option>
+                            <option value="2002">2002</option>
+                            <option value="2001">2001</option>
+                        </select>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class="left inline">Profession</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="right-label" value="" placeholder="Profession" name="profession" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class="left inline">Designation</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="right-label" placeholder="Designation" name="designation" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="checkbox" name="suscribed" />
+                        <label for="right-label" class="inline"> Subscribe for updates.</label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="large-4 columns large-push-4">
+                        <input type="submit" id="alumniSubmit" name="alumniregister" value="SUBMIT" class="button modal_submit" />
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="large-4 columns large-push-4">
+                        <span style="color:#5CB85C; display:inline-block; margin-right: 6rem; margin-top: 5px;width:80%;">
+                            <span id="success" style="display:none;">Successfully Registered</span>&nbsp;</span> </div>
+                </div>
+
+                <div style="display:none">
+                    <div class="row margin_top1rem">
+                        <div class="large-12 columns">
+                            <span style="display:block; width:100%;" class="backgroundLightGrey">
+                                <label class="inline text-center ">or</label></span>
+                        </div>
+                        <div class="large-8 columns">
+
+                        </div>
+                    </div>
+
+
+                    <div class="row margin_top1rem">
+                        <div class="large-12 columns text-center">
+                            <span style="display:block; width:100%;" class="">
+                                <a href="https://thesagarschool.org/alumni.php?login=linkedin">.<i class="fa fa-linkedin-square brandColour text-center " style="font: 2.2rem/1 FontAwesome !important;"></i></a>
+                            </span>
+                        </div>
+                        <div class="large-8 columns">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </form>
+    <iframe name="ramer" id="ramer" style="display:none;">
+
+
+        <div></div><div></div><div></div><div></div><div></div><div></div>    </iframe>
+    <iframe name="rame" id="rame" style="display:none;"></iframe>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+<!--Alumini Pop up Ends-->
+
+
+<!--Newsletter Subscription Form starts-->
+
+
+<div id="newsletter_subscriptionform" class="reveal-modal reveal_modal_750" data-reveal aria-labelledby="firstModalTitle" aria-hidden="true" role="dialog">
+    <h5 class="modal-title suscribedErr" id="myModalLabel">Select the subscription list's.</h5>
+    <!--<h5 id="firstModalTitle">Fill in the required fields</h5>-->
+    <hr>
+    <form id="suscriber_frm" method="POST" enctype="multipart/form-data">
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Full Name</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="suscriber_name" name="suscriber_name" placeholder="Enter Full Name">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Email</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="suscriber_email" placeholder="username@domain.com" name="email">
+                    </div>
+                </div>
+                
+                  <input style="display:none;" type="email" id="suscriberemail" name="suscriberemail">
+             
+  
+ 
+                <div class="row">
+                    <div class="large-4 columns">
+
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="checkbox" name="general_updates" class="subscribeCheckbox"><label for="right-label" class="inline">
+                            General updates.</label><br />
+                        <input type="checkbox" name="vaccancy_updates" class="subscribeCheckbox"><label for="right-label" class="inline">
+                            Vaccancy updates.</label><br />
+                        <input type="checkbox" name="alumni_updates" class="subscribeCheckbox"><label for="right-label" class="inline">
+                            Alumni updates.</label><br />
+                        <input type="checkbox" name="academics_updates" class="subscribeCheckbox"><label for="right-label" class="inline">
+                            Academics updates.</label><br />
+                        <input type="checkbox" name="newsletter_updates" class="subscribeCheckbox"><label for="right-label" class="inline">
+                            Newsletter updates.</label><br />
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="large-4 columns">
+                        <input type="submit" id="btnSubmit" name="suscriptionubmit" value="SUBMIT" class="button modal_submit subscribe">
+                    </div>
+                    <div class="large-8 columns">
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </form>
+     
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+<!--Newsletter Subscription Form Ends-->
+
+<!--Four Blocks Section Ends-->
+<div id="firstModal" class="reveal-modal reveal_modal_750" data-reveal aria-labelledby="firstModalTitle" aria-hidden="true" role="dialog">
+    <h5 class="modal-title cvuploadErr" id="myModalLabel">Fill in the required fields</h5>
+    <!--<h5 id="firstModalTitle">Fill in the required fields</h5>-->
+    <hr>
+    <form id="uploadCV_frm" method="POST" enctype="multipart/form-data">
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Full Name</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="condidate_name" name="name" placeholder="Enter Full Name">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Email</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="condidate_email" placeholder="username@domain.com" name="email">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Contacts Number</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="text" id="right-label" placeholder="+91-98 xxxx xxxx" name="phone">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Batch</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <select name="job" id="jobType">
+                            <option value="select">Select Position</option>
+                            <option value="starbuck">PA to Principal</option>
+                            <option value="Physics">Physics</option>
+                            <option value="History">History</option>
+                            <option value="Swimming">Swimming</option>
+                            <option value="House Parent">House Parent</option>
+                            <option value="Mathematics">Mathematics</option>
+                            <option value="Horse Riding Trainer">Horse Riding Trainer</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+                        <label for="right-label" class=" left inline">Upload CV</label>
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="file" name="cv" id="right-label" placeholder="Select CV">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-4 columns">
+
+                    </div>
+                    <div class="large-8 columns">
+                        <input type="checkbox" value="job_subscription">
+                        <label for="right-label" class="inline"> Subscribe for updates.</label>
+                    </div>
+                </div>
+
+
+
+                <div class="row">
+                    <div class="large-4 columns">
+                        <input type="button" id="uploadCv" name="submit" value="SUBMIT" class="button modal_submit">
+                    </div>
+                    <div class="large-8 columns">
+
+                    </div>
+                </div>
+
+                <div class="row margin_top1rem">
+                    <div class="large-12 columns">
+                        <span style="display:block; width:100%;" class="backgroundLightGrey">
+                            <label class="inline text-center ">or</label></span>
+                    </div>
+                    <div class="large-8 columns">
+
+                    </div>
+                </div>
+
+
+                <div class="row margin_top1rem">
+                    <div class="large-12 columns text-center">
+                        <span style="display:block; width:100%;" class="">
+                            <i class="fa fa-linkedin-square brandColour text-center " style="font: 2.2rem/1 FontAwesome !important;"></i>
+                        </span>
+                    </div>
+                    <div class="large-8 columns">
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </form>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    function formvalidate() {
+        var Name = document.alumniform.fullname.value;
+        var Email = document.alumniform.email.value;
+        var atposition = Email.indexOf("@");
+        var dotposition = Email.lastIndexOf(".");
+
+
+        if ((Name == null || Name == "") || (atposition < 1 || dotposition < atposition + 2 || dotposition + 2 >= Email.length) || (document.getElementsByName('batch_passout')[0].value == 'blank')) {
+
+            if (Name == null || Name == "") {
+                document.getElementById('alumni_name').style.setProperty('border-color', '#ff0000', 'important');
+                setTimeout(function() {
+                    document.getElementById('alumni_name').style.setProperty('border-color', '#863442', 'important');
+                }, 3000);
+            }
+
+
+            if (document.getElementsByName('batch_passout')[0].value == 'blank') {
+                document.getElementById('alumni_batch').style.setProperty('border-color', '#ff0000', 'important');
+                setTimeout(function() {
+                    document.getElementById('alumni_batch').style.setProperty('border-color', '#863442', 'important');
+                }, 3000);
+            }
+
+            if (atposition < 1 || dotposition < atposition + 2 || dotposition + 2 >= Email.length) {
+                document.getElementById('alumni_email').style.setProperty('border-color', '#ff0000', 'important');
+                setTimeout(function() {
+                    document.getElementById('alumni_email').style.setProperty('border-color', '#863442', 'important');
+                }, 3000);
+            }
+            return false;
+        } else {
+            setTimeout(function() {
+                $('#success').fadeIn(1500).show();
+                $('#success').fadeOut(5000);
+                document.getElementById('success').style.setProperty('display', 'inline-block');
+                setTimeout(function() {
+                    window.location.reload();
+                }, 4000);
+            }, 3000);
+        }
+
+
+    }
+
+</script>
+
+
+<!--Four Blocks Section Ends-->
+<!--Four Blocks Section Ends-->
+<script>
+    $('.subscribe').click(function() {
+        $(".suscribedErr").html("Select the subscription list's.");
+        var mname = $('#suscriber_name').val();
+        var memail = $('#suscriber_email').val();
+        var atpositioned = memail.indexOf("@");
+        var dotpositioned = memail.lastIndexOf(".");
+        if (mname == '' || memail == '' || atpositioned < 1 || dotpositioned < atpositioned + 2 || dotpositioned + 2 >= memail.length) {
+            $(".suscribedErr").html("Please enter Name and Email Address");
+            return false;
+        }
+        $.ajax({
+            url: "sagarnewlib/includes/submit-mailchimp-form.php",
+            type: 'POST',
+            data: $('form#suscriber_frm').serialize(),
+            beforeSend: function() {
+                $("#btnSubmit").attr("disabled", true);
+            },
+            success: function(results) {
+                $("#newsletter_subscriptionform").html();
+                if (results == "Thank You for Subscribing") {
+                    $("#newsletter_subscriptionform").html('<h5> You Have successfully suscribed. Please Check Your email !!</h5><a aria-label="Close" class="close-reveal-modal">X</a>');
+                } else {
+                    $("#newsletter_subscriptionform").html('<h5>' + results + '</h5><a aria-label="Close" class="close-reveal-modal">X</a>');
+                }
+                $('#suscriber_frm').trigger("reset");
+
+            }
+        });
+        return false;
+    })
+
+</script>
+
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-6639166-1', 'thesagarschool.org');
+    ga('send', 'pageview');
+
+</script>
+
+<!--Accordian Icon Change Script-->
+<script>
+
+</script>
+<!--Footer Section Ends--> 
+
+<!--<script src="js/vendor/jquery.js"></script>--> 
+<script src="sagarnewlib/js/foundation.min.js"></script> 
+<script>
+      $(document).foundation();
+    
+    
+	</script> 
+<script id="addJS">jQuery(document).ready(function($) {
+  $('#full-width-slider').royalSlider({
+	autoHeight: true,
+    arrowsNav: true,
+    fadeinLoadedSlide: false,
+    controlNavigationSpacing: 0,
+    controlNavigation: '',
+    imageScaleMode: 'none',
+    imageAlignCenter:false,
+    loop: true,
+	autoPlay: {
+    		enabled: true,
+    		pauseOnHover: true,
+                delay : 3000
+    	},
+    loopRewind: true,
+	transitionType:'fade',
+	easeOut :'easeOutSine',
+	sliderTouch :true,
+    numImagesToPreload: 6,
+    keyboardNavEnabled: true,
+    usePreloader: true, 	  
+	  
+	
+  });
+});
+</script> 
+<script>
+	function InOut( elem )
+		{
+			 elem.delay()
+				 .fadeIn()
+				 .delay(10000)
+				 .fadeOut( 
+						   function(){ 
+							   if(elem.next().length > 0)
+							   {InOut( elem.next() );}
+							   else
+							   {InOut( elem.siblings(':first'));}
+									 
+							 }
+						 );
+			}
+			
+			$(function(){
+			$('#newsList_homepage li').hide();
+			InOut( $('#newsList_homepage li:first') );
+			
+			});
+	
+
+</script> 
+<script>
+	function InOut( elem )
+		{
+			 elem.delay()
+				 .fadeIn()
+				 .delay(2000)
+				 .fadeOut( 
+						   function(){ 
+							   if(elem.next().length > 0)
+							   {InOut( elem.next() );}
+							   else
+							   {InOut( elem.siblings(':first'));}
+									 
+							 }
+						 );
+			}
+			
+		
+			$(function(){
+			$('#testimonial li').hide();
+			InOut( $('#testimonial li:first') );
+				$('#testimonial01 li').hide();
+			InOut( $('#testimonial01 li:first') );
+			
+			});
+	
+	
+		(function() {
+
+    var quotes = $(".quotes");
+    var quoteIndex = -1;
+    function showNextQuote() {
+        ++quoteIndex;
+        quotes.eq(quoteIndex % quotes.length)
+            .fadeIn(700)
+            .delay(20000)
+            .fadeOut(700, showNextQuote);
+    }
+    showNextQuote();
+    
+})();
+	
+
+</script> 
+<script>
+	function InOut( elem )
+		{
+			 elem.delay()
+				 .fadeIn()
+				 .delay(9000)
+				 .fadeOut( 
+						   function(){ 
+							   if(elem.next().length > 0)
+							   {InOut( elem.next() );}
+							   else
+							   {InOut( elem.siblings(':first'));}
+									 
+							 }
+						 );
+			}
+			
+	
+	
+		$(function(){
+		
+				$('#admission li').hide();
+			InOut( $('#admission li:first') );
+			
+			});
+	
+	
+
+</script> 
+
+<!--Mobile Navigation Footer Starts-->
+</section>
+
+  <a class="exit-off-canvas"></a>
+
+  </div>
+</div>
+<!--Mobile Navigation Footer Ends--> 
+
+<!--Instagram Script Starts--> 
+<script type="text/javascript">
+$(document).ready(function() {
+	
+/*----------------------------- Insta Feed show ---------------------------------*/
+
+var loading  = false; //to prevents multipal ajax loads
+$(window).scroll(function(){
+	if($(window).scrollTop() + $(window).height() == $(document).height()) {
+		//alert($(".hashtagstab").hasClass("active"))
+		if($(".hashtagstab").hasClass("active")){
+			var maxtagid = $("#maxtagid").val();
+			//alert(maxtagid);
+			if ($(window).scrollTop() == $(document).height() - $(window).height()){
+			if(maxtagid!="" && loading==false) {
+				 loading = true; //prevent further ajax loading
+				 var url = 'https://api.instagram.com/v1/tags/SAFOMASI/media/recent?access_token=&max_tag_id='+maxtagid;
+				// setTimeout(function() {
+						getresult(url);
+				// },1000);
+			}
+			}
+		}else if($(".memberstab").hasClass("active")){
+			//alert("coming");
+			var maxid = $("#maxid").val();
+			if ($(window).scrollTop() == $(document).height() - $(window).height()){
+			if(maxid!="" && loading==false) {
+				 loading = true; //prevent further ajax loading
+				 var url = 'https://api.instagram.com/v1/users/1916832747/media/recent/?access_token=&max_id='+maxid;
+				// setTimeout(function() {
+				 getmembersresult(url);
+				// },1000);
+			}
+			}
+		}
+	}
+});
+
+function getmembersresult(url){
+	//alert(url);
+	$("#maxid").remove();
+	$.ajax({
+		url: url,
+		crossDomain: true,
+		dataType : 'jsonp',
+		type: "GET",
+		beforeSend: function(){$('#loader-icon').show();},
+		complete: function(){$('#loader-icon').hide();},
+		success:function(data){showmembersresult(data)},
+		error: function(){} 	        
+	});
+}
+
+function getresult(url) {
+	$("#maxtagid").remove();
+	$.ajax({
+		url: url,
+		crossDomain: true,
+		dataType : 'jsonp',
+		type: "GET",
+		beforeSend: function(){$('#loader-icon').show();},
+		complete: function(){$('#loader-icon').hide();},
+		success:function(data){showresult(data)},
+		error: function(){} 	        
+	});
+}
+
+function showresult(response){
+
+var html = [];
+var commentshtml="";
+html.push('<input type="hidden" name="maxtagid" id="maxtagid" value="'+response.pagination.next_max_tag_id+'">');
+$.each(response.data, function(key, value) {
+	
+html.push('<div class="col-xs-4 col-sm-2 col-md-2 nopadng"> <a href="#" class="thumbnail" data-toggle="modal"  data-target="#'+value.id+'"><div class="imageHolder"> <img src="'+value.images.standard_resolution.url+'" alt=""><div class="caption"> <span>'+value.caption.from.username+'</span></div></div></a></div>');
+
+if(value.comments.count>0){
+		$.each(value.comments.data, function(k, v) {
+			 commentshtml = '<div class="row cment"><div class="col-xs-12 col-sm-12 col-md-12 toppadng"><div class="col-xs-2 nopadng"><img src="'+v.from.profile_picture+'"  width="50" height="50" class="img-circle"></div><div class="col-xs-10 "><h3>'+v.from.full_name+'</h3><h4>'+v.text+'</h4> <h6>'+v.created_time+'</h6></div></div></div>';
+		});
+}
+
+html.push('<div class="modal fade" id="'+value.id+'" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="images/close.png"></span></button><div class="modal-dialog"><div class="modal-content" ><div class="modal-body"><div class="col-xs-12 col-sm-7 col-md-7 nopadng"><img src="'+value.images.standard_resolution.url+'"></div><div class="comtare_mn"><div class="col-xs-12 col-sm-5 col-md-5 toppadng" style="width:100% !important;"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 "><div class="col-xs-2 nopadng"><img src="'+value.user.profile_picture+'"  width="50" height="50"></div><div class="col-xs-7 "><h3><a href="https://instagram.com/'+value.user.username+'" target="_blank">'+value.user.full_name+'</a></h3><h4>'+value.created_time+'</h4></div><div class="col-xs-3 nopadng"><a class="btnS" href="https://instagram.com/'+value.user.username+'" target="_blank">Follow</a></div></div></div><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 toppadng">'+value.caption.text+'</div></div><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 toppadng"> <h5> <a href="https://instagram.com/SAFOMASI/" target="_blank">instagram</a></h5></div></div>'+commentshtml+'</div></div><div class="clearfix"></div></div></div></div></div>');
+});
+
+
+$("#instafeed #instafeeddata").append(html);
+loading  = false;
+}
+
+function showmembersresult(response){
+var html = [];
+html.push('<input type="hidden" name="maxid" id="maxid" value="'+response.pagination.next_max_id+'">');
+$.each(response.data, function(key, value) {
+	html.push('<div class="col-xs-3 col-sm-3 col-md-3 nopadng"><a href="#" class="thumbnail" data-toggle="modal"  data-target="#'+value.id+'"><div class="imageHolder"> <img src="'+value.images.standard_resolution.url+'" alt=""><div class="caption"> <span>@SAFOMASI</span></div></div></a></div>');
+	
+if(value.comments.count>0){
+		$.each(value.comments.data, function(k, v) {
+			 commentshtml = '<div class="row cment"><div class="col-xs-12 col-sm-12 col-md-12 toppadng"><div class="col-xs-2 nopadng"><img src="'+v.from.profile_picture+'"  width="50" height="50" class="img-circle"></div><div class="col-xs-10 "><h3>'+v.from.full_name+'</h3><h4>'+v.text+'</h4> <h6>'+v.created_time+'</h6></div></div></div>';
+		});
+}
+
+html.push('<div class="modal fade" id="'+value.id+'" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><img src="images/close.png"></span></button><div class="modal-dialog"><div class="modal-content" ><div class="modal-body"><div class="col-xs-12 col-sm-7 col-md-7 nopadng"><img src="'+value.images.standard_resolution.url+'"></div><div class="comtare_mn"><div class="col-xs-12 col-sm-5 col-md-5 toppadng" style="width:100% !important;"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 "><div class="col-xs-2 nopadng"><img src="'+value.user.profile_picture+'"  width="50" height="50"></div><div class="col-xs-7 "><h3><a href="https://instagram.com/'+value.user.username+'" target="_blank">'+value.user.full_name+'</a></h3><h4>'+value.created_time+'</h4></div><div class="col-xs-3 nopadng"><a class="btnS" href="https://instagram.com/'+value.user.username+'" target="_blank">Follow</a></div></div></div><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 toppadng">'+value.caption.text+'</div></div><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 toppadng"> <h5> <a href="https://instagram.com/SAFOMASI/" target="_blank">instagram</a></h5></div></div>'+commentshtml+'</div></div><div class="clearfix"></div></div></div></div></div>');
+});
+
+
+$("#members #membersdata").append(html);
+loading  = false;
+}
+/*----------------------------- Insta Feed show ---------------------------------*/
+
+
+
+});
+
+
+</script> 
+<!--Instagram Script Ends--> 
+
+<!--Swiper Starts--> 
+<script class="rs-file" src="sagarnewlib/js/swiper.min.js"></script> 
+<!-- Initialize Swiper --> 
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        paginationClickable: true
+    });
+    </script>
+<script>	
+	$('.linkedinsignIn').on('click', function(e){
+        window.location.href = 'process.php';
+});
+	</script> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6639166-1', 'thesagarschool.org');
+  ga('send', 'pageview');
+
+</script> 
+
+<!-- Initialize Swiper2 --> 
+<script>
+		var swiper2 = new Swiper('.swiper-container2', {
+//			pagination: '.swiper-pagination',
+			slidesPerView: 3,
+			slidesPerColumn: 2,
+			paginationClickable: true,
+			spaceBetween: 15,
+			breakpoints: {
+				// when window width is <= 480px
+				480: {
+				  slidesPerColumn: 1,
+				  initialSlide: 1,
+				  slidesPerView: 3,
+				},
+				// when window width is <= 640px
+				640: {
+				  slidesPerColumn: 1,
+				  slidesPerView: 3,
+				}
+			  }
+		});
+	</script>
+</body>
+</html>

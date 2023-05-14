@@ -1,0 +1,1299 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="google-site-verification" content="q9feO2zCeNbK_EyxLrkvmiNrppq53QeY_8BWXr9yuSw" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nehru Yuva Kendra Sangathan</title>
+
+<style>
+.lnkstyle
+{
+    text-decoration:none;
+    color:White;
+   
+}
+
+.img {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+    -moz-filter: grayscale(0);
+    -o-filter: grayscale(0);
+    -ms-filter: grayscale(0);
+    transition:all 0.6s ease-in-out;  
+    border: 1px solid #000000; 
+    border-radius:5px;
+      padding:5px;
+    }
+.img:hover {
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(1);
+    -o-filter: grayscale(1);
+    -ms-filter: grayscale(1);
+    border: 1px solid #ffffff;
+    border-radius:5px;
+    padding:5px;
+    }
+
+
+</style>
+
+
+<!-- for scrolldiv -->
+         <link href="ScrollDiv/ScrollDivCss/flexslider.css" rel="stylesheet" /> 
+
+        <link href="ScrollDiv/ScrollDivCss/site_bootstrap_required.css" rel="Stylesheet" />
+        <script type="text/javascript" src="ScrollDiv/ScrollDivJS/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="ScrollDiv/ScrollDivJS/jquery.easing.min.js" defer></script>
+        <script type="text/javascript" src="ScrollDiv/ScrollDivJS/jquery.easy-ticker.js" defer></script>
+         <script type="text/javascript" src="ScrollDiv/ScrollDivJS/jquery.flexslider.js" defer></script>
+        <script type="text/javascript" src="ScrollDiv/ScrollDivJS/wow.js" defer></script>
+        <script>
+            $(function () {
+                $("#accordion").accordion();
+            });
+        </script>
+
+
+<!-- for scrolldiv css and js above -->
+
+
+
+<link href="css/cssbottom.css" rel="stylesheet" type="text/css" />
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="fontsize/sizejs.js"></script>
+<script src='js/jquery-1.3.2.min.js' type='text/javascript'></script>
+<script src="js/nivoslider.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	//Default Action
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+	
+	//On Click Event
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(600); //Fade in the active content
+		return false;
+	});
+    
+});
+</script>
+    <style type="text/css">
+        .style1
+        {
+            font-family: Arial;
+        }
+    </style>
+</head>
+
+<body>
+<div id="top">
+<div id="top-left"><a href="index.html"><img src="images/index.png" width="86" height="166" /></a></div>
+<div id="top-center">World&#39;s Largest Youth Network</div>
+  <div id="top-right">
+
+  <div id="top-icons">
+    
+         <img  src="images/aminus.png" title="Decrease Size" alt="Decrease Size" border="0" onclick="setFont('body',-1,0)" onkeypress="setFont('body',-1,0)"/>
+         <img  src="images/a.png" title="Default Size" alt="Default Size" border="0" onclick="setFont('body',0,1)" onkeypress="setFont('body',0,1)"/>&nbsp;
+         <img  src="images/aplus.png" title="Increase Size" alt="Increase Size" border="0" onclick="setFont('body',1,0)" onkeypress="setFont('body',1,0)"/>
+          
+     <a href="http://nyks.nic.in/NYKSApp/login/loginnicnew.aspx"><img src="images/login.png" /></a>
+      <a href="https://www.facebook.com/nyksindia" target="_blank"><img src="images/fb-icon.jpg" /></a> <a href="https://www.youtube.com/channel/UC92JD6qkHMDq6oiDftS6RbQ/videos" target="_blank"><img src="images/youtube-icon.jpg" /></a> <!--<a href="https://plus.google.com/b/116806158866451609243/116806158866451609243/posts" target="_blank"><img src="images/picasa.png" /></a>--> <a href="https://twitter.com/Nyksindia" target="_blank"><img src="images/twitter-icon.jpg" /></a>
+      </div>
+
+   <!-- <div id="top-icons"> <a href="http://nyks.nic.in/nyc/login.aspx"><img src="images/login.png" /></a> <a href="https://www.facebook.com/nyksindia" target="_blank"><img src="images/fb-icon.jpg" /></a> <a href="https://www.youtube.com/channel/UC92JD6qkHMDq6oiDftS6RbQ/videos" target="_blank"><img src="images/youtube-icon.jpg" /></a> <a href="https://plus.google.com/b/116806158866451609243/116806158866451609243/posts" target="_blank"><img src="images/picasa.png" /></a> <a href="https://twitter.com/Nyksindia" target="_blank"><img src="images/twitter-icon.jpg" /></a>
+    
+    
+     </div>-->
+    
+    
+    
+    <div class="clear"></div>
+<div class="hindi-english"><a href="http://nyks.nic.in/hindi/index.html"><img src="images/hindi-english.gif" border="0" /></a>
+<map name="Map" id="Map"><area shape="rect" coords="70,4,104,17" href="#" /></map></div>
+
+<p>
+<div class="clear"></div>
+<div id="search">
+
+<form method="get" action="http://www.google.com/search" target="_blank">
+<div>
+
+<table border="0" cellpadding="0">
+<tr><td>
+<input type="text" name="q" size="15" maxlength="255" value=""/>
+<input type="submit" value=" Go"/></td></tr>
+
+<tr><td align="center" style="font-size:75%">
+
+</td></tr></table>
+</div>
+</form>
+
+
+</p>
+</div>
+
+</div>
+<!----- top right ends ---->
+<div id="topmenus">
+
+  <ul><!--<li><a href="http://nyks.nic.in/NYC/JOINUSYOUTH/JoinUs.html"><img src="images/joinus1.gif" height="15" /></a></li>-->
+  <li><a href="http://nyks.nic.in/NYKSApp/joinus/joinus.html"><img src="images/joinus1.gif" height="15" /></a></li>
+  </ul>
+<ul><li><a href="http://nyks.nic.in">Home</a></li></ul>
+  <ul>
+
+<li><a href="#">About Us </a>
+  <ul>
+    <li><a href="http://nyks.nic.in/aboutus/About-nyks.html">About NYKS</a></li>
+    <li><a href="http://nyks.nic.in/aboutus/Structure.html">Structure</a></li>
+    <li><a href="http://nyks.nic.in/aboutus/Board-of-Governors.html">Board of Governers</a></li>
+	
+ <li><a href="#">Committees</a>
+            <ul class="level">
+				<li> <a href="http://nyks.nic.in/aboutus/Parliamentary-Standing-Committee.html">Parliamentry Standing Committee</a> </li>
+			    <li> <a href="http://nyks.nic.in/aboutus/State-Advisory-Committee.html">State Advisory Committee on Youth Programmes</a> </li>
+				<li> <a href="http://nyks.nic.in/aboutus/District-Advisory-Committee.html">District Advisory Committee on Youth Programmes</a> </li>
+
+           </ul>
+
+</li>
+  
+  </ul>
+  </li></ul>
+  
+  
+  <ul><li><a href="#">Initiatives</a>
+          <ul>
+        
+             <li><a href="http://nyks.nic.in/NewInitiatives/NewInitiative.html">New Initiatives</a></li>
+           
+          </ul>
+  </li></ul>
+  
+  
+  <ul><li><a href="#">Resources</a>
+      <ul>
+            <li><a href="http://nyks.nic.in/resources/vacancies.html">Vacancies</a></li>
+            <li><a href="http://nyks.nic.in/resources/tenders.html">Tenders </a></li>
+            <li><a href="http://nyks.nic.in/resources/Circulars.html">Circulars</a></li>
+            <li><a href="http://nyks.nic.in/resources/Success-Stories.html">Success Stories</a></li>
+            <li><a href="http://nyks.nic.in/resources/photo-gallery.html">Photo Gallery</a></li>
+            <li><a href="http://nyks.nic.in/resources/video-gallery.html">Video Gallery</a></li>
+            <li><a href="http://nyks.nic.in/formats/formats.html">Formats</a></li>
+
+            <li><a href="#">Reports</a>
+                    <ul class="level">
+
+                    <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReportHindiEnglish2017-18.pdf" target="_blank">Annual Report 2017-18 </a> </li> 
+                    <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReportEnglish2016-17.pdf" target="_blank">Annual Report 2016-17</a> </li> 
+                    <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReportEng2015-16.pdf" target="_blank">Annual Report 2015-16</a> </li> 
+                    <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReportEnglish2014-15.pdf" target="_blank">Annual Report 2014-15</a> </li>
+                    <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReport2013-14compressed.pdf" target="_blank">Annual Report 2013-14</a> </li>  
+                   <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReport2012-13compressed.pdf" target="_blank">Annual Report 2012-13</a> </li>
+				   <li> <a href="http://nyks.nic.in/resources/pdf/AnnualReport2011-12compressed.pdf" target="_blank">Annual Report 2011-12</a> </li>
+                   <li> <a href="http://nyks.nic.in/resources/pdf/ap201011.pdf" target="_blank">Annual Report 2010-11</a> </li>
+                       
+                       <!-- <li> <a href="http://nyks.nic.in/resources/pdf/apr0910.pdf" target="_blank">Annual Report 2009-10</a> </li>-->
+			            
+			           
+                        
+                        
+			        </ul>
+           </li>
+       </ul>
+  </li></ul>
+
+
+  <ul><li><a href="#">Important Links</a>
+             <ul>
+                 <li><a href="http://www.yas.nic.in/" target="_blank">Ministry of Youth Affairs & Sports</a></li>
+                 <li><a href="http://www.rgniyd.gov.in/" target="_blank">RGNIYD</a></li>
+                 <li><a href="http://www.rajbhasha.gov.in/" target="_blank">Rajbhasha</a></li>
+                 <li><a href="http://www.nss.nic.in/" target="_blank">NSS</a></li>
+                 <li><a href="http://india.unfpa.org/" target="_blank">UNFPA</a></li>
+                 <li><a href="http://www.ncs.gov.in" target="_blank">National Carrier Service </a></li>
+                <li><a href="http://www.socialjustice.nic.in/" target="_blank">Ministry of Social Justice & Empowerment</a></li>
+                 <li><a href="http://www.parliamentofindia.nic.in/" target="_blank">Parliament of India</a></li>
+                 <li><a href="http://www.moud.gov.in/swachchbharat/" target="_blank">Swachhbharat</a></li>
+                 <li><a href="http://www.indianmedicine.nic.in/" target="_blank">AYUSH</a></li>
+                 <li><a href="http://www.pmjdy.gov.in/scheme_detail.aspx" target="_blank">Pradhan Mantri Jan-Dhan Yojana(PMJDY)</a></li>
+                 <li><a href="http://www.pmindia.gov.in/en/" target="_blank">PM India </a></li>
+                 <li><a href="https://nmcg.nic.in/" target="_blank">National Mission of Clean Ganga </a></li>
+
+                  <li><a href="http://www.skilldevelopment.gov.in/" target="_blank">Ministry of Skill Development And Entrepreneurship </a></li>
+
+                 
+                  <li><a href="http://www.wcd.nic.in/"  target="_blank">Ministry of Women & Child Development</a></li>
+                 
+
+             </ul>
+
+</li></ul>
+ 
+  <ul><li><a href="http://nyks.nic.in/rti/rti.html">RTI</a></li></ul>
+  
+  <ul><li><a href="#">Contact Us</a>
+  <ul> <li><a href="#">Contacts</a>
+            <ul class="level">
+				<li> <a href="http://nyks.nic.in/contactus/contact.html">Headquarters Address</a> </li>
+                <li><a href="http://nyks.nic.in/compile/zdaddress.aspx">State Addresses</a></li>
+                <li><a href="http://nyks.nic.in/compile/kenadd1.aspx">Kendra Addresses</a></li>
+               
+             </ul>
+
+              <li><a href="http://nyks.nic.in/contactus/Vigilance.html">Vigilance</a></li>
+  </li>
+  </ul>
+  </li></ul>
+  
+  </div>
+
+
+</div>
+<div class="clear"></div>
+
+<div id="image-box-main" align="center">
+<div class="nivoSlider" id="slidernivo" align="center">
+
+
+<img src="Images/FitindiaYCLaunch.jpg" alt="" />
+
+<img src="Images/dgyuva.jpg" alt="" />
+
+<img src="Images/Secretary11.jpg" alt="" />
+
+<img src="Images/NICDelhiJS.jpg" alt="" />
+
+
+
+<img src="Images/secretary22.jpg" alt="" />
+<img src="Images/Declamation240120.jpg" alt="" />
+<img src="Images/Goa.jpg" alt="" />
+<img src="Images/Goa2.jpg" alt="" />
+<img src="Images/nyfopen.jpg" alt="" />
+<img src="Images/nyfminister.jpg" alt="" />
+
+<img src="Images/nyfjs.jpg" alt="" />
+<img src="Images/JammuPloggathon.jpg" alt="" />
+<!--<img src="Images/Fitindia_Cycleday.jpg" alt="" />-->
+
+
+
+<img src="Images/nypf2019pm.jpg" alt="" />
+<img src="Images/pmranchi1.jpg" alt="" /> 
+<img src="Images/pmranchi.jpg" alt="" /> 
+
+<img src="Images/Ministerrijijuji.jpg" alt="" /> 
+<!--<img src="Images/ministerslumyuva.jpg" alt="" />-->
+ 
+<img src="Images/NDRFTrain.jpg" alt="" />
+<!--<img src="Images/ministerslumyuva2.jpg" alt="" />-->
+<img src="Images/NYPF2019Winner.jpg" alt="" />
+
+<img src="Images/gandhi.jpg" alt="" />
+
+
+
+
+
+<!--<img src="Images/yoga2018.jpg" alt="" />
+-->
+
+<!--
+<img src="images/ministernyf2018.jpg" alt="" />
+<img src="Images/dg1nyf2018.jpg" alt="" />
+<img src="Images/2october2019.jpg" alt="" />
+
+-->
+
+
+
+
+<!--<img src="Images/ministerbhub1.jpg" alt="" />-->
+
+ <img src="Images/nyfcultural.jpg" alt="" /> 
+<!--<img src="Images/pm.jpg" alt="" />
+ <img src="Images/pmswachhta.jpg" alt="" />
+
+
+
+ <img src="Images/newminister.jpg" alt="" />-->
+
+ 
+
+
+
+
+
+
+
+</div>
+</div>
+
+<div id="wrapper">
+
+<div class="clear">
+<center>
+<!--<marquee onMouseOver   hspace="200" width="700"  scrolldelay="100"><span style="font-size:14px;Color:red;"> Digital India Week</span>  launched by <span style="font-size:14px;Color:red;">  Hon'ble Prime Minister of India on 1<sup>st</sup> July, 2015 at 4:00 PM</span> .   <span style="font-size:14px;Color:red;">Webcast Link :</span> <span style="font-size:14px;Color:blue;">http://webcast.gov.in/digitalindia & www.youtube.com/PMOfficeIndia </span></marquee>
+-->
+
+<!--<marquee onMouseOver   hspace="200" width="700"  scrolldelay="100"><a href="http://nyks.nic.in//Resources/tenders.html" class="textblack" target="_blank"> <span style="font-size:14px;Color:red;">Opening of Financial Bid on 07/07/2017 for selection  of Outsourcing Agency for providing 300 Programme Coordinators </span>  </a></marquee>-->
+
+
+
+</center>
+</div>
+<div class="box-1">
+<div class="box-1-map-1">
+<div class="box-1-heading-1">NYKS Network In India</div>
+<div class="box-1-mapimage-1"><a href="http://nyks.nic.in/Gmap/gmap3.aspx"><img src="images/map.jpg" alt="map" /></a></div>
+</div>
+</div>
+<div class="box-2">
+
+<div class="box-2-text">
+<div><a href="http://nyks.nic.in/initiatives/Programme.html" class="box-2cnt">Core Programmes</a></div>
+<div class="box-2-img"><img src="images/thmb.jpg" /></div>
+</div>
+<div class="box-2-text">
+<div><a href="http://nyks.nic.in/project/projects.html" class="box-2cnt">Projects</a></div>
+<div class="box-2-img"><img src="images/project.JPG" /></div>
+</div>
+<div class="clear"></div>
+
+<div class="box-2-text">
+<div><a href="http://nyks.nic.in/schemes/schemes.html" class="box-2cnt">Schemes</a></div>
+<div class="box-2-img"><img src="images/scame.jpg" /></div>
+</div>
+<div class="box-2-text">
+<div><a href="youthClub/Youth-Club.html" class="box-2cnt">Youth Clubs</a></div>
+<div class="box-2-img"><img src="images/nyc.jpg" /></div>
+</div>
+<div class="clear"></div>
+
+<div class="box-2-text">
+<div><a href="NYF/National-Youth-Festival.html" class="box-2cnt">National Youth Festival</a></div>
+<div class="box-2-img"><img src="images/nyf.jpg" /></div>
+</div>
+<div class="box-2-text">
+<div><a href="NationalCorps/nyc.html" class="box-2cnt">National Youth Corps (NYV)</a></div>
+<div class="box-2-img"><img src="images/thmb4.jpg" /></div>
+</div>
+</div>
+<div class="box-3">
+
+
+<div class="middle">
+
+<div id="tabsection">
+ <div class="box-1-heading-1"> What's New</div>
+                               
+     
+                <div id="blnk1"></div>               
+               
+                <div id="right_accordian">
+                     <div class="panel panel-default">
+                        <!--<div class="panel-heading" style="padding:0px;background-color:#E5E5E5;"> <img style="width:24px;height:24px;" src="../images/icon-news.png" alt="What's New"></img>&nbsp;<font color="blue"><b>What's New</b></font></div>-->
+                        <div style="height:265px; overflow-y: scroll;">
+                            <div class="info" id="news_custom" style="position: relative; overflow: hidden;">
+                                <ul style='padding-right:15px;'>
+
+                                <li>  Upload Date: 14/10/2020 <br>The Result of Waiting List of Selected Candidates for 
+                                the post of Account Clerk cum Typist (ACT) based on online examination on 30.04.2019 and Typing Skill Test on 23.08.2019<img src="new_blink.gif" />
+                                       <a href="initiatives/ACTBatch2.pdf" color="black" target="_blank">... Read  </a>
+
+                                <li>  Upload Date: 29/09/2020 <br>Annual Action Plan 2020-2021<img src="new_blink.gif" />
+                                       <a href="initiatives/AAP202021.pdf" color="black" target="_blank">... Read  </a> 
+
+
+                                    <li>  Upload Date: 25/09/2020 <br>The list of the Waiting List of 22 Selected DYC, based on online examination held on 08.09.2019 and Personal Interview conducted from 9th to 13th and 16th to 17th December, 2019, advertised on 31.05.2019.<img src="new_blink.gif" />
+                                       <a href="tender/DYCwatinglist.pdf" color="black" target="_blank">... Read  </a> 
+
+                                <li>  Upload Date: 15/09/2020 <br>List of Selected Firms for the Internal Audit of field offices(Remaining Offices) of NYKS for the year 2019-20<img src="new_blink.gif" />
+                                       <a href="tender/ResultInternalAudit15092020.pdf" color="black" target="_blank">... Read  </a> 
+                                       
+                                     </li>
+
+                                <li> Office Memorandum - Approval for Cadre Restructuring of NYKS  
+                                      <a href="resources/CRC2020/OfficeMemorandumCRC.pdf" target='_blank'>... Read </a></li>
+
+                                 <li> Detailed Instructions to candidates for Document Verification for the
+Post Of Junior Computer Programmer, Stenographer Grade II, Assistant, Computer Operator & Lower Division Clerk, To Be Held On 31.08.2020
+                                      <a href="Recruitment/Resultmarks/candidates_instruction.pdf" target='_blank'>... Read </a></li>
+
+
+                                 <li> PROVISIONAL RESULT FOR THE POST OF JUNIOR COMPUTER PROGRAMMER,STENOGRAPHER GRADE
+II, ASSISTANT, COMPUTER OPERATOR & LOWER DIVISION CLERK Written Examinations 07.09.2019 to 09.09.2019 and Skill Test
+16.03.2020.
+
+                                      <a href="Recruitment/Resultmarks/Result5postfinal.pdf" target='_blank'>... Read </a></li>
+
+
+                                <li> DYC interview marks, held on 9th to 13th & 16th to 17th December, 2019 
+                                      <a href="Recruitment/Resultmarks/DYCinterviewmarks9thto13th16th17thDecember2019.pdf" target='_blank'>... Read </a></li>
+
+                                <li> Marks of ACT, exam held on 07.09.2019
+                                      <a href="Recruitment/Resultmarks/MarksACTexam held07092019.pdf" target='_blank'>... Read </a></li>
+
+                                <li> Marks of ACT, exam held on 30.04.2019
+                                      <a href="Recruitment/Resultmarks/MarksACTexamheld30042019.pdf" target='_blank'>... Read </a></li>
+                                
+                                <li> Marks of DYC, exam held on 08.09.2019
+                                      <a href="Recruitment/Resultmarks/MarksDYCexamheld08092019.pdf" target='_blank'>... Read </a></li>
+                                
+                                <li> Marks of Librarian held on 09.09.2019
+                                      <a href="Recruitment/Resultmarks/MarksLibrarianheld09092019.pdf" target='_blank'>... Read </a></li>
+                                
+                                <li> Marks of MTS, exam held on 08.09.2019
+                                      <a href="Recruitment/Resultmarks/MarksMTSexamheld08092019.pdf" target='_blank'>... Read </a></li>
+                                
+                               
+                               <li> Marks of Multi Tasking Staff, exam held on 15.05.2019
+                                      <a href="Recruitment/Resultmarks/MarksMTSexamheld15052019.pdf" target='_blank'>... Read </a></li>
+                                
+                                <li> Senior Hindi Translator, exam held on 09.09.2019
+                                      <a href="Recruitment/Resultmarks/SrHindiTranslatorexamheld09092019.pdf" target='_blank'>... Read </a></li>
+                               
+
+                               <li> ACT Cut off Marks Exam held on 07.09.2019
+                                      <a href="Recruitment/Resultmarks/cutoff/ACTCutoffExamheld07092019.pdf" target='_blank'>... Read </a></li>
+                               
+
+                               <li> DYC Cut off Marks Exam held on 08.09.2019
+                                      <a href="Recruitment/Resultmarks/cutoff/DYCCutoffMarksExamheld08092019.pdf" target='_blank'>... Read </a></li>
+                               
+                               <li> Librarian and Senior Hindi Translator Cut off Marks Exam held on 09.09.2019
+                                      <a href="Recruitment/Resultmarks/cutoff/LibrarianSrHindiTranslatoCutoffExamheld09092019.pdf" target='_blank'>... Read </a></li>
+                               
+
+                                <li> MTS Cut off Marks Exam held on 08.09.2019
+                                      <a href="Recruitment/Resultmarks/cutoff/MTSCutoffMarksExamheld08092019.pdf" target='_blank'>... Read </a></li>
+                              
+
+                               <li> MTS, ACT, DYC Cut Off Marks Exam held on 30.04.2019 and 15.05.2019
+                                      <a href="Recruitment/Resultmarks/cutoff/MTSACTDYCCutOffExam30042019and15052019.pdf" target='_blank'>... Read </a></li>
+                              
+
+
+
+
+                                  <li> For Comments on Draft RRs of NYKS - 2020 
+                                      <a href="https://nyks.nic.in/RRs2020/RRLetter.pdf" target='_blank'>... Read </a></li>
+  
+
+  
+                                  <li> Draft RRs of NYKS - 2020 
+                                      <a href="https://nyks.nic.in/RRs2020/RRsRevised08-07-2020.pdf" target='_blank'>... Read </a></li>
+  
+
+                                       <li> Departure Statement of Draft RRs of NYKS - 2020 
+                                      <a href="https://nyks.nic.in/RRs2020/DepartureStatement08-07-2020.pdf" target='_blank'>... Read </a></li>
+  
+
+
+
+
+
+
+
+
+                                 <li> Tender for the engagement of Project Management Consultancey(PMC)
+                                      <a href="https://nyks.nic.in/resources/tenders.html" target='_blank'>... Read </a></li>
+  
+
+
+
+
+
+                                
+                                 <li> Participate in My Life My Yoga Vlogging Contest and Win Cash Prizes Totalling Rs.1,75,000
+                                      <a href="http://jan-sampark.nic.in/campaigns/2020/12-Jun/AYUSH/index.html" target='_blank'>... Read </a></li>
+  
+
+
+                                   
+                                 <li> CORRIGENDUM on Place of Posting of Accounts Clerk cum Typist
+                                                  <a href="https://nyks.nic.in/recruitment/actresult/CORRIGENDUMACT_02.06.2020.pdf" target='_blank'>... Read </a></li>
+  
+
+
+
+
+
+                                    
+                                 <li>  Posting Order of Accounts Clerk cum Typist, online examination held on 07.09.2019 and Skill test conducted on 25.02.2020
+                                                  <a href="https://nyks.nic.in/recruitment/actresult/PostingOrderAccountsClerkcumTypist_01.06.2020.pdf" target='_blank'>... Read </a></li>
+  
+
+
+
+
+
+
+
+
+
+
+
+                                  
+                                 <li>  Corrigendum against Tender Notice No.NYKS/Audit-Internal/2019-20 dated 12/02/2020 for selection of Internal Auditors for the year 2019-20  
+                                                  <a href="https://nyks.nic.in/resources/tenders.html" target='_blank'>... Read </a></li>
+  
+
+                                
+                                 
+                                 <li>   List of Successful Technical Bidders against Tender Notice No.NYKS/Audit-Internal/2019-20 dated 12/02/2020 for selection of Internal Auditors for the year 2019-20 
+                            <a href="https://nyks.nic.in/resources/tenders.html" target='_blank'>... Read </a></li>
+  
+
+
+
+
+                                
+                                 <li>    ACT Result, Online examination held on 07.09.2019 and skill test conducted on 25.02.2020
+                            <a href="https://nyks.nic.in/Recruitment/ACTResult/ACT result_20052020.pdf" target='_blank'>... Read </a></li>
+  
+
+<!--
+
+                                 <li>     Attending of Video Conference hosted by any organisation other than NYKS by officers of NYKS - reg.
+                            <a href="https://nyks.nic.in/Circulars/webmeeting.pdf" target='_blank'>... Read </a></li>
+  
+                            -->
+
+
+<!--
+                                 <li>     Senior Hindi Translation Result
+                            <a href="https://nyks.nic.in/Recruitment/SrHindiTranslator/Result_SrHindiTranslator_29.04.2020.pdf" target='_blank'>... Read </a></li>
+  
+                            -->
+
+                              
+
+
+                                
+                                    <li>     Opening of NYKS offices and reporting for duties
+                            <a href="https://nyks.nic.in/OfficeOrder/TwoOfficeOrders20042020.pdf" target='_blank'>... Read </a></li>
+  
+                            
+
+
+
+
+                                    <li>    Office Order regarding functioning of District Nehru Yuva Kendras, NYKS State offices, and NYKS hqrs w.e.f 20th April,2020.  
+                            <a href="https://nyks.nic.in/OfficeOrder/officeOrder15042020.pdf" target='_blank'>... Read </a></li>
+  
+                            
+
+
+
+
+
+
+                                <li> POSTPONEMENT OF DOCUMENT VERIFICATION  scheduled on 25th and 26th March 2020.  
+                            <a href="https://nyks.nic.in/Recruitment/Postponment/POSTPONEMENT.pdf" target='_blank'>... Read </a></li>
+
+
+
+                            <li> ACTs to be considered for the benefits getting due up to April, 2020 under MACP Scheme   
+                            <a href="circulars/MACTACT.pdf" target="_blank"> ... Read</a><br />
+           
+
+
+
+                            
+                             <!--  <li> Mock link for NYKS typing and MCQ- reg
+                                                               <a href="https://nyks.nic.in/Recruitment/Testlink/MockTestLink.html" target='_blank'> ... Read   </a> </li>
+
+
+
+
+
+
+                             
+                               <li>  List of Departmental Candidates to appear for skill test for Promotion from MTS to ACT to be held on 16.03.2020 with their Roll no and Registration No.- reg
+                                <a href="https://nyks.nic.in/Recruitment/Testlink/List of Departmental candidates_13.03.2020.pdf" target='_blank'> ... Read   </a> </li>
+
+
+
+
+
+                               <li> Hall Ticket LIVE_NYKS 16th March 2020
+                                <a href="https://cdn3.tcsion.com:443//EForms/configuredHtml/2287/64805/login.html" target='_blank'> ... Read   </a>  </li>
+
+                                
+                                 <li> Skill test centre address details
+ <a href="https://nyks.nic.in/Recruitment/Testlink/Skilltestcentreaddress_11.03.2020.pdf" target='_blank'> ... Read   </a>  </li>
+
+                             
+                                 <li> Language selection for Typing test to be conducted on 16.03.2020 for various post- reg
+ <a href="https://nyks.nic.in/Recruitment/Testlink/Languagepreference.pdf" target='_blank'> ... Read   </a>  </li>
+
+
+
+                                 <li> Link for downloading online application form for Skill Test of various posts to be conducted on 16/03/2020 <a href="https://nyks.nic.in/Recruitment/Testlink/TestLink.html" target='_blank'> ... Read   </a>  </li>
+
+
+
+
+
+                                   <li> Instructions for Skill Test <a href="https://nyks.nic.in/Recruitment/Testlink/InstructiontoCandidates_10.03.2020.pdf" target='_blank'> ... Read   </a>  </li>
+
+
+
+
+
+                             
+                                <li>  Posting Order of Librarian Examination online exam held on 09.09.2019 and advertisement dated 31.05.2019 <a href="https://nyks.nic.in/Recruitment/ResultLibrarianMTS/Librarian Place of Posting.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                
+                                <li>  Posting Order of MTS  online exam held on 08-09-2019 and advertisement dated 31-05-2019. <a href="https://nyks.nic.in/Recruitment/ResultLibrarianMTS/MTS Place of Posting.pdf" target='_blank'> ... Read   </a>  </li>
+
+
+
+
+                                <li>  Mock link_Accounts Clerk cum Typist 25Feb20 <a href="https://nyks.nic.in/Recruitment/MockTest.html" target='_blank'> ... Read   </a>  </li>
+
+
+
+                                 <li>  Result of Librarian, exam held on 09.09.2019  <a href="https://nyks.nic.in/Recruitment/ResultLibrarianMTS/Result_Librarian_14.02.2020.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                 
+                                 <li>  Result of Multi Tasking Staff, exam held on 08.09.2019 <a href="https://nyks.nic.in/Recruitment/ResultLibrarianMTS/Result_MTS_14.02.2020.pdf" target='_blank'> ... Read   </a>  </li>
+
+
+
+
+                                
+
+                                 <li>  Tender Notice for selection of Internal Auditors for the year 2019-20  <a href="https://nyks.nic.in/resources/tenders.html" target='_blank'> ... Read   </a>  </li>
+
+
+
+                                 <li>     Language selection for Typing test for the post of Accounts Clerk cum Typist  <a href="../Recruitment/LanguageSelectionTyping/LanguageSelection18.02.2020.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                 <li>    SYLLABUS FOR 2ND LEVEL MCQ TEST FOR THE POST OF ASSISTANT, COMPUTER OPERATOR, JUNIOR COMPUTER PROGRAMMER & ACCOUNTS CLERK TYPIST
+
+
+                                  <a href="Recruitment/Syllabus/MCQTESTFORTHEPOST OFASSISTANT.pdf" target='_blank'> ... Read   </a>  </li>
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <li> Common Letter for Seniority of Director, Joint /State Directors, Dy Directors and District Youth Coordinators
+                                  <a href="Recruitment/Seniority/DraftSeniorityCirculationLetter.pdf" target='_blank'> ... Read   </a>  </li>
+                          
+                           <li> Seniority List  of Directors <a href="Recruitment/Seniority/DirectorSen.pdf" target='_blank'> ... Read   </a>  </li>
+                           <li> Seniority List  of State Directors <a href="Recruitment/Seniority/SDsSen.pdf" target='_blank'> ... Read   </a>  </li>
+                           <li> Seniority List  of Dy Directors <a href="Recruitment/Seniority/DDsSen.pdf" target='_blank'> ... Read   </a>  </li>
+                           <li> Seniority List  of District Youth Coordinators <a href="Recruitment/Seniority/DYCSen.pdf" target='_blank'> ... Read   </a>  </li>
+    
+
+                          <li>   Ek Bharat Shrestha Bharat Quiz Contest   <a href="https://quiz.mygov.in/quiz/ebsb/" target='_blank'> ... Read   </a>  </li>
+                        
+
+
+                               
+
+
+                                
+                            <!--     <li>  Cut off of DYCs, ACTs and MTS Exam held on  30/04/2019 and 15/05/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Cut off of DYC_ACT_MTS exam date 30.04.2019 & 15.05.2019-converted.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                 
+                                 <li> Interview Marks of DYC Exam Held on 30/04/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Marks_Interview_DYC_Exam_Apr 2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                 
+                                 <li> Interview Marks of DYC Exam Held on 29/01/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Marks_Interview_DYC_Exam_Jan 2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                  
+                                 <li> Online Exam Result of ACT held on 25/01/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Result of ACT of Ist batch 25.01.2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                 
+                                 <li> Online Exam Result of MTS held on 31/01/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Result of MTS of Ist batch 31.01.2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                                                     
+                                 <li> Online Exam Result of DYC held on 29/01/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Result of DYC of Ist batch 29.01.2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                     
+                                 <li> Online Exam Result of DYC held on 30/04/2019         <a href="https://nyks.nic.in/recruitment/NewResult/Result of DYC of IInd batch 30.4.2019.pdf" target='_blank'> ... Read   </a>  </li>
+
+                                                              
+                             
+                                <li>Result of DYC Exam held on 30-04-2019..... <a href='http://nyks.nic.in/recruitment/FinalResultWaitlistDYC07.08.2019.pdf' target='_blank'>Read</a></li>
+                                <li>Result of examination held on 30.04.2019 for the post of  ACT and on 15.05.2019 for the post of MTS...<a href='recruitment/ResultNew.html' target='_blank'>Read</a></li>
+                                              -->                
+                                 
+                                <li> Weekly Calender ...<a href='http://nyks.nic.in/ForthComingActivities/2-8AugustWeeklyCalender.pdf' target='_blank'>Read</a></li>
+                                <li> Weekly Achievements...<a href='http://nyks.nic.in/ForthComingActivities/27July-2AugustWeeklyProgressReport.pdf' target='_blank'>Read</a></li>
+                               
+                                <li> Vacancies <a href='https://nyks.nic.in/resources/vacancies.html' target='_blank'>Read</a></li>
+
+                         </ul>                      
+                           </div>
+                        </div>
+                       
+                    </div>
+                </div>
+                
+
+                
+
+      <div style="clear:both;"></div>
+      
+
+               
+        
+    	<script type="text/javascript">
+    	    document.getElementById('right_accordian').style.width = '100%';
+        </script>
+
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+                var wow = new WOW(
+                        {
+                            boxClass: 'wow', // animated element css class (default is wow)
+                            animateClass: 'animated', // animation css class (default is animated)
+                            offset: 0, // distance to the element when triggering the animation (default is 0)
+                            mobile: true, // trigger animations on mobile devices (default is true)
+                            live: true, // act on asynchronously loaded content (default is true)
+                            callback: function (box) {
+                                // the callback is fired every time an animation is started
+                                // the argument that is passed in is the DOM node being animated
+                            },
+                            scrollContainer: null // optional scroll container selector, otherwise use window
+                        }
+                );
+                wow.init();
+
+                $('#news_custom').easyTicker({
+                    direction: 'up',
+                    easing: 'jswing',
+                    speed: 'slow',
+                    interval: 2000,
+                    height: 'auto',
+                    visible: 6,
+                    mousePause: 1,
+                    controls: {
+                        up: '.up',
+                        down: '.down',
+                        toggle: '.toggle',
+                        stopText: 'Stop !!!'
+                    }
+                }).data('easyTicker');
+
+                var dd = $('#rel_site').easyTicker({
+                    direction: 'up',
+                    easing: 'jswing',
+                    speed: 'slow',
+                    interval: 2000,
+                    height: 'auto',
+                    visible: 1,
+                    mousePause: 1,
+                    controls: {
+                        up: '.up',
+                        down: '.down',
+                        toggle: '.toggle',
+                        stopText: 'Stop !!!'
+                    }
+                }).data('easyTicker');
+
+
+            });
+
+            document.onkeydown = function (e) {
+                if (e.ctrlKey &&
+                        (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117)) {
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            };
+
+        </script>
+               
+</div>         
+
+
+     
+             
+
+ <p  style=" background-color:white; width:auto;text-decoration:none; color:Red;  margin-top:3px; text-align:center; " 
+            class="style1"> 
+           
+ 
+
+ 
+  </p> 
+
+
+  	
+
+<div class="tab_container">
+   <div id="tab1" class="tab_content">
+		  <!-- <h3>NYKS Blog</h3> -->
+          <!--The goal of NYKS Annual Action Plan is to develop and empower rural youth with focus on addressing issues and problems confronting them.  <a href="https://twitter.com/Nyksindia"> More...</a>-->
+          <p >  </p
+  </div> 
+</div>
+
+<div id="tab2" class="tab_content">
+	     <!--   <h3>News   </h3>-->
+         
+         <!-- NYKS released Rs.750,000/- to NYKs Oddisa for undertaking rehabilitaion works for people affected by Phailin Cyclone 
+          <br />
+          <p><a href="http:\\www.nyks.org\news.html">NYKS undertook massive Plantation Drive between 15th August to 20th August, 2013   <br /><span style="color:Maroon">More...</span></a></p>
+     -->
+		
+        
+</div>
+</div>
+</div>
+</div>
+
+<!-----------------wrapper end------------------------>
+
+<div class="clear"></div>
+<div id="specialprogramme">
+<div id="bluepatti" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+
+<table width="100%"> 
+<tr tr style="text-align:center">
+
+
+<td><a href="MOYAS.html"  target="_blank" >    <img src="images/MOYAS.jpg" class="img" width="134" height="80" /></a> </td>
+
+<!--<td><a href="NewInitiatives/150thGandhiJayanti/GandhiJayanti150th.html"    target="_blank" > <img src="150.jpg"  width ="134"  height="80" /></a>   </td>-->
+
+<td><a href="NewInitiatives/SwachhBharatIntership/SwachhBharatInternship.html"  target="_blank" >    <img src="images/Swachh2019.jpg" class="img" width="134" height="80" /></a> </td>
+
+<td><a href="NewInitiatives/YogaDay/YogaDay.html"  target="_blank" >    <img src="yoga2019.png" class="img"   width ="134"  height="80" /></a> </td>
+<td><a href="NYF2019/NYF2019.html"  target="_blank" >    <img src="logonyf2019.jpg"  class="img"  width ="134"  height="80" /></a> </td>
+<td><a href="NewInitiatives/swachhbharatmission.html"><img src="Images/swachhlogo.JPG" class="img" alt="Swachhlogo" width ="134"  height="80" /></a> </td>
+<td><a href="NewInitiatives/InterStateYEP/InterStateYEP.html"><img src="Images/EBSBLogo.png"  class="img" alt="Swachhlogo"  border="0" width="134"  height="80" /></a>  </td>
+</tr>
+
+
+
+
+
+
+</table>
+
+<div id="Div4" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+<table width="100%"> 
+<tr style="text-align:center">
+<td><a href="NewInitiatives/JalShaktiAbhiyan/JalShaktiAbhiyan.html" target="_blank">  
+  <img src="images/JalShaktiAbhiyan.jpg" class="img"width="134" height="80" /></a> </td>
+
+
+<td><a href="https://nyks.nic.in/NewInitiatives/SwachhtaFortnight/SwachhtaFortnight.html"    target="_blank" >    
+<img src="images/SwachhtaPakhwada2019.jpg" class="img" width ="134"  height="80" /></a>   </td>
+
+<td><a href="https://nyks.nic.in/NewInitiatives/Declamation/Declamation.html"    target="_blank" >    
+<img src="images/DeclamationContest2019.jpg" class="img" width ="134"  height="80" /></a>   </td>
+
+
+<td><a href="NewInitiatives/PoshanMaah/PoshanMaah.html"    target="_blank" >    
+<img src="images/PoshanMaah.jpg" class="img" width ="134"  height="80" /></a>   </td>
+
+<td><a href="NewInitiatives/FitIndia/FitIndia.html"    target="_blank" >    
+<img src="images/FitIndia.jpg" class="img" width ="134"  height="80" /></a>   </td>
+
+<td><a href="NewInitiatives/NDRF/NDRF.html"    target="_blank" >    
+<img src="images/NDRFBOX1.jpg" class="img" width ="134"  height="80" /></a>   </td>
+
+
+
+</tr>
+</table>
+
+<div id="Div1" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+
+<table width="100%"> 
+<tr style="text-align:center">
+
+
+<td><a href="NewInitiatives/ParytonParv/ParytonParv.html" target="_blank">  
+  <img src="images/pryatanparv2019.jpg" class="img" width="134" height="80" /></a> </td>
+
+  <td><a href="NewInitiatives/Run4Unity/Run4Unity.html" target="_blank">  
+  <img src="images/SardarPatel.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+  <td><a href="NewInitiatives/ConstitutionDay/ConstitutionDay.html" target="_blank">  
+  <img src="images/constitutionofindia.jpg" class="img" width="134" height="80" /></a> </td>
+  
+
+  <td><a href="NewInitiatives/InvestorAwareness/InvestorAwareness.html" target="_blank">  
+  <img src="images/InvestorAwareness.jpg" class="img" width="134" height="80" /></a> </td>
+ 
+
+
+  <td><a href="NewInitiatives/PulsePolio/PulsePolio.html" target="_blank">  
+  <img src="images/PolioVaccinationCampaign.jpg" class="img" width="134" height="80" /></a> </td>
+ 
+<!-- //////////////////////////////////////-->
+ 
+ <td><a href="NewInitiatives/150thGandhiJayanti/GandhiJayanti150th.html"    target="_blank" > <img src="150.jpg" class="img" width ="134"  height="80" /></a>   </td>
+ <!--<td><a href="NewInitiatives/SwachhBharatIntership/SwachhBharatInternship.html"  target="_blank" >    <img src="images/Swachh2019.jpg" width="134" height="80" /></a> </td>-->
+  <!-- <td><a href="NewInitiatives/Parikshaparv/Parikshaparv.html" target="_blank">  
+  <img src="images/Parikshaparv.jpg" width="134" height="80" /></a> </td>-->
+  <!--
+  //////////////////////////-->
+
+</tr>
+</table>
+
+<div id="Div2" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+
+<table width="100%"> 
+<tr style="text-align:center">
+
+<td><a href="Newinitiatives/TYEP/TYEP.html" target="_blank">  
+  <img src="images/Tribal.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+  <td><a href="project/KashmiriYouthExchange/KashmirYouthExchange.html" target="_blank">  
+  <img src="images/Kashmiri.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+  <td><a href="project/NEYEP/NEYEP.html" target="_blank">  
+  <img src="images/NorthEast.jpg" class="img" width="134" height="80" /></a> </td>
+  <td><a href="schemes/NIC/NIC.html" target="_blank">  
+  <img src="images/NIC11.jpg" class="img" width="134" height="80" /></a> </td>
+
+  <td><a href="project/NamamiGange/NamamiGange.html" target="_blank">  
+  <img src="images/namamigange.jpg" class="img" width="134" height="80" /></a> </td>
+ 
+
+  <td><a href="NewInitiatives/BetiBachoBetiPadhao/BetiBachoBetiPadhao.html" target="_blank">  
+  <img src="images/betibacho.png" class="img" width="134" height="80" /></a> </td>
+ 
+
+ <!--
+  <td><a href="NewInitiatives/PulsePolio/PulsePolio.html" target="_blank">  
+  <img src="images/PolioVaccinationCampaign.jpg" width="134" height="80" /></a> </td>
+ 
+
+   <td><a href="NewInitiatives/Parikshaparv/Parikshaparv.html" target="_blank">  
+  <img src="images/Parikshaparv.jpg" width="134" height="80" /></a> </td>
+  -->
+
+
+</tr>
+</table>
+<div id="Div7" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+
+<table width="100%"> 
+<tr style="text-align:center">
+<td width="0%">&nbsp;</td>
+
+
+<td><a href="NewInitiatives/CoronaVirus/VolunteerList.html" target="_blank">
+<img src="images/NYKSVolunteers.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+
+<td><a href="https://self4society.mygov.in/volunteer/" target="_blank">
+<img src="images/coronavirus.jpg" class="img" width="134" height="80" /></a> </td>
+
+<td><a href="NewInitiatives/CoronaVirus/CoronaVirus11.html" target="_blank">
+<img src="images/corona.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+
+
+<td><a href="NewInitiatives/CoronaVirus/PressBriefingGOI.html" target="_blank">
+<img src="images/PressBriefingGOI.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+
+
+<td><a href="NewInitiatives/CoronaVirus/Letters/NYKSCOVID19ControlRoom.pdf" target="_blank">
+<img src="images/NYKSCovid19.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+<td><a href="https://covidwarriors.gov.in/" target="_blank">
+<img src="images/COVIDWARRIORS.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+</tr>
+
+
+
+</table>
+
+
+<div id="Div9" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "> &nbsp; </div>
+
+<table width="100%"> 
+<tr style="text-align:center">
+<td width="0%">&nbsp;</td>
+
+
+<td><a href="NewInitiatives/CoronaParVaar/CoronaParVaar.html" target="_blank">
+<img src="images/Badalkarapnavyavhar.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+
+
+
+<td><a href="NewInitiatives/GandagiMuktBharat/GandagiMuktBharat.html" target="_blank">
+<img src="images/GandagiMuktBharat.jpg" class="img" width="134" height="80" /></a> </td>
+
+
+<td><a href="NewInitiatives/NewEducationPolicy/NewEducationPolicy.html" target="_blank">
+<img src="images/newedulogo.jpg" class="img" width="134" height="80" /></a> </td>
+
+<!--<td><a href="https://covidwarriors.gov.in/" target="_blank"><img src="images/COVIDWARRIORS.jpg" width="134" height="80" /></a> </td>-->
+
+
+</tr>
+
+
+
+</table>
+
+<div id="Div8" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "  vertical-align="middle"   align="center" > &nbsp; </div>
+<table  width="100%">
+<tr align="centre">
+
+ <td><iframe width="400" height="400" src="https://www.youtube.com/embed/8RUOhxzcOBo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </td>
+ <td width="40"></td>
+ <td  width="600" style="background-color:#313f4c; color:White;vertical-align:top;">
+  <center> <span style="font-weight:bold;font-size:15px;">Letter of Appreciation</span> </center>
+
+  <iframe src="AppreciationLetter.htm"  width="575" height="376"  class="lnkstyle" ></iframe>
+
+          
+          
+
+ </td>
+
+
+
+</tr>
+
+</table>
+
+
+<div id="Div6" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "  vertical-align="middle"   align="center" > &nbsp; </div>
+
+
+
+
+<div id="photogallary-part">
+
+<table width="100%" border="0" cellspacing="5" cellpadding="0">
+
+
+<tr>
+<td width="33%" valign="top"> <a href="http://nyks.nic.in/NewInitiatives/NewInitiative.html"> <img src="images/achievements.jpg"  width="320" height="320"   /></a></td>
+
+<td width="33%">
+    <a href="http://nyks.nic.in/resources/photo-gallery.html">     <img src="Resources/showphotopages/Thumbnail/photogallery.jpg"   width="322" height="320"   alt="Photo Gallery"   />     </a>
+     </td>
+
+<td width="33%">
+<a href="http://nyks.nic.in/resources/video-gallery.html"> <img src="Resources/showphotopages/Thumbnail/DeclamationContest2019.jpg" width="320" height="320" /></a></td>     
+</tr>
+
+<tr>
+<td width="33%" valign="top" class="phototext"> Initiative & Achievements</td>
+
+<td width="33%" class="phototext1">Photogallery    </td>
+<td width="33%" class="phototext"> Videogallery   </td>
+
+</tr>
+
+
+
+
+</table>
+
+
+</div>
+
+
+<div class="clear"></div>
+<div id="fotter-main">
+
+
+ <div class="clear"></div>
+
+
+
+ 
+ <div id="footer">
+
+
+  <div id="Div5" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "  vertical-align="middle"   align="center" > &nbsp; </div>
+ 
+
+
+
+
+ 
+ <div style="background-color:white;" >
+<center>
+
+
+ 
+ <table border="0">  
+ <tr align="center" >  
+  
+<!-- <td>  
+ <a href="http://www.wcd.nic.in/" target="_blank" title="Ministry of Women and Child Development" onclick="if (! confirm('This link will take you to website of MWCD. \n यह लिंक आपको महिला एवं बाल विकास मंत्रालय की वेबसाइट पर ले जायेगा ')) { return false; }" ><img src="Slider/MWCDlogo.png" alt="MWCD Website" height="100" width="100" style="border:0px;margin:20px" /> </a>  
+ </td>  
+  
+ 
+ <td>  
+ <a href="https://www.yas.nic.in" target="_blank" title="Ministry of Youth Affairs & Sports" onclick="if (! confirm('This link will take you to ICDS-CAS Portal \n यह लिंक आपको आई.सी.डी.एस.-केस पोर्टल पर ले जायेगा ')) { return false; }"><img src="Slider/moyas.png" alt="ICDS-CAS Website" height="100" width="100" style="border:0px;margin:20px" /></a>  
+ </td>  -->
+  
+ <td>  
+ <a href="http://wcd.nic.in/bbbp-schemes" target="_blank" title="Beti Bachao Beti Padhao" onclick="if (! confirm('This link will take you to website of Beti Bachao Beti Padhao. \n यह लिंक आपको बेटी बचाओ बेटी पढ़ाओ की वेबसाइट पर ले जायेगा')) { return false; }"><img src="Slider/betibachaologo.png" alt="Beti Bachao Beti Padhao Website" height="100" width="100" style="border:0px;margin:10px" /></a>  
+ </td>  
+  
+ <td>  
+ <a href="https://gem.gov.in/" target="_blank" title="Government e-Marketplace | GeM, DGS&D" onclick="if (! confirm('This link will take you to website of Government e-Marketplace (GeM). \n यह लिंक आपको Government e-Marketplace (GeM) की वेबसाइट पर ले जायेगा')) { return false; }" ><img src="Slider/GeMlogo.jpg" alt="GeM, DGS&D Website" height="80" style="border:0px;margin:10px" /></a>  
+ </td>  
+  
+
+  
+ <td>  
+ <a href="http://digitalindia.gov.in/" target="_blank" title="Digital India" onclick="if (! confirm('This link will take you to website of Digital India. \n यह लिंक आपको डिजिटल इंडिया की वेबसाइट पर ले जायेगा')) { return false; }" ><img src="Slider/digital_india_logo_0.png" alt="Digital India Website" height="100" width="100" style="border:0px;margin:10px"/></a>  
+ </td>  
+
+ <!--  <td>  
+ <a href="http://dea.gov.in/" target="_blank" title="Department of Economic Affairs, Ministry of Finance" onclick="if (! confirm('This link will take you to website of Department of Economic Affairs, Ministry of Finance. \n यह लिंक आपको आर्थिक कार्य विभाग, वित्त मंत्रालय की वेबसाइट पर ले जायेगा')) { return false; }" ><img src="Slider/DEAlogo.jpg" alt="DEA, MoF Website" height="80" style="border:0px;margin:20px"/></a>  
+ </td> -->
+
+  
+ <td>  
+ <a href="https://www.mygov.in/" target="_blank" title="myGov" onclick="if (! confirm('This link will take you to MyGov website. \n यह लिंक आपको मेरी सरकार की वेबसाइट पर ले जायेगा')) { return false; }" ><img src="Slider/mygov.png" alt="myGov Website" height="90" width="100"style="border:0px;margin:20px" /></a>  
+ </td>    
+ <td>  
+ <a href="https://india.gov.in/" target="_blank" title="National Portal of India" onclick="if (! confirm('This link will take you to National Portal of India. \n यह लिंक आपको भारत के राष्ट्रीय पोर्टल पर ले जायेगा')) { return false; }" ><img src="Slider/india-gov-logo.png" alt="National Portal of India" height="70" width="100" style="border:0px;margin:10px"/></a>  
+ </td>  
+  
+  <td>  
+ <a href="http://www.makeinindia.com/home" target="_blank" title="Make in India" onclick="if (! confirm('This link will take you to Make in India Portal . \n यह लिंक आपको मेक इन इंडिया पोर्टल पर ले जायेगा')) { return false; }" ><img src="Slider/pppppp.jpg" alt="Make In India" height="100" width="100" style="border:0px;margin:10px"/></a>  
+ </td>
+ </tr>  
+ </table>  
+ 
+ </div>
+ </center>
+ 
+   <div id="Div3" style="background-color:#deeff7; font-family: Arial; height: 30px;  color:blue; font-size:14px; "  vertical-align="middle"   align="center" > &nbsp; </div>
+
+
+<div id="bottomexlink"
+ <div class="bottomlink">
+ 
+ 
+ 
+
+ <center>
+
+
+
+ <a href=" http://nyks.nic.in/Dashboard/Dashboard.html" >Dashboard</a> <img src="images/line-vertical.jpg" width="1" height="12" />
+
+
+
+ <a href="WebsitePolicies/WebsitePolicies.html" >Website Policies</a> <img src="images/line-vertical.jpg" width="1" height="12" />
+
+  <!--<!--<a href="#" >Feedback</a> <img src="line-vertical.jpg" width="1" height="12" />-->
+
+   <a href="contactus/contact.html" >Contact Us</a>    <img src="images/line-vertical.jpg" width="1" height="12" />
+
+   <a  href="http://nyks.nic.in/NYKSApp/Pensioner/Login/LoginPensioner.aspx" >Pensioner</a>
+    
+ 
+ </center>
+ </div>
+ <div></div>
+<hr style="color:White;" />
+
+
+
+    <strong>
+    <div class="clear"></div>
+    
+</div>
+
+
+
+
+
+
+    <div class="bottom-text"> Head Office : Nehru Yuva Kendra Sangathan,  Ministry of&nbsp; Youth Affairs & Sports (Government of India)<br />
+        4- Jeevan Deep Building, Ground Floor, Parliament Street, New Delhi - 110 001 
+        (India)<br />
+        Tel. : 91-11-23442800  , Fax : 91-11-
+        <br />
+        Last Updated On: 06/02/2020
+      </p>
+      <span style="color:White;">No. of Hits</span>
+<!-- Start of StatCounter Code for Adobe Pagemill 3.0 -->
+<script type="text/javascript">
+    var sc_project = 9274929;
+    var sc_invisible = 0;
+    var sc_security = "9711137f";
+    var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" + scJsHost +
+"statcounter.com/counter/counter.js'></" + "script>");
+        </script>
+<noscript>
+        <div class="statcounter"><a title="free hit counter" href="http://statcounter.com/" target="_blank">
+        <img class="statcounter" src="http://c.statcounter.com/9274929/0/9711137f/0/" alt="free hit counter"></a></div></noscript>
+
+      <div class="bottom-text-2">Copyright&nbsp; 2012 Nehru Yuva Kendra Sangathan. <a href="http://nyks.nic.in/index.html" class="bottom-text">
+          Best Viewed in IE 7.0, Firefox Mozilla, Google Chrome</a></div>
+    </div>
+
+
+
+
+
+
+</div>
+
+
+    
+
+
+</body>
+</html>

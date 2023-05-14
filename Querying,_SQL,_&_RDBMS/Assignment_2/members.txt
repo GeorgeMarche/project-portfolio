@@ -1,0 +1,2 @@
+Authors: George Marche <gmarche>
+SQL Assignment, Fall 2020

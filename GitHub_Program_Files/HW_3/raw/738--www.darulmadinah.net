@@ -1,0 +1,1521 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en-US">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GA_MEASUREMENT_ID');
+</script>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.darulmadinah.net/xmlrpc.php">
+	    <script type="text/javascript">
+        /* <![CDATA[ */
+        var ajaxurl = "https://www.darulmadinah.net/wp-admin/admin-ajax.php";
+        /* ]]> */
+    </script>
+	<title>Dar-ul-Madinah International Islamic School System</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Dar-ul-Madinah International Islamic School System &raquo; Feed" href="https://www.darulmadinah.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dar-ul-Madinah International Islamic School System &raquo; Comments Feed" href="https://www.darulmadinah.net/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.darulmadinah.net/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://www.darulmadinah.net/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.darulmadinah.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.darulmadinah.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='uaf_client_css-css'  href='https://www.darulmadinah.net/wp-content/uploads/useanyfont/uaf.css?ver=1597172953' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.8.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='jquery-ui-custom-css'  href='https://www.darulmadinah.net/wp-content/plugins/zm-ajax-login-register/assets/jquery-ui.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ajax-login-register-style-css'  href='https://www.darulmadinah.net/wp-content/plugins/zm-ajax-login-register/assets/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-css'  href='https://www.darulmadinah.net/wp-content/themes/eduma/style.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-custom-vc-css'  href='https://www.darulmadinah.net/wp-content/themes/eduma/assets/css/custom-vc.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-font-flaticon-css'  href='https://www.darulmadinah.net/wp-content/themes/eduma/assets/css/flaticon.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-options-css'  href='https://www.darulmadinah.net/wp-content/uploads/tc_stylesheets/eduma.1601707617.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.3' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.3' id='revmin-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.darulmadinah.net\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.8.1' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='ajax-login-register-script-js-extra'>
+/* <![CDATA[ */
+var _zm_alr_settings = {"ajaxurl":"https:\/\/www.darulmadinah.net\/wp-admin\/admin-ajax.php","login_handle":"","register_handle":"","redirect":"22891","wp_logout_url":"https:\/\/www.darulmadinah.net\/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fwww.darulmadinah.net&_wpnonce=36ce7ce4f3","logout_text":"Logout","close_text":"Close","pre_load_forms":"zm_alr_misc_pre_load_no","logged_in_text":"You are already logged in","registered_text":"You are already registered","dialog_width":"265","dialog_height":"auto","dialog_position":{"my":"center top","at":"center top+5%","of":"body"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/zm-ajax-login-register/assets/scripts.js?ver=5.5.1' id='ajax-login-register-script-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/zm-ajax-login-register/assets/login.js?ver=5.5.1' id='ajax-login-register-login-script-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/zm-ajax-login-register/assets/register.js?ver=5.5.1' id='ajax-login-register-register-script-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.7' id='vc_woocommerce-add-to-cart-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.darulmadinah.net/wp-json/" /><link rel="alternate" type="application/json" href="https://www.darulmadinah.net/wp-json/wp/v2/pages/4524" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.darulmadinah.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.darulmadinah.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WooCommerce 3.8.1" />
+<link rel="canonical" href="https://www.darulmadinah.net/" />
+<link rel='shortlink' href='https://www.darulmadinah.net/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.darulmadinah.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.darulmadinah.net%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.darulmadinah.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.darulmadinah.net%2F&#038;format=xml" />
+				<style type="text/css">
+					@font-face { font-family:almushaf;src:url(https://www.darulmadinah.net/wp-content/uploads/2020/08/Al_Mushaf.ttf) format('truetype');font-display: auto;}@font-face { font-family:Mehr;src:url(https://www.darulmadinah.net/wp-content/uploads/2020/08/Mehr-Nastaliq-Web.ttf) format('truetype');font-display: auto;}@font-face { font-family:noto;src:url(https://www.darulmadinah.net/wp-content/uploads/2020/08/Mehr-Nastaliq-Web.ttf) format('truetype');font-display: auto;}				</style>
+					<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	            <script type="text/javascript">
+                function tc_insert_internal_css(css) {
+                    var tc_style = document.createElement("style");
+                    tc_style.type = "text/css";
+                    tc_style.setAttribute('data-type', 'tc-internal-css');
+                    var tc_style_content = document.createTextNode(css);
+                    tc_style.appendChild(tc_style_content);
+                    document.head.appendChild(tc_style);
+                }
+            </script>
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+        
+    <meta name="generator" content="Powered by Slider Revolution 5.4.7.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.darulmadinah.net/wp-content/uploads/2019/04/cropped-dp-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.darulmadinah.net/wp-content/uploads/2019/04/cropped-dp-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.darulmadinah.net/wp-content/uploads/2019/04/cropped-dp-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.darulmadinah.net/wp-content/uploads/2019/04/cropped-dp-270x270.jpg" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFWJ0df8pkAp6a.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFUZ0df8pkAp6a.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFWZ0df8pkAp6a.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFVp0df8pkAp6a.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFWp0df8pkAp6a.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFW50df8pkAp6a.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem8YaGs126MiZpBA-UFVZ0df8pkAg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOX-hvKKSTj5PW.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOVuhvKKSTj5PW.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOXuhvKKSTj5PW.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOUehvKKSTj5PW.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOXehvKKSTj5PW.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOXOhvKKSTj5PW.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(/home/admindmw/public_html/wp-content/fonts/open-sans/mem5YaGs126MiZpBA-UN7rgOUuhvKKSTjw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>		<script type="text/javascript">
+			if (typeof ajaxurl === 'undefined') {
+				/* <![CDATA[ */
+				var ajaxurl = "https://www.darulmadinah.net/wp-admin/admin-ajax.php";
+				/* ]]> */
+			}
+		</script>
+		<style type="text/css" data-type="vc_custom-css">@media (max-width: 767px)
+{
+.boxme.wpb_column.vc_column_container.vc_col-sm-3 {
+    margin: 130px 0px 0px 0px;
+}
+div#rev_slider_1_1_wrapper {position: relative;
+    top: 45px;
+}
+}
+.vc_custom_1471791722105 {
+    margin-bottom: 0px !important;
+}
+
+@media (max-width: 767px) {   
+
+.vc_custom_1471005335630 {
+
+    margin-top: -110px;
+    
+}
+
+
+}
+
+
+.owl-carousel .owl-item img {
+
+    padding: 5%;
+}
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
+
+.textwidget.ty {
+    margin-left: 48px !important;
+    float: left;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1471005335630{margin-right: -2px !important;margin-left: -2px !important;}.vc_custom_1568719763061{margin-bottom: 30px !important;padding-right: 2px !important;padding-left: 2px !important;}.vc_custom_1471791466594{margin-bottom: 30px !important;padding-right: 2px !important;padding-left: 2px !important;}.vc_custom_1471791487523{margin-bottom: 30px !important;padding-right: 2px !important;padding-left: 2px !important;}.vc_custom_1602662029929{background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/08/last-1.jpg?id=20764) !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body data-rsssl=1 class="home page-template page-template-page-templates page-template-homepage page-template-page-templateshomepage-php page page-id-4524 theme-eduma woocommerce-no-js thim-body-preload bg-boxed-image size_wide wpb-js-composer js-comp-ver-5.4.7 vc_responsive" id="thim-body">
+
+	
+	
+
+			<div id="preload">
+				<div class="sk-chasing-dots">
+										        <div class="sk-child sk-dot1"></div>
+										        <div class="sk-child sk-dot2"></div>
+										      </div>			</div>
+		<h1 class="title">Dar-ul-Madinah International Islamic School System</h1>
+<div id="wrapper-container" class="wrapper-container">
+	<div class="content-pusher">
+		<header id="masthead" class="site-header affix-top sticky-header header_overlay header_v1">
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<!--	
+			
+<div id="toolbar" class="toolbar" style="
+    background-color: #3097a0;
+										 
+    padding-top: 0;
+    padding-bottom: 0;
+">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="toolbar-container">
+			<marquee><strong><p>Registrations in Punjab starting from 1st January 2020</p></strong></marquee>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	
+			-->
+		
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+				<div id="toolbar" class="toolbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="toolbar-container">
+						<aside id="text-2" class="widget widget_text">			<div class="textwidget"><div class="thim-have-any-question"> 
+<div class="mobile"><i class="fa fa-phone"></i><a href="tel:+92-21-34813326" class="value">+92-21-34813326</a>
+</div>
+<div class="email"><i class="fa fa-envelope"></i><a href="mailto:info@darulmadinah.net ">info@darulmadinah.net </a>
+</div>
+</div>
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #1c97c1;
+    padding: 8px;
+    float: right;
+margin-right: 10px;
+    border-radius: 6px;"; href="#">USA</a>
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #1c97c1;
+    padding: 8px;
+    float: right;
+margin-right: 10px;
+    text-align: center;
+    border-radius: 6px;"; href="#">UK</a>
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #1c97c1;
+    padding: 8px;
+    float: right;
+margin-right: 10px;
+    border-radius: 6px;"; href="#">BGD</a>
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #1c97c1;
+    padding: 8px;
+    float: right;
+margin-right: 10px;
+    text-align: center;
+    border-radius: 6px;"; href="#">NP</a>
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #1c97c1;
+    padding: 8px;
+    float: right;
+margin-right: 10px;
+    text-align: center;
+    border-radius: 6px;"; href="http://darulmadinah.edu.in/">IND</a>
+
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #ef5a40;
+    padding: 8px;
+    float: right;
+margin-right: 5px;
+
+    border-radius: 6px;"; href="https://www.darulmadinah.net/online-registration-form/">Online Registration</a> 
+
+<a class="forhid" style=";
+    color: white !important;
+    font-size: 16px;
+    background: #3097a0;
+    padding: 8px 22px 8px 22px;
+margin-right: 20px;
+
+    float: right;
+    border-radius: 6px;"; 
+href="https://www.darulmadinah.net/parents-portal/">Parents' Portal</a></div>
+		</aside><aside id="login-popup-2" class="widget widget_login-popup"><div class="thim-widget-login-popup thim-widget-login-popup-base template-base"><div class="thim-link-login thim-login-popup">
+						</div>
+
+	<div id="thim-popup-login" class="has-shortcode">
+		<div class="thim-login-container">
+			[miniorange_social_login shape="longbuttonwithtext" theme="default" space="4" width="240" height="40"]			<div class="thim-login">
+								<h2 class="title">Login with your site account</h2>
+				<form name="loginform" id="loginform" action="https://www.darulmadinah.net/wp-login.php" method="post">
+					<p class="login-username">
+						<input type="text" name="user_login" placeholder="Username or email" id="thim_login" class="input" value="" size="20" />
+					</p>
+					<p class="login-password">
+						<input type="password" name="user_password" placeholder="Password" id="thim_pass" class="input" value="" size="20" />
+					</p>
+										<a class="lost-pass-link" href="https://www.darulmadinah.net/account/?action=lostpassword" title="Lost Password">Lost your password?</a>					<p class="forgetmenot login-remember">
+						<label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me						</label></p>
+					<p class="submit login-submit">
+						<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Login" />
+						<input type="hidden" name="redirect_to" value="https://www.darulmadinah.net/" />
+						<input type="hidden" name="testcookie" value="1" />
+					</p>
+				</form>
+							</div>
+			<span class="close-popup"><i class="fa fa-times" aria-hidden="true"></i></span>
+		</div>
+	</div>
+</div></aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"></div>
+		</aside>					</div>
+				</div>
+			</div>
+		</div>
+	</div><!--End/div#toolbar-->
+<!-- <div class="main-menu"> -->
+<div class="container">
+	<div class="row">
+		<div class="navigation col-sm-12">
+			<div class="tm-table">
+				<div class="width-logo table-cell sm-logo">
+					<a href="https://www.darulmadinah.net/" title="Dar-ul-Madinah International Islamic School System - " rel="home" class="no-sticky-logo"><img src="https://www.darulmadinah.net/wp-content/uploads/2019/04/logo-DM-01.png" alt="Dar-ul-Madinah International Islamic School System" ></a><a href="https://www.darulmadinah.net/" rel="home" class="sticky-logo"><img src="https://www.darulmadinah.net/wp-content/uploads/2019/04/logo-DM-01.png" alt="Dar-ul-Madinah International Islamic School System" ></a>				</div>
+				<nav class="width-navigation table-cell table-right">
+					<ul class="nav navbar-nav menu-main-menu">
+	<li id="menu-item-7363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4524 current_page_item menu-item-7363 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/" class="tc-menu-inner">Home</a></li>
+<li id="menu-item-23094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23094 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/covid-19-update/" class="tc-menu-inner">COVID-19</a></li>
+<li id="menu-item-23303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23303 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Departments</span>
+<ul class="sub-menu">
+	<li id="menu-item-13883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13883 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Academics</a>
+	<ul class="sub-menu">
+		<li id="menu-item-23615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23615 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2019/05/DuaeMadinah.pdf" class="tc-menu-inner">Dua-e-Madinah</a></li>
+		<li id="menu-item-22744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22744 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/RevPack/" class="tc-menu-inner">Revision Pack</a></li>
+		<li id="menu-item-9947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9947 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Book List</a>
+		<ul class="sub-menu">
+			<li id="menu-item-17390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17390 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="#" class="tc-menu-inner">Punjab</a>
+			<ul class="sub-menu">
+				<li id="menu-item-9944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9944 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/primary/" class="tc-menu-inner">Pre-Primary</a></li>
+				<li id="menu-item-9945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9945 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/primary-3/" class="tc-menu-inner">Primary</a></li>
+				<li id="menu-item-9946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9946 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/secondary-2/" class="tc-menu-inner">Secondary</a></li>
+			</ul><!-- End wrapper ul sub -->
+</li>
+			<li id="menu-item-17391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17391 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/Sindh-Booklist-Class-Pre-Nursery-to-Class-VIII-min.pdf" class="tc-menu-inner">Sindh</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-9675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9675 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="http://data3.dawateislami.net:80/svn/darulmadina/school_system/Forweb" class="tc-menu-inner">Principal Portal</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li id="menu-item-13882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13882 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Curriculum</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13881 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.dmiup.com/" class="tc-menu-inner">DMIUP Books</a>
+		<ul class="sub-menu">
+			<li id="menu-item-19962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19962 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Pre_nursery" class="tc-menu-inner">Pre-Primary Books</a></li>
+			<li id="menu-item-19960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19960 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Primary_Class_1_to_5" class="tc-menu-inner">Primary Books</a></li>
+			<li id="menu-item-19961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19961 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Secondary_Class_6_to_8" class="tc-menu-inner">Secondary Books</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li id="menu-item-13885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13885 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Examinations</a>
+	<ul class="sub-menu">
+		<li id="menu-item-17066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17066 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Time Table</a>
+		<ul class="sub-menu">
+			<li id="menu-item-17070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17070 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/2_Updated-Mock_Examination_Timetable_Sindh_Class_IX-X-min.pdf" class="tc-menu-inner">Karachi</a></li>
+			<li id="menu-item-17071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17071 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/2_Updated-Mock_Examination_Timetable_Sindh_Class_IX-X-min.pdf" class="tc-menu-inner">Hyderabad</a></li>
+			<li id="menu-item-17072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17072 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/1_Combine_Timetable_Final_Term_Punjab-min.pdf" class="tc-menu-inner">Punjab</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-8607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8607 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/policy-methodology/" class="tc-menu-inner">Policy &#038; Methodology</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li id="menu-item-23404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23404 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="ftp://113.203.233.172/Deeniyaat/" class="tc-menu-inner tc-megamenu-title">Deeniyaat</a></li>
+	<li id="menu-item-9236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9236 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Training</a>
+	<ul class="sub-menu">
+		<li id="menu-item-17413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17413 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/introduction-3/" class="tc-menu-inner">Introduction</a></li>
+		<li id="menu-item-17519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17519 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Programs</a>
+		<ul class="sub-menu">
+			<li id="menu-item-17367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17367 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/winter-training-program/" class="tc-menu-inner">Winter Training Program</a></li>
+			<li id="menu-item-17263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17263 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/preset/" class="tc-menu-inner">Preset</a></li>
+			<li id="menu-item-17264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17264 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/summer-training-program/" class="tc-menu-inner">Summer Training Program</a></li>
+			<li id="menu-item-17265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17265 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/need-based-training/" class="tc-menu-inner">Need Based Training</a></li>
+			<li id="menu-item-17266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17266 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/saturday-based-training/" class="tc-menu-inner">Saturday Based Training</a></li>
+			<li id="menu-item-17701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17701 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/uninformed-inspection-2/" class="tc-menu-inner">Uninformed Inspection</a></li>
+			<li id="menu-item-17704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17704 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/informed-inspection-2/" class="tc-menu-inner">Informed Inspection</a></li>
+			<li id="menu-item-17757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17757 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/educational-survey/" class="tc-menu-inner">Educational Survey</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-9844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9844 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library" class="tc-menu-inner">E-library</a>
+		<ul class="sub-menu">
+			<li id="menu-item-17650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17650 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2015/" class="tc-menu-inner">2015</a></li>
+			<li id="menu-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17651 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2016/" class="tc-menu-inner">2016</a></li>
+			<li id="menu-item-17652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17652 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2017/" class="tc-menu-inner">2017</a></li>
+			<li id="menu-item-17653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17653 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2018/" class="tc-menu-inner">2018</a></li>
+			<li id="menu-item-17654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17654 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2019/" class="tc-menu-inner">2019</a></li>
+			<li id="menu-item-23694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23694 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2020/" class="tc-menu-inner">2020</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-23397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23397 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">NewsLetters</span>
+<ul class="sub-menu">
+	<li id="menu-item-23581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23581 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><span class="tc-menu-inner tc-megamenu-title">Newsletters 2020</span>
+	<ul class="sub-menu">
+		<li id="menu-item-23746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23746 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/10/Urdu-NewsLetter-July-to-September-2020.pdf" class="tc-menu-inner">July to September</a>
+		<ul class="sub-menu">
+			<li id="menu-item-23768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23768 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/10/English-NewsLetter-July-to-September-2020-AC3.pdf" class="tc-menu-inner">July to Sept &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-23566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23566 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/08/Newsletter-DM-2020-Apr-May-June-k.pdf" class="tc-menu-inner">April To June 2020</a></li>
+		<li id="menu-item-23562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23562 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/06/Newsletter-DM-2020-Jan-Feb-March_compressed.pdf" class="tc-menu-inner">January to March &#8211; 2020</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li id="menu-item-23580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23580 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><span class="tc-menu-inner tc-megamenu-title">Newsletters 2019</span>
+	<ul class="sub-menu">
+		<li id="menu-item-23563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23563 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/07/Newsletter-Oct-to-Dec-2019-9.pdf" class="tc-menu-inner">October to December &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li id="menu-item-23703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23703 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/Newsletter-Oct-Dec-2019-ENGLISH.pdf" class="tc-menu-inner">Oct to Dec &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-23564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23564 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/07/Newsletter-July-Sep-2019-compressed.pdf" class="tc-menu-inner">July to September &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li id="menu-item-23692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23692 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/NEWSLETTER-JULY-SEP-2019-ENGLISH.pdf" class="tc-menu-inner">July to Sept &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li id="menu-item-23565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23565 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/01/E-Newsletter.pdf" class="tc-menu-inner">April to June &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li id="menu-item-23687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23687 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/NL-1-APR-JUNE-2019-ENGLISH-2_compressed-1.pdf" class="tc-menu-inner">April To June &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-9635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9635 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/admission-portal" class="tc-menu-inner">Admission Portal</a></li>
+<li id="menu-item-23304" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23304 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/education-services/" class="tc-menu-inner">Education Services</a></li>
+<li id="menu-item-23308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23308 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/news-updates/" class="tc-menu-inner">News &#038; Updates</a></li>
+<li id="menu-item-8449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8449 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/contact/" class="tc-menu-inner">Contact Us</a></li>
+</ul>
+<!--</div>-->				</nav>
+				<div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</div>
+			</div>
+			<!--end .row-->
+		</div>
+	</div>
+</div>		</header>
+		<!-- Mobile Menu-->
+		<nav class="mobile-menu-container mobile-effect">
+			<ul class="nav navbar-nav">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4524 current_page_item menu-item-7363 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/" class="tc-menu-inner">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23094 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/covid-19-update/" class="tc-menu-inner">COVID-19</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23303 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Departments</span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13883 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Academics</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23615 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2019/05/DuaeMadinah.pdf" class="tc-menu-inner">Dua-e-Madinah</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22744 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/RevPack/" class="tc-menu-inner">Revision Pack</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9947 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Book List</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17390 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="#" class="tc-menu-inner">Punjab</a>
+			<ul class="sub-menu">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9944 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/primary/" class="tc-menu-inner">Pre-Primary</a></li>
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9945 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/primary-3/" class="tc-menu-inner">Primary</a></li>
+				<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9946 tc-menu-item tc-menu-depth-4 tc-menu-align-left"><a href="https://www.darulmadinah.net/secondary-2/" class="tc-menu-inner">Secondary</a></li>
+			</ul><!-- End wrapper ul sub -->
+</li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17391 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/Sindh-Booklist-Class-Pre-Nursery-to-Class-VIII-min.pdf" class="tc-menu-inner">Sindh</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9675 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="http://data3.dawateislami.net:80/svn/darulmadina/school_system/Forweb" class="tc-menu-inner">Principal Portal</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13882 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Curriculum</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13881 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.dmiup.com/" class="tc-menu-inner">DMIUP Books</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19962 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Pre_nursery" class="tc-menu-inner">Pre-Primary Books</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19960 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Primary_Class_1_to_5" class="tc-menu-inner">Primary Books</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19961 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.dmiup.com/Secondary_Class_6_to_8" class="tc-menu-inner">Secondary Books</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13885 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Examinations</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17066 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Time Table</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17070 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/2_Updated-Mock_Examination_Timetable_Sindh_Class_IX-X-min.pdf" class="tc-menu-inner">Karachi</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17071 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/2_Updated-Mock_Examination_Timetable_Sindh_Class_IX-X-min.pdf" class="tc-menu-inner">Hyderabad</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17072 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/02/1_Combine_Timetable_Final_Term_Punjab-min.pdf" class="tc-menu-inner">Punjab</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8607 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/policy-methodology/" class="tc-menu-inner">Policy &#038; Methodology</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23404 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="ftp://113.203.233.172/Deeniyaat/" class="tc-menu-inner tc-megamenu-title">Deeniyaat</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9236 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="#" class="tc-menu-inner tc-megamenu-title">Training</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17413 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/introduction-3/" class="tc-menu-inner">Introduction</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17519 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="#" class="tc-menu-inner">Programs</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17367 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/winter-training-program/" class="tc-menu-inner">Winter Training Program</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17263 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/preset/" class="tc-menu-inner">Preset</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17264 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/summer-training-program/" class="tc-menu-inner">Summer Training Program</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17265 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/need-based-training/" class="tc-menu-inner">Need Based Training</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17266 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/saturday-based-training/" class="tc-menu-inner">Saturday Based Training</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17701 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/uninformed-inspection-2/" class="tc-menu-inner">Uninformed Inspection</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17704 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/informed-inspection-2/" class="tc-menu-inner">Informed Inspection</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17757 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/educational-survey/" class="tc-menu-inner">Educational Survey</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9844 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library" class="tc-menu-inner">E-library</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17650 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2015/" class="tc-menu-inner">2015</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17651 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2016/" class="tc-menu-inner">2016</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17652 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2017/" class="tc-menu-inner">2017</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17653 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2018/" class="tc-menu-inner">2018</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17654 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2019/" class="tc-menu-inner">2019</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23694 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="ftp://elibrary.darulmadinah.net/Training%20And%20Sessions/E-Library/2020/" class="tc-menu-inner">2020</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23397 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">NewsLetters</span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23581 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><span class="tc-menu-inner tc-megamenu-title">Newsletters 2020</span>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23746 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/10/Urdu-NewsLetter-July-to-September-2020.pdf" class="tc-menu-inner">July to September</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23768 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/10/English-NewsLetter-July-to-September-2020-AC3.pdf" class="tc-menu-inner">July to Sept &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23566 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/08/Newsletter-DM-2020-Apr-May-June-k.pdf" class="tc-menu-inner">April To June 2020</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23562 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/06/Newsletter-DM-2020-Jan-Feb-March_compressed.pdf" class="tc-menu-inner">January to March &#8211; 2020</a></li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23580 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><span class="tc-menu-inner tc-megamenu-title">Newsletters 2019</span>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23563 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/07/Newsletter-Oct-to-Dec-2019-9.pdf" class="tc-menu-inner">October to December &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23703 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/Newsletter-Oct-Dec-2019-ENGLISH.pdf" class="tc-menu-inner">Oct to Dec &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23564 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/07/Newsletter-July-Sep-2019-compressed.pdf" class="tc-menu-inner">July to September &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23692 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/NEWSLETTER-JULY-SEP-2019-ENGLISH.pdf" class="tc-menu-inner">July to Sept &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23565 tc-menu-item tc-menu-depth-2 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/01/E-Newsletter.pdf" class="tc-menu-inner">April to June &#8211; 2019</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23687 tc-menu-item tc-menu-depth-3 tc-menu-align-left"><a href="https://www.darulmadinah.net/wp-content/uploads/2020/09/NL-1-APR-JUNE-2019-ENGLISH-2_compressed-1.pdf" class="tc-menu-inner">April To June &#8211; (English)</a></li>
+		</ul><!-- End wrapper ul sub -->
+</li>
+	</ul><!-- End wrapper ul sub -->
+</li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9635 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/admission-portal" class="tc-menu-inner">Admission Portal</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23304 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/education-services/" class="tc-menu-inner">Education Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23308 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/news-updates/" class="tc-menu-inner">News &#038; Updates</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8449 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/contact/" class="tc-menu-inner">Contact Us</a></li>
+
+</ul>
+
+		</nav>
+		<div id="main-content">	<div id="main-home-content" class="home-content home-page container" role="main">
+		<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 100px" ><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_revslider_element wpb_content_element"><script type="text/javascript" src="https://www.darulmadinah.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?rev=5.4.7.3"></script><script type="text/javascript" src="https://www.darulmadinah.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?rev=5.4.7.3"></script>
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.7.3 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.7.3">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-61" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="https://www.darulmadinah.net/online-registration-form/"  data-target="_blank"  data-thumb="https://www.darulmadinah.net/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-03-at-12.30.12-PM-100x50.jpeg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://www.darulmadinah.net/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="WhatsApp Image 2020-10-03 at 12.30.12 PM"  width="1280" height="689" data-lazyload="https://www.darulmadinah.net/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-03-at-12.30.12-PM.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-62" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-link="https://www.darulmadinah.net/education-services/"   data-thumb="https://www.darulmadinah.net/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-03-at-5.06.37-PM-100x50.jpeg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://www.darulmadinah.net/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="Sindh Online Classes Channels" title="Sindh Online Classes Channels"  width="1263" height="750" data-lazyload="https://www.darulmadinah.net/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-03-at-5.06.37-PM.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-59" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://www.darulmadinah.net/wp-content/uploads/2020/03/web-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://www.darulmadinah.net/wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="Dar-ul-Madinah International Islamic School System" title="Dar-ul-Madinah International Islamic School System"  width="1263" height="750" data-lazyload="https://www.darulmadinah.net/wp-content/uploads/2020/03/web.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_1_1', responsiveLevels: [1240,1240,1240,480], gridwidth: [1200,1200,1200,581], gridheight: [750,750,750,320], sliderLayout: 'auto'});
+			
+var revapi1,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//www.darulmadinah.net/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:4000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"on",
+				arrows: {
+					style:"hephaistos",
+					enable:true,
+					hide_onmobile:false,
+					hide_onleave:false,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+			},
+			responsiveLevels:[1240,1240,1240,480],
+			visibilityLevels:[1240,1240,1240,480],
+			gridwidth:[1200,1200,1200,581],
+			gridheight:[750,750,750,320],
+			lazyType:"single",
+			shadow:0,
+			spinner:"spinner2",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			panZoomDisableOnMobile:"on",
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+		<script>
+					var htmlDivCss = ' #rev_slider_1_1_wrapper .tp-loader.spinner2{ background-color: #FFFFFF !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+					<script>
+					var htmlDivCss = unescape(".hephaistos.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A50%25%3B%0A%7D%0A.hephaistos.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hephaistos.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A18px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hephaistos.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-2px%3B%0A%20%20%0A%7D%0A.hephaistos.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-2px%3B%0A%7D%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid thim-best-industry vc_custom_1471005335630"><div class="boxme wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner vc_custom_1568719763061"><div class="wpb_wrapper"><div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image has_read_more  overlay "   data-text-readmore="#ffb606"><div class="smicon-box iconbox-left"><div class="boxes-icon" style="width: 105px;"><span class="inner-icon"><span class="icon icon-images"><img src="https://www.darulmadinah.net/wp-content/uploads/2018/06/ICON-WEBSITE-03-2.png" alt="Message" title="Message"  width="1383" height="1284"></span></span></div><div class="content-inner"  style="width: calc( 100% - 105px - 15px);"><div class="sc-heading article_heading"><h6 class = "heading__primary" >Message</h6></div><a class="smicon-read sc-btn" target="_self" href="https://www.darulmadinah.net/message/"  style="color: #ffffff;" >View More<i class="fa fa-chevron-right"></i></a></div></div><!--end smicon-box--></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner vc_custom_1471791466594"><div class="wpb_wrapper"><div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image has_read_more  overlay "   data-text-readmore="#ffb606"><div class="smicon-box iconbox-left"><div class="boxes-icon" style="width: 110px;"><span class="inner-icon"><span class="icon icon-images"><img src="https://www.darulmadinah.net/wp-content/uploads/2018/06/ICON-WEBSITE-09-1.png" alt="Mission" title="Mission"  width="1592" height="1374"></span></span></div><div class="content-inner"  style="width: calc( 100% - 110px - 15px);"><div class="sc-heading article_heading"><h3 class = "heading__primary" >Mission</h3></div><a class="smicon-read sc-btn" target="_self" href="https://www.darulmadinah.net/our-mission/"  style="color: #ffffff;" >View More<i class="fa fa-chevron-right"></i></a></div></div><!--end smicon-box--></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner vc_custom_1471791487523"><div class="wpb_wrapper"><div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image has_read_more  overlay "   data-text-readmore="#ffb606"><div class="smicon-box iconbox-left"><div class="boxes-icon" style="width: 90px;"><span class="inner-icon"><span class="icon icon-images"><img src="https://www.darulmadinah.net/wp-content/uploads/2018/06/ICON-WEBSITE-05-1.png" alt="Locations" title="Locations"  width="1188" height="1353"></span></span></div><div class="content-inner"  style="width: calc( 100% - 90px - 15px);"><div class="sc-heading article_heading"><h3 class = "heading__primary" >Campuses</h3></div><a class="smicon-read sc-btn" target="_self" href="https://www.darulmadinah.net/our-campuses/"  style="color: #ffffff;" >View More<i class="fa fa-chevron-right"></i></a></div></div><!--end smicon-box--></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-icon-box"><div class="wrapper-box-icon has_custom_image has_read_more  overlay "   data-text-readmore="#ffb606"><div class="smicon-box iconbox-left"><div class="boxes-icon" style="width: 100px;"><span class="inner-icon"><span class="icon icon-images"><img src="https://www.darulmadinah.net/wp-content/uploads/2018/06/ICON-WEBSITE-06-1.png" alt="Books" title="Books"  width="1527" height="1356"></span></span></div><div class="content-inner"  style="width: calc( 100% - 100px - 15px);"><div class="sc-heading article_heading"><h3 class = "heading__primary" >Books</h3></div><a class="smicon-read sc-btn" target="_self" href="http://www.dmiup.com/"  style="color: #ffffff;" >View More<i class="fa fa-chevron-right"></i></a></div></div><!--end smicon-box--></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="thim-widget-heading"><div class="sc_heading   text-center"><h2 style="color:#1b75bc;" class="title">Welcome to</h2></div></div>
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<div class="thim-widget-heading">
+<div class="sc_heading wpb_animate_when_almost_visible wpb_left-to-right text-center wpb_start_animation animated">
+<h4 class="title">DAR-UL-MADINAH INTERNATIONAL ISLAMIC SCHOOL SYSTEM</h4>
+</div>
+</div>
+<p style="text-align: center;">Dar-ul-Madinah International Islamic School System has set an objective of improving conventional academic studies in conformity with Shari’ah. It is one of over 100 departments functioning under Dawat-e-Islami, a global and non-political movement for preaching the Holy Quran and Sunnah. This education system is to help students learn and thrive to the best of their abilities within the boundaries of Islam. It also aims to develop an environment where Islamic values shall be honoured in all management, curriculum, and teaching practices.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_left-to-right text-center"><h3 style="color:#1b75bc;" class="title">DMIUP BOOKS</h3></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-3d vc_btn3-color-grey" href="https://www.dmiup.com/Pre_nursery" title="" target="_blank">Published Books</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" >
+	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-3d vc_btn3-color-grey" href="https://www.dmiup.com/Concept_pre_primary_to_eigth" title="" target="_blank">Upcoming Books</a></div>
+</div></div></div></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_separator_no_text" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#ebebeb;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#ebebeb;" class="vc_sep_line"></span></span>
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_shadow  vc_box_border_grey"><img width="640" height="640" src="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1024x1024.jpeg" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1024x1024.jpeg 1024w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-300x300.jpeg 300w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-150x150.jpeg 150w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-768x768.jpeg 768w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-600x600.jpeg 600w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-100x100.jpeg 100w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM.jpeg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<h4 class="text-pre" style="text-align: center;">Learn to Lead</h4>
+<p style="text-align: center;">Pre-Nursery | TextBook</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center" >
+	<a style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-custom" href="https://www.dmiup.com/public_html/web_assets/pdf/pre_nursery/1.pdf" title="" target="_blank">Sample Pages</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_shadow  vc_box_border_grey"><img width="640" height="640" src="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-1024x1024.jpeg" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-1024x1024.jpeg 1024w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-300x300.jpeg 300w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-150x150.jpeg 150w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-768x768.jpeg 768w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-600x600.jpeg 600w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1-100x100.jpeg 100w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.35-AM-1.jpeg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<h4 class="text-pre" style="text-align: center;">Learn to Lead</h4>
+<p style="text-align: center;">Pre-Nursery | WorkBook</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center" >
+	<a style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-custom" href="https://www.dmiup.com/public_html/web_assets/pdf/pre_nursery/2.pdf" title="" target="_blank">Sample Pages</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_shadow  vc_box_border_grey"><img width="640" height="640" src="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-1024x1024.jpeg" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-1024x1024.jpeg 1024w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-300x300.jpeg 300w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-150x150.jpeg 150w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-768x768.jpeg 768w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-600x600.jpeg 600w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM-100x100.jpeg 100w, https://www.darulmadinah.net/wp-content/uploads/2020/07/WhatsApp-Image-2020-06-19-at-11.19.36-AM.jpeg 1280w" sizes="(max-width: 640px) 100vw, 640px" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<h4 class="text-pre" style="text-align: center;">Mathematics</h4>
+<p style="text-align: center;">Pre-Nursery | TextBook</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center" >
+	<a style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-custom" href="https://www.dmiup.com/Concept_pre_primary_to_eigth" title="" target="_blank">Sample Pages</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_shadow  vc_box_border_grey"><img width="640" height="614" src="https://www.darulmadinah.net/wp-content/uploads/2020/01/WhatsApp-Image-2019-09-12-at-2.52.56-PM-768x737-min.jpeg" class="vc_single_image-img attachment-large" alt="" loading="lazy" srcset="https://www.darulmadinah.net/wp-content/uploads/2020/01/WhatsApp-Image-2019-09-12-at-2.52.56-PM-768x737-min.jpeg 768w, https://www.darulmadinah.net/wp-content/uploads/2020/01/WhatsApp-Image-2019-09-12-at-2.52.56-PM-768x737-min-300x288.jpeg 300w, https://www.darulmadinah.net/wp-content/uploads/2020/01/WhatsApp-Image-2019-09-12-at-2.52.56-PM-768x737-min-600x576.jpeg 600w" sizes="(max-width: 640px) 100vw, 640px" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<h4 class="text-pre" style="text-align: center;">English</h4>
+<p style="text-align: center;">Pre-Primary | WorkBook</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center" >
+	<a style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-custom" href="https://www.dmiup.com/Concept_pre_primary_to_eigth" title="" target="_blank">Sample Pages</a></div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 25px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_left-to-right text-center"><h3 style="color:#1B75BC;" class="title">LATEST DOCUMENTARIES</h3></div></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_shadow vc_sep_border_width_4 vc_sep_pos_align_center vc_separator_no_text" ><span class="vc_sep_holder vc_sep_holder_l"><span  style="border-color:#16578e;" class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  style="border-color:#16578e;" class="vc_sep_line"></span></span>
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<p><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDarulMadinah%2Fvideos%2F373346387404841%2F&amp;show_text=0&amp;width=560" width="350" height="200" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<button style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">madani channel news</button></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<p><iframe src="https://www.youtube.com/embed/seVUrY-fSRw" width="350" height="200" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-left" >
+	<button style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">Classroom Behaviour</button></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_zoomIn zoomIn" >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/wn0BF957P14?rel=0" width="350" height="200" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center" >
+	<button style="background-color:#1b75bc; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">Message for children</button></div>
+</div></div></div></div><div class="vc_empty_space"   style="height: 28px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_left-to-right text-center"><h3 style="color:#1b75bc;" class="title">MEDIA</h3></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_animate_when_almost_visible wpb_zoomIn zoomIn wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/IMG-20181027-WA0030-1024x768.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #16578e;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="color: #ffffff;text-align: center" class="vc_custom_heading" ><a href="https://www.darulmadinah.net/writing-competition/" target=" _blank">Writing Competition </a></h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/94-768x1024.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #92b43e;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="color: #ffffff;text-align: center" class="vc_custom_heading" ><a href="https://www.darulmadinah.net/meelad-celebration/" target=" _blank">Meelad Celebration </a></h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/WhatsApp-Image-2017-04-28-at-1.09.10-PM-1024x576.jpeg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #019901;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="color: #ffffff;text-align: center" class="vc_custom_heading" ><a href="https://www.darulmadinah.net/green-day/" target=" _blank">Green Day</a></h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/33-768x1024.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #16578e;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="color: #ffffff;text-align: center" class="vc_custom_heading" >Traffic Activity Day</h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/IMG-20161222-WA0009-1-576x1024.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #fe9901;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="color: #ffffff;text-align: center" class="vc_custom_heading" ><a href="https://www.darulmadinah.net/orange-day/" target=" _blank">Orange Day</a></h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" >
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://www.darulmadinah.net/wp-content/uploads/2019/02/4-1024x768.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #d6d6d6;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Profession Day</h2>
+            
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div></div></div></div><div class="wpb_animate_when_almost_visible wpb_zoomIn zoomIn wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="wpb_images_carousel wpb_content_element vc_clearfix">
+	<div class="wpb_wrapper">
+				<div id="vc_images-carousel-1-1602700848" data-ride="vc_carousel" data-wrap="true" style="width: 595px;" data-interval="5000" data-auto-height="yes" data-mode="horizontal" data-partial="false" data-per-view="1" data-hide-on-end="false" class="vc_slide vc_images_carousel">
+							<!-- Indicators -->
+				<ol class="vc_carousel-indicators">
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="0"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="1"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="2"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="3"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="4"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="5"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="6"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="7"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="8"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="9"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="10"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="11"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="12"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="13"></li>
+											<li data-target="#vc_images-carousel-1-1602700848" data-slide-to="14"></li>
+									</ol>
+						<!-- Wrapper for slides -->
+			<div class="vc_carousel-inner">
+				<div class="vc_carousel-slideline">
+					<div class="vc_carousel-slideline-inner">
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0095-1024x787.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0095-scaled-595x490.jpg" width="595" height="490" alt="Deputy Secretary Education Sindh" title="Deputy Secretary Education Sindh" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0055-1-1024x683.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0055-1-scaled-595x490.jpg" width="595" height="490" alt="Deputy Secretary Education Sindh" title="Deputy Secretary Education Sindh" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0080-891x1024.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2020/01/IMG_0080-scaled-595x490.jpg" width="595" height="490" alt="Deputy Secretary Education Sindh" title="Deputy Secretary Education Sindh" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-22-1024x682.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-22-595x490.jpg" width="595" height="490" alt="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-01-1024x682.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-01-595x490.jpg" width="595" height="490" alt="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-12-1024x682.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-12-595x490.jpg" width="595" height="490" alt="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-06-1024x682.jpg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/1-06-595x490.jpg" width="595" height="490" alt="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Orya Maqbool Jan, a famous columnist, poet, author of many books and former civil servant visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.29-PM-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.29-PM-595x490.jpeg" width="595" height="490" alt="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.20-PM-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.20-PM-595x490.jpeg" width="595" height="490" alt="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.23-PM-1-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-12-at-4.39.23-PM-1-595x490.jpeg" width="595" height="490" alt="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" title="Associate Professor &amp; Member of Curriculum Division Dr. Muhammad Idrees visited Head Office of Dar-ul-Madinah International Islamic School System!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-09-at-12.32.45-PM-1-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-09-at-12.32.45-PM-1-595x490.jpeg" width="595" height="490" alt="Professor Dr. Ishtiaq Ahmed Khan from University of Karachi visited Dar-ul-Madinah International Islamic School System Head Office!" title="Professor Dr. Ishtiaq Ahmed Khan from University of Karachi visited Dar-ul-Madinah International Islamic School System Head Office!" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-03-at-2.51.19-PM-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-03-at-2.51.19-PM-595x490.jpeg" width="595" height="490" alt="Regional Directors and Head of Departments" title="Regional Directors and Head of Departments" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/44-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/44-595x490.jpeg" width="595" height="490" alt="Inspection" title="Inspection" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/4-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/4-595x490.jpeg" width="595" height="490" alt="Inspection" title="Inspection" />										</a>
+																	</div>
+							</div>
+																				<div class="vc_item">
+								<div class="vc_inner">
+																													<a class="prettyphoto" href="https://www.darulmadinah.net/wp-content/uploads/2019/10/33-1024x682.jpeg"  data-rel="prettyPhoto[rel-4524-488264862]">
+											<img class="" src="https://www.darulmadinah.net/wp-content/uploads/2019/10/33-595x490.jpeg" width="595" height="490" alt="Inspection" title="Inspection" />										</a>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+					</div>
+	</div>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="134" height="128" src="https://www.darulmadinah.net/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-07-at-2.27.31-PM.jpeg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy" /></div>
+		</figure>
+	</div>
+<div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_bottom-to-top text-center"><h3 style="color:#000000;font-size:25px;" class="title">STUDENTS</h3></div></div><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_appear text-center"><h3 style="color:#1b75bc;" class="title">+18,000</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="134" height="128" src="https://www.darulmadinah.net/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-07-at-2.27.32-PM.jpeg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy" /></div>
+		</figure>
+	</div>
+<div class="thim-widget-heading"><div class="sc_heading   text-center"><h3 style="color:#000000;font-size:25px;" class="title">YEARS</h3></div></div><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_appear text-center"><h3 style="color:#1b75bc;" class="title">08</h3></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="134" height="128" src="https://www.darulmadinah.net/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-07-at-2.27.30-PM.jpeg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy" /></div>
+		</figure>
+	</div>
+<div class="thim-widget-heading"><div class="sc_heading   text-center"><h3 style="color:#000000;font-size:25px;" class="title">CAMPUSES</h3></div></div><div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_appear text-center"><h3 style="color:#1b75bc;" class="title">+84</h3></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="thim-widget-heading"><div class="sc_heading   wpb_animate_when_almost_visible wpb_left-to-right text-center"><h3 style="color:#1b75bc;" class="title">WHERE WE ARE</h3></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1602662029929 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="https://www.darulmadinah.net/"><span style="color: #000000;">PAKISTAN</span></a></h3>
+<h4><span style="color: #000000;">   Sindh</span></h4>
+<p style="text-align: left;"><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/hyderabad-campuses/">Hyderabad</a>   </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/karachi-campuses/">Karachi</a>         </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/larkana-campuses/">Larkana </a>             </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/sukkur-campuses/">Sukkur</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/shahdadpur-campuses/">Shahdadpur</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/tando-adam-campuses/">Tando Adam</a></span></p>
+<p>&nbsp;</p>
+<h4><span style="color: #000000;">   Punjab</span></h4>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/bhalwal-campuses/">Bhalwal</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/chashma-campuses-2/">Chashma</a> </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/dinga-campuses/">Dinga</a> </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/faisalabad-campuses/">Faisalabad</a> </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/gujrat-campuses/">Gujrat</a> </span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 95px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="#">Gujranwala</a>        </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/jatoi/">Jatoi</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/jhang-campuses/">Jhang</a>                  </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/lahore-campuses/">Lahore</a>  </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/multan-campuses/">Multan</a>      </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/mandi-bahauddin/">Mandi Bahauddin</a></span></p>
+<p><strong><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </span></strong><span style="color: #000000;"><a href="https://www.darulmadinah.net/pindi-gheb/">Pindi Gheb</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/rawalpindi-campuses/">Rawalpindi</a> </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/sialkot-campuses/">Sialkot</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/sargodha-campuses/">Sargodha</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="#">Sharaqpur</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a href="https://www.darulmadinah.net/wah-cantt-campuses/">Wah Cantt</a></span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="http://darulmadinah.edu.in/"><span style="color: #000000;">INDIA</span></a></h3>
+<p>&nbsp;</p>
+<p><strong><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" /></span></strong><span style="color: #000000;">  </span><span style="color: #000000;"><a style="color: #000000;" href="https://www.darulmadinah.net/agra-campus/">Agra</a><br />
+</span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/akola-campuses/">Akola</a>                                    <strong><br />
+</strong></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/pune-campuses/">Pune</a>                                     </span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/delhi-camups/">Delhi</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/nagpur-campuses/">Nagpur</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/rajouri-campus/">Rajouri</a></span></p>
+<p><span style="color: #000000;"><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/modassa/">Modasa</a></span></p>
+<p><span style="color: #000000;"><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  <a style="color: #000000;" href="https://www.darulmadinah.net/mumbai-campuses/">Mumbai</a></span></p>
+<p><span style="color: #000000;"><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/ahmedabad/">Ahmedabad</a></span></p>
+<p><span style="color: #000000;"><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/himmatnagar/">Himmat Nagar</a></span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="#"><span style="color: #000000;">BANGLADESH</span></a></h3>
+<p>&nbsp;</p>
+<p><b><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong></b><a href="https://www.darulmadinah.net/bangladesh-campus/">Saidpur</a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="#"><span style="color: #000000;">UK</span></a></h3>
+<p>&nbsp;</p>
+<p><b><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" /></strong></b>  <a href="https://www.darulmadinah.net/blackburn/"><span style="color: #000000;">Blackburn</span></a></p>
+<p><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/slough/"><span style="color: #000000;">Slough</span></a></p>
+<p><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/rotherham/"><span style="color: #000000;">Rotherham</span></a></p>
+<p><strong><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </strong><a href="https://www.darulmadinah.net/london/"><span style="color: #000000;">London</span></a></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-2"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="#"><span style="color: #000000;">USA</span></a></h3>
+<p>&nbsp;</p>
+<p><b><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" />  </b><a href="https://www.darulmadinah.net/usa/"><span style="color: #000000;">California</span></a></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3><a href="#">Nepal</a></h3>
+<p>&nbsp;</p>
+<p><b><img loading="lazy" class="alignnone wp-image-20191" src="https://www.darulmadinah.net/wp-content/uploads/2019/07/images.png" alt="" width="8" height="8" /></b> <a href="https://www.darulmadinah.net/nepalganj-campuses/">Nepalganj</a></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+	</div><!-- #main-content -->
+
+<footer id="colophon" class=" site-footer">
+			<div class="footer">
+			<div class="container">
+				<div class="row">
+					<aside id="text-3" class="col-sm-4 widget widget_text footer_widget">			<div class="textwidget"><div class="thim-footer-location">
+
+<img class="alignnone size-full wp-image-10" src="https://www.darulmadinah.net/wp-content/uploads/2019/04/white-logos.png" alt="Dar-ul-Madinah International Islamic School System" width="250" height="150" />
+
+<p class="info"></i><i class="fa fa-phone"></i><a href="tel:00123456789">+92-21-34813326</a></p>
+<p class="info"><i class="fa fa-envelope"></i><a href="mailto:info@darulmadinah.net
+">info@darulmadinah.net
+</a></p>
+
+</div>
+<div class="thim-social">
+	<ul class="social_link">
+		<li><a class="facebook hasTooltip" href="https://www.facebook.com/DarulMadinah/" target="_self" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a></li>
+		<li><a class="twitter hasTooltip" href="https://twitter.com/daarulmadinah" target="_self" rel="noopener noreferrer"><i class="fa fa-twitter"></i></a></li>
+		<li><a class="instagram hasTooltip" href="https://www.instagram.com/darulmadinahofficial" target="_self" rel="noopener noreferrer"><i class="fa fa-instagram"></i></a></li>
+		<li><a class="linkedin hasTooltip" href="https://www.linkedin.com/company/darulmadinahofficial/" target="_self" rel="noopener noreferrer"><i class="fa fa-linkedin"></i></a></li>
+
+<li><a class="youtube hasTooltip" href="https://www.youtube.com/c/DarulMadinahInternationalIslamicSchoolSystem" target="_self" rel="noopener noreferrer"><i class="fa fa-youtube"></i></a></li>
+
+	</ul>
+</div></div>
+		</aside><aside id="nav_menu-15" class="col-sm-2 widget widget_nav_menu footer_widget"><h4 class="widget-title">CURRICULUM</h4><div class="menu-curriculum-container"><ul id="menu-curriculum" class="menu"><li id="menu-item-17000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17000 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="http://www.dmiup.com/" class="tc-menu-inner">DMIUP Books</a></li>
+<li id="menu-item-21135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21135 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/stationery-2/" class="tc-menu-inner">Stationery</a></li>
+<li id="menu-item-21133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21133 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="#" class="tc-menu-inner">Curriculum Department</a></li>
+</ul></div></aside><aside id="nav_menu-16" class="col-sm-2 widget widget_nav_menu footer_widget"><h4 class="widget-title">Contact Us</h4><div class="menu-contact-us-container"><ul id="menu-contact-us" class="menu"><li id="menu-item-8552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8552 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/contact/" class="tc-menu-inner">Contact Info</a></li>
+<li id="menu-item-8551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8551 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/introduction/" class="tc-menu-inner">Introduction</a></li>
+<li id="menu-item-16984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16984 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://www.darulmadinah.net/our-campuses/" class="tc-menu-inner">Our Campuses</a></li>
+</ul></div></aside><aside id="nav_menu-17" class="col-sm-2 widget widget_nav_menu footer_widget"><h4 class="widget-title">Media</h4><div class="menu-media-container"><ul id="menu-media" class="menu"><li id="menu-item-16929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16929 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/videos/" class="tc-menu-inner">Videos</a></li>
+<li id="menu-item-16921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16921 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/gallery/" class="tc-menu-inner">Gallery</a></li>
+<li id="menu-item-16969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16969 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/news-updates/" class="tc-menu-inner">News &#038; Updates</a></li>
+</ul></div></aside><aside id="nav_menu-18" class="col-sm-2 widget widget_nav_menu footer_widget"><h4 class="widget-title">Recommend</h4><div class="menu-recommend-container"><ul id="menu-recommend" class="menu"><li id="menu-item-17006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17006 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/careers/" class="tc-menu-inner">Careers</a></li>
+<li id="menu-item-8566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8566 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/admission-portal/" class="tc-menu-inner">Admission Portal</a></li>
+<li id="menu-item-8565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8565 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://www.darulmadinah.net/policy-methodology/" class="tc-menu-inner">Policy &#038; Methodology</a></li>
+</ul></div></aside>				</div>
+			</div>
+		</div>
+	
+				<div class="copyright-area">
+				<div class="container">
+					<div class="copyright-content">
+						<div class="row">
+							<div class="col-sm-6"><p class="text-copyright">Copyright © 2019 by I.T Department of Dar-ul-Madinah.</p></div>								<div class="col-sm-6 text-right">
+									<aside id="nav_menu-14" class="widget widget_nav_menu"></aside>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		
+</footer><!-- #colophon -->
+</div><!--end main-content-->
+
+
+</div><!-- end content-pusher-->
+
+			<a href="#" id="back-to-top">
+				<i class="fa fa-chevron-up" aria-hidden="true"></i>
+			</a>
+			
+
+</div><!-- end wrapper-container -->
+
+
+		
+	    <script type="text/javascript">
+	        
+	        //jQuery(document).ready(function($) {
+	        jQuery(document).ready(function($){
+
+					if ($.browser.chrome) {
+					//autcomplete_false();
+
+						$("input").each(function() {
+					    	
+					    	$(this).attr('autocomplete', 'false'); //FALSE AS OF 2015
+
+					    }); // .each
+
+					    $("form").each(function() {
+					    	
+					    	$(this).attr('autocomplete', 'false'); //FALSE AS OF 2015
+
+						}); // .each
+
+					} else {
+
+						$("input").each(function() {
+
+					    	$(this).attr('autocomplete', 'off');
+
+
+					    }); // .each
+
+					    $("form").each(function() {
+
+					    	$(this).attr('autocomplete', 'off');
+
+					    }); // .each
+
+					} // end if
+
+				});
+
+		    </script>
+
+<div class="gallery-slider-content"></div>			<script data-cfasync="false" type="text/javascript">
+				window.onload = function () {
+                    var thim_preload = document.getElementById("preload");
+                    if( thim_preload ) {
+                        setTimeout(function () {
+                            var body = document.getElementById("thim-body"),
+                                len = body.childNodes.length,
+                                class_name = body.className.replace(/(?:^|\s)thim-body-preload(?!\S)/, '').replace(/(?:^|\s)thim-body-load-overlay(?!\S)/, '');
+
+                            body.className = class_name;
+                            if (typeof thim_preload !== 'undefined' && thim_preload !== null) {
+                                for (var i = 0; i < len; i++) {
+                                    if (body.childNodes[i].id !== 'undefined' && body.childNodes[i].id == "preload") {
+                                        body.removeChild(body.childNodes[i]);
+                                        break;
+                                    }
+                                }
+                            }
+                        }, 500);
+                    }
+				};
+			</script>
+			        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * Fix issue there is an empty spacing between image and title of owl-carousel
+                 */
+                setTimeout(function () {
+                    var $ = jQuery;
+                    var $carousel = $('.thim-owl-carousel-post').each(function () {
+                        $(this).find('.image').css('min-height', 0);
+                        $(window).trigger('resize');
+                    });
+                }, 500);
+            })
+        </script>
+		        <div id="ajax-login-register-login-dialog" class="zm_alr_login_dialog zm_alr_dialog ajax-login-register-container" title="Login" data-security="fb6fb37d52">
+            <div id="ajax-login-register-login-target" class="ajax-login-register-login-dialog">Loading...            </div>
+                    </div>
+            <div id="ajax-login-register-dialog" class="zm_alr_register_dialog zm_alr_dialog ajax-login-register-container" title="Register" data-security="c6335177fd" style="display: none;">
+            <div id="ajax-login-register-target" class="ajax-login-register-dialog">Loading...</div>
+                    </div>
+    	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+				<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='animate-css-css'  href='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_carousel_css-css'  href='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min.css?ver=5.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css'  href='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.4.7' type='text/css' media='all' />
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.darulmadinah.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.8.1' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_9f9c9e36dfc2020b7c62b67dd7d75950","fragment_name":"wc_fragments_9f9c9e36dfc2020b7c62b67dd7d75950","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.8.1' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/themes/eduma/assets/js/main.min.js?ver=3.4.2' id='thim-main-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/themes/eduma/assets/js/smooth_scroll.min.js?ver=3.4.2' id='thim-smooth-scroll-js'></script>
+<script type='text/javascript' id='thim-custom-script-js-extra'>
+/* <![CDATA[ */
+var thim_js_translate = {"login":"Username","password":"Password","close":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/themes/eduma/assets/js/custom-script.js?ver=3.4.2' id='thim-custom-script-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.7' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.7' id='waypoints-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min.js?ver=5.4.7' id='vc_transition_bootstrap_js-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min.js?ver=5.4.7' id='vc_carousel_js-js'></script>
+<script type='text/javascript' src='https://www.darulmadinah.net/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.4.7' id='prettyphoto-js'></script>
+</body>
+</html>

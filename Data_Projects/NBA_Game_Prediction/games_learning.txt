@@ -1,0 +1,292 @@
+import pandas as pd
+from math import exp, log
+import matplotlib.pyplot as plt
+import numpy as np
+
+from numpy.linalg import inv
+from numpy import \
+     add as add, \
+     matmul as mul, \
+     transpose as T, \
+     subtract as sub, \
+     multiply as mult, \
+     asmatrix as mtrx
+
+
+def mtl_gd(X, y,
+           init_w = .004,
+           alpha_w = .0005,
+           init_s = .08,
+           alpha_s = 0.00005,
+           using_HU = True):
+
+    rows_X, cols_X = X.shape
+    model_file = open("multi_task_gradient_descent.txt", "w")
+    
+    d_model = lambda y_model: mul(inv(mul(T(X), X)), mul(T(X), y_model))
+    d_rgrsn = lambda s, L_model: (L_model - s**2) / (s**3)
+    d_class = lambda s, L_model: (2 * L_model - s**2) / (s**3)
+
+    all_model_wts = [[[init_w] * cols_X] * task.shape[1] for task in y]
+    sigmas = [init_s] * len(y)
+    
+    min_loss = -1
+
+    while True:
+
+        total_loss = 0
+        for r in range(rows_X):
+
+            for i in range(len(y)):
+
+                rows_y, cols_y = y[i].shape
+                model_wts = all_model_wts[i]
+                sigma = sigmas[i]
+
+                numer = 0
+                denom = 0
+                               
+                for c_y in range(cols_y):
+                    
+                    XTw = float(np.sum(mul(T(X[r]), model_wts[c_y])))
+                        
+                    if cols_y > 1:
+                        denom += exp(XTw)
+                        
+                        if int(y[i][r, c_y]) == 1:
+                            numer = exp(XTw)
+
+                        if c_y == cols_y - 1:
+                            loss = -log(numer / denom)
+                            total_loss += loss if not using_HU else \
+                                          (loss / (sigma**2)) + \
+                                          log(sigma)
+                        
+                    else:
+                        loss = (float(y[i][r, c_y]) - XTw) ** 2
+                        total_loss += loss if not using_HU else \
+                                      (loss / (2 * (sigma**2))) + \
+                                      log(sigma)
+
+                all_model_wts[i] = add(model_wts,
+                                       mult(alpha_w,
+                                            T(d_model(y[i]))))
+                
+            for i in range(len(y)):
+                
+                sigmas[i] = add(sigma,
+                                mult(alpha_s,
+                                     T(d_class(sigma, loss))))
+                
+                if cols_y == 1:
+                    sigmas[i] = add(sigma,
+                                    mult(alpha_s,
+                                         T(d_rgrsn(sigma, loss))))
+                    
+        if min_loss != -1 and total_loss >= min_loss:
+            break
+        
+        model_file.write(str(total_loss) + "\n")
+        min_loss = total_loss
+        
+    model_file.close()
+    return all_model_wts
+
+
+def get_ROC_curve_pts(preds, model, trial):
+        
+    diag_x = [0.01 * x for x in range(101)]
+    diag_y = [0.01 * x for x in range(101)]
+
+    plt.clf()
+    plt.plot(diag_x, diag_y, color="blue")
+
+    x_pts = []
+    y_pts = []
+
+    for loc in preds:
+        for team in preds[loc]:
+
+            pred_y = preds[loc][team][trial]
+            pred_y.sort(reverse = True)
+            
+            tp, fp = 0, 0
+            fn = sum([pred[1] for pred in pred_y if pred[1] == 1])
+            tn = len(pred_y) - fn
+
+            for pred in pred_y:
+                
+                tp += pred[1]
+                fn -= pred[1]
+                fp += 1 - pred[1]
+                tn -= 1 - pred[1]
+
+                x_pts.append(fp / (fp + tn))
+                y_pts.append(tp / (tp + fn))
+                
+    plt.plot(x_pts, y_pts, color="red")
+                     
+    plt.xlabel("False Positive Rate")
+    plt.ylabel("True Positive Rate")
+    plt.title("ROC Curve (Initial W Values = .0004, Alpha = 0.0005)")
+
+    alg = "NO" if trial.startswith("W/O") else "W"
+    plt.savefig(model + "_" + alg + "_sigmas_ROC.png")
+    
+
+games = pd.read_csv('games.csv')   
+teams_data = pd.read_csv('teams.csv')
+teams = teams_data.copy()['TEAM_ID']
+
+models = ['SEASON', 'PART']
+trials = ['W/ SIGMAS', 'W/O SIGMAS']
+locs = ['HOME_TEAM_ID', 'VISITOR_TEAM_ID']
+
+w_keys = dict.fromkeys
+lin_loss = w_keys(trials, 0)
+preds_y = w_keys(models,
+                 w_keys(locs,
+                        w_keys(teams,
+                               w_keys(trials, []))))
+
+
+seasons = games['SEASON'].unique()
+part = ['PRESEASON', 'REGULAR', 'FINALS']
+
+pts = ['PTS_home', 'PTS_away']
+for loc in locs:
+
+    print("- " + pts[0][4:].capitalize() + " games")
+    for team in teams:
+
+        name = teams_data.loc[teams_data['TEAM_ID'] == team,
+                              'ABBREVIATION'
+                              ].values[0]
+        print("  + " + name, end='')
+        team_games = games[games[loc] == team].copy()
+
+        print("    > Targets", end='')
+        targets = pd.DataFrame({
+            "GAME_ID": [r['GAME_ID'] for i, r \
+                        in team_games.iterrows()],
+            "PTS_DIFF": [r[pts[0]] - r[pts[1]] for i, r \
+                         in team_games.iterrows()]})
+        targets[seasons] = [0] * len(seasons)
+        targets[part] = [0] * len(part)
+
+        for idx, row in targets.iterrows():
+
+            game_row = team_games[
+                team_games['GAME_ID'] == row['GAME_ID']]
+
+            if str(row['GAME_ID']).startswith('1'):
+                targets.loc[idx, "PRESEASON"] = 1
+            elif str(row['GAME_ID']).startswith('2'):
+                targets.loc[idx, "REGULAR"] = 1
+            else:
+                targets.loc[idx, "FINALS"] = 1
+               
+            targets.loc[idx, game_row['SEASON']] = 1
+        
+        season_cols = [x for x in list(targets.columns) \
+                       if str(x)[:2] == '20']
+        splits = {"TRAIN": None, "TEST": None}
+
+        y_won_data = targets[["PTS_DIFF"]].copy()
+        y_szn_data = targets[season_cols].copy()
+        y_pts_data = targets[part].copy()
+
+        train = lambda df: [i for i, r in df.iterrows() if i % 4 != 0]
+        test = lambda df: [i for i, r in df.iterrows() if i % 4 == 0]
+        to_numpy_train = lambda data: \
+                         data.copy().iloc[train(data)].fillna(0).values
+        to_numpy_test = lambda data: \
+                        data.copy().iloc[test(data)].fillna(0).values
+
+        train_y_won = to_numpy_train(y_won_data)
+        train_y_szn = to_numpy_train(y_szn_data)
+        train_y_pts = to_numpy_train(y_pts_data)
+
+        test_y_won = to_numpy_test(y_won_data)
+        test_y_szn = to_numpy_test(y_szn_data)
+        test_y_pts = to_numpy_test(y_pts_data)
+
+        train_y = [train_y_won, train_y_szn, train_y_pts]
+        test_y = [test_y_won, test_y_szn, test_y_pts]
+
+        print("    > Features", end='')
+        feature_drop_cols = ['HOME_TEAM_WINS', 'GAME_DATE_EST', 'GAME_STATUS_TEXT',
+                             'SEASON', 'GAME_ID', 'HOME_TEAM_ID', 'VISITOR_TEAM_ID',
+                             'TEAM_ID_home', 'TEAM_ID_away']
+        features = team_games.drop(feature_drop_cols, axis=1).reset_index()
+
+        train_x = to_numpy_train(features)
+        test_x = to_numpy_test(features)
+
+        print("    > Running MTL")
+        weights = {}
+        weights['W/ SIGMAS'] = mtl_gd(train_x, train_y)
+        weights['W/O SIGMAS'] = mtl_gd(train_x, train_y, using_HU=False)
+
+        for trial in weights:
+            for i in range(len(test_y)):
+                
+                prob = 0
+                rows_y, cols_y = test_y[i].shape
+                
+                for r in range(rows_y):
+
+                    numers = []
+                    y_vals = []
+                    
+                    for c in range(cols_y):
+                        
+                        XTw = float(np.sum(mul(T(test_x[r]),
+                                               weights[trial][i][c])))
+                        
+                        if cols_y == 1:
+                            prob += ((float(test_y[i][r, 0]) - XTw)**2)
+
+                        else:
+                            numers.append(exp(XTw))
+
+                    if cols_y > 1:
+                 
+                        preds = [[numers[c] / sum(numers),
+                                  test_y[i][r, c]] \
+                                 for c in range(cols_y)]
+                        
+                        preds_y[models[i - 1]][loc][team][trial] += preds
+
+                if cols_y == 1:
+                    lin_loss[trial] += prob / rows_y
+                                   
+    print()
+    pts.reverse()
+
+model_file = open("multi_task_gradient_descent.txt", "a")    
+model_file.write("The Loss:\n")
+print("\nThe Loss:")
+for i in range(len(test_y)):
+
+    if test_y[i].shape[1] == 1:
+        model_file.write(" - Model: Pts Diff")
+        model_file.write("   > (W/ SIGMAS) MSE: " + \
+                         str(lin_loss['W/ SIGMAS'] / 60) + "\n")
+        model_file.write("   > (W/O SIGMAS) MSE: " + \
+                         str(lin_loss['W/O SIGMAS'] / 60) + "\n")
+        print(" - Model: Pts Diff")
+        print("   > (W/ SIGMAS) MSE: " + \
+              str(lin_loss['W/ SIGMAS'] / 60))
+        print("   > (W/O SIGMAS) MSE: " + \
+              str(lin_loss['W/O SIGMAS'] / 60))
+
+    else:
+        m = models[i - 1]
+        print(" - Model: " + m)
+        for trial in trials:
+
+            print("   > (" + trial + ") ROC Curve")
+            get_ROC_curve_pts(preds_y[m], m, trial)
+        
+model_file.close()

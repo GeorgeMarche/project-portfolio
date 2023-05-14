@@ -1,0 +1,1201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="it-IT">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+<title itemprop="name">Gastrite Cronica Atrofica Autoimmune</title>
+
+
+<!-- wp_header -->
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Gastrite Cronica Atrofica Autoimmune &raquo; Feed" href="http://gcaa.altervista.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gastrite Cronica Atrofica Autoimmune &raquo; Feed dei commenti" href="http://gcaa.altervista.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gcaa.altervista.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://gcaa.altervista.org/wp-content/plugins/gutenberg/build/block-library/style.css?ver=1602117170' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='http://gcaa.altervista.org/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.5.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:13;--wp--preset--font-size--normal:16;--wp--preset--font-size--medium:20;--wp--preset--font-size--large:36;--wp--preset--font-size--huge:42;}
+</style>
+<link rel='stylesheet' id='svegliat-buttons-css'  href='http://gcaa.altervista.org/wp-content/plugins/svegliat-buttons/stylebuttons.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-framework-css'  href='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/css/themify.framework.css?ver=1.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-style-css'  href='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/themify-builder/css/themify-builder-style.css?ver=1.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://gcaa.altervista.org/wp-content/tablepress-combined.min.css?ver=17' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='http://gcaa.altervista.org/wp-content/themes/itheme2/style.css?ver=1.5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-media-queries-css'  href='http://gcaa.altervista.org/wp-content/themes/itheme2/media-queries.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/css/lightbox.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"http:\/\/gcaa.altervista.org\/wp-admin\/admin-ajax.php","nonce":"0b8c3a7105","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"1","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"0","coronabarActive":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="http://gcaa.altervista.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://gcaa.altervista.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://gcaa.altervista.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+ 
+		<style type="text/css">
+			.social-ring:after {
+				 clear: both;
+			}
+				   
+			.social-ring:before,
+			.social-ring:after {
+				 content: "";
+				 display: table;
+			}
+			
+			.social-ring {
+				margin: 0 0 0.5em !important;
+				padding: 0 !important;
+				line-height: 20px !important;
+				height: auto;
+				font-size: 11px;
+			}
+			.social-ring-button {
+				float: left !important;
+								height: 30px;
+								margin: 0 5px 0 0 !important;
+				padding: 0 !important;
+			}
+			.social-ring .social-ring-button iframe {
+				max-width: none !important;
+			}
+		</style>
+	
+
+
+
+
+	<!-- media-queries.js -->
+	<!--[if lt IE 9]>
+		<script src="http://gcaa.altervista.org/wp-content/themes/itheme2/js/respond.js"></script>
+	<![endif]-->
+	
+	<!-- html5.js -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+	<!--[if lt IE 9]>
+	<script src="http://s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script> 
+	<![endif]-->
+	<meta property="og:site_name" content="Gastrite Cronica Atrofica Autoimmune" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:title" content="Gastrite Cronica Atrofica Autoimmune" />
+<meta property="og:description" content="Questo e&#039; il mio diario e racconta la mia e la vostra esperienza quotidiana con questa malattia definitami rara e rara nel modo che mi ha colpito. Aperto a tutti e vuol diventare un punto di riferimento nazionale per altri &quot;colleghi&quot; di patologia, medici e ricercatori grazie a tutti Fernando GCAA" />
+<meta property="og:url" content="http://gcaa.altervista.org" />
+
+</head>
+
+<body class="home blog cookies-not-set skin-default not-ie default_width sidebar1 list-post"><!-- BEGIN AV_TOOLBAR -->
+<div id="av_toolbar_regdiv">
+<div class="av_site"><a target="_blank" href="https://it.altervista.org/crea-sito-gratis.php?utm_campaign=toolbar&amp;utm_source=link&amp;utm_medium=link" title="Apri un sito gratis con Wordpress">Crea sito</a></div>
+</div>
+<script type="text/javascript">
+(function(d, s) {
+	var fjs = d.getElementsByTagName(s)[0], js = d.createElement(s);
+	js.src = "//tb.altervista.org/js/script.js?1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script'));
+</script>
+<!-- END AV_TOOLBAR -->
+
+
+<div id="pagewrap" class="hfeed site">
+
+    <div id="headerwrap">
+    	        <div id="header" class="pagewidth">
+        	    
+            <h1 id="site-logo"><a href="http://gcaa.altervista.org" title="Gastrite Cronica Atrofica Autoimmune">Gastrite Cronica Atrofica Autoimmune</a></h1>
+            <div id="site-description">Questo e&#039; il mio diario e racconta la mia e la vostra esperienza quotidiana con questa malattia definitami rara e rara nel modo che mi ha colpito. Aperto a tutti e vuol diventare un punto di riferimento nazionale per altri &quot;colleghi&quot; di patologia, medici e ricercatori grazie a tutti Fernando GCAA</div>    
+                    
+            <div class="social-widget">
+                    
+                                    <div class="rss"><a href="http://gcaa.altervista.org/feed/">RSS</a></div>
+                            </div>
+            <!--/social widget --> 
+    
+            <!-- header wdiegt -->
+            <div class="header-widget">
+                            </div>
+            <!--/header widget --> 
+    
+					<div id="searchform-wrap">
+				<div id="search-icon" class="mobile-button"></div>
+				<form method="get" id="searchform" action="http://gcaa.altervista.org/">
+	<input type="text" name="s" id="s"  placeholder="Search">
+</form>
+			</div>
+			<!-- /#searchform-wrap -->
+		    
+            <div id="main-nav-wrap">
+                <div id="menu-icon" class="mobile-button"></div>
+                <div id="nav-bar">
+                    <ul id="main-nav" class="main-nav"><li class="home"><a href="http://gcaa.altervista.org/">Home</a></li><li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="http://gcaa.altervista.org/sito/">Sito</a>
+<ul class="sub-menu">
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://gcaa.altervista.org/contatti-2/">Contatti</a></li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://gcaa.altervista.org/disclaimer/">Disclaimer</a></li>
+	<li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-794"><a href="http://gcaa.altervista.org/privacy-2/">Privacy</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://gcaa.altervista.org/credits/">Credits</a></li>
+	<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="http://gcaa.altervista.org/statistische/">Statistische</a></li>
+</ul>
+</li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121"><a href="http://gcaa.altervista.org/storia-notizie/">Storia e notizie</a>
+<ul class="sub-menu">
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://gcaa.altervista.org/la-mia-storia/">La mia storia</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="http://gcaa.altervista.org/cose-la-gcaa/">Cos&#8217;è la GCAA</a></li>
+	<li id="menu-item-2455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2455"><a href="http://gcaa.altervista.org/come-si-fa-la-diagnosi-di-gcaa/">Come si fa la diagnosi di GCAA?</a></li>
+	<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="http://gcaa.altervista.org/quanto-costa-la-gcaa/">Quanto costa la GCAA?</a></li>
+	<li id="menu-item-2159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2159"><a href="http://gcaa.altervista.org/bibliografia-utile/">Bibliografia Utile</a></li>
+	<li id="menu-item-150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="http://gcaa.altervista.org/link-utili/">Link Utili</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://gcaa.altervista.org/ne-parlano-su/">Ne parlano su…</a></li>
+</ul>
+</li>
+<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-203"><a href="http://gcaa.altervista.org/referti-diagnostici/">Dati clinici</a>
+<ul class="sub-menu">
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="http://gcaa.altervista.org/dati-clinici/">Referti diagnostici</a></li>
+	<li id="menu-item-941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-941"><a href="http://gcaa.altervista.org/eventi-dopo-diagnosi_2003/">Eventi dopo diagnosi 2003</a></li>
+	<li id="menu-item-3158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3158"><a href="http://gcaa.altervista.org/le-mie-diagnosi/">Le mie diagnosi ad oggi</a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="http://gcaa.altervista.org/farmaci-e-fisioterapia/">Farmaci e fisioterapia</a></li>
+	<li id="menu-item-2688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a href="http://gcaa.altervista.org/uso-di-gastroprotettori-nella-gcaa/">Uso di gastroprotettori nella GCAA</a></li>
+	<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="http://gcaa.altervista.org/visite/">Visite Specialistiche (elenco)</a></li>
+	<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://gcaa.altervista.org/correlazioni-evidenziate/">Correlazioni evidenziate</a></li>
+	<li id="menu-item-3146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3146"><a href="http://gcaa.altervista.org/la-dieta-per-noi/">La Dieta per noi</a></li>
+	<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="http://gcaa.altervista.org/le-tecniche-alternative/">Le tecniche alternative</a></li>
+	<li id="menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2039"><a href="http://gcaa.altervista.org/segnalati-da-voi/">Segnalati da voi</a></li>
+	<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://gcaa.altervista.org/prossimi-aggiornamenti/">Prossimi aggiornamenti</a></li>
+</ul>
+</li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-190"><a href="http://gcaa.altervista.org/la-mia-e-la-vs-battaglia/">La mia e la vostra battaglia</a>
+<ul class="sub-menu">
+	<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://gcaa.altervista.org/mission/">Mission</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://gcaa.altervista.org/la-mia-battaglia/">La mia battaglia</a></li>
+	<li id="menu-item-2828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2828"><a href="http://gcaa.altervista.org/esenzione-per-patologia/">Esenzione per patologia</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://gcaa.altervista.org/siamo-rari-ma-siamo/">Siamo rari ma siamo…</a></li>
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://gcaa.altervista.org/cosa-potete-fare-voi/">Cosa potete fare voi</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://gcaa.altervista.org/lassociazione/">L&#8217;associazione</a></li>
+</ul>
+</li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-194"><a href="http://gcaa.altervista.org/bacheca-messaggi/">Bacheca messaggi</a>
+<ul class="sub-menu">
+	<li id="menu-item-660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660"><a href="http://gcaa.altervista.org/messaggi-2009/">Messaggi 2009</a></li>
+	<li id="menu-item-659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="http://gcaa.altervista.org/messaggi-2010/">Messaggi 2010</a></li>
+	<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://gcaa.altervista.org/messaggi-2011/">Messaggi 2011</a></li>
+	<li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-657"><a href="http://gcaa.altervista.org/messaggi-2012/">Messaggi 2012</a></li>
+	<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://gcaa.altervista.org/messaggi-2013/">Messaggi 2013</a></li>
+	<li id="menu-item-663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="http://gcaa.altervista.org/messaggi-2014/">Messaggi 2014</a></li>
+	<li id="menu-item-1481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a href="http://gcaa.altervista.org/messaggi-2015/">Messaggi 2015</a></li>
+	<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1967"><a href="http://gcaa.altervista.org/messaggi-2016/">Messaggi 2016</a></li>
+	<li id="menu-item-2471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2471"><a href="http://gcaa.altervista.org/messaggi-2017/">Messaggi 2017</a></li>
+	<li id="menu-item-2912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2912"><a href="http://gcaa.altervista.org/messaggi-2018/">Messaggi 2018</a></li>
+	<li id="menu-item-3231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3231"><a href="http://gcaa.altervista.org/messaggi-2019/">Messaggi 2019</a></li>
+	<li id="menu-item-3795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3795"><a href="http://gcaa.altervista.org/messaggi-2020/">Messaggi 2020</a></li>
+</ul>
+</li>
+<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="http://gcaa.altervista.org/questionario-per-nuovi-pazienti/">Questionario</a></li>
+</ul>                </div><!--/nav bar -->
+			</div>
+			
+            <!-- /#main-nav-wrap -->
+
+			        </div>
+        <!--/header -->
+		
+				            </div>
+    <!-- /headerwrap -->
+
+	<div id="body" class="clearfix">
+    
+
+
+		<div id="header-slider" class="pagewidth slider">
+    				
+		<ul class="slides clearfix">
+
+    		                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/09-10-2020-effettuata-42-tossina-botulinica/" title="09/10/2020 &#8211; Effettuata 42° tossina botulinica">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/09-10-2020-effettuata-42-tossina-botulinica/" title="09/10/2020 &#8211; Effettuata 42° tossina botulinica">09/10/2020 &#8211; Effettuata 42° tossina botulinica</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/26-09-2020-prima-giornata-nazionale-distonia-italia/" title="26/09/2020 &#8211; Prima giornata Nazionale Distonia Italia">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/26-09-2020-prima-giornata-nazionale-distonia-italia/" title="26/09/2020 &#8211; Prima giornata Nazionale Distonia Italia">26/09/2020 &#8211; Prima giornata Nazionale Distonia Italia</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/24-09-2020-tornano-le-analisi-di-controllo-a-6-mesi-di-assunzione-b6-e-nuova-b12-eseguite-11-09-2020/" title="24/09/2020 &#8211; Tornano le analisi di Controllo a 6 mesi di assunzione B6 e nuova B12 &#8211; eseguite 11/09/2020">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/24-09-2020-tornano-le-analisi-di-controllo-a-6-mesi-di-assunzione-b6-e-nuova-b12-eseguite-11-09-2020/" title="24/09/2020 &#8211; Tornano le analisi di Controllo a 6 mesi di assunzione B6 e nuova B12 &#8211; eseguite 11/09/2020">24/09/2020 &#8211; Tornano le analisi di Controllo a 6 mesi di assunzione B6 e nuova B12 &#8211; eseguite 11/09/2020</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/20-09-2020-benvenuta-marina-274a-paziente-con-diagnosi-di-gcaa/" title="20/09/2020 &#8211; Benvenuta Marina (274a) paziente con Diagnosi di GCAA">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/20-09-2020-benvenuta-marina-274a-paziente-con-diagnosi-di-gcaa/" title="20/09/2020 &#8211; Benvenuta Marina (274a) paziente con Diagnosi di GCAA">20/09/2020 &#8211; Benvenuta Marina (274a) paziente con Diagnosi di GCAA</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/4078-2/" title="27/07/2020 &#8211; Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/4078-2/" title="27/07/2020 &#8211; Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)">27/07/2020 &#8211; Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/22-07-2020-tornano-dopo-un-anno-gli-esiti-dei-test-genetici-eseguiti-presso-lo-stella-maris-di-pisa/" title="22/07/2020 &#8211; Tornano dopo un anno gli esiti dei test Genetici eseguiti presso lo STELLA MARIS di PISA">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/22-07-2020-tornano-dopo-un-anno-gli-esiti-dei-test-genetici-eseguiti-presso-lo-stella-maris-di-pisa/" title="22/07/2020 &#8211; Tornano dopo un anno gli esiti dei test Genetici eseguiti presso lo STELLA MARIS di PISA">22/07/2020 &#8211; Tornano dopo un anno gli esiti dei test Genetici eseguiti presso lo STELLA MARIS di PISA</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               			                
+
+					
+                    	<li>
+                    		<div class='slide-feature-image'>
+                    			<a href="http://gcaa.altervista.org/02-07-2020-tornano-gli-esiti-dei-test-genetici-al-bambin-gesu-di-roma-tra-cui-lesoma-clinico/" title="02/07/2020 &#8211; Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;Esoma Clinico">
+																	</a>
+							</div>
+						<!-- /.slide-feature-image -->
+
+						<div class="slide-content-wrap">
+
+															<h3 class="slide-post-title"><a href="http://gcaa.altervista.org/02-07-2020-tornano-gli-esiti-dei-test-genetici-al-bambin-gesu-di-roma-tra-cui-lesoma-clinico/" title="02/07/2020 &#8211; Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;Esoma Clinico">02/07/2020 &#8211; Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;Esoma Clinico</a></h3>
+														
+																															
+						</div>
+						<!-- /.slide-content-wrap -->
+                        	
+                 		</li>
+               					</ul>
+        
+	  		</div>
+	<!-- /#slider -->
+    			
+<!-- layout-container -->
+<div id="layout" class="clearfix">
+
+		<!-- content -->
+	<div id="content" class="clearfix">
+    			
+				
+				
+				
+				
+									
+						
+			<!-- loops-wrapper -->
+			<div id="loops-wrapper" class="loops-wrapper sidebar1 list-post">
+
+						
+											
+<div id="post-4115" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4115 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Ott</span>
+				<span class="day">9</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/09-10-2020-effettuata-42-tossina-botulinica/" title="09/10/2020 &#8211; Effettuata 42° tossina botulinica">09/10/2020 &#8211; Effettuata 42° tossina botulinica</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/Toss_Botu_20201009.pdf" rel="attachment wp-att-4116"><img loading="lazy" class="aligncenter wp-image-4116" src="http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-09_213713.jpg" alt="" width="278" height="269" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-09_213713.jpg 658w, http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-09_213713-320x310.jpg 320w" sizes="(max-width: 278px) 100vw, 278px" /></a></p>
+<p>Effettuata 42° tossina botulinica in queste sedi (link <a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/20201009-Certificato_Somministrazione_Botulino.pdf">certificato</a> e <a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/Toss_Botu_20201009.pdf">mappa punti</a>).</p>
+<p><a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/Toss_Botu_20201009.pdf" rel="attachment wp-att-4121"><img loading="lazy" class="aligncenter wp-image-4121 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010.jpg" alt="" width="1536" height="2048" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010.jpg 1536w, http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010-320x427.jpg 320w, http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010-960x1280.jpg 960w, http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010-768x1024.jpg 768w, http://gcaa.altervista.org/wp-content/uploads/2020/10/IMG-20201009-WA0010-1152x1536.jpg 1152w" sizes="(max-width: 1536px) 100vw, 1536px" /></a></p>
+<div id="themify_builder_content-4115" data-postid="4115" class="themify_builder_content themify_builder_content-4115 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+									<span class="post-comment"><a href="http://gcaa.altervista.org/09-10-2020-effettuata-42-tossina-botulinica/#respond">0</a></span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4108" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4108 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Ott</span>
+				<span class="day">4</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/26-09-2020-prima-giornata-nazionale-distonia-italia/" title="26/09/2020 &#8211; Prima giornata Nazionale Distonia Italia">26/09/2020 &#8211; Prima giornata Nazionale Distonia Italia</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<div id="attachment_4109" style="width: 1307px" class="wp-caption aligncenter"><a href="https://www.youtube.com/watch?v=T_dMzFgfP3I&amp;t=2945s" rel="attachment wp-att-4109"><img aria-describedby="caption-attachment-4109" loading="lazy" class="wp-image-4109 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-04_173651.jpg" alt="Video intervista a Fernando da parte della Dottoressa Francesca Morgante dal minuto 49:30" width="1297" height="806" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-04_173651.jpg 1297w, http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-04_173651-320x199.jpg 320w, http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-04_173651-960x597.jpg 960w, http://gcaa.altervista.org/wp-content/uploads/2020/10/2020-10-04_173651-768x477.jpg 768w" sizes="(max-width: 1297px) 100vw, 1297px" /></a><p id="caption-attachment-4109" class="wp-caption-text">Video intervista a Fernando da parte della Dottoressa Francesca Morgante dal minuto 49:30</p></div>
+<p>Il 26/09/2020 è avvenuta la prima giornata nazionale Distonia, virtuale con interventi di Medici, ARD e Pazienti tra cui io.</p>
+<p><a href="https://www.youtube.com/watch?v=T_dMzFgfP3I&amp;t=2945s">CANALE YOUTUBE CON GIORNATA PRIMA NAZIONALE DISTONIA</a><br />
+<a href="https://www.distonia.it/26-settembre-2020-1a-giornata-nazionale-per-la-distonia/">INFORMAZIONI SULLA PRIMA GIORNATA NAZIONALE DISTONIA</a></p>
+<div id="themify_builder_content-4108" data-postid="4108" class="themify_builder_content themify_builder_content-4108 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+									<span class="post-comment"><a href="http://gcaa.altervista.org/26-09-2020-prima-giornata-nazionale-distonia-italia/#respond">0</a></span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4102" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4102 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Set</span>
+				<span class="day">24</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/24-09-2020-tornano-le-analisi-di-controllo-a-6-mesi-di-assunzione-b6-e-nuova-b12-eseguite-11-09-2020/" title="24/09/2020 &#8211; Tornano le analisi di Controllo a 6 mesi di assunzione B6 e nuova B12 &#8211; eseguite 11/09/2020">24/09/2020 &#8211; Tornano le analisi di Controllo a 6 mesi di assunzione B6 e nuova B12 &#8211; eseguite 11/09/2020</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://gcaa.altervista.org/308-2/" rel="attachment wp-att-1583"><img loading="lazy" class="aligncenter wp-image-1583" src="http://gcaa.altervista.org/wp-content/uploads/2015/02/analisi-del-sangue-586x439.jpg" alt="" width="438" height="328" srcset="http://gcaa.altervista.org/wp-content/uploads/2015/02/analisi-del-sangue-586x439.jpg 586w, http://gcaa.altervista.org/wp-content/uploads/2015/02/analisi-del-sangue-586x439-300x225.jpg 300w" sizes="(max-width: 438px) 100vw, 438px" /></a></p>
+<p>Tornano esiti Analisi di controllo prescritte da Gastroenterologo visita del 29/02/2020 ed eseguite il 11/09/2020<br />
+<a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_1.png">Referto 1</a> LAC &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_2.png">Referto 2</a> Emocromo &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_3.png">Referto 3</a> VES &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_4.png">Referto 4</a> Folati, Ferritina, Vitamina B12, Glucosio, Creatinina, Sodio, Potassio, Cloruri, Calcio, Transaminasi GOT e GPT, Colesterolo, Amilasi, Trigliceridi, PCR &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_5.png">Referto 5</a> Emoglobina Glicata, Magnesio, Colesterolo HDL, Vitamina B6 e B1, TSH, FT3, FT4, Vitamina D &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_6.png">Referto 6</a> Immunoglobulina G A M, IgE Totali, ANA, ANCA, Anticorpi Anti-Saccharomyces, ASCA &#8211; <a href="http://www.gcaa.altervista.org/img/Ref_Analisi_Sangue/Ana_11092020_7.png">Referto 7</a> ASCA IgC</p>
+<div id="themify_builder_content-4102" data-postid="4102" class="themify_builder_content themify_builder_content-4102 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+									<span class="post-comment"><a href="http://gcaa.altervista.org/24-09-2020-tornano-le-analisi-di-controllo-a-6-mesi-di-assunzione-b6-e-nuova-b12-eseguite-11-09-2020/#respond">0</a></span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4093" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4093 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Set</span>
+				<span class="day">22</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/20-09-2020-benvenuta-marina-274a-paziente-con-diagnosi-di-gcaa/" title="20/09/2020 &#8211; Benvenuta Marina (274a) paziente con Diagnosi di GCAA">20/09/2020 &#8211; Benvenuta Marina (274a) paziente con Diagnosi di GCAA</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200920_Si_pubbl_2020_xxx.pdf" rel="attachment wp-att-4096"><img loading="lazy" class="aligncenter wp-image-4096 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2020/09/da_pubblicare.png" alt="" width="539" height="198" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/09/da_pubblicare.png 539w, http://gcaa.altervista.org/wp-content/uploads/2020/09/da_pubblicare-320x118.png 320w" sizes="(max-width: 539px) 100vw, 539px" /></a></p>
+<p>Benvenuta Marina (274a) paziente con diagnosi di GCAA &#8211; Ecco il suo <a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200920_Si_pubbl_2020_xxx.pdf">questionario.</a></p>
+<p>Aggiornato <a href="http://gcaa.altervista.org/messaggi-2020/">MESSAGGI 2020</a> e <a href="http://gcaa.altervista.org/siamo-rari-ma-siamo/">SIAMO RARI MA SIAMO&#8230;</a></p>
+<div id="themify_builder_content-4093" data-postid="4093" class="themify_builder_content themify_builder_content-4093 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+									<span class="post-comment"><a href="http://gcaa.altervista.org/20-09-2020-benvenuta-marina-274a-paziente-con-diagnosi-di-gcaa/#respond">0</a></span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4078" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4078 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Lug</span>
+				<span class="day">29</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/4078-2/" title="27/07/2020 &#8211; Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)">27/07/2020 &#8211; Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/img/Ref_Genetici/20200727%20-%20Referto_Mutazione_Genetica_ERLIN1_Stella_Maris_PI.pdf" rel="attachment wp-att-3543"><img loading="lazy" class="aligncenter wp-image-3543 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2019/09/test-genetici.jpg" alt="" width="242" height="181" /></a></p>
+<p><a href="http://www.gcaa.altervista.org/img/Ref_Genetici/20200727%20-%20Referto_Mutazione_Genetica_ERLIN1_Stella_Maris_PI.pdf">Esito Genetico ERLIN1 (MUTAZIONE GENETICA ACCERTATA) dal Laboratorio di Neurogenetica dello STELLA MARIS (PI)</a></p>
+<div id="themify_builder_content-4078" data-postid="4078" class="themify_builder_content themify_builder_content-4078 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4074" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4074 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Lug</span>
+				<span class="day">24</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/22-07-2020-tornano-dopo-un-anno-gli-esiti-dei-test-genetici-eseguiti-presso-lo-stella-maris-di-pisa/" title="22/07/2020 &#8211; Tornano dopo un anno gli esiti dei test Genetici eseguiti presso lo STELLA MARIS di PISA">22/07/2020 &#8211; Tornano dopo un anno gli esiti dei test Genetici eseguiti presso lo STELLA MARIS di PISA</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><img loading="lazy" class="aligncenter wp-image-3543 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2019/09/test-genetici.jpg" alt="" width="242" height="181" />Tornano gli esiti dei test Genetici eseguiti sui campioni del mio sangue prelevato presso lo STELLA MARIS di PISA all&#8217;incirca un anno fa. Sono stato contattato perchè è stata rilevata una mutazione genetica che non doveva esserci e per allargare lo studio genetico per comprendere se altri famigliari (figli o madre o fratello), hanno sviluppato la stessa mutazione.<br />
+Dovrò consegnare i 4 campioni di sangue dei suddetti famigliari, per permettere l&#8217;approfondimento genetico e comprendere eventuali future altre sintomatologie ancora non venute fuori.<br />
+Working in Progress.<br />
+Non ho al momento documentazione a riguardo.</p>
+<div id="themify_builder_content-4074" data-postid="4074" class="themify_builder_content themify_builder_content-4074 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4066" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4066 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Lug</span>
+				<span class="day">3</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/02-07-2020-tornano-gli-esiti-dei-test-genetici-al-bambin-gesu-di-roma-tra-cui-lesoma-clinico/" title="02/07/2020 &#8211; Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;Esoma Clinico">02/07/2020 &#8211; Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;Esoma Clinico</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://gcaa.altervista.org/27-09-2019-ritorno-esito-test-genetico-spg4/test-genetici/" rel="attachment wp-att-3543"><img loading="lazy" class="aligncenter size-full wp-image-3543" src="http://gcaa.altervista.org/wp-content/uploads/2019/09/test-genetici.jpg" alt="" width="242" height="181" /></a><br />
+Tornano gli esiti dei test Genetici al Bambin Gesù di Roma tra cui l&#8217;<a href="http://www.gcaa.altervista.org/img/Ref_Genetici/20200702_Test_Genetico_Paraplegie_Spastiche.pdf">Esito Genetico Pannello Paraparesi Spastiche</a> + <a href="http://www.gcaa.altervista.org/img/Ref_Genetici/20200702_Test_Genetico_Esoma_Clinico.pdf">Esito Genetico Pannello Esoma Clinico.</a><br />
+L&#8217;esoma clinico evidenzia quanto sospettato dal Neurologo Genetista del Bambin Gesù in merito e quindi emerge una variante polimorfica nel gene della transglutaminasi che in genere viene messa in relazione con una maggiore interferenza all&#8217;assorbimento della cobalamina nel liquido cerebrospinale <em>(e quindi nella barriera mesencefalica)</em>.</p>
+<div id="themify_builder_content-4066" data-postid="4066" class="themify_builder_content themify_builder_content-4066 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4057" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4057 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Giu</span>
+				<span class="day">11</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/11-06-2020-effettuata-41-somministrazione-di-tossina-botulinica/" title="11/06/2020 – Effettuata 41° somministrazione di tossina botulinica">11/06/2020 – Effettuata 41° somministrazione di tossina botulinica</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/Toss_Botu_20200611.pdf" rel="attachment wp-att-4061"><img loading="lazy" class="aligncenter wp-image-4061" src="http://gcaa.altervista.org/wp-content/uploads/2020/06/2020-06-11_230205.jpg" alt="" width="542" height="530" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/06/2020-06-11_230205.jpg 733w, http://gcaa.altervista.org/wp-content/uploads/2020/06/2020-06-11_230205-320x313.jpg 320w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
+<p>Effettuata tossina botulinica in queste sedi (link <a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/20200611-Certificato_Somministrazione_Botulino.pdf">certificato</a> e <a href="http://www.gcaa.altervista.org/img/Ref_ES_Neuro/Toss_Botu_20200611.pdf">mappa punti</a>)</p>
+<div id="themify_builder_content-4057" data-postid="4057" class="themify_builder_content themify_builder_content-4057 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4039" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4039 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Mag</span>
+				<span class="day">17</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/benvenute-a-claudia-272a-e-tiziana-273a-pazienti-con-diagnosi-di-gcaa/" title="Benvenute a Claudia (272a) e Tiziana (273a) pazienti con diagnosi di GCAA">Benvenute a Claudia (272a) e Tiziana (273a) pazienti con diagnosi di GCAA</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200516_Si_pubbl_2020_xxx.pdf" rel="attachment wp-att-4044"><img loading="lazy" class="aligncenter wp-image-4044" src="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-2.png" alt="" width="362" height="133" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-2.png 539w, http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-2-320x118.png 320w" sizes="(max-width: 362px) 100vw, 362px" /></a><a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200516a_Si_pubbl_2020_xxx.pdf" rel="attachment wp-att-4045"><img loading="lazy" class="aligncenter wp-image-4045" src="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo273.png" alt="" width="360" height="132" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo273.png 539w, http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo273-320x118.png 320w" sizes="(max-width: 360px) 100vw, 360px" /></a></p>
+<p>Benvenute a Claudia (272a) e Tiziana (273a) pazienti con diagnosi di GCAA &#8211; Claudia &#8211; <a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200516_Si_pubbl_2020_xxx.pdf">questionario</a> Tiziana &#8211; <a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200516a_Si_pubbl_2020_xxx.pdf">questionario</a><br />
+Aggiornato<a href="http://gcaa.altervista.org/messaggi-2020/"> MESSAGGI 2020</a> e <a href="http://gcaa.altervista.org/siamo-rari-ma-siamo/">SIAMO RARI MA SIAMO&#8230;</a><br />
+Potete cliccare sul display per visionare i Questionari</p>
+<div id="themify_builder_content-4039" data-postid="4039" class="themify_builder_content themify_builder_content-4039 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+						
+											
+<div id="post-4033" itemscope itemtype="http://schema.org/Article" class="post clearfix cat-1 post-4033 type-post status-publish format-standard hentry category-ultimissime">
+		
+			
+				
+				
+		
+	
+	<div class="post-content">
+					<p class="post-date entry-date updated" itemprop="datePublished">
+				<span class="month">Mag</span>
+				<span class="day">8</span>
+				<span class="year">2020</span>
+			</p>
+			
+																	<h2 class="post-title entry-title" itemprop="name"><a href="http://gcaa.altervista.org/07-05-2020-benvenuta-giusy-271a-paziente-con-diagnosi-di-gcaa/" title="07/05/2020 &#8211; Benvenuta Giusy (271a) paziente con diagnosi di GCAA">07/05/2020 &#8211; Benvenuta Giusy (271a) paziente con diagnosi di GCAA</a></h2>
+								 
+			
+		    
+		
+		<div class="entry-content" itemprop="articleBody">
+
+					<p><a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200507_Si_pubbl_2020_xxx.pdf" rel="attachment wp-att-4034"><img loading="lazy" class="aligncenter wp-image-4034 size-full" src="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-1.png" alt="" width="539" height="198" srcset="http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-1.png 539w, http://gcaa.altervista.org/wp-content/uploads/2020/05/siamo-1-320x118.png 320w" sizes="(max-width: 539px) 100vw, 539px" /></a><br />
+Benvenuta Giusy (271a) paziente con diagnosi di GCAA &#8211; <a href="http://www.gcaa.altervista.org/doc_msg_da_visite/Quest_Rx/20200507_Si_pubbl_2020_xxx.pdf">questionario</a><br />
+Aggiornato <a href="http://gcaa.altervista.org/messaggi-2020/">MESSAGGI 2020</a> e <a href="http://gcaa.altervista.org/siamo-rari-ma-siamo/">SIAMO RARI MA SIAMO&#8230;</a></p>
+<div id="themify_builder_content-4033" data-postid="4033" class="themify_builder_content themify_builder_content-4033 themify_builder themify_builder_front">
+	
+	
+</div>
+<!-- /themify_builder_content -->				
+		</div>
+		<!-- /.entry-content -->
+	
+					<p class="post-meta entry-meta"> 
+				<span class="post-author">By <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="http://gcaa.altervista.org/author/gcaa/" rel="author" itemprop="name">gcaa</a></span>  &bull;</span>
+				<span class="post-category"><a href="http://gcaa.altervista.org/category/gcaa-altervista-org/ultimissime/" rel="category tag">Ultimissime</a>  &bull;</span>
+											</p>
+		    
+
+		
+	</div>
+	<!-- /.post-content -->		
+	
+    </div>
+<!--/post -->
+							
+											
+			</div>
+			<!-- /loops-wrapper -->
+
+			<div class="pagenav clearfix"> <span class="number current">1</span>  <a href="http://gcaa.altervista.org/page/2/" class="number">2</a>  <a href="http://gcaa.altervista.org/page/3/" class="number">3</a>  <a href="http://gcaa.altervista.org/page/4/" class="number">4</a>  <a href="http://gcaa.altervista.org/page/5/" class="number">5</a> <a href="http://gcaa.altervista.org/page/2/" >&gt;</a><a href="http://gcaa.altervista.org/page/43/" title="&raquo;" class="number">&raquo;</a></div>		
+		
+					
+
+			</div>
+	<!--/content -->
+		
+	<div id="sidebar">
+	
+	<div class="widgetwrap"><div id="linkcat-6" class="widget widget_links"><h4 class="widgettitle">Per Voi... scelte rapide</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="/cdn-cgi/l/email-protection#31565250501f5845505d585071565c50585d1f525e5c0e4244535b5452450c7c544242505656585e14030155505d1403014258455e14030176727070" title="Scrivimi" target="_blank">01) Scrivimi</a></li>
+<li><a href="http://gcaa.altervista.org/questionario-per-nuovi-pazienti/" title="Questionario per i nuovi arrivati">02) Questionario per i nuovi arrivati (WORD o TXT)</a></li>
+<li><a href="https://www.facebook.com/groups/51028676989/" title="Gruppo Facebook dedicato alla GCAA " target="_blank">03) Gruppo Facebook di Fernando GCAA</a></li>
+<li><a href="https://www.facebook.com/#!/pages/Gastrite-Cronica-Atrofica-Autoimmune/246794072040173" title="Pagina Facebook Fernando sulla GCAA" target="_blank">04) Pagina Facebook Fernando sulla GCAA</a></li>
+<li><a href="https://www.facebook.com/groups/420508501344043/members/" title="Gruppo Facebook di Camilla sulla GCAA dalla Svezia" target="_blank">05) Gruppo Facebook di Camilla sulla GCAA dalla Svezia</a></li>
+<li><a href="https://twitter.com/fernandogcaa" title="Gruppo GCAA su  Twitter">06) Gruppo GCAA su Twitter</a></li>
+<li><a href="https://it.wikipedia.org/wiki/Gastrite_cronica_atrofica_autoimmune" title="Ci sono anche su WIKIPEDIA" target="_blank">07) Ci sono anche su WIKIPEDIA</a></li>
+<li><a href="https://www.youtube.com/channel/UCa-WJvkZiHACwBGJAPYC7Lw" title="Il mio canale su Youtube" target="_blank">08) Canale GCAA su YOUTUBE</a></li>
+<li><a href="http://gcaa.altervista.org/segnalati-da-voi/" title="Raccolta di strutture segnalate dai pazienti GCAA ">09) Segnalati da voi</a></li>
+
+	</ul>
+</div></div>
+<div class="widgetwrap"><div id="linkcat-2" class="widget widget_links"><h4 class="widgettitle">zz - Altro di interessante</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://wwww.gcaa.altervista.org/doc/A_mia_moglie.pdf" title="Poesia di Thomas S. Eliot dedicata a mia Moglie Eleonora che tanto ha fatto e fa per me ed in fondo se questo sito esiste, è anche perchè lei lo ha voluto">01) Una dedica a mia moglie</a></li>
+<li><a href="http://www.gcaa.altervista.org/doc/SMS_Andrea_24102010.pdf" title="Pensiero di mio figlio Andrea dedicato a mia moglie visto il suo stato d’animo per la mia storia. Grazie Andrea delle belle parole che hai inviato a mamma e trasversalmente a me. Papà">02) SMS di mio figlio Andrea</a></li>
+<li><a href="http://wwww.gcaa.altervista.org/doc/Nei_giardini....htm" title="Nei Giardini che Nessuno sa (Renato Zero)" target="_top">03) Nei Giardini che Nessuno sa (Renato Zero)</a></li>
+
+	</ul>
+</div></div>
+<div class="widgetwrap"><div id="linkcat-7" class="widget widget_links"><h4 class="widgettitle">zz - Utility</h4>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.altervista.org/it/" target="_blank">Blog di AlterVista</a></li>
+<li><a href="http://it.altervista.org/come-fare-blog.php" target="_blank">Come iniziare</a></li>
+<li><a href="http://forum.it.altervista.org/wordpress" target="_blank">Forum di Supporto</a></li>
+<li><a href="http://tutorial.altervista.org/wordpress/guida/" target="_blank">Guide WordPress</a></li>
+
+	</ul>
+</div></div>
+<div class="widgetwrap"><div id="archives-3" class="widget widget_archive"><h4 class="widgettitle">Archivio</h4>		<label class="screen-reader-text" for="archives-dropdown-3">Archivio</label>
+		<select id="archives-dropdown-3" name="archive-dropdown">
+			
+			<option value="">Seleziona il mese</option>
+				<option value='http://gcaa.altervista.org/2020/10/'> Ottobre 2020 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2020/09/'> Settembre 2020 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2020/07/'> Luglio 2020 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2020/06/'> Giugno 2020 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2020/05/'> Maggio 2020 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2020/04/'> Aprile 2020 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2020/03/'> Marzo 2020 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2020/02/'> Febbraio 2020 &nbsp;(9)</option>
+	<option value='http://gcaa.altervista.org/2020/01/'> Gennaio 2020 &nbsp;(12)</option>
+	<option value='http://gcaa.altervista.org/2019/12/'> Dicembre 2019 &nbsp;(9)</option>
+	<option value='http://gcaa.altervista.org/2019/11/'> Novembre 2019 &nbsp;(11)</option>
+	<option value='http://gcaa.altervista.org/2019/10/'> Ottobre 2019 &nbsp;(10)</option>
+	<option value='http://gcaa.altervista.org/2019/09/'> Settembre 2019 &nbsp;(8)</option>
+	<option value='http://gcaa.altervista.org/2019/08/'> Agosto 2019 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2019/07/'> Luglio 2019 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2019/06/'> Giugno 2019 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2019/05/'> Maggio 2019 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2019/04/'> Aprile 2019 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2019/03/'> Marzo 2019 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2019/02/'> Febbraio 2019 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2019/01/'> Gennaio 2019 &nbsp;(13)</option>
+	<option value='http://gcaa.altervista.org/2018/12/'> Dicembre 2018 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2018/11/'> Novembre 2018 &nbsp;(6)</option>
+	<option value='http://gcaa.altervista.org/2018/10/'> Ottobre 2018 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2018/09/'> Settembre 2018 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2018/08/'> Agosto 2018 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2018/07/'> Luglio 2018 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2018/06/'> Giugno 2018 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2018/05/'> Maggio 2018 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2018/04/'> Aprile 2018 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2018/03/'> Marzo 2018 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2018/02/'> Febbraio 2018 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2018/01/'> Gennaio 2018 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2017/12/'> Dicembre 2017 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2017/11/'> Novembre 2017 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2017/10/'> Ottobre 2017 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2017/09/'> Settembre 2017 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2017/08/'> Agosto 2017 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2017/07/'> Luglio 2017 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2017/06/'> Giugno 2017 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2017/05/'> Maggio 2017 &nbsp;(6)</option>
+	<option value='http://gcaa.altervista.org/2017/04/'> Aprile 2017 &nbsp;(1)</option>
+	<option value='http://gcaa.altervista.org/2017/03/'> Marzo 2017 &nbsp;(10)</option>
+	<option value='http://gcaa.altervista.org/2017/02/'> Febbraio 2017 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2017/01/'> Gennaio 2017 &nbsp;(12)</option>
+	<option value='http://gcaa.altervista.org/2016/12/'> Dicembre 2016 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2016/11/'> Novembre 2016 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2016/10/'> Ottobre 2016 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2016/09/'> Settembre 2016 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2016/08/'> Agosto 2016 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2016/07/'> Luglio 2016 &nbsp;(8)</option>
+	<option value='http://gcaa.altervista.org/2016/06/'> Giugno 2016 &nbsp;(2)</option>
+	<option value='http://gcaa.altervista.org/2016/05/'> Maggio 2016 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2016/04/'> Aprile 2016 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2016/03/'> Marzo 2016 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2016/02/'> Febbraio 2016 &nbsp;(9)</option>
+	<option value='http://gcaa.altervista.org/2016/01/'> Gennaio 2016 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2015/12/'> Dicembre 2015 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2015/11/'> Novembre 2015 &nbsp;(6)</option>
+	<option value='http://gcaa.altervista.org/2015/10/'> Ottobre 2015 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2015/09/'> Settembre 2015 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2015/08/'> Agosto 2015 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2015/07/'> Luglio 2015 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2015/06/'> Giugno 2015 &nbsp;(6)</option>
+	<option value='http://gcaa.altervista.org/2015/05/'> Maggio 2015 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2015/04/'> Aprile 2015 &nbsp;(6)</option>
+	<option value='http://gcaa.altervista.org/2015/03/'> Marzo 2015 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2015/02/'> Febbraio 2015 &nbsp;(3)</option>
+	<option value='http://gcaa.altervista.org/2015/01/'> Gennaio 2015 &nbsp;(9)</option>
+	<option value='http://gcaa.altervista.org/2014/12/'> Dicembre 2014 &nbsp;(7)</option>
+	<option value='http://gcaa.altervista.org/2014/11/'> Novembre 2014 &nbsp;(8)</option>
+	<option value='http://gcaa.altervista.org/2014/10/'> Ottobre 2014 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2014/09/'> Settembre 2014 &nbsp;(5)</option>
+	<option value='http://gcaa.altervista.org/2014/08/'> Agosto 2014 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2014/07/'> Luglio 2014 &nbsp;(4)</option>
+	<option value='http://gcaa.altervista.org/2014/06/'> Giugno 2014 &nbsp;(12)</option>
+	<option value='http://gcaa.altervista.org/2014/05/'> Maggio 2014 &nbsp;(9)</option>
+	<option value='http://gcaa.altervista.org/2014/04/'> Aprile 2014 &nbsp;(12)</option>
+	<option value='http://gcaa.altervista.org/2014/03/'> Marzo 2014 &nbsp;(12)</option>
+	<option value='http://gcaa.altervista.org/2014/02/'> Febbraio 2014 &nbsp;(11)</option>
+	<option value='http://gcaa.altervista.org/2013/12/'> Dicembre 2013 &nbsp;(1)</option>
+
+		</select>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-3" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div></div><div class="widgetwrap"><div id="meta-3" class="widget widget_meta"><h4 class="widgettitle">Meta</h4>
+		<ul>
+						<li><a href="http://gcaa.altervista.org/wp-login.php">Accedi</a></li>
+			<li><a href="http://gcaa.altervista.org/feed/">Inserimenti feed</a></li>
+			<li><a href="http://gcaa.altervista.org/comments/feed/">Feed dei commenti</a></li>
+
+			<li><a href="https://it.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></div><div class="widgetwrap"><div id="calendar-3" class="widget widget_calendar"><h4 class="widgettitle">Ricerca  in base alle date</h4><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>Ottobre: 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="lunedì">L</th>
+		<th scope="col" title="martedì">M</th>
+		<th scope="col" title="mercoledì">M</th>
+		<th scope="col" title="giovedì">G</th>
+		<th scope="col" title="venerdì">V</th>
+		<th scope="col" title="sabato">S</th>
+		<th scope="col" title="domenica">D</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td><a href="http://gcaa.altervista.org/2020/10/04/" aria-label="Articoli pubblicati in 4 October 2020">4</a></td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td><a href="http://gcaa.altervista.org/2020/10/09/" aria-label="Articoli pubblicati in 9 October 2020">9</a></td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td id="today">14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Mesi precedenti e successivi" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="http://gcaa.altervista.org/2020/09/">&laquo; Set</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></div></div>
+	<div style="position:relative;margin-left:87px;margin-right:auto;">
+<!-- Histats.com  START  (standard)--><script type="text/javascript">// <![CDATA[
+document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
+// ]]></script>
+<a title="contatori" href="http://www.histats.com" target="_blank"><script type="text/javascript">// <![CDATA[
+ try {Histats.start(1,1092934,4,328,112,62,"00001111"); Histats.framed_page(); Histats.track_hits();} catch(err){};
+
+// ]]></script></a>
+<noscript>
+    <a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1092934&#038;101" alt="contatori" border="0"></a></noscript>
+
+<!-- Histats.com  END  -->
+</div>
+
+</div>
+<!--/sidebar -->
+	
+</div>
+<!-- layout-container -->
+
+
+		</div>
+	<!-- /body -->
+		
+	<div id="footerwrap">
+    
+    			<footer id="footer" class="pagewidth clearfix">
+        				
+				
+	<div class="footer-widgets clearfix">
+
+								<div class="col3-1 first">
+							</div>
+								<div class="col3-1 ">
+							</div>
+								<div class="col3-1 ">
+							</div>
+		
+	</div>
+	<!-- /.footer-widgets -->
+
+	
+			<p class="back-top"><a href="#header">&uarr;</a></p>
+		
+				
+			<div class="footer-text clearfix">
+				<div class="one">&copy; <a href="http://gcaa.altervista.org">Gastrite Cronica Atrofica Autoimmune</a> 2020</div>				<div class="two">Powered by <a href="https://wordpress.org">WordPress</a> &bull; <a href="http://themify.me">Themify WordPress Themes</a></div>			</div>
+			<!-- /footer-text --> 
+
+					</footer>
+		<!-- /#footer --> 
+                
+	</div>
+	<!-- /#footerwrap -->
+	
+</div>
+<!-- /#pagewrap -->
+
+
+<!-- wp_footer -->
+
+
+		<script type='text/javascript'>
+		/////////////////////////////////////////////
+		// Slider	 							
+		/////////////////////////////////////////////
+		jQuery(window).load(function(){
+			
+			if(jQuery('#header-slider').length > 0){
+				jQuery('#header-slider .slides').carouFredSel({
+					responsive: true,
+					prev: '#header-slider .carousel-prev',
+					next: '#header-slider .carousel-next',
+					width: '100%',
+					circular: false,
+					infinite: false,
+					auto: {
+						play : false,
+						pauseDuration: 0,
+						duration: 2500					},
+					scroll: {
+						items: 1,
+						duration: 2500,
+						wipe: true
+					},
+					items: {
+						visible: {
+							min: 1,
+							max: 4						},
+						width: 150
+					},
+					onCreate : function (){
+						jQuery('#header-slider').css( {
+							'height': 'auto',
+							'visibility' : 'visible'
+						});
+					}
+				});
+			}
+			
+		});
+		</script>
+        <script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/js/carousel.min.js?ver=1.7.4' id='themify-carousel-js-js'></script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/themify-builder/js/themify.builder.module.plugins.js?ver=1.7.4' id='themify-builder-module-plugins-js-js'></script>
+<script type='text/javascript' id='themify-builder-script-js-js-extra'>
+/* <![CDATA[ */
+var tbLocalScript = {"isTouch":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/themify-builder/js/themify.builder.script.js?ver=1.7.4' id='themify-builder-script-js-js'></script>
+<script type='text/javascript' id='facebook-jssdk-js-extra'>
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/it_IT\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/js/carousel.min.js?ver=5.5.1' id='carousel-js'></script>
+<script type='text/javascript' id='theme-script-js-extra'>
+/* <![CDATA[ */
+var themifyScript = {"lightbox":{"lightboxSelector":".lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":".post-content a[href$=jpg],.page-content a[href$=jpg],.post-content a[href$=gif],.page-content a[href$=gif],.post-content a[href$=png],.page-content a[href$=png],.post-content a[href$=JPG],.page-content a[href$=JPG],.post-content a[href$=GIF],.page-content a[href$=GIF],.post-content a[href$=PNG],.page-content a[href$=PNG],.post-content a[href$=jpeg],.page-content a[href$=jpeg],.post-content a[href$=JPEG],.page-content a[href$=JPEG]","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":".post, .type-page, .type-highlight, .type-slider","gallerySelector":".gallery-icon > a[href$=jpg],.gallery-icon > a[href$=gif],.gallery-icon > a[href$=png],.gallery-icon > a[href$=JPG],.gallery-icon > a[href$=GIF],.gallery-icon > a[href$=PNG],.gallery-icon > a[href$=jpeg],.gallery-icon > a[href$=JPEG]","lightboxGalleryOn":true},"lightboxContext":"#pagewrap","isTouch":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/js/themify.script.js?ver=5.5.1' id='theme-script-js'></script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/js/themify.gallery.js?ver=5.5.1' id='themify-gallery-js'></script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-content/themes/itheme2/themify/js/lightbox.js?ver=5.5.1' id='magnific-js'></script>
+<script type='text/javascript' src='http://gcaa.altervista.org/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<div id="fb-root"></div>
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Su questo sito NON vengono usati cookie  di profilazione da parte dell'amministratore del sito stesso, nessun dato verrà infatti carpito con l'accesso alle pagine dello stesso. Gli unici servizi che hanno un controllo degli accessi, sono quelli relativi alla statistica relative alla consultazione del sito (contatore) affidato al servizio Hitstats.com. Per le policies relativi alla Privacy, consulta l'apposita pagina raggiungibile da LEGGI DI PIU' altrimenti clicca semplicemente OK ed accedi nel sito.
+Grazie per l'attenzione.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button" aria-label="Ok">Ok</a><a href="#" id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie cn-button bootstrap button" aria-label="No">No</a><a href="http://gcaa.altervista.org/privacy-2/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button" aria-label="Leggi di più">Leggi di più</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+			<!-- Corona Banner -->
+			<script type="text/javascript">
+				var CoronaBarOptions = {"position":"bottom","displayCases":true,"textHeadline":"Spread the message. Stop the virus.","textStepOneTitle":"Hands","textStepOneDesc":"Wash often","textStepTwoTitle":"Elbow","textStepTwoDesc":"Cough into","textStepThreeTitle":"Face","textStepThreeDesc":"Don't touch","textStepFourTitle":"Space","textStepFourDesc":"Avoid crowds","textStepFiveTitle":"Home","textStepFiveDesc":"Stay inside","textConfirmed":"Confirmed","textRecovered":"Recovered","cachedData":{"display":false,"version":"1.0.4","timestamp":1602698770500,"lastUpdate":1602698770500,"confirmed":38129806,"deaths":1086141,"recovered":26466156,"location":""}};
+			</script>
+			<script type="text/javascript" src="//coronabar-53eb.kxcdn.com/coronabar.min.js" async></script>
+<script>
+	jQuery(window).load(function(){ jQuery(window).resize(); });
+</script>
+
+</body>
+</html>

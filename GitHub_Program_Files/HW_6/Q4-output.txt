@@ -1,0 +1,51 @@
+
+\\ Q3 Data Information: //
+
+  ** Top 5 **
+
+  1. 2730 tweets -- presstv.com.
+  2. 214 tweets -- ronpaulinstitute.org.
+  3. 82 tweets -- collective-evolution.com.
+  4. 82 tweets -- thewashingtonstandard.com.
+  5. 64 tweets -- worldtruth.tv.
+
+  ** Removing Outliers **
+
+  Value limit: 500
+  Outliers: 1
+  Out of total: 21
+  Percent lost:  4.76%
+
+\\ D1 Data Information: //
+
+  ** Top 5 **
+
+  1. 7113 tweets -- therealstrategy.com.
+  2. 1741 tweets -- infowars.com.
+  3. 1217 tweets -- newsbusters.org.
+  4. 1108 tweets -- washingtonpost.com.
+  5. 774 tweets -- nodisinfo.com.
+
+  ** Removing Outliers **
+
+  Value limit: 500
+  Outliers: 8
+  Out of total: 117
+  Percent lost:  6.84%
+
+\\ D2 Data Information: //
+
+  ** Top 5 **
+
+  1. 3088 tweets -- 21stcenturywire.com.
+  2. 2378 tweets -- clarityofsignal.com.
+  3. 1605 tweets -- rt.com.
+  4. 1558 tweets -- mintpressnews.com.
+  5. 1249 tweets -- newsweek.com.
+
+  ** Removing Outliers **
+
+  Value limit: 100
+  Outliers: 47
+  Out of total: 700
+  Percent lost:  6.71%

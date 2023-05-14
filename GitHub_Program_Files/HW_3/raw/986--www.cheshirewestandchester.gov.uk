@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+	<html lang="en-GB" class="no-js">
+
+	<head>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script src="https://www.googletagmanager.com/gtag/js?id=UA-10075401-1" async="true"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-10075401-1', { 'anonymize_ip': true });
+
+		</script>
+		<!-- End Global Site Tag (gtag.js) - Google Analytics -->
+
+		<meta charset="utf-8"><title>
+	Home | Cheshire West and Chester Council
+</title><meta content="IE=edge" http-equiv="X-UA-Compatible" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
+    
+    
+    <meta name="GENERATOR" content="Contensis CMS Version 12.1" />
+<meta name="Description" content="Information for residents, businesses, and visitors of west Cheshire." />
+
+
+<link href="/assets/css/cwac.min.css" rel="stylesheet" type="text/css" />
+
+		<!--[if IE 8]>
+    <script src="/assets/js/vendors/respond.min.js" rel="javascript"></script>
+    <script src="/assets/js/vendors/rem.min.js" rel="javascript"></script>
+    <link href="/assets/css/ie8.min.css" rel="stylesheet" />
+    <![endif]-->
+
+				<script  type="text/javascript" src="/WebResource.axd?d=PjUm9HYMtFaBv1w8LgD13UIzsrcgJRMlHl1KVAzF2AgEiZAQn_RB8q1D-OpipawIamHu-r6UwDtePXpIVa2V6pnJ_gcL_OhkiR9WkXq50FLfVzbD0&amp;t=637292864108767846&amp;build=121170"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+if (typeof(window.$j) == 'undefined') { window.$j = $; }
+window.$j.register = function(name) {if (!this._components){this._components = {};} this._components[name] = true;};
+window.$j.isRegistered = function(name) { if (!this._components) { return false; } return !!(this._components[name]); };
+window.$j.requires = function(name) { if (!this.isRegistered(name)) { alert('JQuery Extension " ' + name + '" not registered'); }};
+if (typeof(jQuery.fn.setArray) == 'undefined') { jQuery.fn.setArray = function( elems ) { this.length = 0; jQuery.fn.push.apply(this, elems); return this; }};
+//]]>
+</script>
+		<script  type="text/javascript" src="/WebResource.axd?d=E2Wy6lkTV9QQlo0i62DlslLksn79kuGwSG2LZ5M6u7UdbKLJnUO5POTm5vWFKI4KsBfTULjl1gKyXrnRmV32tH3VT23YmygMQCQjQuCTXlffAdnkpiTIW_M_P2Uq077dwJsLUwPsfvdZcxoEtS3BjnzVgJks9uApqnqjbgKs2BFEpTwK0&amp;t=637292864124086220&amp;build=121170"></script>
+<!--
+ControlID:Ctrl4f3d611499424f9c842812cd64ab0ec3 of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:Ctrldad2e4f227e5473f986ad8db9f8d3002 of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:Ctrl246db4b5147542f8932c472899b960ff of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:__Page of type ASP.home_aspx has set the maximum duration to 600 seconds
+Cache Enabled using rule ControlID:Ctrl4f3d611499424f9c842812cd64ab0ec3 of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+Cache Page Render Time 14/10/2020 19:38:26
+
+-->
+		<script src="/assets/js/vendors/modernizr.min.js?1234" rel="javascript"></script>
+
+	</head>
+
+	<body>
+		<form method="post" action="/home.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="wTRIM8O7k84nrVzoXJhVjW7khqVW3kAtV7jW+dNnFKDZsuTX+1M8x1tRbzLZlAZ9K3gg0xHqPsuJ8K0XBLYND9IfOTY=" />
+</div>
+
+
+			<a href="#main" class="skip-to-content">Skip to main content</a>
+			
+    <div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="data-off-canvas-wrapper">
+<div id="offCanvas" class="off-canvas position-right" aria-hidden="false" data-position="right" data-off-canvas="true"><nav class="nav">
+
+
+<ul class="menu vertical" data-drilldown>
+ 	
+  <li><a href="/residents/">Residents</a></li>   
+    <li><a href="/business/">Business</a></li>   
+  <li><a href="/your-council/">Your Council</a></li>   
+  <li><a href="/news-and-views/">News and views</a></li>   
+	<li class="hide-for-medium" role="menuitem">
+      <a class="hide-for-medium top-bar__login" onclick="void(window.open('https://my.cheshirewestandchester.gov.uk/',''));return false;" onkeypress="void(window.open('https://my.cheshirewestandchester.gov.uk/',''));return false;" href="https://my.cheshirewestandchester.gov.uk/">Sign up or login</a>
+      </li>
+</ul>
+      
+
+</nav></div>
+<div class="off-canvas-content" data-off-canvas-content="data-off-canvas-content">
+
+
+<header class="top-bar">
+<div class="row">
+<div class="top-bar-left"><a class="site-logo" href="/"> <img alt="Cheshire West &amp; Chester Logo" src="/assets/images/cwac-logo.svg" /> </a></div>
+<div class="top-bar-right"><a class="show-for-medium top-bar__login" onclick="void(window.open('https://my.cheshirewestandchester.gov.uk',''));return false;" onkeypress="void(window.open('https://my.cheshirewestandchester.gov.uk',''));return false;" href="https://my.cheshirewestandchester.gov.uk">Login or Sign up</a>
+<script type="text/javascript">$j(function () {new Contensis.Mvc.Form('form_5800014904e24a4f8432021dcfe01da9', 'contensis-form-summary-valid', '/api/Custom/Search/SearchCheshireWest', 'POST');});</script><noscript><p>Browser does not support script.</p></noscript><div class="contensis-form" id="form_5800014904e24a4f8432021dcfe01da9">        <fieldset class="show-for-large">
+            <legend class="hide">Search</legend>
+            <input class="top-bar__search" id="keywords" name="keywords" placeholder="What are you looking for?" tabindex="0" title="Search our website" type="search" value="" />
+            <button class="top-bar__button" type="submit">Search our website…</button>
+        </fieldset>
+</div>
+<script>
+  $("#keywords").keydown(function(ev) { 
+		if ((ev.which ==13)) { 
+			ev.preventDefault();
+			ev.stopImmediatePropagation() ;
+			$(".top-bar__button").trigger("click");
+		}
+	});
+  </script><noscript><p>Browser does not support script.</p></noscript>
+<nav class="nav hide-for-large"><button class="menu-toggle" type="button" data-toggle="offCanvas">Menu<span class="menu-icon dark"></span></button> <a class="menu-search-toggle"> <!--search--> </a></nav></div>
+</div>
+</header>
+<div id="menuSearch" class="menu-search">
+<script type="text/javascript">$j(function () {new Contensis.Mvc.Form('form_ebeb514772b24321a9701ee472a82bf4', 'contensis-form-summary-valid', '/api/Custom/Search/SearchCheshireWestMobile', 'POST');});</script><noscript><p>Browser does not support script.</p></noscript><div class="contensis-form" id="form_ebeb514772b24321a9701ee472a82bf4">      	<div  class="menu-search">
+          <input class="menu-search__field" id="keywords-mobile" name="keywords" placeholder="What are you looking for?" tabindex="0" title="Search our website" type="search" value="" />
+          <button id="menuSearchButton" class="menu-search__button" type="submit" value="search">Search our website&hellip;</button>
+        </div>
+          <script>
+            $("#keywords-mobile").keydown(function(ev) { 
+                  if ((ev.which ==13)) { 
+                      ev.preventDefault();
+                      ev.stopImmediatePropagation() ;
+                      $(".menu-search__button").trigger("click");
+                  }
+              });
+            </script><noscript><p>Browser does not support script.</p></noscript>
+</div>
+
+</div>
+<header class="top-bar-bottom">
+<div class="row"><nav class="nav nav--primary show-for-large">
+
+
+<ul class="menu horizontal text-center" data-dropdown-menu>
+	
+  	
+	
+    
+    
+    
+    
+  	
+<li class="nav--primary__item nav__item">
+  		<a href="/residents/">Residents</a>
+  		
+  			<nav class="mega-menu" data-dropdown-menu>
+              <div class="dropdown is-dropdown-submenu">
+              	<div class="row">
+                  <div class="medium-6 column">
+                  	<h2>Residents</h2>
+                  	<ul class="menu vertical">
+              
+                          	<li><a href="/residents/crime-prevention/crime-prevention.aspx">Crime prevention and emergencies</a></li>
+                          	<li><a href="/residents/young-people/young-people.aspx">Young people</a></li>
+                          	<li><a href="/residents/births-deaths-and-marriage/births-deaths-and-marriage.aspx">Births, deaths and marriage</a></li>
+                          	<li><a href="/residents/education-and-learning/education-and-learning.aspx">Education and learning</a></li>
+                          	<li><a href="/residents/energy/energy.aspx">Energy</a></li>
+                          	<li><a href="/residents/housing-benefit-council-tax/housing-benefit-council-tax.aspx">Housing Benefit and Council Tax Reduction</a></li>
+                          	<li><a href="/residents/pests-pollution-food-safety/pests-pollution-and-food-safety.aspx">Pests, Pollution and Food Safety</a></li>
+                          	<li><a href="/residents/jobs/jobs.aspx">Jobs</a></li>
+                          	<li><a href="/residents/transport-and-roads/transport-and-roads.aspx">Parking, roads and travel</a></li>
+                          	<li><a href="/residents/waste-and-recycling/waste-and-recycling.aspx">Waste and recycling</a></li>
+                          	<li><a href="/residents/health-and-social-care/health-and-social-care.aspx">Health and social care</a></li>
+                          	<li><a href="/residents/planning-and-building-control/planning-and-building-control.aspx">Planning and Building Control</a></li>
+                          	<li><a href="/residents/council-tax/council-tax.aspx">Council Tax</a></li>
+                          	<li><a href="/residents/libraries/libraries.aspx">Libraries</a></li>
+                  		
+                  	</ul>
+                   </div>
+              		
+                      <div class="medium-6 column">
+                        <h2>Important information</h2>
+                        <div class="dropdown__ctas">
+                       
+                              <a class="dropdown__cta" href="/residents/jobs/jobs.aspx" title="Jobs - search and apply">Jobs - search and apply</a>
+                              <a class="dropdown__cta" href="/residents/planning-and-building-control/planning-and-building-control.aspx" title="View planning applications">View planning applications</a>
+                              <a class="dropdown__cta" href="/residents/health-and-social-care/children-and-young-people/report-a-concern-about-a-child/report-a-concern-about-a-child.aspx" title="Report concerns about a child">Report concerns about a child</a>
+                              <a class="dropdown__cta" href="/residents/waste-and-recycling/waste-and-recycling.aspx" title="Bins, collections, recycling">Bins, collections, recycling</a>
+                        	
+                        </div>
+                      </div>
+                </div>
+              </div>
+          </nav>
+    </li>      
+  <li class="nav--primary__item nav__item">
+  		<a href="/business/">Business</a>
+  		
+  			<nav class="mega-menu" data-dropdown-menu>
+              <div class="dropdown is-dropdown-submenu">
+              	<div class="row">
+                  <div class="medium-6 column">
+                  	<h2>Business</h2>
+                  	<ul class="menu vertical">
+              
+                          	<li><a href="/business/business-rates/business-rates.aspx">Business rates</a></li>
+                          	<li><a href="/business/environmental-health/environmental-health.aspx">Environmental health</a></li>
+                          	<li><a href="/business/licensing-and-permits/licensing-and-permits.aspx">Licensing and permits</a></li>
+                          	<li><a href="/business/sites-and-premises/sites-and-premises.aspx">Sites and premises</a></li>
+                          	<li><a href="/business/working-with-cwac/working-with-cwac.aspx">Working with Cheshire West and Chester</a></li>
+                          	<li><a href="/business/trading-standards/trading-standards.aspx">Trading Standards</a></li>
+                          	<li><a href="/business/business-hub/Chester-business-hub.aspx">Cheshire business hub</a></li>
+                          	<li><a href="/business/business.aspx">Business</a></li>
+                          	<li><a href="/business/environmental-health/health-and-safety/health-and-safety.aspx">Health and safety</a></li>
+                          	<li><a href="/residents/planning-and-building-control/planning-and-building-control.aspx">Planning and Building Control</a></li>
+                  		
+                  	</ul>
+                   </div>
+              		
+                      <div class="medium-6 column">
+                        <h2>Important information</h2>
+                        <div class="dropdown__ctas">
+                       
+                              <a class="dropdown__cta" href="/business/trading-standards/trading-standards.aspx" title="Contact Trading Standards">Contact Trading Standards</a>
+                              <a class="dropdown__cta" href="/business/licensing-and-permits/a-z-of-licences.aspx" title="Licensing A to Z">Licensing A to Z</a>
+                              <a class="dropdown__cta" href="/business/working-with-cwac/working-with-cwac.aspx" title="Doing business with the council">Doing business with the council</a>
+                        	
+                        </div>
+                      </div>
+                </div>
+              </div>
+          </nav>
+    </li>      
+<li class="nav--primary__item nav__item">
+  		<a href="/your-council/">Your Council</a>
+  		
+  			<nav class="mega-menu" data-dropdown-menu>
+              <div class="dropdown is-dropdown-submenu">
+              	<div class="row">
+                  <div class="medium-6 column">
+                  	<h2>Your Council</h2>
+                  	<ul class="menu vertical">
+              
+                          	<li><a href="/your-council/consultations-and-petitions/consultations-and-petitions.aspx">Consultations, petitions and public questions</a></li>
+                          	<li><a href="/your-council/data-protection-and-freedom-of/data-protection-and-freedom-of.aspx">Data protection and freedom of information</a></li>
+                          	<li><a href="/your-council/fire-safety/fire-safety.aspx">Fire safety</a></li>
+                          	<li><a href="/your-council/how-we-work/how-we-work.aspx">How we work</a></li>
+                          	<li><a href="/your-council/key-statistics-and-data/key-statistics-and-data.aspx">Key statistics and data</a></li>
+                          	<li><a href="/your-council/voting-and-elections/voting-and-elections.aspx">Voting, elections and referendums</a></li>
+                          	<li><a href="/your-council/public-notices/public-notices.aspx">Public notices</a></li>
+                          	<li><a href="/your-council/councillors-and-committees/councillors-and-committees.aspx">Councillors, committees and parish councils</a></li>
+                          	<li><a href="/your-council/policies-and-performance/policies-and-performance.aspx">Policies and performance</a></li>
+                  		
+                  	</ul>
+                   </div>
+              		
+                      <div class="medium-6 column">
+                        <h2>Important information</h2>
+                        <div class="dropdown__ctas">
+                       
+                              <a class="dropdown__cta" href="http://cmttpublic.cheshirewestandchester.gov.uk/mgMemberIndex.aspx?bcr=1" title="Find a councillor">Find a councillor</a>
+                              <a class="dropdown__cta" href="/residents/contact-us/complaints-and-feedback/complaints-and-feedback.aspx" title="Feedback and complaints">Feedback and complaints</a>
+                              <a class="dropdown__cta" href="/your-council/voting-and-elections/electoral-register.aspx" title="Register to vote">Register to vote</a>
+                              <a class="dropdown__cta" href="http://inside.cheshirewestandchester.gov.uk/find_out_more/datasets_and_statistics/opendata" title="Open data">Open data</a>
+                        	
+                        </div>
+                      </div>
+                </div>
+              </div>
+          </nav>
+    </li>      
+<li class="nav--primary__item nav__item">
+  		<a href="/news-and-views/">News and views</a>
+  		
+    </li>      
+    
+</ul>
+      
+
+</nav></div>
+</header><main id="main">
+
+<section class="section">
+<div class="row">
+
+
+
+<div class="focus-box" style="padding-top: 20px; border-width: thick; border-color: #504d68">
+	<h2>Coronavirus (COVID-19) updates</h2>
+	<p><a class="button" title="Coronavirus (COVID-19)" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/coronavirus.aspx">Latest information</a> | <a class="button" title="Restrictions in Cheshire West and Chester" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/restrictions-in-west-cheshire.aspx">Restrictions in Cheshire West and Chester</a></p>
+	<ul>
+		<li><a title="Dedicated helpline" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/how-to-get-help/dedicated-helpline.aspx" style="text-decoration-line: underline; text-decoration-style: solid;">Dedicated helpline for people who need support</a></li>
+		<li><a title="How to get help" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/how-to-get-help/how-to-get-help.aspx" style="text-decoration-line: underline; text-decoration-style: solid;">How to get help</a> </li>
+		<li><a title="How you can help and become a Community Champion" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/how-you-can-help/how-you-can-help.aspx" style="text-decoration-line: underline; text-decoration-style: solid;">How you can help and become a Community Champion</a> </li>
+	</ul>
+</div>
+<p>&nbsp;</p>
+		<div class="section__title">
+			<h1>I want to...
+			</h1>
+		</div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/contact-us/pay-it/pay-it.aspx">Pay for a service or fee online</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/contact-us/report-it/potholes-and-road-faults.aspx">Report a highways issue</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/waste-and-recycling/missed-collections.aspx">Report a missed bin collection</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/council-tax/paying-your-council-tax.aspx">Pay my council tax</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/births-deaths-and-marriage/register-a-birth.aspx">Register a birth</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/contact-us/report-it/street-cleaning.aspx">Report a street cleaning issue</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/contact-us/report-it/check-or-update-a-fault.aspx">Check the progress of a highways issue</a>
+        </div>
+        <div class="medium-6 large-4 column ">
+            <a class="top-link" href="/residents/planning-and-building-control/see-or-comment-on-planning-applications.aspx">See or comment on a planning application</a>
+        </div>
+        <div class="medium-6 large-4 column  end">
+            <a class="top-link" href="/residents/jobs/jobs.aspx">Look for a job</a>
+        </div>
+
+
+</div>
+</section>
+<div class="banner">
+
+    <div class="carousel row">
+        <div class="cycle-slideshow"
+            data-cycle-speed="750"
+            data-cycle-timeout="7000"
+            data-cycle-fx="scrollHorz"
+            data-cycle-swipe="true"
+            data-cycle-swipe-fx="scrollHorz"
+            data-cycle-slides="> div"
+            data-cycle-prev="#prev"
+            data-cycle-next="#next" >
+            
+            <div>
+                <div class="banner__image imgFill" style="background-image: url(/images/homepage/hp-covidrestrictions.jpg);"></div>
+                <div class=" banner__info">
+                    <h2 class="banner__title">Restrictions in Cheshire West and Chester</h2>
+                    <p class="banner__text">New restrictions have been introduced in Cheshire West and Chester in response to a sharp increase in the number of coronavirus (COVID-19) cases in the borough.</p>
+                    <a class="button button--banner" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/restrictions-in-west-cheshire.aspx">Find out more</a>
+                </div>
+            </div>
+            <div>
+                <div class="banner__image imgFill" style="background-image: url(/images/homepage/hp_923-webcast.jpg);"></div>
+                <div class=" banner__info">
+                    <h2 class="banner__title">Pandemic Response and Recovery</h2>
+                    <p class="banner__text">Watch Pandemic Response and Recovery Scrutiny live from 6pm. On the agenda is the Pandemic Recovery and Reform plan.</p>
+                    <a class="button button--banner" href="https://cheshirewestandchester.public-i.tv/core/portal/webcast_interactive/517789">Watch</a>
+                </div>
+            </div>
+            <div>
+                <div class="banner__image imgFill" style="background-image: url(/images/homepage/hp-sibling-adoption.jpg);"></div>
+                <div class=" banner__info">
+                    <h2 class="banner__title">National Adoption Week</h2>
+                    <p class="banner__text">Together for Adoption is highlighting the need for more adopters in the area, particularly to care for sibling groups, during this year&#39;s National Adoption Week (12 to 18 October).</p>
+                    <a class="button button--banner" href="https://yourwestcheshire.co.uk/NewsArticle/%7BB03D6B7B-925D-41D7-A44D-C2ABA42A5720%7D">Read more</a>
+                </div>
+            </div>
+            <div>
+                <div class="banner__image imgFill" style="background-image: url(/images/homepage/hp-covid19.jpg);"></div>
+                <div class=" banner__info">
+                    <h2 class="banner__title">Novel Coronavirus (COVID-19)</h2>
+                    <p class="banner__text">Find out the latest information and actions for the public on the Novel Coronavirus.</p>
+                    <a class="button button--banner" href="https://www.cheshirewestandchester.gov.uk/news-and-views/incidents/coronavirus-covid-19/coronavirus-latest-information.aspx">Find out more</a>
+                </div>
+            </div>
+            <div>
+                <div class="banner__image imgFill" style="background-image: url(/images/homepage/hp-clockwisechester.jpg);"></div>
+                <div class=" banner__info">
+                    <h2 class="banner__title">Clockwise Chester</h2>
+                    <p class="banner__text">While we install a new drain for Chester, there will be a clockwise one-way route for most of the inner ring road from 16 November for 12 months.</p>
+                    <a class="button button--banner" href="https://www.cheshirewestandchester.gov.uk/residents/transport-and-roads/highways/major-road-schemes/transport-disruption-in-chester/clockwise-chester/clockwise-chester.aspx">Clockwise Chester</a>
+                </div>
+            </div>
+    
+        </div>
+        
+        <a class="cycle-prev" href=# id="prev" aria-label="Previous item">Previous</a> 
+        <a class="cycle-next" href=# id="next" aria-label="Next item">Next</a>
+        <a href="" class="pp__toggle paws" id="pauseButton" aria-label="Previous item">Play or Pause the carousel</a>
+                
+    </div>
+
+
+</div>
+
+  
+
+
+<section class="top-tasks section section--lightgrey">
+	<div class="row">	
+  
+                <div class="section__title">
+                    <h2>Find a Council Service...</h2>
+                </div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/council-tax/council-tax.aspx">
+                  				<img src="/assets/images/icons/Service Icons/council-tax.svg" alt="Council Tax">                		
+                        	<span>Council Tax</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/waste-and-recycling/waste-and-recycling.aspx">
+                  				<img src="/assets/images/icons/Service Icons/dustbin.svg" alt="Waste and recycling">                		
+                        	<span>Waste and Recycling</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/housing-benefit-council-tax/housing-benefit-council-tax.aspx">
+                  				<img src="/assets/images/icons/Service Icons/coins.svg" alt="Housing Benefit and Council Tax Reduction">                		
+                        	<span>Housing Benefit</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/contact-us/report-it/report-it.aspx">
+                  				<img src="/assets/images/icons/Service Icons/tree-deciduous.svg" alt="Report it">                		
+                        	<span>Streets and open spaces</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/education-and-learning/education-and-learning.aspx">
+                  				<img src="/assets/images/icons/Service Icons/education.svg" alt="Education and learning">                		
+                        	<span>Schools and education</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/planning-and-building-control/planning-and-building-control.aspx">
+                  				<img src="/assets/images/icons/Service Icons/mixed-buildings.svg" alt="Planning and Building Control">                		
+                        	<span>Planning and Building Control</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/business/environmental-health/environmental-health.aspx">
+                  				<img src="/assets/images/icons/Service Icons/cleaning.svg" alt="Environmental health">                		
+                        	<span>Environmental Health</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/transport-and-roads/transport-and-roads.aspx">
+                  				<img src="/assets/images/icons/Service Icons/cars.svg" alt="Parking, roads and travel">                		
+                        	<span>Highways and roads</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center ">
+                    	<a class="top-task" href="/residents/births-deaths-and-marriage/births-deaths-and-marriage.aspx">
+                  				<img src="/assets/images/icons/Service Icons/book-open.svg" alt="Births, deaths and marriage">                		
+                        	<span>Births, deaths and marriages</span>
+                    	</a>
+                	</div>
+                		<div class="column text-center  end">
+                    	<a class="top-task" href="/residents/health-and-social-care/health-and-social-care.aspx">
+                  				<img src="/assets/images/icons/Service Icons/family.svg" alt="Health and social care">                		
+                        	<span>Health and social care</span>
+                    	</a>
+                	</div>
+                <div class="section__link section__link--right">
+                    <a href="/residents/residents.aspx#main">...more Council Services</a>
+                </div>
+
+	</div>
+</section>
+      
+
+
+<section class="section">
+
+
+
+
+<div class="row" data-equalizer data-equalize-on="medium">
+  
+
+    
+    
+
+
+          	<div class="medium-6 large-3 column">
+                <a href="/news-and-views/webcasts.aspx">
+                    <article class="news-block" data-equalizer-watch itemscope itemtype="http://schema.org/NewsArticle">
+                        <h2>Webcasts</h2>
+                        <p>View the latest webcasts, including Council, Planning and scrutiny committees.</p>
+                    </article>
+                </a>
+			</div>
+          	<div class="medium-6 large-3 column">
+                <a href="http://smileadoptionandfostering.co.uk/fostering/?utm_campaign=Fostering2016&amp;amp;utm_source=corporatewebsite&amp;amp;utm_medium=homepagefeature">
+                    <article class="news-block" data-equalizer-watch itemscope itemtype="http://schema.org/NewsArticle">
+                        <h2>Foster care recruitment</h2>
+                        <p>We&#39;re recruiting for foster carers. Can you inspire a child to do great things?</p>
+                    </article>
+                </a>
+			</div>
+          	<div class="medium-6 large-3 column">
+                <a href="http://cwcrecruitment.co.uk/?utm_campaign=SocialWork2016&amp;amp;utm_source=corporatewebsite&amp;amp;utm_medium=homepagefeature">
+                    <article class="news-block" data-equalizer-watch itemscope itemtype="http://schema.org/NewsArticle">
+                        <h2>Social worker recruitment</h2>
+                        <p>Come and find out if you&#39;ve got what it takes to become a social worker.</p>
+                    </article>
+                </a>
+			</div>
+          	<div class="medium-6 large-3 column">
+                <a href="http://www.yourwestcheshire.co.uk/pages/2136/1/Your_news.html">
+                    <article class="news-block" data-equalizer-watch itemscope itemtype="http://schema.org/NewsArticle">
+                        <h2>Latest news</h2>
+                        <p>Read the latest news from the Council.</p>
+                    </article>
+                </a>
+			</div>
+
+</div>
+&nbsp;
+</section>
+
+</main>
+
+<script type="text/javascript" >
+function InitialiseC4A() {
+	/* Chat Tool */
+	var Tool1 = new C4A.Tools(1); 
+	C4A.Run('ba04c13b-4b82-4ad3-95c1-86c0de2622ac');
+}
+</script>
+<noscript><a href="https://www.click4assistance.co.uk/add-live-chat-software-click4assistance-uk" target="_blank" style="font-size:10px;position:fixed;bottom:2px;right:2px;">Click4Assistance UK Live Chat Software</a></noscript>
+<script src="https://v4in1-si.click4assistance.co.uk/SI.js" type="text/javascript" defer="defer"></script><noscript><p>Browser does not support script.</p></noscript>
+
+
+
+<footer class="footer">
+<div class="row">
+<div class="medium-6 column text-center medium-text-left"><a class="button" style="margin-bottom: 30px;" title="Sign up for email alerts" href="https://public.govdelivery.com/accounts/UKCHESHIREWESTANDCHESTER/subscriber/new">Sign up for email alerts</a></div>
+<div class="medium-6 column text-center medium-text-right"><a class="social facebook" title="Facebook" onclick="void(window.open('https://www.facebook.com/cheshirewest',''));return false;" onkeypress="void(window.open('https://www.facebook.com/cheshirewest',''));return false;" href="https://www.facebook.com/cheshirewest"><span class="facebook">Facebook</span> </a>&nbsp; <a class="social twitter" title="Twitter" onclick="void(window.open('https://twitter.com/go_cheshirewest',''));return false;" onkeypress="void(window.open('https://twitter.com/go_cheshirewest',''));return false;" href="https://twitter.com/go_cheshirewest">Twitter</a> <a class="social flickr" title="Flickr" onclick="void(window.open('https://www.flickr.com/photos/cheshirewest',''));return false;" onkeypress="void(window.open('https://www.flickr.com/photos/cheshirewest',''));return false;" href="https://www.flickr.com/photos/cheshirewest">&nbsp;Flickr</a>&nbsp; <a class="social youtube" title="YouTube" onclick="void(window.open('https://www.youtube.com/user/cheshirewest',''));return false;" onkeypress="void(window.open('https://www.youtube.com/user/cheshirewest',''));return false;" href="https://www.youtube.com/user/cheshirewest">YouTube</a></div>
+</div>
+<div class="row">
+<div class="medium-6 column text-center medium-text-left"><a title="Disclaimer" class="sys_0 sys_t0" href="/system-pages/disclaimer.aspx">Terms and conditions</a> <a title="Privacy policy" class="sys_0 sys_t0" href="/system-pages/privacy-and-data-protection.aspx">Privacy policy</a> <a title="Cookies" class="sys_0 sys_t0" href="/system-pages/cookies.aspx">Cookies</a> <a title="How to contact us" class="sys_0 sys_t0" href="/residents/contact-us/contact-us.aspx">Contact</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
+<div class="medium-6 column text-center medium-text-right"><a class="sys_16" onclick="void(window.open('https://cheshirewestandchester.public-i.tv/core/portal/home',''));return false;" onkeypress="void(window.open('https://cheshirewestandchester.public-i.tv/core/portal/home',''));return false;" href="https://cheshirewestandchester.public-i.tv/core/portal/home">West Cheshire TV</a> <a class="sys_16" onclick="void(window.open('http://www.yourwestcheshire.co.uk/',''));return false;" onkeypress="void(window.open('http://www.yourwestcheshire.co.uk/',''));return false;" href="http://www.yourwestcheshire.co.uk/">Your West Cheshire</a></div>
+<div class="medium-6 column text-center medium-text-right">
+<link href="https://chatbot.cheshirewestandchester.gov.uk/chat/css/flex.chat.pluginv2.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://chatbot.cheshirewestandchester.gov.uk/chat/js/flex/flex.chat.pluginv2.js"></script><noscript><p>Browser does not support script.</p></noscript>
+<script type="text/javascript">
+	var chatOptions = {
+	"design": {
+		"allowRemoteUrls": true,
+		"hideFooter": false,
+		"hidePoweredBy": true,
+		"themes": {
+			"flex": {
+				"allowBlur": true,
+				"palette": {
+					"accentFilm": "#504d68",
+					"accent": "#504d68",
+					"accentFore": "#fff",
+					"accent2": "#504d68",
+					"accent2Fore": "#fff",
+					"subtleAccent": "#DFDEEB",
+					"subtleAccentFore": "#000",
+					"subtleAccent2": "rgba(255, 255, 255, 0.3)",
+					"flat": "#f1f1f1",
+					"flat3": "#DFDEEB",
+					"flatFilm": "#f1f1f1"
+				},
+				"background": {
+					"cardButton": "#504d68",
+					"cardButtonActive": "#d2541f",
+					"textbox": "#fff",
+					"userResponse": "#504d68"
+				},
+				"icon": {
+					"userResponseCallout": "#504d68"
+				},
+				"border": {
+					"cardButton": "#504d68",
+					"cardButtonActive": "#d2541f"
+				},
+				"text": {
+					"cardButton": "#fff"
+				},
+				"image": {
+					"logoButton": "https://www.cheshirewestandchester.gov.uk/assets/images/png/flex-chat-button-small-v1-AiDA.png",
+					"logoButtonLeft": "https://www.cheshirewestandchester.gov.uk/assets/images/png/flex-chat-button-ldoc-small-v1-AiDA.png",
+					"logoButtonRight": "https://www.cheshirewestandchester.gov.uk/assets/images/png/flex-chat-button-rdoc-small-v1-AiDA.png",
+					"body": "https://chatbot.cheshirewestandchester.gov.uk/chat/image/no-image.png",
+					"bodyBlur": "https://chatbot.cheshirewestandchester.gov.uk/chat/image/no-image.png",
+					"bot": "https://www.cheshirewestandchester.gov.uk/assets/images/png/robo30px.png",
+					"headerLogo": "https://www.cheshirewestandchester.gov.uk/assets/images/png/robo60px.png"
+				}
+			}
+		}
+	},
+	"frameBehaviour": {
+		"chatState": {
+			"initial": {
+				"visibility": "hidden",
+				"size": "maximised",
+				"dock": "right"
+			}
+		}
+	},
+	"textElements": {
+		"footerLinks": [{url:"/residents/contact-us/About-AiDA.aspx",text:"Feedback"}],
+		"hints": [],
+		"title": "Hi, I'm AiDA",
+		"subtitle": "Powered by FLEX AI"
+	},
+	"chat": {
+		"url": "https://chatbot.cheshirewestandchester.gov.uk/chat/chatv2.aspx",
+		"origin": "https://chatbot.cheshirewestandchester.gov.uk",
+		"showUploadButton": false
+	}
+},
+buttonOptions = {},
+container = document.body,
+flexChat = FlexAI.Chat.create(container, chatOptions);
+flexChat.registerButton(container, buttonOptions);
+</script><noscript><p>Browser does not support script.</p></noscript>
+</div>
+</div>
+</footer>
+<section class="cookies-bar section hide">
+<div class="row">
+<div class="medium-9 column">
+<p class="lead">We use cookies</p>
+<p>Cheshire West and Chester Council use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. However, if you would like to, you can change your cookie settings at any time.</p>
+</div>
+<div class="medium-3 column"><a id="cookieclose" class="cookies-bar__button cookies-bar__close button button--ghost" href="#">Continue</a> <a class="cookies-bar__button button button--ghost" href="/system-pages/cookies.aspx">Find out more</a></div>
+</div>
+</section>
+</div>
+</div>
+</div>
+
+			<script src="/assets/js/min/app.min.js" rel="javascript"></script><noscript><p>Browser does not support script.</p></noscript>
+		
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+		<script  type="text/javascript" src="/assets/js/vendors/cycle2.js?version=17609&amp;build=121170"></script><noscript><p>Browser does not support script.</p></noscript>
+</form>
+	</body>
+
+	</html>

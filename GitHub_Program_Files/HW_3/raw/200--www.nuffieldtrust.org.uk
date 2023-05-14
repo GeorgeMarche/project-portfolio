@@ -1,0 +1,1871 @@
+
+<!doctype html>
+<html class="no-js t-qualitywatch-external-wrapper"
+      lang="en-GB">
+<head>
+                
+                        <!-- Google Tag Manager -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event': 'content',
+            'contentData': {
+                'type': 'Data story',
+                'publishDate': '22/09/2020',
+                'gaDate': '20200922',
+                'author': 'Billy Palmer',
+                'title': 'Chart of the week: Covid-19 test and trace programme is still a leaky system',
+            }
+        });
+    </script>
+
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PNFNQK');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width">
+        <title>            Chart of the week: Covid-19 test and trace programme is still a leaky system |&nbsp;The Nuffield Trust</title>
+
+    
+
+
+
+
+
+
+
+  
+  
+
+<meta name="description" content="Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process."/>
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Chart of the week: Covid-19 test and trace programme is still a leaky system">
+<meta itemprop="description" content="Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process.">
+  <meta itemprop="image" content="https://www.nuffieldtrust.org.uk/files/2020-09/tnt-updateartboard-1-copy-2-4x.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@nuffieldtrust">
+<meta name="twitter:title" content="Chart of the week: Covid-19 test and trace programme is still a leaky system">
+<meta name="twitter:description" content="Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process.">
+<!-- Twitter Summary card images must be at least 120x120px -->
+  <meta name="twitter:image" content="https://www.nuffieldtrust.org.uk/files/2020-09/tnt-updateartboard-1-copy-2-4x.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Chart of the week: Covid-19 test and trace programme is still a leaky system"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system"/>
+  <meta property="og:image" content="https://www.nuffieldtrust.org.uk/files/2020-09/tnt-updateartboard-1-copy-2-4x.png"/>
+<meta property="og:description" content="Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process."/>
+<meta property="og:site_name" content="The Nuffield Trust"/>
+<meta property="article:published_time" content="2020-09-22T14:10:39+01:00"/>
+<meta property="article:modified_time" content="2020-09-22T17:22:11+01:00"/>
+
+
+            
+        <link rel="icon" type="image/png" href="/theme/nuffield-trust/favicon.png"/>
+
+        <link rel="stylesheet" href="/theme/nuffield-trust/assets/css/style.min.css?v=3.51">
+
+        
+        <script type="application/javascript">
+        if (typeof highcharts_charts === 'undefined') {
+            var highcharts_charts = [];
+        }
+    </script>
+
+        <script type="text/javascript">
+        var MTIProjectId = '7fae2a4a-d96b-453b-ac2d-a37f83ba4add';
+        (function () {
+            var mtiTracking = document.createElement('script');
+            mtiTracking.type = 'text/javascript';
+            mtiTracking.async = 'true';
+            mtiTracking.src = '/theme/nuffield-trust/assets/js/mtiFontTrackingCode.js?v=3.51';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
+        })();
+    </script>
+
+        <script type='text/javascript'>
+        (function (d, t) {
+            var bh = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            bh.type = 'text/javascript';
+            bh.src = 'https://www.bugherd.com/sidebarv2.js?apikey=6yjisgsirmd6oy26a1rexq';
+            s.parentNode.insertBefore(bh, s);
+        })(document, 'script');
+    </script>
+    	<meta name="generator" content="Bolt">
+    </head>
+
+
+
+
+    
+                        
+    
+
+<body class="t-red-theme is-resources">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNFNQK"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+<!-- Header bar -->
+<header class="c-header js-header">
+    <div class="c-header__container">
+
+        <div class="c-header__logo-container">
+            <a class="c-header__logo" href="https://www.nuffieldtrust.org.uk" title="Nuffield Trust">Nuffield Trust – Evidence for better healthcare</a>
+        </div>
+
+                        
+        <div class="c-header__button-container">
+                            <a class="c-header__button c-header__button--social c-header__button--social--twitter" href="//twitter.com/nuffieldtrust" title="Go to @nuffieldtrust's Twitter profile">
+                    <span class="c-icon c-icon--twitter c-icon--twitter--white c-header__social-link__icon"></span>
+                </a>
+            
+            
+                            <a class="c-header__button c-header__button--social c-header__button--social--linkedin" href="http://www.linkedin.com/company/nuffield-trust" title="Go to the Nuffield Trust's LinkedIn profile">
+                    <span class="c-icon c-icon--linkedin c-icon--linkedin--white c-header__social-link__icon"></span>
+                </a>
+            
+            <button class="c-header__button c-header__button--search js-search-button" data-target=".js-search-overlay" aria-label="Search">
+                <span class="c-header__button__text ts-header-menu-links">Search</span>
+                <span class="c-icon c-icon--search-small c-icon--search-small--white c-header__social-link__icon"></span>
+                <span class="c-icon c-icon--cross c-header__social-link__icon"></span>
+            </button>
+
+            <button class="c-header__button c-header__button--menu js-menu-button" aria-label="Menu">
+                <span class="ts-header-menu-links">Menu</span>
+
+                <span class="c-hamburger js-hamburger">
+                    <span class="c-hamburger__line c-hamburger__line--top"></span>
+                    <span class="c-hamburger__line c-hamburger__line--middle"></span>
+                    <span class="c-hamburger__line c-hamburger__line--bottom"></span>
+                </span>
+            </button>
+        </div>
+    </div>
+
+    <nav class="c-main-navigation js-main-navigation">
+        <div class="u-container">
+            
+    
+
+
+<ul class="c-main-navigation__nav js-main-navigation-list">
+                                                <li class="c-main-navigation__nav__item js-main-navigation-item index-1 is-dropdown-submenu-parent
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities" title=''
+                   class='c-main-navigation__nav__item__link '>Our priorities</a><button class="c-main-navigation__nav__item__sub-menu-button js-sub-menu-button"><span class="c-icon c-icon--chevron c-icon--chevron--white"></span></button></div><ul class="c-main-navigation__nav__item__sub-menu js-sub-menu" data-submenu><li class="c-main-navigation__nav__item js-main-navigation-item index-1 first
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/children-and-young-people" title=''
+                   class='c-main-navigation__nav__item__link '>Children and young people</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-2
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/health-and-social-care-finance-and-reform" title=''
+                   class='c-main-navigation__nav__item__link '>Health and social care finance and reform</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-3
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/new-models-of-health-care-delivery" title=''
+                   class='c-main-navigation__nav__item__link '>New models of health care delivery</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-4
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/older-people-and-complex-care" title=''
+                   class='c-main-navigation__nav__item__link '>Older people and complex care</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-5
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/quality-of-care" title=''
+                   class='c-main-navigation__nav__item__link '>Quality of care</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-6 last
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/our-priorities/workforce" title=''
+                   class='c-main-navigation__nav__item__link '>Workforce</a></div></li></ul></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-2
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/research" title=''
+                   class='c-main-navigation__nav__item__link '>Research</a></div></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-3
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/health-and-social-care-explained" title=''
+                   class='c-main-navigation__nav__item__link '>Health &amp; social care explained</a></div></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-4
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/news-and-opinion" title=''
+                   class='c-main-navigation__nav__item__link '>News &amp; comment</a></div></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-5
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/events" title=''
+                   class='c-main-navigation__nav__item__link '>Events</a></div></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-6 is-dropdown-submenu-parent
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about" title=''
+                   class='c-main-navigation__nav__item__link '>About</a><button class="c-main-navigation__nav__item__sub-menu-button js-sub-menu-button"><span class="c-icon c-icon--chevron c-icon--chevron--white"></span></button></div><ul class="c-main-navigation__nav__item__sub-menu js-sub-menu" data-submenu><li class="c-main-navigation__nav__item js-main-navigation-item index-1 first
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/general-information" title=''
+                   class='c-main-navigation__nav__item__link '>General information</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-2
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/corporate-policies" title=''
+                   class='c-main-navigation__nav__item__link '>Corporate policies</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-3
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/people" title=''
+                   class='c-main-navigation__nav__item__link '>People</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-4
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/partnerships" title=''
+                   class='c-main-navigation__nav__item__link '>Partnerships</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-5
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/jobs-and-opportunities" title=''
+                   class='c-main-navigation__nav__item__link '>Jobs &amp; opportunities</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-6 last
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/about/contact-us" title=''
+                   class='c-main-navigation__nav__item__link '>Contact us</a></div></li></ul></li>
+                                                                    <li class="c-main-navigation__nav__item js-main-navigation-item index-7 last is-dropdown-submenu-parent
+        
+         t-qualitywatch-nav-item
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch" title=''
+                   class='c-main-navigation__nav__item__link '>QualityWatch</a><button class="c-main-navigation__nav__item__sub-menu-button js-sub-menu-button"><span class="c-icon c-icon--chevron c-icon--chevron--white"></span></button></div><ul class="c-main-navigation__nav__item__sub-menu js-sub-menu" data-submenu><li class="c-main-navigation__nav__item js-main-navigation-item index-0 first js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch" title="" class="c-main-navigation__nav__item__link ">Latest</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-1
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch/indicators" title=''
+                   class='c-main-navigation__nav__item__link '>Indicators</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-2
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch/analysis" title=''
+                   class='c-main-navigation__nav__item__link '>Analysis</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-3
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch/annual-statements" title=''
+                   class='c-main-navigation__nav__item__link '>Annual statements</a></div></li><li class="c-main-navigation__nav__item js-main-navigation-item index-4 last
+        
+        
+        js-menu-item"><div class="c-main-navigation__nav__item__inner"><a href="/qualitywatch/about-qualitywatch" title=''
+                   class='c-main-navigation__nav__item__link '>About</a></div></li></ul></li>
+                        </ul>
+
+
+        </div>
+        <div class="u-clear"></div>
+    </nav>
+</header>
+
+<section class="c-search-overlay js-search-overlay">
+    <div class="u-container">
+                
+
+<form class="c-search-form" method="get" action="/search" enctype="text/plain">
+<label class="u-accessible-hide" for="search">Enter search term here</label>
+<input class="c-search-form__input ts-search-input js-search-input" id="search" type="search"
+       value="" name="search" placeholder="Enter
+    search term
+    here">
+<button class="c-search-form__submit" type="submit" aria-label="Search"><span
+            class="c-icon c-icon--search-large"></span></button>
+</form>
+
+    </div>
+</section>
+
+
+
+    <div class="c-master-wrapper">
+        
+
+                        
+                
+
+        
+    
+    
+    
+    
+                
+
+
+<section
+        class="c-page-header t-background-light-color  t-header-image t-header-image--none js-page-header">
+    <div class="u-container">
+                
+        <h1 class="c-page-header__title ts-heading-1 ">
+                                    Chart of the week: Covid-19 test and trace programme is still a leaky system
+                            </h1>
+                <div class="u-clear"></div>
+
+                    <div class="c-page-header__excerpt">
+                Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process.
+            </div>
+            </div>
+</section>
+
+
+
+
+
+<section
+        class="c-meta-banner t-background-light-color">
+    <div class="u-container">
+
+                            
+                
+
+<div class="c-meta-banner__block ">
+    
+    <h4 class="c-meta-banner__block__heading ts-heading-6">
+        Data story
+    </h4>
+
+                    <p class="c-meta-banner__block__heading ts-body ts-body--small">
+            Published: 22/09/2020
+        </p>
+    
+    
+    
+    
+    
+    
+
+    
+                                    </div>
+
+                            
+    
+    
+
+<div class="c-meta-banner__block c-meta-banner__block--authors ">
+            
+    <ul class="c-meta-banner__block__author-list">
+
+                    
+            <li class="c-meta-banner__block__author-list__item">
+                                    <img class="c-meta-banner__block__author-list__image" src="/thumbs/100x100c/2018-08/new-photos-0012-layer-2.png" title="Profile picture of Billy Palmer"/>
+                
+                <div class="c-meta-banner__block__author-list__author c-meta-banner__block__author-list__author--small">
+                    <h4 class="c-meta-banner__block__heading ts-heading-6">
+                        Author
+                    </h4>
+
+                    <p class="c-meta-banner__block__heading ts-body ts-body--small">
+                                                    <a href="/person/william-palmer" title="View Billy Palmer's profile">Billy Palmer</a>
+                                            </p>
+                </div>
+            </li>
+        
+    </ul>
+
+
+                </div>
+
+            
+                
+                    </div>
+</section>
+
+
+    
+
+
+                            
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+        
+
+    
+
+
+
+
+
+    
+<section
+        class="c-page-content  ">
+    <div class="u-container">
+
+        
+        <article class="c-page-content__body">
+
+            
+            
+            
+
+            
+            <div class="c-content-from-editor js-content-from-editor js-card-container">
+
+                
+                                    <div class="js-highlight-to-tweet" id="gtm-content-wrapper">
+                        <p>The NHS Test and Trace programme forms a central part of the government’s coronavirus recovery strategy. More than three months after the programme commenced in England in May, we’ve pieced together the <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918615/test-and-trace-week-15.pdf">data</a> to look at the extent to which the issues we <a href="http://www.nuffieldtrust.org.uk/resource/chart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace">previously identified</a> have been resolved.</p>
+
+<p>We’ve found a system that is still far from water-tight, with leakages all the way along the pipeline – from the numbers of people referred to the Test and Trace programme right through to those being told to self-isolate.</p>
+
+<ul>
+<li>It is likely that <strong>large numbers of infected people are being missed. </strong>Although 15,526 people were ‘transferred’ to NHS Test and Trace in the week to 9 September, during that period a higher number – 18,371 – tested positive. And the estimated <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/englandandwales18september2020">number</a> of new infections in the community was somewhere in the region of 59,800 over a similar timeframe.</li>
+    <li>But of those transferred, around <strong>one in six (2,424) could not be contacted</strong> and 271 had no contact details.</li>
+    <li>Of the 12,831 infected people who were reached, around <strong>one in six again could not provide recent close contacts.</strong> And where contacts were provided, <strong>fewer than three-quarters (74%) were reached and asked to self-isolate</strong>.</li>
+    <li>Crucially, of those people then asked to self-isolate (12,831 positive cases and 45,653 recent close contacts in the last week), there is still no information available on how many have done so. A previous <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/914931/s0712-tfms-consensus-statement-sage.pdf">estimate</a> from the government’s own Scientific Advisory Group for Emergencies (SAGE) suggests <strong>fewer than one in five might be fully adherent to self-isolation</strong> and quarantine.</li>
+</ul>
+<p>Since its launch, the system has delivered some improvements and in this latest week has had to deal with a substantial increase in cases. However, the latest data also show people are <a href="https://www.bbc.co.uk/news/health-54191745">waiting longer</a> to receive a test result. There also remain some key unknowns, such as whether the recent close contacts provided by each infected person is comprehensive. We will have to wait and see whether the long-awaited app – due to be released on Thursday this week – helps in this regard.</p>
+
+<p>Of course, it is unrealistic to expect a perfectly performing programme – <a href="https://www.bloomberg.com/opinion/articles/2020-09-15/coronavirus-spain-france-and-the-u-k-fail-the-test-and-trace-test">other countries</a> are struggling with contact tracing too. But it is also clear that the system continues to fall short of what is needed.</p>
+
+<p>
+
+
+    
+              
+  
+      
+            
+                        
+  
+    
+                          
+  <div class="c-card c-card--charts c-card--fullwidth c-card--chart c-card--default
+ c-card--embed 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="fullwidth"
+       data-size-value="3">
+
+          <div class="c-card__container js-flip-target">
+                
+
+  
+
+        
+    
+
+  
+<div class="c-card__front c-card__front--no-padding-bottom">
+    
+
+    
+
+    
+<a class="c-card__header" href="/chart/the-leaky-pipeline-of-the-test-and-trace-programme"
+   title="The leaky pipeline of the test and trace programme" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        The leaky pipeline of the test and trace programme
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                            
+                
+        
+                                                                
+                    22/09/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                                                    
+                                                
+                            <span class="c-icon c-icon--data"></span>
+                        
+                                    Chart
+                
+            
+                                </p>
+</div>
+
+
+                        
+    
+<div class="c-card__front-body c-card__front-body--chart js-card__body">
+    <div class="c-card__front-body__chart-wrapper ">
+                                    
+                <div class="c-chart c-chart--card-embed c-chart--image">
+                                                                    <div class="c-chart__output c-chart__output--image">
+                    
+            
+                    <img src="/thumbs/1500x0r/2020-09/tnt-updateartboard-8-4x.png"/>
+    </div>
+
+
+                                                            </div>
+            
+            </div>
+
+                        <div class="c-card__front-body__notes-and-sources">
+                                                        
+                    <div class="c-card__front-body__notes ts-body--extra-small">
+                        <p class="u-left">
+                            Note: &nbsp;
+                        </p>
+                        <p><br>
+1. Estimate for number of infected people is for period 4 – 10 September while NHS Test and Trace performance information for 3 – 9 September. It includes asymptomatic cases but not those in care homes, hospitals and other institutional settings.<br>
+2. Cases not reached includes those who declined to give details or, for non-complex cases, whose communications details were not given.<br>
+3. 'Contacts not identified’ scaled – for indicative purposes – to a previously published (low) <a href="https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ecdc.europa.eu%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2FCOVID-19-Contract-tracing-scale-up.pdf&amp;data=02%7C01%7Cpaul.kirkup%40nuffieldtrust.org.uk%7C7a9fca0c6c7f48090b4508d85f0ada3e%7C3b831e3bee9b4e4194dc5d5c15ce9f27%7C0%7C0%7C637363847493083438&amp;sdata=Gag7wGcfLGrlRfY5jRWVbsQihrF40Y3kK%2FraXPZr2as%3D&amp;reserved=0">estimate</a> for number of close contacts per positive case.<br>
+4. Contacts not reached includes, for non-complex cases, known contacts without communication details.</p>
+
+                    </div>
+                
+                            </div>
+            </div>
+
+
+                  
+          <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle">
+      Share<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/chart/the-leaky-pipeline-of-the-test-and-trace-programme">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=The%20leaky%20pipeline%20of%20the%20test%20and%20trace%20programme&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fchart%2Fthe-leaky-pipeline-of-the-test-and-trace-programme" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fchart%2Fthe-leaky-pipeline-of-the-test-and-trace-programme" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fchart%2Fthe-leaky-pipeline-of-the-test-and-trace-programme&amp;title=The%20leaky%20pipeline%20of%20the%20test%20and%20trace%20programme&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=" target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=The%20leaky%20pipeline%20of%20the%20test%20and%20trace%20programme&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fchart%2Fthe-leaky-pipeline-of-the-test-and-trace-programme" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/chart/the-leaky-pipeline-of-the-test-and-trace-programme" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=charts&id=1296'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+</p>
+
+                    </div>
+                
+                                    <div class="js-highlight-to-tweet" id="gtm-secondary-content-wrapper">
+                        <p>Data sources: Nuffield Trust analysis of gov.uk <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/918615/test-and-trace-week-15.pdf"><strong>Test and Trace data</strong> </a>and other sources listed in the accompanying text.</p>
+
+                    </div>
+                
+                <div class="u-clear"></div>
+
+                
+                                
+
+
+
+
+
+
+                                    
+                
+                                
+                            </div>
+
+            
+            
+
+            
+
+    <section class="c-disqus">
+        <h3 class="c-disqus__heading ts-heading-3">Comments</h3>
+
+        <div class="c-disqus__frame" id="disqus_thread"></div>
+        <script>
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+            var disqus_config = function () {
+                this.page.url        = 'https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system';  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = 'chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            (function () { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = '//nuffieldtrust-live.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+                                                                                                  Disqus.</a></noscript>
+    </section>
+
+        </article>
+
+                        
+
+    <aside class="c-page-content__sidebar">
+                
+
+
+
+
+                    <div class="c-page-content__share-block">
+    <h4 class="ts-heading-6">
+        Share this page
+    </h4>
+
+    <div class="c-share-block">
+        <div class="c-share-block__social">
+            <a class="c-share-block__button js-social-share" href="https://twitter.com/intent/tweet?text=Chart of the week: Covid-19 test and trace programme is still a leaky system&url=https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system" title="Share on Twitter">
+                <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+            </a>
+            <a class="c-share-block__button js-social-share" href="https://www.facebook.com/sharer/sharer.php?u=https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system" title="Share on Facebook">
+                <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+            </a>
+            <a class="c-share-block__button js-social-share" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system&title=Chart of the week: Covid-19 test and trace programme is still a leaky system&source=https://www.nuffieldtrust.org.uk&summary=Each week we present analysis of data in chart form to illustrate some key issues and invite discussion. With the delayed NHS Covid contact tracing app slated to launch later this week, Billy Palmer takes another look at the pipeline of the test and trace programme, and finds a system still weighed down by inefficiencies and uncertainties throughout the process." title="Share on LinkedIn">
+                <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+            </a>
+            <a class="c-share-block__button" href="mailto:?subject=Chart of the week: Covid-19 test and trace programme is still a leaky system&amp;body=https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system" title="Share via email">
+                <span class="c-icon c-icon--email c-icon--email--large"></span>
+            </a>
+
+            <div class="u-clear"></div>
+        </div>
+
+        <div class="c-share-block__interaction">
+            <input class="u-accessible-hide js-copy-target" type="text" name="" title="Current URL" readonly value="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system">
+            <button class="c-button c-button--secondary c-button--large js-copy-btn" href="#" data-clipboard-text="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-test-and-trace-programme-is-still-a-leaky-system">
+                Copy URL
+            </button>
+
+            <input class="u-accessible-hide js-copy-target" type="text" name="" title="Embed Code" readonly value="https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=304">
+            <button class="c-button c-button--secondary c-button--large js-copy-btn" data-clipboard-text="https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=304">
+                Embed
+            </button>
+        </div>
+    </div>
+</div>
+
+        
+                        
+
+
+<form action="https://nuffieldtrust.us17.list-manage.com/subscribe/post?u=cfc03b95df1e355c89bdd4e31&amp;id=39741ccd5c" method="post" id="mc-embedded-subscribe-form"
+      name="mc-embedded-subscribe-form" class="c-newsletter-signup  c-newsletter-signup--sidebar validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+        <h4 class="c-newsletter-signup__heading ts-footer-heading">
+            Sign up to our weekly newsletter
+        </h4>
+
+        <div class="c-newsletter-signup__container">
+            <div class="c-newsletter-signup__email-container mc-field-group">
+                <label class="u-accessible-hide" for="mce-EMAIL">Email Address </label>
+                <input type="email" value="" name="EMAIL" class="c-input-field c-input-field--primary c-input-field--with-submit required email" id="mce-EMAIL"
+                       placeholder="Email address">
+            </div>
+
+            <div class="mc-field-group u-hidden">
+                <label for="mce-MMERGE10">Source </label>
+                <input value="website" type="text" value="" name="MMERGE10" class="" id="mce-MMERGE10">
+            </div>
+
+            <div class="mc-field-group input-group u-hidden">
+                <strong>Newsletter </strong>
+                <ul>
+                    <li><input type="checkbox" value="1" name="group[7235][1]" id="mce-group[7235]-7235-0"><label for="mce-group[7235]-7235-0">On Salesforce</label></li>
+                    <li><input type="checkbox" value="2" name="group[7235][2]" id="mce-group[7235]-7235-1" checked><label for="mce-group[7235]-7235-1">Not on Salesforce</label>
+                    </li>
+                    <li><input type="checkbox" value="4" name="group[7235][4]" id="mce-group[7235]-7235-2"><label for="mce-group[7235]-7235-2">Alumni</label></li>
+                    <li><input type="checkbox" value="8" name="group[7235][8]" id="mce-group[7235]-7235-3"><label for="mce-group[7235]-7235-3">Associates</label></li>
+                    <li><input type="checkbox" value="16" name="group[7235][16]" id="mce-group[7235]-7235-4"><label for="mce-group[7235]-7235-4">Staff</label></li>
+                    <li><input type="checkbox" value="32" name="group[7235][32]" id="mce-group[7235]-7235-5"><label for="mce-group[7235]-7235-5">Trustees</label></li>
+                    <li><input type="checkbox" value="64" name="group[7235][64]" id="mce-group[7235]-7235-6"><label for="mce-group[7235]-7235-6">Subscribers from Campaign monitor
+                            from 17th May 19</label></li>
+                    <li><input type="checkbox" value="128" name="group[7235][128]" id="mce-group[7235]-7235-7"><label for="mce-group[7235]-7235-7">New2</label></li>
+                </ul>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cfc03b95df1e355c89bdd4e31_39741ccd5c" tabindex="-1" value=""></div>
+            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
+                   class="c-input-field--submit c-button c-button--primary c-button--large button">
+        </div>
+    </div>
+</form>
+
+        
+        
+            </aside>
+
+        
+        
+        
+        
+  <div class="u-clear"></div>
+  <section class="c-taxonomy-list">
+          
+      
+        <div class="c-taxonomy-list__set c-taxonomy-list__categories">
+                      
+            <a class="c-taxonomy-list__button c-button c-button--small c-button--tertiary" href="/search?categories[]=health-and-social-care-finances-and-reform" title="View all Health and social care finances and reform content">
+              Health and social care finances and reform
+            </a>
+          
+        </div>
+
+                
+      
+        <div class="c-taxonomy-list__set c-taxonomy-list__tags">
+                      
+            <a class="c-taxonomy-list__button c-button c-button--small c-button--tertiary" href="/search?tags[]=coronavirus" title="View all coronavirus content">
+              Coronavirus
+            </a>
+                      
+            <a class="c-taxonomy-list__button c-button c-button--small c-button--tertiary" href="/search?tags[]=covid-19" title="View all covid-19 content">
+              Covid-19
+            </a>
+                      
+            <a class="c-taxonomy-list__button c-button c-button--small c-button--tertiary" href="/search?tags[]=test%20and%20trace" title="View all test and trace content">
+              Test and trace
+            </a>
+                      
+            <a class="c-taxonomy-list__button c-button c-button--small c-button--tertiary" href="/search?tags[]=data%20visualisation" title="View all data visualisation content">
+              Data visualisation
+            </a>
+          
+        </div>
+
+            </section>
+
+    </div>
+</section>
+
+
+    
+
+
+    
+
+
+            <section class="c-card-container c-card-container--related-content js-card-container">
+            <div class="u-container">
+                <h2 class="ts-heading-2">Related content</h2>
+
+                <div>
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--resources c-card--onethird c-card--data-story c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+
+
+                            
+    
+
+  
+<div class="c-card__front c-card__front--no-padding-bottom">
+    
+
+
+
+    
+<a class="c-card__header" href="/resource/chart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace"
+   title="Chart of the week: The knowns and unknowns of NHS Test and Trace" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        Chart of the week: The knowns and unknowns of NHS Test and Trace
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                            
+                
+        
+                                                                
+                    07/07/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                                                    
+                                                                            
+                            <span class="c-icon c-icon--data"></span>
+                        
+                                    Data story
+                
+            
+                                </p>
+</div>
+
+
+                        
+
+            
+<div class="c-card__front-body c-card__front-body--image c-card__front--no-padding-bottom js-card__body"
+                    style="background-image: url(/thumbs/800x800r/2020-07/1594128496_previewartboard-11-2x.png);"
+        >
+    </div>
+
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/resource/chart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=Chart%20of%20the%20week%3A%20The%20knowns%20and%20unknowns%20of%20NHS%20Test%20and%20Trace&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace&amp;title=Chart%20of%20the%20week%3A%20The%20knowns%20and%20unknowns%20of%20NHS%20Test%20and%20Trace&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Each%20week%2C%20we%27ll%20be%20taking%20a%20look%20at%20a%20different%20aspect%20of%20the%20Covid-19%20pandemic%2C%20presenting%20our%20analysis%20in%20chart%20form%20to%20illustrate%20some%20key%20issues%20and%20invite%20discussion.%20This%20week%2C%20Billy%20Palmer%20looks%20at%20the%20available%20data%20on%20the%20NHS%27s%20much-discussed%20Test%20and%20Trace%20system%20%E2%80%93%20and%20finds%20this%20essential%20and%20developing%20process%20to%20be%20lacking%20in%20efficiency%20and%20efficacy%2C%20with%20many%20questions%20remaining%20unanswered.%20" target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=Chart%20of%20the%20week%3A%20The%20knowns%20and%20unknowns%20of%20NHS%20Test%20and%20Trace&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-the-knowns-and-unknowns-of-nhs-test-and-trace" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=289'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--news c-card--onethird c-card--press-release c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+  
+
+        
+        
+    
+
+
+<div class="c-card__front ">
+    
+
+
+
+    
+<a class="c-card__header" href="/news-item/leaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating"
+   title="‘Leaky’ test and trace system has long way to go to reach ‘world-beating’" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        ‘Leaky’ test and trace system has long way to go to reach ‘world-beating’
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                                                        
+                
+        
+                                                                                    
+                    09/07/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                            
+                                        
+                                                
+                            <span class="c-icon c-icon--press"></span>
+                        
+                                    Press release
+                
+            
+                                </p>
+</div>
+
+
+                        
+<div class="c-card__front-body js-card__body">
+        
+                    
+                        
+        
+        
+        <p class="ts-body">
+            Dr Billy Palmer responds to the latest NHS track and trace data.        </p>
+    
+    </div>
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/news-item/leaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=%E2%80%98Leaky%E2%80%99%20test%20and%20trace%20system%20has%20long%20way%20to%20go%20to%20reach%20%E2%80%98world-beating%E2%80%99&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Fleaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Fleaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Fleaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating&amp;title=%E2%80%98Leaky%E2%80%99%20test%20and%20trace%20system%20has%20long%20way%20to%20go%20to%20reach%20%E2%80%98world-beating%E2%80%99&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Dr%20Billy%20Palmer%20responds%20to%20the%20latest%20NHS%20track%20and%20trace%20data." target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=%E2%80%98Leaky%E2%80%99%20test%20and%20trace%20system%20has%20long%20way%20to%20go%20to%20reach%20%E2%80%98world-beating%E2%80%99&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Fleaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/news-item/leaky-test-and-trace-system-has-long-way-to-go-to-reach-world-beating" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=news&id=1329'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--resources c-card--onethird c-card--data-story c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+
+
+                            
+    
+
+  
+<div class="c-card__front c-card__front--no-padding-bottom">
+    
+
+
+
+    
+<a class="c-card__header" href="/resource/chart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn"
+   title="Chart of the week: What effect will the return to schools and universities have on infection outbreaks this autumn?" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        Chart of the week: What effect will the return to schools and universities have on infection outbreaks this autumn?
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                            
+                
+        
+                                                                
+                    10/09/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                                                    
+                                                                            
+                            <span class="c-icon c-icon--data"></span>
+                        
+                                    Data story
+                
+            
+                                </p>
+</div>
+
+
+                        
+
+            
+<div class="c-card__front-body c-card__front-body--image c-card__front--no-padding-bottom js-card__body"
+                    style="background-image: url(/thumbs/800x800r/2020-09/steam.png);"
+        >
+    </div>
+
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/resource/chart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=Chart%20of%20the%20week%3A%20What%20effect%20will%20the%20return%20to%20schools%20and%20universities%20have%20on%20infection%20outbreaks%20this%20autumn%3F&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn&amp;title=Chart%20of%20the%20week%3A%20What%20effect%20will%20the%20return%20to%20schools%20and%20universities%20have%20on%20infection%20outbreaks%20this%20autumn%3F&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Each%20week%20we%20present%20analysis%20of%20data%20in%20chart%20form%20to%20illustrate%20some%20key%20issues%20and%20invite%20discussion.%20As%20children%20return%20to%20schools%20this%20week%20and%20universities%20prepare%20to%20open%20their%20doors%20later%20this%20month%2C%20we%20look%20back%20at%20national%20reporting%20of%20acute%20respiratory%20infection%20outbreaks%20to%20see%20what%20previously%20happened%20in%20schools%20and%20educational%20settings%20%E2%80%93%20and%20discuss%20whether%20Covid-19%20might%20have%20unpredictable%20effects%20on%20historical%20trends." target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=Chart%20of%20the%20week%3A%20What%20effect%20will%20the%20return%20to%20schools%20and%20universities%20have%20on%20infection%20outbreaks%20this%20autumn%3F&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-what-effect-will-the-return-to-schools-and-universities-have-on-infection-outbreaks-this-autumn" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=302'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--resources c-card--onethird c-card--data-story c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+
+
+                            
+    
+
+  
+<div class="c-card__front c-card__front--no-padding-bottom">
+    
+
+
+
+    
+<a class="c-card__header" href="/resource/chart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk"
+   title="Chart of the week: The steep rise and slow decline of Covid-19 cases across the UK" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        Chart of the week: The steep rise and slow decline of Covid-19 cases across the UK
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                            
+                
+        
+                                                                
+                    23/06/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                                                    
+                                                                            
+                            <span class="c-icon c-icon--data"></span>
+                        
+                                    Data story
+                
+            
+                                </p>
+</div>
+
+
+                        
+
+            
+<div class="c-card__front-body c-card__front-body--image c-card__front--no-padding-bottom js-card__body"
+                    style="background-image: url(/thumbs/800x800r/2020-06/prv3.png);"
+        >
+    </div>
+
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/resource/chart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=Chart%20of%20the%20week%3A%20The%20steep%20rise%20and%20slow%20decline%20of%20Covid-19%20cases%20across%20the%20UK&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk&amp;title=Chart%20of%20the%20week%3A%20The%20steep%20rise%20and%20slow%20decline%20of%20Covid-19%20cases%20across%20the%20UK&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Each%20week%2C%20we%27ll%20be%20taking%20a%20look%20at%20a%20different%20aspect%20of%20the%20Covid-19%20pandemic%2C%20presenting%20our%20analysis%20of%20the%20data%20in%20chart%20form%20to%20illustrate%20some%20key%20issues%20and%20invite%20discussion.%20This%20week%2C%20John%20Appleby%20compares%20peaks%20in%20confirmed%20coronavirus%20cases%20in%20different%20areas%20of%20the%20UK%2C%20finding%20that%20prevalence%20has%20not%20necessarily%20been%20highest%20in%20London%20%E2%80%93%20and%20that%20some%20areas%20are%20experiencing%20a%20faster%20decline%20in%20cases%20than%20others." target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=Chart%20of%20the%20week%3A%20The%20steep%20rise%20and%20slow%20decline%20of%20Covid-19%20cases%20across%20the%20UK&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-the-steep-rise-and-slow-decline-of-covid-19-cases-across-the-uk" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=286'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--resources c-card--onethird c-card--data-story c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+
+
+                            
+    
+
+  
+<div class="c-card__front c-card__front--no-padding-bottom">
+    
+
+
+
+    
+<a class="c-card__header" href="/resource/chart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions"
+   title="Chart of the week: Covid-19 kills people in the most deprived areas at double the rate of those in the most affluent" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        Chart of the week: Covid-19 kills people in the most deprived areas at double the rate of those in the most affluent
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                            
+                
+        
+                                                                
+                    06/05/2020
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                                                    
+                                                                            
+                            <span class="c-icon c-icon--data"></span>
+                        
+                                    Data story
+                
+            
+                                </p>
+</div>
+
+
+                        
+
+            
+<div class="c-card__front-body c-card__front-body--image c-card__front--no-padding-bottom js-card__body"
+                    style="background-image: url(/thumbs/800x800r/2020-05/preview.png);"
+        >
+    </div>
+
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/resource/chart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=Chart%20of%20the%20week%3A%20Covid-19%20kills%20people%20in%20the%20most%20deprived%20areas%20at%20double%20the%20rate%20of%20those%20in%20the%20most%20affluent&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions&amp;title=Chart%20of%20the%20week%3A%20Covid-19%20kills%20people%20in%20the%20most%20deprived%20areas%20at%20double%20the%20rate%20of%20those%20in%20the%20most%20affluent&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Each%20week%2C%20we%27ll%20be%20taking%20a%20look%20at%20a%20different%20aspect%20of%20the%20Covid-19%20pandemic%2C%20presenting%20our%20analysis%20of%20the%20data%20in%20chart%20form%20to%20illustrate%20some%20key%20issues%20and%20invite%20discussion.%20This%20week%2C%20Billy%20Palmer%20looks%20at%20how%20deaths%20from%20Covid-19%20seem%20to%20affect%20the%20most%20deprived%20areas%20of%20England%20disproportionately%20%E2%80%93%20and%20sadly%20this%20is%20not%20a%20unique%20phenomenon." target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=Chart%20of%20the%20week%3A%20Covid-19%20kills%20people%20in%20the%20most%20deprived%20areas%20at%20double%20the%20rate%20of%20those%20in%20the%20most%20affluent&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fresource%2Fchart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/resource/chart-of-the-week-covid-19-kills-the-most-deprived-at-double-the-rate-of-affluent-people-like-other-conditions" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=resources&id=275'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                            
+              
+  
+      
+            
+                        
+        
+    
+                          
+  <div class="c-card c-card--news c-card--onethird c-card--comment c-card--default
+ c-card--listing 
+
+ js-card js-match-height"
+       data-match-height="expand"
+       data-size="onethird"
+       data-size-value="1">
+
+          <div class="c-card__container js-flip-target">
+                
+
+
+
+                            
+        
+    
+
+
+<div class="c-card__front ">
+    
+
+
+
+    
+<a class="c-card__header" href="/news-item/risky-numbers-the-national-reporting-of-covid-19"
+   title="Risky numbers: the national reporting of Covid-19" >
+        
+    
+        <span class="c-card__header__title  ts-heading-4">
+                                        
+                        
+        Risky numbers: the national reporting of Covid-19
+    </span>
+
+        
+        <span class="c-card__header__meta ts-body--small-heading">
+                
+                                                        
+                
+        
+                                                                                                                
+                    14/04/2020<span class="c-card__header__meta__bullet"> &#8226; </span>Billy Palmer
+        
+    </span>
+
+        </a>
+
+<div class="c-card__content-type">
+    <p class="ts-small-heading">
+                                                            
+                                        
+                                                                            
+                            <span class="c-icon c-icon--comment"></span>
+                        
+                                    Blog post
+                
+            
+                                </p>
+</div>
+
+
+                                                            
+            
+                        
+<div class="c-card__front-body c-card__front-body--person js-card__body">
+            <img class="c-card__front-body__profile-picture" src="/thumbs/200x400r/2018-08/new-photos-0012-layer-2.png" alt="Image of Billy Palmer"/>
+    </div>
+
+
+                  
+  
+      <a class="c-card__read-more c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading"
+       href="/news-item/risky-numbers-the-national-reporting-of-covid-19">
+      Read more<span class="c-card__read-more__icon c-icon c-icon--arrow-read-more"></span>
+    </a>
+  </div>
+
+
+                <div class="c-card__back js-card-back">
+        
+    
+<aside class="c-card__back__share c-card__share">
+    <span class="c-card__share__label ts-small-heading">Share</span>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://twitter.com/intent/tweet/?text=Risky%20numbers%3A%20the%20national%20reporting%20of%20Covid-19&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Frisky-numbers-the-national-reporting-of-covid-19&amp;via=nuffieldtrust" target="_blank" title="Share on Twitter" tabindex="-1">
+        <span class="c-icon c-icon--twitter c-icon--twitter--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Frisky-numbers-the-national-reporting-of-covid-19" target="_blank" title="Share on Facebook" tabindex="-1">
+        <span class="c-icon c-icon--facebook c-icon--facebook--black"></span>
+    </a>
+
+    <a class="c-card__share__button js-social-share js-card-tabindex" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Frisky-numbers-the-national-reporting-of-covid-19&amp;title=Risky%20numbers%3A%20the%20national%20reporting%20of%20Covid-19&amp;source=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2F&amp;summary=Daily%20government%20bulletins%20provide%20us%20with%20important%20numbers%20during%20the%20pandemic%20on%20how%20Covid-19%20is%20affecting%20the%20British%20public%2C%20and%20how%20many%20people%20have%20lost%20their%20lives.%20But%20numbers%20are%20sometimes%20difficult%20to%20interpret%2C%20argues%20Billy%20Palmer%2C%20and%20there%20may%20be%20ways%20to%20ensure%20the%20reporting%20can%20make%20people%20better%20informed%20of%20the%20overall%20picture.%20" target="_blank" title="Share on LinkedIn" tabindex="-1">
+        <span class="c-icon c-icon--linkedin c-icon--linkedin--black"></span>
+    </a>
+
+    <a class="c-card__share__button c-card__share__button--email js-card-tabindex" href="mailto:?subject=Risky%20numbers%3A%20the%20national%20reporting%20of%20Covid-19&amp;body=https%3A%2F%2Fwww.nuffieldtrust.org.uk%2Fnews-item%2Frisky-numbers-the-national-reporting-of-covid-19" target="_blank" title="Share via email" tabindex="-1">
+        <span class="c-icon c-icon--email--large"></span>
+    </a>
+</aside>
+
+
+        <div class="c-card__back-body">
+    <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn is-active js-card-tabindex" data-field-content="https://www.nuffieldtrust.org.uk/news-item/risky-numbers-the-national-reporting-of-covid-19" tabindex="-1">
+        Get URL
+    </button>
+
+        <button class="c-card__back-body__button c-button c-button--secondary c-button--medium js-input-change-btn js-card-tabindex" data-field-content="<iframe src='https://www.nuffieldtrust.org.uk/embed?contenttype=news&id=1286'></iframe>" tabindex="-1">
+        Embed
+    </button>
+
+    <div class="c-card__back-body__form js-copy-wrapper">
+        <input class="c-input-field c-input-field--text c-input-field--secondary js-copy-target js-input-change-target js-card-tabindex" type="text" readonly value="" tabindex="-1">
+        <button class="c-button c-button--primary c-button--large js-copy-btn js-card-tabindex" tabindex="-1">Copy</button>
+    </div>
+
+    
+    </div>
+
+
+        <button class="c-card__flip-toggle c-button c-button--tertiary c-button--small c-button--with-icon ts-small-heading js-flip-toggle js-card-tabindex" tabindex="-1">
+        Flip<span class="c-card__flip-toggle__icon c-icon c-icon--flip"></span>
+    </button>
+</div>
+
+      </div>
+      </div>
+
+                                    </div>
+            </div>
+        </section>
+    
+
+
+
+        
+
+        
+    </div>
+
+    <div class="c-overlay js-overlay"></div>
+
+        
+
+
+
+<!-- Footer -->
+<footer class="c-footer js-footer">
+    <div class="c-footer__top">
+        <div class="u-container">
+            <nav class="c-footer__top__menu">
+                
+
+
+
+<ul class="menu vertical medium-horizontal inline-list align-right" data-responsive-menu="accordion medium-dropdown">
+                                <li class="index-1 first
+        js-menu-item"><a href="/media-centre" title='Media' class=''>Media</a></li>
+                                        <li class="index-2
+        js-menu-item"><a href="/about/jobs-and-opportunities" title='Jobs' class=''>Jobs</a></li>
+                                        <li class="index-3
+        js-menu-item"><a href="http://www.nuffieldtrust.org.uk/qualitywatch" title='QualityWatch' class=''>QualityWatch</a></li>
+                                        <li class="index-4 last
+        js-menu-item"><a href="https://www.nuffieldtrust.org.uk/health-and-social-care-explained/nhs-reform-timeline/" title='NHS reform timeline' class=''>NHS reform timeline</a></li>
+            </ul>
+
+
+            </nav>
+
+            <div class="c-footer__contact">
+                <h4 class="ts-footer-heading">
+                                            Contact us
+                                    </h4>
+
+                                    <address class="c-footer__contact__detail ts-body">
+                        Nuffield Trust<br />
+59 New Cavendish Street<br />
+London W1G 7LP<br />
+(Wheelchair access available)
+                    </address>
+                
+                                    <div>
+                        <a class="c-link-with-icon c-link-with-icon--telephone ts-body" href="tel:020 7631 8450">
+                            <span class="c-icon c-icon--telephone"></span>020 7631 8450
+                        </a>
+                    </div>
+                
+                                    <div>
+                        <a class="c-link-with-icon c-link-with-icon--email ts-body" href="mailto:info@nuffieldtrust.org.uk">
+                            <span class="c-icon c-icon--email"></span>info@nuffieldtrust.org.uk
+                        </a>
+                    </div>
+                            </div>
+
+            <div class="c-footer__social-block">
+                                    <div class="c-footer__social-block__links">
+                        <h4 class="c-footer__social-block__links__heading ts-footer-heading">
+                            Follow us
+                        </h4>
+
+                        <div class="c-footer__social-block__link-container u-align-right">
+                                                            <a class="c-footer__social-block__social-link" href="//twitter.com/nuffieldtrust" target="_blank" title="Go to @nuffieldtrust's Twitter profile">
+                                    <span class="c-icon c-icon--twitter c-icon--twitter--black c-header__social-link__icon"></span>
+                                </a>
+                            
+                            
+                                                            <a class="c-footer__social-block__social-link" href="http://www.linkedin.com/company/nuffield-trust" target="_blank" title="Go to the Nuffield Trust's LinkedIn profile">
+                                    <span class="c-icon c-icon--linkedin c-icon--linkedin--black c-header__social-link__icon"></span>
+                                </a>
+                                                    </div>
+
+                        <div class="u-clear"></div>
+                    </div>
+                
+                <div class="c-footer__social-block__newsletter">
+                        
+
+
+    <form action="https://nuffieldtrust.us17.list-manage.com/subscribe/post?u=cfc03b95df1e355c89bdd4e31&amp;id=39741ccd5c" method="post" id="mc-embedded-subscribe-form"
+      name="mc-embedded-subscribe-form" class="c-newsletter-signup   validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+        <h4 class="c-newsletter-signup__heading ts-footer-heading">
+            Sign up to our weekly newsletter
+        </h4>
+
+        <div class="c-newsletter-signup__container">
+            <div class="c-newsletter-signup__email-container mc-field-group">
+                <label class="u-accessible-hide" for="mce-EMAIL">Email Address </label>
+                <input type="email" value="" name="EMAIL" class="c-input-field c-input-field--primary c-input-field--with-submit required email" id="mce-EMAIL"
+                       placeholder="Email address">
+            </div>
+
+            <div class="mc-field-group u-hidden">
+                <label for="mce-MMERGE10">Source </label>
+                <input value="website" type="text" value="" name="MMERGE10" class="" id="mce-MMERGE10">
+            </div>
+
+            <div class="mc-field-group input-group u-hidden">
+                <strong>Newsletter </strong>
+                <ul>
+                    <li><input type="checkbox" value="1" name="group[7235][1]" id="mce-group[7235]-7235-0"><label for="mce-group[7235]-7235-0">On Salesforce</label></li>
+                    <li><input type="checkbox" value="2" name="group[7235][2]" id="mce-group[7235]-7235-1" checked><label for="mce-group[7235]-7235-1">Not on Salesforce</label>
+                    </li>
+                    <li><input type="checkbox" value="4" name="group[7235][4]" id="mce-group[7235]-7235-2"><label for="mce-group[7235]-7235-2">Alumni</label></li>
+                    <li><input type="checkbox" value="8" name="group[7235][8]" id="mce-group[7235]-7235-3"><label for="mce-group[7235]-7235-3">Associates</label></li>
+                    <li><input type="checkbox" value="16" name="group[7235][16]" id="mce-group[7235]-7235-4"><label for="mce-group[7235]-7235-4">Staff</label></li>
+                    <li><input type="checkbox" value="32" name="group[7235][32]" id="mce-group[7235]-7235-5"><label for="mce-group[7235]-7235-5">Trustees</label></li>
+                    <li><input type="checkbox" value="64" name="group[7235][64]" id="mce-group[7235]-7235-6"><label for="mce-group[7235]-7235-6">Subscribers from Campaign monitor
+                            from 17th May 19</label></li>
+                    <li><input type="checkbox" value="128" name="group[7235][128]" id="mce-group[7235]-7235-7"><label for="mce-group[7235]-7235-7">New2</label></li>
+                </ul>
+            </div>
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cfc03b95df1e355c89bdd4e31_39741ccd5c" tabindex="-1" value=""></div>
+            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
+                   class="c-input-field--submit c-button c-button--primary c-button--large button">
+        </div>
+    </div>
+</form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="c-footer__bottom">
+        <div class="u-container">
+            <nav class="c-footer__bottom__menu">
+                
+
+
+
+<ul class="menu vertical medium-horizontal inline-list align-right" data-responsive-menu="accordion medium-dropdown">
+                                <li class="index-1 first
+        js-menu-item"><a href="/resource/privacy-notice" title='Privacy policy &amp; cookies' class=''>Privacy policy &amp; cookies</a></li>
+                                        <li class="index-2
+        js-menu-item"><a href="/terms-and-conditions" title='T&amp;Cs' class=''>T&amp;Cs</a></li>
+                                        <li class="index-3 last
+        js-menu-item"><a href="/accessibility" title='Accessibility' class=''>Accessibility</a></li>
+            </ul>
+
+
+                <img src="/theme/nuffield-trust/assets/images/bsi-mark.png?d8252429d6" class="c-footer__bottom__logo" alt="BSI ISO/IEC 27001 Information Security Management" title="BSI Assurance Mark">
+            </nav>
+
+            <div class="c-footer__bottom__credit">
+                <p class="ts-footer-credit">&copy; 2020 Nuffield Trust</p>
+                <p class="ts-footer-credit">Limited company no. 00382452</p>
+                <p class="ts-footer-credit">Registered charity no. 209169</p>
+                <p class="ts-footer-credit--small">Design and development by <a href="//www.soapbox.co.uk" target="_blank">Soapbox</a></p>
+            </div>
+        </div>
+    </div>
+
+    
+</footer>
+
+
+
+<script src="/theme/nuffield-trust/assets/js/jquery.min.js?v=3.51"></script>
+<script src="/theme/nuffield-trust/assets/js/jquery.scrolldepth.min.js?v=3.51"></script>
+
+
+<script src="https://code.highcharts.com/7.1.1/highcharts.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/highcharts-more.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/highcharts-3d.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/data.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/funnel.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/annotations.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/heatmap.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/solid-gauge.js?v=3.51"></script>
+<script src="https://code.highcharts.com/7.1.1/modules/treemap.js?v=3.51"></script>
+
+
+<script src="/theme/nuffield-trust/assets/js/script.min.js?v=3.51"></script>
+
+
+    <!-- Additional styles manually added by NT-->
+    <link rel="stylesheet" href="/files/additional-styles.css"> 
+<!--END-->
+
+
+<!-- OneTrust Cookies Consent Notice start 
+
+<script src="https://cdn-ukwest.onetrust.com/consent/ad038e7b-05ea-43b0-89e6-9d08b2b38188.js" type="text/javascript" charset="UTF-8"></script>
+
+<script type="text/javascript">
+
+function OptanonWrapper() { }
+
+</script>
+
+<!-- OneTrust Cookies Consent Notice end --> 
+
+
+
+
+<!-- OneTrust Cookies Consent Notice (Production CDN, www.nuffieldtrust.org.uk, en-GB) start 
+
+<script src="https://cdn.cookielaw.org/consent/9f71c989-5b4d-497c-9cc5-c074a2b18379.js" type="text/javascript" charset="UTF-8"></script>
+
+<script type="text/javascript">
+
+function OptanonWrapper() { }
+
+</script>
+
+<style>.optanon-cookie-policy-cookies-used { font-weight: bold; } </style>
+<!-- OneTrust Cookies Consent Notice (Production CDN, www.nuffieldtrust.org.uk, en-GB) end -->
+
+
+</body>
+</html>

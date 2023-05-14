@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="http://istanleycohen.org/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="I, Stanley Cohen, Attorney at Law and Political Activist, am an advocate for many people the government would like to silence or put in jail." />
+  <meta name="description" content="I, Stanley Cohen, Attorney at Law and Political Activist, am an advocate for many people the government would like to silence or put in jail." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Stanley Cohen Attorney New York</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/jf_event-up/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/jf_event-up/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_event-up/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/jf_event-up/css/jquery.fancybox.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_st_content_showcase/exts/wall/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_st_content_showcase/exts/wall/styles/model.css" type="text/css" />
+  <link rel="stylesheet" href="http://istanleycohen.org/modules/mod_jfslideshow/assets/css/supersized.css" type="text/css" />
+  <link rel="stylesheet" href="http://istanleycohen.org/modules/mod_jfslideshow/assets/css/slideshow.css" type="text/css" />
+  <link rel="stylesheet" href="http://istanleycohen.org/modules/mod_jfslideshow/assets/theme/supersized.shutter.css" type="text/css" />
+  <link rel="stylesheet" href="http://istanleycohen.org/modules/mod_jfslideshow/assets/css/responsivetext.css" type="text/css" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Comfortaa" type="text/css" />
+  <style type="text/css">
+#toTop {width:100px;z-index: 10;border: 1px solid #333; background:#121212; text-align:center; padding:5px; position:fixed; bottom:0px; right:0px; cursor:pointer; display:none; color:#fff;text-transform: lowercase; font-size: 0.7em;}.n a:link, .n a:visited{}.n a:hover{}.n{   width:600px; -moz-border-radius: 0px; border-radius: 0px; font-size:12px; line-height:15px}.e a:link, .e a:visited{}.e a:hover{}.e{  background-color:#827c7c; width:600px; -moz-border-radius: 8px; border-radius: 8px; font-size:12px; line-height:15px}.C a:link, .C a:visited{}.C a:hover{}.C{   width:600px; -moz-border-radius: 0px; border-radius: 0px; font-size:12px; line-height:15px}.z a:link, .z a:visited{}.z a:hover{}.z{  background-color:#7a7373; width:600px; -moz-border-radius: 8px; border-radius: 8px; font-size:12px; line-height:15px}.q a:link, .q a:visited{}.q a:hover{}.q{  background-color:#b5aeae; width:600px; -moz-border-radius: 8px; border-radius: 8px; font-size:12px; line-height:15px}.w a:link, .w a:visited{}.w a:hover{}.w{   width:300px; -moz-border-radius: 0px; border-radius: 0px; font-size:14px; line-height:17px}
+  </style>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+			<style type="text/css">
+		a
+		{
+			color: #293EAB;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #293EAB;
+		}
+	</style>
+		<!--[if lt IE 9]>
+		
+	<![endif]-->
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+<script src="/media/system/js/core.js" type="text/javascript"></script>
+<script src="/media/system/js/caption.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script src="/media/zen/js/jquery/jquery-noconflict.js" type="text/javascript"></script>
+<script src="/media/k2/assets/js/k2.frontend.js?v2.7.1&amp;sitepath=/" type="text/javascript"></script>
+<script src="/templates/jf_event-up/scripts/js/jquery.stellar.min.js" type="text/javascript"></script>
+<script src="/templates/jf_event-up/scripts/js/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script src="/templates/jf_event-up/scripts/js/template.js" type="text/javascript"></script>
+<script src="/modules/mod_st_content_showcase/exts/wall/jquery.masonry.min.js" type="text/javascript"></script>
+<script src="//istanleycohen.org/modules/mod_jfslideshow/assets/js/jquery.easing.min.js" type="text/javascript"></script>
+<script src="//istanleycohen.org/modules/mod_jfslideshow/assets/js/supersized.3.2.7.min.js" type="text/javascript"></script>
+<script src="//istanleycohen.org/modules/mod_jfslideshow/assets/theme/supersized.shutter.min.js" type="text/javascript"></script>
+<script src="/media/jui/js/html5.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});jQuery.noConflict();
+	jQuery.noConflict();
+	(function($){
+		var wallParams = {"count":"60","extension":"wall","source":"article","title":"1","title_link":"1","introtext":"1","introtext_length":177,"image":"1","image_link":"0","auto_find_image":"1","article_catid":["32","33","34"],"article_featured":"0","article_ordering":"a.ordering","folder_sync":"0","folder_category":["-1"],"folder_image":[""],"folder_ititle":[""],"folder_iintrotext":[""],"wall_grid_cols":"3","wall_grid_cols_320":"1","wall_grid_cols_480":"1","wall_grid_cols_767":"4","wall_item_width":"1","wall_category":"0","wall_style":"model.css","wall_modal":"0","news_horizonal_cols":"2","news_horizonal_readmore":"read more","news_horizonal_pre_text":"","news_horizonal_image":"1","news_horizonal_date":"0","flex_width":"50%","flex_animation":"slide","flex_direction":"horizontal","flex_animationLoop":"1","flex_slideshow":"1","flex_initDelay":"0","flex_pauseOnAction":"1","flex_pauseOnHover":"0","flex_preText":"Previous","flex_nextText":"Next","flex_keyboard":"1","flex_multipleKeyboard":"0","flex_pausePlay":"0","flex_pauseText":"","flex_playText":"","flex_itemWidth":"200","flex_minItems":"1","flex_maxItems":"5","flex_modal":"0","galleria_width":"100%","galleria_height":"300px","galleria_autoplay":"5000","galleria_easing":"galleria","galleria_fullscreenDoubleTap":"1","galleria_imageCrop":"height","galleria_imageMargin":"0","galleria_imagePan":"true","galleria_imagePanSmoothness":"8","galleria_imagePosition":"center","galleria_initialTransition":"slide","galleria_transition":"fade","galleria_trueFullscreen":"true","galleria_transitionSpeed":"400","galleria_pauseOnInteraction":"true","galleria_preload":"2","galleria_queue":"true","galleria_responsive":"true","galleria_show":"0","galleria_showCounter":"true","galleria_showInfo":"true","galleria_showImageNav":"true","galleria_swipe":"true","galleria_thumbnails":"true","galleria_thumbMargin":"0","galleria_thumbQuality":"true","slider_content_width":"100%","slider_content_height":"300","slider_content_cols":1,"slider_content_readmore":"read more","slider_content_image":"1","slider_content_date":"1","copyright":"1","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"itemid"};
+		setCols = function (contain, containerWidth, cols) 
+		{
+			var widthWindow = $(window).width();
+			
+			if (widthWindow <= 320) {
+				cols = wallParams.wall_grid_cols_320;
+			} else if (widthWindow <= 480) {
+				cols = wallParams.wall_grid_cols_480;
+			} else if (widthWindow <= 767) {
+				cols = wallParams.wall_grid_cols_767;
+			}
+			
+			if (widthWindow <= 320) {
+				itemWidth = containerWidth/wallParams.wall_grid_cols_320;
+			} else if (widthWindow <= 480) {
+				itemWidth = containerWidth/wallParams.wall_grid_cols_480;
+			} else if (widthWindow <= 767){
+				itemWidth = containerWidth/wallParams.wall_grid_cols_767;
+			} else {
+				itemWidth = containerWidth/cols;
+			}
+			
+			$(contain + ' .item').each(function(el)
+			{
+				if (wallParams.wall_item_width == 'random') 
+				{
+					//random Item Cosl 1->12
+					wallParams.wall_item_width = Math.floor(Math.random() * (12 - 1 + 1)) + 1;
+					// Item Cols can not bigger grid cols
+					(wallParams.wall_item_width > cols) ? wallParams.wall_item_width = cols : '';
+					$(this).css('width', itemWidth * wallParams.wall_item_width);
+				} 
+				else 
+				{
+					$(this).css('width', itemWidth * wallParams.wall_item_width);
+				}	
+			});
+			return cols;	
+		}
+		
+		$(document).ready(function(){
+			var wrapper = $('#5f87445ca7045');
+			var contain = wrapper.find('.layout-wall');
+			contain.imagesLoaded(function(){
+				contain.masonry({
+		        	itemSelector : '.item',
+		        	isAnimated: true,
+		        	isResizable: true,
+					columnWidth: function( containerWidth ) {
+						cols = setCols('#5f87445ca7045', containerWidth, wallParams.wall_grid_cols);
+						return containerWidth /cols;
+	  				}
+		        });	
+				
+				$(window).resize(function(){
+					contain.masonry('reload');
+					setTimeout(function(){
+						contain.css({'overflow' : 'visible'});	
+					}, 1000);
+				});	
+			});
+			
+			// category
+			wrapper.find('.category-wall span').each(function()
+			{
+				$(this).click(function()
+				{
+					var className = $(this).attr('class');
+					if (className == 'all') {
+						className = 'item';
+					}
+					
+					contain.find(' > div:not([class*="' + className + '"])').removeClass('displayBlock').addClass('displayNone');
+					contain.find(' > div[class*="' + className + '"]').removeClass('displayNone').addClass('displayBlock');
+				
+					contain.masonry({
+			        	itemSelector : '.' + className,
+			        	isAnimated: true,
+			        	isResizable: true,
+						columnWidth: function( containerWidth ) {
+							cols = setCols('#5f87445ca7045', containerWidth, wallParams.wall_grid_cols);
+							return containerWidth /cols;
+		  				}
+			        });
+
+					contain.masonry('reload');
+					setTimeout(function(){
+						contain.css({'overflow' : 'visible'});	
+					}, 1000);
+				});
+			});
+		});	
+	})(jQuery);
+jQuery.noConflict();	
+	jQuery(function($){
+						$('body').append('<div id="slidecaption"></div>');
+				
+		$.supersized({
+		
+			// Functionality
+			slideshow               :   1,			// Slideshow on/off
+			autoplay				:	1,			// Slideshow starts playing automatically
+			start_slide             :   1,			// Start slide (0 is random)
+			stop_loop				:	0,			// Pauses slideshow on last slide
+			random					: 	0,			// Randomize slide order (Ignores start slide)
+			slide_interval          :   5000,		// Length between transitions
+			transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+			transition_speed		:	1000,		// Speed of transition
+			new_window				:	1,			// Image links open in new window/tab
+			pause_hover             :   0,			// Pause slideshow on hover
+			keyboard_nav            :   0,			// Keyboard navigation on/off
+			performance				:	1,			// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
+			image_protect			:	1,			// Disables image dragging and right click with Javascript
+													   
+			// Size & Position						   
+			min_width		        :   0,			// Min width allowed (in pixels)
+			min_height		        :   0,			// Min height allowed (in pixels)
+			vertical_center         :   1,			// Vertically center background
+			horizontal_center       :   1,			// Horizontally center background
+			fit_always				:	0,			// Image will never exceed browser width or height (Ignores min. dimensions)
+			fit_portrait         	:   0,			// Portrait images will not exceed browser height
+			fit_landscape			:   0,			// Landscape images will not exceed browser width
+													   
+			// Components							
+			slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+			thumb_links				:	0,			// Individual thumb links for each slide
+			thumbnail_navigation    :   0,			// Thumbnail navigation
+			slides 					:  	[			// Slideshow Images
+												 {image: 'http:/images/stories/stanley/stanleycohen_nyt_cover_2018.jpg', title: '<h2 style=\'font-size:40px; line-height:40px; color:#ffffff;\' class=\' text-shadow slideSloganText\'><a href=\'/index.php?option=com_content&view=article&id=111\' style=\'color:#ffffff;\'>He Defended Accused Terrorists for 35 Years. Now He’s Back.</a></h2> <div class=\'slidedescription   n\'>After imprisonment on tax charges, Stanley Cohen, a  freewheeling radical lawyer, has Hamas on the phone and is on the job again.</div>'}, {image: 'http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2016/7/11/89fca667a6c54d75b6c36dff62c45e26_18.jpg', title: '<h2 style=\'font-size:34px; line-height:34px; color:#ffa600;\' class=\' text-shadow slideSloganText\'><a href=\'/index.php?option=com_content&view=article&id=87\' style=\'color:#ffa600;\'>BDS is a war Israel can\'t win</a></h2> <div class=\'slidedescription   e\'>Most of the world has been content to overlook Palestine\'s ordeal - fatigued by 68 years of this conflict, and understandably inured to the epic suffering of its people, who understand that their tragic condition can only hold its attention briefly.</div>'}, {image: '/images/stories/stanley/stanley_by_tim_knox-433x320.jpg', title: '<h2 style=\'font-size:36px; line-height:36px; color:#00fbff;\' class=\' text-shadow slideSloganText\'><a href=\'/index.php?option=com_content&view=article&id=88\' style=\'color:#00fbff;\'>Stanley Cohen led talks with Isis leaders to secure release of Abdul-Rahman (Peter) Kassig</a></h2> <div class=\'slidedescription comfortaa  C\'>Talks to save Peter Abdul-Rahman Kassig went on for weeks, backed by U.S. The American aid worker was killed by his Isis captors on 16 November.</div>'}, {image: '/images/stories/stanley/Stanley_Cohen_Al-Awsat20141228i.jpg', title: '<h2 style=\'font-size:32px; line-height:32px; color:#faffff;\' class=\' text-shadow slideSloganText\'><a href=\'/index.php?option=com_content&view=article&id=90\' style=\'color:#faffff;\'>Stanley Cohen: US government will target me until the day I die</a></h2> <div class=\'slidedescription   z\'>Controversial US lawyer Stanley Cohen has found himself in the international headlines on a number of occasions He defended Osama Bin Laden’s son-in-law, Sheikh Suleiman Abu Ghaith; he defended himself in another courtroom on tax charges, ultimately pleading guilty and accepting a prison sentence; and he led the doomed efforts to secure the release of Abdul Rahman Kassig from the Islamic State of Iraq and Syria (ISIS).</div>'}, {image: '/images/stories/stanley/StanleyCohenDemocracyNow20141230.jpg', title: '<h2 style=\'font-size:36px; line-height:36px; color:#faf5f5;\' class=\' text-shadow slideSloganText\'><a href=\'/index.php?option=com_content&view=article&id=89\' style=\'color:#faf5f5;\'>How a Radical Lawyer Set for Prison Joined Longtime U.S. Gov’t Foe in Failed Bid to Free a Hostage	</a></h2> <div class=\'slidedescription   q\'>Democracy Now interviews Stanley Cohen, a lawyer directly involved in secret talks to win the freedom of U.S. aid worker Peter Kassig, who argues that the U.S. government missed a chance to prevent Kassig’s beheading last month by the Islamic State in Syria.</div>'}, {image: '/images/stories/stanley/stanley-paypal14-still.jpg', title: '<h2 style=\'font-size:33px; line-height:33px; color:18;\' class=\' text-shadow slideSloganText\'>Defending Anonymous</h2> <div class=\'slidedescription   w\'>This is about a First Amendment protected protest in Cyber Space.</div>'}										],
+										
+			// Theme Options			   
+			progress_bar			:	0,			// Timer for each slide							
+			mouse_scrub				:	1
+			
+		});
+});
+
+  </script>
+<script type="text/javascript">
+			jQuery(document).ready(function() {
+				jQuery(function () {
+					var scrollDiv = document.createElement("div");
+					jQuery(scrollDiv).attr("id", "toTop").html("^ Back To Top").appendTo("body");
+					jQuery(window).scroll(function () {
+						if (jQuery(this).scrollTop() != 0) {
+							jQuery("#toTop").fadeIn();
+						} else {
+							jQuery("#toTop").fadeOut();
+						}
+					});
+					jQuery("#toTop").click(function () {
+						jQuery("body,html").animate({
+							scrollTop: 0
+						},
+						800);
+					});
+				});
+			});
+		</script>
+</head>
+
+<body class="site home com_content view-featured no-layout no-task itemid-180">
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=393248360736193";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<!-- Header -->
+	<div class="header">		
+			
+			<div class="header-top">
+				<div class="container">
+					<div class="time-today pull-left hidden-phone">					
+						<span><i class="fa fa-calendar"></i>Wednesday, October 14.2020</span>
+					</div>
+					<div class="top-right pull-right">
+																									
+					</div>
+				</div>
+			</div>
+			
+		<div class="header-bottom clearfix">
+			<div class="container">
+				<a class="brand pull-left" href="/">
+					<span class="site-title" title=""></span>									</a>
+								<nav class="navigation pull-right">
+					<div class="navbar pull-left">
+						<a class="btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						
+<ul class="nav menu">
+<li class="item-180 current active"><a href="/" >Stanley L. Cohen</a></li><li class="item-242"><a href="/index.php/video" >Video</a></li><li class="item-259"><a href="/index.php/photos" >Photos</a></li><li class="item-260"><a href="/index.php/stanley-l-cohen-cases" >Cases</a></li><li class="item-261"><a href="/index.php/haters" >Haters</a></li></ul>
+
+					</div>
+				</nav>
+						
+			</div>
+		</div>		
+	</div>
+	
+			
+		<div id="slideshow">
+		
+		<a href="#" id="scroll-down"></a>
+	</div>
+		
+	<div class="wrap">
+			
+		<!-- Body -->
+		<div class="body">
+			<div class="container">
+				<div class="row">
+					<div id="content" class="span12">
+						<!-- Begin Content -->
+						
+						
+<div id="system-message-container">
+</div>
+						<div class="blog-featured">
+
+
+
+
+</div>
+
+						
+						<!-- End Content -->
+					</div>
+									</div>
+			</div>
+		</div>
+		
+				<div id="about" class="section section-purple">
+			<div class="container">
+				<div class="moduletable moduleabout.section">
+
+<div class="customabout.section"  >
+	</div>
+</div><div class="moduletable module"><div class="st-content-showcase-wall"  id="5f87445ca7045">
+	<div class="layout-wall">
+	
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/BDS_the-war-israel-cant-win-aljazeera.jpg"  alt="BDS is a war Israel can't win"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=87">
+								BDS is a war Israel can't win</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+&nbsp;
+Israeli think-tank fellow Yossi Klein Halevi, writing recently in the Los Angeles Times would have American readers believe that the Boycott, Divest and Sanction</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley_by_tim_knox-433x320.jpg"  alt="Stanley Cohen led talks with Isis leaders to secure release of Abdul-Rahman (Peter) Kassig"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=88">
+								Stanley Cohen led talks with Isis leaders to secure release of Abdul-Rahman (Peter) Kassig</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+
+
+
+Talks to save Peter Abdul-Rahman Kassig went on for weeks, backed by U.S.&nbsp;The American aid worker was killed by his Isis captors on 16 November. Here, for the</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/StanleyCohenDemocracyNow20141230.jpg"  alt="How a Radical Lawyer Set for Prison Joined Longtime U.S. Gov’t Foe in Failed Bid to Free a Hostage"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=89">
+								How a Radical Lawyer Set for Prison Joined Longtime U.S. Gov’t Foe in Failed Bid to Free a Hostage</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+Democracy Now interviews Stanley Cohen, a lawyer directly involved in secret talks to win the freedom of U.S. aid worker Peter Kassig, who argues that the U.S. governmen</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/Stanley_Cohen_Al-Awsat20141228i.jpg"  alt="Stanley Cohen: US government will target me until the day I die"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=90">
+								Stanley Cohen: US government will target me until the day I die</a>
+												</h3>
+										
+											<div class="description">
+Controversial US lawyer Stanley Cohen has found himself in the international headlines on a number of occasions this year. He defended Osama Bin Laden’s son-in-law, Sheikh S</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley-cohen-der-spiegel-20120814-507x316jpg.jpg"  alt="Der Spiegel Interview with Stanley Cohen on His Lifetime of Resistance"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=94">
+								Der Spiegel Interview with Stanley Cohen on His Lifetime of Resistance</a>
+												</h3>
+										
+											<div class="description">Stanley Cohen speaks about resistance, activism, and various groups including Hamas, and the "hactivist" group "Anonymous".
+
+&nbsp;Stanley Cohen outside his former residence a</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley-cohen-by-melvin.jpg"  alt="From Avenue D to Ahmadinejad: Stanley Cohen Speaks to Iranian President"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=95">
+								From Avenue D to Ahmadinejad: Stanley Cohen Speaks to Iranian President</a>
+												</h3>
+										
+											<div class="description">Stanley Cohen has had a busy week.&nbsp;Not only is he defending Mona Eltahawy, the commentator arrested Tuesday after defacing a provocative pro-Israel poster, but the Alphabet</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley_cohen_RT_snowden_20130625.jpg"  alt="Stanley Cohen Speaks on NSA Whistle blower Snowden"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=96">
+								Stanley Cohen Speaks on NSA Whistle blower Snowden</a>
+												</h3>
+										
+											<div class="description">
+The criminal spying on U.S. citizens by the NSA is the real story.&nbsp; Snowden is a hero in the crosshairs to distract from the truth.&nbsp;
+Watch the Video.
+{youtube}4JBJ</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/vice-062013-001.jpg"  alt="An Interview with the Lawyer Representing bin Laden's Son-in-Law"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=97">
+								An Interview with the Lawyer Representing bin Laden's Son-in-Law</a>
+												</h3>
+										
+											<div class="description">An Interview with the Lawyer Representing bin Laden's Son-in-Law
+By Richard Potter&nbsp;(from&nbsp;VICE.COM)June, 2013 
+&nbsp;
+&nbsp;
+The term "polarising figure" has become</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanleycohen-in-gaza-519-322.jpg"  alt="Stanley Cohen -- Speech for President Ahmadinejad at the Iranian Mission"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=98">
+								Stanley Cohen -- Speech for President Ahmadinejad at the Iranian Mission</a>
+												</h3>
+										
+											<div class="description">
+&nbsp;
+
+For well over a year now, the American public has been fed a steady diet of fear over a “nuclear” Iran. This intensive campaign—pushed equally by the White Hou</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley_cohen_RT_NSA_interview.jpg"  alt="Stanley Cohen Speaks on ACLU v. US Gov. Lawsuit over NSA Spying"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=99">
+								Stanley Cohen Speaks on ACLU v. US Gov. Lawsuit over NSA Spying</a>
+												</h3>
+										
+											<div class="description">
+
+The spying on U.S. citizens is unprecedented in scope, criminal, and unconstitutional.&nbsp;
+Watch the Video.
+
+
+&nbsp;
+{youtube}SzuaVzlHcfw{/youtube}</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/2012/stanley-cohen-izrs-freibourg-2013-video.jpg"  alt="Stanley Cohen Video of Speech at IZRS 2012 Freibourg, Switzerland"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=100">
+								Stanley Cohen Video of Speech at IZRS 2012 Freibourg, Switzerland</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+A message to the West: If you want to facilitate peace, facilitate justice...
+&nbsp;
+Video temporarily unavailable
+&nbsp;
+&nbsp;Watch the video of Stanley Cohen's fu</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley-paypal14-still.jpg"  alt="Stanley Cohen Talks About the &quot;PayPal 14&quot; Case"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=102">
+								Stanley Cohen Talks About the "PayPal 14" Case</a>
+												</h3>
+										
+											<div class="description">
+
+This is about a First Amendment protected protest in Cyber Space.&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+Watch the Video.
+
+&nbsp;
+
+
+</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/2012/stanley-cohen-meeting-for-justice-egypt431x320.jpg"  alt="Stanley Cohen speaking at The Meeting for Justice in Egypt, Istanbul 2013"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=103">
+								Stanley Cohen speaking at The Meeting for Justice in Egypt, Istanbul 2013</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+
+A message to the Military Government of Egypt: You are ILLEGAL...
+
+Watch the video of Stanley Cohen's full speech at the IHH Meeting for Justice in Egypt, Istanbul 2</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/ww3-the-worlds-most-criminal-defense-attorney-i.jpg"  alt="The World's Most Criminal Defense Attorney"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=104">
+								The World's Most Criminal Defense Attorney</a>
+												</h3>
+										
+											<div class="description">&nbsp;Stanley Cohen -- The World's Most Criminal Defense Attorney
+
+Chronicled in World War 3 Illustrated -- in tribute to the 25th anniversary of the 1988 Tompkins Square Poli</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanley_palestine_graffitiwallx350t.jpg"  alt="The Two-State Solution is Neither"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=105">
+								The Two-State Solution is Neither</a>
+												</h3>
+										
+											<div class="description">
+&nbsp; Stanley Cohen: Zurich, 15 May 2014. [Address to the "Nakba 2014" Conference]
+Is the Two-State Solution now the zombie of Western political-thought--an idea long dead, </div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stanley-cohen-speaks-at-brown-hammond-benefit.jpg"  alt="Stanley Cohen Speaks at a Benefit for Hammond and Brown"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=106">
+								Stanley Cohen Speaks at a Benefit for Hammond and Brown</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+
+Stanley Cohen defended Anonymous in the PayPal 14 case
+&nbsp;
+"I've spent a lot of time speaking around the world and typically what I do when I speak to groups whet</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanleycohenguardingE13st1994-464x322.jpg"  alt="Stanley Cohen on Radio Station 786 Capetown, South Africa Dec. 12, 2012"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=107">
+								Stanley Cohen on Radio Station 786 Capetown, South Africa Dec. 12, 2012</a>
+												</h3>
+										
+											<div class="description">&nbsp;
+
+Stanley Cohen speaks about his lifetime of resistance, his beliefs, and his view of the future.
+Listen to the full two part interview from South Africa's RADIO 786, C</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanleycohen-forward-032414.jpg"  alt="How Stanley Cohen Went From Orthodox to Defending bin Laden's Son-In-Law"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=109">
+								How Stanley Cohen Went From Orthodox to Defending bin Laden's Son-In-Law</a>
+												</h3>
+										
+											<div class="description">
+&nbsp;
+But&nbsp;Even Firebrand Lawyer&nbsp;Is&nbsp;Uncomfortable&nbsp;With This Client
+
+By&nbsp;Nathan Guttman
+Published March 25, 2014, Foreward, issue of&nbsp;March 28, </div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item haters">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/s-cohen.JPG"  alt="Stanley L. Cohen Attorney -- Haters -- My Badges of Honor"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=93">
+								Stanley L. Cohen Attorney -- Haters -- My Badges of Honor</a>
+												</h3>
+										
+											<div class="description">My HATERS have a lot to say about me!
+I have won more than a few cases and awards but to be voted the world's number 1 self-hating Jew by this group is an HONOR!
+
+	STANLEYCOH</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item stanleyacohenamedia">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/stanleycohen_nyt_cover_2018.jpg"  alt="He Defended Accused Terrorists for 35 Years. Now He’s Back"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=111">
+								He Defended Accused Terrorists for 35 Years. Now He’s Back</a>
+												</h3>
+										
+											<div class="description">
+After imprisonment on tax charges, Stanley Cohen, a freewheeling radical lawyer, has Hamas on the phone and is on the job again.
+
+
+
+By Corey Kilgannon
+
+
+
+Oct. 21, 2018</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item cases">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/cohen_51687591_519x293.jpg"  alt="Attorney and Activist for the Global Neighborhood"/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=92">
+								Attorney and Activist for the Global Neighborhood</a>
+												</h3>
+										
+											<div class="description">Attorney and Activist for the Global Neighborhood
+	
+	
+
+
+
+Lawyers Stanley Cohen (R) and Marc Van Der Hout (L), listen to a question from a reporter at a news conference
+
+</div>
+						
+				</div>
+			</div>
+		</div>
+			<div class="item haters">
+			<div class="inner">
+														<div class="media">
+					
+						<img src="/images/stories/stanley/frontpagemag-cohen.jpg"  alt="Stanley Cohen and Mona Eltahawy—a pair of jihad defenders—personify the proverbial match made in heaven…..or hell."/>
+						
+											</div>
+						
+								
+				<div class="info image">
+					
+											<h3 class="title">
+												<a href="http://istanleycohen.org/index.php?option=com_content&view=article&id=108">
+								Stanley Cohen and Mona Eltahawy—a pair of jihad defenders—personify the proverbial match made in heaven…..or hell.</a>
+												</h3>
+										
+											<div class="description">From the Stanley Cohen Haters, Frontpagemag.com&nbsp;(click for original article)
+by John Perazzo
+ 
+It is highly significant that Eltahawy’s defense counsel is Stanley Cohe</div>
+						
+				</div>
+			</div>
+		</div>
+		</div>
+</div></div>
+			</div>
+		</div>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+		<div>
+			<a href="#" id="scroll-up"></a>
+		</div>
+		
+		<!-- Footer -->
+		<div class="footer">
+			<div class="container">
+								<div class="footer-bottom">
+										
+					<div class="copyright">
+						<div class="jf">
+							<a title="" href="http://istanleycohen.org" target="_blank" class="jflink"></a>
+						</div>
+						CopyLEFT 2011-Present Stanley L. Cohen<BR>
+<a href="https://twitter.com/StanleyCohenLaw">Follow on Twitter @StanleyCohenLaw</a><BR><br />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

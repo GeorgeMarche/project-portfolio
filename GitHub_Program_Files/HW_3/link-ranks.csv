@@ -1,0 +1,11 @@
+,Total Words,Occurrences,TF,IDF,TF-IDF,PageRank,My TF,My IDF,My TF-IDF,Link
+0,1318,27,0.020486,5.149091,0.105482,0.7,0.020486,3.171368,0.064969,https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875
+1,3453,24,0.00695,5.149091,0.035789,0.6,0.00695,3.171368,0.022041,https://www.krone.at/2248298
+2,10618,23,0.002166,5.149091,0.011154,0.8,0.002166,3.171368,0.006869,https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-covid-news-trump-scotland-lockdown-uk-cases/
+3,720,21,0.029167,5.149091,0.150182,0.6,0.029167,3.171368,0.092499,https://www.msnbc.com:443/all
+4,995,35,0.035176,5.149091,0.181124,1.0,0.035176,3.171368,0.111556,https://www.facebook.com/jamesjimcie
+5,6888,50,0.007259,5.149091,0.037377,0.8,0.007259,3.171368,0.023021,https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus/the-treatment-that-trump-touted-as-a-cure-for-covid-19-was-developed-using-cells-derived-from-fetal-tissue
+6,1777,19,0.010692,5.149091,0.055055,0.6,0.010692,3.171368,0.033908,https://www.welt.de/vermischtes/article217484140/Talkshow-Maybrit-Illner-Das-kann-nicht-stimmen-was-Donald-Trump-da-behauptet.html?wtrid=socialmedia.socialflow....socialflow_twitter
+7,2394,19,0.007937,5.149091,0.040866,0.8,0.007937,3.171368,0.025171,https://www.forbes.com/sites/andymeek/2020/10/07/dan-rather-has-some-advice-for-journalists-in-the-era-of-trump-truthiness-and-covid-19/
+8,994,22,0.022133,5.149091,0.113964,0.5,0.022133,3.171368,0.070192,http://www.gazetatema.net/en/donald-trump-is-ready-for-return-to-public-events-after-falling-ill-with-covid-19-says-doctor/
+9,5193,23,0.004429,5.149091,0.022806,0.5,0.004429,3.171368,0.014046,http://www.econotimes.com/

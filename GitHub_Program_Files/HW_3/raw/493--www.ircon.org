@@ -1,0 +1,1579 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" xml:lang="en-gb" lang="en-gb">
+<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<meta name="author" content="Padam"/>
+	<meta name="generator" content="Joomla! - Open Source Content Management"/>
+	<title>Home</title>
+	<link href="/templates/jd_miami/xfavicon.ico.pagespeed.ic.tZz9337ewR.png" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+	<link href="/A.components,,_com_k2,,_css,,_k2.css+templates,,_jd_miami,,_css-compiled,,_menu-675c761f1dd48561213e0f16e33cdbcb.css+libraries,,_gantry,,_css,,_grid-responsive.css+templates,,_jd_miami,,_css-compiled,,_bootstrap.css,Mcc.F9mlV01nqf.css.pagespeed.cf.pHtGT1Zi4q.css" rel="stylesheet" type="text/css"/>
+	
+	
+	
+	<link href="/A.templates,,_jd_miami,,_css-compiled,,_master-ccdc829c4d0653cebc7251801a4c0b63.css+templates,,_jd_miami,,_css-compiled,,_mediaqueries.css+modules,,_mod_rssearch,,_assets,,_css,,_rssearch.css,Mcc.UeUhIgA0Og.css.pagespeed.cf.WyRyQLVLKB.css" rel="stylesheet" type="text/css"/>
+	
+	
+	<style type="text/css"></style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"d04edc1386d72cb343a71a035ddbda94","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.jm.ywlvbuicbl.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.ce.I4kCTD093I.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.jm.Esjhv-eXHl.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js,q14f09d96924532c24647c57caa0f7aaf+jquery-migrate.min.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.jc.F8ZNI2o1v-.js"></script><script>eval(mod_pagespeed_VkLL2NwHDQ);</script>
+	<script>eval(mod_pagespeed_QfzQKHEVsk);</script>
+	<script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+	<script src="/media/system,_js,_caption.js,q14f09d96924532c24647c57caa0f7aaf+jui,_js,_bootstrap.min.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.jc.XdgNkJJ2i4.js"></script><script>eval(mod_pagespeed_gAyDM4Gi99);</script>
+	<script>eval(mod_pagespeed_nM2wiGCoBD);</script>
+	<script src="/media/system/js/mootools-more.js,q14f09d96924532c24647c57caa0f7aaf.pagespeed.jm.-6O1zP2hFm.js" type="text/javascript"></script>
+	<script src="/libraries,_gantry,_js,_gantry-totop.js+libraries,_gantry,_js,_browser-engines.js+templates,_jd_miami,_js,_rokmediaqueries.js+templates,_jd_miami,_html,_mod_roknavmenu,_themes,_default,_js,_rokmediaqueries.js+templates,_jd_miami,_html,_mod_roknavmenu,_themes,_default,_js,_sidemenu.js.pagespeed.jc.jN5WX_-mIV.js"></script><script>eval(mod_pagespeed_bvxzot8rG2);</script>
+	<script>eval(mod_pagespeed_KGpfX0Y3ru);</script>
+	<script>eval(mod_pagespeed_A5SJApJcFN);</script>
+	<script>eval(mod_pagespeed_woO7DjHw4c);</script>
+	<script>eval(mod_pagespeed_1QIQZHf7S0);</script>
+	<script type="text/javascript">jQuery(window).on('load',function(){new JCaption('img.caption');});</script>
+	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="http://www.ircon.org/templates/jd_miami/css/A.font-awesome.css.pagespeed.cf.TukZ8a4QLt.css">
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	
+
+<link rel="stylesheet" type="text/css" href="/templates/jd_miami/less/A.jevents.css+kunena.css+virtuemart.css+animate.css,Mcc.qtexCosmAR.css.pagespeed.cf.oFK4QvdaX2.css"/>
+
+
+
+<link rel="stylesheet/less" type="text/css" href="/templates/jd_miami/less/hikashop.less"/>
+<script src="/templates/jd_miami/js/less.js" type="text/javascript"></script>
+<script src="/templates/jd_miami/js/wow.min.js+script.js.pagespeed.jc.rgcPQ02pWr.js"></script><script>eval(mod_pagespeed_9wqrJ8x38t);</script>
+<script>eval(mod_pagespeed_qTrD1BT0dh);</script>
+<script>new WOW().init();</script>
+<style type="text/css">@media print{body{display:none}}</style>
+
+<script type="text/javascript">$(document).ready(function(){$(window).keydown(function(e){if(e.keyCode==44){e.preventDefault();}});$(window).focus(function(){$("body").show();}).blur(function(){$("body").hide();});});</script>
+
+<script type="text/javascript">function clickExplorer(){if(document.all){alert('Stop copying the copyrighted material!');}return false;}function clickOther(e){if(document.layers||(document.getElementById&&!document.all)){if(e.which==2||e.which==3){alert('Stop copying the copyrighted material!');return false;}}}if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickOther;}else{document.onmouseup=clickOther;document.oncontextmenu=clickExplorer;}</script>
+
+<script type="text/javascript">document.addEventListener('dragstart',function(e){e.preventDefault();});document.addEventListener('copy',function(e){e.preventDefault();alert('Stop copying the copyrighted material!');});</script>
+<meta http-equiv="imagetoolbar" content="no">
+<link rel="stylesheet" type="text/css" href="http://www.ircon.org/media/nextend/A.nextend-frontend,,_nextend-frontend.css,,q1487392211+n2-ss-1,,_n2-ss-1.css,,q1490679494,Mcc.-9ilVIANPZ.css.pagespeed.cf.QYIOGgSsva.css" media="screen, print"/>
+
+<script type="text/javascript">window.N2PRO=0;window.N2GSAP=1;window.N2PLATFORM="joomla";window.nextend={localization:{},deferreds:[],loadScript:function(url){n2jQuery.ready(function(){nextend.deferreds.push(n2.ajax({url:url,dataType:"script",cache:true,error:function(){console.log(arguments)}}))})},ready:function(cb){n2.when.apply(n2,nextend.deferreds).done(function(){cb.call(window,n2)})}};window.N2SSPRO=0;window.N2SSWHYPRO="http://smartslider3.com/why-upgrade-to-pro/";nextend.fontsLoaded=false;nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;};var fontData={google:{families:["Montserrat:400:latin"]},active:function(){nextend.fontsLoadedActive()},inactive:function(){nextend.fontsLoadedActive()}};if(typeof WebFont==='undefined'){window.WebFontConfig=fontData;}else{WebFont.load(fontData);}</script><script type="text/javascript" src="http://www.ircon.org/media/nextend/n2/n2.js,q1487392211.pagespeed.jm.fRh9IknAAv.js"></script>
+<script type="text/javascript" src="http://www.ircon.org/media/nextend/nextend-frontend/nextend-frontend.js,q1487392211.pagespeed.jm.2IOVJrTOcx.js"></script>
+<script type="text/javascript" src="http://www.ircon.org/media/nextend/smartslider-frontend/smartslider-frontend.js,q1487392211.pagespeed.jm.Us6v02qC6o.js"></script>
+<script src="http://www.ircon.org/media/nextend/n2-ss-1,_n2-ss-1.js,q1490679494+smartslider-simple-type-frontend,_smartslider-simple-type-frontend.js,q1487392211+nextend-webfontloader,_nextend-webfontloader.js,q1487392211.pagespeed.jc.ScPkbXRcBg.js"></script><script>eval(mod_pagespeed_maZX6_tqxX);</script>
+<script>eval(mod_pagespeed_TEV2gcjp74);</script>
+<script>eval(mod_pagespeed_FHxjTe81I3);</script>
+<script type="text/javascript">window.n2jQuery.ready((function($){window.nextend.ready(function(){nextend.fontsDeferred=n2.Deferred();if(nextend.fontsLoaded){nextend.fontsDeferred.resolve();}else{nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;nextend.fontsDeferred.resolve();};}new NextendSmartSliderSimple(n2('#n2-ss-1'),{"admin":false,"isStaticEdited":0,"translate3d":0,"randomize":0,"callbacks":"","load":{"fade":1,"scroll":0,"spinner":"<div><div class=\"n2-ss-spinner-simple-white-container\"><div class=\"n2-ss-spinner-simple-white\"><\/div><\/div>\n<style type=\"text\/css\">\n.n2-ss-spinner-simple-white-container {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    margin: -20px;\n    background: #fff;\n    width: 20px;\n    height: 20px;\n    padding: 10px;\n    border-radius: 50%;\n    z-index: 1000;\n}\n\n.n2-ss-spinner-simple-white {\n  outline: 1px solid RGBA(0,0,0,0);\n  width:100%;\n  height: 100%;\n}\n\n.n2-ss-spinner-simple-white:before {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    width: 20px;\n    height: 20px;\n    margin-top: -11px;\n    margin-left: -11px;\n}\n\n.n2-ss-spinner-simple-white:not(:required):before {\n    content: '';\n    border-radius: 50%;\n    border-top: 2px solid #333;\n    border-right: 2px solid transparent;\n    animation: n2SimpleWhite .6s linear infinite;\n    -webkit-animation: n2SimpleWhite .6s linear infinite;\n}\n@keyframes n2SimpleWhite {\n    to {transform: rotate(360deg);}\n}\n\n@-webkit-keyframes n2SimpleWhite {\n    to {-webkit-transform: rotate(360deg);}\n}\n\n<\/style>"},"playWhenVisible":1,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"fullwidth","downscale":1,"upscale":1,"minimumHeight":0,"maximumHeight":3000,"maximumSlideWidth":3000,"maximumSlideWidthLandscape":3000,"maximumSlideWidthTablet":980,"maximumSlideWidthTabletLandscape":980,"maximumSlideWidthMobile":480,"maximumSlideWidthMobileLandscape":480,"maximumSlideWidthConstrainHeight":1,"forceFull":1,"verticalOffsetSelectors":"","focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.6999999999999999555910790149937383830547332763671875,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":1920,"desktopLandscape":1920,"tabletPortrait":1344,"tabletLandscape":0,"mobilePortrait":960,"mobileLandscape":0},"basedOn":"combined","tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":800,"mobileLandscapeScreenWidth":440,"orientationMode":"width_and_height"},"controls":{"scroll":0,"drag":0,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":2000,"autoplayToSlide":-1,"pause":{"click":1,"mouse":"0","mediaStarted":0},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0}},"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider","scrollmove":"both"},"initCallbacks":[],"bgAnimations":{"global":[{"type":"Flat","tiles":{"crop":true,"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"current":{"ease":"easeOutCubic","scale":0.6999999999999999555910790149937383830547332763671875},"next":{"ease":"easeOutCubic","left":"100%"}},"invert":{"zIndex":2,"current":{"left":"100%","scale":1},"next":{"scale":0.6999999999999999555910790149937383830547332763671875,"left":0}}}],"speed":"normal"},"mainanimation":{"type":"horizontal","duration":400,"delay":0,"ease":"easeOutQuad","parallax":1,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0});new NextendSmartSliderWidgetArrowImage("n2-ss-1",1,0.7,0.5);new NextendSmartSliderWidgetAutoplayImage("n2-ss-1",1,0.7,0.5);});}));</script></head>
+
+<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-7243260-2']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();jQuery(document).ready(function(){jQuery('#n2-ss-1item4').click(function(e){e.preventDefault();jQuery('html, body').animate({scrollTop:jQuery("#rt-showcase").offset().top},1000);})
+jQuery(window).scroll(function(){var scroll=jQuery(window).scrollTop();if(scroll>=60){jQuery("#rt-top-surround").addClass("scroll");}if(scroll<=60){jQuery("#rt-top-surround").removeClass("scroll");}})});</script>
+
+<script>jQuery('#nav_up').click(function(e){jQuery('html, body').animate({scrollTop:'0px'},50);});jQuery("#rt-scroll").hide();jQuery("#rt-scroll").click(function(){jQuery("body, html").animate({scrollTop:0},50);return false;});jQuery(window).scroll(function(){if(jQuery(window).scrollTop()>0){jQuery("#rt-scroll").fadeIn('fast');}else{if(jQuery("#rt-scroll").is(':visible')){jQuery("#rt-scroll").fadeOut('fast');}}});</script>
+
+<body class="logo-type-gantry headerstyle-dark font-family-helvetica font-size-is-default menu-type-dropdownmenu menu-dropdownmenu-position-header-a layout-mode-responsive col12 option-com-content menu-home ">
+        <header id="rt-top-surround">
+
+							<div id="rt-top" style="background:#ffffff no-repeat center top; background-size:cover;">
+						<div class="rt-container">
+				<div class="rt-grid-5 rt-alpha">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<img src="/templates/jd_miami/images/xlogo.png.pagespeed.ic.jGynDkqfcx.png"></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-4">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<div style="margin-top: 3%; margin-right: 5%;" align="right"><a style="color: #231eef;" href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=29&amp;lang=en&amp;Itemid=427"> Contact Us </a> | <a style="color: #231eef;" href="https://intranet.ircon.org/irconexemp/" target="_blank" rel="noopener noreferrer">Ex-employee login</a> | <a style="color: #231eef;" href="https://intranet.ircon.org" target="_blank" rel="noopener noreferrer">Employee Login</a> | <a style="color: #231eef;" href="/index.php?lang=hi" target="_blank" rel="noopener noreferrer"> हिन्दी </a> | <a style="color: #bf434d; font-weight: bold;" href="https://www1.nseindia.com/companytracker/cmtracker.jsp?symbol=IRCON&amp;cName=cmtracker_nsedef.css" target="_blank" rel="noopener noreferrer">NSE Tracker</a> | <a style="color: #bf434d; font-weight: bold;" href="https://www.bseindia.com/stock-share-price/ircon-international-ltd/ircon/541956/" target="_blank" rel="noopener noreferrer">BSE Stock Watch</a></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+<script type="text/javascript">var moduleId=226;var RSFSearch226;var results_box=document.getElementById('search_suggest226');var generateResultsTimer=0;function searchSuggest226(){if(generateResultsTimer>0){clearTimeout(generateResultsTimer);}generateResultsTimer=window.setTimeout(function(){var str=encodeURIComponent(document.getElementById('rsf_inp226').value);var ss=document.getElementById('search_suggest226');if(str.length==0){closeSearch226();return;}var req=new Request.JSON({method:'post',url:'http://www.ircon.org/'+'index.php?option=com_rssearch',data:'view=results&layout=ajax&module_id=226&search='+str,onSuccess:function(responseText,responseXML){var json=responseText;ss.innerHTML='';var suggest='';var results=json.length;var limit=10;var i=0;if(results>0){if(results<limit){var max=results;}else{var max=limit;}suggest+='<div class="rssearch_close"><a href="javascript:void(0)" onclick="javascript:closeSearch226();"><img src="http://www.ircon.org/modules/mod_rssearch/assets/images/close.png" alt="" /></a></div>';json.each(function(el){if(i<max){suggest+='<div onmouseover="javascript:suggestOver226(this);" onmouseout="javascript:suggestOut226(this);" class="suggest_link">';suggest+='<a style="color: #FFFFFF" href="'+el.link+'">'+el.title+'</a>';suggest+='</div>';}i++;});if(results>limit){suggest+='<div class="suggest_link suggest_link_all" onclick="javascript:setSearch226(this.innerHTML);"><b>View all results</b></a></div>';}}ss.set('html',suggest);RSFSearch226.slideIn();}});req.send();},800);}function suggestOver226(div_value){div_value.className='suggest_link_over';}function suggestOut226(div_value){div_value.className='suggest_link';}function setSearch226(value){document.getElementById('search_suggest226').innerHTML='';document.getElementById('frmSearch'+226).submit();}function closeSearch226(){RSFSearch226.slideOut();}window.addEvent('domready',function(){$('search_suggest226').setStyle('height','auto');RSFSearch226=new Fx.Slide('search_suggest226').hide();var parent=$('search_suggest226').getParent('div').setStyle('width','250px');});</script>
+
+<div id="rssearch" class="rssearch_box">
+	<form id="frmSearch226" action="/index.php?option=com_rssearch&amp;lang=en" method="post" accept-charset="utf-8" class="rsf_form">
+		
+		<div class="input-append">
+			<input type="text" id="rsf_inp226" name="search" class="rss_loop" onkeyup="searchSuggest226();" autocomplete="off" style="width:220px;"/>
+			 <button type="submit" id="cmdSearch" class="btn"><img src="/xloop.png.pagespeed.ic.71kHvMVZOo.png"/></button>		</div>
+		<div id="search_suggest226" class="rsfsuggestions" style="width:250px"></div>
+
+		<input type="hidden" name="task" value="search"/>
+		<input type="hidden" name="module_id" value="226"/>
+			</form>
+</div>	                	</div>
+                	</div>
+           </div>
+	
+</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+							<div id="rt-header">	
+					<div class="rt-container">
+            				<div class="rt-grid-12 rt-alpha rt-omega">
+    	<div class="rt-block menu-block">
+		<div class="gf-menu-device-container responsive-type-panel"></div>
+<ul class="gf-menu l1 ">
+                    <li class="item101 active last">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=101&amp;lang=en">
+
+                                Home                            </a>
+
+
+                    </li>
+                            <li class="item406 parent">
+
+            <a class="item" href="#">
+
+                                Company                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item389">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=34&amp;Itemid=389&amp;lang=en">
+
+                                About Us                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item584">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=202&amp;Itemid=584&amp;lang=en">
+
+                                Vision and Mission                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item390">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=253&amp;Itemid=390&amp;lang=en">
+
+                                Board of Directors                             </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item405">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=36&amp;Itemid=405&amp;lang=en">
+
+                                Key Management and Executives                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item611">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=611&amp;lang=en">
+
+                                Subsidiaries and Group Companies                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item608 parent">
+
+            <a class="item" href="#">
+
+                                Transparency                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item422">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=422&amp;lang=en">
+
+                                Vigilance                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item423">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=423&amp;lang=en">
+
+                                RTI                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item424">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=52&amp;Itemid=424&amp;lang=en">
+
+                                CSR and Sustainability                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item457">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=102&amp;Itemid=457&amp;lang=en">
+
+                                MOU                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item485">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=89&amp;Itemid=485&amp;lang=en">
+
+                                Quality Management                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item394">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=394&amp;lang=en">
+
+                                Office Network                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item431">
+
+            <a class="item" href="https://intranet.ircon.org/opr-main/bts/bts/bill_watch.asp" target="_blank">
+
+                                Payments                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item648">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=240&amp;Itemid=648&amp;lang=en">
+
+                                Related Links                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item468 parent">
+
+            <a class="item" href="javascript:void(0);">
+
+                                our expertise                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item469">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=469&amp;lang=en">
+
+                                Railway                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item470">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=470&amp;lang=en">
+
+                                Highways                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item471">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=471&amp;lang=en">
+
+                                Bridge/Fly over                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item472">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=472&amp;lang=en">
+
+                                Buildings                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item473">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=473&amp;lang=en">
+
+                                Electrical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item474">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=474&amp;lang=en">
+
+                                Signaling/Telecom                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item476">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=86&amp;Itemid=476&amp;lang=en">
+
+                                Mechanical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item481">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=104&amp;Itemid=481&amp;lang=en">
+
+                                Coach Factory                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item482">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;Itemid=482&amp;lang=en">
+
+                                Station Building                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item483">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=103&amp;Itemid=483&amp;lang=en">
+
+                                MFC                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item484">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=484&amp;lang=en">
+
+                                Aviation                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item447 parent">
+
+            <a class="item" href="#">
+
+                                Projects                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item448 parent">
+
+            <a class="item" href="#">
+
+                                International Projects                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item410">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=40&amp;Itemid=410&amp;lang=en">
+
+                                Railway                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item411">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=41&amp;Itemid=411&amp;lang=en">
+
+                                Highways                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item412">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=42&amp;Itemid=412&amp;lang=en">
+
+                                Bridge/Fly over                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item413">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=43&amp;Itemid=413&amp;lang=en">
+
+                                Buildings                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item414">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=44&amp;Itemid=414&amp;lang=en">
+
+                                Electrical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item415">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=45&amp;Itemid=415&amp;lang=en">
+
+                                Signalling/Telecom                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item416">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=53&amp;Itemid=416&amp;lang=en">
+
+                                Mechanical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item465">
+
+            <a class="item" href="#">
+
+                                Other                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item449 parent">
+
+            <a class="item" href="#">
+
+                                Domestic Projects                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item450">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=450&amp;lang=en">
+
+                                Railway                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item451">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=451&amp;lang=en">
+
+                                Highways                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item452">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=452&amp;lang=en">
+
+                                Bridge/Fly over                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item453">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=453&amp;lang=en">
+
+                                Buildings                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item454">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=454&amp;lang=en">
+
+                                Electrical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item455">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=455&amp;lang=en">
+
+                                Signalling/Telecom                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item456">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=65&amp;Itemid=456&amp;lang=en">
+
+                                Mechanical                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item466">
+
+            <a class="item" href="#">
+
+                                Other                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item478 parent">
+
+            <a class="item" href="#">
+
+                                Our Clients                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item479">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=479&amp;lang=en">
+
+                                International                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item480">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=480&amp;lang=en">
+
+                                Domestic                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item417 parent">
+
+            <a class="item" href="#">
+
+                                Award &amp; Media                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item418 parent">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;Itemid=418&amp;lang=en">
+
+                                Awards                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item647">
+
+            <a class="item" href="/images/file/Awards Creative 2018-19.pdf" target="_blank">
+
+                                Awards and Honors in 2018-19                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item419 parent">
+
+            <a class="item" href="#">
+
+                                Media Centre                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item459">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=66&amp;Itemid=459&amp;lang=en">
+
+                                Corporate Film                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item460">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=460&amp;lang=en">
+
+                                Video                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item461">
+
+            <a class="item" href="/images/file/BusinessDev/IRCON-Brochure_31072017.pdf" target="_blank">
+
+                                Brochure                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item635">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=215&amp;Itemid=635&amp;lang=en">
+
+                                Press Release                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item636">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=216&amp;Itemid=636&amp;lang=en">
+
+                                IRCON in Media                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item420">
+
+            <a class="item" href="/index.php?option=com_joomgallery&amp;view=gallery&amp;Itemid=420&amp;lang=en">
+
+                                Photo Gallery                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item421 parent">
+
+            <a class="item" href="#">
+
+                                Investor Relations                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item397 parent">
+
+            <a class="item" href="#">
+
+                                Financial Reporting                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item428">
+
+            <a class="item" href="/pdf/Financial Highlights.pdf" target="_blank">
+
+                                Financial-Highlights                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item625">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=225&amp;Itemid=625&amp;lang=en">
+
+                                Quarterly Reports                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item430">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=56&amp;Itemid=430&amp;lang=en">
+
+                                Annual Report                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item599">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=204&amp;Itemid=599&amp;lang=en">
+
+                                Annual Review                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item667">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=278&amp;Itemid=667&amp;lang=en">
+
+                                Annual Return                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item602">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=214&amp;Itemid=602&amp;lang=en">
+
+                                Shareholding Pattern                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item646">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=237&amp;Itemid=646&amp;lang=en">
+
+                                Corporate Governance Report                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item603 parent">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=219&amp;Itemid=603&amp;lang=en">
+
+                                Notices and Other Announcements                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown flyout columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l3">
+                                                                                                                    <li class="item640">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=228&amp;Itemid=640&amp;lang=en">
+
+                                Notices of Board Meetings                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item641">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=220&amp;Itemid=641&amp;lang=en">
+
+                                Shareholders Meeting                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item642">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=227&amp;Itemid=642&amp;lang=en">
+
+                                Other Announcements                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item645">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=236&amp;Itemid=645&amp;lang=en">
+
+                                Trading Window                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item664">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=270&amp;Itemid=664&amp;lang=en">
+
+                                DIVIDEND                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item644">
+
+            <a class="item" href="/images/20190228CreditRating.pdf">
+
+                                Credit Rating                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                                                                                                                                                                <li class="item604">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=209&amp;Itemid=604&amp;lang=en">
+
+                                Board Committees                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item606">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=212&amp;Itemid=606&amp;lang=en">
+
+                                Codes and Policies                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item605">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=218&amp;Itemid=605&amp;lang=en">
+
+                                Terms &amp; Conditions of Appointment of Independent Directors                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item637">
+
+            <a class="item" href="/images/Details of Familiarisation Programme to Ircon's Directors.pdf" target="_blank">
+
+                                Familiarization Programme for Directors                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item643">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=226&amp;Itemid=643&amp;lang=en">
+
+                                Presentation and Earning Calls                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item665">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=274&amp;Itemid=665&amp;lang=en">
+
+                                Important Communication to Shareholders                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item607">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=208&amp;Itemid=607&amp;lang=en">
+
+                                Investor Contact                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item425 parent">
+
+            <a class="item" href="#">
+
+                                Tender                                <span class="border-fixer"></span>
+                            </a>
+
+
+            
+                                    <div class="dropdown columns-1 " style="width:180px;">
+                                                <div class="column col1" style="width:180px;">
+                            <ul class="l2">
+                                                                                                                    <li class="item486">
+
+            <a class="item" href="https://etenders.gov.in/eprocure/app?page=FrontEndTendersByOrganisation&amp;service=page " target="_blank">
+
+                                e-tenders                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item495">
+
+            <a class="item" href="http://www.ircon.in/activetenders.aspx">
+
+                                Active Tenders                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item487">
+
+            <a class="item" href="http://www.ircon.in/Archive.aspx" target="_blank">
+
+                                Archives                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item488">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=99&amp;Itemid=488&amp;lang=en">
+
+                                Contracts awarded                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item666">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=275&amp;Itemid=666&amp;lang=en" target="_blank">
+
+                                Procurement Projections                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item489">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=100&amp;Itemid=489&amp;lang=en">
+
+                                Notices                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item649">
+
+            <a class="item" href="http://www.indianrailways.gov.in/railwayboard/view_section_new.jsp?lang=0&amp;id=0,5,377" target="_blank">
+
+                                IR Codes and Manuals                            </a>
+
+
+                    </li>
+                                                                                                        </ul>
+                        </div>
+                                            </div>
+
+                                    </li>
+                            <li class="item426">
+
+            <a class="item" href="/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=426&amp;lang=en">
+
+                                HR &amp; CAREER                            </a>
+
+
+                    </li>
+            </ul>		<div class="clear"></div>
+	</div>
+	
+</div>
+                            
+                <!--             <div class="rt-grid-9 rt-omega" align="right" style="margin-top: -80px;">
+       
+     <a href="/index.php/contact-us" style="color:#FFF;"> Contact Us </a>     <a href="#" style="color:#FFF;"> Login </a>      <a href="#" style="color:#FFF;"> Hindi </a>
+    
+
+            </div>-->
+
+                            
+				<div class="clear"></div>
+			</div>
+		</div>
+				
+	</header>
+	
+				<div id="rt-slider" class="ttop">	
+			<div class="rt-container">
+			<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+<!-- Nextend Smart Slider 3 #1 - BEGIN -->
+<div id="n2-ss-1-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-1" class="n2-ss-slider n2-ss-load-fade " data-minFontSizedesktopPortrait="4" data-minFontSizedesktopLandscape="4" data-minFontSizetabletPortrait="4" data-minFontSizetabletLandscape="4" data-minFontSizemobilePortrait="4" data-minFontSizemobileLandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1" style="">
+                        <div class="n2-ss-slider-2">
+                                    <div class="n2-ss-background-animation"></div>
+                                <div class="n2-ss-slider-3">
+
+                    <div data-slide-duration="0" data-id="28" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-active" style=""><div data-hash="511fe67b502a3b5a0a26c028b8199aba" data-desktop="//ircon.org/images/gallery/home.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/gallery/home.jpg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:15px;top:247px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="CorporateOffice" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="15" data-desktopportraittop="247" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item1" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Corporate Office </h2></div></div></div><div data-slide-duration="0" data-id="17" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="f4db39c5bd11f035b4192ce923fbc16d" data-desktop="//ircon.org/images/gallery/BanihalStationinJK2.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/gallery/BanihalStationinJK2.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:-8px;top:222px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="RailwayStation,Banihal,J&amp;K" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="-8" data-desktopportraittop="222" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item2" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Railway Station,Banihal,J & K </h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:-8px;top:160px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Railways" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="-8" data-desktopportraittop="160" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item3" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Railways</h2></div></div></div><div data-slide-duration="0" data-id="16" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="9c5ade6fed19b93553db0327ff55f1bf" data-desktop="//ircon.org/images/roads_new.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/roads_new.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:-19px;top:219px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Highways" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="-19" data-desktopportraittop="219" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item4" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Highways</h2></div></div></div><div data-slide-duration="0" data-id="31" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="98de428642e534dc333f396bb649fe40" data-desktop="//ircon.org/images/build.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/build.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:6px;top:220px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="StationBuilding,Malaysia" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="6" data-desktopportraittop="220" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item5" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-29ce467266a69a2d64e42ae9c4562e19-heading  " style="display:block;white-space:nowrap;">Station Building, Malaysia</h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:0px;top:163px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Building" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="163" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item6" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Building</h2></div></div></div><div data-slide-duration="0" data-id="23" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="1389a8bc343bd8615a621246c47f0a26" data-desktop="//ircon.org/images/gallery/fly.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/gallery/fly.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:175px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Bridges/Flyover" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="175" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item7" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Bridges/Flyover </h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:0px;top:227px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Rail-cum-RoadBridgeatPatna,Bihar" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="227" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item8" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Rail-cum- Road Bridge at Patna, Bihar</h2></div></div></div><div data-slide-duration="0" data-id="25" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="b94f289acbfcdc036d580f85cfca852c" data-desktop="//ircon.org/images/gallery/slider-signal.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/gallery/slider-signal.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:-15px;top:193px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="SignallingandTelecom" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="-15" data-desktopportraittop="193" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item9" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Signalling and Telecom </h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:0px;top:254px;width:auto;height:53px;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="TrackingProject,Malaysia" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="254" data-desktopportraitwidth="auto" data-desktopportraitheight="53" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item10" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Tracking Project, Malaysia</h2></div></div></div><div data-slide-duration="0" data-id="32" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="8804ce326efc90bcb40c53c1a493f226" data-desktop="//ircon.org/images/electricalsst.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/electricalsst.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:244px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="66KVYardatMukundpur,Delhi" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="244" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item11" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">66 KV Yard at Mukundpur, Delhi</h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:-20px;top:190px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Electrical" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="-20" data-desktopportraittop="190" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item12" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Electrical</h2></div></div></div><div data-slide-duration="0" data-id="19" class="n2-ss-slide n2-ss-canvas " style=""><div data-hash="bd93a7081a19ac75608cfd44418e5213" data-desktop="//ircon.org/images/5bInside.jpeg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill" src="//ircon.org/images/5bInside.jpeg" alt=""/></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:25px;top:193px;width:auto;height:53px;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="Mechanical" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="25" data-desktopportraittop="193" data-desktopportraitwidth="auto" data-desktopportraitheight="53" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item13" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Mechanical </h2></div><div class="n2-ss-layer" style="z-index:2;overflow:visible;text-align:left;left:25px;top:246px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-eye="" data-lock="" data-name="ModernCoachFactory,RaeBareli" data-namesynced="1" data-crop="visible" data-inneralign="left" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="25" data-desktopportraittop="246" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100"><h2 id="n2-ss-1item14" class="n2-font-3dc158b070b69a82732cb26813a043f8-hover n2-style-51de1f54e84b50d34e417d9f352a3ecc-heading  " style="display:block;white-space:nowrap;">Modern Coach Factory, Rae Bareli</h2></div></div></div>                </div>
+            </div>
+        </div>
+        <div data-ssleft="0+25" data-sstop="height/2-previousheight/2" id="n2-ss-1-arrow-previous" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-ss-widget-display-hover n2-style-d7c27f0697ed10fb9bc077be9238ae19-heading nextend-arrow n2-ib nextend-arrow-previous  nextend-arrow-animated-fade" style="position: absolute;"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjEuNjg4IDE0LjY4OGgtNy45NTVsMS44MzMtMS42NS0uMDA0LS4wMDNjLjI2Ny0uMjQuNDM4LS41ODUuNDM4LS45NzMgMC0uNzI0LS41ODgtMS4zMTItMS4zMTMtMS4zMTItLjMzNyAwLS42NDIuMTMtLjg3NC4zNGwtLjAwNC0uMDAzLTQuMzc2IDMuOTM3LjAwNC4wMDRDOS4xNyAxNS4yNjggOSAxNS42MTIgOSAxNnMuMTcuNzMyLjQzOC45NzJsLS4wMDQuMDA0IDQuMzc1IDMuOTM3LjAwMi0uMDAzYy4yMzMuMjEuNTM4LjM0Ljg3Ni4zNC43MjQgMCAxLjMxMi0uNTg4IDEuMzEyLTEuMzEzIDAtLjM4Ny0uMTctLjczLS40MzgtLjk3MmwuMDA0LS4wMDMtMS44MzMtMS42NWg3Ljk1NGMuNzI1IDAgMS4zMTMtLjU4NyAxLjMxMy0xLjMxMiAwLS43MjUtLjU4OC0xLjMxMy0xLjMxMy0xLjMxM3pNMTYgMkM4LjI2OCAyIDIgOC4yNjggMiAxNnM2LjI2OCAxNCAxNCAxNCAxNC02LjI2OCAxNC0xNFMyMy43MzIgMiAxNiAyem0wIDI1LjM3NUM5LjcxOCAyNy4zNzUgNC42MjUgMjIuMjgyIDQuNjI1IDE2UzkuNzE4IDQuNjI1IDE2IDQuNjI1IDI3LjM3NSA5LjcxOCAyNy4zNzUgMTYgMjIuMjgyIDI3LjM3NSAxNiAyNy4zNzV6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="arrow"/></div><div data-ssright="0+25" data-sstop="height/2-nextheight/2" id="n2-ss-1-arrow-next" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-ss-widget-display-hover n2-style-d7c27f0697ed10fb9bc077be9238ae19-heading nextend-arrow n2-ib nextend-arrow-next  nextend-arrow-animated-fade" style="position: absolute;"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTguMTkgMTEuMDg3Yy0uMjM1LS4yMDYtLjU0LS4zMzctLjg3OC0uMzM3LS43MjQgMC0xLjMxMi41ODgtMS4zMTIgMS4zMTMgMCAuMzg3LjE3LjczLjQzOC45NzJsMS44MyAxLjY1MkgxMC4zMUM5LjU4OCAxNC42ODcgOSAxNS4yNzUgOSAxNnMuNTg4IDEuMzEzIDEuMzEzIDEuMzEzaDcuOTU0bC0xLjgzMyAxLjY1Yy0uMjYzLjI0My0uNDM0LjU4Ny0uNDM0Ljk3NCAwIC43MjUuNTg4IDEuMzEzIDEuMzEzIDEuMzEzLjMzNyAwIC42NDItLjEzLjg3NS0uMzRsNC4zNzgtMy45MzRjLjI2My0uMjQ0LjQzNC0uNTg4LjQzNC0uOTc2cy0uMTctLjczMi0uNDM4LS45NzJsLTQuMzctMy45NHpNMTYgMkM4LjI2OCAyIDIgOC4yNjggMiAxNnM2LjI2OCAxNCAxNCAxNCAxNC02LjI2OCAxNC0xNFMyMy43MzIgMiAxNiAyem0wIDI1LjM3NUM5LjcxOCAyNy4zNzUgNC42MjUgMjIuMjgyIDQuNjI1IDE2UzkuNzE4IDQuNjI1IDE2IDQuNjI1IDI3LjM3NSA5LjcxOCAyNy4zNzUgMTYgMjIuMjgyIDI3LjM3NSAxNiAyNy4zNzV6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="arrow"/></div>
+<div data-ssright="0+25" data-sstop="0+25" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-style-07b80f0c82484b6d6258ed0a5cead109-heading nextend-autoplay nextend-autoplay-image" style="position: absolute;"><img class="nextend-autoplay-play" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNTggNy4wM0w1LjMwMiAyLjE2NUM1LjE2NSAyLjA1NyA1LjAxNiAyIDQuODU3IDIgNC4zODQgMiA0IDIuNTA0IDQgMy4xMjV2OS43NWMwIC42Mi4zODQgMS4xMjUuODU3IDEuMTI1LjE2IDAgLjMwOC0uMDU3LjQzNi0uMTU2TDExLjU4IDguOTdjLjI1LS4xOTguNDItLjU1OC40Mi0uOTcgMC0uNDEyLS4xNy0uNzczLS40Mi0uOTd6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=" alt=""/><img class="nextend-autoplay-pause" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNCAydjEyaDNWMkg0em01IDB2MTJoM1YySDl6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=" alt=""/></div>
+</div><div class="clear"></div></div></div><div id="n2-ss-1-placeholder" style="position: relative;z-index:2;"><img style="width: 100%; max-width:3000px;" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5MjAiIGhlaWdodD0iNzAwIiA+PC9zdmc+" alt=""/></div>
+<!-- Nextend Smart Slider 3 #1 - END -->
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	
+				<div id="rt-showcase">	
+			<div class="rt-container">
+			<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<div class="top-band">
+<img src="/images/xbottom-slider-new-pic.png.pagespeed.ic.bmlonLp-kE.jpg" alt=""/>
+<script>(function($){$.fn.dropdown=function(opts){var config=$.extend({},{fadeInTime:800,fadeOutTime:800,interval:5600},opts);function init(obj){var dNewsticker=obj;var dFrame=dNewsticker.find('.js-frame');var dItem=dFrame.find('.js-item');var dCurrent;var stop=false;dItem.eq(0).addClass('current');dItem.eq(0).show();var move=setInterval(function(){if(!stop){dCurrent=dFrame.find('.current');dCurrent.fadeOut(config.fadeOutTime,function(){if(dCurrent.next().length!==0){dCurrent.removeClass('current');dCurrent.next().addClass('current');dCurrent.next().fadeIn(config.fadeInTime);}else{dCurrent.removeClass('current');dItem.eq(0).addClass('current');dItem.eq(0).fadeIn(config.fadeInTime);}});}},config.interval);dNewsticker.on('mouseover mouseout',function(e){if(e.type=='mouseover'){stop=true;}else{stop=false;}});}this.each(function(){init($(this));});return this;};$(function(){$('.js-newsticker').dropdown();});})(jQuery);</script>
+
+<style>
+
+/*reset-font-min*/
+/*
+Copyright (c) 2011, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 2.9.0
+*/
+body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small}select,input,textarea,button{font:99% arial,helvetica,clean,sans-serif}table{font-size:inherit;font:100%}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%}/*
+Copyright (c) 2011, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 2.9.0
+*/
+html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var{font:inherit}del,ins{text-decoration:none}li{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
+
+/*clearfix*/
+.clearfix{zoom:1;}
+.clearfix:after{content:'.';display:block;clear:both;visibility:hidden;height:0;font-size:0;}
+
+/*newsticker*/
+.newsticker{
+color:#FFF;
+font-family: verdana;
+
+overflow: hidden;
+padding: 1px 1px 0 10px;
+height: 74px;
+z-index: -99999;
+margin-top: -47px;
+text-align: center;
+}
+
+.top-band{width: 100%;margin-top: -10px; text-align: center;  text-align: center; }
+.newsticker ul li{font-size: 25px; height:30px;overflow:hidden;white-space:nowrap;display:none;}
+@media(min-width:200px)and (max-width:500px)
+{
+.newsticker ul li{font-size: 10px; height:30px;overflow:hidden;white-space:nowrap;display:none;    margin-top: 5px;
+}
+.top-band{width: 100%;margin-top: -32px; text-align: center;  text-align: center; 
+}
+
+
+</style>
+
+
+<div class="newsticker js-newsticker">
+    <ul class="js-frame">
+        <li class="js-item">40 yrs of Engineering Excellence</li>
+        <li class="js-item">Turnkey Infrastructure Construction Company</li>
+        <li class="js-item">Presence in 20+ Countries</li>
+ 
+    </ul>
+</div>
+
+
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	           <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	</div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	    
+    <div style="position: fixed; margin: 0px; padding: 0px; outline: none; border: none; z-index: 999999999; overflow: visible; direction: ltr; left: auto; right: 37px; top:620px; bottom: auto; width: auto; height:auto;">
+       <a href="#rt-footer-surround" id="top"><img src="/images/48xNxscroll-down.png.pagespeed.ic.1wKi3spvBK.png" style="width:48px;"></a>
+     </div>
+
+	<div id="rt-transition">
+		<div id="rt-mainbody-surround">
+		
+										<div id="rt-feature">	
+							<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+    
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+			
+			
+										<div id="rt-position-1" class="ttop">	
+							<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+               <div class="rt-block  center wow zoomIn">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom center wow zoomIn">
+		<style>.cmd{width:48%}@media (min-width:250px) and (max-width:433px){.cmd{width:100%}}.cmd2{width:48%;float:left;margin-left:21px}.cmd22{margin-bottom:20px}@media (min-width:250px) and (max-width:433px){.cmd2{width:100%;font-size:13px;margin-left:1px}.cmd22{margin-bottom:0}}</style>
+
+<div class="cmd" style="float: left;">
+<h2 style="color: #fff; font-size: 28px;"><b>C.M.D's Desk</b></h2>
+<!--cmd_desk_new.jpg-->
+<p><img style="border: 3px solid #efefef; padding: 1px;" src="/images/image/IMG_0023.jpg.pagespeed.ce.ptgiS1nogG.jpg" width="300" height="268"/><br/> <span style="color: #fff; font-size: 18px;">Sh.S.K.Chaudhary<br/> Chairman &amp; Managing Director</span> <br/><br/> <a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=110&amp;lang=en&amp;Itemid=494"><button class="btn btn-primary" type="submit">View Message</button></a></p>
+</div>
+<div class="cmd2">
+<h2 style="color: #fff; font-size: 28px; padding-bottom: 13px;"><b>News</b></h2>
+<!--------<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/heading-icon.png" /> <a href="/images/file/5 Years Achievements Ministries of Railways & Coal-Eng.pdf" target="_blank" rel="noopener noreferrer">5 Years Achievements  of Ministries of Railways & Coal</a></p>
+</div>
+------------------------------------->
+<marquee style="height: 218px;" direction="up" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> <a href="/images/file/IRCON wins Railway work worth USD 91.27 Million in Sri Lanka.pdf" target="_blank" rel="noopener noreferrer">IRCON wins Railway work worth USD 91.27 Million in Sri Lanka</a></p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/>Ircon in association with Ministry of Parliamentary Affairs organized a Five (5) days' long exhibition on Hon'ble PM's New India- We Resolve to Make (Vision 2022)/ Sankalp Se Siddhi. <a href="/images/file/MOS Report 13sep2017.pdf" target="_blank" rel="noopener noreferrer">(View Report) </a></p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/>IRCON has recently signed an MoU with RZD International L.L.C and RDIF Management Company for promoting investment cooperation among the Parties in Railway sector in both Russia and India.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has signed an MoU with CIDB Holdings Sdn. Bhd. for Railway Infrastructure Projects and Redevelopment of Railway Stations in India and other countries.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/>IRCON has signed an MoU with CDTIC (Construction and Development of Transportation Infrastructures Company) for developing the Chabahar - Zahedan Railway Project in Iran.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has completed the work of "Construction of 2nd Bhairab Railway Bridge with Approach Rail Lines (Lot-A)" in Bangladesh.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/>IRCON has completed the work of "Turrnkey package for dismantling of existing 66/33/11 KV Sub-station and design, engineering, construction, supply, erection testing and commissioning of 2x20 MVA, 66/33 KV Sub-staion including all assoiciated works at Paro" in Bhutan.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/>IRCON has completed the work of "Contract KT-4 &amp; KT-5R1: Design, Supply, Installation, Testing and Commissioning of Ballastless Track of Standard Gauge in elevated section of Aluva to Petta corridor" for Kochi Metro Rail Limited.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Six-Laning of Davanagere-Haveri from (Km. 260+000 to Km. 338+923)of NH-48 in the state of Karnataka to be executed on Hybrid Annuity Project on DBOT Annuity Under NHDP Phase-V." - Rs. 10950.00 Million</p>
+</div>
+<div id="NewTitle" class="style3"> </div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Design, Drawing and Construction of External Development works &amp; External Services" for NIT Mizoram. - Rs. 3296.70 Million.</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Railway Electrification work for Mathura Kasganj Kalyanpur." - Rs. 3059.00 Million</p>
+</div>
+<div id="NewTitle" class="style3">
+<div>
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Railway Electrification work for Katni Singrauli." - Rs. 2583.30 Million</p>
+</div>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Construction of Embankment, Track, All civil works, major and minor bridges (except Rupsha) &amp; culverts and implementation of EMP of Khulna - Mongla Port Rail Line; Package No. WD1" in Bangladesh. - Rs. 9713.00 Million</p>
+</div>
+<div id="NewTitle" class="style3">
+<p style="text-align: justify;"><img src="/images/gallery/xheading-icon.png.pagespeed.ic.KgovLYNyOQ.png"/> IRCON has been awarded the work of "Civil and Railway allied works including S&amp;T, Mechanical and new block station &amp; associated works for the proposed 3.0 MTPA integrated Steel Plant at Nagarnar, near Jagadalpur, Chhattisgarh by NMDC; Package No. I, II &amp; IV." - Rs. 4464.00 Million</p>
+</div>
+</marquee>
+
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+										<div id="rt-maintop" class="ttop">	
+							<div class="rt-container">
+					<div class="rt-grid-6 rt-alpha">
+               <div class="rt-block slideInLeft wow">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="customslideInLeft wow">
+	<div style="padding: 20px;">
+<h2 style="font-size: 28px; color: #ab1e1e;">Our Mission</h2>
+<p style="text-align: justify;">(i)  To effectively position the Company so as to meet the construction needs of infrastructure development of the changing economic scenario in India and abroad.<br/> (ii) To earn global recognition by providing high quality products and services in time and in conformity with the best engineering practices.</p>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-6 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<div style="padding: 20px;">
+<h2 style="font-size: 28px; color: #ab1e1e;">Our Vision</h2>
+<p style="text-align: justify;">To be recognized nationally and internationally as a construction organization comparable with the best in the field covering the entire spectrum of construction activities and services in the infrastructure sector.</p>
+</div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+			
+			
+						<div id="article-section">
+				<div class="rt-container">
+					          
+<div id="rt-main" class="mb12">
+                <div class="rt-container">
+                    <div class="rt-grid-12 ">
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	<article class="item-page" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="en-GB"/>
+
+
+
+
+
+
+
+
+
+
+<div itemprop="articleBody">
+	</div>
+
+
+
+	</article>
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                        <div class="clear"></div>
+                </div>
+            </div>
+				</div>
+		    </div> -
+			
+			
+			
+										<div id="rt-extension" class="ttop">	
+							<div class="rt-container">
+					<div class="rt-grid-2 rt-alpha">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<a href="https://www.mygov.in/" target="_blank"> <img src="/images/xunnamed.png.pagespeed.ic.LyrV3ygr_A.png" alt=""/>   </a>  <a href="https://india.gov.in/" target="_blank">          <img src="/images/xunnamed---Copy.png.pagespeed.ic.G00phQDPD_.jpg" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<a href="http://www.indianrailways.gov.in/" target="_blank"><img src="/images/xindian_rail_logo.png.pagespeed.ic.D4fP-T8Yx-.png" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	 <a href="http://cvc.nic.in/" target="_blank"><img src="/images/xCVC.png.pagespeed.ic.kuxEYGbu19.png" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<a href="http://www.digitalindia.gov.in/" target="_blank"><img src="/images/xunnamuyted---Copy.png.pagespeed.ic.EqNuETW1XH.png" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<a href="http://www.makeinindia.com/home" target="_blank"><img src="/images/xunnamuyted---Copy-2.png.pagespeed.ic.af4fq12DPp.png" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-2 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<a href="https://swachhbharat.mygov.in/" target="_blank"><img src="/images/xunnamuyted.png.pagespeed.ic.LnDDdDGyqr.png" alt=""/></a></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	
+	
+		<footer id="rt-footer-surround">
+				<div id="rt-footer" class="ttop">	
+			<div class="rt-container">
+			<div class="rt-grid-3 rt-alpha">
+               <div class="rt-block  center">
+           	<div class="module-surround">
+	           		                	<div class="module-content">
+	                		
+
+<div class="custom center">
+	<img src="/images/xlogo.png.pagespeed.ic.HWe4H-qR2g.png" atl="IRCON" title="ICRON" align="left">
+
+<br><br>
+<hr style="border-bottom: 1px solid #A59999;width: 83%;">
+
+<p class="footer-desc" aling="justify" style="padding-right: 45px;" ;>
+Ircon International Limited is a Government of India Undertaking under the Ministry of Railways.
+	
+</p>
+
+<p class="footer-desc" aling="justify" style="padding-right: 45px;" ;>
+<a href="https://www.ircon.org/index.php?option=com_content&view=article&layout=edit&id=213&lang=en" target="_blank">Privacy Policy</a>
+</p>
+
+                  </div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Contact</h2>
+							<div class="title-after">
+								<div class="title-after-inner">
+									<div class="t1"></div>
+									<div class="t2"></div>
+									<div class="t3"></div>
+								</div>
+							</div>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<hr/>
+<div class="contact-info">
+<div class="info">
+<div class="pull-left"> </div>
+<p>Registered office -<br/>C-4 District Centre <br/>Saket,<br/>New Delhi - 110017,<br/>India</p>
+</div>
+<div class="info">
+<div class="pull-left"> </div>
+<p>+91-11-26530266</p>
+</div>
+<div class="info">
+<div class="pull-left"> </div>
+<a href="/info@ircon.org">info@ircon.org</a>
+<p>CIN - <b><u>L45203DL1976GOI008171</u></b><br/><a href="/images/file/GST REGN.NO..pdf" target="_blank" rel="alternate noopener noreferrer">GST Registration Number</a></p>
+<p><a href="/images/file/Annual_Procurement_Plan_1920.pdf" target="_blank" rel="alternate noopener noreferrer">Public Procurement Policy ( MSEs )</a></p>
+</div>
+<!-------
+<p><a href="/images/file/Annual Procurement Plan_IrconPBTL_17-18.pdf" target="_blank" rel="alternate noopener noreferrer">PUBLIC PROCUREMENT (MSE's) - IrconPBTL</a></p>
+<p><a href="/images/file/Annual_Procurement_Plan_IrconSGTL_17-18.pdf" target="_blank" rel="alternate noopener noreferrer">PUBLIC PROCUREMENT (MSE's) - IrconSGTL</a></p>----------------></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Our Expertise</h2>
+							<div class="title-after">
+								<div class="title-after-inner">
+									<div class="t1"></div>
+									<div class="t2"></div>
+									<div class="t3"></div>
+								</div>
+							</div>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<hr style="border-bottom: 1px solid #A59999;width: 83%;">
+<div style=" width:52%; float:left;">
+<li class="item-116"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=79&amp;lang=en&amp;Itemid=469">Railways</a></li>
+<li class="item-119"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=82&amp;lang=en&amp;Itemid=472">Buildings </a></li>
+<li class="item-117"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=80&amp;lang=en&amp;Itemid=470">Highways </a></li>
+<li class="item-120"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=83&amp;lang=en&amp;Itemid=473">Electrical</a></li>
+<li class="item-392"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=86&amp;lang=en&amp;Itemid=476">Mechanical</a></li>
+<li class="item-118"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=81&amp;lang=en&amp;Itemid=471">Bridges/Flyover </a></li>
+<li class="item-391"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=84&amp;lang=en&amp;Itemid=474">Signalling and Telecom</a></li>
+</div>
+
+
+<div style=" width:47%; float:left; left:3px;">
+<li class="item-391"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=104&amp;lang=en&amp;Itemid=481">Coach Factory</a></li>
+<li class="item-391"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=109&amp;lang=en&amp;Itemid=482">  Station Building</a></li>
+<li class="item-391"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=103&amp;lang=en&amp;Itemid=483">Multi Functional Complex</a></li>
+<li class="item-391"><a href="/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=101&amp;lang=en&amp;Itemid=484"> Aviation</a></li>
+</div>
+
+</div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+<div class="rt-grid-3 rt-omega">
+               <div class="rt-block ">
+           	<div class="module-surround">
+	           				<div class="module-title">
+	                		<h2 class="title">Follow Us</h2>
+							<div class="title-after">
+								<div class="title-after-inner">
+									<div class="t1"></div>
+									<div class="t2"></div>
+									<div class="t3"></div>
+								</div>
+							</div>
+			</div>
+	                		                	<div class="module-content">
+	                		
+
+<div class="custom">
+	<hr/>
+<p><a href="https://www.facebook.com/IRCON-International-LTD-1030927200373523/" target="_blank" rel="noopener noreferrer"><img src="/images/icons/25xNxfb.png.pagespeed.ic.lNhXgkODbm.png" width="25px" hspace="5px" vspace="5px"/>Facebook</a><br/> <a href="https://twitter.com/IrconOfficial" target="_blank" rel="noopener noreferrer"> <img src="/images/icons/25xNxtwiter.png.pagespeed.ic.FnTWG7s6SU.png" width="25px" hspace="5px" vspace="5px"/>Twitter</a><br/> <a href="#"><img src="/images/icons/25xNxin.png.pagespeed.ic.GJg_lHd5rZ.png" width="25px" hspace="5px" vspace="5px"/>Linkedin</a><br/> <a href="https://www.youtube.com/playlist?list=PLc8j50LQ7IC08VF3O-vibyl5JdZHrTdmO" target="_blank" rel="noopener noreferrer"> <img src="/images/icons/25xNxtube.png.pagespeed.ic.N2yapvjhJX.png" width="25px" hspace="5px" vspace="5px"/>Youtube</a></p>
+<div class="visitor-counter" style="text-align: left; color: #fff;">
+<h4><b>Visitor Counter</b></h4>
+<!-- hitwebcounter Code START --> <img src="http://hitwebcounter.com/counter/counter.php?page=6585764&amp;style=0006&amp;nbdigits=6&amp;type=page&amp;initCount=14523"/> <!-- hitwebcounter.com --></div></div>
+	                	</div>
+                	</div>
+           </div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		
+		
+	</footer>
+		
+	<div id="jd-copyright" class="pulse animated">
+		<div class="rt-container">
+			<div class="rt-block">
+           <p style="color:#FFF;"><strong>Disclaimer:</strong> This is the official website of Ircon International Limited. Information related to business activities of IRCON will be published on www.ircon.org only. This is being issued in public interest. For any clarification please mail at info@ircon.org  </p>
+            
+            
+				<p>&copy; Copyright 2020 <strong style="text-transform:capitalize;">IRCON</strong><!-- by <a href="http://www.pixelwebtech.com" target="_blank">PWT</a>--></p>
+			</div>
+		</div>
+	</div>
+
+		<div id="rt-scroll">
+		<div class="rt-container">
+			<div class="rt-grid-12 rt-alpha rt-omega">
+    	<div class="clear"></div>
+	<div class="rt-block">
+		<a href="#" id="gantry-totop" rel="nofollow">Back to Top</a>
+	</div>
+	
+</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+		
+<script type="text/javascript">if(top!==self){top.location=location;}</script>
+</body>
+</html>

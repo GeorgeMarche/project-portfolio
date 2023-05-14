@@ -1,0 +1,7 @@
+<html>
+<head>
+<meta http-equiv="Refresh" content="1;url=http://www.plataformaeducativa.org/portal/">
+</head>
+<body>
+</body>
+</html>

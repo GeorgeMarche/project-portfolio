@@ -1,0 +1,330 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>The Department Summary</title>
+<style type='text/css'>
+H1,H2,H3,H4{background:#ddddbb;}
+TABLE{background:#ddbbdd;}
+PRE{font-style:italic;
+background:#bbdddd;
+}
+div.notice{background:#ddbbbb;
+ font-size: 120%;}
+</style></head>
+<body>
+<h1>The Joy of Working with Oracle Using PHP</h1><br> <br>
+<p>This is my report on the department summary. Within this report,
+I will be discussing the steps I took and the results that came out.
+This process has also been done in PL/SQL.</p>
+
+<p>To start, I will clean the table and make sure that there is no
+rows initially. Once that's established, the department name and 
+number are pulled from the DEPARTMENT table. After that, I will 
+create a table that will be the platform for the rest of the values. 
+It will contain all values necessary to make the comparisons, values
+like the project and employee department number, SSN, hours, and total
+cost calculated by salary. These are pulled from the EMPLOYEE, WORKS_ON,
+and PROJECT tables. Because of how weird fetchRow() is, I decided to 
+simply create a copy of each query result in a different variable, 
+so that I can do computations and conditions on one and display the
+table with the other.</p>
+
+<p>That would be the easiest part. Once the setup is established, 
+I iterate through each department, updating the name and number 
+each time. Within that for loop, I make a for loop for each of
+the five results (saved into an array, and then into the 
+respective attribute) we must output as rows in our table, then run
+through the main table row by row. With each row, I check which
+result we are seeking (NOMINAL-NA, DEPT-DEPT, etc.), and if the
+row matches it, I add on the cost and hours, then increment the
+number of employees. Once finished, I simply insert each one into
+the CS450.DEPT_SUMMARY table. There are tests to make sure it is
+correct each time. Enjoy!</p>
+    <table border="1">
+    <tr><td colspan="2">This page is the solely the work of</td></tr>
+    <tr><td>George March&eacute</td><td>gmarche</td></tr>
+    <tr><td colspan="2">I have not received aid from anyone<br>
+    else in this assignment. I have not given <br>
+      anyone else aid in the 
+    assignment</td></tr>
+    </table><br/>No error in MakeConnection<br><h2>Database Procedure Calls</h2>Cleaning with <pre>BEGIN
+cs450.clean_dept_summary('GMARCHE');
+END;</pre><br/>No error in cleaning<br><h2>First Thing First: Getting The Department Information</h2>	<h3>I want to make it easier on myself, without using too much memory space to do
+	this assignment. With that in mind, I will be extracting only exactly what I need
+	in order to get the job done. So, to start, I needed to establish the department
+	name and number, since these are easy to get and needed for the fields in the new
+	DEPT_SUMMARY table. There is no need to make a join with the other data, as we
+	can use this smaller table to iterate through each department without having to 
+	take extra manipulation steps in the upcoming, main table of data.</h3>
+
+	<h4>This is simply querying the DEPARTMENT table for each department's name and
+	number. I placed them in order because I love for results to be organized in
+	alphanumeric order (in this case, numeric). It's soothing to the eyes. All the data
+	from the table is saved into a 2D array for future processing, while another
+	copy extraction from the query is done for the ShowTable() function.</h4>Getting the department list from the following query:<pre>SELECT dname, dnumber
+FROM department
+ORDER BY dnumber</pre><br/>No error in getting the department table<br>No error in getting the department table copy to display<br><br><table border='1'><TR><th>dname</th><th>dnumber</th></TR><tr><td>Headquarters</td><td>1</td></tr><tr><td>Administration</td><td>4</td></tr><tr><td>Research</td><td>5</td></tr><tr><td>Marketing</td><td>30</td></tr></table><h2>Establishing the Main Table</h2>	<h3>After establishing the list of department names and numbers, we must create the
+	table that guides the rest of the report.<br/><br/>
+
+	Produced as a result of the first query is a table with these attributes:
+		<ul>
+			<li> Employee social security number </li>
+			<li> Employee department number </li>
+			<li> The number of hours an employee works on the project (if any) </li>
+			<li> Project department number </li>
+			<li> The cost for the employee's work (labeled 'cost' for convenience) </li>
+		</ul>
+	This is going to be the meat of the SQL work.</h3>
+
+	<h4>These are extracted from a table joining the EMPLOYEE, WORKS_ON, and PROJECT table,
+	and all joins are left outer joins in the respective order. EMPLOYEE is joined with
+	WORKS_ON on the employee social security number, and WORKS_ON and PROJECT are joined
+	on the project number. The social security number, employee department number, and
+	project department number make up the primary key. This essentially finds data on
+	every employee's assignment to a project, while accounting for employees that have
+	no project assigned to them (for the number of employees in the department). We have
+	these left joins because there are some employees who are not assigned to work on any
+	project, and they are necessary to keep in the table for counting the number of
+	employees. Either of the joins not being a left join will result in their 
+	disappearance from interpretation.<br/><br/>
+
+	The two department numbers will be what is used for comparison conditions (same or 
+	different) that helps to determine which of the 5 combinations of employee and project
+	type that the data belongs in. Cost and hours are added to the running total, and the
+	social security number is used for the number of employees. Cost is calculated by
+	dividing the employees salary by 2000 and multiplying it by the number of hours worked
+	on the respective project.
+
+	As before with the data table, a 2D array is made from this table, while another
+	connection with the query is made for displaying the table.</h4>Getting the main table from the following query:<pre>SELECT ssn, dno, hours, dnum,
+salary / 2000 * hours AS cost
+FROM employee
+LEFT JOIN works_on
+ON ssn = essn
+LEFT JOIN project
+ON pno = pnumber</pre><br/>No error in getting the main table<br>No error in getting the main table copy to display<br><br><table border='1'><TR><th>ssn</th><th>dno</th><th>hours</th><th>dnum</th><th>cost</th></TR><tr><td>666884444</td><td>5</td><td>10</td><td>5</td><td>190</td></tr><tr><td>453453453</td><td>5</td><td>20</td><td>5</td><td>250</td></tr><tr><td>333445555</td><td>5</td><td>5</td><td>5</td><td>100</td></tr><tr><td>123456789</td><td>5</td><td>32.5</td><td>5</td><td>487.5</td></tr><tr><td>453453453</td><td>5</td><td>20</td><td>5</td><td>250</td></tr><tr><td>333445555</td><td>5</td><td>10</td><td>5</td><td>200</td></tr><tr><td>123456789</td><td>5</td><td>7.5</td><td>5</td><td>112.5</td></tr><tr><td>666884444</td><td>5</td><td>40</td><td>5</td><td>760</td></tr><tr><td>333445555</td><td>5</td><td>10</td><td>5</td><td>200</td></tr><tr><td>999887777</td><td>4</td><td>10</td><td>4</td><td>125</td></tr><tr><td>987987987</td><td>4</td><td>35</td><td>4</td><td>437.5</td></tr><tr><td>333445555</td><td>5</td><td>10</td><td>4</td><td>200</td></tr><tr><td>987654321</td><td>4</td><td>15</td><td>1</td><td>322.5</td></tr><tr><td>886655555</td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>333445555</td><td>5</td><td>10</td><td>1</td><td>200</td></tr><tr><td>999887777</td><td>4</td><td>30</td><td>4</td><td>375</td></tr><tr><td>987987987</td><td>4</td><td>5</td><td>4</td><td>62.5</td></tr><tr><td>987654321</td><td>4</td><td>20</td><td>4</td><td>430</td></tr><tr><td>333445555</td><td>5</td><td>5</td><td>4</td><td>100</td></tr><tr><td>444455555</td><td>30</td><td></td><td></td><td></td></tr><tr><td>444444444</td><td>1</td><td></td><td></td><td></td></tr><tr><td>333333333</td><td>1</td><td></td><td></td><td></td></tr><tr><td>222222222</td><td>5</td><td></td><td></td><td></td></tr></table><h2>The Extraction Process</h2><h3>Allow me to introduce the part that took the majority of my time. Here are the steps
+that I took to get each insertion:
+	<ol>
+		<li> Create two arrays of the list of employee and project types, with
+			the index of each made sure to correspond with the other</li>
+		<li> The insert number is initiated to zero</li>
+		<li> Iterate through each department in the array, then through each type
+			of result type. For example, with the provided department table
+			with the Headquarters, Administration, Research, and Marketing
+			departments, there will be a total of 20 insertions. With each
+			department iteration, save the department name and number.</li>
+		<li> Each insertion, the emp/proj types are established from the second
+			iteration (passing an index to the arrays). The num_emps, hours,
+			and cost are initiated at zero.</li>
+		<li> Iterate through each row from the array of main table rows. If it's
+			relevant to the project and employee type (checked with a switch
+			statement based on the index of the proj-emp type combo and a
+			few if-statements comparing the department numbers), then
+			increment the num_emps and add the cost and hours to the running
+			total for the insertion.</li>
+		<li> Finally, insert the tuple into the DEPT_SUMMARY table.</li>
+	</ol></h3><h4>Insert Number: 1</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Headquarters',
+					1,
+				     	'NOMINAL',
+			     		'NA',
+			     		3,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		1
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 2</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Headquarters',
+					1,
+				     	'DEPT',
+			     		'DEPT',
+			     		1,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		2
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 3</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Headquarters',
+					1,
+				     	'DEPT',
+			     		'NONDEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		3
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 4</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Headquarters',
+					1,
+				     	'NONDEPT',
+			     		'DEPT',
+			     		2,
+			    		25,
+			     		522.5,
+			     		'GMARCHE',
+			     		4
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 5</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Headquarters',
+					1,
+				     	'ASSIGNED',
+			     		'DEPT',
+			     		3,
+			    		25,
+			     		522.5,
+			     		'GMARCHE',
+			     		5
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 6</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Administration',
+					4,
+				     	'NOMINAL',
+			     		'NA',
+			     		6,
+			    		115,
+			     		1752.5,
+			     		'GMARCHE',
+			     		6
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 7</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Administration',
+					4,
+				     	'DEPT',
+			     		'DEPT',
+			     		5,
+			    		100,
+			     		1430,
+			     		'GMARCHE',
+			     		7
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 8</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Administration',
+					4,
+				     	'DEPT',
+			     		'NONDEPT',
+			     		1,
+			    		15,
+			     		322.5,
+			     		'GMARCHE',
+			     		8
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 9</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Administration',
+					4,
+				     	'NONDEPT',
+			     		'DEPT',
+			     		2,
+			    		15,
+			     		300,
+			     		'GMARCHE',
+			     		9
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 10</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Administration',
+					4,
+				     	'ASSIGNED',
+			     		'DEPT',
+			     		7,
+			    		115,
+			     		1730,
+			     		'GMARCHE',
+			     		10
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 11</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Research',
+					5,
+				     	'NOMINAL',
+			     		'NA',
+			     		13,
+			    		180,
+			     		3050,
+			     		'GMARCHE',
+			     		11
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 12</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Research',
+					5,
+				     	'DEPT',
+			     		'DEPT',
+			     		9,
+			    		155,
+			     		2550,
+			     		'GMARCHE',
+			     		12
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 13</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Research',
+					5,
+				     	'DEPT',
+			     		'NONDEPT',
+			     		3,
+			    		25,
+			     		500,
+			     		'GMARCHE',
+			     		13
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 14</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Research',
+					5,
+				     	'NONDEPT',
+			     		'DEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		14
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 15</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Research',
+					5,
+				     	'ASSIGNED',
+			     		'DEPT',
+			     		9,
+			    		155,
+			     		2550,
+			     		'GMARCHE',
+			     		15
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 16</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Marketing',
+					30,
+				     	'NOMINAL',
+			     		'NA',
+			     		1,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		16
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 17</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Marketing',
+					30,
+				     	'DEPT',
+			     		'DEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		17
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 18</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Marketing',
+					30,
+				     	'DEPT',
+			     		'NONDEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		18
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 19</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Marketing',
+					30,
+				     	'NONDEPT',
+			     		'DEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		19
+			     	); END;</pre><br/>No error in procedure call<br/><br><h4>Insert Number: 20</h4><br/>Inserting with <pre>BEGIN cs450.ins_dept_summary( 
+				     	'Marketing',
+					30,
+				     	'ASSIGNED',
+			     		'DEPT',
+			     		0,
+			    		0,
+			     		0,
+			     		'GMARCHE',
+			     		20
+			     	); END;</pre><br/>No error in procedure call<br/><br>        <h4>Checking results of Database Procedure Inserts</h4>
+        Using query: <pre class='query'>select * from TABLE(cs450.v_dept_summary('GMARCHE'))</pre>No error in querying v_dept_summary<br><br><table border='1'><TR><th>dname</th><th>dnumber</th><th>emp_type</th><th>proj_type</th><th>num_emps</th><th>hours</th><th>cost</th><th>user_name</th><th>insert_number</th></TR><tr><td>Headquarters</td><td>1</td><td>NOMINAL</td><td>NA</td><td>3</td><td>0</td><td>0</td><td>GMARCHE</td><td>1</td></tr><tr><td>Headquarters</td><td>1</td><td>DEPT</td><td>DEPT</td><td>1</td><td>0</td><td>0</td><td>GMARCHE</td><td>2</td></tr><tr><td>Headquarters</td><td>1</td><td>DEPT</td><td>NONDEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>3</td></tr><tr><td>Headquarters</td><td>1</td><td>NONDEPT</td><td>DEPT</td><td>2</td><td>25</td><td>522.5</td><td>GMARCHE</td><td>4</td></tr><tr><td>Headquarters</td><td>1</td><td>ASSIGNED</td><td>DEPT</td><td>3</td><td>25</td><td>522.5</td><td>GMARCHE</td><td>5</td></tr><tr><td>Administration</td><td>4</td><td>NOMINAL</td><td>NA</td><td>6</td><td>115</td><td>1752.5</td><td>GMARCHE</td><td>6</td></tr><tr><td>Administration</td><td>4</td><td>DEPT</td><td>DEPT</td><td>5</td><td>100</td><td>1430</td><td>GMARCHE</td><td>7</td></tr><tr><td>Administration</td><td>4</td><td>DEPT</td><td>NONDEPT</td><td>1</td><td>15</td><td>322.5</td><td>GMARCHE</td><td>8</td></tr><tr><td>Administration</td><td>4</td><td>NONDEPT</td><td>DEPT</td><td>2</td><td>15</td><td>300</td><td>GMARCHE</td><td>9</td></tr><tr><td>Administration</td><td>4</td><td>ASSIGNED</td><td>DEPT</td><td>7</td><td>115</td><td>1730</td><td>GMARCHE</td><td>10</td></tr><tr><td>Research</td><td>5</td><td>NOMINAL</td><td>NA</td><td>13</td><td>180</td><td>3050</td><td>GMARCHE</td><td>11</td></tr><tr><td>Research</td><td>5</td><td>DEPT</td><td>DEPT</td><td>9</td><td>155</td><td>2550</td><td>GMARCHE</td><td>12</td></tr><tr><td>Research</td><td>5</td><td>DEPT</td><td>NONDEPT</td><td>3</td><td>25</td><td>500</td><td>GMARCHE</td><td>13</td></tr><tr><td>Research</td><td>5</td><td>NONDEPT</td><td>DEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>14</td></tr><tr><td>Research</td><td>5</td><td>ASSIGNED</td><td>DEPT</td><td>9</td><td>155</td><td>2550</td><td>GMARCHE</td><td>15</td></tr><tr><td>Marketing</td><td>30</td><td>NOMINAL</td><td>NA</td><td>1</td><td>0</td><td>0</td><td>GMARCHE</td><td>16</td></tr><tr><td>Marketing</td><td>30</td><td>DEPT</td><td>DEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>17</td></tr><tr><td>Marketing</td><td>30</td><td>DEPT</td><td>NONDEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>18</td></tr><tr><td>Marketing</td><td>30</td><td>NONDEPT</td><td>DEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>19</td></tr><tr><td>Marketing</td><td>30</td><td>ASSIGNED</td><td>DEPT</td><td>0</td><td>0</td><td>0</td><td>GMARCHE</td><td>20</td></tr></table>
+</body>
+</html>

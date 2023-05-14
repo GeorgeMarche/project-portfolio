@@ -1,0 +1,401 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<title>Expression Australia - Learn Sign Language, Services for Deaf &amp; Hard Of Hearing</title>
+	<meta name="keywords" content=""/>
+	<meta name="description" content="We offer NDIS services, Auslan (Australian Sign Language) classes, Audiology, Interpreting, Notetaking, Live Captioning, Transcription, Job Support and Video Production services."/>
+	<meta property="og:image"content="https://www.expression.com.au/images/socialfb.png" />
+	<meta name="google-site-verification" content="qPzCAtlxLLvasarnvc_7BzidxpUKzPMlRn7EKMEmV80" />
+
+	<!-- <meta charset="utf-8" /> -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<link rel="shortcut icon" href="https://www.expression.com.au/favicon.ico" />
+
+	<!-- jQuery includes -->
+	<script type="text/javascript" src="/js/jQuery/jquery.js"></script>
+	<script type="text/javascript" src="/js/jQuery/jquery.history_ie8.js"></script>
+	<script type="text/javascript" src="/assets/querystring.js"></script>
+	<script type="text/javascript" src="/assets/fontsize.js"></script>
+
+	<!-- Custom Functions (requires jQuery) -->
+	<script type="text/javascript" src="/assets/main.js"></script>
+	<script type="text/javascript" src="/assets/jsFunctions.js"></script>
+	<script type="text/javascript" src="/assets/ajax_regions.js"></script>
+
+	<!-- Gallery Slideshow (requires jQuery) -->
+	<script type="text/javascript" src="/assets/jqGallery.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			if ( $("#documentGallery .banner-slides li").length > 1 ) {
+				photoGalleryInit("documentGallery","fade");
+			}
+			if ( $("#homeBanner .banner-slides li").length > 1 ) {
+				photoGalleryInit("homeBanner","fade");
+			}
+		});
+	</script>
+
+	<!-- wForms Validation -->
+	<link rel="stylesheet" type="text/css" href="/js/jQuery/validationEngine/validationEngine.jquery.css"  />
+	<script type="text/javascript" src="/js/jQuery/validationEngine/jquery.validationEngine-en.js"></script>
+	<script type="text/javascript" src="/js/jQuery/validationEngine/jquery.validationEngine.hacked.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			if ( $("form.validateForm").length > 1 ) {
+				$("form.validateForm").validationEngine();
+			}
+		})
+	</script>
+
+	<!-- Greybox includes -->
+	<script type="text/javascript">
+		var GB_ROOT_DIR = "/js/greybox/";
+	</script>
+	<script type="text/javascript" src="/js/greybox/AJS.js"></script>
+	<script type="text/javascript" src="/js/greybox/AJS_fx.js"></script>
+	<script type="text/javascript" src="/js/greybox/gb_scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="/js/greybox/gb_styles.css"  />
+	<link type="text/css" rel="stylesheet" href="/css/gb_custom.css" />
+
+	<!-- Flash Text includes -->
+	<script type="text/javascript">
+		var rootFolder 	= "";
+		var SIFR_ROOT_DIR = "/flash/";
+	</script>
+	<!-- <link type="text/css" rel="stylesheet" href="/css/sifr.css" />
+	<script type="text/javascript" src="/js/flashText/sifr.js"></script>
+	<script type="text/javascript" src="/js/flashText/sifr-rollback.js"></script>
+	<script type="text/javascript" src="/assets/sifr-config.js"></script> -->
+
+
+	<script type="text/javascript">
+		var PAGE_TYPE     = "Home";
+		
+	</script>
+
+	
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="/css/all.css" />
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><![endif]-->
+	<!--[if lt IE 7.]><link rel="stylesheet" type="text/css" href="/css/ie6.css" /><![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/print-only.css" media="print" />
+	
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$('a[href="#printThisPage"]').click(function(e) {
+			e.preventDefault();
+			window.print();
+		});
+	});
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WJ5MR7L');</script>
+	<!-- End Google Tag Manager -->
+
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJ5MR7L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+
+	<div id="wrapper">
+		<div id="skip">
+			<a tabindex="1" accesskey="s" href="#section2">Skip to main content</a>
+		</div>
+
+		<div id="main">
+			<h1 class="hidden">Vicdeaf</h1>
+			<div class="main-holder">
+				<div id="homeBanner" class="banner">
+					<div class="banner-holder"><div class="banner-controls"><ul><li><a href="#429" rel="https://www.expression.com.au/files/flash_banner/429_s.png" title="NDIS Services" value="https://www.expression.com.au/content.asp?id=396&ref=admin"><span>1</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li><li><a href="#428" rel="https://www.expression.com.au/files/flash_banner/428_s.png" title="Download the Face Mask Communication Toolkit" value="https://www.expression.com.au/content.asp?id=432&t=face-masks-and-&cid=3"><span>2</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li><li><a href="#423" rel="https://www.expression.com.au/files/flash_banner/422_s.png" title="Learn Auslan, Australian Sign Language Online " value="https://www.expression.com.au/content.asp?id=411&t=test-auslan-classes-enrolment-3&cid=67"><span>3</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li><li><a href="#424" rel="https://www.expression.com.au/files/flash_banner/424_s.png" title="Auslan Updates " value="https://www.expression.com.au/content.asp?id=430&ref=admin"><span>4</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li><li><a href="#425" rel="https://www.expression.com.au/files/flash_banner/425_s.png" title="Tell us what you think" value="https://www.expression.com.au/content.asp?id=73&t=tell-us-what-you-think&cid=6"><span>5</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li><li><a href="#426" rel="https://www.expression.com.au/files/flash_banner/426_s.png" title="Expression Australia supports the Royal Commission into Disability" value="https://www.expression.com.au/content.asp?id=431&ref=admin"><span>6</span><img class="pngImage" src="/images/icons/home-banner_btn-bg.png" /></a></li></ul></div><div class="banner-slides"><ul><li id="slide-429" style="background-image:url(https://www.expression.com.au/files/flash_banner/429_s.png)"><a href="https://www.expression.com.au/content.asp?id=396&ref=admin"><img src="/images/blank.gif" alt="NDIS Services" /></a></li><li id="slide-428" style="background-image:url(https://www.expression.com.au/files/flash_banner/428_s.png)"><a href="https://www.expression.com.au/content.asp?id=432&t=face-masks-and-&cid=3"><img src="/images/blank.gif" alt="Download the Face Mask Communication Toolkit" /></a></li><li id="slide-423" style="background-image:url(https://www.expression.com.au/files/flash_banner/422_s.png)"><a href="https://www.expression.com.au/content.asp?id=411&t=test-auslan-classes-enrolment-3&cid=67"><img src="/images/blank.gif" alt="Learn Auslan, Australian Sign Language Online " /></a></li><li id="slide-424" style="background-image:url(https://www.expression.com.au/files/flash_banner/424_s.png)"><a href="https://www.expression.com.au/content.asp?id=430&ref=admin"><img src="/images/blank.gif" alt="Auslan Updates " /></a></li><li id="slide-425" style="background-image:url(https://www.expression.com.au/files/flash_banner/425_s.png)"><a href="https://www.expression.com.au/content.asp?id=73&t=tell-us-what-you-think&cid=6"><img src="/images/blank.gif" alt="Tell us what you think" /></a></li><li id="slide-426" style="background-image:url(https://www.expression.com.au/files/flash_banner/426_s.png)"><a href="https://www.expression.com.au/content.asp?id=431&ref=admin"><img src="/images/blank.gif" alt="Expression Australia supports the Royal Commission into Disability" /></a></li></ul></div></div>
+				</div>
+
+				<div class="home-socialRowWrap">
+					<div class="home-socialRow">
+						<div class="social-box clearfix">
+							<a class="btn-subscribe opacity-hover" href="/content.asp?cid=31&amp;t=subscribe" onClick="ga('send', 'event', 'Homepage', 'Subscribe');">Subscribe for email updates</a>
+
+							<a class="icon-fb opacity-hover" href="https://www.facebook.com/ExpressionAustralia/" target="_blank" onClick="ga('send', 'event', 'Homepage', 'Facebook');"><img src="/images/theme-2018/fb-2.png" alt=""></a>
+							<a class="icon-tw opacity-hover" href="https://twitter.com/ExpressionAus" target="_blank" onClick="ga('send', 'event', 'Homepage', 'Twitter');"><img src="/images/theme-2018/tw-2.png" alt=""></a>
+							<a class="icon-yt opacity-hover" href="https://www.youtube.com/c/ExpressionAustralia" target="_blank" onClick="ga('send', 'event', 'Homepage', 'YouTube');"><img src="/images/theme-2018/yt-2.png" alt=""></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="home-mainCtaHolder center-div clearfix">
+					<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<p><a class="opacity-hover" href="http://www.vicdeaf.com.au/ndis"><img src="/files/editor_upload/Image/Home/cta-ndis-theme2018.png" alt="Book an Interpreter - live captioning &amp; note taking" width="270" height="200" /><br /></a></p>
+</td>
+<td>
+<p><a class="opacity-hover" href="https://www.expression.com.au/interpreting"><img title="Book an Interpreter" src="/files/editor_upload/Image/Home/cta-interpreter.png" alt="Book an Interpreter" width="270" height="200" /><br /></a></p>
+</td>
+<td>
+<p><a class="opacity-hover" href="http://www.vicdeaf.com.au/auslan"><img title="Learn Sign Language" src="/files/editor_upload/Image/Home/cta-learn.png" alt="Learn Sign Language" width="270" height="200" /><br /></a></p>
+</td>
+<td>
+<p><a class="opacity-hover" href="http://tasdeaf.org.au/"><img src="/files/editor_upload/Image/Home/cta-tas.png" alt="Tasmania" width="270" height="200" /><br /></a></p>
+</td>
+</tr>
+<tr>
+<td><a class="opacity-hover" href="https://www.expression.com.au/content.asp?id=427&amp;ref=admin" target="_blank"><img src="/files/editor_upload/Image/Home/cta-access.png" alt="Expression Access" width="270" height="200" /></a></td>
+<td><a class="opacity-hover" href="http://audiology.expression.com.au/" target="_blank"><img src="/files/editor_upload/Image/Home/cta-audio.png" alt="Auslan Translation &amp; Video Productions" width="270" height="200" /></a></td>
+<td><a class="opacity-hover" href="http://employment.expression.com.au/" target="_blank"><img src="/files/editor_upload/Image/Home/cta-employment.png" alt="Expression Employment" width="270" height="200" /></a></td>
+<td><a class="opacity-hover" href="/Auslan" target="_blank"><img src="/files/editor_upload/Image/Home/cta-learning.png" alt="SensWide Employment - Communication is the key" width="270" height="200" /></a></td>
+</tr>
+</tbody>
+</table>
+				</div><br><br>
+
+				<div class="center-div clearfix">
+					<div class="col col-space">
+						<!-- <img src="/images/txt/txt-selectRegion.png" alt=""> -->
+						<label class="region-selector-label" for="region-selector">Select your region to view News and Events in your area</label>
+					</div>
+					<div class="col">
+						<div class="select-holder region-selectHolder">
+							<select title="Region" id="region-selector">
+								<option value="">Please select</option>
+								<option value="0">All news and event regions</option>
+<option value="6">Melbourne Metropolitan Region</option>
+<option value="7">Barwon-South Western Region</option>
+<option value="8">Gippsland Region</option>
+<option value="9">Grampians Region</option>
+<option value="10">Hume Region</option>
+<option value="11">Loddon Mallee Region</option>
+
+							</select>
+						</div>
+					</div>
+				</div>
+
+				<div id="updates">
+					<div class="center-div clearfix">
+						<div class="col col6 col-space2">
+							<div id="ajaxRegionNews" class="ajax-events-title">
+								
+<div class="title">
+	<div class="title-holder"><h2 class="smallHeadingWhite">Latest News</h2></div>
+	<a href="https://www.expression.com.au/rss/news_home.asp" class="rssBtn" target="_blank" onClick="_gaq.push(['_trackEvent', 'Subscribe', 'RSS', 'Latest News', true]);"><img src="/images/rss.png" alt="Subscribe to RSS" width="16" height="17" class="pngImage" /></a>
+	</div>
+<div class="news-list">
+<ul>
+<li>
+<div class="photo">
+<a href="https://www.expression.com.au/news.asp?aid=1234&amp;t=starts-this-friday-professional-development-course-for-Deaf-people&amp;cid=1"><img src="/images/icons/ico_news.gif" alt="" class="tag" /><img src="https://www.expression.com.au/files/blog_images/1234__pic1.png" alt="Starts this Friday! Professional development course for Deaf people in the workplace" /></a>
+</div>
+<h4><a href="https://www.expression.com.au/news.asp?aid=1234&amp;t=starts-this-friday-professional-development-course-for-Deaf-people&amp;cid=1">Starts this Friday! Professional development course for Deaf people in the workplace</a></h4>
+<em class="date">14 October, 2020</em>
+<p>... <a class="more" href="https://www.expression.com.au/news.asp?aid=1234&amp;t=starts-this-friday-professional-development-course-for-Deaf-people&amp;cid=1">Read&nbsp;more</a></p>
+</li>
+</ul>
+</div>
+							</div>
+							<a href="https://www.expression.com.au/news.asp?cid=1" class="all">View all News</a><br />
+							<a href="https://www.expression.com.au/noticeboard.asp?cid=2" class="all">View Noticeboard</a>
+						</div>
+						<div class="col col6">
+							<div id="ajaxRegionEvents" class="ajax-events-title">
+								<div class="title">
+	<div class="title-holder">
+	<h2 class="smallHeading">Upcoming Events</h2></div>
+</div>
+<div class="news-list">
+<ul>
+<li>
+<div class="photo">
+<a href="https://www.expression.com.au/events-details.asp?id=3385&amp;t=2020+Annual+Community+Update&amp;m=202010"><img src="https://www.expression.com.au/files/event_images/3385_pic1.png" alt="2020 Annual Community Update" /></a>
+</div>
+<h4><a href="https://www.expression.com.au/events-details.asp?id=3385&amp;t=2020+Annual+Community+Update&amp;m=202010">2020 Annual Community Update</a></h4>
+<em class="date">20 October, 2020</em>		<li>
+</ul>
+</div>
+<div class="news-links"><a href="https://www.expression.com.au/events.asp" class="all">View all Upcoming Events</a></div>
+							</div>
+						</div>
+					</div>
+				</div><br><br>
+
+			</div>
+		</div>
+		<div id="header">
+			<div class="header-holder">
+				<div class="header-frame">
+					<div class="header-inner">
+						<div class="logo-box">
+							<strong class="logo"><a tabindex="2" accesskey="1" href="https://www.expression.com.au">
+								<img src="images/theme-2018/logo.png" alt="" /></a>
+							</strong>
+							<p class="key"><img src="images/bg-key.gif" alt="Communication is the key" /></p>
+						</div>
+						<div class="navigation">
+							<div class="navigation-holder"><div class="navigation-bg">
+<form action="search.asp" method="get">
+  <div class="quick-menu search-form">
+    <input class="search-form__field" tabindex="3" accesskey="4" type="text" title="Search" name="q" placeholder="Search" />
+    <button type="submit" class="search-form__submit"><img src="images/theme-2018/search.png" alt="search" /></button>
+  </div>
+</form>
+								<div class="quick-menu region">
+									<strong title="Your current region" id="region-selected">All news and event regions</strong>
+									<a tabindex="4" href="#" title="Change your region"><img src="images/theme-2018/chevron-down.png" alt="Change your region" width="6" /></a>
+								</div>
+								<div class="quick-menu tell-a-friend">
+									<strong>Tell a friend</strong>
+									<a tabindex="5" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-532a5fae51ebb27a" target="_blank" title="Tell a friend" id="addThisHeader"><img src="images/theme-2018/speech-bubble.png" alt="Tell a friend" /></a>
+								</div>
+								<div class="quick-menu resizer">
+									<strong>Text Size</strong>
+									<a tabindex="6" href="#" title="Decrease Font Size" class="decrease fontsize" accesskey="-"><img src="images/theme-2018/font-minus.png" alt="Decrease Font Size" /></a>
+									<a tabindex="7" href="#" title="Increase Font Size" class="increase fontsize" accesskey="+"><img src="images/theme-2018/font-plus.png" alt="Increase Font Size" /></a>
+								</div>
+								<div class="quick-menu print-box">
+									<strong>Print</strong>
+									<a tabindex="8" href="#printThisPage" target="" class="" title="Print this page"><img src="images/theme-2018/print.png" alt="Print this page" /></a>
+								</div>
+							</div></div>
+							<div id="region-dropdown"><div class="region-dropdown-holder">
+								<ul><li><a href="https://www.expression.com.au/index.asp?region=0" rel="0">All news and event regions</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=6" rel="6">Melbourne Metropolitan Region</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=7" rel="7">Barwon-South Western Region</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=8" rel="8">Gippsland Region</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=9" rel="9">Grampians Region</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=10" rel="10">Hume Region</a></li>
+<li><a href="https://www.expression.com.au/index.asp?region=11" rel="11">Loddon Mallee Region</a></li>
+</ul>
+							</div></div>
+
+							<nav class="site-nav">
+							  <ul class="site-nav__ul">
+							    <li class="site-nav__li"><a href="/" class="site-nav__link  active" tabindex="9">Home</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/content.asp?tid=92&amp;t=guide-to-our-services" class="site-nav__link " tabindex="10">Our Work</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/content.asp?tid=3&amp;t=Your+Community" class="site-nav__link " tabindex="11">Your Community</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/content.asp?tid=4&amp;t=Resources" class="site-nav__link " tabindex="12">Resources</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/content.asp?tid=5&amp;t=About+Us" class="site-nav__link " tabindex="13">About Us</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/jobs" class="site-nav__link " tabindex="14" accesskey="9">Work With Us</a></li>
+							    <li class="site-nav__li"><a href="https://www.expression.com.au/content.asp?cid=7&amp;t=Contact+Us" class="site-nav__link " tabindex="15">Contact Us</a></li>
+							  </ul>
+							</nav>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>    <div id="footer">
+      <div class="footer-holder">
+        <div class="footer-frame">
+          <div class="container">
+            <div class="container-holder">
+              <ul class="addnav">
+                <li class="work">
+                  <h3 class="footer-title">Our Work</h3>
+                  <!--  -->
+                  <ul>
+                    <li><a href="https://www.expression.com.au/slvp">Expression Access</a></li>
+                    <li><a href="http://audiology.expression.com.au/">Expression Audiology</a></li>
+                    <li><a href="http://employment.expression.com.au">Expression Employment</a></li>
+                    <li><a href="https://www.expression.com.au/auslan">Expression Learning</a></li>
+                    <li><a href="https://www.expression.com.au/slvp">Video Productions</a></li>
+                    <li><a href="https://www.expression.com.au/interpreting">Auslan Connections</a></li>
+                    <li><a href="https://www.expression.com.au/content.asp?cid=63&t=/ndis">Insurance Scheme</a></li>
+                    <li><a href="https://www.expression.com.au/content.asp?cid=52&t=deafaccess-victoria">deafness Victoria</a></li>
+                  </ul>
+                </li>
+                <li class="community">
+                  <h3 class="footer-title">Your Community</h3>
+                  <ul><li class="0 first"><a href="https://www.expression.com.au/content.asp?id=424&amp;t=expression-deaf-grants&amp;cid=3"><span>Expression Deaf Grants</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=425&amp;t=james-beams-scholarship&amp;cid=3"><span>James Beams Scholarship</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=429&amp;t=deaf-leadership&amp;cid=3"><span>Deaf Leadership</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=431&amp;t=disability-royal-commission&amp;cid=3"><span>Disability Royal Commission</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=432&amp;t=face-masks-and-&amp;cid=3"><span>Face Masks and Communication</span></a></li><li class=""><a href="http://www.vicdeaf.com.au/noticeboard.asp"><span>Community Noticeboard</span></a></li><li class=""><a href="https://www.expression.com.au/content.asp?cid=27&amp;t=deaf-professionals-network"><span>Deaf Professionals Network</span></a></li><li class=""><a href="http://www.vicdeaf.com.au/events.asp"><span>Events</span></a></li><li class=""><a href="http://www.vicdeaf.com.au/news.asp"><span>News</span></a></li></ul>
+                </li>
+                <li class="resources">
+                  <h3 class="footer-title">Resources</h3>
+                  <ul><li><a href="https://www.expression.com.au/content.asp?id=13&amp;t=receive-our-newsletters&amp;cid=4"><span>Receive our Newsletters</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=40&amp;t=employment-assistance-fund&amp;cid=4"><span>Employment Assistance Fund</span></a></li><li class=""><a href="https://www.expression.com.au/content.asp?cid=81&amp;t=alarm-subsidies"><span>Alarm Subsidies</span></a></li><li class=""><a href="https://www.expression.com.au/content.asp?cid=18&amp;t=research"><span>Research</span></a></li><li class=""><a href="https://www.expression.com.au/content.asp?cid=31&amp;t=subscribe"><span>Subscribe to A Newsletter</span></a></li></ul><ul><li><a class="active" href="https://www.expression.com.au/documents.asp?did=1&amp;t=Information+Sheets"><span>Information Sheets</span></a></li><li><a href="https://www.expression.com.au/documents.asp?did=3&amp;t=Newsletters"><span>Newsletters</span></a></li><li><a href="https://www.expression.com.au/documents.asp?did=13&amp;t=Research+Reports"><span>Research Reports</span></a></li></ul>
+                </li>
+                <li class="about-us">
+                  <h3 class="footer-title">About Us</h3>
+                  <ul><li><a href="https://www.expression.com.au/content.asp?id=20&amp;t=leave-a-bequest&amp;cid=5"><span>Leave a Bequest</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=253&amp;t=deaf-centre-updates&amp;cid=5"><span>Deaf Centre Updates</span></a></li><li class=""><a href="https://www.expression.com.au/content.asp?cid=82&amp;t=strategic-plans"><span>Strategic Plans</span></a></li></ul>
+                  <ul>
+                    <li><a href="https://www.expression.com.au/content.asp?id=73&amp;t=tell-us-what-you-think&amp;cid=6">Feedback</a></li>
+                  </ul>
+
+                  <ul class="footer-social-list">
+                    <li><a href="https://www.facebook.com/ExpressionAustralia/" target="_blank"><img src="/images/theme-2018/fb.png" alt="Find us on Facebook"></a></li>
+                    <li><a href="https://twitter.com/ExpressionAus" target="_blank"><img src="/images/theme-2018/tw.png" alt="Follow us at Twitter"></a></li>
+                    <li><a href="https://www.youtube.com/c/ExpressionAustralia" target="_blank"><img src="/images/theme-2018/yt.png" alt="Subscribe to us on Youtube"></a></li>
+                    <li><a href="https://www.instagram.com/expressionaustralia" target="_blank"><img src="/images/theme-2018/ig.png" alt="Follow us at Instagram"></a></li>
+                    <li><a href="https://www.linkedin.com/company/expressionaustralia/" target="_blank"><img src="/images/theme-2018/in.png" alt="Follow us at Linkedin"></a></li>
+                  </ul>
+                </li>
+
+                <li>
+                  <h3 class="footer-title">Victoria</h3>
+
+                  <address class="footer-address">
+                    Level 4, 340 Albert Street
+                    East Melbourne, VIC 3002
+                  </address>
+
+                  <dl class="footer-contact">
+                    <dt>Email.</dt>
+                    <dd>
+                      <a href="mailto:info@expression.com.au">info@expression.com.au</a>
+                    </dd>
+                    <dt>Skype.</dt>
+                    <dd>expression.australia</dd>
+                    <dt>Phone.</dt>
+                    <dd>+61 3 9473 1111</dd>
+                    <dt>SMS/Facetime.</dt>
+                    <dd>+61 402 217 586</dd>
+                  </dl>
+
+                  <img src="images/logo-vic-gov.png" width="120" height="auto" alt="State Government Victoria">
+
+                  <a class="footer-contact-link-all" href="/content.asp?id=400&t=contact-information&cid=7">View contact details for all areas</a>
+                </li>
+
+                <li>
+                  <h3 class="footer-title">Tasmania</h3>
+                  <address class="footer-address">139 New Town Road
+                    New Town, TAS 7008</address>
+                  <dl class="footer-contact footer-contact--tas">
+                    <dt>Email.</dt>
+                    <dd>
+                      <a href="mailto:infotas@expression.com.au">infotas@expression.com.au</a>
+                    </dd>
+                    <dt>Skype.</dt>
+                    <dd>expressionaustralia.tas</dd>
+                    <dt>Phone.</dt>
+                    <dd>+61 3 6228 1955</dd>
+                    <dt>SMS only.</dt>
+                    <dd>+61 418 341 373</dd>
+                  </dl>
+
+                  <img src="/images/theme-2018/logo-tas-gov.png" alt="Tasmanian Government">
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="copy">
+            <p>Expression Australia is a registered charity under our legal name Victorian Deaf Society, ABN 56 004 058 084. We are a Deductible Gift Recipient, category 1. <br>
+              &copy; 2020 Expression Australia. All rights reserved.</p>
+            <ul><li class="0 first"><a href="https://www.expression.com.au/content.asp?id=65&amp;t=terms-and-conditions&amp;cid=1"><span>Terms and Conditions</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=66&amp;t=privacy&amp;cid=1"><span>Privacy</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=72&amp;t=social-media-statement&amp;cid=1"><span>Social Media Statement</span></a></li><li><a href="https://www.expression.com.au/content.asp?id=179&amp;t=comment-policy-and-guidelines&amp;cid=1"><span>Comment Policy and Guidelines</span></a></li></ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

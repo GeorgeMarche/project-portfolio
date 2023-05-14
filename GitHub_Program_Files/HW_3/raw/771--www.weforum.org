@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en" class="lang-en no-js
+  
+  ">
+<head>
+  <meta charset="utf-8" />
+  <title>The Great Reset | World Economic Forum</title>
+  <!-- Google Tag Manager -->
+<script>
+  window.dataLayer = [{
+    "locale": "en", 
+    "sitename": "weforum.org", 
+    "markupVersion": 3, 
+    "environment": "production", 
+  }]
+</script>
+
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://stats.g.doubleclick.net">
+
+  <link rel="preconnect" href="https://www.google.com">
+  <link rel="preconnect" href="https://www.google.co.uk">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+
+    <!-- Production GTM -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W7SZB6C');</script>
+  <!-- End Google Tag Manager -->
+
+  
+  <link rel="stylesheet" media="all" href="/assets/application-a7743a632cf8949c65775697804316d36fa1595298befaefcfb42a75ade0250d.css" />
+  
+  
+  <link rel="stylesheet" media="print" href="/assets/print-52bb5b298dd9c6dbbf5c721d9f43c95cd7690a0f959a24b2e2e6aa39607333eb.css" />
+  <link rel="stylesheet" media="all" href="//fast.fonts.net/cssapi/4946bd2e-8cbd-461c-8121-ca6696f6267d.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hRnF3AOdkSEypECoxixK3Lau0bHuxIs8e/wbi0OklBk+ufmFJzLGPH8Gi3tjLublI30godp2ZmyHgs23hbo5fg==" />
+  <link rel="prefetch" href="https://assets.weforum.org" />
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="description" content="There is an urgent need for global stakeholders to cooperate in simultaneously managing the direct consequences of the COVID-19 crisis. To improve the state of the world, the World Economic Forum is starting The Great Reset initiative." />
+  <meta name="keywords" content="World Economic Forum,WEF,Davos,Klaus Schwab, globalization, globalization4.0, globalization4, globalization four, what does globalization mean?" />
+  <meta property="og:title" content="The Great Reset" />
+  <meta property="og:description" content="There is an urgent need for global stakeholders to cooperate in simultaneously managing the direct consequences of the COVID-19 crisis. To improve the state of the world, the World Economic Forum is starting The Great Reset initiative." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.weforum.org/great-reset/" />
+  <meta property="og:image" content="https://www.weforum.org/weforum.jpg" />
+  <meta property="og:site_name" content="World Economic Forum" />
+  <meta property="fb:pages" content="7746841478" />
+  <meta property="fb:app_id" content="1085482764806408" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="The Great Reset" />
+  <meta name="twitter:description" content="There is an urgent need for global stakeholders to cooperate in simultaneously managing the direct consequences of the COVID-19 crisis. To improve the state of the world, the World Economic Forum is starting The Great Reset initiative." />
+  <meta name="twitter:url" content="https://www.weforum.org/great-reset/" />
+  <meta name="twitter:image" content="https://www.weforum.org/weforum.jpg" />
+  <meta name="pocket-site-verification" content="0a5ad3db01a37673563584ab440eda" />
+
+  <link rel="canonical" href="https://www.weforum.org/great-reset/">
+  
+
+  
+  
+  
+  <script>
+//<![CDATA[
+
+/*! modernizr 3.6.0 (Custom Build) | MIT *
+ * https://modernizr.com/download/?-webp-setclasses !*/
+!function(e,n,A){function o(e,n){return typeof e===n}function t(){var e,n,A,t,a,i,l;for(var f in r)if(r.hasOwnProperty(f)){if(e=[],n=r[f],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(A=0;A<n.options.aliases.length;A++)e.push(n.options.aliases[A].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],l=i.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),s.push((t?"":"no-")+l.join("-"))}}function a(e){var n=u.className,A=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+A+"no-js(\\s|$)");n=n.replace(o,"$1"+A+"js$2")}Modernizr._config.enableClasses&&(n+=" "+A+e.join(" "+A),c?u.className.baseVal=n:u.className=n)}function i(e,n){if("object"==typeof e)for(var A in e)f(e,A)&&i(A,e[A]);else{e=e.toLowerCase();var o=e.split("."),t=Modernizr[o[0]];if(2==o.length&&(t=t[o[1]]),"undefined"!=typeof t)return Modernizr;n="function"==typeof n?n():n,1==o.length?Modernizr[o[0]]=n:(!Modernizr[o[0]]||Modernizr[o[0]]instanceof Boolean||(Modernizr[o[0]]=new Boolean(Modernizr[o[0]])),Modernizr[o[0]][o[1]]=n),a([(n&&0!=n?"":"no-")+o.join("-")]),Modernizr._trigger(e,n)}return Modernizr}var s=[],r=[],l={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var A=this;setTimeout(function(){n(A[e])},0)},addTest:function(e,n,A){r.push({name:e,fn:n,options:A})},addAsyncTest:function(e){r.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=l,Modernizr=new Modernizr;var f,u=n.documentElement,c="svg"===u.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;f=o(e,"undefined")||o(e.call,"undefined")?function(e,n){return n in e&&o(e.constructor.prototype[n],"undefined")}:function(n,A){return e.call(n,A)}}(),l._l={},l.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},l._trigger=function(e,n){if(this._l[e]){var A=this._l[e];setTimeout(function(){var e,o;for(e=0;e<A.length;e++)(o=A[e])(n)},0),delete this._l[e]}},Modernizr._q.push(function(){l.addTest=i}),Modernizr.addAsyncTest(function(){function e(e,n,A){function o(n){var o=n&&"load"===n.type?1==t.width:!1,a="webp"===e;i(e,a&&o?new Boolean(o):o),A&&A(n)}var t=new Image;t.onerror=o,t.onload=o,t.src=n}var n=[{uri:"data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=",name:"webp"},{uri:"data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA==",name:"webp.alpha"},{uri:"data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA",name:"webp.animation"},{uri:"data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=",name:"webp.lossless"}],A=n.shift();e(A.name,A.uri,function(A){if(A&&"load"===A.type)for(var o=0;o<n.length;o++)e(n[o].name,n[o].uri)})}),t(),a(s),delete l.addTest,delete l.addAsyncTest;for(var p=0;p<Modernizr._q.length;p++)Modernizr._q[p]();e.Modernizr=Modernizr}(window,document);
+
+//]]>
+</script>
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png?v=lk270KxwRj">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png?v=lk270KxwRj">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png?v=lk270KxwRj">
+<link rel="manifest" href="/favicons/site.webmanifest?v=lk270KxwRj">
+<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg?v=lk270KxwRj" color="#035b9c">
+<link rel="shortcut icon" href="/favicon.ico?v=lk270KxwRj">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#035b9c">
+
+  <script src="https://cdn.polyfill.io/v3/polyfill.min.js?features=es6,AbortController,Array.prototype.includes,CustomEvent,Object.entries,Object.values,URL,Math.trunc&amp;flags=gated" crossorigin="anonymous"></script>
+  
+</head>
+<body class="covid covid--reset body--dark body--bg-video" data-controller="covid" data-action="homepage" data-gtm-context="Body" data-react="false">
+  <script>
+  window.VIDEO_APP_SETTINGS = {
+    endpoints: {
+      collection: 'https://api.weforum.org/v1/en/collections/:slug',
+      router_base_url: 'https://www.weforum.org/videos',
+      search: 'https://api.weforum.org/v1/en/videos',
+      topic: 'https://api.weforum.org/v1/en/topics/:slug'
+    },
+    locale: 'en',
+    jwp: {
+      players: {
+        default: 'ncRE1zO6',
+        feed: 'ncRE1zO6',
+        sir_trevor: 'ncRE1zO6'
+      }
+    }
+  }
+</script>
+
+    <!-- Google Tag Manager (noscript) -->
+    <!-- Production GTM -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7SZB6C"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  
+  <div class="body-wrap">
+      <div class="event-takeover loading js-event-takeover" data-fragment-path="/fragments/event-takeover" data-event=""></div>
+    <div class="side-drawer">
+  <ul class="side-drawer__nav">
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/great-reset">Overview</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/great-reset#articles">Articles</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/great-reset/videos">Videos</a>
+    </li>
+  </ul>
+</div>
+<div class="side-drawer__close"></div>
+
+    <div class="content-container">
+      <div id="cookie-policy" class="cookie-policy">
+  <div class="cookie-policy__container">
+    <div class="cookie-policy__message"><p>We use cookies to improve your experience on our website. By using our website you consent to all cookies in accordance with our updated <a href="https://www.weforum.org/about/privacy-and-terms-of-use" target="">Cookie Notice</a>.</p></div>
+    <div class="cookie-policy__dismiss">
+      <a href="#" id="cookie-policy-dismiss" class="cookie-policy__dismiss-link">I accept</a>
+    </div>
+  </div>
+</div>
+
+        <header class="header header--main" data-gtm-context="navigation">
+    <div class="row nav">
+    <div class="header-container">
+      <a class="drawer-icon js-show-hide-menu" alt="Menu">
+        <img alt="" src="/assets/hamburger-992a4a691590001f8b9719428be83a1ae7bf6d00af025d689be652900eb6ee07.svg" />
+      </a>
+      <div class="header-item logo">
+        <a href="/"><img class="header-wef__logo" alt="Back to World Economic Forum" aria-label="Back to main site" src="/assets/logo--opaque-white-3861250bc1a8f4b139bf714431ae1ed10a8ce93c00c56acdb0f767bd6b482192.svg" /></a>
+      </div>
+      <div class="header-pane-selectors" role="navigation">
+        <a class="header-item__link" href="/great-reset">Overview</a>
+        <a class="header-item__link" href="/great-reset#articles">Articles</a>
+        <a class="header-item__link" href="/great-reset/videos">Videos</a>
+        
+        
+      </div>
+    </ul>
+  </div>
+</header>
+
+      <section class="content-container--content">
+        <article class="covid-homepage">
+  
+  <section class="covid-homepage__overview">
+    <div class="covid-homepage__overview-section">
+      <div class="row">
+        <div class="column medium-6">
+          <div class="covid-homepage__overview-section__body">
+            <h1 class="covid-homepage__overview-section__title">
+              <img alt="The Great Reset logo" title="The Great Reset" class="covid-logo" src="/assets/great-reset-logo--white-7a001c72e10913ccf5ce3869278186578ad0ab38251b863806ac5409cf51fdaf.svg" />
+            </h1>
+          </div>
+        </div>
+        <div class="column medium-6">
+          <p class="covid-homepage__strapline">
+            There is an urgent need for global stakeholders to cooperate in simultaneously managing the direct consequences of the COVID-19 crisis. To improve the state of the world, the <strong>World Economic Forum</strong> is starting The Great Reset initiative.
+          </p>
+          <div class="">
+                  </div>
+      </div>
+    </div>
+  </section>
+
+    <div class="row">
+      <div class="column">
+        <div class="covid-video-container">
+          <iframe src="https://livestream.com/accounts/1909571/events/9303395/player?width=960&amp;height=540&amp;enableInfoAndActivity=true&amp;defaultDrawer=&amp;autoPlay=true&amp;mute=false" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+      </div>
+    </div>
+
+  <section id="overview" class="covid-homepage__context">
+    <div class="row">
+        <article class="column small-12 medium-6">
+          <h2 class="covid-homepage__context-title covid-subtitle">The context</h2>
+          <p>The Covid-19 crisis, and the political, economic and social disruptions it has caused, is fundamentally changing the traditional context for decision-making. The inconsistencies, inadequacies and contradictions of multiple systems –from health and financial to energy and education – are more exposed than ever amidst a global context of concern for lives, livelihoods and the planet. Leaders find themselves at a historic crossroads, managing short-term pressures against medium- and long-term uncertainties. </p>
+        </article>
+        <article class="column small-12 medium-6">
+          <h2 class="covid-homepage__context-title covid-subtitle">The opportunity</h2>
+          <p>As we enter a unique window of opportunity to shape the recovery, this initiative will offer insights to help inform all those determining the future state of global relations, the direction of national economies, the priorities of societies, the nature of business models and the management of a global commons. Drawing from the vision and vast expertise of the leaders engaged across the Forum’s communities, the Great Reset initiative has a set of dimensions to build a new social contract that honours the dignity of every human being.</p>
+        </article>
+    </div>
+</section>
+  <section id="ctas" class="covid-homepage__context">
+    <div class="row">
+      <div class="column covid-homepage__cta-grid">
+          <div class="covid-homepage__cta covid-homepage__cta--single">
+            <div class="covid-homepage__cta__title">
+              
+              Join the Sustainable Development Impact Summit
+            </div>
+            <div class="covid-homepage__cta__content">
+              <div class="covid-homepage__cta__text">
+                <p>Become a World Economic Forum Digital Member to participate in the Summit</p>
+              </div>
+              <div class="covid-homepage__cta__actions">
+                  <a class="covid-homepage__cta__button" href="https://digital-members.weforum.org/intelligence">
+                    Learn More &amp; Start Free Trial
+                  </a>
+              </div>
+            </div>
+          </div>
+          <div class="covid-homepage__cta">
+            <div class="covid-homepage__cta__title">
+              
+              Our Partners
+            </div>
+            <div class="covid-homepage__cta__content">
+              <div class="covid-homepage__cta__text">
+                <p>World Economic Forum Partners are world-class companies with a strong interest in developing systemic solutions to key challenges</p>
+              </div>
+              <div class="covid-homepage__cta__actions">
+                  <a class="covid-homepage__cta__button" href="https://www.weforum.org/partners">
+                    Our Partners
+                  </a>
+              </div>
+            </div>
+          </div>
+          <div class="covid-homepage__cta">
+            <div class="covid-homepage__cta__title">
+              
+              UpLink
+            </div>
+            <div class="covid-homepage__cta__content">
+              <div class="covid-homepage__cta__text">
+                <p>UpLink is a digital platform to crowdsource innovations, in an effort to accelerate the delivery of the UN Sustainable Development Goals</p>
+              </div>
+              <div class="covid-homepage__cta__actions">
+                  <a class="covid-homepage__cta__button" href="https://uplink.weforum.org/uplink/s/">
+                    Visit UpLink
+                  </a>
+              </div>
+            </div>
+          </div>
+          <div class="covid-homepage__cta">
+            <div class="covid-homepage__cta__title">
+              
+              SDGs
+            </div>
+            <div class="covid-homepage__cta__content">
+              <div class="covid-homepage__cta__text">
+                <p>We've built a 3D virtual environment about the Sustainable Development Goals and the champions working to achieve them by 2030</p>
+              </div>
+              <div class="covid-homepage__cta__actions">
+                  <a class="covid-homepage__cta__button" href="https://www.weforum.org/events/sustainable-development-impact-summit-2020/about/3d-world">
+                    Learn More
+                  </a>
+              </div>
+            </div>
+          </div>
+      </article>
+    </div>
+</section>
+  <section id="link" class="covid-homepage__link">
+    <div class="row">
+        <article class="column small-12">
+          <div class="covid-homepage__link-body">
+            <h2>Find out more about the Great Reset</h2>
+            <a class="covid-button" href="https://www.weforum.org/agenda/2020/06/now-is-the-time-for-a-great-reset/">Read more</a>
+          </div>
+        </article>
+    </div>
+</section>
+  <section id="contribution" class="covid-homepage__contribution">
+    <div class="row">
+      <article class="columns covid-homepage__contribution-lead">
+        <h2 class="covid-subtitle">Our contribution</h2>
+        <p>The World Economic Forum has developed a reputation as a trusted platform for informed collaboration and cooperation between all stakeholders – reinforced by a track record of success over five decades. The Forum now offers its experience in building purpose-driven communities in service of the extraordinary challenge and opportunity the world faces for a “Great Reset”. The Forum provides an unparalleled platform for creating, shaping and delivering collaborative solutions for the future through its:</p>
+      <article>
+    </div>
+    <div class="row">
+      
+<div class="glide js-carousel">
+  <div class="glide__track" data-glide-el="track">
+    <ul class="glide__slides">
+        <li class="glide__slide">
+          <article class="covid-contribution__tout" data-count="01">
+  <div class="covid-contribution__tout-wrapper">
+    <h3 class="covid-contribution__tout-title">Status as the International Organization for Public-Private Cooperation</h3>
+  </div>
+</article>
+        </li>
+        <li class="glide__slide">
+          <article class="covid-contribution__tout" data-count="02">
+  <div class="covid-contribution__tout-wrapper">
+    <h3 class="covid-contribution__tout-title">Hub for cutting-edge ideas, expertise and knowledge resources tools</h3>
+  </div>
+</article>
+        </li>
+        <li class="glide__slide">
+          <article class="covid-contribution__tout" data-count="03">
+  <div class="covid-contribution__tout-wrapper">
+    <h3 class="covid-contribution__tout-title">Leadership in enabling stakeholder capitalism and delivering solutions  to global challenges</h3>
+  </div>
+</article>
+        </li>
+        <li class="glide__slide">
+          <article class="covid-contribution__tout" data-count="04">
+  <div class="covid-contribution__tout-wrapper">
+    <h3 class="covid-contribution__tout-title">Authority in shaping and leveraging the Fourth Industrial Revolution</h3>
+  </div>
+</article>
+        </li>
+    </ul>
+  </div>
+  <div class="glide__arrows glide__controls" data-glide-el="controls">
+    <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
+      <svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <g id="previous-arrow-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="previous-arrow-v2" transform="translate(-107.000000, -1714.000000)">
+            <g id="previous-arrow" transform="translate(133.000000, 1740.000000) scale(-1, 1) translate(-133.000000, -1740.000000) translate(107.000000, 1714.000000)">
+              <circle id="Oval" fill="#005C9C" cx="26" cy="26" r="26"></circle>
+              <line x1="36" y1="26" x2="13.5" y2="26" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></line>
+              <polyline id="Path-205-Copy-3" stroke="#FFFFFF" stroke-width="2" points="33 20 38 26 33 32"></polyline>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </button>
+    <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
+      <svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <g id="next-arrow-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="next-arrow-v2" transform="translate(-1281.000000, -1714.000000)">
+            <g id="next-arrow" transform="translate(1281.000000, 1714.000000)">
+              <circle id="Oval" fill="#005C9C" cx="26" cy="26" r="26"></circle>
+              <line x1="36" y1="26" x2="13.5" y2="26" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></line>
+              <polyline id="Path-205-Copy-3" stroke="#FFFFFF" stroke-width="2" points="33 20 38 26 33 32"></polyline>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </button>
+  </div>
+</div>
+
+    </div>
+</section>
+  
+  <section id="dialogues" class="covid-homepage__cta">
+    <article class="row">
+        <div class="column small-12 medium-6">
+          <figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/tout/image/dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png" srcset="https://assets.weforum.org/tout/image/responsive_large_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 1200w, https://assets.weforum.org/tout/image/responsive_medium_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 650w, https://assets.weforum.org/tout/image/responsive_small_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 350w, https://assets.weforum.org/tout/image/responsive_tiny_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 100w" webp_srcset="https://assets.weforum.org/tout/image/responsive_large_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 1200w, https://assets.weforum.org/tout/image/responsive_medium_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 650w, https://assets.weforum.org/tout/image/responsive_small_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 350w, https://assets.weforum.org/tout/image/responsive_tiny_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 100w" sizes="(max-width: 40em) 100vw, 50vw" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/tout/image/responsive_large_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 1200w, https://assets.weforum.org/tout/image/responsive_medium_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 650w, https://assets.weforum.org/tout/image/responsive_small_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 350w, https://assets.weforum.org/tout/image/responsive_tiny_webp_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.webp 100w" data-sizes="(max-width: 40em) 100vw, 50vw"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/tout/image/dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png" data-srcset="https://assets.weforum.org/tout/image/responsive_large_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 1200w, https://assets.weforum.org/tout/image/responsive_medium_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 650w, https://assets.weforum.org/tout/image/responsive_small_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 350w, https://assets.weforum.org/tout/image/responsive_tiny_dy-hUss79GmVi376FVKZDOJKS3eWP3RWQcxgCrVRNQA.png 100w" data-sizes="(max-width: 40em) 100vw, 50vw"></picture></div></figure>
+        </div>
+        <div class="column small-12 medium-6">
+          <h2 class="covid-homepage__cta--title">The Great Reset Dialogues</h2>
+          <p>In the run-up to the Annual Meeting, the Forum will host a virtual series: “The Great Reset Dialogues”.</p>
+
+<p>These dialogues are a joint initiative of the World Economic Forum and HRH The Prince of Wales.</p>
+
+<p>During these dialogues, various key stakeholders will discuss core dimensions of The Great Reset.</p>
+        </div>
+    </article>
+</section>
+  <section id="articles" class="covid-homepage__articles">
+    <div class="row">
+      <div class="columns">
+        <h2 class="covid-homepage__articles-title covid-subtitle">
+          Related articles
+        </h2>
+        <div class="tout-list tout-list--articles tout-list--grid tout-list--grid tout-list--grid-x3">
+  <div class="tout-list--grid__container">
+
+
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/this-business-leader-says-2020-is-the-year-that-could-save-us/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 485w, https://assets.weforum.org/article/image/responsive_small_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 485w, https://assets.weforum.org/article/image/responsive_small_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_JRTmiA8mUNrsSSmmQttkGRaUPC0hpxGWP8sWvHF4FT8.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">Systemic Racism</div><h3 class="tout__title">2020 is the year that might save us. Here&#39;s why</h3><p class="tout__description ">Human beings are capable of surmounting the imponderable as the past 6 months have proven and maybe this year is the opportunity to right some of the wrongs, to reconcile and reckon.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Alex Liu</span> <span>14 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/emissions-have-fallen-this-year-make-permanent/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 485w, https://assets.weforum.org/article/image/responsive_small_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 485w, https://assets.weforum.org/article/image/responsive_small_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_Qw2-VhVL8i1TDU4wAXNcN3bUxRGaDEZDext8GiwJbUc.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">Climate Change</div><h3 class="tout__title">Emissions have fallen this year. Now we need to make it permanent</h3><p class="tout__description ">The pandemic has led to a fall of 8% in global emissions – and while this drop is welcome, a path to sustainable reductions is, as yet, missing.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Charlotta Groth</span> <span>13 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/electric-vehicles-alone-can-t-achieve-the-energy-transition-but-as-part-of-a-system-they-will/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 485w, https://assets.weforum.org/article/image/responsive_small_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 485w, https://assets.weforum.org/article/image/responsive_small_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_UPpZ1HG-Dt_azpq6q3HIkNniSDmbuQl27sZkuRyWMTA.jpg 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">SDG 07: Affordable and Clean Energy</div><h3 class="tout__title">Electric vehicles alone can&#39;t achieve the energy transition. But as part of a system, they will </h3><p class="tout__description ">An investment of €6 billion in EV charging infrastructure could yield over €12 billion in human health benefits from improved air quality.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Lei Zhang</span> <span>13 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/governments-stop-bailing-out-companies-readjust-incentives-and-support-people/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/_N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg" srcset="https://assets.weforum.org/article/image/responsive_big__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 1600w, https://assets.weforum.org/article/image/responsive_large__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 800w, https://assets.weforum.org/article/image/responsive_medium__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 485w, https://assets.weforum.org/article/image/responsive_small__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/_N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 1600w, https://assets.weforum.org/article/image/responsive_large__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 800w, https://assets.weforum.org/article/image/responsive_medium__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 485w, https://assets.weforum.org/article/image/responsive_small__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny__N2v2VGyoEiWottL2INkw6L0dxZHI4JPJhd_76PGogI.jpg 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">The Great Reset</div><h3 class="tout__title">Why bailing out companies doesn&#39;t help people recover from economic shocks of COVID-19</h3><p class="tout__description ">To build resilience and alleviate consequences of recessions, governments should realign incentives for companies and focus spending on social protection. </p><div class="tout__meta"><div class="caption"><span class="article__author bold">Thales Panza de Paula</span> <span>12 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/7-ways-young-people-making-a-difference-mental-health/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 485w, https://assets.weforum.org/article/image/responsive_small_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 485w, https://assets.weforum.org/article/image/responsive_small_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_Za0SUuJRL8NGtaBE14hH9P-9BlsvesS2fjJQOCUZeso.jpg 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">Mental Health</div><h3 class="tout__title">7 ways young people are making a difference in mental health</h3><p class="tout__description ">Young people around the world have been investing their time, expertise and lived experiences in improving mental health provision. Here are 7 examples.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Naeem Dalal and Sarah Shakour</span> <span>09 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/here-s-the-pope-s-prescription-for-resetting-the-global-economy-in-response-to-covid-19/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 485w, https://assets.weforum.org/article/image/responsive_small_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 485w, https://assets.weforum.org/article/image/responsive_small_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_Ck65I-vO8fYWv8g068-SxRXsnJTVqFv9nHsu9UvRf3g.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">The Great Reset</div><h3 class="tout__title">Here’s the pope’s prescription for resetting the global economy in response to COVID-19</h3><p class="tout__description ">The pope put his stamp on efforts to shape the Great Reset of the global economy in the wake of the pandemic, with a scathing indictment of neoliberalism.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">John Letzing</span> <span>09 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/investing-women-small-micro-business-owners-smbs-economy-recovery-great-reset-gender-gap/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG" srcset="https://assets.weforum.org/article/image/responsive_big_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 485w, https://assets.weforum.org/article/image/responsive_small_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG" data-srcset="https://assets.weforum.org/article/image/responsive_big_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 1600w, https://assets.weforum.org/article/image/responsive_large_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 800w, https://assets.weforum.org/article/image/responsive_medium_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 485w, https://assets.weforum.org/article/image/responsive_small_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 350w, https://assets.weforum.org/article/image/responsive_tiny_673_Cp-k6LDtmcQKX7qS_zRk7IBRY8Q2rDHIPY4aP6Q.JPG 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">The Great Reset</div><h3 class="tout__title">Why investing in women small and micro business owners will help the global economy recover</h3><p class="tout__description ">To fully support women and build a more resilient and inclusive post-COVID global economy, we must invest in women-led small and micro businesses (SMBs).</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Graham Macmillan</span> <span>09 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/social-justice-inclusion-and-sustainable-development-need-a-great-reset-here-are-3-key-steps/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 485w, https://assets.weforum.org/article/image/responsive_small_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 485w, https://assets.weforum.org/article/image/responsive_small_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_j5r3dlZt1CS1nZoPeaQ0nxbXgIruqGhTOm7qo-ted-c.jpg 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">Systemic Racism</div><h3 class="tout__title">Social justice, inclusion and sustainable development need a ‘Great Reset’. Here are 3 key steps we can take</h3><p class="tout__description ">Widespread environmental crises and global Black Lives Matters protests have sparked palpable restlessness for change. This is how we should respond. </p><div class="tout__meta"><div class="caption"><span class="article__author bold">David Sangokoya</span> <span>08 Oct 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article"><a class="tout__link" href="https://www.weforum.org/agenda/2020/10/great-reset-dialoogue-revitalizing-global-partnerships-globalisation-podcast/"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://assets.weforum.org/article/image/vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg" srcset="https://assets.weforum.org/article/image/responsive_big_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 485w, https://assets.weforum.org/article/image/responsive_small_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 97w" webp_srcset="https://assets.weforum.org/article/image/responsive_big_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 97w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><source type="image/webp" data-srcset="https://assets.weforum.org/article/image/responsive_big_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 1600w, https://assets.weforum.org/article/image/responsive_large_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 800w, https://assets.weforum.org/article/image/responsive_medium_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 485w, https://assets.weforum.org/article/image/responsive_small_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 350w, https://assets.weforum.org/article/image/responsive_tiny_webp_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.webp 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"><img loading="lazy" class=" js-lazyload" data-src="https://assets.weforum.org/article/image/vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg" data-srcset="https://assets.weforum.org/article/image/responsive_big_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 1600w, https://assets.weforum.org/article/image/responsive_large_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 800w, https://assets.weforum.org/article/image/responsive_medium_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 485w, https://assets.weforum.org/article/image/responsive_small_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 350w, https://assets.weforum.org/article/image/responsive_tiny_vi4RJ04M88YAW_hGO5jooqqXzpSR4igYmHEtGq38JzE.jpg 97w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div></figure><div class="tout__details"><div class="tout__topic caption">The Great Reset</div><h3 class="tout__title">COVID-19 is redrawing the geo-political map of the world - this week&#39;s Great Reset podcast</h3><p class="tout__description ">COVID struck as nationalism was on the rise and multilateralism on the retreat. A panel of experts wonder if we&#39;ll see more or less   co-operation as we reset the world.</p><div class="tout__meta"><div class="caption"><span class="article__author bold">Robin  Pomeroy</span> <span>07 Oct 2020</span></div></div></div></a></article>
+  </div>
+</div>
+
+      </div>
+    </div>
+</section>
+  <section id="videos" class="covid-homepage__videos">
+    <div class="row">
+      <div class="columns">
+        <h2 class="covid-homepage__videos-title covid-subtitle">
+          Related videos
+          <a class="view-all-link" href="/great-reset/videos">            View all <img alt="" src="/assets/thin-chevron-220c508e09cd7918af0f6e1e281e2ed54258a771dbfe49a9f662004e66ccc42d.svg" /></a>        </h2>
+        <div class="tout-list tout-list--videos tout-list--grid tout-list--grid tout-list--grid-x3">
+  <div class="tout-list--grid__container">
+
+
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="96jUJVas" href="/videos/common-pass-travelling-the-world-in-the-covid-era"><figure class="placeholder small placeholder--square "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/96jUJVas-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/96jUJVas-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/96jUJVas-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/96jUJVas-640.jpg 640w, https://cdn.jwplayer.com/thumbs/96jUJVas-480.jpg 480w, https://cdn.jwplayer.com/thumbs/96jUJVas-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/96jUJVas-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/96jUJVas-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/96jUJVas-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/96jUJVas-640.jpg 640w, https://cdn.jwplayer.com/thumbs/96jUJVas-480.jpg 480w, https://cdn.jwplayer.com/thumbs/96jUJVas-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">03:55</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">CommonPass - Travelling The World In The Covid Era</h3><div class="tout__meta"><div class="caption"><span>24 Aug 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="zxwvZ6GT" href="/videos/scientists-says-preventing-the-pandemic-would-have-been-500-times-cheaper-than-fighting-it"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-640.jpg 640w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-480.jpg 480w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-640.jpg 640w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-480.jpg 480w, https://cdn.jwplayer.com/thumbs/zxwvZ6GT-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">01:38</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">Scientists say preventing the pandemic would have been 500 times cheaper than fighting it</h3><div class="tout__meta"><div class="caption"><span>20 Aug 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="HVZeJmq5" href="/videos/tanzania-is-turning-waste-plastic-bottles-into-coronavirus-face-shields"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/HVZeJmq5-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/HVZeJmq5-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-640.jpg 640w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-480.jpg 480w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/HVZeJmq5-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/HVZeJmq5-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-640.jpg 640w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-480.jpg 480w, https://cdn.jwplayer.com/thumbs/HVZeJmq5-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">01:09</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">Tanzania is turning waste plastic bottles into coronavirus face shields</h3><div class="tout__meta"><div class="caption"><span>19 Aug 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="X8Rj4MFp" href="/videos/five-global-inequalities-highlighted-by-covid-19"><figure class="placeholder small  "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-640.jpg 640w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-480.jpg 480w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-640.jpg 640w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-480.jpg 480w, https://cdn.jwplayer.com/thumbs/X8Rj4MFp-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">02:34</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">Five global inequalities highlighted by COVID-19</h3><div class="tout__meta"><div class="caption"><span>19 Aug 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="XyECMN8s" href="/videos/covid-19-has-exposed-the-stark-disparities-in-access-to-green-space"><figure class="placeholder small placeholder--square "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/XyECMN8s-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/XyECMN8s-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/XyECMN8s-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/XyECMN8s-640.jpg 640w, https://cdn.jwplayer.com/thumbs/XyECMN8s-480.jpg 480w, https://cdn.jwplayer.com/thumbs/XyECMN8s-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/XyECMN8s-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/XyECMN8s-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/XyECMN8s-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/XyECMN8s-640.jpg 640w, https://cdn.jwplayer.com/thumbs/XyECMN8s-480.jpg 480w, https://cdn.jwplayer.com/thumbs/XyECMN8s-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">01:20</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">Covid-19 has exposed the stark disparities in access to green space</h3><div class="tout__meta"><div class="caption"><span>17 Aug 2020</span></div></div></div></a></article>
+        <article class="tout tout--default tout--article-with-media tout--video"><a class="tout__link" data-video-id="OxFp3cnj" href="/videos/this-is-why-museums-are-crucial-for-a-healthy-happy-society-after-covid-19-7d9e520f82"><figure class="placeholder small placeholder--square "><div class="placeholder-inner"><noscript><img src="https://cdn.jwplayer.com/thumbs/OxFp3cnj-1920.jpg" srcset="https://cdn.jwplayer.com/thumbs/OxFp3cnj-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-640.jpg 640w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-480.jpg 480w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-120.jpg 120w" sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px" html="{:loading=&gt;&quot;lazy&quot;, :class=&gt;&quot;&quot;}" use_picture="true"></noscript><picture><img loading="lazy" class=" js-lazyload" data-src="https://cdn.jwplayer.com/thumbs/OxFp3cnj-1920.jpg" data-srcset="https://cdn.jwplayer.com/thumbs/OxFp3cnj-1920.jpg 1920w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-1280.jpg 1280w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-640.jpg 640w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-480.jpg 480w, https://cdn.jwplayer.com/thumbs/OxFp3cnj-120.jpg 120w" data-sizes="(max-width: 40em) 27vw, (max-width: 64em) calc(50vw - 42px), 310px"></picture></div><span class="video-tout-placeholder__duration">04:37</span></figure><div class="tout__details"><div class="tout__topic caption">COVID-19</div><h3 class="tout__title">This is why museums are crucial for a healthy, happy society after Covid-19</h3><div class="tout__meta"><div class="caption"><span>17 Aug 2020</span></div></div></div></a></article>
+  </div>
+</div>
+
+      </div>
+    </div>
+</section>
+  
+  </article>
+
+      </section>
+        <footer class="footer" data-gtm-context="footer">
+    <div class="footer__wrapper">
+      <div class="row">
+        <div class="footer__newsletter">
+          <div class="newsletter">
+            <div class="newsletter__callout">
+              <h2>Subscribe for updates</h2>
+              <div class="newsletter__callout__description">A weekly update of what’s on the Global Agenda</div>
+            </div>
+            <form action="https://weforum.us3.list-manage.com/subscribe/?u=79c86265202b9840297f805ad&amp;id=7361259375" method="post" target="_blank" class="footer__form">
+              <div class="newsletter__form__field">
+                <input type="email" name="EMAIL" placeholder="Email" autocomplete="email" class="footer__form__input">
+                <input type="submit" value="Subscribe" name="subscribe" class="footer__form__submit">
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="footer__socialmedia" data-gtm-subcontext="social-links">
+          <div class="footer__socialmedia-title">Follow Us</div>
+          <div class="footer__socialmedia-group">
+              <a title="Facebook" aria-label="Facebook" href="https://www.facebook.com/worldeconomicforum/" class="social-share--facebook" target="_blank"></a>
+              <a title="Twitter" aria-label="Twitter" href="https://twitter.com/wef" class="social-share--twitter" target="_blank"></a>
+              <a title="LinkedIn" aria-label="LinkedIn" href="https://www.linkedin.com/company/world-economic-forum" class="social-share--linkedin" target="_blank"></a>
+              <a title="Flipboard" aria-label="Flipboard" href="https://flipboard.com/@WEF" class="social-share--flipboard" target="_blank"></a>
+              <a title="TikTok" aria-label="TikTok" href="https://www.tiktok.com/@worldeconomicforum" class="social-share--tiktok" target="_blank"></a>
+              <a title="Instagram" aria-label="Instagram" href="https://www.instagram.com/worldeconomicforum/" class="social-share--instagram" target="_blank"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>About</span>
+          </div>
+          <div class="list-group__items">
+                <div class="list-group__item">
+                  <a href="/about/world-economic-forum">Our Mission</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/the-davos-manifesto">The Davos Manifesto</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/leadership-and-governance">Leadership and Governance</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/our-partners">Our Partners</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/communities">Communities</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/world-economic-forum-center-for-the-fourth-industrial-revolution">Centre for the Fourth Industrial Revolution</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/our-impact">Our Impact</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/history">History</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/centre-for-cybersecurity">Centre for Cybersecurity</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/klaus-schwab">Klaus Schwab</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/pictures">Pictures</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/press">Media</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/strategic-intelligence">Strategic Intelligence</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/careers">Careers</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/contact">Contact Us</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/code-of-conduct">Code of Conduct</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/world-economic-forum-llc">World Economic Forum LLC</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/sustainability-world-economic-forum">Sustainability</a>
+                </div>
+                <div class="list-group__item">
+                  <a href="/about/privacy-and-terms-of-use">World Economic Forum Privacy Policy </a>
+                </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer__list-group">
+          <div class="list-group">
+            <div class="list-group__header">
+              <span>Media</span>
+            </div>
+            <div class="list-group__items">
+              <div class="list-group__item">
+                <a href="/press/">News</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://www.weforummedia.org/">Accreditation</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://weforum.us3.list-manage.com/subscribe/?u=6308fe51b420dc9ff3834abc8&amp;id=bf3fa00e64" target="_blank">Subscribe to our news</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="footer__list-group">
+          <div class="list-group">
+            <div class="list-group__header">
+              <span>Members &amp; Partners</span>
+            </div>
+            <div class="list-group__items">
+              <div class="list-group__item">
+                <a href="https://toplink.weforum.org/">Member login to TopLink</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://toplink.weforum.org/">Strategic Partners&#39; area</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://toplink.weforum.org/">Partner Institutes&#39; area</a>
+              </div>
+            </div>
+        </div>
+      </div>
+      <div class="footer__list-group">
+          <div class="list-group">
+            <div class="list-group__header">
+              <span>Global sites</span>
+            </div>
+            <div class="list-group__items">
+              <div class="list-group__item">
+                <a href="https://www.weforum.org/center-for-the-fourth-industrial-revolution/">Centre for the Fourth Industrial Revolution</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://www.weforum.org/open-forum">Open Forum</a>
+              </div>
+              <div class="list-group__item">
+                <a href="http://www.globalshapers.org/">Global Shapers</a>
+              </div>
+              <div class="list-group__item">
+                <a href="http://www.schwabfound.org/">Schwab Foundation for Social Entrepreneurship</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://www.weforum.org/about/strategic-intelligence/">Strategic Intelligence</a>
+              </div>
+              <div class="list-group__item">
+                <a href="https://www.weforum.org/global-risks/">Global Risks</a>
+              </div>
+              <div class="list-group__item">
+                <div class="locale-switcher locale-switcher__footer">
+    
+      <span class="locale-link locale-link--EN">EN</span>
+    <a class="locale-link locale-link--es" href="https://es.weforum.org/about/world-economic-forum">ES</a>    <a class="locale-link locale-link--fr" href="https://fr.weforum.org/about/world-economic-forum">FR</a>    <a class="locale-link locale-link--cn" href="https://cn.weforum.org/about/world-economic-forum">中文</a>    <a class="locale-link locale-link--ja" href="https://jp.weforum.org/about/world-economic-forum">日本語</a></div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-12 columns">
+        <div class="footer__info-container">
+          <div class="footer__info-group">
+            © 2020 World Economic Forum
+          </div>
+          <div class="footer__info-group">
+            <a href="/about/privacy-and-terms-of-use">Privacy Policy &amp; Terms of Service</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <div id="modal" class="modal__container">
+    <div id="modalBackground" class="modal__background"></div>
+    <div id="modalContent" class="modal__content"></div>
+    <button type="button" class="modal__button--close modal__button--white" title="Close" aria-label="Close">
+      <svg width="13" height="13" xmlns="http://www.w3.org/2000/svg" focusable="false">
+        <g fill="none" fillRule="evenodd">
+          <g transform="translate(-491 -12)">
+            <path d="M503.012 24.936a.923.923 0 01-.653-.27L491.27 13.576a.925.925 0 011.306-1.306l11.088 11.088a.925.925 0 01-.653 1.577z" fill="#848490" />
+            <path d="M491.924 24.936a.924.924 0 01-.653-1.577l11.088-11.088a.925.925 0 011.306 1.306l-11.088 11.088a.923.923 0 01-.653.271z" fill="#848490" />
+          </g>
+        </g>
+      </svg>
+    </button>
+  </div>
+
+    </div>
+    
+  </div>
+    
+  <script src="/packs/js/application-5477dc2afaa38c96d54d.js"></script>
+  <script src="/packs/js/app-bundle-538e888458d98b028165.js"></script>
+  
+  <div class="chakra">
+    <div id="chakra-portal" class="chakra"></div>
+  </div>
+</body></html>

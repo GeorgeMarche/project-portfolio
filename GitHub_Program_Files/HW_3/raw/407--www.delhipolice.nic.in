@@ -1,0 +1,480 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--<meta http-equiv="Refresh" content="0;URL=https://www.delhipolice.nic.in" />-->
+<title>:: DELHI POLICE Shanti Sewa Nyaya ::</title>
+<meta name="Description" content="">
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--dropdown script start here-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/flexdropdown.js"></script>
+<link rel="stylesheet" type="text/css" href="css/flexdropdown.css">
+<link href="css/general.css" rel="stylesheet" type="text/css">
+<!--dropdown script start here-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137248192-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137248192-1');
+</script>
+</head>
+
+<body onLoad="incrementCount(10)">
+<button onClick="myFunction()" class="btn_st">Print this page</button><!--new-->
+<div class="top-boredr"></div>
+<div class="header-main">
+  <div class="headers">
+    <div class="header">
+      <div class="logo1"><a href="index.html"><img src="dp-img/logo1.jpg" alt="" width="326" height="87" border="0"></a><a href="#"></a></div>
+      <div class="in-eamil-id-top">
+        <div class="email-id-in-text">
+        
+        <ul>
+      <li>&#187; cp.snshrivastava@delhipolice.gov.in</li>
+        <li>&#187; delpol.service@delhipolice.gov.in</li>
+         </ul>
+        
+        </div>
+      </div>
+      <div class="lef-top-icon-logo"><img src="dp-img/control-room-im.jpg" width="254" height="76" alt=""></div>
+    </div>
+  </div>
+</div>
+<div class="button-main">
+<div class="container">
+<div id='cssmenu'>
+<ul>
+
+
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="#">ABOUT US</a>
+      <ul>
+      <li><a href="history1.html">History</a></li>
+      <li><a href="Citizen_Charter.pdf">Citizens' Charter</a></li>
+      
+      <li><a href="oldcpdelhi.html">Former Commissioners</a></li>
+      <li><a href="medals.html">Medals</a></li>
+      <li><a href="appreciation.html">Appreciation letters from public</a></li>
+	  <li><a href="Press clippings.pdf">OF Them We Are Proud !</a></li>
+      <li><a href="HELPLINE1.html">Telephone Directory</a></li>
+      <li><a href="Manual.pdf">Organization Structure</a></li>
+	<li><a href="Best_practices.pdf">Best Practices</a></li>
+    </ul>
+      
+      </li>
+      <li><a href="#">SERVICES</a>
+      <ul>
+      <li><a target="_blank" href="https://trackthemissingchild.gov.in/trackchild/index.php">Missing Children</a></li>
+     
+      <li><a target="_blank" href="http://www.zipnet.delhipolice.gov.in/index.php?page=mps_report_missing_2&amp;criteria=search">Missing Persons Search</a></li>
+      <li><a target="_blank" href="http://www.zipnet.delhipolice.gov.in/index.php?page=mps_report_8&amp;criteria=search">Un-Identified Children Found</a></li>
+      <li><a target="_blank" href="http://www.zipnet.delhipolice.gov.in/index.php?page=mps_report_4&amp;criteria=search">Un-Identified Persons Found</a></li>
+      <li><a target="_blank" href="http://www.zipnet.delhipolice.gov.in/index.php?page=mps_report_2">Un-Identified Dead Bodies</a></li>
+      <li><a href="http://seniorcitizen.delhipolice.gov.in/">Senior Citizens Registration</a></li>
+      <li><a href="http://zipnet.delhipolice.gov.in/index.php?page=stolen_vehicles_search&amp;criteria=search" target="_blank">Stolen Vehicles Search</a></li>
+      <li><a href="http://zipnet.delhipolice.gov.in/index.php?page=un_identified_vehicles_search&amp;criteria=search" target="_blank">Unclaimed Vehicles Search</a></li>
+      <li><a target="_blank" href="http://www.zipnet.delhipolice.gov.in/index.php?page=missing_mobile_phones">Missing/Stolen Mobile Phones</a></li>
+      <li><a href="sms.html">SMS Services of Delhi Police</a></li>
+      <li style="height:48px;"><a href="passport_verification.pdf">Guidelines / Information in c/w passport verification and registration of Pakistan National</a></li>
+      <li><a href="wanted.html">Most Wanted</a></li>
+      <li><a href="http://infopromotion.delhipolice.gov.in/downloadable-forms.aspx">Downloadable Forms</a></li>
+      <li><a href="gos-mess-accom-tar.html">Go's Mess Accommodation &amp; Tariff</a></li>
+      <li><a href="Welfare_order.html">Welfare</a></li>
+      <li><a target="_blank" href="http://cvr.delhipolice.gov.in/">Government Service Verification (CVR)</a></li>
+	  <li><a href="FAQ_Online_Missing_Person.pdf">Missing Person Report FAQ</a></li>
+    </ul>
+      </li>
+      <li><a href="#">INITIATIVES</a>
+      <ul >
+      <li><a target="_blank" href="https://mact.delhipolice.gov.in/login.aspx">ACCI- Claim</a></li>
+    
+     <!--<li><a href="http://www.delhipolice.nic.in/parivartan/default.htm">Parivartan</a></li>--!>
+      <li><a target="_blank" href="http://retiredtalents.delhipolice.gov.in/Retiredtalent.aspx">Delhi Police Retired Talent</a></li>
+      <li><a href="dp-job-portal.html">Form for Retired Delhi Police Personnel</a></li>
+    </ul>
+      
+      </li>
+      <li><a href="crime-statistics.html">STATISTICS</a></li>
+      <li><a href="recruitment.html">RECRUITMENT</a></li>
+      
+      <li><a href="#" >USEFUL LINKS</a>
+      <ul>
+     <!-- <li><a href="sexualoffender.html">Sexual Harassment</a></li> -->
+      <!--<li><a href="yuvatrained.html">Yuva Trained Individual List</a></li>-->
+      <li><a href="cawcircular.html">CAW Instructions</a></li>
+      
+      <li><a href="cghs.html" target="_blank">CGHS Empanelled Hospital</a></li>
+      
+      <li><a href="helpline.html?dst=160&amp;dist=HELPLINE">Help Lines</a></li>
+      <li><a href="http://zipnet.delhipolice.gov.in" target="_blank">Zonal Integrated Police Network</a></li>
+      <li><a href="about-funds.html">About Funds</a></li>
+      <li><a href="notification.html">Notification</a></li>
+      <li><a href="http://martyrs.delhipolice.gov.in/">Martyrs</a></li>
+      <li><a href="http://www.youtube.com/channel/UCUWoKg1ip-n-bvWcNm4YmxQ" target="_blank">Video Gallery</a></li>
+      <li><a href="acts_rules.html">Acts And Rules</a></li>
+	<li><a href="circulars.html">Circulars</a></li>
+	<li><a href="standing_order.html"> Standing Orders </a></li>
+	<li><a href="Writ Petition NO.6183-2018.pdf">Writ Petition (C) No.6183/2018 </a></li>
+	<li style="height:36px;"><a href="BLACKLISTFIRM.html">Order of Blacklisting Firm.</a></li>
+	<!--- <li style="height:36px;"><a href="INTEGRATED SENIORITY LIST OF SI MIN. AND SHR 28.01.2019.PDF">INTEGRATED SENIORITY LIST OF Sub-Inspectors (MIN. AND SHR).</a></li>
+ 	 <li style="height:36px;"><a href="SENIORITY LIST OF ASI MIN. 28.01.2019.PDF">SENIORITY LIST OF Asstt.Sub-Inspector (MIN.).</a></li>-->
+      <li><a href="court_order.html">Circular related to Court Order</a></li>
+	  <li style="height:36px;" ><a href="Workshop- PTS-Dwarka.ppsx">Course on sensitisation towards differently abled persons.</a></li>
+	  <li style="height:36px;"><a href="GuidelineforDPDP.pdf">High Court Guidelines for prevention of defacement of property during elections in Delhi University.</a></li>
+          <li style="height:36px;"><a href="DPDP Policy.docx">Policy on removal of unauthorized advertisements/hoardings and enforcement of delhi prevention of defacement of property act,2007.</a></li>
+	  <!--<li style="height:36px;"><a href="result_mts.pdf">Result of written test for various trades of Multi Tasking Staff(Civilian) in Delhi Police Examination, 2017</a></li>-->
+	  <li ><a href="IMEI List of Mobile phone recovered.doc">IMEI List of Mobile phone recovered.</a></li>
+          <li ><a href="Out door Advt Policy Col ShivRaj.pdf">Out door Advt Policy Col ShivRaj.</a></li>
+         <li style="height:36px;"><a href="The Delhi Prevention of Defacement of Property Act.pdf">The Delhi Prevention of Defacement of Property Act.</a></li>
+	  <li style="height:36px;"><a href="Missing Person Mobile App T&C-IOS and android.docx">Missing Person Mobile App T&C-IOS and android.</a></li>
+         <!-- <li style="height:36px;"><a href="SENIORITY OF  HC (Exe)[MALE & FEMALE].xlsx">SENIORITY OF  HC (Exe)[MALE & FEMALE].</a></li>-->
+	  <li style="height:36px;"><a href="SUPREME COURT GUIDELINES.pdf">SUPREME COURT GUIDELINES FOR PREVENTION OF MOB VIOLENCE AND LYNCHING.</a></li>
+	 <!--- <li style="height:36px;"><a href="mt.pdf">SENIORITY LIST OF ASIs, SIs, AND INSPR. (M.T. Cadre).</a></li>
+	  <li style="height:36px;"><a href="womenlist.pdf">SENIORITY LIST OF Women Sub-Inspectors (Exe) of Delhi Police.</a></li>-->
+	  <li style="height:36px;"><a href="lockdown.pdf">Essential services to be allowed on roads in Delhi.</a></li>
+	  <li style="height:36px;"><a href="Old_Pension.pdf">Grant of benefits under Old Pension Scheme</a></li>
+    </ul>
+      
+      </li>
+      
+      <li><a href="#">CONTACT US</a>
+      <ul>
+     <!-- <li><a href="http://emailus.delhipolice.gov.in/emailus-form.aspx">E-mail Us</a></li>-->
+
+
+     <li><a href="http://emailus.delhipolice.gov.in/emailus-form.aspx">E-mail Us</a></li>
+     <li><a href="http://emailus.delhipolice.gov.in/Emailid.aspx">SPL. CP</a></li>
+     <li><a href="http://emailus.delhipolice.gov.in/JtCPEmailid.aspx">JT. CP</a></li>
+     <li><a href="http://emailus.delhipolice.gov.in/DCPEmailid.aspx">DCP</a></li>
+     <li><a href="HELPLINE1.html">Telephone Directory</a></li>
+    </ul>
+      </li>
+      
+  
+</ul>
+</div>
+</div>
+</div>
+<div class="center-page-main">
+  <div class="wraper">
+    <div class="main">
+      <div class="left-side-page-index">
+                <div class="img-main-in1">
+                  <div class="img1-1">
+                    <div class="imgage"> 
+                      <!---<a href="CPMESSAGE.pdf" target="_blank">--->
+                      <center>
+                      <img src="dp-img/Sh.jpg" alt="" height="168" border="0">
+                      </center>
+                    </div>
+                  </div>
+                  <h1 class="text-im1">S. N. SHRIVASTAVA, IPS<br>
+                    Commissioner of Police, Delhi<br>
+                    <br>
+                    <a href="http://delhipolice.nic.in/SANDESH.pdf">Message</a></h1>
+                </div>
+                <div></div>
+                <br>
+              </div>
+              <div class="right-index-main">
+                <div class="banner">
+                  <iframe id="tabiframe" src="https://www.delhipolice.nic.in/banner/multiple.html#box_skitter box_skitter_large" width="100%" scrolling="No" frameborder="0" height="210px"></iframe>
+                </div>
+                <div class="news-flash-heading"><img src="dp-img/help-line-head.png" width="95" height="32" alt=""></div>
+                <div class="news-flash">
+                  <marquee behavior="scroll" direction="left" onMouseOver="this.stop();" onMouseOut="this.start();" scrollamount="4">
+                  <img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;PCR : <span>112 (24X7) (Toll Free)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Eyes and Ears : <span>1090 (Toll Free)</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Women in distress : <span>1091</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Special Cell (North-Eastern States) : <span>1093</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Missing Persons : <span>1094, 23241210</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Traffic : <span>1095, 25844444</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Senior Citizen : <span>1291</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Vigilance : <span>1064 </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="">&nbsp;Railways : <span>1512 </span>
+                  </marquee>
+                </div>
+                <div class="clr"></div>
+          <div> <blink><center><tr><b><ul><span>"WEAR MASKS, MAINTAIN SOCIAL DISTANCE & KEEP HAND HYGIENE"</span></ul></b></TR></DIV>
+		 </center></div></blink>
+            
+      <div class="width_f">
+        <div class="rowtss">
+          <div class="rowts"> <a href="http://www.delhipolice.nic.in/rti-main.html">
+            <div class="div1 bnt" style="width:90%; float:left; margin-right:1%;  color:#fff;">R.T.I.</div>
+            </a> <a href="http://yuva.delhipolice.gov.in">
+            <div class="div2 bnt" style="width:90%; float:left; margin-right:1%;  color:#fff;">Yuva</div>
+            </a> <a href="delhi-police-samachar.html">
+            <div class="div3 bnt" style="width:90%; float:left; margin-right:1%; text-align:center; color:#fff;">Delhi Police Samachar
+
+</div>
+            </a><!---<a href="https://">--><a href="LEGALCON.html"><!---<a href="under_construction.html">--->
+            <div class="div3 bnt" style="width:90%; float:left; margin-right:1%; text-align:center; color:#fff;">Legal Consultant</div>
+            </a></div>
+          <div class="rowts"> <a href="security-wom-chil.html">
+            <div class="div4 bnt" style="width:90%; float:left; margin-right:1%; color:#fff; font-size:13px; " >Security of Women& Children</div>
+            </a> <a href="security-of-ne-res.html">
+            <div class="div5 bnt" style="width:90%; float:left;  color:#fff;font-size:13px; margin-top:5px; ">Security of N.E. Residents </div>
+            </a> <a href="http://www.delhipolice.nic.in/seniorcitizen/index.html">
+            <div class="div6 bnt" style="width:90%; float:left; margin-right:1%; color:#fff; margin-top:2px;">Senior Citizen Cell </div>
+            </a> <a href="corona.html">
+            <div class="div6 bnt" style="width:90%; float:left; margin-right:1%; color:#fff; margin-top:2px;">Covid 19 Help Desk</div>
+            </a> </div>
+          <a href="http://himmat.delhipolice.nic.in/">
+          <div style=" display:table; margin:0 auto; min-height:20px; background-color:#fff; margin-bottom:12px;"><img src="safety.jpg"></div>
+          </a> </div>
+		  
+
+		  
+		  
+        <div class="rowtamr"> <a href="#">
+          <div class="div7" style="width:90%; float:left;  color:#fff;  margin-bottom:12px;"><img src="images/cctnimg.jpg" style="width:100%;"></div>
+          </a> <a href="citizen_services.html">
+          <div class="div9 bnt2" style="float:left;   color:#fff;">Citizen Services</div>
+          </a> <a href="police_services.html">
+          <div class="div8 bnt2" style="float:left;   color:#fff;">Police Services</div>
+          </a><a href="http://59.180.234.21:2020/"><!---<a href="under_construction.html">-->
+          <div class="div3 bnt2" style="float:left;   color:#fff;">Fake News Verification</div>
+          </a></div>
+	
+		  
+		  
+		  
+		  
+        <div class="rowtss">
+          <div class="rowts"> <a href="http://districts.delhipolice.gov.in/Home.aspx">
+            <div class="div10 bnt" style="width:90%; float:left; margin-right:1%;color:#fff;">Districts</div>
+            </a> <a href="http://www.delhitrafficpolice.nic.in">
+            <div class="div11 bnt" style="width:90%; float:left; margin-right:1% ;color:#fff;">Traffic Unit </div>
+            </a> <a href="http://www.delhipolicelicensing.gov.in">
+            <div class="div12 bnt" style="width:90%; float:left; margin-right:1%;color:#fff; ">Licensing Unit </div>
+            </a> <a href="view-fir.html">
+            <div class="div12 bnt" style="width:90%; float:left; margin-right:1%;color:#fff; ">View FIR </div>
+            </a> </div>
+				  
+		
+          <div class="rowts">
+
+		  <a href="press-release.html">
+            <div class="div13 bnt" style="width:90%; float:left; margin-right:1%;color:#fff; font-size:13px; ">Press Releases & Rejoinders</div>
+            </a> 
+			<!--
+			<a href="rejoinders.html">
+            <div class="div14 bnt" style="width:90%; float:left; margin-right:1%;   color:#fff;">Rejoinders</div>
+            </a>-->
+			
+			<a href="https://training.delhipolice.gov.in">
+            <div class="div14 bnt" style="width:90%; float:left; margin-right:1%;   color:#fff;">Training Division</div>
+            </a>
+
+
+
+
+			<a href="inauguration_of_cyber_lab_at_ptc_haroda_Kalan.html">
+            <div class="div15 bnt" style="width:90%; float:left; margin-right:1%;  color:#fff">Photo Gallery </div>
+            </a> <a href="http://tender.delhipolice.gov.in/user/viewallrecord.aspx">
+            <div class="div15 bnt" style="width:90%; float:left; margin-right:1%;  color:#fff">Tender </div>
+            </a> </div>
+			
+				  
+
+
+          <a href="http://www.pfwsdelhi.com/">
+          <div style=" display:table; margin:0 auto; min-height:20px; background-color:#fff;  color:#fff;  margin-bottom:12px;"><img src="images/fesfp.jpg"></div>
+          </a> </div>
+      </div>
+    </div>
+<div class="news-flash-bott2">
+		<marquee behavior="scroll" direction="left" onMouseOver="this.stop();" onMouseOut="this.start();" scrollamount="4" width="100%">
+&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Legal cell.pdf">FINAL CALL FOR INTERVIEW OF ADVOCATES LEGAL CONSULTANS IN  DELHI POLICE ON 30.09.2020 AT 1:00 PM AT NEW PHQ, JAISINGH ROAD</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="INT.PDF">WITH REFERENCE TO APPLICATIONS AS LEGAL CONSULTANTS IN DELHI POLICE .</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="infomation.pdf">NOTICE REGD. HC(MIN.) AND HC(AWO/TPO) IN DELHI POLICE EXAMINATION,2019.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="LEGALCON.html">Application for Legal Consultants.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="NOTICEHINDI01082020.pdf">Direct Recruitment of Constables(Exe.)(Male & Female) in Delhi Police-2020 through SSC(Hindi).</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="NOTICE01082020.pdf">Direct Recruitment of Constables(Exe.)(Male & Female) in Delhi Police-2020 through SSC(English).</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="IDY_21062020.pdf">Guidelines for Yoga at Home, Yoga with family</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="IDY_21062020.pdf">Guidelines for Yoga at Home, Yoga with family</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://www.facebook.com/DelhiPoliceOfficial/">Facebook</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://www.twitter.com/DelhiPolice">Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://www.instagram.com/delhi.police_official/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://www.youtube.com/channel/UCigG-Q9tD4u-BRMFVgGdFkw">Youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<!---<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="">e-Passes issued with the validity upto 14 Apr 2020 will remain valid till 03 May 2020.</a>&nbsp;&nbsp;&nbsp;&nbsp;--->
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Hindi_ Brochure_Constitution_Day.pdf">संविधान सभा और संविधान का निर्माण  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="DOJ_Constitution_Day_Standee_3x6_2_0.pdf">Creating awareness on Citizens' Duties</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="DOJ_Constitution_Day_Poster_1_0_0.pdf">अपने मौलिक कर्त्तव्य निभाएं देश को महान बनायें</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="DOJ_Constitution_Day_Brochure.pdf">Constituent Assembly and Framing of the Constitution</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Banner_Pledge_Sign_Board_Constitution_Day.pdf">Pledge Sign Board Banner Constitution Day</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Old_Pension.pdf">Grant of benefits under Old Pension Scheme</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="mtscan.pdf">Postponment of Completion of Codal Formalities of MTS (Civilian) 2017.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<!---<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://delhiawo.online-ap1.com/">Apply online for the post of Head Constable (Asstt. Wireless Operator/Tele-Printer Operator) in Delhi Police Exam., 2019.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Asst. Wireless Operator.pdf">Notification for the post of Head Constable(Asstt.Wireless Operator/Tele-Printer Operator) in Delhi Police Exam., 2019.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="mass sms job fair.pdf">Mega Job Fair 2019 for wards of Delhi Police Personnel and retired Police personnel.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="SUPREME COURT GUIDELINES.pdf">SUPREME COURT GUIDELINES FOR PREVENTION OF MOB VIOLENCE AND LYNCHING.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="shah.html">Extracts from the speech of union minister for Home Affairs on the occassion inaugration of new building of Delhi Police Headquarter.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="jobfaire.pdf">Date of Mega Job Fair 2019 Extended.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://delhip.azurewebsites.net">Apply online for the post of Head Constable(Ministerial) in Delhi Police Exam., 2019.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Recruitment-Head Constable (Ministrial)2019.pdf">Notification for the post of Head Constable(Ministerial) in Delhi Police Exam.</a>&nbsp;&nbsp;&nbsp;&nbsp;--->
+		<!--
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="https://cyber.delhipolice.gov.in/cyberregistration/registration.aspx">Delhi Police Hackathon 2019-Registration Form.</a>&nbsp;&nbsp;&nbsp;&nbsp;-->
+		
+		<!--<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="jobfair.pdf">Mega Job Fair 2019 for wards of Delhi Police Personnel and retired Police personnel.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="promotion.pdf">Result of selected Constables for Promotion List for the Post of HC(Exe.)(Male)2018.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="male_female2016.html"> Recruitment for the post of Const. (Exe.) Male & Female in Delhi Police 2016 (Declaration of result from Additional List).</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="equalopportunity.pdf">Equal Opportunity Policy for Persons with Disabilities.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="http://www.recruitmentonline.co.in/"> <u> You can download Admit Card  before your Trade Test date for  the post of MTS (Civilian) in Delhi Police-2017. The Trade Test date has been sent to you through SMS on your mobile as well as mailed to your email id.
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="result_mts.html">Result of written test for various trades of Multi Tasking Staff(Civilian) in Delhi Police Examination, 2017. </a><img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="IMEI List of Mobile phone recovered.doc">IMEI List of Mobile phone recovered.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Out door Advt Policy Col ShivRaj.pdf">Out door Advt Policy Col ShivRaj.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="The Delhi Prevention of Defacement of Property Act.pdf">The Delhi Prevention of Defacement of Property Act.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="DPDP Policy.docx">POLICY ON REMOVAL OF UNAUTHORIZED ADVERTISEMENTS/HOARDINGS AND ENFORCEMENT OF DELHI PREVENTION OF DEFACEMENT OF PROPERTY ACT, 2007.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="http://webcast.gov.in/mha/ib/">Visit of Hon'ble President of India to National Police Memorial (NPM) on the occassion of CRPF Valour Day (April 9, 2019).</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<!--<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="EVM_VOTER.PDF">EVM-VVPAT Poster for Voter Awareness.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="voter1.mpeg">Audio Clipping of Election Commission of India for Voter Awareness.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Voter Awareness.mp4">Video Message of  	Election Commission of India for Voter Awareness.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Recruitment for the post of sub Inspr2017.pdf">Recruitment for the post of Sub-Inspr. in Delhi Police , in CPO -2017</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="CP-FORWORD.pdf">Commissioner's Desk.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="key_question.html"><u>Soft Copy of Answer keys & Question Booklets of examination for direct recruitment for various trades of Multi Tasking Staff  (Civilian) Delhi Police 2017.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="AR-2018.ppt">Annual Review 2018.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="CRIMEinDELHI.pdf">Crime in Delhi.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="alert.docx">ALERT for lynching and mob violence.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="mega_2018.pdf">Mega Job Fair_2018.</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+                        <img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Workshop- PTS-Dwarka.ppsx">Course on sensitisation towards differently abled persons. </a>&nbsp;&nbsp;&nbsp;&nbsp;
+		  	<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Result_Male.pdf">Prov. Final Result for Rectt. to the post of Const.(Exe) Male in Delhi Police- 2016.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="MaleAddlList.pdf">Prov. Add. List for Rectt.to the post of Const.(Exe) Male in Delhi Police- 2016.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="Result_Female.pdf">Prov. Final Result for Rectt. to the post of Const.(Exe)Female in Delhi Police- 2016.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="FemaleAddlList.pdf">Prov. Add. List for Rectt. to the post of Const.(Exe)Female in Delhi Police- 2016.</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<img src="dp-img/healp-line-bullet.png" width="11" height="13" alt="" />&nbsp;<a href="CutOff.pdf">Cut Off for Rectt.to the post of Const.(Exe) Male & Female in Delhi Police- 2016.</a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+          </marquee>
+        </div>
+
+  </div>
+</div>
+</div>
+<div class="footer-main">
+  <div class="footer">
+
+
+
+<div class="half_width">
+<iframe src="https://infopromotion.delhipolice.gov.in/counter.aspx" frameborder="0" height="50" scrolling="no"></iframe>
+
+</div>
+
+<div class="half_widthfr">
+<p>Copyright&copy;Delhi Police 2020 All Right Reserved | <a class="tags" href="http://delhipolice.nic.in/sitemap.html">sitemap</a></p>
+</div>
+
+
+<!-- End of CuterCounter Code -->
+  
+    
+  </div>
+</div>
+<map name="Map" id="Map">
+  <area shape="rect" coords="266,135,364,166" href="http://205.147.111.68:81/QUESTIONARY.pdf" target="_blank">
+  <area shape="rect" coords="265,59,365,91" href="http://205.147.111.68:81/registration.aspx" target="_blank">
+  <area shape="rect" coords="136,134,239,165" href="http://54.169.6.175/" target="_blank" alt="">
+  <area shape="rect" coords="7,59,108,91" href="http://www.delhipolice.nic.in/retrieve.html">
+  <area shape="rect" coords="7,98,107,127" href="http://www.delhipolice.nic.in/register.html" alt="">
+  <area shape="rect" coords="8,134,108,166" href="http://www.delhipolice.nic.in/faqs.html" target="_blank" alt="">
+  <area shape="rect" coords="266,98,366,129" href="http://205.147.111.68:81/usermanual_pcc.pdf" target="_blank">
+  <area shape="rect" coords="389,59,492,90" href="http://205.147.111.68:83/UserLogin.aspx" target="_blank">
+  <area shape="rect" coords="390,135,491,167" href="http://205.147.111.68:83/FAQ.pdf" target="_blank">
+  <area shape="rect" coords="390,97,491,128" href="http://205.147.111.68:83/USERMANUAL.pdf" target="_blank">
+</map>
+
+<!--<map name="Map" id="Map"><area shape="rect" coords="329,141,456,177" href="http://205.147.111.68:81/QUESTIONARY.pdf" target="_blank" /><area shape="rect" coords="329,63,456,96" href="http://205.147.111.68:81/registration.aspx" target="_blank" />
+  <area shape="rect" coords="171,143,296,177" href="http://54.169.6.175/" target="_blank" alt="" />
+<area shape="rect" coords="9,63,135,96" href="retrieve.html" alt="" />
+  <area shape="rect" coords="10,103,135,136" href="register.html" alt="" />
+  <area shape="rect" coords="11,144,135,177" href="faqs.html" target="_blank" alt="" />
+  <area shape="rect" coords="329,102,455,135" href="http://205.147.111.68:81/usermanual_pcc.pdf" target="_blank" />
+</map> -->
+
+
+
+<script>
+(function($) {
+
+  $.fn.menumaker = function(options) {
+      
+      var cssmenu = $(this), settings = $.extend({
+        title: "Menu",
+        format: "dropdown",
+        sticky: false
+      }, options);
+
+      return this.each(function() {
+        cssmenu.prepend('<div id="menu-button">' + settings.title + '</div>');
+        $(this).find("#menu-button").on('click', function(){
+          $(this).toggleClass('menu-opened');
+          var mainmenu = $(this).next('ul');
+          if (mainmenu.hasClass('open')) { 
+            mainmenu.hide().removeClass('open');
+          }
+          else {
+            mainmenu.show().addClass('open');
+            if (settings.format === "dropdown") {
+              mainmenu.find('ul').show();
+            }
+          }
+        });
+
+        cssmenu.find('li ul').parent().addClass('has-sub');
+
+        multiTg = function() {
+          cssmenu.find(".has-sub").prepend('<span class="submenu-button"></span>');
+          cssmenu.find('.submenu-button').on('click', function() {
+            $(this).toggleClass('submenu-opened');
+            if ($(this).siblings('ul').hasClass('open')) {
+              $(this).siblings('ul').removeClass('open').hide();
+            }
+            else {
+              $(this).siblings('ul').addClass('open').show();
+            }
+          });
+        };
+
+        if (settings.format === 'multitoggle') multiTg();
+        else cssmenu.addClass('dropdown');
+
+        if (settings.sticky === true) cssmenu.css('position', 'fixed');
+
+        resizeFix = function() {
+          if ($( window ).width() > 768) {
+            cssmenu.find('ul').show();
+          }
+
+          if ($(window).width() <= 768) {
+            cssmenu.find('ul').hide().removeClass('open');
+          }
+        };
+        resizeFix();
+        return $(window).on('resize', resizeFix);
+
+      });
+  };
+})(jQuery);
+
+(function($){
+$(document).ready(function(){
+
+$("#cssmenu").menumaker({
+   title: "Menu",
+   format: "multitoggle"
+});
+
+});
+})(jQuery);
+
+</script>
+
+
+<script>
+function myFunction() {
+  window.print();
+}
+</script>
+
+
+</body>
+</html>

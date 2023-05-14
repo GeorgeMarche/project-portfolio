@@ -1,0 +1,1059 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >   
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-70675009-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-70675009-1');
+</script>
+
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<base href="https://www.mineralscouncil.org.za/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="We are a mining industry employers organisation which exists to serve our members and promote their interests in South Africa. " />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home - Minerals Council South Africa</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/chamber-home/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_acymailing/css/module_default.css?v=1527021181" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"c78fd230abb113a17fb668a3896bcdcd","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script src="/media/com_acymailing/js/acymailing_module.js?v=561" type="text/javascript" async="async"></script>
+	<script src="/media/system/js/mootools-core.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?012ea0e5c76b8d4befcc3b1f83098ebf" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});	if(typeof acymailing == 'undefined'){
+					var acymailing = Array();
+				}
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'E-mail';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'The captcha is invalid, please try again';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		
+	</script>
+
+	<!-- Core CSS -->
+	<link href="/templates/chamber/css/bootstrap.min.css" rel="stylesheet"><!--V.3-->
+	<link href="/templates/chamber/css/font-awesome.css" rel="stylesheet"><!--V.4.7-->
+    <link href="/templates/chamber/css/template.css?v4.1" rel="stylesheet">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="home">
+
+	<header>
+	<div class="searchtop" id="searchbar" >
+	<gcse:searchbox-only></gcse:searchbox-only>		
+	</div>
+
+		<div class="col-xs-12 col-sm-5 col-md-5 hdrcol-logo">
+			<a href="/" id="logo"><img src="/templates/chamber/images/logo.svg" alt="Logo MCSA [logo]" class="img-responsive"/></a>
+		</div>
+		<div class="col-xs-12 col-sm-7 col-md-7 hdrcol-utility">
+			<script>
+			  (function() {
+				var cx = '012309046595806964964:h3c2tgvi4ws';
+				var gcse = document.createElement('script');
+				gcse.type = 'text/javascript';
+				gcse.async = true;
+				gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(gcse, s);
+			  })();
+			</script>
+			<ul class="utility-menu">
+			<li class="btn-home"><a href="/"  title="Home">Home</a></li>
+			<li class="btn-contacts"><a href="/contacts" title="Contact us">Contact us</a></li>
+				<li class="btn-covid-19"><a href="/minerals-council-position-on-covid-19" title="Minerals Council position on COVID-19">COVID-19</a></li>
+<li class="btn-b4sa"><a href="/minerals-council-supports-b4sa-initiative" title="Minerals Council supports B4SA">B4SA</a></li>				
+				<!--<li class="btn-utilities"><a data-toggle="modal" data-target="#utilities" title="Toolbar">&nbsp;</a></li>-->
+				<li class="btn-search"><a data-toggle="searchbar" title="Search"><svg  x="0px" y="0px"
+	 width="35px" height="35px" viewBox="0 0 35 35" enable-background="new 0 0 35 35" xml:space="preserve">
+
+	<path fill="#AFAFAF" d="M29.681,28.653l-6.25-6.25c1.55-1.89,2.484-4.309,2.484-6.946c0-6.049-4.91-10.958-10.958-10.958
+		C8.903,4.5,4,9.409,4,15.458c0,6.047,4.903,10.958,10.958,10.958c2.636,0,5.05-0.932,6.939-2.479l6.252,6.245
+		c0.424,0.426,1.108,0.426,1.532,0C30.106,29.762,30.106,29.072,29.681,28.653z M14.958,24.234c-4.844,0-8.781-3.938-8.781-8.777
+		s3.938-8.781,8.781-8.781c4.839,0,8.781,3.942,8.781,8.781S19.797,24.234,14.958,24.234z"/>
+
+</svg></a></li>	
+			</ul>
+			<div class="clearfix"></div>
+		</div>
+		<!--NAV-->
+		<div class="tvtma-megamnu navbar navbar-inverse" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target="#tvtma-megamnu">
+					<span class="sr-only"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<img class="brand" src="/templates/chamber/images/menu.png" alt="MCSA" />                     
+			</div>
+			<div class="nav-collapse collapse" id="tvtma-megamnu">
+				<ul class="nav  navbar-nav">
+<li class="item-124 deeper parent dropdown"><a href="/about" class=" about">About us</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-125"><a href="/about/purpose-and-vision" >Purpose and vision</a></li><li class="item-127"><a href="/about/history" >A brief history</a></li><li class="item-159"><a href="/about/departments" >Minerals Council at work</a></li><li class="item-126"><a href="/about/board-and-office-bearers" >Board and office bearers</a></li><li class="item-128"><a href="/about/members" >Members</a></li></ul></li><li class="item-129 deeper parent dropdown"><a href="/work" class=" work">At work</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-209"><a href="/work/economics" >Economics</a></li><li class="item-132"><a href="/work/employment-relations" >Employment relations</a></li><li class="item-135"><a href="/work/transformation" >Transformation</a></li><li class="item-197"><a href="/work/skills-development" >Skills development</a></li><li class="item-168 deeper parent dropdown"><a href="/work/health-and-safety" >Health and safety</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-324 parent dropdown"><a href="/work/health-and-safety/masoyise-health-programme" >Masoyise Health Programme</a></li><li class="item-352"><a href="http://www.safetyandhealthinmining.co.za/" >Khumbul'ekhaya website</a></li></ul></li><li class="item-133 deeper parent dropdown"><a href="/work/environment" >Environment</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-250"><a href="/work/environment/environmental-resources" >Environmental resources</a></li></ul></li><li class="item-136"><a href="/work/legal-services" >Legal services</a></li><li class="item-158 deeper parent dropdown"><a href="/work/supporting-junior-and-emerging-miners" >Supporting junior and emerging miners</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-318"><a href="/work/supporting-junior-and-emerging-miners/junior-and-emerging-miners-desk-resources" >Junior and Emerging Miners’ Desk resources</a></li></ul></li><li class="item-261"><a href="/work/illegal-mining" >Illegal mining</a></li><li class="item-262"><a href="/work/modernisation" >Modernisation</a></li><li class="item-347"><a href="/work/community" >Community</a></li></ul></li><li class="item-106 deeper parent dropdown"><a href="/sa-mining" class="sa-mining">Mining in SA</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-144"><a href="/sa-mining/coal" >Coal</a></li><li class="item-143"><a href="/sa-mining/platinum" >Platinum</a></li><li class="item-142"><a href="/sa-mining/gold" >Gold</a></li><li class="item-109"><a href="/sa-mining/diamonds" >Diamonds</a></li><li class="item-110"><a href="/sa-mining/industry-links" >Industry links</a></li><li class="item-348 deeper parent dropdown"><a href="/sa-mining/slps" >SLPs</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-350"><a href="/sa-mining/slps/slps-by-province" >SLPs by province</a></li><li class="item-349"><a href="/sa-mining/slps/slps-by-sector" >SLPs by sector</a></li></ul></li></ul></li><li class="item-112 deeper parent dropdown"><a href="/industry-news" class="industry-news">News</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-346"><a href="/industry-news/media-contacts" >Media contacts</a></li><li class="item-113 deeper parent dropdown"><a href="/industry-news/media-releases/2020" class="hide-nav-children">Media releases</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-351"><a href="/industry-news/media-releases/2020" >2020</a></li><li class="item-335"><a href="/industry-news/media-releases/2019" >2019</a></li><li class="item-319"><a href="/industry-news/media-releases/2018" >2018</a></li><li class="item-260"><a href="/industry-news/media-releases/2017" >2017</a></li><li class="item-237"><a href="/industry-news/media-releases/2016" >2016</a></li><li class="item-157"><a href="/industry-news/media-releases/2015" >2015</a></li><li class="item-156"><a href="/industry-news/media-releases/2014" >2014</a></li></ul></li><li class="item-251"><a href="/industry-news/we-care-we-remember" >We care and we remember</a></li><li class="item-114"><a href="/industry-news/event-calendar" >Event calendar</a></li><li class="item-238"><a href="/industry-news/in-the-news" >In the news </a></li><li class="item-115 deeper parent dropdown"><a href="/industry-news/publications" >Publications</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-253"><a href="/special-features/158-membership-compact" >Membership Compact</a></li><li class="item-116"><a href="/industry-news/publications/annual-reports" >Annual reports</a></li><li class="item-118"><a href="/industry-news/publications/fact-sheets" >Fact sheets</a></li><li class="item-119"><a href="/industry-news/publications/facts-and-figures" >Facts and figures</a></li><li class="item-252"><a href="/industry-news/publications/faqs" >FAQs </a></li><li class="item-121"><a href="/industry-news/publications/presentations" >Presentations and speeches</a></li><li class="item-108"><a href="/industry-news/publications/newsletters" >Newsletters</a></li><li class="item-120"><a href="/industry-news/publications/mining-magazine" >Mining CSI Magazine</a></li><li class="item-117"><a href="/industry-news/publications/videos" >Videos</a></li><li class="item-211"><a href="/industry-news/publications/podcasts" >Podcasts</a></li><li class="item-321"><a href="/industry-news/publications/position-papers" >Position papers</a></li><li class="item-354"><a href="/industry-news/publications/other-resources" >Other resources</a></li></ul></li></ul></li><li class="item-207"><a href="/special-features" class="work">In the spotlight</a></li><li class="item-328 deeper parent dropdown"><a href="/tenders-and-careers/open-tenders" >Tenders and careers</a><ul class="nav-child unstyled small dropdown-menu"><li class="item-329"><a href="/tenders-and-careers/open-tenders" >Open tenders</a></li><li class="item-330"><a href="/tenders-and-careers/closed-tenders" >Closed tenders </a></li><li class="item-331"><a href="/tenders-and-careers/awarded-tenders" >Awarded tenders</a></li><li class="item-336"><a href="/tenders-and-careers/vacancies" >Vacancies</a></li><li class="item-337"><a href="/tenders-and-careers/educational-institutions" >Educational institutions</a></li></ul></li><li class="item-356"><a href="/contacts" >Contact us</a></li></ul>
+
+				<div class="clearfix"></div>
+			</div>
+		</div>
+	</header>
+
+	<!--Carousel-->
+	<div id="carousel-home" class="carousel slide" data-ride="carousel">
+		
+		<!--MODULE: home-banner-->
+				<div class="moduletable">
+						
+
+<div class="custom"  >
+	<ol class="carousel-indicators">
+	<li data-target="#carousel-home" data-slide-to="0" class="active"><a> Facts and Figures<br> 2019</a></li>
+	<li data-target="#carousel-home" data-slide-to="1"><a> Minerals Council<br />at Joburg Indaba</a></li>
+	<li data-target="#carousel-home" data-slide-to="2"><a> Masoyise workplace<br /> health virtual seminar</a></li>
+	<li data-target="#carousel-home" data-slide-to="3"><a> National Day of<br /> Women in Mining</a></li>
+	<li data-target="#carousel-home" data-slide-to="4"><a> Minerals Council<br /> supports B4SA</a></li>
+	<li data-target="#carousel-home" data-slide-to="5"><a> Minerals Council<br /> position on COVID-19</a></li>
+</ol>
+<!-- Carousel -->
+<div class="carousel-inner" role="listbox" data-interval="10000">
+	<!--Facts and Figures 2019-->
+    <div class="item active">
+        <div class="row no-gutters b-mainpic banner-hm-ff2019">
+			<div class="b-wrapper">
+				<div class="col-xs-12 col-sm-10 col-md-4 col-lg-4">
+					 <img src="/images/banners/heading-facts-and-figures-2019.svg" class="" alt="Facts and Figures 2019 [icon]" style="width:100%; max-width:440px; margin-bottom:20px;"/>
+				</div>
+				<div class="col-xs-0 col-sm-0 col-md-0 col-lg-2"></div>
+				<div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
+					<div class="b-contentblock bc-red">
+						<div class="row">
+							<div class="col-xs-12 col-sm-12 col-md-12">
+								<h2>MINERALS COUNCIL SOUTH AFRICA PUBLISHES FACTS AND FIGURES 2019</h2>
+								<p class="descriptor">8 October 2020</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-xs-12 col-sm-8 col-md-8">
+								<p class="lead">The Minerals Council South Africa today published Facts and Figures 2019, which provides a comprehensive fact-based reference guide to the South African mining industry.</p>
+								<a class="btn btn-default" href="https://www.mineralscouncil.org.za/industry-news/media-releases/2020/send/60-2020/1251-minerals-council-south-africa-publishes-facts-and-figures-2019" target="_blank">Media Release</a>
+								<a class="btn btn-default" href="https://www.mineralscouncil.org.za/downloads/send/18-current/1250-facts-and-figures-2019" target="_blank">Booklet</a>
+							</div>
+							<div class="col-xs-12 col-sm-4 col-md-4">
+								<a href="https://www.mineralscouncil.org.za/downloads/send/18-current/1250-facts-and-figures-2019" target="_blank">
+									<img src="/images/thumbnails/facts-figures/thumb-facts-and-figures-2019.png" class="img-responsive brdr" alt="Facts and Figures 2019 [icon]" />
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+        </div>
+    </div>
+    <!--Minerals Council at Joburg Indaba-1-->
+    <div class="item">
+        <div class="row no-gutters b-mainpic banner-hm-joburg-indaba-2020">
+            <div class="col-xs-12 col-sm-12 col-md-9 col-lg-7 b-content pull-right">
+                <div class="b-contentblock">
+                    <div class="row">
+                        <h2>Minerals Council at Joburg Indaba</h2>
+                        <h3>7-8 October 2020 <span>ONLINE EDITION</span></h3>
+                        <div class="col-xs-12 col-sm-12 col-md-6 nopad-l">
+                            <p class="lead">Minerals Council President, Mxolisi Mgojo and CEO, Roger Baxter today participated in Joburg Indaba 2020</p>
+                            <p>
+                                <strong>Roger Baxter</strong> participated in a panel discussion titled: What is the outlook for the world economy, commodity markets and the global industry? How should the South African economy and mining
+                                industry be reset?
+                            </p>
+                            <p>In his keynote address <strong>Mxolisi Mgojo</strong> reflected on the mining industry’s response to COVID-19 and the lessons learned.</p>
+                            <a class="btn btn-default" href="/downloads/send/19-latest/1247-health-and-safety-industry-response-to-covid-19" rel="external">Presentation</a>
+                            <a class="btn btn-default" href="/downloads/send/19-latest/1248-keynote-address-by-mxolisi-mgojo-president-of-the-minerals-council-south-africa-at-joburg-indaba-2020" rel="external">Keynote address</a>
+                        </div>
+                        <div class="col-xs-12 col-sm-12 col-md-6 nopad-r">
+                            <div class="row center-block">
+                                <div class="col-xs-8 col-sm-5 col-md-6 nopad-r"><img src="/images/banners/joburg-indaba-speaker-baxter.png" alt="Roger Baxter [photo]" class="img-responsive center" /></div>
+                                <div class="col-xs-8 col-sm-5 col-md-6 nopad-r"><img src="/images/banners/joburg-indaba-speaker-mgojo.png" alt="Mxolisi Mgojo [photo]" class="img-responsive center" /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Masoyise-->
+    <div class="item">
+        <div class="row no-gutters b-mainpic banner-hm-masoyise-hp-seminar">
+            <div class="col-xs-12 col-sm-12 col-md-9 col-lg-7 b-content pull-right">
+                <div class="b-contentblock bc-green">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <h3 class="ib">Upcoming event: Masoyise workplace health virtual seminar</h3>
+                            <p class="lead">Fighting the unrecognised pandemic: Reprioritising TB, HIV and NCDs in the era of COVID-19</p>
+                            <p>
+                                The Masoyise Health Programme is a multi-stakeholder initiative led by the Minerals Council to reduce the impact of TB, HIV, occupational lung diseases and non-communicable diseases as occupational health
+                                threats in the mining sector.<br />
+                                Join Minerals Council South Africa in discussion with Minister of Health, Dr Zweli Mkhize and experts from UNAIDS, ILO and the WHO as they share solutions to resolve this problem.
+                            </p>
+                            <p><a href="https://zoom.us/meeting/register/tJMlcu-sqzIjHdBHtcnG5-sM8XC2sW75oolt" target="blank">Register to attend</a> the seminar on 15 October 2020 at 11:00 – 14:00 CAT</p>
+                            <h5>Speakers include:</h5>
+                            <div class="row sml-90">
+                                <div class="col-xs-12 col-sm-12 col-md-6 nopad-l">
+                                    <p><strong>Dr Zweli Mkhize:</strong> Minister of Health, South Africa</p>
+                                    <p><strong>Dr Shannon Hader:</strong> Deputy Executive Director UNAIDS</p>
+                                    <p><strong>Dr Owen Kaluwa:</strong> WHO Representative to South Africa</p>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6">
+                                    <p><strong>Ms Zanele Matlala:</strong> Vice President Minerals Council South Africa and Masoyise Health Programme Chair</p>
+                                    <p><strong>Ms Alette van Leur:</strong> Director Sectoral Policies Department, ILO</p>
+                                </div>
+                            </div>
+                            <a class="btn btn-default" href="/special-features/1163-masoyise-workplace-health-virtual-seminar" rel="external" title="Masoyise workplace health virtual seminar page">Read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--National Day of Women in Mining-->
+    <div class="item">
+        <div class="row no-gutters b-mainpic banner-hm-nd-women-mining-2020">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6 hero-block"></div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 b-content">
+                <div class="b-contentblock ndwim2020 bc-yellow">
+                    <div class="row mrg-b2">
+                        <div class="col-xs-12 col-sm-6 col-md-6 brdr-r"><img src="/images/logo-mcsa-h.svg" alt="Logo Minerals Council SA [logo]" class="img-responsive" /></div>
+                        <div class="col-xs-12 col-sm-6 col-md-6"><img src="/images/logo-ndwim.svg" alt="National Day of Women in Mining [logo]" class="img-responsive" /></div>
+                    </div>
+                    <p class="lead">
+                        The Minerals Council South Africa launched the first National Day of Women in Mining highlighting its focus on the implementation of initiatives designed to achieve stretch targets for the representation and
+                        advancement of women in the South African mining industry.
+                    </p>
+                    <a class="btn btn-default" href="/industry-news/media-releases/2020/send/60-2020/1215-minerals-council-south-africa-launches-first-national-day-of-women-in-mining" rel="external">Media Release</a>
+                    <a class="btn btn-default" href="/downloads/send/19-latest/1214-women-in-mining-strategy" rel="external">Presentation</a>
+                    <a class="btn btn-default" type="button" data-toggle="modal" data-target="#wimvideo" rel="external">Video</a>
+                    <a class="btn btn-default" href="/special-features/1139-national-day-of-women-in-mining-2020" rel="external">Read more</a>
+                    <!--<a class="btn btn-default" href="#" rel="external">Infographic</a>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--B4SA-->
+    <div class="item">
+        <div class="row no-gutters b-mainpic banner-hm-b4sa">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-6 hero-block"></div>
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6 b-content">
+                <div class="b-contentblock bc-red">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <h3 class="ib">MINERALS COUNCIL SUPPORTS <span>B4SA INITIATIVE</span> TO REVITALISE SA ECONOMY AND MINING POST COVID-19</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <p>
+                                The Minerals Council South Africa supports the accelerated economic strategy developed under the auspices of B4SA aimed at achieving much higher levels of inclusive economic growth to recover from the
+                                COVID-19 crisis, and the economic crisis that preceded it.
+                            </p>
+                            <a class="btn btn-default" href="/minerals-council-supports-b4sa-initiative" rel="external" title="B4SA initiative page">Read more</a>
+                            <hr />
+                            <div class="hilite">
+                                <h6>For more information in the Minerals Council position on COVID-19, visit our dedicated <a href="/minerals-council-position-on-covid-19" rel="external">COVID-19 portal</a></h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--COVID-19--Red only!!-->
+    <div class="item">
+        <div class="row no-gutters b-mainpic covid19">
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
+				<img src="/images/banners/hm-bnr-logo-covid-19.png" class="img-responsive logo-covid" alt="COVID-19 [logo]" />
+			</div>
+            <div class="col-sm-12 col-md-6 col-lg-4 b-content">
+                <div class="b-contentblock">
+                    <p class="lead">The Minerals Council recognises that the accessibility of information and transparency is critical.</p>
+                    <p class="lead">
+                        The industry’s approach to reporting on incidents of COVID-19 is aligned to the requirements of the DoH in the first instance, while keeping the DMRE, the MHSC and organised labour informed at all times.
+                    </p>
+                    <div class="hilite">
+                        <h5>For more information, visit our <a href="/minerals-council-position-on-covid-19">COVID-19 portal</a></h5>
+                    </div>
+                    <hr />
+                    <div class="sagov-covid">
+                        <h5>For further information on COVID-19, please visit <a href="http://www.sacoronavirus.co.za" target="_blank" rel="noopener">www.sacoronavirus.co.za</a></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--Modal Video ND Women in Mining-->
+<div id="wimvideo" class="video-modal flex-video modal" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/PKPC2UapE4U"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen="allowfullscreen"
+                    data-youtube-id="PKPC2UapE4U"
+                ></iframe>
+            </div>
+            <div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div>
+        </div>
+    </div>
+</div>
+<!--Modal Video Method 1-->
+<!--
+<div id="RogerInterview" class="video-modal flex-video modal" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/XXXX" frameborder="0" allowfullscreen="allowfullscreen" data-youtube-id="XXXX"></iframe>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div> -->
+<!--Modal Video Method 2-->
+<!--
+<div id="womenabuse" class="video-modal flex-video modal" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/XXXX" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" data-youtube-id="XXXX"></iframe>
+			</div>
+
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div> -->
+</div>
+		</div>
+	
+
+
+          <!-- Controls -->
+          <a class="left carousel-control" href="#carousel-home" role="button" data-slide="prev">
+            <span class="" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-home" role="button" data-slide="next">
+            <span class="" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+      
+    </div><!--carousel-home-->
+	
+	<!--Modal popup-->
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<!--<div id="Modal1" class="video-modal modal fade" role="dialog">
+	<div class="modal-dialog">
+		<!-- Modal content--> <!--<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+				<h4 class="modal-title">Minerals Council South Africa - Facts and Figures 2017 publication</h4>
+			</div>
+			<div class="modal-body">
+				<div class="videowrapper">
+					<iframe width="auto" height="auto" src="https://www.youtube.com/embed/qzOng8sEXVE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>-->
+<div id="Modal1" class="video-modal modal fade" role="dialog">
+<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button>
+<h4 class="modal-title">Minerals Council South Africa: Impact of Planned Carbon Tax</h4>
+</div>
+<div class="modal-body">
+<div class="videowrapper"><!--<iframe width="auto" height="auto" src="https://www.youtube.com/embed/qzOng8sEXVE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe>--> 
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/TshUlf4sZ4Y" data-youtube-id="TshUlf4sZ4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div>
+</div>
+</div>
+</div></div>
+		</div>
+	
+
+	
+	<!--Latest News-->
+	<section class="latest-news">
+		<!--<a class="btn btn-default grn1 aside" href="/industry-news/media-releases/2018" style="z-index:1">ALL NEWS</a>-->
+		<!--<a class="btn btn-default grn1 aside ba2" href="/subscribe" style="z-index:1" title="Register for Alerts">REGISTER FOR ALERTS</a>-->
+		<div class="container">
+			<div class="row">
+				<div class="news-list col-xs-12 col-sm-4 col-md-4"><h2>LATEST NEWS</h2>
+                
+                		<div class="moduletable">
+						<div class="row"><div class="col-xs-12"><h6>Minerals Council South Africa publishes Facts and Figures 2019 </h6><span class="descriptor">October 08, 2020</span><p style="margin-bottom: 1rem"><a class="btn btn-default grn1" href="/component/jdownloads/send/60-2020/1251-minerals-council-south-africa-publishes-facts-and-figures-2019">READ MORE</a></p></div><div class="col-xs-12"><h6>Masoyise Health Programme calls for reprioritisation of pre-existing occupational health threats in the era of COVID-19 </h6><span class="descriptor">October 07, 2020</span><p style="margin-bottom: 1rem"><a class="btn btn-default grn1" href="/component/jdownloads/send/60-2020/1249-masoyise-health-programme-calls-for-reprioritisation-of-pre-existing-occupational-health-threats-in-the-era-of-covid-19">READ MORE</a></p></div><div class="col-xs-12"><h6>Minerals Council welcomes President Ramaphosa’s call to rebuild South African economy </h6><span class="descriptor">September 18, 2020</span><p style="margin-bottom: 1rem"><a class="btn btn-default grn1" href="/component/jdownloads/send/60-2020/1241-minerals-council-welcomes-president-ramaphosa-s-call-to-rebuild-south-african-economy">READ MORE</a></p></div></div>		</div>
+	
+        
+                </div>
+								<div class="facebook-list col-xs-12 col-sm-6 col-md-4">
+					<h2 class="facebook">FACEBOOK</h2>
+                    		<div class="moduletable">
+						
+
+<div class="custom"  >
+	 
+<p class="go-social">Like us <a href="https://www.facebook.com/Mine">@Mine</a></p>
+<ul class="widget feed">
+<li><a href="https://www.bizcommunity.com/Article/196/864/209214.html"><p><time>1 days ago</time> Bizcommunity: Reprioritising existing occupational health threats in a time of Covid-19
+
+https://www...</p></a></li><li><a href="https://www.news24.com/citypress/voices/covid-19-a-chance-for-mining-to-be-innovative-20201009"><p><time>3 days ago</time> City Press: Covid-19: A chance for mining to be innovative 
+https://www.news24.com/citypress/voices/...</p></a></li><li><a href="https://africanminingmarket.com/masoyise-health-programme-calls-for-reprioritisation-of-preexisting-occupational-health-threats-in-the-era-of-covid-19/8244/"><p><time>6 days ago</time> African Mining Market: Masoyise Health Programme calls for reprioritisation of preexisting occupatio...</p></a></li><li><a href="https://www.miningreview.com/health-and-safety/a-call-to-reprioritize-pre-existing-occupational-health-threats/"><p><time>6 days ago</time> Mining Review Africa: A call to reprioritize pre-existing occupational health threats
+
+https://www.m...</p></a></li></ul>
+
+ 
+</div>
+		</div>
+	
+					
+				</div>
+                      
+                <div class="tweets-list col-xs-12 col-sm-6 col-md-4">
+					<h2 class="twitter">TWITTER</h2>
+                    		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p class="go-social">Follow us <a href="https://twitter.com/@Mine_RSA">@Mine_RSA</a></p>
+<ul class="widget feed">
+<li><a href="https://twitter.com/mine_rsa/status/1316344662974750720">
+<p><time datetime="Wed Oct 14 11:46:38 +0000 2020">Oct 14</time>
+Some insight into the Masoyise Health Programme Seminar scheduled to take place tomorrow, 15 October.<br />
+<br />
+Join the Mas… <span class="handle">https://t.co/Y5o1ZUiy5l</span></p>
+<small><span>0 retweets</span> <span>0  likes</span></small>
+</a>
+</li>
+<li><a href="https://twitter.com/mine_rsa/status/1316272527870550022">
+<p><time datetime="Wed Oct 14 07:00:00 +0000 2020">Oct 14</time>
+Register here to join the Masoyise Health Programme virtual seminar: <span class="handle">https://t.co/S9JOCkPvJR</span> <br />
+#YourHealthMatters… <span class="handle">https://t.co/ihF1KgyyBb</span></p>
+<small><span>0 retweets</span> <span>0  likes</span></small>
+</a>
+</li>
+<li><a href="https://twitter.com/mine_rsa/status/1315940339237126144">
+<p><time datetime="Tue Oct 13 09:00:00 +0000 2020">Oct 13</time>
+Join the Masoyise Health Programme seminar, register here: <span class="handle">https://t.co/S9JOCkxUSj</span><br />
+#YourHealthMatters… <span class="handle">https://t.co/6GNUkcTaD0</span></p>
+<small><span>0 retweets</span> <span>0  likes</span></small>
+</a>
+</li>
+
+</ul>
+
+</div>
+		</div>
+	
+					
+				</div>
+			 </div>
+			
+        </div>
+	</section>	
+	
+	<!--Register-->
+	<section class="register">
+    	<div class="container">  
+			<div class="row">
+				<div class="col-md-4">            
+					<h2>REGISTER FOR ALERTS</h2>
+				</div>  
+				<div class="col-md-8">  
+							<div class="moduletable">
+						<div class="acymailing_module" id="acymailing_module_formAcymailing44613">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing44613"  >
+		<form id="formAcymailing44613" action="/" onsubmit="return submitacymailingform('optin','formAcymailing44613')" method="post" name="formAcymailing44613"  >
+		<div class="acymailing_module_form" >
+			<div class="acymailing_introtext">Enter your details to register for alerts:</div>
+            <div class="acymailing_form row">
+					<div class="col-md-4 no-gutters onefield fieldacyname" id="field_name_formAcymailing44613">							<span class="acyfield_name acy_requiredField"><input id="user_name_formAcymailing44613"  onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" style="width:auto" value="Name" title="Name"/></span>
+							</div><div class="col-md-4 no-gutters onefield fieldacyemail" id="field_email_formAcymailing44613">							<span class="acyfield_email acy_requiredField"><input id="user_email_formAcymailing44613"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:auto" value="E-mail" title="E-mail" /></span>
+							</div>
+					
+					<div class="col-md-4 acysubbuttons">
+						                        <button class="button subbutton btn secondary" type="submit" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing44613'); }catch(err){alert('The form could not be submitted '+err);return false;}">Subscribe</button>
+						                        <button class="button unsubbutton btn secondary" type="button" name="Submit" onclick="return submitacymailingform('optout','formAcymailing44613')">Unsubscribe</button>
+											</div>
+				</div>
+						<input type="hidden" name="ajax" value="1"/>
+			<input type="hidden" name="acy_source" value="module_283" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing44613" />
+						<input type="hidden" name="Itemid" value="206"/>			</div>
+		</form>
+	</div>
+	</div>
+		</div>
+	
+				</div>
+			</div>
+		</div>
+	</section>   
+	
+	<!--Adverts-->
+	 
+	
+	<!--Our websites-->
+	<section class="our-websites">
+		<div class="container">
+					<div class="moduletable">
+						
+
+<div class="custom"  >
+	<h2>Our Websites</h2>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4>Northern Cape<br />Mining Community</h4>
+<a href="http://www.northerncapeminingcommunity.co.za/" rel="external"><img src="/images/our-websites/our-websites-ncmc.png" alt="Northern Cape Mining Community [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.northerncapeminingcommunity.co.za/" rel="external">www.northerncapeminingcommunity.co.za</a></div>
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4>Safety &amp; Health<br />in Mining 2020</h4>
+<a href="http://www.safetyandhealthinmining.co.za/" rel="external"><img src="/images/our-websites/thumb-screenshot-khumbulekhaya.jpg" alt="Khumbul'ekhaya [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.safetyandhealthinmining.co.za/" rel="external">www.safetyandhealthinmining.co.za</a></div>
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4><br />Coal Mining Matters</h4>
+<a href="http://www.coalminingmatters.co.za/"><img src="/images/our-websites/our-websites-cmm.png" alt="Coal Mining Matters [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.coalminingmatters.co.za/" rel="external">www.coalminingmatters.co.za</a></div>
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4><br />Mining for Schools</h4>
+<a href="http://www.miningforschools.co.za/"><img src="/images/our-websites/our-websites-mfs.png" alt="Mining for Schools [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.miningforschools.co.za" rel="external">www.miningforschools.co.za</a></div>
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4><br />MOSH</h4>
+<a href="http://www.mosh.co.za/"><img src="/images/our-websites/our-websites-mosh.png" alt="Mosh [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.mosh.co.za/" rel="external">www.mosh.co.za</a></div>
+<div class="col-xs-12 col-sm-6 col-md-4 webblock">
+<h4><br />Mine2030</h4>
+<a href="http://www.mine2030.co.za/"><img src="/images/our-websites/our-websites-mine2030.png" alt="Mine2030 [icon]" class="img-responsive" /></a> <a class="btn btn-default grn2" href="http://www.mine2030.co.za" rel="external">www.mine2030.co.za</a></div>
+</div></div>
+		</div>
+			
+        </div>
+	</section>
+	
+	<!--Our videos-->
+	<section class="connect">
+		<div class="container">
+			<div class="row">
+				<h2>OUR VIDEOS</h2>
+				<div class="col-xs-12 col-sm-12 col-md-12 connectbox yt">
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="row">
+
+<div class="col-xs-4 col-sm-6 col-md-4"><a href="https://www.youtube.com/watch?v=PKPC2UapE4U" rel="external"><img style="border: 1px solid #cccccc"src="https://i.ytimg.com/vi/PKPC2UapE4U/mqdefault.jpg" alt="Messages of support from the Women in Mining Leadership Forum [thumbnail]" class="img-responsive" /></a>
+<p><a href="https://www.youtube.com/watch?v=PKPC2UapE4U">Messages of support from the Women in Mining Leadership Forum</a></p>
+</div>
+ 
+ 
+    
+<div class="col-xs-4 col-sm-6 col-md-4"><a href="https://www.youtube.com/watch?v=exJnz3mKQz4" rel="external"><img style="border: 1px solid #cccccc"src="https://i.ytimg.com/vi/exJnz3mKQz4/mqdefault.jpg" alt="Khumbul’ekhaya: Stay safe and healthy, at home and at work [thumbnail]" class="img-responsive" /></a>
+<p><a href="https://www.youtube.com/watch?v=exJnz3mKQz4">Khumbul’ekhaya: Stay safe and healthy, at home and at work</a></p>
+</div>
+ 
+ 
+    
+<div class="col-xs-4 col-sm-6 col-md-4"><a href="https://www.youtube.com/watch?v=5v3LXTfVlQc" rel="external"><img style="border: 1px solid #cccccc"src="https://i.ytimg.com/vi/5v3LXTfVlQc/mqdefault.jpg" alt="CEO video — National Day of Health and Safety in Mining 2020 [thumbnail]" class="img-responsive" /></a>
+<p><a href="https://www.youtube.com/watch?v=5v3LXTfVlQc">CEO video — National Day of Health and Safety in Mining 2020</a></p>
+</div>
+ 
+ 
+    </div>   
+</div>
+		</div>
+	
+				</div>
+			</div>
+        </div>
+	</section>	
+	
+	<!--Our Markets-->
+	<section class="our-markets">
+		<div class="container">
+			<div class="row">
+				<h2>OUR MARKETS</h2>
+						<div class="moduletable">
+						
+
+<div class="custom"  >
+	
+
+				<div class="col-xs-12 col-sm-4 col-md-4 zarprice">
+					<h3>ZAR/USD <span>16.54</span></h3>
+					<p class="descriptor">Updated on 14 Oct 2020 at 17:00:00</p>
+				</div>
+				<div class="markets">
+					<ul>
+						<li>
+							<p><span class="commodity">GOLD</span>
+								<span class="currency">US$</span>
+								<span class="value">1903.00</span>
+								<span class="measure">/oz</span>
+								<span class="movement  m-up">+ 0.60%</span>
+							</p>
+						</li>
+						<li>
+							<p><span class="commodity">SILVER</span>
+								<span class="currency">US$</span>
+								<span class="value">24.31</span>
+								<span class="measure">/oz</span>
+								<span class="movement m-up">+ 0.77%</span>
+							</p>
+						</li>
+						<li>
+							<p><span class="commodity">PLATINUM</span>
+								<span class="currency">US$</span>
+								<span class="value">854.00</span>
+								<span class="measure">/oz</span>
+								<span class="movement m-down">&#8211; 0.81%</span>
+							</p>
+						</li>
+						<li>
+							<p><span class="commodity">PALLADIUM</span>
+								<span class="currency">US$</span>
+								<span class="value">2243.00</span>
+								<span class="measure">/oz</span>
+								<span class="movement m-up">+ 1.36%</span>
+							</p>
+							<br/>
+							<p style="font-size:1em;"><time>Updated on Oct 14, 2020 at 13:58pm</time></p>
+						</li>
+						
+						<li>
+							<p>SOUTH AFRICAN EXPORT COAL MONTHLY AVERAGE PRICE</p>
+							<p><span class="commodity">&nbsp;</span>
+								<span class="currency">US$</span>
+								<span class="value">56.6</span>
+								<span class="measure">/metric ton</span>
+								<span class="movement m-down">&#8211; 0.37%</span>
+							</p>
+							<p style="font-size:1em;"><time>As at Jul 01, 2020</time></p>
+						</li>
+					</ul>
+				</div></div>
+		</div>
+	
+			</div>
+        </div>
+	</section>
+	
+    <!--We care-->
+			
+
+	
+	<!-- Utilities Modal Popup Box-->
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div id="utilities" class="modal fade" role="dialog">
+<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-content">
+<div class="modal-body"><button type="button" class="close" data-dismiss="modal">×</button>
+<div class="row"><!--COB-->
+<div class="col-xs-6 col-sm-6 col-md-3 utilcol">
+<div class="cob">
+<h1>MINERALS COUNCIL OFFICE BEARERS</h1>
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img src="/templates/chamber/images/council-m-mgojo.jpg" alt="Office bearer [photo]" class="img-responsive" />
+<p>President: <strong>Mxolisi Mgojo</strong></p>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img src="/templates/chamber/images/council-n-froneman.jpg" alt="Office bearer [photo]" class="img-responsive" />
+<p>Vice President: <strong>Neal Froneman</strong></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img src="/images/council-z-matlala.jpg" alt="Office bearer [photo]" class="img-responsive" />
+<p>Vice President: <strong>Zanele Matlala</strong></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img src="/templates/chamber/images/council-s-phiri.jpg" alt="Office bearer [photo]" class="img-responsive" />
+<p>Vice President: <strong>Steve Phiri</strong></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img src="/templates/chamber/images/council-a-sangqu.jpg" alt="Office bearer [photo]" class="img-responsive" />
+<p>Vice President: <strong>Andile Sangqu</strong></p>
+</div>
+</div>
+<!--row--></div>
+<!--cob--></div>
+<!--utilcol--> <!--Websites-->
+<div class="col-xs-6 col-sm-6 col-md-2 utilcol">
+<div class="websites">
+<h1>Websites</h1>
+<div class="row">
+<div class="center-block">
+<h4><a href="http://www.safetyandhealthinmining.co.za/" rel="external">National Day of Safety &amp; Health in Mining</a></h4>
+<a href="http://www.safetyandhealthinmining.co.za/" rel="external"><img src="/images/our-websites/our-websites-safetyhealthday18.png" alt="Safety &amp; Health in Mining [icon]" class="img-responsive" /></a></div>
+<!--<div class="center-block">
+									<h4><a href="http://www.notourcharter.co.za/" rel="external">#NotOurCharter</a></h4>
+									<a href="http://www.notourcharter.co.za/" rel="external"><img src="/images/our-websites/our-websites-noc.png" alt="Not Our Charter [icon]" class="img-responsive" /></a>
+								</div>-->
+<div class="center-block">
+<h4><a href="http://www.miningforschools.co.za/" rel="external">Mining for Schools</a></h4>
+<a href="http://www.miningforschools.co.za/" rel="external"><img src="/images/our-websites/our-websites-mfs.png" alt="Mining for Schools [icon]" class="img-responsive" /></a></div>
+<div class="center-block">
+<h4><a href="http://www.mosh.co.za/" rel="external">MOSH</a></h4>
+<a href="http://www.mosh.co.za/" rel="external"><img src="/images/our-websites/our-websites-mosh.png" alt="Mosh [icon]" class="img-responsive" /></a></div>
+<div class="center-block">
+<h4><a href="http://www.mine2030.co.za/" rel="external">Mine2030</a></h4>
+<a href="http://www.mine2030.co.za/" rel="external"><img src="/images/our-websites/our-websites-mine2030.png" alt="Mine2030 [icon]" class="img-responsive" /></a></div>
+<div class="center-block">
+<h4><a href="http://www.beyondtheminegate.co.za/" rel="external">Beyond the Mine Gate</a></h4>
+<a href="http://www.beyondtheminegate.co.za/" rel="external"><img src="/images/our-websites/our-websites-beyond.png" alt="Beyond the Mine Gate [icon]" class="img-responsive" /></a></div>
+</div>
+<!--row--></div>
+<!--websites--></div>
+<!--utilcol--> <!--Membership-->
+<div class="col-xs-6 col-sm-6 col-md-4 utilcol">
+<div class="membership">
+<h1 class="membership">Membership</h1>
+<!--<img src="/templates/chamber/images/util-chart-minerals-council.png" alt="Minerals council [chart]" class="img-responsive"/>-->
+<div class="row members"><img src="/images/mcsa-member-diagram-2020.png" alt="Membership [chart]" class="img-responsive nobrdr" /></div>
+<a href="/about/members"><button class="btn btn-default">MORE</button></a></div>
+<br />
+<div class="register">
+<h1>Register</h1>
+<p>Enter your details in order to register</p>
+<!--AcyMailing Register Module-->		<div class="moduletable">
+						<div class="acymailing_module" id="acymailing_module_formAcymailing37842">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing37842"  >
+		<form id="formAcymailing37842" action="/" onsubmit="return submitacymailingform('optin','formAcymailing37842')" method="post" name="formAcymailing37842"  >
+		<div class="acymailing_module_form" >
+			
+            <div class="acymailing_form row">
+					<div class="col-md-4 no-gutters onefield fieldacyname" id="field_name_formAcymailing37842">							<span class="acyfield_name acy_requiredField"><input id="user_name_formAcymailing37842"  onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" style="width:80%" value="Name" title="Name"/></span>
+							</div><div class="col-md-4 no-gutters onefield fieldacyemail" id="field_email_formAcymailing37842">							<span class="acyfield_email acy_requiredField"><input id="user_email_formAcymailing37842"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:80%" value="E-mail" title="E-mail" /></span>
+							</div>
+					
+					<div class="col-md-4 acysubbuttons">
+						                        <button class="button subbutton btn secondary" type="submit" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing37842'); }catch(err){alert('The form could not be submitted '+err);return false;}">Subscribe</button>
+						                        <button class="button unsubbutton btn secondary" type="button" name="Submit" onclick="return submitacymailingform('optout','formAcymailing37842')">Unsubscribe</button>
+											</div>
+				</div>
+						<input type="hidden" name="ajax" value="1"/>
+			<input type="hidden" name="acy_source" value="module_130" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing37842" />
+						<input type="hidden" name="Itemid" value="206"/>			</div>
+		</form>
+	</div>
+	</div>
+		</div>
+	 <!--Jdoc code for root index.php file--> <!--
+ 						<jdoc:include type="modules" name="newsletter-subscribe" style="none" /> --></div>
+</div>
+<!--utilcol--> <!--Tip-offs-->
+<div class="col-xs-6 col-sm-6 col-md-3 utilcol">
+<div class="tipoffs">
+<h1>Tip-offs</h1>
+<h6>DELOITTE TIP-OFFS ANONYMOUS HOTLINE</h6>
+<p><strong>Free call:</strong> 0800 022 007<br /> <strong>Email:</strong> <br /><span id="cloak0384159af24122e44ec6a41159ef6ad1">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak0384159af24122e44ec6a41159ef6ad1').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy0384159af24122e44ec6a41159ef6ad1 = 'm&#105;n&#101;r&#97;lsc&#111;&#117;nc&#105;l' + '&#64;';
+				addy0384159af24122e44ec6a41159ef6ad1 = addy0384159af24122e44ec6a41159ef6ad1 + 't&#105;p-&#111;ffs' + '&#46;' + 'c&#111;m';
+				var addy_text0384159af24122e44ec6a41159ef6ad1 = 'm&#105;n&#101;r&#97;lsc&#111;&#117;nc&#105;l' + '&#64;' + 't&#105;p-&#111;ffs' + '&#46;' + 'c&#111;m';document.getElementById('cloak0384159af24122e44ec6a41159ef6ad1').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy0384159af24122e44ec6a41159ef6ad1 + '\' rel="external">'+addy_text0384159af24122e44ec6a41159ef6ad1+'<\/a>';
+		</script><br /> <strong>Free fax:</strong> 0800 00 77 88</p>
+<a href="/contacts"><button class="btn btn-default">MORE</button></a></div>
+<div class="contact">
+<h1>Contact</h1>
+<h6>Minerals Council South Africa</h6>
+<p><strong>Telephone:</strong> +27 11 498 7100<br /> <strong>Email:</strong> <span id="cloaka7ac1ddb549b680b902c9820c2e5ebbd">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloaka7ac1ddb549b680b902c9820c2e5ebbd').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addya7ac1ddb549b680b902c9820c2e5ebbd = '&#105;nf&#111;' + '&#64;';
+				addya7ac1ddb549b680b902c9820c2e5ebbd = addya7ac1ddb549b680b902c9820c2e5ebbd + 'm&#105;n&#101;r&#97;lsc&#111;&#117;nc&#105;l' + '&#46;' + '&#111;rg' + '&#46;' + 'z&#97;';
+				var addy_texta7ac1ddb549b680b902c9820c2e5ebbd = '&#105;nf&#111;' + '&#64;' + 'm&#105;n&#101;r&#97;lsc&#111;&#117;nc&#105;l' + '&#46;' + '&#111;rg' + '&#46;' + 'z&#97;';document.getElementById('cloaka7ac1ddb549b680b902c9820c2e5ebbd').innerHTML += '<a ' + path + '\'' + prefix + ':' + addya7ac1ddb549b680b902c9820c2e5ebbd + '\'>'+addy_texta7ac1ddb549b680b902c9820c2e5ebbd+'<\/a>';
+		</script><br /> <strong>Fax:</strong> +27 11 834 1884</p>
+<p><strong>Address:</strong><br /> 5 Hollard Street, Johannesburg<br /> PO Box 61809, Marshalltown 2107</p>
+<p class="text-center"><a href="https://goo.gl/maps/ky5yod7qjBM2" rel="external"><img src="/templates/chamber/images/util-contact-map.png" alt="Map [map]" class="img-responsive" /></a></p>
+</div>
+</div>
+<!--utilcol--></div>
+<!--row--></div>
+<!--modal-body-->
+<div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div>
+</div>
+<!--modal-content--></div>
+<!--modal-dialog--></div>
+<!--utilities--></div>
+		</div>
+	
+	
+				
+	<!--Footer-->
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 nopad-l">
+					<div class="row">
+								<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="col-xs-6 col-sm-6 col-md-3 ftrcol">
+<h4>About us</h4>
+<ul>
+<li class="item-125"><a href="/about/purpose-and-vision">Purpose and vision</a></li>
+<li class="item-127"><a href="/about/history">A brief history</a></li>
+<li class="item-159"><a href="/about/departments">Minerals Council at work</a></li>
+<li class="item-126"><a href="/about/board-and-office-bearers">Board and office bearers</a></li>
+<li class="item-128"><a href="/about/members">Members</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 ftrcol">
+<h4>At work</h4>
+<ul>
+<li class="item-132"><a href="/work/economics">Economics</a></li>
+<li class="item-132"><a href="/work/employment-relations">Employment relations</a></li>
+<li class="item-135"><a href="/work/transformation">Transformation</a></li>
+<li class="item-197"><a href="/work/skills-development">Skills development</a></li>
+<li class="item-168"><a href="/work/health-and-safety">Health and safety</a></li>
+<li class="item-133"><a href="/work/environment">Environment</a>
+<ul>
+<li class="item-133"><a href="/work/environment/environmental-resources">Environmental resources</a></li>
+</ul>
+</li>
+<li class="item-136"><a href="/work/legal-services">Legal services</a></li>
+<li class="item-158"><a href="/work/supporting-junior-and-emerging-miners">Supporting junior and emerging miners</a>
+<ul>
+<li class="item-158"><a href="/work/supporting-junior-and-emerging-miners/emd-resources">Junior and Emerging Miners’ Desk resources</a></li>
+</ul>
+</li>
+<li class="item-136"><a href="/work/illegal-mining">Illegal mining</a></li>
+<li class="item-136"><a href="/work/modernisation">Modernisation</a></li>
+<li class="item-136"><a href="/work/community">Community</a></li>
+</ul>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 ftrcol">
+<h4>Mining in SA</h4>
+<ul>
+<li class="item-144"><a href="/sa-mining/coal">Coal</a></li>
+<li class="item-143"><a href="/sa-mining/platinum">Platinum</a></li>
+<li class="item-142"><a href="/sa-mining/gold">Gold</a></li>
+<li class="item-109"><a href="/sa-mining/diamonds">Diamonds</a></li>
+<li class="item-110"><a href="/sa-mining/industry-links">Industry links</a></li>
+<li class="item-110"><a href="/sa-mining/slps">SLPs</a>
+<ul>
+<li class="item-110"><a href="/sa-mining/slps/slps-by-province">SLPs by province</a></li>
+<li class="item-110"><a href="/sa-mining/slps/slps-by-sector">SLPs by sector</a></li>
+</ul>
+</li>
+<!--<li class="item-111"><a href="/careers/vacancies">Careers in mining</a></li>--></ul>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 ftrcol">
+<h4>News</h4>
+<ul>
+<li class="item-113 deeper parent"><a href="/industry-news/media-contacts">Media contacts</a></li>
+<li class="item-113 deeper parent"><a href="/industry-news/media-releases/2019">Media releases</a></li>
+<!--<li class="item-207"><a href="/special-features">Special features</a></li>-->
+<li class="item-207"><a href="/industry-news/we-care-we-remember">We care and we remember</a></li>
+<li class="item-114"><a href="/industry-news/event-calendar">Event calendar</a></li>
+<li class="item-207"><a href="/industry-news">In the industry-news</a></li>
+<li class="item-115 deeper parent"><a href="/industry-news/publications">Publications</a>
+<ul class="nav-child unstyled small">
+<li class="item-116"><a href="/special-features/158-membership-compact">Membership Compact</a></li>
+<li class="item-116"><a href="/industry-news/publications/annual-reports">Annual reports</a></li>
+<li class="item-118"><a href="/industry-news/publications/fact-sheets">Fact sheets</a></li>
+<li class="item-119"><a href="/industry-news/publications/facts-and-figures">Facts and figures</a></li>
+<li class="item-119"><a href="/industry-news/publications/faqs">Faqs</a></li>
+<li class="item-121"><a href="/industry-news/publications/presentations">Presentations and speeches</a></li>
+<li class="item-108"><a href="/industry-news/publications/newsletters">Newsletters</a></li>
+<li class="item-122"><a href="/industry-news/publications/mining-magazine">Mining csi magazine</a></li>
+<li class="item-117"><a href="/industry-news/publications/videos">Videos</a></li>
+<li class="item-211"><a href="/industry-news/publications/podcasts">Podcasts</a></li>
+<li class="item-211"><a href="/industry-news/publications/position-papers">Position papers</a></li>
+<li class="item-211"><a href="/industry-news/publications/other-resources">Other resources</a></li>
+</ul>
+</li>
+</ul>
+</div></div>
+		</div>
+	
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 ftrcol">
+					<h4>CONNECT WITH US</h4>
+					<ul id="footer-social">
+						<li class="fs-facebook"><a href="https://www.facebook.com/Mine" target="_blank" >&nbsp;</a></li>
+						<li class="fs-twitter"><a href="https://twitter.com/Mine_RSA" target="_blank" >&nbsp;</a></li>
+						<li class="fs-youtube"><a href="https://www.youtube.com/channel/UCHV5sIyo_u1j4ScPyWgon2Q" target="_blank" >&nbsp;</a></li>
+						<li class="fs-linkedin"><a href="https://www.linkedin.com/company/18226767" target="_blank" >&nbsp;</a></li>
+					</ul>
+					<div class="clearfix"></div>
+					<ul id="footer-ico">
+						<!--<li class="fi-register"><a href="/subscribe">Register for alerts</a></li>-->
+						<li class="fi-directory"><a href="/contacts">Minerals Council Directory</a></li>
+					
+					</ul>
+										<div class="row ftr-register">
+						<h4>REGISTER FOR ALERTS</h4>
+								<div class="moduletable">
+						<div class="acymailing_module" id="acymailing_module_formAcymailing45361">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing45361"  >
+		<form id="formAcymailing45361" action="/" onsubmit="return submitacymailingform('optin','formAcymailing45361')" method="post" name="formAcymailing45361"  >
+		<div class="acymailing_module_form" >
+			<div class="acymailing_introtext">Enter your details to register for alerts.</div>			<table class="acymailing_form">
+				<tr>
+												<td class="acyfield_name acy_requiredField">
+								<input id="user_name_formAcymailing45361"  onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" class="inputbox" type="text" name="user[name]" style="width:auto" value="Name" title="Name"/>
+							</td> </tr><tr>							<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing45361"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:auto" value="E-mail" title="E-mail"/>
+							</td> </tr><tr>
+					
+					<td  class="acysubbuttons">
+						                        <button class="button subbutton btn btn-primary secondary" type="submit" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing45361'); }catch(err){alert('The form could not be submitted '+err);return false;}">Subscribe</button> 
+                        
+                        
+						                        <button class="button unsubbutton  btn btn-default secondary" type="button" name="Submit" onclick="return submitacymailingform('optout','formAcymailing45361')">Unsubscribe</button>
+											</td>
+				</tr>
+			</table>
+						<input type="hidden" name="ajax" value="1" />
+			<input type="hidden" name="acy_source" value="module_274" />
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.mineralscouncil.org.za%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing45361" />
+						<input type="hidden" name="Itemid" value="206"/>			</div>
+		</form>
+	</div>
+	</div>
+		</div>
+	
+					</div>
+									</div>
+            </div>
+		</div>
+        </div>
+        <div id="footer-legal" class="footer-divider">
+          <div class="container">	  
+              <div class="row">
+                  <div class="col-md-12 nopad">
+                      <div class="row">
+                          		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-3 footer-policy-menu nopad">
+<div class="row">
+<div class="col-xs-3 col-sm-4 col-md-4 nopad-l">
+<p><a href="/downloads/send/25-downloads/719-paia-2019">PAIA</a></p>
+</div>
+<div class="col-xs-3 col-sm-4 col-md-4 nopad-l">
+<p><a href="/privacy">Privacy</a></p>
+</div>
+<div class="col-xs-3 col-sm-4 col-md-4 nopad-l">
+<p><a href="/disclaimer">Disclaimer</a></p>
+</div>
+</div>
+</div>
+<div class="col-xs-0 col-sm-0 col-md-4 nopad"></div>
+<div class="col-xs-12 col-sm-6 col-md-4 nopad">
+<div class="row">
+<p class="copyright-style">© Copyright Minerals Council South Africa 2020</p>
+</div>
+</div>
+</div></div>
+		</div>
+	
+                      </div>
+                  </div>
+             </div>
+          </div>
+		</div>   
+	</footer>
+	
+	<!--- We Care Modal -->
+	
+	
+	
+	<!-- Intro Video Modal-->
+    
+
+	
+
+
+  <script src="/templates/chamber/js/jquery-2.1.3.min.js"></script>
+  <script src="/templates/chamber-home/js/ui/jquery-ui.min.js"></script>
+
+  <script src="/templates/chamber/js/bootstrap.min.js"></script>  
+  <script src="/templates/chamber/js/modernizr-2.6.2.min.js"></script>
+  <script src="/templates/chamber/js/css3-mediaqueries.js"></script>
+
+  <script src="/templates/chamber/js/picturefill.min.js"></script>
+	<script src="/templates/chamber/js/roadmap/jquery.roadmap.min.js"></script>  
+	<script src="/templates/chamber/js/main.js"></script>
+
+
+	
+	 
+
+   
+	<!-- Intro Video Modal Script-->
+	 
+
+
+  
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1797095683"></script>
+</body>
+</html>

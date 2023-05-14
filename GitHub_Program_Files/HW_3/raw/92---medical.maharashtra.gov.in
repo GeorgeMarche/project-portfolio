@@ -1,0 +1,733 @@
+
+<!DOCTYPE html>
+<html id="Html" lang="mr-IN" xml:lang="mr-IN">
+<head id="Head1" lang="mr-IN"><title>
+	वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग
+</title><link rel="icon" href="../Images/favicon.ico" type="image/x-icon" />
+    <!--[if IE]> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="cache-control" content="no-cache, no store" /><meta http-equiv="cache-control" content="private" /><meta http-equiv="cache-control" content="must-revalidate" /><meta http-equiv="cache-control" content="post-check=0" /><meta http-equiv="cache-control" content="pre-check=0" /><meta http-equiv="pragma" content="no-cache" />
+     <![endif]-->
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="../styles/bootstrap.min.css" rel="stylesheet" type="text/css" /><link id="MyStyleSheet" href="../styles/Layout.css" rel="stylesheet" type="text/css" /><link id="CultureSheet" href="../Styles/LayoutMR.css" rel="stylesheet" type="text/css" /><link href="../styles/animate.css" rel="stylesheet" type="text/css" /><link href="../Styles/font-awesome.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="../styles/news-ticker/modern-ticker.css" /><link href="../Styles/nivo-lightbox.css" rel="stylesheet" /><link href="../Styles/nivo-lightbox-theme/default/default.css" rel="stylesheet" /><link href="../Styles/owl.carousel.css" rel="stylesheet" media="screen" /><link href="../Styles/owl.theme.css" rel="stylesheet" media="screen" />
+<meta name="description" content="वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग, आपले स्वागत करीत आहेत" /><meta name="keywords" content="वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग" /></head>
+<body onload="burstCache(); noBack();">
+    <form method="post" action="./Home" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+google.load('elements', '1', {packages: 'transliteration'}); //]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="99FDA82D" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="f6VZO2qaJex1abKHnhINXgnkAh4eH5mtWMSjFy4yBHrvw09FVAD+HsWu6fpZAfO5qRncRn90Uq7H8LoDeyw9YUXObvyylzDQidDvhgorLZHewYrM9pZrnktpWZELXXvf6nxXld6EaM073BxVSsFVJBoDXC4aHISmeJ4WTwwpHoMiwt0CsLM9CGo0KvRGmsR9Pzma7K2nkduyb5cTTbxShec3gUMnO7WGDCzvcrpommHH8LGzHBApUl3O7uqBGR4JJaWbZOlBiJtvHJaINL+JeE72szB6/hsEznJwRjHUEzxwMN4UVy8Ef3y+jsOsjojNhcsvDD/RinpR8GB1oBlTZ5MpAnpRTeGEGE6/dJURV9o=" />
+    
+    
+    <div id="divnew" class="medium">
+        <div id="HeaderMain1_topLinks">
+    <div id="defaultMenu">
+        <nav class="navbar-default" role="navigation" id="Navigation">
+            <div class="container navigation">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                            class="icon-bar"></span><span class="icon-bar"></span>
+                    </button>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="searchBox ">
+                                <div id="HeaderMain1_Panel1">
+	
+                                    <label id="HeaderMain1_lblSearchBTN" class="btnDisplay" for="HeaderMain1_searchTxtBox">शोधा</label>
+                                    
+                                    <input name="ctl00$HeaderMain1$searchTxtBox" type="text" value="येथे शोधा" maxlength="15" id="HeaderMain1_searchTxtBox" class="searchBG" onkeypress="return IsAlphaNumeric(event);" ondrop="return false;" onpaste="return false;" onclick="this.value = ( this.value == this.defaultValue ) ? &#39;&#39; : this.value;return true;" autocomplete="off" />
+                                    <input type="submit" name="ctl00$HeaderMain1$Search_btn" value="शोधा" id="HeaderMain1_Search_btn" class="searchBTN" />
+                                    <div class="clearfix">
+                                    </div>
+                                
+</div>
+                            </div>
+                            <ul class="other_links">
+                                
+                                        <li class="m_hide">
+                                            <input type="submit" name="ctl00$HeaderMain1$HeadLoginView$btnlogin" value="लॉग इन" id="HeaderMain1_HeadLoginView_btnlogin" class="btnResizer" /></li>
+                                    
+                                <li class="m_hide"><a href="#Navigation">
+                                    <span id="HeaderMain1_lbl_skipToNav">दिशादर्शकाकडे जा</span></a></li>
+                                <li class="m_hide"><a href="#Content">
+                                    <span id="HeaderMain1_lbl_skipToContent">विषयाकडे जा</span></a></li>
+                                
+
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Smallest" value="अ--" id="HeaderMain1_SetCulture1_btn_Smallest" title="अधिक लहान फॉंट" class="btnResizer" /></li>
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Small" value="अ-" id="HeaderMain1_SetCulture1_btn_Small" title="लहान फॉंट" class="btnResizer" /></li>
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Medium" value="अ" id="HeaderMain1_SetCulture1_btn_Medium" title="मध्यम फॉंट" class="btnResizer" /></li>
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Large" value="अ+" id="HeaderMain1_SetCulture1_btn_Large" title="मोठा फॉंट" class="btnResizer" /></li>
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Larger" value="अ++" id="HeaderMain1_SetCulture1_btn_Larger" title="अधिक मोठा फॉंट" class="btnResizer" /></li>
+<li class="m_hide" style="background:none !important"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btnAWhite" value="अ" id="HeaderMain1_SetCulture1_btnAWhite" title="सौम्य दृश्य" class="btnWhite" /></li>
+<li class="m_hide"><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btnABlack" value="अ" id="HeaderMain1_SetCulture1_btnABlack" title="प्रखर दृश्य" class="btnBlack" /></li>
+<li><input type="submit" name="ctl00$HeaderMain1$SetCulture1$btn_Language" value="English" id="HeaderMain1_SetCulture1_btn_Language" class="btnResizer " /></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="navbar-brand">
+                        <span class="wow fadeInLeft animated" data-wow-delay="0.2s">
+                        <a href="../../1154/Home">
+                          <img src="../../Images/MEDD-Logo.png" alt="MEDD Logo" class="pull-left greyscale medd-logo wow fadeInLeft animated"
+                              data-wow-delay="0.3s" /></a> <a href="https://www.maharashtra.gov.in/" target="_blank">
+                        </a>
+                            <span id="HeaderMain1_lblheading">वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग</span></span> <a href="https://india.gov.in/"
+                                target="_blank">
+                                <img src="../../Images/emblem.png" alt="Emblem" class="pull-right greyscale emblem wow fadeInLeft animated"
+                                    data-wow-delay="0.3s" /></a> <a href="https://www.maharashtra.gov.in/" target="_blank">
+                                        <img src="../../Images/maharashtralogo.png" alt="Government of Maharashtra" class="pull-right mah-logo greyscale wow fadeInLeft animated" /></a>
+                    </div>
+                </div>
+                
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div id="HeaderMain1_menu_smoothmenu1"><ul class="nav navbar-nav">
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1154/Home">मुख्यपृष्ठ</a>
+  </li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">आमच्याविषयी<span class="caret"></span></a>
+    <ul class="dropdown-menu" role="menu">
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1109/Introduction">परिचय</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1110/Mission-and-Vision">उद्दिष्टय आणि ध्येय</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1111/Values">मूल्ये</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1112/Functions-and-Objective">कार्यप्रणाली व ध्येय</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1113/Organisation-Structure-and-Chart">संघटनात्मक तक्ता</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1119/Subject-List">विषय सूची</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1114/Awards-and-Achievements">पुरस्कार आणि साध्य</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1104/Schemes-and-Programs">योजना आणि कार्यक्रम</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1129/Budget">अर्थसंकल्प</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1130/Department-Contact-Details">विभागाची संपर्क माहिती</a>
+      </li>
+    </ul>
+  </li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">विभाग<span class="caret"></span></a>
+    <ul class="dropdown-menu" role="menu">
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1131/AYUSH">आयुष, संचालनालय</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1132/DMER">डि. एम. ई. आर.</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1133/Food-and-Drug-Administration">अन्न व औषध प्रशासन</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1122/Haffkine-Bio-Pharma">हाफकीन महामंडळ</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1123/MUHS">महाराष्ट्र आरोग्य विज्ञान विद्यापीठ</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1134/Councils">परिषद</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1138/Maharashtra-Institute-of-Mental-Health">महाराष्ट्र मानसिक आरोग्य्‍ा संस्था</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1121/Haffkine-Training-Institute">हाफकीन संस्था</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1105/Hospitals-and-Medical-Colleges">रुग्णालय व वैद्यकीय महाविद्यालये</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1107/Multimedia">मल्टिमिडीया</a>
+  </li>
+  <li class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="#">दस्तऐवज<span class="caret"></span></a>
+    <ul class="dropdown-menu" role="menu">
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1125/Government-Resolutions?Doctype=51c8964e-cef8-4617-8eff-6e5b06bcfe7a">शासन निर्णय </a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1149/Notification?Doctype=54dd5b96-7e22-4db0-a2aa-0a2a8631bf15">सूचना</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1150/News-Letter-and-Publication?Doctype=dc9207f1-80d3-43c7-9035-a9226a705007">बातम्या पत्र आणि प्रकाशन</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1151/Downloads?Doctype=c9ed8f33-10b6-4fae-99b8-c769de03ffc0">डाउनलोड</a>
+      </li>
+      <li>
+        <a href="https://medical.maharashtra.gov.in:443/1152/Acts-and-Rules?Doctype=2f5db53a-8e0b-425a-9c27-25cc29521f52">कायदे आणि नियम</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1120/Locate-College-and-Hospitals">रुग्णालय आणि महाविद्यालय शोधा</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1108/Contact-Us">संपर्क</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1136/Tenders">निविदा</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1156/COVID-19">कोविड १९ <img src="../../Images/gif_new.gif" /></a>
+  </li>
+</ul></div>
+</div>
+
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+    </div>
+</div>
+<div class="clear">
+</div>
+<a class="btnDisplay" href="#" name="Content">
+    <span id="HeaderMain1_lbl_contents"></span></a> 
+        <div id="startchange">
+        </div>
+        <img src="../../Images/banner1.jpg" alt="" width="100%" class="greyscale">
+        <div id="PlaceHolderControl1_PContent"><div class="welcome-note wow bounceInUp animated">
+<h1>वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग, आपले स्वागत करीत आहेत.</h1>
+
+<p>महाराष्ट्र राज्य वैद्यकशास्त्र व त्यावरील संशोधन आणि अन्न व औषध या संदर्भातील कायदयाचे प्रशासन व विनियमन करणारे वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग हा विभाग आहे.</p>
+<a class="btn btn-ghost mtop15" href="https://medical.maharashtra.gov.in:443/1109/Introduction">अधिक वाचा <i aria-hidden="true" class="fa fa-angle-right"> </i></a></div>
+</div>
+        <div class=" container">
+            
+   
+    
+
+            <div class="clear">
+            </div>
+        </div>
+        <div class="content-block-one home-section" id="boxes">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                        <div class="wow fadeInRight animated" data-wow-duration="2s" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-duration: 2s; animation-delay: 0.2s; animation-name: fadeInLeft">
+                            <div id="carousel-example-generic" class="carousel slide greyscale" data-ride="carousel">
+                                <ol class='carousel-indicators'><li data-target='#carousel-example-generic' data-slide-to='0' class='active'></li><li data-target='#carousel-example-generic' data-slide-to='1'></li><li data-target='#carousel-example-generic' data-slide-to='2'></li></ol><div class='carousel-inner'> <div class='item active'><img  src='../../PublicApp/STD/ViewFile.ashx?ID=96' alt='' class='active' /><div class='carousel-caption'><h2>Banner 1</h2><p></p></div></div><div class='item'><img src='../../PublicApp/STD/ViewFile.ashx?ID=97' alt='' /><div class='carousel-caption'><h2>Banner2</h2><p></p></div></div><div class='item'><img src='../../PublicApp/STD/ViewFile.ashx?ID=98' alt='' /><div class='carousel-caption'><h2>Banner3</h2><p></p></div></div></div>
+    
+
+   
+                                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span></a><a class="right carousel-control"
+                                        href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
+                                        </span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                        <div>
+                            <div class="form-wrapper">
+                                
+
+<div class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s">
+                                    <div class="panel panel-skin keyperson">
+                                        <div class="panel-heading">
+                                            <h3 class="panel-title" >
+                                                <span class="fa fa-user"></span><label id="KeyPerson_panelheading">मान्यवर</label></h3>
+                                        </div>
+                                        <div class="panel-body">
+                                            
+                                            <ul><li><img  src=/Publicapp/Std/ViewFile.ashx?ID=100 alt='माननीय सचिव''><span>श्री. सौरभ विजय<br><small>माननीय सचिव</small></span></li></ul>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="latestNewsTicker">
+            <div class="container">
+                <div id="Div1">
+                    <div class="active" id="layout1">
+                        <div class="ticker1 modern-ticker mticker-round mticker-scroll">
+                            
+
+ <div class="mticker-label" style="width: 105px;">
+                                <span id="lblLatestNews"><i class="fa fa-file-text"></i><label id="PdfControl_panelheading">ताज्या घडामोडी</label></span>
+                            </div>
+                            <div class="mticker-controls">
+                                <div class="mticker-prev">
+                                </div>
+                                <div class="mticker-play mticker-pause">
+                                </div>
+                                <div class="mticker-next">
+                                </div>
+                            </div>
+<div class='mticker-news' style='width: 0px;'><ul style='margin-left: -321px;'><li><a class='ExternalLink' target='_blank' href=''>New Web Portal Launch      </a></li></ul></div> 
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="PlaceHolderControl2_PContent"><div class="content-space-one greyscale">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="department well well-trans wow fadeInUp" data-wow-delay="0.2s">
+<h2>विभाग</h2>
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/ayush.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1131/AYUSH">आयुष, संचालनालय</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.2s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/DMER.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1132/DMER" target="_blank">डि. एम. ई. आर.</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/food.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1133/Food-and-Drug-Administration">अन्न व औषध प्रशासन</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.4s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/haffkine-bio.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1122/Haffkine-Bio-Pharma">हाफकीन महामंडळ</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/MUHS.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1123/MUHS">महाराष्ट्र आरोग्य विज्ञान विद्यापीठ</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.2s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/medical-councils.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1134/Medical-Councils">परिषद</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.2s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/MIMH.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1138/Maharashtra-Institute-of-Mental-Health">महाराष्ट्र मानसिक आरोग्य्&zwj;ा संस्था</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span> <img alt="" src="../../Images/haffkine-training.jpg" /> </span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1121/Haffkine-Training-Institute">हाफकीन संस्था</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-8 col-md-8 pull-right">
+<div class="well well-trans citizen wow fadeInUp" data-wow-delay="0.2s">
+<h2>नागरिक कॉर्नर</h2>
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-exclamation-circle fa-3x"></span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1137/Right-to-Information">माहितीचा अधिकार</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.2s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-cog fa-3x"></span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1139/Right-to-Service">सेवा अधिकार</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-comment-o fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Information/feedback.aspx">अभिप्राय</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-download fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=c9ed8f33-10b6-4fae-99b8-c769de03ffc0">डाउनलोड</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-gavel fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=2f5db53a-8e0b-425a-9c27-25cc29521f52">नियम व अटी</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.2s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-university fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=51c8964e-cef8-4617-8eff-6e5b06bcfe7a">शासन निर्णय</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-exclamation-triangle fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=54dd5b96-7e22-4db0-a2aa-0a2a8631bf15">सूचना</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-question-circle fa-3x"></span></div>
+
+<div class="service-desc"><a href="#">नेहमीचे प्रश्न</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-gavel fa-3x"></span></div>
+
+<div class="service-desc"><a href="https://medical.maharashtra.gov.in:443/1135/Online-Application">ऑनलाईन अर्ज</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-file-text-o fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=d7769d9d-2d53-49d0-a34f-d967268fa922">नागरिकांची सनद</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-file-text fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewPdfList.aspx?Doctype=dc9207f1-80d3-43c7-9035-a9226a705007">वृत्तपत्र व प्रकाशन</a></div>
+</div>
+</div>
+
+<div class="wow fadeInRight" data-wow-delay="0.3s">
+<div class="service-box">
+<div class="service-icon"><span class="fa fa-user fa-3x"></span></div>
+
+<div class="service-desc"><a href="../../Site/Common/ViewAdvertisement.aspx">रोजगार</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="well well-trans citizen wow fadeInUp" data-wow-delay="0.2s">
+<h2>महत्वाचे दुवे</h2>
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="link-icon"><img alt="" src="../../site/upload/images/myGov.png" /></div>
+
+<div class="service-desc"><a href="https://mygov.in/" target="_blank">माझे सरकार</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="link-icon"><img alt="" src="../../site/upload/images/aaple-sarkar.png" /></div>
+
+<div class="service-desc"><a href="https://aaplesarkar.maharashtra.gov.in/" target="_blank">आपले सरकार</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4">
+<div class="wow fadeInRight" data-wow-delay="0.1s">
+<div class="service-box">
+<div class="link-icon"><img alt="" src="../../site/upload/images/uid.png" /></div>
+
+<div class="service-desc"><a href="https://aadhaar.maharashtra.gov.in/" target="_blank">यू.आय.डी.</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+        <div class="content-block-one greyscale">
+            <div id="facilities">
+                
+
+                <div class="container marginbot-50">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="wow fadeInDown" data-wow-delay="0.1s">
+                                <div class="section-heading text-center">
+                                    <h2 id="PhotoGallery_heading" class="h-bold">फोटो गॅलरी</h2>
+                                </div>
+                            </div>
+                            <div class="divider-short">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="wow bounceInUp" data-wow-delay="0.2s">
+                                <div id="owl-works2" class="owl-carousel">
+                                   <div class='item'><a href='../../Site/Upload/Images/Anatomy_Lab.jpg' title='Anatomy Lab' data-lightbox-gallery='gallery1' data-lightbox-hidpi='../../Site/Upload/Images/Anatomy_Lab.jpg'> <img src='../../Site/Upload/Images/Anatomy_Lab.jpg' class='img-responsive' alt='img'></a></div><div class='item'><a href='../../Site/Upload/Images/AUDITORIUM.jpg' title='Auditorium' data-lightbox-gallery='gallery1' data-lightbox-hidpi='../../Site/Upload/Images/AUDITORIUM.jpg'> <img src='../../Site/Upload/Images/AUDITORIUM.jpg' class='img-responsive' alt='img'></a></div><div class='item'><a href='../../Site/Upload/Images/CAD_CAM_UNIT.jpg' title='CAD CAM Unit' data-lightbox-gallery='gallery1' data-lightbox-hidpi='../../Site/Upload/Images/CAD_CAM_UNIT.jpg'> <img src='../../Site/Upload/Images/CAD_CAM_UNIT.jpg' class='img-responsive' alt='img'></a></div><div class='item'><a href='../../Site/Upload/Images/CBCT.jpg' title='CBCT' data-lightbox-gallery='gallery1' data-lightbox-hidpi='../../Site/Upload/Images/CBCT.jpg'> <img src='../../Site/Upload/Images/CBCT.jpg' class='img-responsive' alt='img'></a></div><div class='item'><a href='../../Site/Upload/Images/Anatomy_Lab.jpg' title='medical' data-lightbox-gallery='gallery1' data-lightbox-hidpi='../../Site/Upload/Images/Anatomy_Lab.jpg'> <img src='../../Site/Upload/Images/Anatomy_Lab.jpg' class='img-responsive' alt='img'></a></div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+ 
+            </div>
+        </div>
+        
+
+<footer>
+  
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7 col-md-7 col-lg-7">
+                    <div class="wow fadeInLeft" data-wow-delay="0.1s">
+                        <div id="FooterMenu1_Footermenu1" class="textWidget"><ul class="bottomLink">
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1051/Disclaimer-and-Policies">धोरणे आणि अस्वीकार</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/site/Information/sitemap.aspx">साईटमॅप <img src="../../Images/gif_new.gif" /></a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1054/Help">मदत</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/Site/information/feedback.aspx">अभिप्राय <img src="../../Images/gif_new.gif" /></a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1099/Terms-and-Condition">अटी आणि शर्ती</a>
+  </li>
+  <li>
+    <a href="https://medical.maharashtra.gov.in:443/1148/Useful-Links"> उपयुक्त दुवे</a>
+  </li>
+</ul></div>
+                        <span id="FooterMenu1_lbl_copyright" class="copy-right">© वैद्यकीय शिक्षण व औषधी द्रव्ये विभाग, महाराष्ट्र, भारत यांचे हे अधिकृत संकेतस्थळ आहे. सर्व अधिकार सुरक्षित.</span>
+                    </div>
+                </div>
+                <div class="col-sm-5 col-md-5 col-lg-5 text-right">
+                    <div class="wow fadeInRight" data-wow-delay="0.1s">
+                     
+                                        
+                                        
+                                        
+                                         <a class="ExternalLinkClick" href="https://www.mahaonline.gov.in/Molweb/Site/Home/Index.aspx"
+                                            title="Maharashtra Online" target="_blank">
+                                            <img src="../Images/mahaonline-logo.png" id="FooterMenu1_imgMahaOnline_alt" width="122" height="29" alt="महाराष्ट्र ऑनलाईन" /></a>
+                        <div class="clearfix">
+                        </div><div class="lastReviewed">
+                        <span id="FooterMenu1_LastReviewedDate1_lblReviewDate1">शेवटचे पुनरावलोकन:</span>
+<span id="FooterMenu1_LastReviewedDate1_lblReviewDate">२९-१२-२०१६</span>
+ |
+                        <span id="FooterMenu1_visitorcount1_lblTotalVisitHeading">एकूण दर्शक:</span>&nbsp;<span id="FooterMenu1_visitorcount1_lblCounter">१४८२२५</span>
+    |
+    <span id="FooterMenu1_visitorcount1_lblTodayVisitHeading">आजचे दर्शक:</span>&nbsp;<span id="FooterMenu1_visitorcount1_lbltodayCount">१७८</span>
+
+</div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+  
+</footer>
+
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+function OnLoad_HeaderMain1_searchTxtBox() {TTB_Options_HeaderMain1_searchTxtBox = {sourceLanguage:google.elements.transliteration.LanguageCode.ENGLISH,destinationLanguage:[google.elements.transliteration.LanguageCode.MARATHI],shortcutKey: 'ctrl+g',transliterationEnabled: true }; TTB_Control_HeaderMain1_searchTxtBox = new google.elements.transliteration.TransliterationControl(TTB_Options_HeaderMain1_searchTxtBox);TTB_Control_HeaderMain1_searchTxtBox.makeTransliteratable(['HeaderMain1_searchTxtBox']); document.getElementById('HeaderMain1_searchTxtBox').title='Press Ctrl+G to Toggle Transliteration';  } google.setOnLoadCallback(OnLoad_HeaderMain1_searchTxtBox); //]]>
+</script>
+</form>
+    <form id="MOLMenu" action="../../Handler/STD/OpenMenu.aspx" enctype="multipart/form-data">
+    <input type="hidden" id="MID" name="MID" />
+    </form>
+    <script src="../../Scripts/jquery-1.11.0.min.js" type="text/javascript"></script>
+    <!--[if IE]>
+        <script type="text/javascript" src="../../Scripts/respond.min.js"></script>
+        <script type="text/javascript" src="../../Scripts/html5shiv.js"></script>
+    <![endif]-->
+    <script src="../../Scripts/bootstrap.min.js" type="text/javascript"></script>
+    <script src="../../Scripts/jquery.easing.min.js"></script>
+    <script src="../../Scripts/wow.min.js"></script>
+    <script src="../../Scripts/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../../js/jquery.flexisel.js"></script>
+        <script src="../../Scripts/news-ticker/jquery-1.js" type="text/javascript"></script>
+    <script src="../../Scripts/news-ticker/jquery.modern-ticker.min.js" type="text/javascript"></script>
+    <script src="../../Scripts/news-ticker/preview.js" type="text/javascript"></script>
+    <script src="../../Scripts/nivo-lightbox.min.js"></script>
+    <script src="../../Scripts/owl.carousel.js"></script>
+    <script src="../../Scripts/custom.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var strMsg = "External website that opens in a new window.";
+            if ($("#HeaderMain1_SetCulture1_btn_Language")[0].value == "English") {
+                strMsg = "नवीन विंडोमध्ये उघडणारे बाह्य संकेतस्थळ.";
+            }
+            else {
+                strMsg = "External website that opens in a new window.";
+            }
+            $(".ExternalLinkClick").click(function () {
+                alert(strMsg);
+            });
+        }); 
+    </script>
+    <script type="text/javascript">
+        function burstCache() {
+            if (!navigator.onLine) {
+                document.body.innerHTML = 'Loading...';
+                window.location = 'ErrorPage.html';
+            }
+        }
+        window.history.forward();
+        function noBack() { window.history.forward(); }
+    </script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            //News Ticker-----------------------------------------------
+            $(".ticker1").modernTicker({ effect: "scroll", scrollInterval: 20, transitionTime: 500, autoplay: true });
+            $(".mticker-play a").click(function () {
+                $(this).find("i").toggleClass("fa-pause");
+
+            });
+
+            //Owl Caraousel-----------------------------------------------
+
+            //Sort random function
+            function random(owlSelector) {
+                owlSelector.children().sort(function () {
+                    return Math.round(Math.random()) - 0.5;
+                }).each(function () {
+                    $(this).appendTo(owlSelector);
+                });
+            }
+
+            $("#owl-works2").owlCarousel({
+                navigation: true,
+                navigationText: [
+                  "<i class='fa fa-angle-left sliderIcon'></i>",
+                  "<i class='fa fa-angle-right sliderIcon'></i>"
+                  ],
+                beforeInit: function (elem) {
+
+                    random(elem);
+                }
+
+            });
+
+            $('.owl-carousel').owlCarousel({
+                autoplay: true,
+                autoplayTimeout: 5000,
+                navigation: true,
+                margin: 10,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 2
+                    },
+                    1000: {
+                        items: 3
+                    }
+                }
+            });
+
+            //Sticky Header-----------------------------------------------
+
+            var scroll_start = 0;
+            var startchange = $('#startchange');
+            var offset = startchange.offset();
+            if (startchange.length) {
+                $(document).scroll(function () {
+                    scroll_start = $(this).scrollTop();
+                    if (scroll_start > offset.top) {
+                        $(".navbar-default").addClass('stickyHeader');
+                    } else {
+                        $('.navbar-default').removeClass('stickyHeader');
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

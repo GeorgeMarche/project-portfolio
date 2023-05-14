@@ -1,0 +1,789 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Local Covid-19 Resources - El Paso Business Strong</title>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.epbusinessstrong.org/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="es_MX" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Local Covid-19 Resources - El Paso Business Strong" />
+<meta property="og:description" content="We are El Paso Business Strong It’s been a year unlike any other. Our economy has been put to the test. But El Pasoans and our businesses are strong. Welcome to a community of businesses committed to surviving together. How to reduce the risk for my employees and customers It’s impossible to create an environment [&hellip;]" />
+<meta property="og:url" content="https://www.epbusinessstrong.org/" />
+<meta property="og:site_name" content="El Paso Business Strong" />
+<meta property="article:modified_time" content="2020-10-13T21:20:53+00:00" />
+<meta property="og:image" content="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/banner.jpg" />
+<meta property="og:image:width" content="1400" />
+<meta property="og:image:height" content="588" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.epbusinessstrong.org/#website","url":"https://www.epbusinessstrong.org/","name":"El Paso Business Strong","description":"Local COVID-19 Resources","potentialAction":[{"@type":"SearchAction","target":"https://www.epbusinessstrong.org/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.epbusinessstrong.org/#primaryimage","inLanguage":"en-US","url":"https://www.epbusinessstrong.org/wp-content/uploads/2020/09/banner.jpg","width":1400,"height":588},{"@type":"WebPage","@id":"https://www.epbusinessstrong.org/#webpage","url":"https://www.epbusinessstrong.org/","name":"Local Covid-19 Resources - El Paso Business Strong","isPartOf":{"@id":"https://www.epbusinessstrong.org/#website"},"primaryImageOfPage":{"@id":"https://www.epbusinessstrong.org/#primaryimage"},"datePublished":"2020-09-09T06:56:03+00:00","dateModified":"2020-10-13T21:20:53+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.epbusinessstrong.org/"]}]}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="El Paso Business Strong &raquo; Feed" href="https://www.epbusinessstrong.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="El Paso Business Strong &raquo; Comments Feed" href="https://www.epbusinessstrong.org/comments/feed/" />
+
+
+
+
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.epbusinessstrong.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.epbusinessstrong.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.epbusinessstrong.org/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.epbusinessstrong.org/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchlite-css' href='https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/style-curvy-blue.css?ver=4.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-12-css' href='https://www.epbusinessstrong.org/wp-content/uploads/elementor/css/post-12.css?ver=1602278570' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://www.epbusinessstrong.org/wp-content/uploads/elementor/css/global.css?ver=1602278571' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-112-css' href='https://www.epbusinessstrong.org/wp-content/uploads/elementor/css/post-112.css?ver=1602624058' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-114-css' href='https://www.epbusinessstrong.org/wp-content/uploads/elementor/css/post-114.css?ver=1602278571' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-120-css' href='https://www.epbusinessstrong.org/wp-content/uploads/elementor/css/post-120.css?ver=1602278571' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.epbusinessstrong.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='bodhi_svg_inline-js-extra'>
+/* <![CDATA[ */
+var cssTarget = {"Bodhi":"img.style-svg","ForceInlineSVG":"style-svg"};
+var ForceInlineSVGActive = "true";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0' id='bodhi_svg_inline-js'></script>
+<link rel="https://api.w.org/" href="https://www.epbusinessstrong.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.epbusinessstrong.org/wp-json/wp/v2/pages/112" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.epbusinessstrong.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.epbusinessstrong.org/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.epbusinessstrong.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.epbusinessstrong.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.epbusinessstrong.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.epbusinessstrong.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.epbusinessstrong.org%2F&#038;format=xml" />
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178961814-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-178961814-1');
+</script>
+
+
+<meta name="google-site-verification" content="tFxHP_GjpHn0DS2ELK3I7VEQ0cRlVnw6WFfcLhBtNb8" />
+
+<link rel="alternate" href="https://www.epbusinessstrong.org/" hreflang="en" />
+<link rel="alternate" href="https://www.epbusinessstrong.org/es/" hreflang="es" />
+<link rel="preload" as="font" href="https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2" crossorigin> <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: none;
+            }
+            
+                div.asl_r.asl_w.vertical .results .item::after {
+                    display: block;
+                    position: absolute;
+                    bottom: 0;
+                    content: '';
+                    height: 1px;
+                    width: 100%;
+                    background: #D8D8D8;
+                }
+                div.asl_r.asl_w.vertical .results .item.asp_last_item::after {
+                    display: none;
+                }
+                                    -->
+                </style>
+<script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+<link rel="icon" href="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/cropped-favicon-270x270.png" />
+</head>
+<body class="home page-template page-template-elementor_header_footer page page-id-112 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-12 elementor-page elementor-page-112">
+<div data-elementor-type="header" data-elementor-id="114" class="elementor elementor-114 elementor-location-header" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6260d58d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6260d58d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7fc0f45a" data-id="7fc0f45a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9fe6083 plsfe-mobile-align-center elementor-widget__width-auto plsfe-layout-horizontal elementor-widget elementor-widget-polylang-language-switcher" data-id="9fe6083" data-element_type="widget" data-widget_type="polylang-language-switcher.default">
+<div class="elementor-widget-container">
+<nav class="plsfe-switcher"><ul class="plsfe-menu"><li class="plsfe-menu-item"><a href="https://www.epbusinessstrong.org/" class="plsfe-item plsfe-item__active"><span class="plsfe-language-name">English</span></a></li><li class="plsfe-menu-item"><a href="https://www.epbusinessstrong.org/es/" class="plsfe-item"><span class="plsfe-language-name">Español</span></a></li></ul></nav> </div>
+</div>
+<div class="elementor-element elementor-element-68f434a1 elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="68f434a1" data-element_type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-square elementor-repeater-item-7f2f42d" href="https://www.facebook.com/epbizstrong" target="_blank">
+<span class="elementor-screen-only">Facebook-square</span>
+<i class="fab fa-facebook-square"></i> </a>
+</div>
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-fe5e3cd" href="https://twitter.com/epbizstrong" target="_blank">
+<span class="elementor-screen-only">Twitter</span>
+<i class="fab fa-twitter"></i> </a>
+</div>
+<div class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-d2578aa" href="https://www.instagram.com/epbizstrong" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-46b6a392" data-id="46b6a392" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-66786e2 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66786e2" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-660ec19" data-id="660ec19" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-434ce9e9 elementor-widget__width-auto elementor-mobile-align-center elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="434ce9e9" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="http://eepurl.com/haEXHH" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Newsletter Signup</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2708ff1" data-id="2708ff1" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-6824098 elementor-widget elementor-widget-shortcode" data-id="6824098" data-element_type="widget" data-widget_type="shortcode.default">
+<div class="elementor-widget-container">
+<div class="elementor-shortcode"><div id='ajaxsearchlite1' class="wpdreams_asl_container asl_w asl_m asl_m_1">
+<div class="probox">
+<div class='promagnifier'>
+<div class='innericon'>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<path id="magnifier-2-icon" d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+                    C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+                    c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+                    c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+                    z" />
+</svg>
+</div>
+</div>
+<div class='prosettings' style='display:none;' data-opened=0>
+<div class='innericon'>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<polygon id="arrow-25-icon" transform="rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 " />
+</svg>
+</div>
+</div>
+<div class='proinput'>
+<form autocomplete="off" aria-label='Ajax search form'>
+<input aria-label='Search input' type='search' class='orig' name='phrase' placeholder='Search here..' value='' autocomplete="off" />
+<input aria-label='Autocomplete input, do not use this' type='text' class='autocomplete' name='phrase' value='' autocomplete="off" />
+<span class='loading'></span>
+<input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+</form>
+</div>
+<div class='proloading'>
+<div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+</div>
+<div class='proclose'>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<polygon id="x-mark-icon" points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 " />
+</svg>
+</div>
+</div>
+</div>
+<div id='ajaxsearchlitesettings1' class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+<form name='options' autocomplete='off'>
+<fieldset class="asl_sett_scroll">
+<legend style="display: none;">Generic selectors</legend>
+<div class="asl_option_inner hiddend">
+<input type='hidden' name='qtranslate_lang' id='qtranslate_lang1' value='0' />
+</div>
+<div class="asl_option_inner hiddend">
+<input type='hidden' name='polylang_lang' value='en' />
+</div>
+<div class="asl_option">
+<div class="asl_option_inner">
+<input type="checkbox" value="checked" id="set_exactonly1" title="Exact matches only" name="set_exactonly" />
+<label for="set_exactonly1">Exact matches only</label>
+</div>
+<div class="asl_option_label">
+Exact matches only </div>
+</div>
+<div class="asl_option">
+<div class="asl_option_inner">
+<input type="checkbox" value="None" id="set_intitle1" title="Search in title" name="set_intitle" checked="checked" />
+<label for="set_intitle1">Search in title</label>
+</div>
+<div class="asl_option_label">
+Search in title </div>
+</div>
+<div class="asl_option">
+<div class="asl_option_inner">
+ <input type="checkbox" value="None" id="set_incontent1" title="Search in content" name="set_incontent" checked="checked" />
+<label for="set_incontent1">Search in content</label>
+</div>
+<div class="asl_option_label">
+Search in content </div>
+</div>
+<div class="asl_option_inner hiddend">
+<input type="checkbox" value="None" id="set_inexcerpt1" title="Search in excerpt" name="set_inexcerpt" checked="checked" />
+<label for="set_inexcerpt1">Search in excerpt</label>
+</div>
+<div class="asl_option">
+<div class="asl_option_inner">
+<input type="checkbox" value="None" id="set_inposts1" title="Search in posts" name="set_inposts" checked="checked" />
+<label for="set_inposts1">Search in posts</label>
+</div>
+<div class="asl_option_label">
+Search in posts </div>
+</div>
+<div class="asl_option">
+<div class="asl_option_inner">
+<input type="checkbox" value="None" id="set_inpages1" title="Search in pages" name="set_inpages" checked="checked" />
+<label for="set_inpages1">Search in pages</label>
+</div>
+<div class="asl_option_label">
+Search in pages </div>
+</div>
+</fieldset>
+</form>
+</div>
+<div id='ajaxsearchliteres1' class='vertical wpdreams_asl_results asl_w asl_r asl_r_1'>
+<div class="results">
+<div class="resdrg">
+</div>
+</div>
+</div>
+<div id="asl_hidden_data">
+<svg style="position:absolute" height="0" width="0">
+<filter id="aslblur">
+<feGaussianBlur in="SourceGraphic" stdDeviation="4" />
+</filter>
+</svg>
+<svg style="position:absolute" height="0" width="0">
+<filter id="no_aslblur"></filter>
+</svg>
+</div>
+<div class="asl_init_data wpdreams_asl_data_ct" style="display:none !important;" id="asl_init_id_1" data-asldata="ew0KICAgICJob21ldXJsIjogImh0dHBzOi8vd3d3LmVwYnVzaW5lc3NzdHJvbmcub3JnLyIsDQogICAgInJlc3VsdHN0eXBlIjogInZlcnRpY2FsIiwNCiAgICAicmVzdWx0c3Bvc2l0aW9uIjogImhvdmVyIiwNCiAgICAiaXRlbXNjb3VudCI6IDQsDQogICAgImltYWdld2lkdGgiOiA3MCwNCiAgICAiaW1hZ2VoZWlnaHQiOiA3MCwNCiAgICAicmVzdWx0aXRlbWhlaWdodCI6ICI3MHB4IiwNCiAgICAic2hvd2F1dGhvciI6IDAsDQogICAgInNob3dkYXRlIjogMCwNCiAgICAic2hvd2Rlc2NyaXB0aW9uIjogMSwNCiAgICAiY2hhcmNvdW50IjogIDAsDQogICAgImRlZmF1bHRJbWFnZSI6ICJodHRwczovL3d3dy5lcGJ1c2luZXNzc3Ryb25nLm9yZy93cC1jb250ZW50L3BsdWdpbnMvYWpheC1zZWFyY2gtbGl0ZS9pbWcvZGVmYXVsdC5qcGciLA0KICAgICJoaWdobGlnaHQiOiAwLA0KICAgICJoaWdobGlnaHR3aG9sZXdvcmRzIjogMSwNCiAgICAic2Nyb2xsVG9SZXN1bHRzIjogMCwNCiAgICAicmVzdWx0YXJlYWNsaWNrYWJsZSI6IDEsDQogICAgImF1dG9jb21wbGV0ZSI6IHsNCiAgICAgICAgImVuYWJsZWQiIDogMSwNCiAgICAgICAgImxhbmciIDogImVuIg0KICAgIH0sDQogICAgInRyaWdnZXJvbnR5cGUiOiAxLA0KICAgICJ0cmlnZ2VyX29uX2NsaWNrIjogMSwNCiAgICAidHJpZ2dlcl9vbl9mYWNldF9jaGFuZ2UiOiAxLA0KICAgICJzZXR0aW5nc2ltYWdlcG9zIjogInJpZ2h0IiwNCiAgICAiaHJlc3VsdGFuaW1hdGlvbiI6ICJmeC1ub25lIiwNCiAgICAidnJlc3VsdGFuaW1hdGlvbiI6ICJmeC1ub25lIiwNCiAgICAiaHJlc3VsdGhpZGVkZXNjIjogIjEiLA0KICAgICJwcmVzY29udGFpbmVyaGVpZ2h0IjogIjQwMHB4IiwNCiAgICAicHNob3dzdWJ0aXRsZSI6ICIwIiwNCiAgICAicHNob3dkZXNjIjogIjEiLA0KICAgICJjbG9zZU9uRG9jQ2xpY2siOiAxLA0KICAgICJpaWZOb0ltYWdlIjogImRlc2NyaXB0aW9uIiwNCiAgICAiaWlSb3dzIjogMiwNCiAgICAiaWl0ZW1zV2lkdGgiOiAyMDAsDQogICAgImlpdGVtc0hlaWdodCI6IDIwMCwNCiAgICAiaWlzaG93T3ZlcmxheSI6IDEsDQogICAgImlpYmx1ck92ZXJsYXkiOiAxLA0KICAgICJpaWhpZGVDb250ZW50IjogMSwNCiAgICAiaWlhbmltYXRpb24iOiAiMSIsDQogICAgImFuYWx5dGljcyI6ICIwIiwNCiAgICAiYW5hbHl0aWNzU3RyaW5nIjogIiIsDQogICAgInJlZGlyZWN0b25jbGljayI6IDAsDQogICAgInJlZGlyZWN0Q2xpY2tUbyI6ICJhamF4X3NlYXJjaCIsDQogICAgInJlZGlyZWN0Q2xpY2tMb2MiOiAic2FtZSIsDQogICAgInJlZGlyZWN0X29uX2VudGVyIjogMCwNCiAgICAicmVkaXJlY3RFbnRlclRvIjogImFqYXhfc2VhcmNoIiwNCiAgICAicmVkaXJlY3RFbnRlckxvYyI6ICJzYW1lIiwNCiAgICAicmVkaXJlY3RfdXJsIjogIj9zPXtwaHJhc2V9IiwNCiAgICAib3ZlcnJpZGV3cGRlZmF1bHQiOiAwLA0KICAgICJvdmVycmlkZV9tZXRob2QiOiAiZ2V0Ig0KfQ0K"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a963546 elementor-hidden-phone" data-id="a963546" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-6d2c507 elementor-widget elementor-widget-image" data-id="6d2c507" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="https://www.bbb.org/local-bbb/bbb-of-el-paso">
+<picture class="attachment-medium_large size-medium_large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/better-business-bureau-white-1.png.webp" />
+<img width="153" height="231" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/better-business-bureau-white-1.png" alt="" />
+</picture>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-a0b2559 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="a0b2559" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-444b7fa4" data-id="444b7fa4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-67776b99 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="67776b99" data-element_type="widget" id="header-logo" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="https://www.epbusinessstrong.org">
+<img src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/site-logo.svg" class="attachment-full size-full" alt="" /> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-eb73219 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb73219" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ae3cf8f" data-id="ae3cf8f" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-f8fc084 elementor-nav-menu__align-center elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="f8fc084" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-f8fc084" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://www.epbusinessstrong.org/local-state-health-orders/" class="elementor-item">Local &#038; State Health Orders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://www.epbusinessstrong.org/safety/" class="elementor-item">Safety</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://www.epbusinessstrong.org/ppe/" class="elementor-item">PPE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://www.epbusinessstrong.org/testing/" class="elementor-item">Testing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://www.epbusinessstrong.org/financial-assistance/" class="elementor-item">Financial Assistance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://www.epbusinessstrong.org/resources/" class="elementor-item">Resources</a></li>
+</ul></nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i class="eicon-menu-bar" aria-hidden="true"></i>
+<span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-f8fc084" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://www.epbusinessstrong.org/local-state-health-orders/" class="elementor-item">Local &#038; State Health Orders</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://www.epbusinessstrong.org/safety/" class="elementor-item">Safety</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="https://www.epbusinessstrong.org/ppe/" class="elementor-item">PPE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://www.epbusinessstrong.org/testing/" class="elementor-item">Testing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://www.epbusinessstrong.org/financial-assistance/" class="elementor-item">Financial Assistance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://www.epbusinessstrong.org/resources/" class="elementor-item">Resources</a></li>
+</ul></nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div data-elementor-type="wp-page" data-elementor-id="112" class="elementor elementor-112" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0c76b0c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0c76b0c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2.5,&quot;sizes&quot;:[]},&quot;background_motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e1ead2" data-id="4e1ead2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-30ede38 elementor-widget elementor-widget-heading" data-id="30ede38" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">We are El Paso
+Business Strong</h2> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-a55d42a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a55d42a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2abb1fc" data-id="2abb1fc" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-ebd4b86 elementor-search-form--button-type-text elementor-search-form--skin-classic elementor-widget elementor-widget-search-form" data-id="ebd4b86" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;classic&quot;}" data-widget_type="search-form.default">
+<div class="elementor-widget-container">
+<form class="elementor-search-form" role="search" action="https://www.epbusinessstrong.org" method="get">
+<div class="elementor-search-form__container">
+<input placeholder="What are you searching for?" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+<button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search">
+Search </button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-9b3505a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9b3505a" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1fac643" data-id="1fac643" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b7c1226 elementor-widget elementor-widget-heading" data-id="b7c1226" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">It’s been a year unlike any other.</h2> </div>
+</div>
+<div class="elementor-element elementor-element-cb6040c elementor-widget elementor-widget-text-editor" data-id="cb6040c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p>Our economy has been put to the test. But El Pasoans and our businesses are strong. Welcome to a community of businesses committed to surviving together.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6e2d46a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6e2d46a" data-element_type="section">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bc13f23" data-id="bc13f23" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b992da7 elementor-widget elementor-widget-image" data-id="b992da7" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-medium_large size-medium_large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM-768x738.jpg.webp 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM-300x288.jpg.webp 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM.jpg.webp 975w" sizes="(max-width: 768px) 100vw, 768px" />
+<img width="768" height="738" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM-768x738.jpg" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM-768x738.jpg 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM-300x288.jpg 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/Photo_Aug_25_11_19_35_AM.jpg 975w" sizes="(max-width: 768px) 100vw, 768px" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d7b4620" data-id="d7b4620" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4236d98 elementor-widget elementor-widget-image" data-id="4236d98" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-medium_large size-medium_large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880-768x738.jpg.webp 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880-300x288.jpg.webp 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880.jpg.webp 975w" sizes="(max-width: 768px) 100vw, 768px" />
+<img width="768" height="738" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880-768x738.jpg" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880-768x738.jpg 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880-300x288.jpg 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2880.jpg 975w" sizes="(max-width: 768px) 100vw, 768px" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1a0946e" data-id="1a0946e" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-fce87a6 elementor-widget elementor-widget-image" data-id="fce87a6" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-medium_large size-medium_large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637-768x738.jpg.webp 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637-300x288.jpg.webp 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637.jpg.webp 975w" sizes="(max-width: 768px) 100vw, 768px" />
+<img width="768" height="738" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637-768x738.jpg" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637-768x738.jpg 768w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637-300x288.jpg 300w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/JI3B2637.jpg 975w" sizes="(max-width: 768px) 100vw, 768px" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3152cee elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3152cee" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-188f216" data-id="188f216" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-beccb8c elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="beccb8c" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.epbusinessstrong.org/safety/"><picture class="attachment-full size-full">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-1.png.webp 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-1-150x150.png.webp 150w" sizes="(max-width: 270px) 100vw, 270px" />
+<img width="270" height="270" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-1.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-1.png 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-1-150x150.png 150w" sizes="(max-width: 270px) 100vw, 270px" />
+</picture>
+</a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://www.epbusinessstrong.org/safety/">How to reduce the risk for my employees and customers</a></h3><p class="elementor-image-box-description">It’s impossible to create an environment which is 100% safe. However, there are steps you can take to reduce the risk. </p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-08a2bc4" data-id="08a2bc4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7220fab elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7220fab" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.epbusinessstrong.org/ppe/"><picture class="attachment-full size-full">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-2.png.webp 316w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-2-300x256.png.webp 300w" sizes="(max-width: 316px) 100vw, 316px" />
+<img width="316" height="270" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-2.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-2.png 316w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-2-300x256.png 300w" sizes="(max-width: 316px) 100vw, 316px" />
+</picture>
+</a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://www.epbusinessstrong.org/ppe/">Where can I locate PPE?</a></h3><p class="elementor-image-box-description">Dozens of El Paso businesses are providing personal protective equipment (PPE) to their employees to help slow the spread of COVID-19. Sourcing it can be difficult. The Medical Center of the Americas is curating an up-to-date list of vendors providing PPE. </p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1b134d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b134d6" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bee5456" data-id="bee5456" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b439de2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b439de2" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.epbusinessstrong.org/testing/"><picture class="attachment-full size-full">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-3.png.webp 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-3-150x150.png.webp 150w" sizes="(max-width: 270px) 100vw, 270px" />
+<img width="270" height="270" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-3.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-3.png 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-3-150x150.png 150w" sizes="(max-width: 270px) 100vw, 270px" />
+</picture>
+</a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://www.epbusinessstrong.org/testing/">What business owners need to know about COVID-19 testing</a></h3><p class="elementor-image-box-description">Employers can assist in preventing and slowing the spread of COVID-19 while re-opening and sustaining services during the ongoing COVID-19 response. A comprehensive business response plan to COVID-19 should be specific to your workplace, identify all work areas and tasks that may provide potential exposure to COVID-19, and include control measures to eliminate or reduce exposures to COVID-19. Your plan should routinely take into account the level of disease transmission within the community, and be revised as needed, including discussing any changes to your plan with your employees.
+</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-493b1c8" data-id="493b1c8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-ffad140 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ffad140" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.epbusinessstrong.org/testing/#policies-and-faqs"><picture class="attachment-full size-full">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-4.png.webp 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-4-150x150.png.webp 150w" sizes="(max-width: 270px) 100vw, 270px" />
+<img width="270" height="270" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-4.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-4.png 270w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-4-150x150.png 150w" sizes="(max-width: 270px) 100vw, 270px" />
+</picture>
+</a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://www.epbusinessstrong.org/testing/#policies-and-faqs">Best Practices &amp; FAQs? </a></h3><p class="elementor-image-box-description">Business owners and operators continue to be faced with unanticipated questions and unfamiliar terminology. This section contains information on what these terms mean and provides answers to many frequently asked questions.</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-fcf4d5d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fcf4d5d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d49bb0d" data-id="d49bb0d" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-ef54078 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ef54078" data-element_type="widget" data-widget_type="image-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://www.epbusinessstrong.org/resources/#local-resources"><picture class="attachment-full size-full">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-5.png.webp 329w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-5-300x246.png.webp 300w" sizes="(max-width: 329px) 100vw, 329px" />
+<img width="329" height="270" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-5.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-5.png 329w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/icon-5-300x246.png 300w" sizes="(max-width: 329px) 100vw, 329px" />
+</picture>
+</a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://www.epbusinessstrong.org/resources/#local-resources">Where can I source materials locally? (pizza boxes...)</a></h3><p class="elementor-image-box-description">UTEP's COVID-19 Dashboard displays the manufacturing capabilities of El Paso, providing a centralized information source for stakeholders, businesses, and communities to identify and locate local manufacturers providing PPE and other critical resources.</p></div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0916ba6" data-id="0916ba6" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9e02b4e elementor-widget elementor-widget-image" data-id="9e02b4e" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-large size-large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_Color.png.webp 550w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_Color-300x271.png.webp 300w" sizes="(max-width: 550px) 100vw, 550px" />
+<img width="550" height="496" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_Color.png" alt="" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_Color.png 550w, https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_Color-300x271.png 300w" sizes="(max-width: 550px) 100vw, 550px" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div data-elementor-type="footer" data-elementor-id="120" class="elementor elementor-120 elementor-location-footer" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6ddfeb78 elementor-section-height-min-height elementor-section-items-top elementor-section-content-top elementor-section-boxed elementor-section-height-default" data-id="6ddfeb78" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-574335a5" data-id="574335a5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-b6b8f98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b6b8f98" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-c0de7e6" data-id="c0de7e6" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-10e3d50b elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="10e3d50b" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-large size-large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_White.png.webp" />
+<img width="267" height="240" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/EPBS_Logo_Alt_White.png" alt="" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-466c87a" data-id="466c87a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9b17ed9 elementor-widget__width-auto elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="9b17ed9" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<picture class="attachment-large size-large">
+<source type="image/webp" srcset="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/better-business-bureau-white-1.png.webp" />
+<img width="153" height="231" src="https://www.epbusinessstrong.org/wp-content/uploads/2020/09/better-business-bureau-white-1.png" alt="" />
+</picture>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4fc01e67" data-id="4fc01e67" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-21e49f7 elementor-widget elementor-widget-text-editor" data-id="21e49f7" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p>Disclaimer: The epbusinessstrong.org website is intended to provide awareness regarding important information relating to business operations during the COVID-19 pandemic. The Better Business Bureau does not warrant or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information disclosed or product or service referenced on the epbusinessstrong.org website. Where available, original sources of information have been provided or cited. This information is not to be relied upon for legal or medical matters. If you need medical assistance, please contact your physician or dial 911. Sources of equipment or services provided are not considered an endorsement or guaranty of that service or product. The epbusinessstrong.org web site is updated regularly; however, if you become aware of any inaccurate or outdated information on epbusinessstrong.org, please contact us at <a href="/cdn-cgi/l/email-protection#b2dbdcd4ddf2d7c2d0c7c1dbdcd7c1c1c1c6c0dddcd59cddc0d5"><span class="__cf_email__" data-cfemail="157c7b737a5570657760667c7b7066666661677a7b723b7a6772">[email&#160;protected]</span></a> immediately.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2673799652894792');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2673799652894792&ev=PageView&noscript=1"
+/></noscript>
+
+
+<link rel='stylesheet' id='plsfe-frontend-css' href='https://www.epbusinessstrong.org/wp-content/plugins/connect-polylang-elementor/assets/css/plsfe-frontend.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-extra'>
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/tenacious-trade\/|\/wp-admin\/|\/logout\/|\/tenacious-trade\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/www.epbusinessstrong.org","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type='text/javascript' id='wpdreams-ajaxsearchlite-js-extra'>
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/www.epbusinessstrong.org\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.epbusinessstrong.org\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/www.epbusinessstrong.org\/wp-admin\/admin-ajax.php","backend_ajaxurl":"https:\/\/www.epbusinessstrong.org\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4741","fix_duplicates":"1","analytics":{"method":0,"tracking_id":"","string":"?ajax_search={asl_term}","event":{"focus":{"active":1,"action":"focus","category":"ASL","label":"Input focus","value":"1"},"search_start":{"active":0,"action":"search_start","category":"ASL","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":1,"action":"search_end","category":"ASL","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":1,"action":"magnifier","category":"ASL","label":"Magnifier clicked","value":"1"},"return":{"active":1,"action":"return","category":"ASL","label":"Return button pressed","value":"1"},"facet_change":{"active":0,"action":"facet_change","category":"ASL","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":1,"action":"result_click","category":"ASL","label":"{result_title} | {result_url}","value":"1"}}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.8.4' id='wpdreams-ajaxsearchlite-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.11' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.epbusinessstrong.org\/wp-admin\/admin-ajax.php","nonce":"3b75ee719b","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.epbusinessstrong.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.11' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.11","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/www.epbusinessstrong.org\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":112,"title":"Local%20Covid-19%20Resources%20-%20El%20Paso%20Business%20Strong","excerpt":"","featuredImage":"https:\/\/www.epbusinessstrong.org\/wp-content\/uploads\/2020\/09\/banner.jpg"}};
+</script>
+<script type='text/javascript' src='https://www.epbusinessstrong.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.11' id='elementor-frontend-js'></script>
+<script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure";
+			}());</script>
+</body>
+</html>

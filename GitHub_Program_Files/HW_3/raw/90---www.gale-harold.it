@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel=StyleSheet href="style.css" TYPE="text/css">
+<title>The Gale Dream team! La prima risorsa italiana su Gale Harold</title>
+<style>/*-------------------------------------------- INDEX ---------------------------------------------*/
+
+body {
+	background-color: #456481;
+text-align:center;	   font-family: Verdana, Arial, Helvetica, sans-serif;
+       font-size: 10px;
+	   } 
+
+.cx{
+position: absolute;
+width: 470px;
+left: 50%;
+top: 50%;
+margin-left: -235px;
+margin-top: -200px;
+}
+
+img{
+border:0px solid #262728;
+}
+
+ img a {
+width: 470px;
+border:0px;
+}
+
+.index-txt{
+font-size: 9px;
+	margin-top:20px;
+color:#2a333c;	
+	
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="cx"> <img src="immagini/obj/index.jpg" border="0" usemap="#entra"/> 
+  <map name="entra" id="entra">
+    <area shape="rect" coords="341,125,393,142" href="english/home.php" target="_self">
+    <area shape="rect" coords="403,125,457,142" href="home.php" target="_self">
+  </map>
+  <div class="index-txt">
+Copyright © 2006 gale-harold.it | All rights reserved by Marcy - Ale - Felicity - Claudia <br>
+  Graphic by Simo-Marcy 
+&#9656 1024x768+  | IE - Firefox - Opera - Safari &#9656
+
+</div>
+</div>
+
+</body>
+</html>

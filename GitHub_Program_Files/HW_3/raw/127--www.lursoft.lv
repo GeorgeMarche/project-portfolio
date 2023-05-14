@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="lv">
+    <head>
+        <meta charset="utf-8" />
+<meta name="language" content="lv" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Plaša un juridiski pamatota datu bāze ar visiem Latvijā reģistrētiem uzņēmumiem, biedrībām un ārvalstu uzņēmumu pārstāvniecībām." />
+<meta name="DC.title" content="Lursoft - uzņēmumu datu bāzes
+" />
+<meta name="DC.creator" content="LURSOFT" />
+<meta name="DC.subject" content="Plaša un juridiski pamatota datu bāze ar visiem Latvijā reģistrētiem uzņēmumiem, biedrībām un ārvalstu uzņēmumu pārstāvniecībām." />
+<meta name="DC.description" content="Plaša un juridiski pamatota datu bāze ar visiem Latvijā reģistrētiem uzņēmumiem, biedrībām un ārvalstu uzņēmumu pārstāvniecībām." />
+<meta name="DC.publisher" content="Lursoft" />
+<meta name="DC.contributor" content="Lursoft" />
+<meta name="DC.date" content="2020-10-14T21:28:54+03:00" />
+<meta name="DC.type" content="Text" />
+<meta name="DC.format" content="text/html" />
+<meta name="DC.language" content="lv" />
+<meta name="DC.relation" content="lursoft.lv" />
+<meta name="DC.coverage.placeName" content="Latvija" />
+<meta name="DC.coverage.periodName" content="21th century" />
+<meta name="DC.rights" content="© Lursoft, Lursoft IT 1997-2020 Lursoft ir Latvijas Republikas Uzņēmumu Reģistra informācijas atkalizmantotājs. Lietotājs, lietojot sistēmas, apņemas ievērot Autortiesību likumu, Fizisko personu datu apstrādes likuma prasības un Lursoft sistēmas izmantošanas noteikumus. Lietotājam aizliegts izmantot jebkādas automatizētas sistēmas vai iekārtas (robotus) piekļuvei sistēmai bez rakstiskas saskaņošanas ar Lursoft. Datu bāzēs esošajai informācijai ir informatīvs raksturs un tai nav juridiska spēka. Lursoft nenes nekādu atbildību par darbībām vai lēmumiem, kas balstīti uz saņemto pakalpojumu." />
+<meta name="DC.source" content="Lursoft" /><meta name="format-detection" content="telephone=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <link rel="stylesheet" type="text/css" href="/lursoft_web/css/bootstrap.min.css?135" />
+<link rel="stylesheet" type="text/css" href="/lursoft_web/css/bootstrap-theme.min.css?135" />
+<link rel="stylesheet" type="text/css" href="/lursoft_web/css/layout.min.css?135" />
+<link rel="stylesheet" type="text/css" href="/assets/faed448d/firstPage.min.css" />
+<link rel="stylesheet" type="text/css" href="/lursoft_web/css/lurs_content.css?135" />
+<link rel="stylesheet" type="text/css" href="/lursoft_web/css/search.min.css?135" />
+<script type="text/javascript" src="/lursoft_web/js/jquery-3.5.1.min.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/bootstrap.min.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/layout.min.js?135"></script>
+<script type="text/javascript" src="//www.lursoft.lv/js/jquery.menuslider.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/jquery.cookie-1.2.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/jquery.hint.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/public.custom.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/searchcrit.min.js?135"></script>
+<script type="text/javascript" src="/lursoft_web/js/policy.min.js?135"></script>
+<title>Lursoft - uzņēmumu datu bāzes
+</title>
+                <!--[if lt IE 9]>
+        <script src="/lursoft_web/js/html5shiv.min.js"></script>
+        <script src="/lursoft_web/js/respond.min.js"></script>
+        <![endif]-->
+        <script>
+            window.LANG = 'lv';
+            window.lursoft_url = 'https://www.lursoft.lv';
+        </script>
+        
+        
+        <!-- Matomo -->
+        <script type="text/javascript">
+            var _paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+            _paq.push(["setCookieDomain", "*.lursoft.lv"]);
+            _paq.push(["setDomains", ["*.lursoft.lv"]]);
+            _paq.push(["setDoNotTrack", true]);
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//matomo.lursoft.lv/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '3']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <noscript><p><img src="//matomo.lursoft.lv/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Matomo Code -->
+    </head>
+
+    <body>
+        <div class="container" id="page">
+
+            <div class="row header-row">
+
+                <div class="logo">
+                    <a class="logo-main" title="Lursoft" href="/">Lursoft</a>                </div>
+
+                <ul class="menu-main hidden-xs hidden-sm" id="yw0">
+<li><a href="https://www.lursoft.lv/lv/uznemumu-datu-bazes">Datu bāzes</a></li>
+<li><a href="https://www.lursoft.lv//lv/monitorings">Monitorings</a></li>
+<li><a href="https://www.lursoft.lv/lv/par-abonesanu">Abonēšana</a></li>
+</ul>                
+<ul class="menu-language hidden-xs hidden-sm">
+                            <li>
+        <a title="Latviski" class="active" href="https://www.lursoft.lv/?l=lv">LV</a>    
+        </li>
+                                    <li>
+        <a title="По-русски" class="" href="https://www.lursoft.lv/?l=ru">RU</a>    
+        </li>
+                                    <li>
+        <a title="English" class="" href="https://www.lursoft.lv/?l=en">EN</a>    
+        </li>
+            </ul>
+
+<ul class="sliding-menu" id="language-menu">
+                        <li><a href="https://www.lursoft.lv/?l=lv">Latviski</a></li>
+                                <li><a href="https://www.lursoft.lv/?l=ru">По-русски</a></li>
+                                <li><a href="https://www.lursoft.lv/?l=en">English</a></li>
+            </ul>                    <div class="login-wrap hidden-xs hidden-sm">
+        <span class="userpic"><i class="glyphicon glyphicon-user"></i></span>
+        <a class="btn link" rel="nofollow" href="https://www.lursoft.lv/user/login"><span>Pieslēgties</span></a>    </div>
+
+                <div class="small-screen-menu visible-sm visible-xs">
+    <ul class="small-screen-menu-items">
+                    <li class="menu-button"><i class="glyphicon glyphicon-menu-hamburger"></i></li>
+                <li class="lang-button"><a href="javascript:void(0)">lv</a></li>
+
+                    <li class="user-button-guest">
+                <a rel="nofollow" title="Pieslēgties" href="https://www.lursoft.lv/user/login"><i class="glyphicon glyphicon-user"></i></a>            </li>
+            </ul>
+</div>
+            </div>
+            <div class="header-hr"></div>
+
+                        <div class="row gs-wrapper">
+    <div class="col-xs-12">
+        <form id="search-widget" onsubmit="return SearchPrepareParams(this);" target="" action="https://www.lursoft.lv/meklet" method="GET">            <input type="hidden" value="GLOBAL" name="act" id="act" />            <div class="form-group">
+                <label class="sr-only" for="q">Ievadiet meklējamo tekstu</label>
+                <div class="input-group">
+                    <input placeholder="Ievadiet meklējamo tekstu" id="q" maxlength="125" class="form-control input-lg" type="search" value="" name="q" />                                        <div class="input-group-btn">
+                        <button class="btn btn-default text-bold btn-lg" aria-hidden="true" tabindex="-1" name="" type="submit">
+                            <i class="glyphicon glyphicon-search"></i> <span class="hidden-xs">Meklēt</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group subfilters">
+                <label class="checkbox-inline" for="precisely"><input value="1" data-cookie="precisely" type="checkbox" name="precisely" id="precisely" /> Meklēt precīzi<span><i></i></span></label>
+                <span class="pull-right">
+                    <a class="ms-button" href="#" data-toggle="modal" data-target="#ms-model">
+                        <i class="glyphicon glyphicon-option-vertical"></i>
+                        <span>Vairāk</span>
+                    </a>
+                </span>
+            </div>
+                    </form>    </div>
+</div>
+<div class="modal fade ms-dialog__modal" id="ms-model" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body ms-dialog__modal-body">
+                <ul class="ms-dialog__list">
+                    <li><a class="active" rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/meklet?q=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/meklet&quot;);" data-id="global" href="https://www.lursoft.lv/meklet">Uzņēmumi / Iestādes / Personas / Adreses</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/estadistic?act=KRI_CSRCH&amp;utf=0&amp;params=on&amp;general=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/komerckilu-registrs?setm=kr&quot;);" data-id="kr" href="https://www.lursoft.lv/lv/komerckilu-registrs?setm=kr">Komercķīlas</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lapsaext?act=URINSOLSRCH&amp;general=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/maksatnespejas-registrs?setm=insolv&quot;);" data-id="insolv" href="https://www.lursoft.lv/lv/maksatnespejas-registrs?setm=insolv">Maksātnespējas</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lv/meklesana-dokumentos?DSF[text]=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/meklesana-dokumentos&quot;);" data-id="doc" href="https://www.lursoft.lv/lv/meklesana-dokumentos">Meklēšana dokumentos</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/zgr/search/bycadnumber?l=lv&amp;FormSearchByCadNumber%5Bcode%5D=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/zemesgramata?setm=zg&quot;);" data-id="zg" href="https://www.lursoft.lv/lv/zemesgramata?setm=zg">Zemesgrāmata</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lv/csdd?setm=csdd&amp;params=on&amp;ownercode=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/csdd/transportlidzeklis&quot;);" data-id="csdd" href="https://www.lursoft.lv/lv/csdd/transportlidzeklis">CSDD</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://ebr.lv&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://ebr.lv/lv&quot;);" data-id="ebr" href="https://ebr.lv/lv">Eiropas Biznesa reģistrs</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lielbritanija/search/index?l=lv&amp;query=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lielbritanija&quot;);" data-id="uk" href="https://www.lursoft.lv/lielbritanija">Lielbritānijas uzņēmumu reģistrs</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lietuvas-uznemumi?l=lv&amp;search=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lietuvas-uznemumi&quot;);" data-id="lt" href="https://www.lursoft.lv/lietuvas-uznemumi">Lietuvas uzņēmumu reģistrs</a></li><li><a rel="nofollow" onclick="AddParam(&quot;http://news.lv/search/results?q=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/laikrakstu-biblioteka?setm=press&quot;);" data-id="press" href="https://www.lursoft.lv/lv/laikrakstu-biblioteka?setm=press">Laikraksti</a></li><li><a rel="nofollow" onclick="AddParam(&quot;https://www.lursoft.lv/lv/1188-katalogs?setm=1188&amp;general=&quot;, this, $(&quot;#search-widget #q&quot;), false, &quot;https://www.lursoft.lv/lv/1188-katalogs&quot;);" data-id="1188" href="https://www.lursoft.lv/lv/1188-katalogs">1188 KATALOGS</a></li>                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="row breadcrumb-wrap fp-breadcrumb-wrap">
+                    <ul class="menu-breadcrumb">
+<li><a class="more" href="https://www.lursoft.lv">Lursoft</a></li><li>Lursoft - uzņēmumu datu bāzes
+</li></ul>                    <div class="tools"><a class="action print" target="_blank" href="#" data-toggle="tooltip" title="Izdrukāt">drukāt</a> <a class="action mail" href="mailto:" data-toggle="tooltip" title="Nosūtīt">Nosūtīt</a></div>                </div>
+
+            <div class="row content-row">
+                <div class="left-content">
+                    <script>
+    $( document ).ready(
+    function(){    
+        $(".lursoft-menu > li > a").click(function(){
+            // only for mobile/tablet
+            if (viewport().width >= 991) 
+                return true;
+            
+            if( $(".submenu", $(this).parent()).length > 0 && !$(".submenu", $(this).parent()).is(':visible') ){
+                $(".submenu", $(this).parent()).show();
+                return false;
+            } else 
+                return true;
+        });
+    });
+</script>
+
+<ul id="lursoft-menu" class="lursoft-menu "><li><a href="https://www.lursoft.lv/lv/uznemumu-datu-bazes">Uzņēmumu datu bāzes</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/uznemumu-registrs">Uzņēmumu reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/gada-parskati">Gada pārskati</a></li><li><a href="https://www.lursoft.lv/lv/maksatnespejas-registrs">Maksātnespējas datu bāze</a></li><li><a href="https://www.lursoft.lv/lv/personas-profils">Personas profils</a></li><li><a href="https://www.lursoft.lv/lv/komerckilu-registrs">Komercķīlu reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/uznemumu-izversta-meklesana">Uzņēmumu izvērstā meklēšana</a></li><li><a href="https://www.lursoft.lv/lv/eiropas-biznesa-registrs">Eiropas Biznesa reģistrs</a></li><li><a href="https://www.lursoft.lv/lietuvas-uznemumi">Lietuvas uzņēmumi</a></li><li><a href="https://www.lursoft.lv/lv/lielbritanija">Lielbritānijas uzņēmumu reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/meklesana-dokumentos">Meklēšana dokumentos</a></li><li><a href="https://www.lursoft.lv/lv/iesniegtie-gada-parskati-nozare">Iesniegtie gada pārskati nozarē</a></li><li><a href="https://www.lursoft.lv/lv/arvalstu-parstavniecibas">Ārvalstu pārstāvniecības</a></li><li><a href="https://www.lursoft.lv/lv/registracijas-apliecibas">Reģistrācijas apliecības</a></li><li><a href="https://www.lursoft.lv/lv/koncesijas">Koncesijas</a></li><li><a href="https://www.lursoft.lv/lv/koncerni">Koncerni</a></li><li><a href="https://www.lursoft.lv/lv/arejo-juridisko-personu-datu-baze">Ārējo juridisko personu datu bāze</a><ul class="submenu submenu-deep-2"><li><a href="https://www.lursoft.lv/lv/jautajumi-un-atbildes">Jautājumi un atbildes</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/masu-informacijas-lidzekli">Masu informācijas līdzekļi</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/analitiskie-pakalpojumi">Analītiskie pakalpojumi</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/nozaru-finansu-koeficienti">Nozaru finanšu koeficienti</a></li><li><a href="https://www.lursoft.lv/lv/finansu-analize">Finanšu analīze</a></li><li><a href="https://www.lursoft.lv/uznemumu_izversta_analize.html">Uzņēmumu izvērstā analīze</a></li><li><a href="https://www.lursoft.lv/lv/uznemuma-novertejums">Uzņēmuma novērtējums</a></li><li><a href="https://www.lursoft.lv/lv/saistibu-grafs">Saistību GRAFS</a></li><li><a href="https://www.lursoft.lv/lv/statistika">Statistika</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/mani-dati-registros">Mani dati</a><ul class="submenu "><li><a href="https://www.lursoft.lv/beneficial-owner">Patiesais labuma guvējs</a></li><li><a href="https://www.lursoft.lv/mani-amati">Amati</a></li><li><a href="https://www.lursoft.lv/manas-dalibas?lang=LV">Dalības</a></li><li><a href="https://www.lursoft.lv/manas-komerckilas">Komercķīlas</a></li><li><a href="https://www.lursoft.lv/mani-paraksti?lang=LV">Paraksta paraugi</a></li><li><a href="https://www.lursoft.lv/manas-org-kavetie-maksajumi?l=lv">Manas organizācijas kavētie maksājumi</a></li><li><a href="https://www.lursoft.lv/laulato-mantiskas-attiecibas/mani-ligumi?l=lv">Laulāto mantisko attiecību līgumi</a></li><li><a href="https://www.lursoft.lv/exec?act=UGF_MY&amp;lang=LV">Dati UGF parādnieku reģistrā</a></li><li><a href="https://www.lursoft.lv/exec?act=PRESSMY&amp;lang=LV">Minēts medijos</a></li><li><a href="https://www.lursoft.lv/exec?act=ZGR_MY&amp;lang=LV">Nekustamie īpašumi</a></li><li><a href="https://www.lursoft.lv/exec?act=VZD_MY&amp;lang=LV">Dati Kadastrā</a></li><li><a href="https://www.lursoft.lv/personas-dosje/personas/my?l=lv">Mans dosjē</a></li><li><a href="https://www.lursoft.lv/exec?act=VZD_MYORG&amp;lang=LV">Manas organizācijas dati Kadastrā</a></li><li><a href="https://www.lursoft.lv/exec?act=CSDDPERSON_MY&amp;lang=LV">Transportlīdzekļi</a></li><li><a href="https://www.lursoft.lv/exec?act=CSDDFINE_MY&amp;lang=LV">Pārkāpumu uzskaites punkti</a></li><li><a href="https://www.lursoft.lv/exec?act=CSDDLICENCE_MY&amp;lang=LV">Autovadītāja apliecība</a></li><li><a href="https://www.lursoft.lv/exec?act=TR_MYREP&amp;lang=LV">Traktortehnika</a></li><li><a href="https://www.lursoft.lv/exec?act=VCI_MY_DATA&amp;lang=LV">Ganāmpulki un novietnes</a></li><li><a href="https://www.lursoft.lv/exec?act=NPDR_MY&amp;lang=LV">Nederīgie dokumenti</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/kreditatskaites">Kredītatskaites</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/kaveto-maksajumu-datu-baze">Kavēto maksājumu datu bāze</a></li><li><a href="https://www.lursoft.lv/lv/baltrisk-kreditvesture">BaltRisk kredītvēsture</a></li><li><a href="https://www.lursoft.lv/lv/creditinfo-kreditspejas-atskaite">Creditinfo Kredītspējas atskaite</a></li><li><a href="https://www.lursoft.lv/lv/paus-konsults-kreditvesture">Paus Konsults kredītvēsture</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/dazadi-registri">Dažādi reģistri</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/pilnvaru-registrs">Pilnvaru reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/csdd">CSDD</a></li><li><a href="https://www.lursoft.lv/atsaukto-pilnvaru-meklesana"> Atsaukto pilnvaru reģistrs</a></li><li><a href="https://www.lursoft.lv/courts">Tiesu sēdes</a></li><li><a href="https://www.lursoft.lv/lv/zemesgramata">Zemesgrāmata</a></li><li><a href="https://www.lursoft.lv/lv/kadastrs">Kadastrs</a></li><li><a href="https://www.lursoft.lv/personas">Personas</a></li><li><a href="https://www.lursoft.lv/lv/laulato-mantisko-attiecibu-registrs">Laulāto mantisko attiecību reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/ganampulku-registrs">Ganāmpulku reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/mantojumu-registrs">Mantojumu reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/traktortehnikas-registrs">Traktortehnikas reģistrs</a></li><li><a href="https://www.lursoft.lv/lv/laikrakstu-biblioteka">Laikrakstu bibliotēka</a></li><li><a href="https://www.lursoft.lv/lv/1188-katalogs">1188 katalogs</a></li><li><a href="https://www.lursoft.lv/lv/publisko-personu-un-iestazu-saraksts">Publisko personu un iestāžu saraksts</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/katalogi">Katalogi</a></li><li><a href="https://www.lursoft.lv/lv/karte">Karte</a></li><li><a href="https://www.lursoft.lv/lv/monitorings">Monitorings</a></li><li><a href="https://www.lursoft.lv/lv/debitoru-portfelis">Debitoru portfelis</a></li><li><a href="https://www.lursoft.lv/lv/datu-atlase">Datu atlase</a></li><li><a href="https://www.lursoft.lv/klientuportfelis">Klientu Portfelis</a></li><li><a href="https://www.lursoft.lv/lv/b2b-risinajumi-un-sadarbibas-partneri">B2B risinājumi</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/b2b-iespejas">B2B iespējas</a></li></ul></li><li><a href="https://www.lursoft.lv/izcenojumi">Izcenojumi</a></li><li><a href="https://www.lursoft.lv/lv/abonesana">Abonēšanas cenas</a><ul class="submenu "><li><a href="https://www.lursoft.lv/ebr_abonements.html">Ārvalstu reģistru abonements</a></li><li><a href="https://www.lursoft.lv/zinu_abonements.html">Ziņu abonements</a></li><li><a href="https://www.lursoft.lv/lv/bezmaksas-demo">Bezmaksas demo</a></li><li><a href="https://www.lursoft.lv/lv/izmantosanas-noteikumi">Izmantošanas noteikumi</a></li><li><a href="https://www.lursoft.lv/lv/lursoft-norekinu-informacija">Lursoft norēķinu informācija</a><ul class="submenu submenu-deep-3"><li><a href="https://www.lursoft.lv/lv/ar-bankas-parskaitijumu">Ar bankas pārskaitījumu</a></li><li><a href="https://www.lursoft.lv/lv/ar-kreditkarti">Ar kredītkarti</a></li><li><a href="https://www.lursoft.lv/lv/skaidra-nauda">Skaidrā naudā</a></li><li><a href="https://www.lursoft.lv/lv/zvanot-uz-lursoft-klientu-apkalposanas-centru">Zvanot uz Lursoft klientu apkalpošanas centru</a></li><li><a href="https://www.lursoft.lv/lv/izmantojot-internetbanku">Izmantojot Internetbanku</a></li><li><a href="https://www.lursoft.lv/lv/izmantojot-mobilly">Izmantojot Mobilly</a></li></ul></li><li><a href="https://www.lursoft.lv/lursoft_cenradis_abonentiem.html">Pakalpojumu saraksts</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/bezmaksas-demonstracija">Piesakies bezmaksas konsultācijai</a></li><li><a href="https://www.lursoft.lv/lv/ipasie-piedavajumi">Īpašie piedāvājumi</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/studentiem">Studentiem</a></li><li><a href="https://www.lursoft.lv/lv/ltrk-biedriem">LTRK biedriem</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/lursoft-portali">Lursoft portāli</a></li><li><a href="https://www.lursoft.lv/lv/ur-e-pakalpojumi">E-pakalpojumi</a><ul class="submenu "><li><a href="https://www.lursoft.lv/lv/letera">LEtERA</a></li></ul></li><li><a href="https://www.lursoft.lv/lv/gramatvedibas-sistemas">Grāmatvedības sistēmas</a></li><li><a href="https://www.lursoft.lv/lursoft-zinas">Uzņēmumu ziņas</a></li><li><a href="https://www.lursoft.lv/mani-dati">Serviss</a><ul class="submenu "><li><a href="https://www.lursoft.lv/mani-dati">Mani dati sistēmā</a><ul class="submenu submenu-deep-2"><li><a href="https://www.lursoft.lv/mani-dati">Mani dati</a></li></ul></li></ul></li></ul>                </div>
+                <div class="main-content">
+
+                    <script type="text/javascript">
+    $(function() {
+        $(".menu-slider-wrap").menuSlider();
+            var slider = setInterval(function(){
+        $(".action-pane .next:first").trigger("click");
+        },4000);
+        $(".action-pane input").focus(function(){
+            window.clearInterval(slider)
+        });
+    });
+</script>
+                    <div class="first-page-middle">
+                        <div class="first-page-middle-content">
+                            
+                                                        <h1>Esi informēts!<br/>Esi soli priekšā konkurentiem!
+</h1>
+
+<div class="menu-slider-wrap">
+    <ul class="menu-slider">
+                    <li id="frame1" class="frame active-frame">
+            <div class="action-pane">
+                <a href="#" class="prev nav">&lt;</a>
+                                    <a href="/Lursoft_uznemumu_gada_parskatu_registrs.html" class="frame-link"><span>Noskaidro uzņēmuma apgrozījumu, peļņu!</span></a>
+                                <a href="#" class="next nav">&gt;</a>
+            </div>
+        </li>
+                    <li id="frame2" class="frame ">
+            <div class="action-pane">
+                <a href="#" class="prev nav">&lt;</a>
+                                    <style>
+.btitle {
+    background: url("//www.lursoft.lv/img/kmdb-poga2.png") no-repeat scroll 0 1px transparent;
+    color: white;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 15px auto;
+    padding: 8px;
+    text-decoration: none !important;
+   background-size: 100% 35px;
+}
+.btitle:hover{
+ color: #eee !important;
+}
+</style>
+<div style="width:60%;  text-align: center; margin: 0px auto;">
+<a href="/lv/datu-atlase" class="btitle"  onclick="_nstat.__noteClickerMan('int://Pirma lapa//Datu atlase')">Datu atlase</a>
+</div>                                <a href="#" class="next nav">&gt;</a>
+            </div>
+        </li>
+        </ul>
+    <ul class="menu-paginator">
+                    <li><a href="#" id="showFrame1" class="active" data-nr="1"><span>1</span></a></li>
+                    <li><a href="#" id="showFrame2"  data-nr="2"><span>2</span></a></li>
+        </ul>
+
+    <style type="text/css">
+            .menu-slider li#frame1 {
+            background-image: url(/img/news/lursoft-produkti-lv-5eed01d69ed7b.jpg);
+        }
+            .menu-slider li#frame2 {
+            background-image: url(/img/news/lursoft-produkti-lv-5eed01d69d045.jpg);
+        }
+        </style>
+</div>
+
+<h2>Ātrā izvēlne</h2>
+
+<div class="menu-quick">
+    
+            <div class="row">
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/gada-parskati">
+            <span class="icon item-1"></span>
+            <span class="link">Gada pārskati</span>
+        </a>
+        <span class="desc">Finanšu rādītāji, bilances, naudas plūsmas, peļņas vai zaudējumu aprēķini</span>
+    </div>
+
+        
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="https://maps.lursoft.lv">
+            <span class="icon item-map"></span>
+            <span class="link">Karte</span>
+        </a>
+        <span class="desc">Uzņēmumi, iestādes, struktūrvienības un adreses kartē</span>
+    </div>
+
+            </div>
+        
+            <div class="row">
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/personas">
+            <span class="icon item-5"></span>
+            <span class="link">Personu datu bāze</span>
+        </a>
+        <span class="desc">Personu saistība ar uzņēmumiem</span>
+    </div>
+
+        
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/komerckilu-registrs">
+            <span class="icon item-2"></span>
+            <span class="link">Komercķīlu reģistrs</span>
+        </a>
+        <span class="desc">Komercķīlas, ņēmēji un devēji</span>
+    </div>
+
+            </div>
+        
+            <div class="row">
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/uznemumu-registrs">
+            <span class="icon item-3"></span>
+            <span class="link">Uzņēmumu reģistrs</span>
+        </a>
+        <span class="desc">Latvijas uzņēmumi un amatpersonas</span>
+    </div>
+
+        
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/meklesana-dokumentos">
+            <span class="icon item-search-in-documents"></span>
+            <span class="link">Meklēšana dokumentos</span>
+        </a>
+        <span class="desc">Iespēja atlasīt un apskatīt dokumentus skenētā formā</span>
+    </div>
+
+            </div>
+        
+            <div class="row">
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="http://www.ebr.lv/">
+            <span class="icon item-ebr"></span>
+            <span class="link">Eiropas biznesa reģistrs</span>
+        </a>
+        <span class="desc">Eiropas uzņēmumi un amatpersonas</span>
+    </div>
+
+        
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/zemesgramata">
+            <span class="icon item-6"></span>
+            <span class="link">Zemesgrāmata</span>
+        </a>
+        <span class="desc">Nekustamie īpašumi Latvijā, īpašnieki, saistības un apgrūtinājumi</span>
+    </div>
+
+            </div>
+        
+            <div class="row">
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/maksatnespejas-registrs">
+            <span class="icon item-7"></span>
+            <span class="link">Maksātnespējas</span>
+        </a>
+        <span class="desc">Maksātnespējas process un notikumi</span>
+    </div>
+
+        
+    
+    <div class="menu-quick-item col-md-6 col-sm-6 col-sx-12">
+        <a href="/lv/csdd">
+            <span class="icon item-8"></span>
+            <span class="link">Transporta reģistrs</span>
+        </a>
+        <span class="desc">Transporta līdzekļi, vadītāji  un komercķīlas</span>
+    </div>
+
+            </div>
+    </div>                            <span id="goToTop" onclick="goToTop()"><span><i class="glyphicon glyphicon-chevron-up"></i></span></span>                        </div>
+                    </div>
+
+                    <div class="first-page-right">
+
+                        <div class="calendar-content"><div class="calendar-wrap clear"><div class="calendar-header"><a href="https://www.lursoft.lv/kalendars/01.10.2019/" class="prev">&lt;</a><a href="https://www.lursoft.lv/kalendars/01.10.2020/" class="next">&gt;</a><div class="dropdown-wrap"><div class='year -clear'><span>2020</span><ul class='calendar-dropdown'><li><a href="https://www.lursoft.lv/kalendars/01.01.2020/">2020</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2019/">2019</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2018/">2018</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2017/">2017</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2016/">2016</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2015/">2015</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2014/">2014</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2013/">2013</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2012/">2012</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2011/">2011</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2010/">2010</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2009/">2009</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.01.2008/">2008</a></li>
+</ul></div>
+<div class='month -clear'><span>Oktobris</span><ul class='calendar-dropdown'><li><a href="https://www.lursoft.lv/kalendars/01.01.2020/">Janvāris</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.02.2020/">Februāris</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.03.2020/">Marts</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.04.2020/">Aprīlis</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.05.2020/">Maijs</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.06.2020/">Jūnijs</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.07.2020/">Jūlijs</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.08.2020/">Augusts</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.09.2020/">Septembris</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.10.2020/">Oktobris</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.11.2020/">Novembris</a></li>
+<li><a href="https://www.lursoft.lv/kalendars/01.12.2020/">Decembris</a></li>
+</ul></div></div></div>
+<div class="calendar-body clear"><ul class="week-days"><li>P</li><li>O</li><li>T</li><li>C</li><li>P</li><li>S</li><li>Sv</li></ul><ul class="week-dates"><li class="day ">&nbsp;</li>
+<li class="day ">&nbsp;</li>
+<li class="day ">&nbsp;</li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/01.10.2020/"><span class="date">1</span><span class="changes">742</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/02.10.2020/"><span class="date">2</span><span class="changes">763</span></a></li>
+<li class="day saturday"><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/03.10.2020/"><span class="date">3</span><span class="changes">31</span></a></li>
+<li class="day sunday"><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/04.10.2020/"><span class="date">4</span><span class="changes">48</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/05.10.2020/"><span class="date">5</span><span class="changes">703</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/06.10.2020/"><span class="date">6</span><span class="changes">739</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/07.10.2020/"><span class="date">7</span><span class="changes">678</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/08.10.2020/"><span class="date">8</span><span class="changes">671</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/09.10.2020/"><span class="date">9</span><span class="changes">681</span></a></li>
+<li class="day saturday"><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/10.10.2020/"><span class="date">10</span><span class="changes">26</span></a></li>
+<li class="day sunday"><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/11.10.2020/"><span class="date">11</span><span class="changes">55</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/12.10.2020/"><span class="date">12</span><span class="changes">783</span></a></li>
+<li class="day "><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/13.10.2020/"><span class="date">13</span><span class="changes">724</span></a></li>
+<li class="day  active"><a class="dayNr" target="_top" href="https://www.lursoft.lv/kalendars/14.10.2020/"><span class="date">14</span><span class="changes">654</span></a></li>
+<li class="day ">15</li>
+<li class="day ">16</li>
+<li class="day saturday">17</li>
+<li class="day sunday">18</li>
+<li class="day ">19</li>
+<li class="day ">20</li>
+<li class="day ">21</li>
+<li class="day ">22</li>
+<li class="day ">23</li>
+<li class="day saturday">24</li>
+<li class="day sunday">25</li>
+<li class="day ">26</li>
+<li class="day ">27</li>
+<li class="day ">28</li>
+<li class="day ">29</li>
+<li class="day ">30</li>
+<li class="day saturday">31</li>
+<li class="day sunday">&nbsp;</li>
+</ul></div></div></div>                        <div class="news-widget">
+    <h2>JAUNUMI <a href="http://blog.lursoft.lv/" class="more thin" rel="noopener" target="_blank">VISI JAUNUMI</a></h2>
+    <ul class="menu-news">
+                                    <li>
+                    <span>08.10.2020</span>
+                    <a href="https://blog.lursoft.lv/2020/10/08/28-oktobri-tiessaistes-seminars-celvedis-ieksejas-kontroles-sistemas-izveide-un-klientu-izpete/" rel="noopener" target="_blank">28. oktobrī tiešsaistes seminārs “Ceļvedis iekšējās kontroles sistēmas izveidē un klientu izpētē”</a>
+                </li>
+                            <li>
+                    <span>07.10.2020</span>
+                    <a href="https://blog.lursoft.lv/2020/10/07/kuri-ir-lielakie-un-veiksmigakie-medicinas-nozare-stradajosie-uznemumi/" rel="noopener" target="_blank">Kuri ir lielākie un veiksmīgākie medicīnas nozarē strādājošie uzņēmumi?</a>
+                </li>
+                            <li>
+                    <span>07.10.2020</span>
+                    <a href="https://blog.lursoft.lv/2020/10/07/infografika-2020-gada-pirmie-9-menesi-biznesa/" rel="noopener" target="_blank">Infografika: 2020.gada pirmie 9 mēneši biznesā</a>
+                </li>
+                            <li>
+                    <span>06.10.2020</span>
+                    <a href="https://blog.lursoft.lv/2020/10/06/jauns-pakalpojums-atslegas-vardu-monitorings/" rel="noopener" target="_blank">Jauns pakalpojums – Atslēgas vārdu monitorings</a>
+                </li>
+                            <li>
+                    <span>01.10.2020</span>
+                    <a href="https://blog.lursoft.lv/2020/10/01/datu-atlase-paligs-klientu-datu-bazes-analize/" rel="noopener" target="_blank">Datu atlase – palīgs klientu datu bāzes analīzē</a>
+                </li>
+                        </ul>
+</div>                        <!--/* OpenX Javascript Tag v2.5.60-beta */-->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https':'http') + '://openx.lursoft.lv/www/delivery/ajs.php';
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<script type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/script>");
+//]]>-->
+</script>
+
+<noscript>
+    <a rel="noopener" href='http://openx.lursoft.lv/www/delivery/ck.php?n=fa5ed9&amp;cb=1024b80f47ddd0d8f5e8c29c79c81302' target='_blank'>
+        <img src='http://openx.lursoft.lv/www/delivery/avw.php?zoneid=1&amp;cb=1024b80f47ddd0d8f5e8c29c79c81302&amp;n=fa5ed9' border='0' alt='' />
+    </a>
+</noscript>
+                    </div>
+                </div>
+            </div>
+
+            <footer>
+<div class="row footer-row visible-md visible-lg">
+    <div class="col-md-3 ">
+        <h2>Izvēlne</h2>
+        <nav class="small-menu">
+            <ul>
+            <li><a href="http://blog.lursoft.lv/">Jaunumi</a></li>
+            <li><a href="https://www.lursoft.lv/izcenojumi">Pakalpojumi</a></li>
+            <li><a href="https://www.lursoft.lv/lv/lursoft-norekinu-informacija">Norēķini</a></li>
+            <li><a href="https://www.lursoft.lv/lv/biezak-uzdotie-jautajumi">Biežāk uzdotie jautājumi</a></li>
+            <li><a href="https://www.lursoft.lv/lv/izmantosanas-noteikumi">Lietošanas noteikumi</a></li>
+            <li><a href="https://www.lursoft.lv/lv/par-lursoft">Par Lursoft</a></li>
+            <li><a href="https://www.lursoft.lv/lv/kontaktinformacija">Kontakti</a></li>
+            <li><a href="https://www.lursoft.lv/lv/vakances">Vakances</a></li>
+                        </ul>
+        </nav>
+    </div>
+
+    <div class="col-md-3 coll-middle-contacts visible-md visible-lg">
+        <h2>Lursoft kontakti</h2>
+        <ul class="menu-contacts clear">
+            <li class="contacts-email"><a title="info@lursoft.lv" href="mailto:info@lursoft.lv">info@lursoft.lv</a></li>
+            <li class="contacts-skype"><a title="lursoft.info" href="skype:lursoft.info?chat">lursoft.info</a></li>
+            <li class="contacts-twitter"><a title="@lursoft" href="https://twitter.com/lursoft">@lursoft</a></li>
+            <li class="contacts-phone"><a title="+371 67844300" href="tel:+37167844300">(+371) 67844300</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-3 coll-middle-partners visible-md visible-lg">
+        <h2>Mūsu portāli</h2>
+        <ul class="menu-partners clear">
+            <li><a rel="noopener" target="_blank" title="News.lv" class="partner-news-2" href="http://www.news.lv">News.lv</a></li>
+            <li><a rel="noopener" target="_blank" title="zo.lv" class="partner-zo" href="https://www.zo.lv">zo.lv</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-3 visible-md visible-lg">
+        <h2>Seko mums</h2>
+        <ul class="menu-social clear">
+            <li><a class="social subscribe" rel="nofollow noopener" href="https://mlgn.to/p2f" title="Pieteikties jaunumiem" target="_blank">Mailigen</a></li>
+            <li><a class="social twitter" rel="nofollow noopener" href="https://twitter.com/lursoft" title="Twitter" target="_blank">Twitter</a></li>
+            <li><a class="social facebook" rel="nofollow noopener" href="https://www.facebook.com/pages/Lursoft/244724112740" title="Facebook" target="_blank">Facebook</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-9 copy visible-md visible-lg">
+        <p>© Lursoft, Lursoft IT 1997-2020 Lursoft ir Latvijas Republikas Uzņēmumu Reģistra informācijas atkalizmantotājs. Lietotājs, lietojot sistēmas, apņemas ievērot Autortiesību likumu, Fizisko personu datu apstrādes likuma prasības un Lursoft sistēmas izmantošanas noteikumus. Lietotājam aizliegts izmantot jebkādas automatizētas sistēmas vai iekārtas (robotus) piekļuvei sistēmai bez rakstiskas saskaņošanas ar Lursoft. Datu bāzēs esošajai informācijai ir informatīvs raksturs un tai nav juridiska spēka. Lursoft nenes nekādu atbildību par darbībām vai lēmumiem, kas balstīti uz saņemto pakalpojumu.</p>
+    </div>
+</div>
+
+<div class="row footer-row visible-sm">
+
+    <div class="col-sm-3 small-contacts">
+        <div class="small_copy">© Lursoft, Lursoft IT 1997 - 2020</div>
+    </div>
+
+    <div class="col-sm-3 small-contacts">
+        <a href="mailto:info@lursoft.lv"><div class="contacts-email"></div></a>
+        <div class="contact-data"><a title="info@lursoft.lv" href="mailto:info@lursoft.lv">info@lursoft.lv</a></div>
+    </div>
+
+    <div class="col-sm-3 small-contacts">
+        <a href="skype:lursoft.info?chat"><div class="contacts-skype"></div></a>
+        <div class="contact-data"><a title="lursoft.info" href="skype:lursoft.info?chat">lursoft.info</a></div>
+    </div>
+
+    <a title="+371 67844300" href="tel:+37167844300" class="col-sm-3 small-contacts">
+        <div class="contacts-phone"></div>
+        <div class="contact-data color-grey">(+371) 67844300</div>
+    </a>
+</div>
+
+<div class="row footer-row visible-xs">
+
+    <div class="col-xs-7 small-contacts">
+        <div class="small_copy">© Lursoft, Lursoft IT 1997 - 2020</div>
+    </div>
+
+    <div class="col-xs-5 contact-icons">
+        <a title="+371 67844300" href="tel:+37167844300"><div class="contacts-phone"></div></a>
+        <a title="info@lursoft.lv" href="mailto:info@lursoft.lv"><div class="contacts-email"></div></a>
+        <a title="lursoft.info" href="skype:lursoft.info?chat"><div class="contacts-skype"></div></a>
+    </div>
+
+</div>
+
+</footer>            
+<script type="text/javascript">var loginLink = "Pieslēgties";</script>
+<div id="login-box" class="box-popup">
+    <span class="close-popup"></span>
+    <div class="popup-info">
+        Lai saņemtu šo pakalpojumu, Jums jāpieslēdzas sistēmai.        <div class="target-url"></div>
+    </div>
+</div>
+
+        </div>
+
+        <!-- Quantcast Tag -->
+        <script type="text/javascript">
+            var _qevents = _qevents || [];
+
+            (function() {
+                var elem = document.createElement('script');
+                elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                elem.async = true;
+                elem.type = "text/javascript";
+                var scpt = document.getElementsByTagName('script')[0];
+                scpt.parentNode.insertBefore(elem, scpt);
+            })();
+
+            _qevents.push({
+                qacct:"p-VdvzcZnsdEPrW"
+            });
+        </script>
+
+        <noscript>
+            <div style="display:none;">
+                <img src="//pixel.quantserve.com/pixel/p-VdvzcZnsdEPrW.gif" border="0" height="1" width="1" alt="Quantcast"/>
+            </div>
+        </noscript>
+        <!-- End Quantcast tag -->
+
+    </body>
+</html>

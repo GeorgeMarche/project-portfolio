@@ -1,0 +1,2489 @@
+<!DOCTYPE html>
+<html lang='fr'  class='no-js '>
+<head>
+    <script type="text/javascript">window._gsoi = {cmd:[],settings:{
+  profileURL: 'https://profil.sudouest.fr/remote/getProfileDatas.php',
+    refresh: 300,
+    imports: {
+    'notifications': 'https://assets.sudouest.fr/so/js/modules/notifications.min.js?802ec7471ea556eaa13d46a4b27e931d91870b57',
+    'session': 'https://assets.sudouest.fr/so/js/modules/session.min.js?8ec929a9620a6cad45b181dc4c8b8888877b5d94',
+    'cmp': 'https://assets.sudouest.fr/so/js/modules/cmp.min.js?c97b50daefb93a42ab5210e80528eaf953287e0b',
+    'article': 'https://assets.sudouest.fr/so/js/modules/article.min.js?c53d8d21d73d84108c3fa89ffe6d18250d03776c',
+    'map-pesticides': 'https://assets.sudouest.fr/so/js/modules/map-pesticides.min.js?df1b8f97917f3c122122fe9c41c34d21b13e371f',
+    'charts': 'https://assets.sudouest.fr/so/js/modules/charts.min.js?afff4e8cf972268ae5afa0b9a0b213e1f370d697',
+    'charts-styles': 'https://assets.sudouest.fr/so/css/2018/charts.min.css?4eca30fc96a59c41b26dbfc6db2eab9b526399af',
+    'notifications-styles': 'bundled:css'
+  }
+}};</script>
+            <script>!function(a){a.push({"page_type":"topic","editor":"SO","topic":{"path":"so:www:communes:lot-et-garonne:agen","title":"agen","type":"commune","tags":["lotetgaronne-47-dpt","agen-bdv","agen-canton","agenais-bdc1","agenais-bdc2","agen-47001","ville"],"xtpage":"topics::communes::agen"},"location":[{"departement":"lot-et-garonne","city":"47001-agen","postal_code":"47000","insee_code":"47001","bdv":["agen-bdv"],"bdc":["agenais-bdc1","agenais-bdc2"]}],"dfp":{"publisher_id":25384414,"block1":"sudouest","adUnitPath":"infoslocales\/lot_et_garonne\/agen","targetings":{"famille":["infoslocales"],"ville":["agen"],"insee":["47001"],"canton":["agen"],"bdc1":["agenais"],"bdc2":["agenais"],"departement":["lot_et_garonne"]},"pageType":"topic"}}),a.push({event:"dl_head"})}(window.dataLayer=window.dataLayer||[])</script>
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NG4RXS');</script>
+<!-- End Google Tag Manager -->
+    <title>Agen</title>
+
+                <meta charset="UTF-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=no" name="viewport">
+    <meta content="noarchive, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots">
+<meta content="fr-FR" name="language">
+
+    
+    <meta name="apple-itunes-app" content="app-id=419143234">
+
+    <meta name="google-play-app" content="app-id=com.sudouest.android">
+
+<meta name="gsoi:profil_enabled" content="1">
+    <meta name="gsoi:profil" content="https://profil.sudouest.fr/remote/getProfileDatas.php">
+<meta name="gsoi:account" content="https://profil.sudouest.fr/account/"/>
+<meta name="gsoi:login" content="https://profil.sudouest.fr/login/?SSO_Context=https://www.sudouest.fr/lot-et-garonne/agen/"/>
+
+    <meta name="gsoi:search:autocomplete" content="https://www.sudouest.fr/recherche/autocomplete/">
+
+<meta name="gsoi:yes-no:post" content="/reagir/daccordPasdaccord_voter.php">
+<meta name="gsoi:yes-no:get" content="/reagir/daccordPasdaccord.php">
+<meta name="gsoi:poll:post" content="/question/reponse.php">
+<meta name="gsoi:ad-site" content="_site">
+        <link rel="dns-prefetch" href="//assets.sudouest.fr/">
+<link rel="dns-prefetch" href="//profil.sudouest.fr/">
+<link rel="dns-prefetch" href="//images.sudouest.fr/">
+<link rel="dns-prefetch" href="//www.google-analytics.com/">
+<link rel="dns-prefetch" href="//www.googletagservices.com/">
+<link rel="dns-prefetch" href="//pixel.adsafeprotected.com/">
+<link rel="dns-prefetch" href="//lpm-groupeso.nuggad.net/">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://assets.sudouest.fr/so/apple-icon-57x57.png?6bb31fe1b308d6159f87a41e252cb8849857081a">
+<link rel="apple-touch-icon" sizes="60x60" href="https://assets.sudouest.fr/so/apple-icon-60x60.png?1b9f972faff87ced5ba17ac784c119b6b196498b">
+<link rel="apple-touch-icon" sizes="72x72" href="https://assets.sudouest.fr/so/apple-icon-72x72.png?27ee40709c1630f564edca5a0bebed125c7eb55f">
+<link rel="apple-touch-icon" sizes="76x76" href="https://assets.sudouest.fr/so/apple-icon-76x76.png?eee3ed5d680cb6ddb4520a7af9b655e2b813dcdb">
+<link rel="apple-touch-icon" sizes="114x114" href="https://assets.sudouest.fr/so/apple-icon-114x114.png?ae31b2734f0c86b8d8a41ffcf9ccc93859ecd7b6">
+<link rel="apple-touch-icon" sizes="120x120" href="https://assets.sudouest.fr/so/apple-icon-120x120.png?3a591458aa33739c7738c7da907d42fd5f689800">
+<link rel="apple-touch-icon" sizes="144x144" href="https://assets.sudouest.fr/so/apple-icon-144x144.png?4d7a0f8c34a890d3634fd8d992ed34404cfd6b0d">
+<link rel="apple-touch-icon" sizes="152x152" href="https://assets.sudouest.fr/so/apple-icon-152x152.png?c888b62f6d8876a560d5b88ccf73aebc2859c91b">
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets.sudouest.fr/so/apple-icon-180x180.png?75c7756757b5b4e13777957a3120ab5731815278">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://assets.sudouest.fr/so/android-icon-192x192.png?157a63e244f567b11590fe875a4c9ad5332758e2">
+<link rel="icon" type="image/png" sizes="72x72"  href="https://assets.sudouest.fr/so/android-icon-72x72.png?27ee40709c1630f564edca5a0bebed125c7eb55f">
+<link rel="icon" type="image/png" sizes="144x144"  href="https://assets.sudouest.fr/so/android-icon-144x144.png?4d7a0f8c34a890d3634fd8d992ed34404cfd6b0d">
+<link rel="icon" type="image/png" sizes="32x32" href="https://assets.sudouest.fr/so/favicon-32x32.png?f7dde52c50f4c31b01423fee9edf7a5f3e8cabe6">
+<link rel="icon" type="image/png" sizes="96x96" href="https://assets.sudouest.fr/so/favicon-96x96.png?a50c37533cb59cfca50b36536b354f8f72a8d529">
+<link rel="icon" type="image/png" sizes="16x16" href="https://assets.sudouest.fr/so/favicon-16x16.png?5fca62ccbbf726cb5705ff0e343e1a42fb8267ab">
+<link rel="icon" type="image/x-icon" href="https://assets.sudouest.fr/so/favicon.ico?58cc74d271c78e3bb2f6b2bf3b87af7de0f3de11"/>
+<link rel="shortcut icon" href="https://assets.sudouest.fr/so/favicon-96x96.png?a50c37533cb59cfca50b36536b354f8f72a8d529">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+        <meta name="description" content="Quatre résidents sont morts du coronavirus depuis samedi, selon les syndicats. Une cinquantaine de pensionnaires ont été testés positifs dans l&#039;établissement" />
+
+        <meta name="adpurl-keywords" id="adpurl-keywords" content="agen/lot_et_garonne"/>
+<meta name="adpurl-pageid" id="adpurl-pageid" content="sudouest"/>
+
+                    <link rel="canonical" href="https://www.sudouest.fr/lot-et-garonne/agen/">
+            <link href="https://www.sudouest.fr/lot-et-garonne/agen/rss.xml" rel="alternate" type="application/rss+xml">
+        
+                                                        <meta property="og:type" content="website"/>
+                    <meta property="og:title" content="Agen"/>
+                    <meta property="og:site_name" content="SudOuest.fr"/>
+                    <meta property="og:url" content="https://www.sudouest.fr/lot-et-garonne/agen/"/>
+                    <meta property="og:description" content="Quatre résidents sont morts du coronavirus depuis samedi, selon les syndicats. Une cinquantaine de pensionnaires ont été testés positifs dans l&#039;établissement" />
+                                        
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white" />
+
+
+    <link rel="preload" href="https://assets.sudouest.fr/so/js/head.min.js?d81883af41dbc560814a9d36694ac19f42ff0f30" as="script">
+    <link rel="preload" href="https://assets.sudouest.fr/so/js/init.min.js?db53bb70ce604fa174da24a48c871b4d209739a0" as="script">
+
+    <link href='https://www.sudouest.fr/essentiel/rss.xml' rel='alternate' title='SudOuest : rss actualités' type='application/rss+xml'>
+    <meta property="fb:pages" content="58305334711" />
+
+    <meta name="Identifier-URL" content="https://www.sudouest.fr" />
+    <meta name="publisher" content="Sud Ouest" />
+    <meta name="copyright" content="Sud Ouest" />
+    <meta property="fb:page_id" content="58305334711" />
+
+    
+            <meta name="gsoi:topic" content="agen">
+    
+
+            
+
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.sudouest.fr\/","name":"A la une"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.sudouest.fr\/lot-et-garonne\/","name":"Lot-et-Garonne"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.sudouest.fr\/lot-et-garonne\/agen\/","name":"Agen"}}]}</script>
+<script type="application/ld+json">{"@type":"WebPage","mainEntityOfPage":"\/lot-et-garonne\/agen\/","inLanguage":"fr-FR","@context":"http:\/\/schema.org","publisher":{"@type":"Organization","name":"Sud Ouest","logo":{"@type":"ImageObject","url":"https:\/\/assets.sudouest.fr\/so\/img\/logo-sud-ouest.jpg?67fbe685e18803ad5773ef57c201ed8ab8f234ff","width":"96","height":"80"},"sameAs":["https:\/\/www.facebook.com\/journalsudouest","https:\/\/www.twitter.com\/sudouest","https:\/\/plus.google.com\/+SudOuest"]}}</script></head>
+<body >
+    <style>
+    #splash {background: white; text-align: center; padding-top: 42px; position: fixed; z-index: 99999; top: 0; bottom: 0; left: 0; right: 0;}
+    @media(max-width: 1023px){ #splash > svg{display: none;} }
+    .icon-accent-fill {fill: #d42e1a;}
+    .icon-white-fill {fill: #fff;}
+    .drawer { transform: translate(0, -110%); position: fixed; }
+</style>
+<div id="splash"><svg class="icon-so" viewBox="0 0 88 71" width="88" height="71">
+  <rect x="0" y="0" width="88" height="71" fill="#d42e1a"></rect>
+  <g transform="scale(0.078 0.078) translate(90 90)">
+    <path id="sud-ouest" fill="#fff" d="M408,0H551l52,48V305l-42,41-153,1V0ZM191,115H106V66H90v70l54.72,8.606L191,191V305l-46,41H42L0,303V239H90v47h16V211s-32.335-2-48-3L0,159V49L51,0h94l46,49v66ZM203,0h87V286h19V0h88V304c-14.332,13.665-28.668,28.335-43,42H247c-14.665-14-44-43-44-43V0ZM516,286V66H497s0.667,147.007,1,220h18ZM52,384h90l55,50V688l-46,42H49L0,687V433Zm157,0h86V670h20V384h88V688l-44,42H254l-45-43V384Zm204,0H558v66H501v64h48v68H501v88h57v60H413V384ZM755,499H669q-0.5-24.5-1-49H653c-0.252,12.127-2.72,64.719,2,70l52,9,48,47V688l-48,42H606l-43-43V623h90v47h16c-0.333-25-1-75-1-75l-48-3-57-48V433l51-49h94l47,50v65Zm4-115H929v66H889V730H801q-0.5-139.986-1-280H759V384ZM108,670V450H90V670h18Z"></path>
+  </g>
+</svg>
+</div>
+
+            <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NG4RXS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+            <div class="pub pub_dfp pub_dfp_wallpaper pub_dfp_outofpage"></div>
+
+<div class="pub pub_dfp pub_dfp_interstitiel pub_dfp_outofpage"></div>
+
+<div class="pub pub_dfp pub_dfp_footer_line pub_dfp_outofpage"></div>
+
+<div class="pub pub_dfp pub_dfp_in_read pub_dfp_outofpage"></div>
+
+    
+                            <!-- header -->
+    <header class="header-mobile"><div class="visible-unlogged"><a href="https://abonnement.sudouest.fr" class="btn btn-pill btn-premium"><span class="text">S'abonner</span></a></div><a href="#" class="toggle-drawer"><svg class="icon-menu" viewBox="0 0 25 20"><path class="icon-base-stroke" d="M1 1 24 1 Z" stroke="#000" stroke-linejoin="round"></path><path class="icon-base-stroke" d="M1 10 24 10 Z" stroke="#000" stroke-linejoin="round"></path><path class="icon-base-stroke" d="M1 19 24 19 Z" stroke="#000" stroke-linejoin="round"></path></svg><svg class="icon-close" viewBox="0 0 20 20"><g fill-rule="evenodd"><path class="icon-base-stroke" d="M1 1 19 19 Z" stroke-join="round"></path><path class="icon-base-stroke" d="M1 19 19 1 Z" stroke-join="round"></path></g></svg></a><a href="/"><svg class="icon-so" viewBox="0 0 88 71"><rect x="0" y="0" width="88" height="71" class="icon-accent-fill"></rect><g transform="scale(0.078 0.078) translate(90 90)"><path id="sud-ouest" class="icon-white-fill" d="M408,0H551l52,48V305l-42,41-153,1V0ZM191,115H106V66H90v70l54.72,8.606L191,191V305l-46,41H42L0,303V239H90v47h16V211s-32.335-2-48-3L0,159V49L51,0h94l46,49v66ZM203,0h87V286h19V0h88V304c-14.332,13.665-28.668,28.335-43,42H247c-14.665-14-44-43-44-43V0ZM516,286V66H497s0.667,147.007,1,220h18ZM52,384h90l55,50V688l-46,42H49L0,687V433Zm157,0h86V670h20V384h88V688l-44,42H254l-45-43V384Zm204,0H558v66H501v64h48v68H501v88h57v60H413V384ZM755,499H669q-0.5-24.5-1-49H653c-0.252,12.127-2.72,64.719,2,70l52,9,48,47V688l-48,42H606l-43-43V623h90v47h16c-0.333-25-1-75-1-75l-48-3-57-48V433l51-49h94l47,50v65Zm4-115H929v66H889V730H801q-0.5-139.986-1-280H759V384ZM108,670V450H90V670h18Z"></path></g></svg></a></header><div class="session-status-container"></div><header class="header"><div class="gutter downfrom-tablet"><div class="left-actions"><a href="#"  class="toggle-drawer"><svg class="icon-menu" viewBox="0 0 25 20"><path class="icon-base-stroke" d="M1 1 24 1 Z" stroke="#000" stroke-linejoin="round"></path><path class="icon-base-stroke" d="M1 10 24 10 Z" stroke="#000" stroke-linejoin="round"></path><path class="icon-base-stroke" d="M1 19 24 19 Z" stroke="#000" stroke-linejoin="round"></path></svg><span class="text">Rubriques</span></a><a href="#" data-drawer-search-focus  class="toggle-drawer"><svg class="icon-search" viewBox="0 0 26 26"><g fill="none" fill-rule="evenodd" transform="translate(1 1)"><path class="icon-base-stroke" stroke-width=".5" d="M0.215517241,9.12456897 C0.215517241,14.0366379 4.21206897,18.0340517 9.12413793,18.0340517 C11.1456897,18.0340517 13.012069,17.3564655 14.5086207,16.2185345 L16.312931,18.0228448 C16.325,18.0340517 16.337069,18.0452586 16.3491379,18.0538793 C16.3181034,18.2021552 16.3025862,18.3538793 16.3025862,18.5090517 C16.3025862,19.0978448 16.5318966,19.6521552 16.9491379,20.0685345 L20.5862069,23.7064655 C21.0034483,24.1228448 21.5568966,24.3530172 22.1465517,24.3530172 C22.7362069,24.3530172 23.2896552,24.1228448 23.7068966,23.7064655 C24.1232759,23.2900862 24.3534483,22.7357759 24.3534483,22.1461207 C24.3534483,21.5573276 24.1232759,21.0030172 23.7068966,20.5866379 L20.0689655,16.9478448 C19.6517241,16.5314655 19.0982759,16.3021552 18.5086207,16.3021552 C18.3543103,16.3021552 18.2025862,16.3185345 18.0543103,16.349569 C18.0448276,16.3366379 18.0336207,16.325431 18.0232759,16.3133621 L16.2181034,14.5081897 C17.3568966,13.0116379 18.0336207,11.1461207 18.0336207,9.12456897 C18.0336207,4.2125 14.037069,0.215086207 9.12413793,0.215086207 C4.21206897,0.215086207 0.215517241,4.2125 0.215517241,9.12456897 Z"></path><path class="icon-base-stroke" stroke-width=".5" d="M2.00275862,9.12456897 C2.00275862,13.0521552 5.19758621,16.2469828 9.12431034,16.2469828 C13.0510345,16.2469828 16.2467241,13.0521552 16.2467241,9.12456897 C16.2467241,5.19784483 13.0510345,2.00301724 9.12431034,2.00301724 C5.19758621,2.00301724 2.00275862,5.19784483 2.00275862,9.12456897 Z"></path><path class="icon-accent-fill" d="M12.5193103,5.00948276 C11.2598276,4.18793103 9.77362069,3.8387931 8.34862069,4.06637931 C7.63568966,4.16551724 6.95206897,4.42327586 6.32189655,4.78189655 C5.69086207,5.14310345 5.14,5.64310345 4.65293103,6.21551724 C5.32362069,4.85862069 6.74172414,3.8637931 8.28396552,3.64051724 C9.82103448,3.39741379 11.4727586,3.9137931 12.5193103,5.00948276"></path></g></svg><span class="text">Rechercher</span></a></div><div class="right-actions"><a href="https://profil.sudouest.fr/telechargement/"><svg class="icon-journal" viewBox="0 0 29 26"><g fill="none" fill-rule="evenodd" transform="translate(1 1)"><polyline class="icon-base-stroke" stroke-width=".5" points="26.133 3.4 27.667 3.4 27.667 24.667 0 24.667 0 3.4 1.667 3.4"></polyline><polygon class="icon-base-stroke" stroke-width=".5" points="1.6 .067 13.8 2.533 26.067 .067 25.6 22.267 13.8 24.533 1.6 22.4"></polygon><path class="icon-base-stroke" stroke-width=".5" d="M13.8,2.53333333 L13.8,24.5333333"></path><polygon class="icon-accent-stroke" stroke-width=".5" points="12.2 11.467 3.267 9.867 3.267 2.267 12.2 3.867"></polygon><polygon class="icon-base-stroke" stroke-width=".5" points="15.467 7.733 19.933 6.933 19.933 3.067 15.467 3.867"></polygon><path class="icon-base-fill" fill-rule="nonzero" d="M3.26666667 11.4666667C4.73333333 11.6666667 6.13333333 11.9333333 7.6 12.1333333 9.06666667 12.4 10.4666667 12.6666667 11.8666667 13 10.4 12.8 9 12.5333333 7.53333333 12.3333333 6.13333333 12.0666667 4.66666667 11.8 3.26666667 11.4666667zM3.26666667 13.2666667C4.73333333 13.4666667 6.13333333 13.7333333 7.6 13.9333333 9.06666667 14.2 10.4666667 14.4666667 11.8666667 14.8 10.4 14.6 9 14.3333333 7.53333333 14.1333333 6.13333333 13.8666667 4.66666667 13.6 3.26666667 13.2666667zM3.26666667 15.0666667C4.73333333 15.2666667 6.13333333 15.5333333 7.6 15.7333333 9.06666667 16 10.4666667 16.2666667 11.8666667 16.6 10.4 16.4 9 16.1333333 7.53333333 15.9333333 6.13333333 15.6666667 4.66666667 15.4 3.26666667 15.0666667zM3.26666667 16.8666667C4.73333333 17.0666667 6.13333333 17.3333333 7.6 17.5333333 9.06666667 17.8 10.4666667 18.0666667 11.8666667 18.4 10.4 18.2 9 17.9333333 7.53333333 17.7333333 6.13333333 17.4666667 4.66666667 17.2 3.26666667 16.8666667zM3.26666667 18.7333333C4.73333333 18.9333333 6.13333333 19.2 7.6 19.4 9.06666667 19.6666667 10.4666667 19.9333333 11.8666667 20.2666667 10.4 20.0666667 9 19.8 7.53333333 19.6 6.13333333 19.2666667 4.66666667 19.0666667 3.26666667 18.7333333zM15.4666667 10.1333333C17 9.73333333 18.6 9.46666667 20.2 9.13333333 21.8 8.86666667 23.3333333 8.53333333 24.9333333 8.26666667 23.4 8.66666667 21.8 8.93333333 20.2 9.26666667 18.6 9.6 17.0666667 9.86666667 15.4666667 10.1333333zM15.4666667 11.7333333C17 11.3333333 18.6 11.0666667 20.2 10.7333333 21.8 10.4666667 23.3333333 10.1333333 24.9333333 9.86666667 23.4 10.2666667 21.8 10.5333333 20.2 10.8666667 18.6 11.2 17.0666667 11.4666667 15.4666667 11.7333333zM15.4666667 13.4666667C17 13.0666667 18.6 12.8 20.2 12.4666667 21.8 12.2 23.3333333 11.8666667 24.9333333 11.6 23.4 12 21.8 12.2666667 20.2 12.6 18.6 12.8666667 17.0666667 13.2 15.4666667 13.4666667z"></path><polygon class="icon-base-stroke" stroke-width=".5" points="16.133 21.4 23.6 20.067 23.6 13.667 16.133 15"></polygon></g></svg><span class="text">Journal</span></a><a href="https://profil.sudouest.fr/login/?SSO_Context=https://www.sudouest.fr/lot-et-garonne/agen/"  class="visible-unlogged-inline-block"><svg class="icon-account" viewBox="0 0 23 27"><g fill="none" fill-rule="evenodd" transform="translate(1 1)"><path class="icon-base-stroke" stroke-width=".75" d="M20.8181273,19.2445625 C20.8181273,19.2445625 20.3211273,16.8520625 18.5768545,15.5401875 C16.6690364,13.9445625 13.5241273,14.6320625 12.7420364,14.6320625 C12.1362182,14.4576875 12.3856727,13.7933125 12.3856727,13.3739375 C15.3390364,11.4520625 15.7660364,9.5651875 16.4062182,7.6076875 C17.3308545,4.1351875 14.8884909,0.2345625 10.4994909,0.2345625 L10.5707636,0.2345625 C6.1824,0.2345625 3.74003636,4.1351875 4.66467273,7.6076875 C5.30485455,9.5651875 5.73185455,11.4520625 8.68521818,13.3739375 C8.68521818,13.7933125 8.93403636,14.4576875 8.32949091,14.6320625 C7.54676364,14.6320625 4.40121818,13.9445625 2.49403636,15.5401875 C0.749763636,16.8520625 0.252763636,19.2445625 0.252763636,19.2445625 C0.252763636,19.2445625 3.59685455,24.6614375 10.8202182,24.6614375 C18.0435818,24.6614375 20.8181273,19.2445625 20.8181273,19.2445625 Z"></path><polyline class="icon-base-stroke" stroke-width=".75" points="7.196 14.536 10.499 17.917 13.875 14.536"></polyline><path class="icon-base-stroke" stroke-width=".75" d="M4.13095455 19.9788125L4.13095455 22.8456875M16.8334091 19.9788125L16.8334091 23.0525625"></path><path class="icon-accent-stroke" stroke-width=".75" d="M4.47401818,5.9273125 C4.47401818,5.9273125 5.69647273,3.6235625 9.71701818,4.8823125 C11.4250182,5.0566875 12.3140182,3.4491875 12.5997455,2.9604375 C13.3112,3.3098125 15.3189273,4.0660625 16.5744727,5.5754375"></path></g></svg><span class="text">S&#039;identifier</span></a><a href="https://profil.sudouest.fr/account/?SSO_Context=https://www.sudouest.fr/lot-et-garonne/agen/"  class="visible-logged-inline-block visible-premium-inline-block"><svg class="icon-account" viewBox="0 0 23 27"><g fill="none" fill-rule="evenodd" transform="translate(1 1)"><path class="icon-base-stroke" stroke-width=".75" d="M20.8181273,19.2445625 C20.8181273,19.2445625 20.3211273,16.8520625 18.5768545,15.5401875 C16.6690364,13.9445625 13.5241273,14.6320625 12.7420364,14.6320625 C12.1362182,14.4576875 12.3856727,13.7933125 12.3856727,13.3739375 C15.3390364,11.4520625 15.7660364,9.5651875 16.4062182,7.6076875 C17.3308545,4.1351875 14.8884909,0.2345625 10.4994909,0.2345625 L10.5707636,0.2345625 C6.1824,0.2345625 3.74003636,4.1351875 4.66467273,7.6076875 C5.30485455,9.5651875 5.73185455,11.4520625 8.68521818,13.3739375 C8.68521818,13.7933125 8.93403636,14.4576875 8.32949091,14.6320625 C7.54676364,14.6320625 4.40121818,13.9445625 2.49403636,15.5401875 C0.749763636,16.8520625 0.252763636,19.2445625 0.252763636,19.2445625 C0.252763636,19.2445625 3.59685455,24.6614375 10.8202182,24.6614375 C18.0435818,24.6614375 20.8181273,19.2445625 20.8181273,19.2445625 Z"></path><polyline class="icon-base-stroke" stroke-width=".75" points="7.196 14.536 10.499 17.917 13.875 14.536"></polyline><path class="icon-base-stroke" stroke-width=".75" d="M4.13095455 19.9788125L4.13095455 22.8456875M16.8334091 19.9788125L16.8334091 23.0525625"></path><path class="icon-accent-stroke" stroke-width=".75" d="M4.47401818,5.9273125 C4.47401818,5.9273125 5.69647273,3.6235625 9.71701818,4.8823125 C11.4250182,5.0566875 12.3140182,3.4491875 12.5997455,2.9604375 C13.3112,3.3098125 15.3189273,4.0660625 16.5744727,5.5754375"></path></g></svg><span class="text">Mon compte</span></a></div><div class="center-section"><div class="left-links"><a href="/premium/"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18"><polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon><polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon></svg><span class="text">Premium</span></a><a href="/communes/"><span class="text">communes</span></a><a href="/unes/faits-divers/"><span class="text">Faits divers</span></a><a href="/politique/sante/coronavirus/"><span class="text">Covid 19</span></a></div><div><a href="/"><svg class="icon-so" viewBox="0 0 88 71"><rect x="0" y="0" width="88" height="71" class="icon-accent-fill"></rect><g transform="scale(0.078 0.078) translate(90 90)"><path id="sud-ouest" class="icon-white-fill" d="M408,0H551l52,48V305l-42,41-153,1V0ZM191,115H106V66H90v70l54.72,8.606L191,191V305l-46,41H42L0,303V239H90v47h16V211s-32.335-2-48-3L0,159V49L51,0h94l46,49v66ZM203,0h87V286h19V0h88V304c-14.332,13.665-28.668,28.335-43,42H247c-14.665-14-44-43-44-43V0ZM516,286V66H497s0.667,147.007,1,220h18ZM52,384h90l55,50V688l-46,42H49L0,687V433Zm157,0h86V670h20V384h88V688l-44,42H254l-45-43V384Zm204,0H558v66H501v64h48v68H501v88h57v60H413V384ZM755,499H669q-0.5-24.5-1-49H653c-0.252,12.127-2.72,64.719,2,70l52,9,48,47V688l-48,42H606l-43-43V623h90v47h16c-0.333-25-1-75-1-75l-48-3-57-48V433l51-49h94l47,50v65Zm4-115H929v66H889V730H801q-0.5-139.986-1-280H759V384ZM108,670V450H90V670h18Z"></path></g></svg></a></div><div class="right-links"><a href="/france/"><span class="text">France</span></a><a href="/sport/"><span class="text">Sport</span></a><a href="/economie/"><span class="text">Économie</span></a><a href="/archives/"><span class="text">Archives</span></a><a href="https://carnet.sudouest.fr"><span class="text">Carnet</span></a><a href="#"  class="toggle-drawer"><svg class="icon-plus" width="20" height="20" viewBox="-1 -1 21 21"><circle cx="10" cy="10" r="9" class="icon-plus-disc"></circle><path class="icon-plus-lines" stroke-linecap="round" d="M5,10 L15,10"></path><path class="icon-plus-lines icon-plus-vertical-line" stroke-linecap="round" d="M10,5 L10,15"></path></svg></a></div></div></div><div class="communes "><div class="gutter"><div><a href="/gironde/bordeaux/"><span class="text">Bordeaux</span></a><a href="/gironde/arcachon/"><span class="text">Arcachon</span></a><a href="/gironde/libourne/"><span class="text">Libourne</span></a><a href="/charente-maritime/la-rochelle/"><span class="text">La rochelle</span></a><a href="/charente-maritime/saintes/"><span class="text">Saintes</span></a><a href="/charente-maritime/royan/"><span class="text">Royan</span></a><a href="/charente/cognac/"><span class="text">Cognac</span></a><a href="/charente/angouleme/"><span class="text">Angoulême</span></a><a href="/dordogne/perigueux/"><span class="text">Périgueux</span></a><a href="/lot-et-garonne/agen/"><span class="text">Agen</span></a><a href="/pyrenees-atlantiques/pau/"><span class="text">Pau</span></a><a href="/pyrenees-atlantiques/bayonne/"><span class="text">Bayonne</span></a><a href="/pyrenees-atlantiques/biarritz/"><span class="text">Biarritz</span></a><a href="/landes/mont-de-marsan/"><span class="text">Mont-de-marsan</span></a><a href="/landes/dax/"><span class="text">Dax</span></a></div></div></div></header>
+
+        
+                                    <!-- alerts -->
+    
+<div class='strip-container alerts-container'>
+</div>
+
+                    
+        <div class="wallpaper-inner-content">
+            <div class="before-content">
+        <!-- before-content -->
+    <div class="pub pub_dfp pub_dfp_banniere_haute gutter base-padding-top sm-base-padding-bottom"></div>
+
+
+    </div>
+
+                    <div class="main-content-header">
+            <!-- main-content-header -->
+    
+<div class="topic-header  gutter base-padding-bottom">
+            <div class="title-wrapper">
+            <h1 class="page-title">Agen&nbsp;(47)</h1>
+                        <div class="page-description"><br /></div>
+            </div>
+    
+    </div>
+
+
+        </div>
+    
+    <div class="gutter">
+            <div class="row">
+
+                            <div class="col-lg-2-3 main-content">
+                    <!-- main-content -->
+    
+<section class="articles essentiel top text-over-image figure-expand-on-phone mobile-text-over-image thema-sudouest">
+        <div class="articles-list essentiel top text-over-image figure-expand-on-phone mobile-text-over-image thema-sudouest">
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/lot-et-garonne-un-deces-supplementaire-a-l-ehpad-de-nerac-7961353-3788.php">                                                                                            
+                                    <img  alt="Lot-et-Garonne&#x20;&#x3A;&#x20;un&#x20;d&#x00E9;c&#x00E8;s&#x20;suppl&#x00E9;mentaire&#x20;&#x00E0;&#x20;l&#x27;Ehpad&#x20;de&#x20;N&#x00E9;rac" src="https://images.sudouest.fr/2020/10/14/5f87216966a4bdc857d0c6ee/widescreen/660x330/une-cinquantaine-de-residents.jpg">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-un-deces-supplementaire-a-l-ehpad-de-nerac-7961353-3788.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: un d&eacute;c&egrave;s suppl&eacute;mentaire &agrave; l&rsquo;Ehpad de N&eacute;rac</h2></a>                
+                                                            <div class="article-description">
+                            Quatre r&eacute;sidents sont morts du coronavirus depuis samedi, selon les syndicats. Une cinquantaine de pensionnaires ont &eacute;t&eacute; test&eacute;s positifs dans l&rsquo;&eacute;tablissement
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+        
+        
+            </div>
+</section>
+
+    
+<section class="articles default top article image-on-left-1-2 mobile-compact-with-border">
+        <div class="articles-list default top article image-on-left-1-2 mobile-compact-with-border">
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-un-village-herite-d-un-million-d-euros-7960729-1124.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f870a1c66a4bdb722d0c6dd\/widescreen\/330x165\/un-habitant-de-serignac.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;un&#x20;village&#x20;h&#x00E9;rite&#x20;d&#x27;un&#x20;million&#x20;d&#x27;euros" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-un-village-herite-d-un-million-d-euros-7960729-1124.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: un village h&eacute;rite d&rsquo;un million d&rsquo;euros</h2></a>                
+                                                            <div class="article-description">
+                            Un ancien cantonnier a fait don de sa fortune &agrave; la commune de S&eacute;rignac
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/charente/serignac/"  class="tag  ">
+    <span class="text">Sérignac</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/13/agroalimentaire-en-lot-et-garonne-130-emplois-menaces-a-la-saviel-7957750-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f86c4bb66a4bdea2ed0c6db\/widescreen\/330x165\/les-salaries-devant.jpg&quot;}" alt="Agroalimentaire&#x20;en&#x20;Lot-et-Garonne&#x20;&#x3A;&#x20;les&#x20;130&#x20;salari&#x00E9;s&#x20;de&#x20;la&#x20;Saviel&#x20;sous&#x20;le&#x20;choc" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/agroalimentaire-en-lot-et-garonne-130-emplois-menaces-a-la-saviel-7957750-3603.php"><h2 class="article-title">Agroalimentaire en Lot-et-Garonne&nbsp;: les 130&nbsp;salari&eacute;s de la Saviel sous le choc</h2></a>                
+                                                            <div class="article-description">
+                            Le groupe a annonc&eacute; mardi 13&nbsp;octobre son intention de transf&eacute;rer les activit&eacute;s de son site de l&rsquo;Agropole vers ses autres sites en France. Les salari&eacute;s l&rsquo;ont appris pour la plupart par la&hellip;
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/le-passage/"  class="tag  ">
+    <span class="text">Le Passage d'Agen</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+                            <div class="pub pub_dfp pub_dfp_publi_info_dep base-margin-bottom"></div>
+
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/lot-et-garonne-l-entreprise-fonroche-sujet-d-un-reportage-tele-7960710-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86f5f166a4bd7762d0c6ea\/widescreen\/330x165\/yann-maus-le-pdg-de.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;l&#x27;entreprise&#x20;Fonroche,&#x20;sujet&#x20;d&#x27;un&#x20;reportage&#x20;t&#x00E9;l&#x00E9;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-l-entreprise-fonroche-sujet-d-un-reportage-tele-7960710-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: l&rsquo;entreprise Fonroche, sujet d&rsquo;un reportage t&eacute;l&eacute;</h2></a>                
+                                                            <div class="article-description">
+                            Elle a accueilli dans ses murs les cam&eacute;ras de TF1.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/roquefort/"  class="tag  ">
+    <span class="text">Roquefort</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-patrick-cassany-sort-de-son-silence-7960706-3900.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86f5a966a4bdda76d0c6e1\/widescreen\/330x165\/patrick-cassany-ancien.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;Patrick&#x20;Cassany&#x20;sort&#x20;de&#x20;son&#x20;silence" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-patrick-cassany-sort-de-son-silence-7960706-3900.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: Patrick Cassany sort de son silence</h2></a>                
+                                                            <div class="article-description">
+                            S&eacute;v&egrave;rement battu en juin dernier, l&rsquo;ancien maire de Villeneuve-sur-Lot a pris du recul durant l&rsquo;&eacute;t&eacute;.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/villeneuve-sur-lot/"  class="tag  ">
+    <span class="text">Villeneuve-sur-Lot</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-la-cci-va-s-installer-au-passage-temporairement-7961546-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f87292166a4bdcd1bd0c6e4\/widescreen\/330x165\/les-agents-de-la-cci.jpg&quot;}" alt="Lot-et-Garonne&#x3A;&#x20;La&#x20;CCI&#x20;va&#x20;s&#x2019;installer&#x20;au&#x20;Passage,&#x20;temporairement" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-la-cci-va-s-installer-au-passage-temporairement-7961546-3603.php"><h2 class="article-title">Lot-et-Garonne: La CCI va s&rsquo;installer au Passage, temporairement</h2></a>                
+                                                            <div class="article-description">
+                            La chambre consulaire va investir les anciens locaux de l&rsquo;Apave, &agrave; c&ocirc;t&eacute; du parc Walibi. Un choix que le vice-pr&eacute;sident Fr&eacute;d&eacute;ric P&eacute;chavy d&eacute;taille
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+        
+        
+            </div>
+</section>
+
+    <div class="sidebar-section  base-padding-top downfrom-tablet">
+    
+    
+<article class="article file dossier-headline thema-sudouest " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/dossiers/affaire-des-reclus-de-monflanq/">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/09\/14\/5f5f5b0f66a4bda72bd490ca\/widescreen\/660x330\/affaire-des-reclus-de.jpg&quot;}" alt="Affaire&#x20;des&#x20;reclus&#x20;de&#x20;Monflanquin&#x20;&#x3A;&#x20;notre&#x20;dossier" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/dossiers/affaire-des-reclus-de-monflanq/"><div class="article-title">Affaire des reclus de Monflanquin&nbsp;: notre dossier</div></a>                
+                                                            <div class="article-description">
+                            Pendant dix ans, les de V&eacute;drines ont &eacute;t&eacute; sous l&rsquo;emprise mentale de Thierry Tilly. Et si "le gourou" a &eacute;t&eacute; condamn&eacute;, en 2013, &agrave; dix ans de prison, la famille n&rsquo;a toujours pas termin&eacute;&hellip;
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                              <span   class="tag  ">
+    <span class="text">Dossier</span>
+</span>
+
+                                    
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                <a class="read-more clear-float " href="/dossiers/affaire-des-reclus-de-monflanq/">
+        <span class="read-more-text">Découvrir tout le dossier</span>
+                    <span class="read-more-arrow"><svg class="icon-chevron" width="8px" height="13px" viewBox="0 0 8 13">
+  <polygon class="icon-base-fill" points="0 1.5 1.5 0 8 6.5 1.5 13 0 11.5 5 6.5"></polygon>
+</svg>
+</span>
+            </a>
+
+                                                </div>
+            </div>
+</article>
+</div>
+
+    
+<section class="articles default top article image-on-left-1-2 mobile-compact-with-border">
+        <div class="articles-list default top article image-on-left-1-2 mobile-compact-with-border">
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/lot-et-garonne-le-guide-hachette-a-un-coup-de-coeur-pour-les-vins-de-buzet-7961039-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f870e1766a4bd244bd0c6e5\/widescreen\/330x165\/les-vins-de-buzet-ont.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;le&#x20;guide&#x20;Hachette&#x20;a&#x20;un&#x20;coup&#x20;de&#x20;coeur&#x20;pour&#x20;les&#x20;vins&#x20;de&#x20;Buzet" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-le-guide-hachette-a-un-coup-de-coeur-pour-les-vins-de-buzet-7961039-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: le guide Hachette a un coup de coeur pour les vins de Buzet</h2></a>                
+                                                            <div class="article-description">
+                            Cinq vins de la coop&eacute;rative sont distingu&eacute;s dans l&rsquo;&eacute;dition 2020.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/buzet-sur-baise/"  class="tag  ">
+    <span class="text">Buzet-sur-Baise</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+                            <div class="pub pub_dfp pub_dfp_publi_info_loc base-margin-bottom"></div>
+
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2019/10/14/dans-le-retro-il-y-a-14-ans-la-condamnation-de-simone-cambou-la-meurtriere-diabolique-du-lot-et-garonne-6698764-5022.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5da5f47666a4bd6931856083\/widescreen\/330x165\/simone-cambou-sur-les.jpg&quot;}" alt="Dans&#x20;le&#x20;r&#x00E9;tro&#x20;&#x3A;&#x20;il&#x20;y&#x20;a&#x20;15&#x20;ans,&#x20;le&#x20;proc&#x00E8;s&#x20;de&#x20;Simone&#x20;Cambou,&#x20;la&#x20;meurtri&#x00E8;re&#x20;&quot;diabolique&quot;&#x20;du&#x20;Lot-et-Garonne" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2019/10/14/dans-le-retro-il-y-a-14-ans-la-condamnation-de-simone-cambou-la-meurtriere-diabolique-du-lot-et-garonne-6698764-5022.php"><h2 class="article-title">Dans le r&eacute;tro&nbsp;: il y a 15&nbsp;ans, le proc&egrave;s de Simone Cambou, la meurtri&egrave;re "diabolique" du Lot-et-Garonne</h2></a>                
+                                                            <div class="article-description">
+                            Le 14&nbsp;octobre 2005, Simone Cambou, la &laquo;&nbsp;Messaline&nbsp;&raquo; du Lot-et-Garonne, &eacute;tait condamn&eacute;e &agrave; la prison &agrave; perp&eacute;tuit&eacute; pour avoir assassin&eacute; son amant Guy Chavernac et fait dispara&icirc;tre son&hellip;
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/unes/faits-divers/"  class="tag  ">
+    <span class="text">Faits divers</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/agen-1000-soutifs-pour-la-lutte-contre-le-cancer-7960368-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f871e9766a4bd984cd0c6df\/widescreen\/330x165\/l-equipe-du-c-est-ici.jpg?v1&quot;}" alt="Agen&#x20;&#x3A;&#x20;1000&#x20;soutifs&#x20;pour&#x20;la&#x20;lutte&#x20;contre&#x20;le&#x20;cancer" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/agen-1000-soutifs-pour-la-lutte-contre-le-cancer-7960368-3603.php"><h2 class="article-title">Agen&nbsp;: 1000&nbsp;soutifs pour la lutte contre le cancer</h2></a>                
+                                                            <div class="article-description">
+                            L&rsquo;&eacute;quipe du bar le C&rsquo;est ici, essentiellement compos&eacute;e d&rsquo;hommes, organise une collecte de soutiens-gorge dans le cadre de l&rsquo;op&eacute;ration Octobre rose.
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="portfolio premium ">
+
+                                                            <div class="article-state"><svg class="icon-grand-format" width="23" height="23" viewBox="0 0 23 23">
+  <circle cx="11.5" cy="11.5" r="11.5" class="icon-label-disc"></circle>
+  <g transform="translate(5 6)">
+    <path class="icon-label-figure-fill" d="M6.5,3.84089432 C7.56068182,3.84089432 8.42045455,4.70066705 8.42045455,5.76134886 C8.42045455,6.82203068 7.56068182,7.68180341 6.5,7.68180341 C5.43931818,7.68180341 4.57954545,6.82203068 4.57954545,5.76134886 C4.57954545,4.70066705 5.43931818,3.84089432 6.5,3.84089432 Z M6.5,3.10225795 C5.02789773,3.10225795 3.84090909,4.28924659 3.84090909,5.76134886 C3.84090909,7.23345114 5.02789773,8.42043977 6.5,8.42043977 C7.97210227,8.42043977 9.15909091,7.23345114 9.15909091,5.76134886 C9.15909091,4.28924659 7.97210227,3.10225795 6.5,3.10225795 Z M11.0795455,2.80680341 C11.3243295,2.80680341 11.5227273,3.00520114 11.5227273,3.24998523 C11.5227273,3.49476932 11.3243295,3.69316705 11.0795455,3.69316705 C10.8347614,3.69316705 10.6363636,3.49476932 10.6363636,3.24998523 C10.6363636,3.00520114 10.8347614,2.80680341 11.0795455,2.80680341 Z M6.5,2.51134886 C8.29148864,2.51134886 9.75,3.97000795 9.75,5.76134886 C9.75,7.55268977 8.29148864,9.01134886 6.5,9.01134886 C4.70865909,9.01134886 3.25,7.55268977 3.25,5.76134886 C3.25,3.97000795 4.70865909,2.51134886 6.5,2.51134886 Z M1.03409091,1.47725795 C0.461204545,1.47725795 0,1.9384625 0,2.51134886 L0,9.01134886 C0,9.58423523 0.461204545,10.0454398 1.03409091,10.0454398 L11.9659091,10.0454398 C12.5387955,10.0454398 13,9.58423523 13,9.01134886 L13,2.51134886 C13,1.9384625 12.5387955,1.47725795 11.9659091,1.47725795 L1.03409091,1.47725795 Z M1.77272727,0.886348864 L4.43181818,0.886348864 L4.43181818,-1.47727273e-05 L1.77272727,-1.47727273e-05 L1.77272727,0.886348864 Z"></path>
+  </g>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-decouvrez-en-images-l-ancien-hopital-de-casteljaloux-7960865-3651.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f87071766a4bda90cd0c6f5\/widescreen\/330x165\/l-etablissement-vide.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;d&#x00E9;couvrez,&#x20;en&#x20;images,&#x20;l&#x27;ancien&#x20;h&#x00F4;pital&#x20;de&#x20;Casteljaloux" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-decouvrez-en-images-l-ancien-hopital-de-casteljaloux-7960865-3651.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: d&eacute;couvrez, en images, l&rsquo;ancien h&ocirc;pital de Casteljaloux</h2></a>                
+                                                            <div class="article-description">
+                            PORTFOLIO- Six ans que l&rsquo;ancien hospice devenu h&ocirc;pital est &agrave; vendre. L&rsquo;ensemble est aujourd&rsquo;hui estim&eacute; &agrave; pr&egrave;s de 700&nbsp;000&nbsp;euros.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/casteljaloux/"  class="tag  ">
+    <span class="text">Casteljaloux</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/marmande-les-journees-de-douze-heures-a-l-essai-a-l-hopital-7960979-3755.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f870aee66a4bd254bd0c6e1\/widescreen\/330x165\/le-test-ne-concernera.jpg&quot;}" alt="Marmande&#x20;&#x3A;&#x20;les&#x20;journ&#x00E9;es&#x20;de&#x20;douze&#x20;heures&#x20;&#x00E0;&#x20;l&#x27;essai&#x20;&#x00E0;&#x20;l&#x27;h&#x00F4;pital" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/marmande-les-journees-de-douze-heures-a-l-essai-a-l-hopital-7960979-3755.php"><h2 class="article-title">Marmande&nbsp;: les journ&eacute;es de douze heures &agrave; l&rsquo;essai &agrave; l&rsquo;h&ocirc;pital</h2></a>                
+                                                            <div class="article-description">
+                            Cette nouvelle organisation de travail propos&eacute;e par la direction fait d&eacute;bat au sein du personnel
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/marmande/"  class="tag  ">
+    <span class="text">Marmande</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+        
+        
+            </div>
+</section>
+
+    <div class="pub pub_dfp pub_dfp_pave_haut sidebar-section upto-tablet base-margin-bottom"></div>
+
+    <div class="default figure-expand-on-phone mobile-compact-with-border thema-culture base-margin-top base-margin-bottom">
+                                            
+                            
+        <div class="section-title">
+            <a href="/tourisme/lot-et-garonne/" title="Destination Lot-et-Garonne" class="section-title-text"><span>Destination</span> Lot-et-Garonne</a>
+        </div>
+    
+        
+            <div class="row">
+    
+    <div class="col-md-1-3">
+    
+<article class="article premium   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/08/25/une-plage-dans-le-vent-7773057-3632.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/08\/25\/5f44bfef66a4bd101dd490cb\/widescreen\/206x103\/les-chiffres-de-frequentation.jpg&quot;}" alt="Agen&#x20;&#x3A;&#x20;alors,&#x20;&#x00E7;a&#x20;vaut&#x20;quoi&#x20;Garonne&#x20;plage&#x20;&#x3F;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/08/25/une-plage-dans-le-vent-7773057-3632.php"><h2 class="article-title">Agen&nbsp;: alors, &ccedil;a vaut quoi Garonne plage&#8239;?</h2></a>                
+                                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+    </div>
+
+            
+    
+    <div class="col-md-1-3">
+    
+<article class="article premium   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/08/22/buzet-entre-vigne-et-nature-7765790-3712.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/08\/22\/5f4075d966a4bd6d1fd490ce\/widescreen\/206x103\/la-vigne-des-coteaux.jpg&quot;}" alt="La&#x20;balade&#x20;du&#x20;week-end&#x20;en&#x20;Lot-et-Garonne&#x20;&#x3A;&#x20;Buzet,&#x20;entre&#x20;vigne&#x20;et&#x20;nature" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/08/22/buzet-entre-vigne-et-nature-7765790-3712.php"><h2 class="article-title">La balade du week-end en Lot-et-Garonne&nbsp;: Buzet, entre vigne et nature</h2></a>                
+                                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+    </div>
+
+            
+    
+    <div class="col-md-1-3">
+    
+<article class="article premium   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/08/22/le-joyau-du-haut-agenais-7766006-3770.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/08\/22\/5f40769866a4bd2b2dd490cc\/widescreen\/206x103\/monflanquin-est-labellise.jpg&quot;}" alt="Les&#x20;plus&#x20;beaux&#x20;villages&#x20;de&#x20;Lot-et-Garonne&#x20;&#x28;5&#x2F;5&#x29;&#x20;&#x3A;&#x20;Monflanquin,&#x20;le&#x20;joyau&#x20;du&#x20;Haut-Agenais" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/08/22/le-joyau-du-haut-agenais-7766006-3770.php"><h2 class="article-title">Les plus beaux villages de Lot-et-Garonne (5/5)&nbsp;: Monflanquin, le joyau du Haut-Agenais</h2></a>                
+                                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+    </div>
+
+    </div>
+</div>
+    
+    <div class="pub pub_dfp pub_dfp_middle_banniere base-padding-bottom"></div>
+
+    
+<section class="articles default bottom image-on-left-1-3 mobile-compact-with-border">
+        <div class="articles-list default bottom image-on-left-1-3 mobile-compact-with-border">
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/lot-et-garonne-qu-est-ce-qu-on-fait-ce-mercredi-soir-7960893-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f87079866a4bde629d0c6dd\/widescreen\/220x110\/lot-et-garonne-qu-est.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;qu&#x27;est-ce&#x20;qu&#x27;on&#x20;fait&#x20;ce&#x20;mercredi&#x20;soir&#x20;&#x3F;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-qu-est-ce-qu-on-fait-ce-mercredi-soir-7960893-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: qu&rsquo;est-ce qu&rsquo;on fait ce mercredi soir&#8239;?</h2></a>                
+                                                            <div class="article-description">
+                            [The place to be] Voici nos trois coups de coeur pour ce mercredi 14&nbsp;octobre.
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-les-heroines-crevent-l-ecran-lors-du-festival-premieres-toiles-7960650-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86ee4266a4bd7662d0c6e8\/widescreen\/220x110\/pascal-fillol-en-charge.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;les&#x20;h&#x00E9;ro&#x00EF;nes&#x20;cr&#x00E8;vent&#x20;l&#x27;&#x00E9;cran&#x20;lors&#x20;du&#x20;festival&#x20;Premi&#x00E8;res&#x20;toiles" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-les-heroines-crevent-l-ecran-lors-du-festival-premieres-toiles-7960650-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: les h&eacute;ro&iuml;nes cr&egrave;vent l&rsquo;&eacute;cran lors du festival Premi&egrave;res toiles</h2></a>                
+                                                            <div class="article-description">
+                            Le festival de cin&eacute;ma jeune public des Montreurs d&rsquo;images se d&eacute;roule du 17&nbsp;au 31&nbsp;octobre avec une riche programmation, associ&eacute;e &agrave; une s&eacute;rie d&rsquo;animations h&eacute;t&eacute;roclites.
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/ehpad-des-violettes-on-sait-que-ce-n-est-pas-fini-7958968-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f8656d466a4bdb55ad0c6e2\/widescreen\/220x110\/catherine-palfini-representante.jpg&quot;}" alt="Covid-19&#x20;en&#x20;Lot-et-Garonne&#x20;&#x3A;&#x20;&#x00E0;&#x20;l&#x27;Ehpad&#x20;des&#x20;Violettes,&#x20;le&#x20;personnel&#x20;&#x00AB;&#x20;sait&#x20;que&#x20;ce&#x20;n&#x2019;est&#x20;pas&#x20;fini&#x20;&#x00BB;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/ehpad-des-violettes-on-sait-que-ce-n-est-pas-fini-7958968-3603.php"><h2 class="article-title">Covid-19&nbsp;en Lot-et-Garonne&nbsp;: &agrave; l&rsquo;Ehpad des Violettes, le personnel &laquo;&nbsp;sait que ce n&rsquo;est pas fini&nbsp;&raquo;</h2></a>                
+                                                            <div class="article-description">
+                            Apr&egrave;s le d&eacute;c&egrave;s de trois r&eacute;sidents le week-end dernier, les repr&eacute;sentants du personnel demandent plus de moyens humains.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/nerac/"  class="tag  ">
+    <span class="text">Nérac</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/marmande-rencontre-avec-l-auteur-fatima-daas-7960452-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86d39466a4bd843ad0c6de\/widescreen\/220x110\/le-premier-roman-de-fatima.jpg&quot;}" alt="Marmande&#x20;&#x3A;&#x20;bient&#x00F4;t&#x20;une&#x20;rencontre&#x20;avec&#x20;l&#x27;auteur&#x20;Fatima&#x20;Daas" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/marmande-rencontre-avec-l-auteur-fatima-daas-7960452-3603.php"><h2 class="article-title">Marmande&nbsp;: bient&ocirc;t une rencontre avec l&rsquo;auteur Fatima Daas</h2></a>                
+                                                            <div class="article-description">
+                            Cela se passera dans le cadre du festival " Lettres du monde "
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/marmande/"  class="tag  ">
+    <span class="text">Marmande</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/agen-quand-les-sacs-plastiques-font-rever-7960262-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86c96f66a4bd3662d0c6db\/widescreen\/220x110\/le-plastique-peut-etre.jpg&quot;}" alt="Agen&#x20;&#x3A;&#x20;quand&#x20;les&#x20;sacs&#x20;plastiques&#x20;font&#x20;r&#x00EA;ver" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/agen-quand-les-sacs-plastiques-font-rever-7960262-3603.php"><h2 class="article-title">Agen&nbsp;: quand les sacs plastiques font r&ecirc;ver</h2></a>                
+                                                            <div class="article-description">
+                            On peut faire de la po&eacute;sie avec ces objets. A voir samedi 17&nbsp;octobre au th&eacute;&acirc;tre Ducourneau
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/14/lot-et-garonne-le-duo-loula-b-reprend-le-live-7960108-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86be2866a4bd5103d0c6da\/widescreen\/220x110\/le-duo-loula-b-reprend.jpg?v1&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;le&#x20;duo&#x20;Loula&#x20;B&#x20;reprend&#x20;le&#x20;live" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-le-duo-loula-b-reprend-le-live-7960108-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: le duo Loula B reprend le live</h2></a>                
+                                                            <div class="article-description">
+                            Le duo lot-et-garonnais se produit &agrave; la salle des Consuls &agrave; Monflanquin.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/monflanquin/"  class="tag  ">
+    <span class="text">Monflanquin</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="portfolio  ">
+
+                                                            <div class="article-state"><svg class="icon-grand-format" width="23" height="23" viewBox="0 0 23 23">
+  <circle cx="11.5" cy="11.5" r="11.5" class="icon-label-disc"></circle>
+  <g transform="translate(5 6)">
+    <path class="icon-label-figure-fill" d="M6.5,3.84089432 C7.56068182,3.84089432 8.42045455,4.70066705 8.42045455,5.76134886 C8.42045455,6.82203068 7.56068182,7.68180341 6.5,7.68180341 C5.43931818,7.68180341 4.57954545,6.82203068 4.57954545,5.76134886 C4.57954545,4.70066705 5.43931818,3.84089432 6.5,3.84089432 Z M6.5,3.10225795 C5.02789773,3.10225795 3.84090909,4.28924659 3.84090909,5.76134886 C3.84090909,7.23345114 5.02789773,8.42043977 6.5,8.42043977 C7.97210227,8.42043977 9.15909091,7.23345114 9.15909091,5.76134886 C9.15909091,4.28924659 7.97210227,3.10225795 6.5,3.10225795 Z M11.0795455,2.80680341 C11.3243295,2.80680341 11.5227273,3.00520114 11.5227273,3.24998523 C11.5227273,3.49476932 11.3243295,3.69316705 11.0795455,3.69316705 C10.8347614,3.69316705 10.6363636,3.49476932 10.6363636,3.24998523 C10.6363636,3.00520114 10.8347614,2.80680341 11.0795455,2.80680341 Z M6.5,2.51134886 C8.29148864,2.51134886 9.75,3.97000795 9.75,5.76134886 C9.75,7.55268977 8.29148864,9.01134886 6.5,9.01134886 C4.70865909,9.01134886 3.25,7.55268977 3.25,5.76134886 C3.25,3.97000795 4.70865909,2.51134886 6.5,2.51134886 Z M1.03409091,1.47725795 C0.461204545,1.47725795 0,1.9384625 0,2.51134886 L0,9.01134886 C0,9.58423523 0.461204545,10.0454398 1.03409091,10.0454398 L11.9659091,10.0454398 C12.5387955,10.0454398 13,9.58423523 13,9.01134886 L13,2.51134886 C13,1.9384625 12.5387955,1.47725795 11.9659091,1.47725795 L1.03409091,1.47725795 Z M1.77272727,0.886348864 L4.43181818,0.886348864 L4.43181818,-1.47727273e-05 L1.77272727,-1.47727273e-05 L1.77272727,0.886348864 Z"></path>
+  </g>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/lot-et-garonne-ces-mairies-qui-se-parent-de-rose-7960314-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86cbec66a4bd3362d0c6dc\/widescreen\/220x110\/la-mairie-de-saint-martin.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;ces&#x20;mairies&#x20;qui&#x20;se&#x20;parent&#x20;de&#x20;rose" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/lot-et-garonne-ces-mairies-qui-se-parent-de-rose-7960314-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: ces mairies qui se parent de rose</h2></a>                
+                                                            <div class="article-description">
+                            Un peu partout dans le d&eacute;partement, les mairies arborent des &eacute;clairages rose pour manifester leur soutien &agrave; l&rsquo;op&eacute;ration Octobre rose.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/virazeil/"  class="tag  ">
+    <span class="text">Virazeil</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/13/une-strategie-d-equipe-7959979-10418.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f86b00466a4bd8a5dd0c6df\/widescreen\/220x110\/nina-mercier-de-sainte.jpg?v1&quot;}" alt="Agen&#x20;&#x3A;&#x20;Nina&#x20;Mercier&#x20;de&#x20;Sainte-Croix,&#x20;nouvelle&#x20;directrice&#x20;de&#x20;l&#x27;action&#x20;culturelle" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/une-strategie-d-equipe-7959979-10418.php"><h2 class="article-title">Agen&nbsp;: Nina Mercier de Sainte-Croix, nouvelle directrice de l&rsquo;action culturelle</h2></a>                
+                                                            <div class="article-description">
+                            Elle a l&rsquo;ambition de renforcer la coh&eacute;sion des divers lieux et leur communication
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/13/lot-et-garonne-l-ancien-leader-de-la-cgt47-marc-maisonnave-est-mort-7957981-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f8602d266a4bd1263d0c6e1\/widescreen\/220x110\/marc-maisonnave-a-dirige.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;l&#x27;ancien&#x20;leader&#x20;de&#x20;la&#x20;CGT47&#x20;Marc&#x20;Maisonnave&#x20;est&#x20;mort" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/lot-et-garonne-l-ancien-leader-de-la-cgt47-marc-maisonnave-est-mort-7957981-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: l&rsquo;ancien leader de la CGT47&nbsp;Marc Maisonnave est mort</h2></a>                
+                                                            <div class="article-description">
+                            Il avait &eacute;t&eacute; le leader d&eacute;partemental du syndicat durant de nombreuses ann&eacute;es
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/tonneins/"  class="tag  ">
+    <span class="text">Tonneins</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/dix-de-der-pour-stanislas-pindel-dit-le-polak-7958959-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f8656cc66a4bd375cd0c6db\/widescreen\/220x110\/stanislas-pindel-a-ete.jpg&quot;}" alt="Les&#x20;archives&#x20;du&#x20;crime&#x20;&#x28;3&#x2F;3&#x29;&#x20;&#x3A;&#x20;dix&#x20;de&#x20;der&#x20;pour&#x20;Stanislas&#x20;Pindel,&#x20;dit&#x20;&#x00AB;&#x20;le&#x20;Polak&#x20;&#x00BB;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/dix-de-der-pour-stanislas-pindel-dit-le-polak-7958959-3603.php"><h2 class="article-title">Les archives du crime (3/3)&nbsp;: dix de der pour Stanislas Pindel, dit &laquo;&nbsp;le Polak&nbsp;&raquo;</h2></a>                
+                                                            <div class="article-description">
+                            Un soir de d&eacute;cembre 1957, Mme Farne vient de signaler la disparition de son mari aux policiers&hellip; R&eacute;cit du proc&egrave;s de son meurtrier.
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/13/lot-et-garonne-le-departement-malade-de-l-acces-aux-soins-7957255-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85c7e866a4bd5457d0c6da\/widescreen\/220x110\/le-lot-et-garonne-fait.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;le&#x20;d&#x00E9;partement&#x20;malade&#x20;de&#x20;l&#x27;acc&#x00E8;s&#x20;aux&#x20;soins" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/lot-et-garonne-le-departement-malade-de-l-acces-aux-soins-7957255-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: le d&eacute;partement malade de l&rsquo;acc&egrave;s aux soins</h2></a>                
+                                                            <div class="article-description">
+                            L&rsquo;Observatoire de la sant&eacute; indique une situation "extr&ecirc;mement tendue"
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/14/ils-militent-pour-le-don-d-organes-7959019-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/14\/5f86a3a366a4bd3305d0c6dc\/widescreen\/220x110\/l-association-adot-organisatrice.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;ils&#x20;militent&#x20;pour&#x20;le&#x20;don&#x20;d&#x2019;organes" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/14/ils-militent-pour-le-don-d-organes-7959019-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: ils militent pour le don d&rsquo;organes</h2></a>                
+                                                            <div class="article-description">
+                            Une conf&eacute;rence d&rsquo;information sur le don d&rsquo;organes est organis&eacute;e au Passage d&rsquo;Agen.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/le-passage/"  class="tag  ">
+    <span class="text">Le Passage d'Agen</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/13/deces-a-l-ehpad-de-nerac-les-syndicats-tirent-la-sonnette-d-alarme-7956525-3788.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85941166a4bd9762d0c6eb\/widescreen\/220x110\/trois-octogenaires-sont.jpg&quot;}" alt="Covid-19&#x20;&#x00E0;&#x20;l&#x27;Ehpad&#x20;de&#x20;N&#x00E9;rac&#x20;&#x3A;&#x20;les&#x20;syndicats&#x20;inquiets&#x20;apr&#x00E8;s&#x20;trois&#x20;d&#x00E9;c&#x00E8;s&#x20;et&#x20;50&#x20;cas&#x20;positifs" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/deces-a-l-ehpad-de-nerac-les-syndicats-tirent-la-sonnette-d-alarme-7956525-3788.php"><h2 class="article-title">Covid-19 &agrave; l&rsquo;Ehpad de N&eacute;rac&nbsp;: les syndicats inquiets apr&egrave;s trois d&eacute;c&egrave;s et 50&nbsp;cas positifs</h2></a>                
+                                                            <div class="article-description">
+                            Trois d&eacute;c&egrave;s en un week-end, 50&nbsp;cas positifs au Covid-19, 16&nbsp;n&eacute;gatifs et un personnel "&eacute;puis&eacute;". Les repr&eacute;sentants syndicaux de l&rsquo;Ehpad de N&eacute;rac tirent la sonnette d&rsquo;alarme
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/nerac/"  class="tag  ">
+    <span class="text">Nérac</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/13/villeneuve-sur-lot-le-psv-accueille-ses-premiers-patients-covid-7957344-3900.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85ceeb66a4bdc056d0c6e1\/widescreen\/220x110\/le-pole-de-sante-du.jpg&quot;}" alt="Villeneuve-sur-Lot&#x20;&#x3A;&#x20;le&#x20;P&#x00F4;le&#x20;de&#x20;sant&#x00E9;&#x20;accueille&#x20;ses&#x20;premiers&#x20;&quot;patients&#x20;Covid&quot;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/villeneuve-sur-lot-le-psv-accueille-ses-premiers-patients-covid-7957344-3900.php"><h2 class="article-title">Villeneuve-sur-Lot&nbsp;: le P&ocirc;le de sant&eacute; accueille ses premiers "patients Covid"</h2></a>                
+                                                            <div class="article-description">
+                            Orient&eacute;s vers le centre hospitalier d&rsquo;Agen voire le CHU de Bordeaux lors de la premi&egrave;re vague, ils arrivent, en lien avec le cluster de N&eacute;rac.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/villeneuve-sur-lot/"  class="tag  ">
+    <span class="text">Villeneuve-sur-Lot</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="portfolio premium ">
+
+                                                            <div class="article-state"><svg class="icon-grand-format" width="23" height="23" viewBox="0 0 23 23">
+  <circle cx="11.5" cy="11.5" r="11.5" class="icon-label-disc"></circle>
+  <g transform="translate(5 6)">
+    <path class="icon-label-figure-fill" d="M6.5,3.84089432 C7.56068182,3.84089432 8.42045455,4.70066705 8.42045455,5.76134886 C8.42045455,6.82203068 7.56068182,7.68180341 6.5,7.68180341 C5.43931818,7.68180341 4.57954545,6.82203068 4.57954545,5.76134886 C4.57954545,4.70066705 5.43931818,3.84089432 6.5,3.84089432 Z M6.5,3.10225795 C5.02789773,3.10225795 3.84090909,4.28924659 3.84090909,5.76134886 C3.84090909,7.23345114 5.02789773,8.42043977 6.5,8.42043977 C7.97210227,8.42043977 9.15909091,7.23345114 9.15909091,5.76134886 C9.15909091,4.28924659 7.97210227,3.10225795 6.5,3.10225795 Z M11.0795455,2.80680341 C11.3243295,2.80680341 11.5227273,3.00520114 11.5227273,3.24998523 C11.5227273,3.49476932 11.3243295,3.69316705 11.0795455,3.69316705 C10.8347614,3.69316705 10.6363636,3.49476932 10.6363636,3.24998523 C10.6363636,3.00520114 10.8347614,2.80680341 11.0795455,2.80680341 Z M6.5,2.51134886 C8.29148864,2.51134886 9.75,3.97000795 9.75,5.76134886 C9.75,7.55268977 8.29148864,9.01134886 6.5,9.01134886 C4.70865909,9.01134886 3.25,7.55268977 3.25,5.76134886 C3.25,3.97000795 4.70865909,2.51134886 6.5,2.51134886 Z M1.03409091,1.47725795 C0.461204545,1.47725795 0,1.9384625 0,2.51134886 L0,9.01134886 C0,9.58423523 0.461204545,10.0454398 1.03409091,10.0454398 L11.9659091,10.0454398 C12.5387955,10.0454398 13,9.58423523 13,9.01134886 L13,2.51134886 C13,1.9384625 12.5387955,1.47725795 11.9659091,1.47725795 L1.03409091,1.47725795 Z M1.77272727,0.886348864 L4.43181818,0.886348864 L4.43181818,-1.47727273e-05 L1.77272727,-1.47727273e-05 L1.77272727,0.886348864 Z"></path>
+  </g>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/13/lot-et-garonne-les-20-ans-de-l-enap-en-images-7956536-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85995b66a4bdce26d0c6e3\/widescreen\/220x110\/le-2-aout-2018-la-196e.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;les&#x20;20&#x20;ans&#x20;de&#x20;l&#x27;Enap&#x20;en&#x20;images" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/lot-et-garonne-les-20-ans-de-l-enap-en-images-7956536-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: les 20&nbsp;ans de l&rsquo;Enap en images</h2></a>                
+                                                            <div class="article-description">
+                            L&rsquo;Ecole nationale d&rsquo;administration p&eacute;nitentiaire a &eacute;t&eacute; d&eacute;localis&eacute;e en ao&ucirc;t 2000&nbsp;sur la commune d&rsquo;Agen. Retour sur deux d&eacute;cennies au sein de l&rsquo;&eacute;tablissement public qui forme les agents&hellip;
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article premium  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class=" premium ">
+
+                                                            <div class="article-state"><svg class="icon-premium" width="33" height="18" viewBox="0 0 33 18">
+  <polygon class="icon-premium-flag" points=".017 18 33 18 26 9 33 0 .017 0"></polygon>
+  <polygon class="icon-premium-flag-crown" points="8 5 8 11.4 8 14 20 14 20 11.4 20 5 17 7.6 14 3 11 7.6"></polygon>
+</svg>
+</div>
+                                    
+                <a href="/2020/10/13/un-nouvel-insecte-identifie-a-damazan-7957054-10418.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85b9ec66a4bdd342d0c6dd\/widescreen\/220x110\/stenonemobius-gracili.jpg?v1&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;quel&#x20;est&#x20;donc&#x20;ce&#x20;nouvel&#x20;insecte&#x20;identifi&#x00E9;&#x20;&#x00E0;&#x20;Damazan&#x20;&#x3F;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/un-nouvel-insecte-identifie-a-damazan-7957054-10418.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: quel est donc ce nouvel insecte identifi&eacute; &agrave; Damazan&#8239;?</h2></a>                
+                                                            <div class="article-description">
+                            Une esp&egrave;ce de grillon, originaire d&rsquo;Asie centrale et d&rsquo;Afrique du nord, a &eacute;t&eacute; observ&eacute;e dans le d&eacute;partement au mois de septembre.
+                        </div>
+                                    
+                                                                                    
+<div class="article-metas">
+    
+                
+                                                            
+                        <a href="/lot-et-garonne/damazan/"  class="tag  ">
+    <span class="text">Damazan</span>
+</a>
+
+        
+        
+        
+                            
+                        
+                            </div>
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+                    
+            
+            
+            
+            
+                        
+<article class="article  article-title-bold " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                                        
+                            
+                <figure class="  ">
+
+                
+                <a href="/2020/10/13/lot-et-garonne-ivg-au-bout-de-14-semaines-l-emotion-des-deux-responsables-de-lr-47-7957270-3603.php">                                                                                            
+                                    <img class="lazy thumbnail" data-lazy="{&quot;src&quot;:&quot;https:\/\/images.sudouest.fr\/2020\/10\/13\/5f85caaa66a4bd1d5dd0c6e0\/widescreen\/220x110\/christine-bonfanti-dossa.jpg&quot;}" alt="Lot-et-Garonne&#x20;&#x3A;&#x20;IVG&#x20;au&#x20;bout&#x20;de&#x20;14&#x20;semaines,&#x20;&quot;l&#x27;&#x00E9;motion&quot;&#x20;des&#x20;deux&#x20;responsables&#x20;de&#x20;LR&#x20;47" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==">
+                                                                                </a>
+                
+                
+                            </figure>
+        
+    
+                    
+
+                    <div class="article-wrapper">
+                                
+                                    <a href="/2020/10/13/lot-et-garonne-ivg-au-bout-de-14-semaines-l-emotion-des-deux-responsables-de-lr-47-7957270-3603.php"><h2 class="article-title">Lot-et-Garonne&nbsp;: IVG au bout de 14&nbsp;semaines, "l&rsquo;&eacute;motion" des deux responsables de LR 47</h2></a>                
+                                                            <div class="article-description">
+                            La s&eacute;natrice Christine Bonfanti-Dossat et Muriel Boulmier, d&eacute;l&eacute;gu&eacute;e de la circonscription d&rsquo;Agen, signent un texte commun sur ce sujet.
+                        </div>
+                                    
+                                                                                    
+
+                                    
+            
+                                                                </div>
+            </div>
+</article>
+
+            
+
+        
+                            <nav class="pagination">
+        <ul>
+            
+                                            <li>
+                    <a href="/lot-et-garonne/agen/"
+                       class="page active">1</a>
+                </li>
+                                                            <li>
+                    <a href="/lot-et-garonne/agen/?page=2"
+                       class="page ">2</a>
+                </li>
+                                                            <li>
+                    <a href="/lot-et-garonne/agen/?page=3"
+                       class="page ">3</a>
+                </li>
+                                                            <li>...</li>
+                                                            <li>
+                    <a href="/lot-et-garonne/agen/?page=150"
+                       class="page ">150</a>
+                </li>
+                            
+                            <li>
+                    <a class="next" href="/lot-et-garonne/agen/?page=2">
+                        <svg class="icon-chevron" width="8px" height="13px" viewBox="0 0 8 13">
+  <polygon class="icon-base-fill" points="0 1.5 1.5 0 8 6.5 1.5 13 0 11.5 5 6.5"></polygon>
+</svg>
+
+                    </a>
+                </li>
+                    </ul>
+    </nav>
+    
+        
+            </div>
+</section>
+
+    <div class="articles-plus  base-padding-bottom base-margin-top downfrom-desktop thema-sudouest">
+    <div class="section-title">
+        <span class="section-title-text">
+            Les plus
+        </span>
+    </div>
+    <div class="row">
+        <div class="col-md-4-8 compact-with-bullet thema-sudouest">
+            <h5>lus</h5>
+            
+<div class="articles-list">
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/covid-19-en-france-etat-d-urgence-sanitaire-couvre-feu-teletravail-quelles-sont-les-options-du-gouvernement-7956168-10861.php"><div class="article-title">Covid-19&nbsp;en France&nbsp;: &eacute;tat d&rsquo;urgence sanitaire, couvre-feu, t&eacute;l&eacute;travail&hellip; Quelles sont les options du gouvernement&#8239;?</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/inondations-meurtrieres-dans-les-alpes-maritimes-l-impossible-identification-des-corps-emportes-par-les-flots-7956264-4971.php"><div class="article-title">Inondations meurtri&egrave;res dans les Alpes-Maritimes&nbsp;: l&rsquo;impossible identification des corps emport&eacute;s par les flots</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/landes-deux-enfants-enchainent-les-degradations-a-l-ecole-et-au-cimetiere-d-arengosse-7956284-3452.php"><div class="article-title">Landes&nbsp;: d&eacute;gradations au cimeti&egrave;re et &agrave; l&rsquo;&eacute;cole, deux enfants de 10&nbsp;et 12&nbsp;ans bient&ocirc;t entendus par les gendarmes</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/14/landes-un-bus-scolaire-accidente-avec-50-enfants-a-bord-7959926-3452.php"><div class="article-title">Landes&nbsp;: un bus scolaire accident&eacute; avec 38&nbsp;enfants &agrave; bord</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/14/mort-de-victorine-en-isere-un-suspect-interpelle-7960275-7.php"><div class="article-title">Mort de Victorine en Is&egrave;re&nbsp;: ce que l&rsquo;on sait du suspect de 25&nbsp;ans interpell&eacute; mardi</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+    </div>
+
+        </div>
+
+        <div class="col-md-4-8 compact-with-bullet thema-sudouest">
+            <h5>commentés</h5>
+            
+<div class="articles-list">
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/covid-19-en-france-etat-d-urgence-sanitaire-couvre-feu-teletravail-quelles-sont-les-options-du-gouvernement-7956168-10861.php"><div class="article-title">Covid-19&nbsp;en France&nbsp;: &eacute;tat d&rsquo;urgence sanitaire, couvre-feu, t&eacute;l&eacute;travail&hellip; Quelles sont les options du gouvernement&#8239;?</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/coronavirus-et-economie-les-entreprises-sous-perfusion-la-vague-de-faillites-attendue-en-2021-7956886-705.php"><div class="article-title">Coronavirus et &eacute;conomie&nbsp;: "les entreprises sous perfusion", la vague de faillites attendue en 2021</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/14/covid-19-les-restrictions-vont-crescendo-en-europe-deux-essais-cliniques-suspendus-7959970-10997.php"><div class="article-title">Covid-19&nbsp;:  les restrictions vont crescendo en Europe, la France dans l&rsquo;attente</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/14/manque-d-effectifs-demissions-l-hopital-public-appelle-les-volontaires-en-renfort-7960054-10861.php"><div class="article-title">Manque d&rsquo;effectifs, d&eacute;missions&hellip; L&rsquo;h&ocirc;pital public appelle les volontaires en renfort</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+            
+        
+<article class="article   " role="article">
+    <div class="inner-article " data-count="0">
+        
+                                    
+
+                    <div class="article-wrapper">
+                    
+                                    <a href="/2020/10/13/gestion-du-covid-19-les-experts-mandates-par-macron-pointent-des-defauts-manifestes-7956808-10861.php"><div class="article-title">Covid-19&nbsp;: la crise est-elle bien g&eacute;r&eacute;e en France&#8239;? Des experts pointent des "d&eacute;fauts manifestes"</div></a>                
+                                                    
+                    
+                                                                </div>
+            </div>
+</article>
+    </div>
+
+        </div>
+
+            </div>
+</div>
+
+                </div>
+            
+                            <aside class="col-lg-1-3 downfrom-tablet sidebar top">
+                    <div data-placeholder-media="tablet,desktop" data-placeholder-src="/block/topic/3603/container/q1YqSCxKzE0tSS0qVrKqVqrKz0uNT85PSVWyUspNzMzTTc7PK0nNK9EtzkxJ1U1KLFKqrQUA/"></div>
+                </aside>
+            
+        </div>
+        </div>
+
+                        <!-- secondary-content-header -->
+
+        
+        <div class="gutter">
+                    <div class="row">
+                                    <div class="col-lg-2-3 secondary-content">
+                        <!-- secondary-content -->
+    <div class=" ">
+    <div class="ph-easy-subscription"></div>
+</div>
+
+
+                    </div>
+                
+                                    <aside class="col-lg-1-3 downfrom-tablet sidebar bottom">
+                        <div data-placeholder-media="tablet,desktop" data-placeholder-src="/block/topic/3603/container/q1YqSCxKzE0tSS0qVrKqVqrKz0uNT85PSVWyUipOTc7PS0ksqtQF0iWpeSW6xZkpqbpJiUVKtbUA/"></div>
+                    </aside>
+                            </div>
+                </div>
+    
+    <div class='main-content-footer'><!-- main-content-footer -->
+</div>
+            <div class="gutter">
+        <!-- after-content -->
+    <div class="pub pub_dfp pub_dfp_banniere_basse double-padding-bottom"></div>
+
+    <div class="pub pub_purl purl_footer downfrom-desktop"></div>
+
+    <div data-placeholder-media="desktop,tablet,phone" data-placeholder-src="/block/topic/3603/drawer/zVptb9RGEP4r1n1ov7CEVq0KlqoKUqBU0CIC9C0Ire2xvWW9a/YllxTx3zvrdyfOnde+pBVEyfnlmWdmZ2ZnZu/TpqSKFmBA6U34acMSEIalDNQm3CSKbkG9L0DY97EUhjKB1+9sDDMc8P5raQ3ogOOPspFiHy1ovM0MFAj216dNwnTJ6QU+GktOeEa+JvcD9+c5J1+Rb92z18vjthAjtFbssSwKKypRvQCTQ0GJtolEEsYJ4bTULOJApCCFjBi+u0MeZ9o4oU49KBDUOFHuKqmvtjyuqHWuyTfk/iTTR1IlQO35LsHAAX8bfKSkJsebWobb7TaMGy3DjCkpEgijHswqjg/iHxFNMhSUUq7hziZnWc7xxzRXPt/pqTynwSsZ58B3m2EvmzinCh8AUlDFDCsg5JSoHnk+oxeGJBWMpmIVJU7RPDos0ENHiPOpvDy19+7BA8UyCytXK8FVkpmAsIQezoMJtavElxe4OgCaUINmMVVIhmUFOp/EQ5FJyyubYGo4iLuEtMKEws9HnrNIWiXWcWgDiPdgfQQncitSJQvCqcoA/Ud/MLL0IvmI6ZgqJbWeyXOG9N2uHo0kzmf6Sl6sjLWr4a8azIOa9Llzl5lMl1uzc4xWmkfyqjNGIuNbIwkat2qFloda6h6y7z6/u+O1V9ELKVZG2mT2iTpgn5BCVZn55wbY9Mjz6fxI120KTdgm1G8zeJjByp1RGgKGZFS5FQhpjTefwDHuZHSmh+/bAOIWy0N/FdM4n5sH9sQP7cHmMzjBktfURe0BU6buUA+aNN8yLMEE2DMI9OlR8FyaQzrPWYeOVbYiXM5Max5BD/immutvyzNqV6JFvUDvzI/F3ezQWJ/8C+jkzWf6VNHEvXVr+2g2ELh/d8L/ju3N9IgPY2MpZ6ZerOCL4ATUGYt3N41FQnLKUxeoGRMkksbIIkBKE1eR3cTVybazvQrJrTegTv34XsBpYJdt7bnEfMVwcf12rieUGR0k7MyNFZaKTRGEdBjzhVdKP4ilkAVbrjT0AB51q2SaLVO58sUwttxYBe1vl4B5h+nRRkr0fVfwLGdSDiA8OgzQyJzi4r+wgsWspNxz++zGG7kxpQ5Pj06P8JnYMCn03TZU76bq9Kgn5l7axepxC7CY1dg01YZOOlphMUK9PJ3Zy+4cu2yxwkq1kWqUpSZytWZC164UrVCu43CoVuVn18ZTPo/sZYofmNTo1Vc4DlgZZcfRpKBgtliaSkjEZUxo1HRBOwRhwZtjvlueMmkDQNAhm7y5Q9wTRUW8IkWk7fvz88NjccaqerKBXSgZLsHMJ/Aa4lxILjO2JgO0m0MoJBbEWBhrYsbAPj2GaMqUAyRr7C2wtfCS/yyppa+xh4KEVrkwxMInBhVz1yUkpIowV0ASBPa0y7HEFaa4znZNqh4bBmvWIaiH22DKYXrZMLRmYnqEObXxMEylKtyOqst6oWJWnwL8d3VsUKvtClOyZSYnLN7dpbsy9mphO5ncW225FNnCPfH0KK1BSAUy2gbdlff17T074kupTIruIxezcGkBeyKRaNISSgZxMeJVPbeD2MgjTmwS/FotNZjgrbQ7u5qrHdPaNmXmSv7se5YyMN3f+O6c0uH/U8HcXC97UqInTq2wu35La+mOegPE1Q2XZeUJNqGkRfBoJqU0EeUz672p3FvJDNMex2OIUs02mGd5vkN6My1BRJcMBoe6Hk2WzaKLtXxUA+JRqBiaQFCf9VK22iAVgVA7UDIEnU/ojcCKI2hNGETV9ng/W9XbDbm1yCSCBtTDWHVvGGBTiP37irphZKwalPSgHoTeBEvPEyaIWOJ9mPCI6g+wouav5Uctik+4CMFEtlYytUbhhl590FhIWqWBlIDFLV73q2y5jZb3eC2BBsTDDnX52Axo1spX0AN5nKQxhT68WnjSwcwX/RMry3Ul/JQfwEfL0Aqu9fGwyM3Ovq3rNYLEBv2gxO+LUgcvH15gJvzbZ2rT8z1jNbmyG8JcX7yVSqaMj4s348Z0uTvIcNC7i7nLA5KTL+upjVpKmsssw3ap/WhFfWF3BRq1g42xIjJN0cP8FHjaHFaBCgpcgh76tlfBzUWEZ0H/CtcNFP4Ei+ZiU6ZtcHzL+2FXmEsjdXCMAYIZSC6b9WuXMeJuWhfGQ7T5XJrwDqiop32UKb/strkyRXbneWSIt8ZWb9FpDLqeSygoV0GQfMkKdCGtmeep/sRinlXoxAEydz46GunOScGjb7wJKfacDl6anxhZ3lLyPKZKeBZOE+aKKxQ/Gw0Ht8hTsnaycoDlgwpwMZ9nRWVtNjc3X08EA/JuxMCd4NyNZXF61FL6QUEKCnPn9+0Vv3lE41NB/U3KB9nSQyfaABEOLcZ/Oo6w7EzBrkjZNz2cnkReCq4DBc/DsuQsrjx2Vaouy4HdN/ix/fQ+5lSjzI2bgZKIZWTLEpMH3ccc3NLUnzH3pex8ar43cJxfYKs5GLPetad2YtGhjwejBWX85nR6QmOIpPxwiGBNG6w6WpuystVxpFPaSx3rhb4oFWlvBwdT8/WWHWLdTA0zTkcDvUwnZkqt5u7htHomMAoyRf1OQK9ZPdaCXbN8P+T8++FesGED6VPqdvcPp/Af0hobrailenUvaqhaWexDsP7mp0dvjr97+TspLl6W8etv/kj/fPzbxz/Pnz7NBmpfdBymlG7urlT5XfXv878=/" data-placeholder-id="drawer"><div class="drawer-overlay"></div><div class="drawer"><div class="text-underlay">Toutes les rubriques</div><div class="gutter transparent"><a class="close-button open-drawer drawer-handled" href="#"><span class="text">Fermer</span></a></div></div></div>
+
+    </div>
+        </div>
+
+        <div>
+        <!-- footer -->
+    
+<footer class="footer">
+    <div class="gutter transparent">
+                    <div class="row">
+            <div class="col-md-2-8 downfrom-desktop">
+    <div class="footer-title">Pratique</div>
+            <nav>
+            <ul>
+                                    <li class="footer_element ">
+                
+    <a href="https://profil.sudouest.fr/newsletters/" title="Newsletters" >
+                            Newsletters
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://carnet.sudouest.fr/" title="Carnet" >
+                            Carnet
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/annonces-legales/" title="Annonces légales" >
+                            Annonces légales
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/blogs/" title="Blogs" >
+                            Blogs
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://tvmag.sudouest.fr/" title="Programme TV" target="_blank">
+                            Programme TV
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/info-trafic/" title="Info Trafic" >
+                            Info Trafic
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/les-docs-sudouest/" title="Les docs de Sud Ouest" >
+                            Les docs de Sud Ouest
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/formats-longs/" title="Formats longs" >
+                            Formats longs
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/les-grands-formats-de-sud-ouest/" title="Portfolios" >
+                            Portfolios
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/sitemap-liste-communes/" title="Index des communes" >
+                            Index des communes
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/sitemap-liste-themes/" title="Index des rubriques" >
+                            Index des rubriques
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://elections.sudouest.fr" title="Résultats Elections" >
+                            Résultats Elections
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/jeux/" title="Jeux" >
+                            Jeux
+            </a>
+</li>
+                            </ul>
+        </nav>
+    </div>
+            <div class="col-md-2-8 downfrom-desktop">
+    <div class="footer-title">Journal &amp; Services</div>
+            <nav>
+            <ul>
+                                    <li class="footer_element ">
+                
+    <a href="https://abonnement.sudouest.fr/offres/" title="S&#039;abonner" target="_blank">
+                            S'abonner
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://abonnement.sudouest.fr/gestion/" title="Gérer mon abonnement" >
+                            Gérer mon abonnement
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://archives.sudouest.fr/" title="Recherche Archives" target="_blank">
+                            Recherche Archives
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/archives/collectors/" title="Photos Collectors" target="_blank">
+                            Photos Collectors
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/archives/pros/" title="Archives pro" target="_blank">
+                            Archives pro
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://unes-anniversaires.sudouest.fr/" title="Journal Anniversaire" target="_blank">
+                            Journal Anniversaire
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/apps/" title="Applications mobiles" >
+                            Applications mobiles
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://visite-imprimerie.sudouest.fr" title="Visiter le Centre d&#039;Impression Sud Ouest" target="_blank">
+                            Visiter le Centre d'Impression Sud Ouest
+            </a>
+</li>
+                            </ul>
+        </nav>
+    </div>
+            <div class="col-md-2-8 downfrom-desktop">
+    <div class="footer-title">Visitez aussi…</div>
+            <nav>
+            <ul>
+                                    <li class="footer_element ">
+                
+    <a href="https://www.terredevins.com/" title="" target="_blank">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==" class=" thumbnail lazy" data-lazy="{&quot;src&quot;:&quot;https:\/\/assets.sudouest.fr\/so\/img\/footer-logos\/terre-de-vins.png?50e27ac2842f4c5ee8b86f347bea7fdc953eb837&quot;}" style="width: 130px; height: 19px;">
+                    </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://www.sudouest-gourmand.fr/" title="SudOuest Gourmand" target="_blank">
+                            SudOuest Gourmand
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/lemag/" title="SudOuest LeMag" target="_blank">
+                            SudOuest LeMag
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://www.tv7.com/" title="TV7" target="_blank">
+                            TV7
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://www.editions-sudouest.com/" title="Editions Sud Ouest" target="_blank">
+                            Editions Sud Ouest
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://www.sudouest-annonces.com/" title="" target="_blank">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==" class=" thumbnail lazy" data-lazy="{&quot;src&quot;:&quot;https:\/\/assets.sudouest.fr\/so\/img\/footer-logos\/so-annonces.png?bf7e329c78da7ba6b88695a7eac40f098deafb63&quot;}" style="width: 130px; height: 19px;">
+                    </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://www.sudouest-publicite.com/" title="" target="_blank">
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABhJREFUeNpi/P//PwMlgHHUgFEDgAAgwAD+lBrvy+NcxAAAAABJRU5ErkJggg==" class=" thumbnail lazy" data-lazy="{&quot;src&quot;:&quot;https:\/\/assets.sudouest.fr\/so\/img\/footer-logos\/so-pub.png?cef598128462414bda85cc4b9744b9ac88e0ae1e&quot;}" style="width: 130px; height: 19px;">
+                    </a>
+</li>
+                            </ul>
+        </nav>
+    </div>
+            <div class="col-md-2-8 downfrom-desktop">
+    <div class="footer-title">A propos</div>
+            <nav>
+            <ul>
+                                    <li class="footer_element ">
+                
+    <a href="https://abonnement.sudouest.fr/faq" title="Aide Abonnement" target="_blank">
+                            Aide Abonnement
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/static/cgu/" title="CGU" >
+                            CGU
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://abonnement.sudouest.fr/cgv/" title="CGV" target="_blank">
+                            CGV
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://donnees-personnelles.sudouest.fr/" title="Données personnelles" target="_blank">
+                            Données personnelles
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://donnees-personnelles.sudouest.fr/cookies/" title="Cookies" target="_blank">
+                            Cookies
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/mentions-legales/" title="Mentions Légales" target="_blank">
+                            Mentions Légales
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/qui-sommes-nous/" title="Qui sommes-nous ?" >
+                            Qui sommes-nous ?
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/contact/" title="Contact" >
+                            Contact
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/rss/" title="RSS" >
+                            RSS
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="http://www.panel.sudouest.com/" title="Panel" target="_blank">
+                            Panel
+            </a>
+</li>
+                            </ul>
+        </nav>
+    </div>
+    </div>
+                    <div class="upto-tablet">
+            <div class="">
+    <div class="footer-title">A propos</div>
+            <nav>
+            <ul>
+                                    <li class="footer_element ">
+                                    
+    <a href="/static/cgu/" title="CGU" >
+                            CGU
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://abonnement.sudouest.fr/netful-presentation-press/site/sudouestv2/default/fr/abonnement/cgv.html" title="CGV" target="_blank">
+                            CGV
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://donnees-personnelles.sudouest.fr/" title="Données personnelles" target="_blank">
+                            Données personnelles
+            </a>
+</li>
+                                    <li class="footer_element ">
+                
+    <a href="https://donnees-personnelles.sudouest.fr/cookies/" title="Cookies" target="_blank">
+                            Cookies
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/mentions-legales/" title="Mentions Légales" target="_blank">
+                            Mentions Légales
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/qui-sommes-nous/" title="Qui sommes-nous ?" >
+                            Qui sommes-nous ?
+            </a>
+</li>
+                                    <li class="footer_element ">
+                                    
+    <a href="/contact/" title="Contact" >
+                            Contact
+            </a>
+</li>
+                            </ul>
+        </nav>
+    </div>
+    </div>
+        
+        <div class="bottom">
+            <div class="logo">
+                <div class="brand brand-transparent">
+                                            <svg class="icon-so" viewBox="0 0 88 71">
+  <rect x="0" y="0" width="88" height="71" class="icon-accent-fill"></rect>
+  <g transform="scale(0.078 0.078) translate(90 90)">
+    <path id="sud-ouest" class="icon-white-fill" d="M408,0H551l52,48V305l-42,41-153,1V0ZM191,115H106V66H90v70l54.72,8.606L191,191V305l-46,41H42L0,303V239H90v47h16V211s-32.335-2-48-3L0,159V49L51,0h94l46,49v66ZM203,0h87V286h19V0h88V304c-14.332,13.665-28.668,28.335-43,42H247c-14.665-14-44-43-44-43V0ZM516,286V66H497s0.667,147.007,1,220h18ZM52,384h90l55,50V688l-46,42H49L0,687V433Zm157,0h86V670h20V384h88V688l-44,42H254l-45-43V384Zm204,0H558v66H501v64h48v68H501v88h57v60H413V384ZM755,499H669q-0.5-24.5-1-49H653c-0.252,12.127-2.72,64.719,2,70l52,9,48,47V688l-48,42H606l-43-43V623h90v47h16c-0.333-25-1-75-1-75l-48-3-57-48V433l51-49h94l47,50v65Zm4-115H929v66H889V730H801q-0.5-139.986-1-280H759V384ZM108,670V450H90V670h18Z"></path>
+  </g>
+</svg>
+
+                                    </div>
+            </div>
+
+            <div class="copyright">© www.sudouest.fr 2020</div>
+        </div>
+    </div>
+</footer>
+
+
+    </div>
+    
+    
+                        <div class="pub pub_dfp pub_dfp_flash_trans pub_dfp_outofpage"></div>
+
+            
+            <div class='modal-overlay'></div>
+
+        
+
+            
+    <link rel="stylesheet" href="/assets/css/footer.css?v=20200909-094951" type="text/css" media='screen'/>
+        
+<script async defer src="https://assets.sudouest.fr/so/js/gsoi-loader.min.js?9ad24b311df32eaec7ed422e6440fab7287687f9" type='text/javascript'></script>
+
+    <script src="https://assets.sudouest.fr/so/js/head.min.js?d81883af41dbc560814a9d36694ac19f42ff0f30" type='text/javascript'></script>
+    <script src="https://assets.sudouest.fr/so/js/modules/session-start.min.js?640eca213fe15a1637472c91aa53749ee28b6e41" type='text/javascript'></script>
+    <script src="https://assets.sudouest.fr/so/js/init.min.js?db53bb70ce604fa174da24a48c871b4d209739a0" async defer></script>
+    <script src="https://assets.sudouest.fr/so/js/footer.min.js?1f9458b6c0dbb0b2b25d49476c6cfc0be569e1d5" async defer></script>
+
+        <script type='text/javascript'>var _sf_async_config=_sf_async_config||{};_sf_async_config.uid=12239,_sf_async_config.domain="sudouest.fr",_sf_async_config.useCanonical=!0;var topics=Array.prototype.slice.call(document.querySelectorAll('meta[name="gsoi:topic"]')).map(function(a){return a.content}),listeTopics="";topics.forEach(function(a){listeTopics+=a+", "}),_sf_async_config.sections=listeTopics,function(){function a(){window._sf_endpt=(new Date).getTime();var a=document.createElement("script");a.setAttribute("language","javascript"),a.setAttribute("type","text/javascript"),a.setAttribute("src","//static.chartbeat.com/js/chartbeat.js"),document.body.appendChild(a)}var b=document.ready;document.ready="function"!=typeof document.ready?a:function(){b(),a()}}();</script>
+    
+</body>
+<!-- path:so:www:communes:lot-et-garonne:agen -->
+</html>

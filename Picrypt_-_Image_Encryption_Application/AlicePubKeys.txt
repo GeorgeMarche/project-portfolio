@@ -1,0 +1,5 @@
+Send this to Alice:
+
+beta = 326
+p = 419
+alpha = 167

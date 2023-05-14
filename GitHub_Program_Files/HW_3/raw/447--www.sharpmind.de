@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<link rel="stylesheet" type="text/css" href="https://www.sharpmind.de/templates/sharpmind/sharpmind.css" media="screen,projection" />
+	<title>SharpMind - Start</title>
+    <script data-ad-client="ca-pub-7438665227687838" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+
+<body>
+<div id="wrap">
+
+<div id="header">
+    <a href="https://www.sharpmind.de">
+        <img src="https://www.sharpmind.de/templates/sharpmind/img/logo-animated-286x80.gif" alt="SharpMind" />
+    </a>
+</div>
+<div id="langmenu" style="float: left">
+      <a href="https://www.sharpmind.de/pages/en/home.php">
+          <img src="/media/images/en.gif" alt="English" />
+      </a>
+      <a href="https://www.sharpmind.de/pages/de/start.php">
+          <img src="/media/images/de.gif" alt="Deutsch" />
+      </a>
+</div>
+<div id="pagetitle"><h2>Start</h2></div>
+<div id="avmenu">
+<h2 class="hide">Menu</h2>
+
+<ul>
+<li><a href="https://www.sharpmind.de/pages/de/start.php" target="_top" class="current">Start</a></li>
+
+<li><a href="https://www.sharpmind.de/pages/de/ueber-sharpmind.php" target="_top" >Über SharpMind</a></li>
+
+<li><a href="https://www.sharpmind.de/pages/de/kunden.php" target="_top" >Kunden</a></li>
+
+<li><a href="https://www.sharpmind.de/pages/de/offene-stellen.php" target="_top" >Offene Stellen</a></li>
+
+<li><a href="https://www.sharpmind.de/pages/de/support.php" target="_top" >Support</a></li>
+
+<li><a href="https://www.sharpmind.de/pages/de/kontakt.php" target="_top" >Kontakt</a></li>
+
+</ul>	<form name="search" action="https://www.sharpmind.de/search/index.php" id="searchbox" method="post">
+	<label for="searchform">Suche:</label>
+   	<input type="text" value="Suche" name="string" id="searchform"/>
+    <input type="hidden" id="searchsubmit" name="submit" value="Suche" />
+    </form>
+
+</div>
+<div id="contentwide"><p>
+<p>
+SharpMind ist eine kleine aber expandierende, erfolgreiche und dynamische <b>Softwareentwicklungs- und IT Dienstleistungsfirma</b>, welche mit der Erfahrung seiner Mitarbeiter einen großen Bereich von Technologien in der IT Industrie abdeckt. Die besonderen Stärken liegen im Bereich des Designs, der Implementierung und dem Betrieb von hoch-skalierbaren verteilten Systemen.
+</p>
+
+<p>Die Firma wurde von seinen Partnern im Jahr 2004 gegründet, die jeder über einen <b>umfangreichen Erfahrungsschatz</b> im Bereich der kundenspezifischen Softwareentwicklung verfügen, welche sie unter anderem bei Netscape und Microsoft gesammelt haben. SharpMind konzentriert sich derzeit auf Mobilfunkanbieter, Navigationssysteme, Internet Bezahlsysteme, VoIP, Symbian und J2ME Entwicklung sowie 24x7 Support für die Systeme seiner Kunden.
+</p>
+
+<p>
+SharpMind ist ein <b>vollständiges Softwarehaus</b>, welches neben weiteren die folgenden Dienstleistungen bietet:
+</p>
+
+<ul>
+  <li>ein Team von Architekten, welche die Software entwerfen und entwickeln</li>
+  <li>einer Testabteilung mit kompletten Build und Release Prozessen</li>
+  <li>Hosting und Betrieb von Server Anwendungen einschließlich 24x7 Support</li>
+  <li>Datenbank Administration</li>
+  <li>Projekt Management</li>
+</ul>
+
+<p>
+Unsere <b>Markenzeichen</b> sind hohe Qualität, pünktliche Lieferung und hohe Kundenzufriedenheit.
+</p>
+
+<p>
+Zusätzlich zu den IT Dienstleistungen und kundenspezifischen Lösungen arbeitet SharpMind an eigenen <b>Produkten</b>, wie beispielsweise
+</p>
+
+<ul>
+  <li>Symbian und J2ME basierte Anwendungen für mobile Endgeräte, wie z.B. das <a href="http://www.bigredzebra.de/?lang=de" target="_blank">Big Red Zebra<br /></a><a href="http://www.bigredzebra.de/home.html"><img width="483" vspace="0" hspace="0" height="74" border="0" alt="Big Red Zebra" src="http://www.bigredzebra.de/img/header-red-de-750x115.png" /></a><br /></li>
+  <li>Verwaltungstools für virtuelle Serverumgebungen</li>
+  <li>Open Source Clustering und Hochverfügbarkeitslösungen</li>
+</ul>
+
+<p>
+Ihr SharpMind Team
+</p>
+
+
+<script data-ad-client="ca-pub-7438665227687838" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</p></div>	
+
+<div id="footer">
+<p>Powered by <a href="http://www.websitebaker.org/" target="_blank">
+			Website Baker</a> | Copyright &copy; 2019 SharpMind</a></p>
+
+</div>
+
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript"> _uacct = "UA-2775996-1"; urchinTracker(); </script>
+</body>
+</html>

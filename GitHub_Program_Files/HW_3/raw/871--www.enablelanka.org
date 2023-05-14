@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.enablelanka.org/xmlrpc.php">
+<link href="https://fonts.googleapis.com/css?family=Vidaloka" rel="stylesheet">
+<title>Enable Lanka Foundation &#8211; Impactful Empowerment. Deep Lankan Roots.</title>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Enable Lanka Foundation &raquo; Feed" href="http://www.enablelanka.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Enable Lanka Foundation &raquo; Comments Feed" href="http://www.enablelanka.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.enablelanka.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css'  href='http://www.enablelanka.org/wp-content/themes/astrid/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.enablelanka.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='http://www.enablelanka.org/wp-content/plugins/custom-facebook-feed-pro/css/cff-style.css?ver=2.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fluid_styles-css'  href='http://www.enablelanka.org/wp-content/themes/elf-theme/css/fluid-style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_map_qtip_styles-css'  href='http://www.enablelanka.org/wp-content/themes/elf-theme/map/css/jquery.qtip.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_map_styles-css'  href='http://www.enablelanka.org/wp-content/themes/elf-theme/map/css/map_styles.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='astrid-style-css'  href='http://www.enablelanka.org/wp-content/themes/elf-theme/style.css?ver=5.5.1' type='text/css' media='all' />
+<style id='astrid-style-inline-css' type='text/css'>
+.site-header {position: fixed;}
+.site-title a,.site-title a:hover { color:#ffffff}
+.site-description { color:#BDBDBD}
+.site-header,.site-header.header-scrolled { background-color:rgba(32,37,41,0.9)}
+body, .widget-area .widget, .widget-area .widget a { color:#656D6D}
+.footer-widgets, .site-footer, .footer-info { background-color:#202529}
+body {font-family: 'Open Sans', sans-serif;}
+h1, h2, h3, h4, h5, h6, .fact .fact-number, .fact .fact-name {font-family: 'Josefin Sans', sans-serif;}
+.site-title { font-size:36px; }
+.site-description { font-size:14px; }
+h1 { font-size:36px; }
+h2 { font-size:30px; }
+h3 { font-size:24px; }
+h4 { font-size:16px; }
+h5 { font-size:14px; }
+h6 { font-size:12px; }
+body { font-size:14px; }
+
+</style>
+<link rel='stylesheet' id='astrid-body-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C600%2C600italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='astrid-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A300italic%2C300&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='http://www.enablelanka.org/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://www.enablelanka.org/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://www.enablelanka.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2374-css'  href='http://www.enablelanka.org/wp-content/uploads/elementor/css/post-2374.css?ver=1599038024' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://www.enablelanka.org/wp-content/uploads/elementor/css/global.css?ver=1599038024' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1176-css'  href='http://www.enablelanka.org/wp-content/uploads/elementor/css/post-1176.css?ver=1599038024' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display+SC%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' /><link rel="stylesheet" type="text/css" href="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=ff7f6f5b" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}</style>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.min.js?ver=5.5.1' id='masonry_script-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/elf-theme/map/js/raphael.min.js?ver=5.5.1' id='custom_map_raphael-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/elf-theme/map/js/kartograph.min.js?ver=5.5.1' id='custom_map_kartograph-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/elf-theme/map/js/jquery.qtip.min.js?ver=5.5.1' id='custom_map_qtip-js'></script>
+<link rel="https://api.w.org/" href="http://www.enablelanka.org/wp-json/" /><link rel="alternate" type="application/json" href="http://www.enablelanka.org/wp-json/wp/v2/pages/1176" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.enablelanka.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.enablelanka.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="http://www.enablelanka.org/" />
+<link rel='shortlink' href='http://www.enablelanka.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.enablelanka.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.enablelanka.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.enablelanka.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.enablelanka.org%2F&#038;format=xml" />
+<!-- Custom Facebook Feed Custom CSS -->
+<style type="text/css">
+#cff.masonryfeed .cff-item{ width: 23%; margin: 1%; background-color: rgba(0, 0, 0, 0.8); padding:20px;display:inline-block;float:left;clear:none;}
+#cff.masonryfeed2 .cff-item{ width: 98%; margin: 1%; font-size:11px}
+
+</style>
+<!-- Custom Facebook Feed JS vars -->
+<script type="text/javascript">
+var cffsiteurl = "http://www.enablelanka.org/wp-content/plugins";
+var cffajaxurl = "http://www.enablelanka.org/wp-admin/admin-ajax.php";
+var cffmetatrans = "false";
+var cfflinkhashtags = "true";
+var cffabspath = "/home/janibee/public_html/";
+</script>
+
+        <style>
+            .wuc-overlay{ background-image: url('http://www.enablelanka.org/wp-content/plugins/wp-construction-mode//inc/img/construction.jpg'); }
+            #wuc-wrapper #wuc-box h2.title,
+            #wuc-box .subtitle,
+            #defaultCountdown,
+            #defaultCountdown span{ color: #fff }
+        </style>
+        <link rel="icon" href="http://www.enablelanka.org/wp-content/uploads/2016/09/cropped-favicon-100x100.png" sizes="32x32" />
+<link rel="icon" href="http://www.enablelanka.org/wp-content/uploads/2016/09/cropped-favicon-250x250.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.enablelanka.org/wp-content/uploads/2016/09/cropped-favicon-250x250.png" />
+<meta name="msapplication-TileImage" content="http://www.enablelanka.org/wp-content/uploads/2016/09/cropped-favicon-300x300.png" />
+<script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={jQueryFallback:'http://www.enablelanka.org/wp-includes/js/jquery/jquery.js',localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};nextend.fontsLoaded=false;nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true};var requiredFonts=["Raleway:n3","Raleway:n4","Walter Turncoat:n3","Walter Turncoat:n4"],fontData={google:{families:["Raleway:300,400","Walter Turncoat:300,400:latin"]},active:function(){nextend.fontsLoadedActive()},inactive:function(){nextend.fontsLoadedActive()},fontactive:function(f,s){fontData.resolveFont(f+':'+s)},fontinactive:function(f,s){fontData.resolveFont(f+':'+s)},resolveFont:function(n){for(var i=requiredFonts.length-1;i>=0;i--){if(requiredFonts[i]===n){requiredFonts.splice(i,1);break}}if(!requiredFonts.length)nextend.fontsLoadedActive()}};if(typeof WebFontConfig!=='undefined'&&typeof WebFont==='undefined'){var _WebFontConfig=WebFontConfig;for(var k in WebFontConfig){if(k=='active'){fontData.active=function(){nextend.fontsLoadedActive();_WebFontConfig.active()}}else if(k=='inactive'){fontData.inactive=function(){nextend.fontsLoadedActive();_WebFontConfig.inactive()}}else if(k=='fontactive'){fontData.fontactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontactive.apply(this,arguments)}}else if(k=='fontinactive'){fontData.fontinactive=function(f,s){fontData.resolveFont(f+':'+s);_WebFontConfig.fontinactive.apply(this,arguments)}}else if(k=='google'){if(typeof WebFontConfig.google.families!=='undefined'){for(var i=0;i<WebFontConfig.google.families.length;i++){fontData.google.families.push(WebFontConfig.google.families[i])}}}else{fontData[k]=WebFontConfig[k]}}}fontData.classes=true;fontData.events=true;if(typeof WebFont==='undefined'){window.WebFontConfig=fontData}else{WebFont.load(fontData)}</script><script type="text/javascript" src="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-backgroundanimation.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//www.enablelanka.org/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/nextend-webfontloader.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript">N2R('documentReady',function($){nextend.fontsDeferred=$.Deferred();if(nextend.fontsLoaded){nextend.fontsDeferred.resolve()}else{nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;nextend.fontsDeferred.resolve()};var intercalCounter=0;nextend.fontInterval=setInterval(function(){if(intercalCounter>3||document.documentElement.className.indexOf('wf-active')!==-1){nextend.fontsLoadedActive();clearInterval(nextend.fontInterval)}intercalCounter++},1000)}N2R(["documentReady","smartslider-frontend","smartslider-backgroundanimation","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-3',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1,"scrollSpeed":400},"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":1,"minimumHeight":0,"maximumSlideWidth":{"desktopLandscape":3000,"desktopPortrait":3000,"tabletLandscape":3000,"tabletPortrait":3000,"mobileLandscape":3000,"mobilePortrait":3000},"forceFull":0,"forceFullOverflowX":"body","forceFullHorizontalSelector":"","constrainRatio":1,"sliderHeightBasedOn":"real","decreaseSliderHeight":0,"focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":600,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":350,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":160,"max":900,"min":320}},"normalizedDeviceModes":{"unknown":"desktopPortrait","desktopPortrait":"desktopPortrait","desktopLandscape":"desktopPortrait","tabletLandscape":"desktopPortrait","tabletPortrait":"tabletPortrait","mobileLandscape":"tabletPortrait","mobilePortrait":"mobilePortrait"},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":{"global":0,"color":"RGBA(51,51,51,1)","speed":"normal","slides":{"1":{"animation":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"speed":"normal"},"2":{"animation":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"speed":"normal"},"3":{"animation":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"speed":"normal"},"4":{"animation":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"speed":"normal"},"5":{"animation":[{"type":"Flat","tiles":{"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":1,"zIndex":2,"current":{"ease":"easeOutCubic","opacity":0}}}],"speed":"normal"}}},"mainanimation":{"type":"fade","duration":600,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0,"initCallbacks":function($){N2D("SmartSliderWidgetArrowImage","SmartSliderWidget",function(e,i){function r(e,i,t,s,r,o){this.key=e,this.action=t,this.desktopRatio=s,this.tabletRatio=r,this.mobileRatio=o,N2Classes.SmartSliderWidget.prototype.constructor.call(this,i)}return((r.prototype=Object.create(N2Classes.SmartSliderWidget.prototype)).constructor=r).prototype.onStart=function(){this.deferred=e.Deferred(),this.slider.sliderElement.on("SliderDevice",this.onDevice.bind(this)).trigger("addWidget",this.deferred),this.$widget=e("#"+this.slider.elementID+"-arrow-"+this.key).on("click",function(e){e.stopPropagation(),this.slider[this.action]()}.bind(this)),this.$resize=this.$widget.find(".n2-resize"),0===this.$resize.length&&(this.$resize=this.$widget),e.when(this.$widget.n2imagesLoaded(),this.slider.stages.get("ResizeFirst").getDeferred()).always(this.onLoad.bind(this))},r.prototype.onLoad=function(){this.$widget.addClass("n2-ss-widget--calc"),this.previousWidth=this.$resize.width(),this.previousHeight=this.$resize.height(),this.$widget.removeClass("n2-ss-widget--calc"),this.$resize.find("img").css("width","100%"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},r.prototype.onDevice=function(e,i){var t=1;switch(i.device){case"tabletPortrait":case"tabletLandscape":t=this.tabletRatio;break;case"mobilePortrait":case"mobileLandscape":t=this.mobileRatio;break;default:t=this.desktopRatio}this.$resize.width(this.previousWidth*t),this.$resize.height(this.previousHeight*t)},function(e,i,t,s){this.key="arrow",this.previous=new r("previous",e,"previousWithDirection",i,t,s),this.next=new r("next",e,"nextWithDirection",i,t,s)}});new N2Classes.SmartSliderWidgetArrowImage(this,1,1,0.5)}})})});</script></head>
+
+<body class="home page-template page-template-templates page-template-builder-fullwidth-std page-template-templatesbuilder-fullwidth-std-php page page-id-1176 wp-custom-logo elementor-default elementor-kit-2374 elementor-page elementor-page-1176">
+
+<div class="preloader">
+<div class="preloader-inner">
+	<ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+</div>
+</div>
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header " role="banner">		<div class="header-wrapper">			<div class="container">
+			<div class="site-branding col-md-3 col-sm-6 col-xs-12">
+				<a href="http://www.enablelanka.org/" class="custom-logo-link" rel="home" aria-current="page"><img width="1570" height="410" src="http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles.png" class="custom-logo" alt="Enable Lanka Foundation" srcset="http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles.png 1570w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-300x78.png 300w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-768x201.png 768w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-1024x267.png 1024w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-700x183.png 700w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-520x136.png 520w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-360x94.png 360w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-250x65.png 250w, http://www.enablelanka.org/wp-content/uploads/2016/11/cropped-logo14_non-editable_horizontal_bw_with_circles-100x26.png 100w" sizes="(max-width: 1570px) 100vw, 1570px" /></a>			</div>
+			<div class="btn-menu col-md-9 col-sm-6 col-xs-12"><i class="fa fa-navicon"></i></div>
+			<nav id="mainnav" class="main-navigation col-md-8 col-sm-6 col-xs-12" role="navigation">
+				<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1176 current_page_item menu-item-1992"><a href="http://www.enablelanka.org/" aria-current="page">Home</a></li>
+<li id="menu-item-1989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1989"><a href="http://www.enablelanka.org/about-us/">About Us »</a>
+<ul class="sub-menu">
+	<li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1990"><a href="http://www.enablelanka.org/about-us/who-we-are/">Who We Are</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1991"><a href="http://www.enablelanka.org/about-us/how-we-work/">How We Work</a></li>
+</ul>
+</li>
+<li id="menu-item-1988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1988"><a href="http://www.enablelanka.org/elf-breaking-barriers/">ELF Breaking Barriers</a></li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="http://www.enablelanka.org/events-media/">Events &#038; Media</a></li>
+<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1985"><a href="http://www.enablelanka.org/get-involved/">Get Involved »</a>
+<ul class="sub-menu">
+	<li id="menu-item-2296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2296"><a href="http://www.enablelanka.org/get-involved/volunteer/">Volunteer</a></li>
+	<li id="menu-item-2163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2163"><a href="http://www.enablelanka.org/get-involved/partnerships/">Partnerships</a></li>
+	<li id="menu-item-2197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href="http://www.enablelanka.org/get-involved/sponsorships/">Sponsorships</a></li>
+</ul>
+</li>
+<li id="menu-item-1987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1987"><a href="http://www.enablelanka.org/knowledge-tools/">Knowledge &#038; Tools</a></li>
+<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="http://www.enablelanka.org/contact/">Contact Us</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+			
+		</div>			</div>		
+	</header><!-- #masthead -->
+	<div class="n2-section-smartslider fitvidsignore  n2_clear" role="region" aria-label="Slider"><style>div#n2-ss-3{width:1200px;}div#n2-ss-3 .n2-ss-slider-1{position:relative;}div#n2-ss-3 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-3 .n2-ss-slider-2{position:relative;overflow:hidden;padding:0px 0px 0px 0px;height:600px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-3.n2-ss-mobileLandscape .n2-ss-slider-2,div#n2-ss-3.n2-ss-mobilePortrait .n2-ss-slider-2{background-attachment:scroll;}div#n2-ss-3 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-3 .n2-ss-slide-backgrounds,div#n2-ss-3 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-3 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-3 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-3 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-3 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-3 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-3 .n2-ss-layers-container{position:relative;width:1200px;height:600px;}div#n2-ss-3 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-3 .n2-ss-slide{perspective:1500px;}div#n2-ss-3[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-3 .n2-ss-slide-active{z-index:21;}div#n2-ss-3 .n2-ss-button-container,div#n2-ss-3 .n2-ss-button-container a{display:inline-block;}div#n2-ss-3 .n2-ss-button-container.n2-ss-fullwidth,div#n2-ss-3 .n2-ss-button-container.n2-ss-fullwidth a{display:block;}div#n2-ss-3 .n2-ss-button-container.n2-ss-nowrap{white-space:nowrap;}div#n2-ss-3 .n2-ss-button-container a div{display:inline;font-size:inherit;text-decoration:inherit;color:inherit;line-height:inherit;font-family:inherit;font-weight:inherit;}div#n2-ss-3 .n2-ss-button-container a > div{display:inline-flex;align-items:center;vertical-align:top;}div#n2-ss-3 .n2-ss-button-container span{font-size:100%;vertical-align:baseline;}div#n2-ss-3 .n2-ss-button-container a[data-iconplacement="left"] span{margin-right:0.3em;}div#n2-ss-3 .n2-ss-button-container a[data-iconplacement="right"] span{margin-left:0.3em;}div#n2-ss-3 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;}div#n2-ss-3 .nextend-arrow img{position:relative;min-height:0;min-width:0;vertical-align:top;width:auto;height:auto;max-width:100%;max-height:100%;display:inline;}div#n2-ss-3 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-3 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-3 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-3 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-3 .nextend-arrow-animated > div{position:relative;}div#n2-ss-3 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-3 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-3 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;left:0;}div#n2-ss-3 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{left:-100%;}div#n2-ss-3 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-3 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{left:100%;}div#n2-ss-3 .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active,div#n2-ss-3 .nextend-arrow.nextend-arrow-animated-horizontal:FOCUS .n2-active{left:0;}div#n2-ss-3 .nextend-arrow-animated-vertical > div{transition:all 0.4s;top:0;}div#n2-ss-3 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-3 .nextend-arrow-animated-vertical .n2-active{top:-100%;}div#n2-ss-3 .nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-3 .nextend-arrow-animated-vertical:FOCUS > div{top:100%;}div#n2-ss-3 .nextend-arrow-animated-vertical:HOVER .n2-active,div#n2-ss-3 .nextend-arrow-animated-vertical:FOCUS .n2-active{top:0;}div#n2-ss-3 .n2-font-03e8eda90d85dfe5aacce41ce5c0e5ed-link a{font-family: 'Raleway';color: #000000;font-size:93.75%;text-shadow: none;line-height: 1.5;font-weight: 800;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-font-03e8eda90d85dfe5aacce41ce5c0e5ed-link a:HOVER, div#n2-ss-3 .n2-font-03e8eda90d85dfe5aacce41ce5c0e5ed-link a:ACTIVE, div#n2-ss-3 .n2-font-03e8eda90d85dfe5aacce41ce5c0e5ed-link a:FOCUS{color: #ffffff;}div#n2-ss-3 .n2-style-a9e6547d93e98d77b428be86bf601b5b-heading{background: RGBA(255,255,255,0.8);opacity:1;padding:10px 30px 10px 30px ;box-shadow: none;border-width: 1px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,0.5);border-radius:0px;}div#n2-ss-3 .n2-style-a9e6547d93e98d77b428be86bf601b5b-heading:Hover, div#n2-ss-3 .n2-style-a9e6547d93e98d77b428be86bf601b5b-heading:ACTIVE, div#n2-ss-3 .n2-style-a9e6547d93e98d77b428be86bf601b5b-heading:FOCUS{background: RGBA(0,0,0,0.8);padding:10px 30px 10px 30px ;border-radius:0px;}div#n2-ss-3 .n2-font-7c237c94017949bb1d07cf427cc204b6-link a{font-family: 'Raleway';color: #ffffff;font-size:112.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: 2px;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-font-7c237c94017949bb1d07cf427cc204b6-link a:HOVER, div#n2-ss-3 .n2-font-7c237c94017949bb1d07cf427cc204b6-link a:ACTIVE, div#n2-ss-3 .n2-font-7c237c94017949bb1d07cf427cc204b6-link a:FOCUS{color: #000000;font-size:112.5%;}div#n2-ss-3 .n2-style-157f1da426af80a9a20d99288e6fcd8e-heading{background: RGBA(0,0,0,0.8);opacity:1;padding:10px 30px 10px 30px ;box-shadow: none;border-width: 1px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,0.5);border-radius:0px;}div#n2-ss-3 .n2-style-157f1da426af80a9a20d99288e6fcd8e-heading:Hover, div#n2-ss-3 .n2-style-157f1da426af80a9a20d99288e6fcd8e-heading:ACTIVE, div#n2-ss-3 .n2-style-157f1da426af80a9a20d99288e6fcd8e-heading:FOCUS{background: RGBA(255,255,255,0.5);padding:10px 30px 10px 30px ;border-radius:0px;}div#n2-ss-3 .n2-font-d9c1513a76b0e2216ce9ebfdaf74343a-hover{font-family: 'Raleway','Arial';color: #ffffff;font-size:112.5%;text-shadow: none;line-height: 1;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: 2px;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-style-f6284fa27d6d92da51afcb20758a6d74-heading{background: RGBA(0,0,0,0.8);opacity:1;padding:0.8em 1em 0.8em 1em ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-3 .n2-font-49c5711be9be36d3765200268c0fc97b-hover{font-family: 'Walter Turncoat';color: #000000;font-size:112.5%;text-shadow: none;line-height: 1.8;font-weight: normal;font-style: italic;text-decoration: none;text-align: left;letter-spacing: 1px;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-style-88106f7a9cbaa32a682f6c91e6a1231a-heading{background: RGBA(255,255,255,0.8);opacity:1;padding:0.8em 1em 0.8em 1em ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-3 .n2-font-8b4669f8472fa417ddf68d0081f074b6-hover{font-family: 'Walter Turncoat';color: #ffffff;font-size:100%;text-shadow: none;line-height: 1.8;font-weight: normal;font-style: italic;text-decoration: none;text-align: left;letter-spacing: 1px;word-spacing: normal;text-transform: none;}div#n2-ss-3 .n2-style-c4b50328dd8e910880f15cc46851e0b3-heading{background: RGBA(0,0,0,0.8);opacity:1;padding:0.8em 1em 0.8em 1em ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-3 .n2-font-b3b69d1ce9f6b3e183a95a7652003c06-hover{font-family: 'Walter Turncoat';color: #000000;font-size:125%;text-shadow: none;line-height: 1.8;font-weight: normal;font-style: italic;text-decoration: none;text-align: left;letter-spacing: 1px;word-spacing: normal;text-transform: none;}</style><div id="n2-ss-3-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-3" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " style="font-size: 1rem;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow" style="">
+                                                    <div class="n2-ss-background-animation n2-ow"></div>
+                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="13" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-13"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="95ad80be1b2379c960b748f744b9dc29" data-desktop="//www.enablelanka.org/wp-content/uploads/2017/04/008.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:0px;top:225px;width:auto;height:auto;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="0" data-tabletportraitleft="0" data-mobileportraitleft="2" data-desktopportraittop="225" data-tabletportraittop="159" data-mobileportraittop="171" data-responsivesize="1" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="middle" data-tabletportraitvalign="middle" data-mobileportraitvalign="middle" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-03e8eda90d85dfe5aacce41ce5c0e5ed-link  n2-ss-nowrap"><a class="n2-style-a9e6547d93e98d77b428be86bf601b5b-heading  n2-ow " href="http://www.enablelanka.org/krystal-reid-named-commonwealth-young-person-of-the-year-2017/"><div><div>Read More</div></div></a></div></div><div class="n2-ss-layer n2-ow" style="left:1px;top:167px;width:auto;height:auto;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="1" data-tabletportraitleft="0" data-mobileportraitleft="2" data-desktopportraittop="167" data-tabletportraittop="80" data-mobileportraittop="47" data-responsivesize="1" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="middle" data-tabletportraitvalign="middle" data-mobileportraitvalign="middle" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-plugin="rendered"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-7c237c94017949bb1d07cf427cc204b6-link  n2-ss-nowrap"><a class="n2-style-157f1da426af80a9a20d99288e6fcd8e-heading  n2-ow " href="http://www.enablelanka.org/krystal-reid-named-commonwealth-young-person-of-the-year-2017/"><div><div>Krystle named as the Commonwealth Young Person of the Year 2017</div></div></a></div></div></div></div></div><div data-slide-duration="0" data-id="7" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-7"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="3319181f993553a70dff40d540131ca5" data-desktop="//www.enablelanka.org/wp-content/uploads/slider3/2.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:274px;top:339px;width:auto;height:auto;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="274" data-tabletportraitleft="280" data-mobileportraitleft="291" data-desktopportraittop="339" data-tabletportraittop="338" data-mobileportraittop="340" data-responsivesize="1" data-desktopportraitwidth="auto" data-mobileportraitwidth="379" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item3" class="n2-font-d9c1513a76b0e2216ce9ebfdaf74343a-hover n2-style-f6284fa27d6d92da51afcb20758a6d74-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">DEEP LANKAN ROOTS</div></div><div class="n2-ss-layer n2-ow" style="left:307px;top:285px;width:auto;height:auto;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="307" data-tabletportraitleft="315" data-mobileportraitleft="316" data-desktopportraittop="285" data-tabletportraittop="277" data-mobileportraittop="273" data-responsivesize="1" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item4" class="n2-font-d9c1513a76b0e2216ce9ebfdaf74343a-hover n2-style-f6284fa27d6d92da51afcb20758a6d74-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">IMPACTFUL EMPOWERMENT</div></div></div></div></div><div data-slide-duration="0" data-id="8" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-8"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="bd1c0ad435d4c1a140b5ddf9c4dfae9f" data-desktop="//www.enablelanka.org/wp-content/uploads/2016/12/people.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:280px;top:-300px;width:320px;height:61px;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="280" data-tabletportraitleft="-174" data-mobileportraitleft="-224" data-desktopportraittop="-300" data-tabletportraittop="241" data-mobileportraittop="227" data-responsivesize="1" data-desktopportraitwidth="320" data-tabletportraitwidth="347" data-mobileportraitwidth="448" data-desktopportraitheight="61" data-tabletportraitheight="49" data-mobileportraitheight="44" data-desktopportraitalign="left" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="bottom" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item5" class="n2-font-49c5711be9be36d3765200268c0fc97b-hover n2-style-88106f7a9cbaa32a682f6c91e6a1231a-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">15% of the world's population</div></div><div class="n2-ss-layer n2-ow" style="left:600px;top:-235px;width:320px;height:65px;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="600" data-tabletportraitleft="167" data-mobileportraitleft="218" data-desktopportraittop="-235" data-tabletportraittop="300" data-mobileportraittop="300" data-responsivesize="1" data-desktopportraitwidth="320" data-tabletportraitwidth="333" data-mobileportraitwidth="439" data-desktopportraitheight="65" data-tabletportraitheight="49" data-mobileportraitheight="44" data-desktopportraitalign="left" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="bottom" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item6" class="n2-font-49c5711be9be36d3765200268c0fc97b-hover n2-style-88106f7a9cbaa32a682f6c91e6a1231a-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">have some form of disability!</div></div></div></div></div><div data-slide-duration="0" data-id="9" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-9"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="0a1956ea01534706da0ec95ade6bc473" data-desktop="//www.enablelanka.org/wp-content/uploads/2016/12/blind.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:814px;top:-96px;width:372px;height:147px;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="814" data-tabletportraitleft="405" data-mobileportraitleft="279" data-desktopportraittop="-96" data-tabletportraittop="179" data-mobileportraittop="193" data-responsivesize="1" data-desktopportraitwidth="372" data-tabletportraitwidth="389" data-mobileportraitwidth="559" data-desktopportraitheight="147" data-tabletportraitheight="49" data-mobileportraitheight="44" data-desktopportraitalign="left" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="bottom" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item7" class="n2-font-8b4669f8472fa417ddf68d0081f074b6-hover n2-style-c4b50328dd8e910880f15cc46851e0b3-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">As per Convention on the <br />Rights of Persons with Disabilities, <br />they are the <br />world’s largest minority!</div></div></div></div></div><div data-slide-duration="0" data-id="11" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-11"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="5cd2fdc40b0bead45753f9be76655f73" data-desktop="//www.enablelanka.org/wp-content/uploads/2016/12/elder.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:91px;top:-77px;width:716px;height:104px;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="91" data-tabletportraitleft="-104" data-mobileportraitleft="-41" data-desktopportraittop="-77" data-tabletportraittop="392" data-mobileportraittop="373" data-responsivesize="1" data-desktopportraitwidth="716" data-tabletportraitwidth="756" data-mobileportraitwidth="982" data-desktopportraitheight="104" data-tabletportraitheight="49" data-mobileportraitheight="44" data-desktopportraitalign="left" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="bottom" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item8" class="n2-font-b3b69d1ce9f6b3e183a95a7652003c06-hover n2-style-88106f7a9cbaa32a682f6c91e6a1231a-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">By 2040, 1/3rd of the population in Sri Lanka would be elderly <br />which will be a huge socio-economic challenge </div></div></div></div></div><div data-slide-duration="0" data-id="10" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-10"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="ff0f29855c0ebdb969a8a1c697362060" data-desktop="//www.enablelanka.org/wp-content/uploads/2016/12/child.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"><div class="n2-ss-layer n2-ow" style="left:751px;top:-174px;width:372px;height:104px;overflow:visible;" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="751" data-tabletportraitleft="347" data-mobileportraitleft="278" data-desktopportraittop="-174" data-tabletportraittop="286" data-mobileportraittop="301" data-responsivesize="1" data-desktopportraitwidth="372" data-tabletportraitwidth="389" data-mobileportraitwidth="559" data-desktopportraitheight="104" data-tabletportraitheight="49" data-mobileportraitheight="44" data-desktopportraitalign="left" data-tabletportraitalign="center" data-mobileportraitalign="center" data-desktopportraitvalign="bottom" data-tabletportraitvalign="top" data-mobileportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer" data-rotation="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-adaptivefont="0" data-desktopportraitfontsize="100" data-mobileportraitfontsize="120" data-plugin="rendered"><div id="n2-ss-3item9" class="n2-font-8b4669f8472fa417ddf68d0081f074b6-hover n2-style-c4b50328dd8e910880f15cc46851e0b3-heading   n2-ss-item-content n2-ow" style="display:block;white-space:nowrap;">Every 1 out of 12 Sri Lankans<br />is a Person with a Disability!</div></div></div></div></div>                </div>
+            </div>
+            <div data-ssleft="0+15" data-sstop="sliderHeight/2-previousheight/2" id="n2-ss-3-arrow-previous" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-previous  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="previous arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow" /></div>
+<div data-ssright="0+15" data-sstop="sliderHeight/2-nextheight/2" id="n2-ss-3-arrow-next" class="n2-ss-widget n2-ss-widget-hide-mobileportrait nextend-arrow n2-ow nextend-arrow-next  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="next arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow" /></div>
+        </div>
+        </div><div id="n2-ss-3-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div class="n2_clear"></div><div id="n2-ss-3-placeholder" style="min-height:0px;position: relative;z-index:2;background-color:RGBA(0,0,0,0); background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYwMCIgPjwvc3ZnPg==" alt="Slider" /></div></div>		
+
+				
+		
+	<div id="content" class="site-content">
+		<div class="container">		<div data-elementor-type="wp-page" data-elementor-id="1176" class="elementor elementor-1176 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-bei5l48 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="bei5l48" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fjgr6ka" data-id="fjgr6ka" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-lbuq90i elementor-widget elementor-widget-spacer" data-id="lbuq90i" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-nlv18ya elementor-widget elementor-widget-heading" data-id="nlv18ya" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What We Have Been Up To</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4lvrmal elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4lvrmal" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ya02pu0" data-id="ya02pu0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-tow0m1h elementor-hidden-phone elementor-widget elementor-widget-divider" data-id="tow0m1h" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7isce10" data-id="7isce10" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6vleqbu elementor-widget elementor-widget-heading" data-id="6vleqbu" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">OUR PROJECTS</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fdz6fs4" data-id="fdz6fs4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6lbfjc7 elementor-hidden-phone elementor-widget elementor-widget-divider" data-id="6lbfjc7" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-s0uls1f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="s0uls1f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-if1pkup" data-id="if1pkup" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8keuii7" data-id="8keuii7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8qzv19i elementor-widget elementor-widget-shortcode" data-id="8qzv19i" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+				
+	<script type="text/javascript">
+	jQuery(function($) {
+		
+		// initialize tooltips
+		jQuery.fn.qtip.defaults.style.classes = 'qtip-custom';
+		jQuery.fn.qtip.defaults.style.def = false;
+
+	
+		var map = kartograph.map('#sl-map');
+		var svg_url = "http://www.enablelanka.org/wp-content/themes/elf-theme/map/Lanka_Final.svg";
+		map.loadMap(svg_url, function() {
+				map.addLayer('admin1', {
+					styles: {
+						stroke: 'rgba(255,255,255,0.1)', //dark theme - rgba(255,255,255,0.1
+						fill: 'rgba(29,37,41,1)'		//dark theme - rgba(28,31,30,0.6)	
+					},
+					mouseenter: function(d, path) {
+						path.attr('fill', 'rgb(70, 76, 74)');
+					},
+					mouseleave: function(d, path) {
+						path.animate({ fill: 'rgba(29,37,41,1)' }, 500);
+					}
+				});
+				
+				var points_of_interest = [					
+					{ name: 'Kelaniya', lat: 6.95667, lon: 79.92056 ,url:'http://hello.com'},
+					{ name: 'Maharagama', lat: 6.84944, lon: 79.92361 ,url:'http://hello.com'},
+					{ name: 'Galle', lat: 6.053519, lon: 80.220978 ,url:'http://hello.com'},
+					{ name: 'Jaffna', lat: 9.66667, lon: 80.00000 ,url:'http://hello.com'},
+					{ name: 'Ratnapura', lat: 6.68056, lon: 80.40222 ,url:'http://hello.com'},
+					{ name: 'Anuradhapura', lat: 8.35000, lon: 80.38528 ,url:'http://hello.com'},
+					{ name: 'Batticaloa', lat: 7.833, lon: 81.333 ,url:'http://hello.com'},
+					{ name: 'Kandy', lat: 7.29639, lon: 80.63500 ,url:'http://hello.com'},
+					{ name: 'University of Colombo', lat: 6.9022, lon: 79.8607 ,url:'http://www.enablelanka.org/tag/university-of-colombo/'},
+					{ name: 'Eastern University', lat: 7.7944, lon: 81.5790 ,url:'http://www.enablelanka.org/tag/eastern-university/'},
+					{ name: 'Heenatigala Sri Shariputhra Vidyalaya', lat: 6.016555, lon: 80.277486 ,url:'http://www.enablelanka.org/tag/heenatigala-sri-shariputhra-vidyalaya/'},
+					{ name: 'Narahenpita', lat: 6.8976, lon: 79.8815 ,url:'http://www.enablelanka.org/tag/narahenpita/'},
+					{ name: 'Rajarata University', lat: 8.3636, lon: 80.5042 ,url:'http://www.enablelanka.org/tag/rajarata-university/'},
+					{ name: 'Sabaragamuwa University of Sri Lanka', lat: 6.7147, lon: 80.7893 ,url:'http://www.enablelanka.org/tag/sabaragamuwa-university-of-sri-lanka/'},
+					{ name: 'South Eastern University (Oluvil)', lat: 7.2970, lon: 81.8500 ,url:'http://www.enablelanka.org/tag/south-eastern-university-oluvil/'},
+					{ name: 'University of Jaffna', lat: 9.684694, lon: 80.021917 ,url:'http://www.enablelanka.org/tag/university-of-jaffna/'},
+					{ name: 'University of Kelaniya', lat: 6.972849, lon: 79.915854 ,url:'http://www.enablelanka.org/tag/university-of-kelaniya/'},
+					{ name: 'University of Peradeniya', lat: 7.2566, lon: 80.5966 ,url:'http://www.enablelanka.org/tag/university-of-peradeniya/'},
+					{ name: 'University of Ruhuna', lat: 5.9408, lon: 80.5765 ,url:'http://www.enablelanka.org/tag/university-of-ruhuna/'},
+					{ name: 'University of Sri Jayewardenepura', lat: 6.8524, lon: 79.9032 ,url:'http://www.enablelanka.org/tag/university-of-sri-jayewardenepura/'},
+					{ name: 'Uva Wellassa University', lat: 6.9826, lon: 81.0768 ,url:'http://www.enablelanka.org/tag/uva-wellassa-university/'},
+					{ name: 'Wayamba University of Sri Lanka', lat: 7.464989, lon: 80.019311 ,url:'http://www.enablelanka.org/tag/wayamba-university-of-sri-lanka/'},				
+					{ name: 'Colombo', lat: 6.927079, lon: 79.861244 ,url:'http://www.enablelanka.org/tag/colombo/'},
+				];
+
+				map.addSymbols({
+					type: kartograph.Bubble,
+					data: points_of_interest,
+					location: function(d) { return [d.lon, d.lat] },					
+					tooltip:function(d) { return d.name;}, //qtip
+					"class":"marker",
+					radius:10,
+					center: false,
+					labelattrs: { 'font-size': 11 },
+					buffer: true,
+					click: function(d) { location.href=d.url;}										
+			   });
+			});		
+	});
+	</script>
+	
+	<div id="map-wrapper">
+	<div style="width:100% height:100%">
+	<div id="sl-map"></div>
+	</div>
+	</div>
+			<div class="elementor-shortcode"></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b6bwirq" data-id="b6bwirq" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-j38ufzz elementor-widget elementor-widget-spacer" data-id="j38ufzz" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5o619xf elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="5o619xf" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.enablelanka.org/elf-breaking-barriers/" class="elementor-button-link elementor-button elementor-size-large" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SEE ALL PROJECTS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-sinsozm elementor-widget elementor-widget-spacer" data-id="sinsozm" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-y2d87vq elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="y2d87vq" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5p86b4i" data-id="5p86b4i" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-shjourq elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="shjourq" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.enablelanka.org/about-us/" class="elementor-button-link elementor-button elementor-size-large" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">GET TO KNOW US</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-wewzkvi" data-id="wewzkvi" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4tiwjf6 elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="4tiwjf6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.enablelanka.org/get-involved/" class="elementor-button-link elementor-button elementor-size-large" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">GET INVOLVED</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-pglb6d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="pglb6d6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-985knop" data-id="985knop" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c2ez1nl elementor-widget elementor-widget-spacer" data-id="c2ez1nl" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-q8eld6u elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="q8eld6u" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-59tpke7" data-id="59tpke7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-26habxx elementor-widget elementor-widget-spacer" data-id="26habxx" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-khbrjn0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="khbrjn0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-51lgzv9" data-id="51lgzv9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e9x3cjv elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="e9x3cjv" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-" href="https://www.facebook.com/enableSL/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+													<i class="fa fa-facebook"></i>
+											</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1arjv8l" data-id="1arjv8l" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-wvnqh4v elementor-widget elementor-widget-heading" data-id="wvnqh4v" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">STAY CONNECTED</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-s5d80tv" data-id="s5d80tv" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-83ad38h elementor-widget elementor-widget-spacer" data-id="83ad38h" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5kpf27j elementor-widget elementor-widget-shortcode" data-id="5kpf27j" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div class="cff-wrapper"><div id="cff" data-char="400" class="masonryfeed   cff-lb"  data-fb-text="View on Facebook"><div class="cff-error-msg"><p>Unable to display Facebook posts <br /><a href="javascript:void(0);" id="cff-show-error" onclick="cffShowError()">Show Error Message</a></p><script type="text/javascript">function cffShowError() { document.getElementById("cff-error-reason").style.display = "block"; document.getElementById("cff-show-error").style.display = "none"; }</script></p><div id="cff-error-reason">Error: Error validating application. Application has been deleted.<br />Type: OAuthException<br />Code: 190<br />Please refer to our <a href="https://smashballoon.com/custom-facebook-feed/docs/errors/" target="_blank">Error Message Reference</a> for a solution.</div></div></div></div></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+		</div>
+	</div><!-- #content -->
+
+	<div class="footer-wrapper">
+	
+				<footer id="colophon" class="site-footer" role="contentinfo">	
+			<div class="site-info container">
+						<div class="footer-info">
+			<div class="container">
+				<div class="footer-branding"><a href="http://www.enablelanka.org/" title="Enable Lanka Foundation"><img class="footer-logo" src="http://www.enablelanka.org/wp-content/uploads/2016/11/logo14_non-editable_horizontal_bw_with_circles.png" alt="Enable Lanka Foundation" /></a></div>				<div class="footer-contact"><div class="footer-contact-block"><i class="fa fa-home"></i><span>“Supipi”, Dambokka, Boyagene, Kurunegala, 60000, Sri Lanka</span></div><div class="footer-contact-block"><i class="fa fa-envelope"></i><span><a href="mailto:en&#097;ble&#108;&#097;nkafounda&#116;&#105;o&#110;&#064;gma&#105;&#108;&#046;c&#111;m">en&#097;ble&#108;&#097;nkafounda&#116;&#105;o&#110;&#064;gma&#105;&#108;&#046;c&#111;m</a></span></div><div class="footer-contact-block"><i class="fa fa-phone"></i><span>+94772578989 / +94766006404</span></div></div>			</div>
+		</div>
+		
+		
+				
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div>
+
+</div><!-- #page -->
+
+<link rel='stylesheet' id='lcp_googleFonts-css'  href='https://fonts.googleapis.com/css?family=Lato%7CVidaloka%7CSource+Serif+Pro%7CNoto+Serif&#038;ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/custom-facebook-feed-pro/js/cff-scripts.js?ver=2.6.5' id='cffscripts-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/astrid/js/main.js?ver=5.5.1' id='astrid-main-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/astrid/js/scripts.min.js?ver=5.5.1' id='astrid-scripts-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/astrid/js/html5shiv.js?ver=5.5.1' id='astrid-html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' id='ajax-load-more-js-extra'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"http:\/\/www.enablelanka.org\/wp-admin\/admin-ajax.php","alm_nonce":"98090a2564","rest_api":"http:\/\/www.enablelanka.org\/wp-json\/","rest_nonce":"a0f8ffa3a3","pluginurl":"http:\/\/www.enablelanka.org\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=5.3.7' id='ajax-load-more-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/themes/elf-theme/js/ajax_load_more_filter.js?ver=5.5.1' id='elf_ajax_load_more_filter-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.5' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.5' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.5","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"http:\/\/www.enablelanka.org\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1176,"title":"Enable%20Lanka%20Foundation%20%E2%80%93%20Impactful%20Empowerment.%20Deep%20Lankan%20Roots.","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.5' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-includes/js/wp-util.min.js?ver=5.5.1' id='wp-util-js'></script>
+<script type='text/javascript' id='wpforms-elementor-js-extra'>
+/* <![CDATA[ */
+var wpformsElementorVars = {"recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.enablelanka.org/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.2.2' id='wpforms-elementor-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+</body>
+</html>

@@ -1,0 +1,1603 @@
+ <!DOCTYPE HTML>
+<html lang="es" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+  if (window.location.pathname == '/'){
+    var isMobile = false; //initiate as false
+    if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
+        || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0,4))) isMobile = true;
+      if (isMobile){
+          window.stop();
+          window.location = window.location.href + 'mobile';
+      }
+    }
+  </script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/favicon.png" type="image/png" />
+<script type="5d5759f90a42d64ab1affa96-text/javascript">dataLayer = [];</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="description" content="El periódico de México líder en noticias y clasificados" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.eluniversalqueretaro.mx/" />
+<link rel="shortlink" href="https://www.eluniversalqueretaro.mx/" />
+<script type="5d5759f90a42d64ab1affa96-text/javascript">        
+
+
+    window.digitalData = {
+        pageInstanceID: '1',
+    page:{
+            pageInfo:{
+                pageID: '1',
+                pageName: 'www.eluniversalqueretaro.mx',
+                destinationURL: 'www.eluniversalqueretaro.mx',
+                author: '',
+                issueDate: '',
+                effectiveDate: '',
+                    publisher: '',
+                    tags: [],
+                },
+                category:{
+                    primaryCategory: 'inicio',
+                    subCategory1: '',
+                    pageType: ''
+                },
+                attributes:{
+                    country: 'MX',
+                    language: 'es-mx',
+                    server: 'eluniversalqueretaro_prod'
+                }
+        }        
+    };
+
+</script><meta property="fb:app_id" content="692084394291709" />
+<meta property="og:site_name" content="Querétaro" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.eluniversalqueretaro.mx/" />
+<meta property="og:title" content="Querétaro" />
+<meta property="og:description" content="El periódico de México líder en noticias y clasificados" />
+<meta property="og:image" content="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/images/default.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="316" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Univ_Qro" />
+<meta name="twitter:creator" content="@Univ_Qro" />
+<meta name="twitter:url" content="https://www.eluniversalqueretaro.mx/" />
+<meta name="twitter:title" content="Querétaro" />
+<meta name="twitter:description" content="El periódico de México líder en noticias y clasificados" />
+<meta name="twitter:image" content="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/images/default.jpg" />
+<meta name="twitter:image:width" content="600" />
+<meta name="twitter:image:height" content="316" />
+
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+<title>Querétaro | El periódico de México líder en noticias y clasificados</title>
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_FFMDRYZ2nSV6HGDyDVpm9-yNY8H0IkhZ90k-a2N9jFE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_OhFeCFGn6F3ysuwrErul_IzWvx9HNZF-Wh9Z2eno_eQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_ug4Gph3H1uhW-nbSZFMUgUZA9FdU1GnijNVLIx1nlag.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_0Vj2TfpF1Fhi93Jb2QUwBgnxKr1SEk6aL_i1Mfly8o4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_xuZJPEtRDP1dUS-Y4tgMk7PvXMCNSFXq8guB54KBfRE.css" media="all" />
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_tbavzpjs6DHleJoJYN2boPTdDqTtluCvxuE1zxi6PU4.css" media="all" />
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/default/files/css/css_IGN8Jps-at_VEME_7c9pGIOPjTXoPdPtte4j6Trls2M.css" media="all" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/css/ie-lte-9.css?qi7d2q" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/css/ie-lte-8.css?qi7d2q" media="all" />
+<![endif]-->
+
+<script async="async" src="//www.googletagservices.com/tag/js/gpt.js" type="5d5759f90a42d64ab1affa96-text/javascript"> </script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_ktYdxCPe0rUvUahz3yCaDkIr1rVJ3SA1Eg2wZz6jAgM.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_SU5dz2GWRWheZV8Qf6o6MUv8SAaYL1-LIia655QhFWg.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_9bZVxSsGxlfGcI7aFgtugF4mn82RXIVwxKE8_EusJfI.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalvideo.com.mx/js/widgetPlayerUV.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_Q--NpFv-LwYV1HXhH_ueXSazRzBUGc-BtVVFkS6CtL4.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-5566785-36"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_2l6DHg_IjjjuRNWHez_7meZ5Q9Fre9kyXApfaaJl_7E.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_uwrfBOJCFVq42muTMjrq2bD-RUh8NNq_fZRTb6dsNb4.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.slots = googletag.slots || {};
+
+        
+//--><!]]>
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_4ORyRINFpokR3sEcRWElvnxf25UYB3zmyBjbvguJzN0.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[//><!--
+
+        var slots = {};
+        googletag.cmd.push(function() {
+          var mapping_billboard = googletag.sizeMapping().
+              addSize([320, 0], [320, 50]).
+              addSize([480, 0], [320, 50]).
+              addSize([768, 0], [0, 0]).
+              addSize([980, 0], [[728, 90],[970,90]]).
+              addSize([1000, 0],[[728, 90], [970,250], [970, 90], [980, 65],[980, 250]]).
+            build();
+          var mapping_right = googletag.sizeMapping().
+              addSize([320, 0], [[300,250], [300,600], [300,400], [300,100]]).
+              addSize([480, 0], [[300,250], [300,600], [300,400], [300,100]]).
+              addSize([768, 0], [0,0]).
+              addSize([980, 0], [[300,250], [300,600], [300,400], [300,100]]).
+              addSize([1000, 0], [[300,250], [300,600], [300,400], [300,100]]).
+            build();
+          var mapping_skin = googletag.sizeMapping().
+            addSize([980, 0], [0,0]).
+            addSize([1000, 0], [[120,600],[120,960], [160,600],[160,960], [130, 1260]]).
+          build();
+          var mapping_leaderboard_superleaderboard = googletag.sizeMapping().
+              addSize([320, 0], [[320, 50], [300, 50]]).
+              addSize([480, 0], [[320, 50], [300, 50]]).
+              addSize([768, 0], [728,90]).
+              addSize([980, 0], [[728,90], [970,90],[980, 250]]).
+              addSize([1000, 0], [[728,90], [970,90],[980, 250]]).
+            build();
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_top1', [980,65], 'div-dfp-top1').defineSizeMapping(mapping_billboard).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_skin1', [120, 600], 'div-dfp-skin1').defineSizeMapping(mapping_skin).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_skin2', [120, 600], 'div-dfp-skin2').defineSizeMapping(mapping_skin).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_bottom1', [970, 90], 'div-dfp-bottom1').defineSizeMapping(mapping_leaderboard_superleaderboard).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right1', [300, 250], 'div-dfp-right1').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right2', [300, 250], 'div-dfp-right2').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right3', [300, 250], 'div-dfp-right3').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right4', [300, 250], 'div-dfp-right4').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right5', [300, 250], 'div-dfp-right5').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right6', [300, 250], 'div-dfp-right6').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.defineSlot('/178068052/www.eluniversalqueretaro.mx/home/portada_right7', [300, 250], 'div-dfp-right7').defineSizeMapping(mapping_right).addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+      
+//--><!]]>
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"universal","theme_token":"SGHugMGagkiUpKKZTckTjsB2Jysarpqw5b_pK1NRy30","js":{"\/sites\/all\/themes\/universal\/js\/countCommentsFb.js":1,"sites\/all\/libraries\/owl-carousel\/owl.carousel.min.js":1,"sites\/all\/modules\/owlcarousel\/includes\/js\/owlcarousel.settings.js":1,"sites\/all\/modules\/copyprevention\/copyprevention.js":1,"https:\/\/sb.scorecardresearch.com\/c2\/6906641\/cs.js":1,"0":1,"\/sites\/all\/themes\/universal\/js\/grid.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/jquery.ui.core.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/jquery.ui.widget.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/jquery.ui.tabs.js":1,"sites\/all\/modules\/eluniversal\/itinerario_aiq\/itinerario_aiq.js":1,"sites\/all\/modules\/lazyloader\/jquery.lazyloader.js":1,"https:\/\/www.eluniversalvideo.com.mx\/js\/widgetPlayerUV.js":1,"public:\/\/languages\/es_HRyYFgStGzIOaalupQi_vEuaA9dP5f6aHEbJVEz1EzY.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/eluniversal\/mxmtabs\/js\/scripts.js":1,"sites\/all\/modules\/panels_tabs\/js\/panels_tabs.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"https:\/\/assets.adobedtm.com\/launch-ENa9577a54351646d684d29037541f6889.min.js":1,"sites\/all\/modules\/eluniversal\/bluekai\/bluekai.js":1,"sites\/all\/modules\/eluniversal\/bluekai\/detect.js":1,"sites\/all\/modules\/eluniversal\/dfp_uni\/dfp_uni.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-equalheights.js":1,"2":1,"sites\/all\/themes\/universal\/js\/scripts.js":1,"3":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/lazyloader\/lazyloader.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/twocol_stacked\/twocol_stacked.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/themes\/universal\/ajustes.css":1,"sites\/all\/themes\/universal\/v_global.css":1,"sites\/all\/themes\/universal\/h_goblal.css":1,"sites\/all\/themes\/universal\/footer.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/libraries\/owl-carousel\/owl.carousel.css":1,"sites\/all\/libraries\/owl-carousel\/owl.theme.css":1,"sites\/all\/libraries\/owl-carousel\/owl.transitions.css":1,"sites\/all\/themes\/universal\/css\/global.css":1,"sites\/all\/themes\/universal\/css\/ajustes.css":1,"sites\/all\/themes\/universal\/css\/v_global.css":1,"sites\/all\/themes\/universal\/css\/footer.css":1,"sites\/all\/themes\/universal\/css\/h_goblal.css":1,"ie::normal::sites\/all\/themes\/universal\/css\/universal-universal-default.css":1,"ie::normal::sites\/all\/themes\/universal\/css\/universal-universal-default-normal.css":1,"ie::normal::sites\/all\/themes\/universal\/css\/grid\/universal_default\/normal\/universal-default-normal-24.css":1,"narrow::sites\/all\/themes\/universal\/css\/universal-universal-default.css":1,"narrow::sites\/all\/themes\/universal\/css\/universal-universal-default-narrow.css":1,"sites\/all\/themes\/universal\/css\/grid\/universal_default\/narrow\/universal-default-narrow-24.css":1,"normal::sites\/all\/themes\/universal\/css\/universal-universal-default.css":1,"normal::sites\/all\/themes\/universal\/css\/universal-universal-default-normal.css":1,"sites\/all\/themes\/universal\/css\/grid\/universal_default\/normal\/universal-default-normal-24.css":1,"sites\/all\/themes\/universal\/css\/ie-lte-9.css":1,"sites\/all\/themes\/universal\/css\/ie-lte-8.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"panelsTabs":{"tabsID":["tabs-minipanel_aiq-bottom","tabs-minipanel_home_mxm_y_mas-middle"]},"mxmtabs":{"urljson":"https:\/\/www.eluniversalqueretaro.mx\/sites\/default\/files\/comscore\/local-queretaro_HOME_todas_todos_leidas_today_json.json","divid":"#lo-mas-visto"},"viewsSlideshow":{"carruselnota-panel_pane_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"carruselnota-panel_pane_1":{"top":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowPager":{"carruselnota-panel_pane_1":{"bottom":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"carruselnota-panel_pane_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_carruselnota-panel_pane_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"carruselnota-panel_pane_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"owlcarousel":{"owl-carousel-panel_pane_427":{"settings":{"items":5,"itemsDesktop":["1199",4],"itemsDesktopSmall":["979",3],"itemsTablet":["768",2],"itemsTabletSmall":["0",0],"itemsMobile":["479",1],"singleItem":true,"itemsScaleUp":false,"slideSpeed":200,"paginationSpeed":800,"rewindSpeed":1000,"autoPlay":"5000","stopOnHover":false,"navigation":true,"navigationText":["prev","next"],"rewindNav":true,"scrollPerPage":false,"pagination":false,"paginationNumbers":false,"responsive":true,"responsiveRefreshRate":200,"baseClass":"owl-carousel","theme":"owl-theme","lazyLoad":false,"lazyFollow":true,"lazyEffect":"fadeIn","autoHeight":false,"jsonPath":false,"jsonSuccess":false,"dragBeforeAnimFinish":true,"mouseDrag":true,"touchDrag":true,"addClassActive":false,"transitionStyle":false},"views":{"ajax_pagination":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"copyprevention":{"body":[],"images":{"contextmenu":"contextmenu","transparentgif":"transparentgif"},"images_min_dimension":"10","transparentgif":"https:\/\/www.eluniversalqueretaro.mx\/sites\/all\/modules\/copyprevention\/queretaro.jpg"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript"> jQuery(document).ready(function($){$("body").bind("copy paste",function(event){if (navigator.userAgent.search("MSIE")>=0){window.clipboardData.setData("Text","Agradecemos tu interés en nuestros contenidos, sin embargo; este material cuenta con derechos de propiedad intelectual, queda expresamente prohibido la publicación, retransmisión, distribución, venta, edición y cualquier otro uso de los contenidos (incluyendo, pero no limi- tado a, contenido, texto, fotografías, audios, videos y logotipos) sin previa autorización por escrito de EL UNIVERSAL, Compañía Periodística Nacional S. A. de C. V. Si deseas hacer uso de ellos te invitamos a visitar nuestra tienda en línea: http://tienda.agenciaeluniversal.mx , o bien, puedes comunicarte con nosotros para cualquier duda, comentario o sugerencia al teléfono: 57091313 Ext. 2406 y 2425 de lunes a viernes en horarios de oficina. Si deseas suscribete en nuestra versión impresa o digital, puedes comunicarte al teléfono 5709 1313 Ext. 1564 de lunes a viernes en horarios de oficina.");}else{event.originalEvent.clipboardData.setData("Text","Agradecemos tu interés en nuestros contenidos, sin embargo; este material cuenta con derechos de propiedad intelectual, queda expresamente prohibido la publicación, retransmisión, distribución, venta, edición y cualquier otro uso de los contenidos (incluyendo, pero no limi- tado a, contenido, texto, fotografías, audios, videos y logotipos) sin previa autorización por escrito de EL UNIVERSAL, Compañía Periodística Nacional S. A. de C. V. Si deseas hacer uso de ellos te invitamos a visitar nuestra tienda en línea: http://tienda.agenciaeluniversal.mx , o bien, puedes comunicarte con nosotros para cualquier duda, comentario o sugerencia al teléfono: 57091313 Ext. 2406 y 2425 de lunes a viernes en horarios de oficina. Si deseas suscribete en nuestra versión impresa o digital, puedes comunicarte al teléfono 5709 1313 Ext. 1564 de lunes a viernes en horarios de oficina.");}event.preventDefault();return false;});}); </script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u, i) {
+      if (!document.getElementById(i)){
+        e.async = 1;
+        e.src = u;
+        e.id = i;
+        f.parentNode.insertBefore(e, f);
+      }
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/eluniversal-queretaro/loader.js',
+    'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+      {window.performance.mark('tbl_ic');}
+  </script>
+</head>
+<body class="html front not-logged-in page-inicio page-queretaro">
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+</div>
+<div id='div-dfp-takeover' class='dfp_slot'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-dfp-takeover'); });
+ 	</script>
+</div><div id='div-dfp-skin1' class='dfp_slot'>
+<span class='line'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+		  googletag.cmd.push(function() { googletag.display('div-dfp-skin1'); });
+ 	  </script>
+</span>
+</div>
+<div id='div-dfp-skin2' class='dfp_slot'>
+<span class='line'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+		  googletag.cmd.push(function() { googletag.display('div-dfp-skin2'); });
+ 	  </script>
+</span>
+</div>
+<div id="universal-header">
+<div id="menu-header-top" class="ng-scope">
+<div data-ng-controller="menuHeaderTop">
+<div class="universal-header-top">
+<div id="universal-header-top-wrapper" class="container-24">
+<div class="universal-publidad-top">
+<div id='div-dfp-top1' class='dfp_slot'>
+<span class='line'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+		  googletag.cmd.push(function() { googletag.display('div-dfp-top1'); });
+ 	  </script>
+</span>
+</div>
+</div>
+<div class="universal-menus-top content clearfix">
+
+<div class="universal-logo">
+<a href="https://www.eluniversal.com.mx/"></a>
+</div>
+
+
+<div class="universal-bloque-buscar">
+<form onsubmit="if (!window.__cfRLUnblockHandlers) return false; return redirectBuscar();" id="search-block-form" accept-charset="UTF-8" class="ng-pristine ng-valid" data-cf-modified-5d5759f90a42d64ab1affa96-="">
+<div>
+<div class="container-inline">
+<div class="form-item form-type-textfield form-item-search-block-form">
+<input title="Escriba lo que quiere buscar." placeholder="Término de búsqueda" class="universal-header-buscador form-text" type="search" id="edit-search-block-form--2" name="q" value="" size="18" maxlength="128">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions">
+<input alt="Búscar" type="image" src="https://www.eluniversalqueretaro.mx/sites/all/themes/universal/images/buscarB.png" class="form-submit">
+ </div>
+</div>
+</div>
+</form>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="universal-header-middle container-24">
+<div class="clear"></div>
+</div>
+
+
+
+
+
+</div>
+<div class="region region-page-top" id="region-page-top">
+<div class="region-inner region-page-top-inner">
+
+<script type="5d5759f90a42d64ab1affa96-text/javascript"> 
+	function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+	unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new 	Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};udm_('https://sb.scorecardresearch.com/b?c1=2&c2=6906641&ns_site=el-universal&name=local-queretaro.home.portada&liga=https%3A%2F%2Fwww.eluniversalqueretaro.mx%2F&category=home&seccion=todas&titulo=Inicio&sitio=local-queretaro');
+</script>
+<noscript><p><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6906641&amp;ns_site=el-universal&amp;name=local-queretaro.home.portada&amp;liga=https%3A%2F%2Fwww.eluniversalqueretaro.mx%2F&amp;category=home&amp;seccion=todas&amp;titulo=Inicio&amp;sitio=local-queretaro" height="1" width="1" alt="*"></p></noscript>
+ </div>
+</div> <div class="page clearfix" id="page">
+<header id="section-header" class="section section-header">
+<div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">
+<div id="zone-menu" class="zone zone-menu clearfix container-24">
+<div class="grid-8 region region-menu-multimedia" id="region-menu-multimedia">
+<div class="region-inner region-menu-multimedia-inner">
+</div>
+</div><div class="grid-16 region region-menu" id="region-menu">
+<div class="region-inner region-menu-inner">
+</div>
+</div>
+</div>
+</div></header>
+<section id="section-content" class="section section-content">
+<div id="zone-preface-wrapper" class="zone-wrapper zone-preface-wrapper clearfix">
+<div id="zone-preface" class="zone zone-preface clearfix container-24">
+<div class="grid-24 region region-preface-first cabezal" id="region-preface-first">
+<div class="region-inner region-preface-first-inner">
+<div id="main-header-hiperlocales">
+<div id="inner-hiperlocales-left" style:"float: left">
+
+<div class="titulo-seccion">
+<div class="field field-name-field-seccion field-type-taxonomy-term-reference">
+<a href="/">Querétaro</a> </div>
+</div>
+
+</div>
+<div id="inner-hiperlocales-right">
+
+<div id="social-media">
+<div id="menu-social-media-hiperlocales" class="universal-menus-top">
+<div class="redes-sociales"> 
+<div class="rss">
+<a href="/rss.xml" target="_blank"></a>
+</div>
+<div class="youtube">
+<a href="https://www.youtube.com/eluniversalqueretaroonline" target="_blank"></a>
+</div>
+<div class="instagram">
+<a href="https://www.instagram.com/eluniversalqueretaro/" target="_blank"></a>
+</div>
+<div class="gplus">
+<a href="https://plus.google.com/112339164410786638360" target="_blank"></a>
+</div>
+<div class="twitter">
+<a href="https://twitter.com/universalqro" target="_blank"></a>
+</div>
+<div class="facebook">
+<a href="https://www.facebook.com/ElUniversalQueretaro" target="_blank"></a>
+</div>
+</div>
+</div>
+<div id="fecha-sitio">
+Mi&eacute;rcoles 14 de Octubre del 2020 </div>
+</div>
+<div class="submenu-temascalientes">
+
+<div class="view view-secciones-barrios view-id-secciones_barrios view-display-id-block_1 view-dom-id-066cd142d886dbc12685217b41c46c17">
+</div> </div>
+<div class="cintillo-interior">
+</div>
+
+</div>
+</div>
+<div id="menu-sitio-hiperlocales" class="submenu-seccion">
+<div id="icono-menu-sitio-hiperlocales"></div>
+<div id="logo-sitio-hiperlocales">
+<a href="/">Querétaro</a> </div>
+<div id="secciones-sitio-hiperlocal">
+<ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-3211 menuparent  menu-path-front first odd "><a href="/" title="QUERÉTARO" class="active">SECCIONES</a><ul><li class="menu-3213 menu-path-taxonomy-term-53526 first odd "><a href="/secciones/sociedad" title="">Sociedad</a></li>
+<li class="menu-3214 menu-path-taxonomy-term-53525  even "><a href="/secciones/seguridad" title="">Seguridad</a></li>
+<li class="menu-3215 menu-path-taxonomy-term-470  odd "><a href="/secciones/politica" title="">Politica</a></li>
+<li class="menu-3216 menu-path-taxonomy-term-472  even "><a href="/secciones/cartera" title="">Cartera</a></li>
+<li class="menu-3217 menu-path-taxonomy-term-471  odd "><a href="/secciones/metropoli" title="">Metrópoli </a></li>
+<li class="menu-3218 menu-path-taxonomy-term-3  even "><a href="/secciones/municipios" title="">Municipios</a></li>
+<li class="menu-3219 menu-path-opinion  odd "><a href="/opinion" title="">Opinión</a></li>
+<li class="menu-3220 menu-path-taxonomy-term-6  even "><a href="/secciones/deportes" title="">Deportes</a></li>
+<li class="menu-3221 menu-path-taxonomy-term-1570  odd "><a href="/secciones/nacion" title="">Nación</a></li>
+<li class="menu-3222 menu-path-taxonomy-term-55051  even "><a href="/secciones/mundo" title="">Mundo</a></li>
+<li class="menu-3223 menu-path-taxonomy-term-55095  odd last"><a href="/secciones/ciencia-y-tecnologia" title="">Ciencia y Tecnología</a></li>
+</ul></li>
+<li class="menu-3224 menuparent  menu-path-secciones-multimedia  even "><a href="/secciones/multimedia" title="">Multimedia</a><ul><li class="menu-3225 menu-path-secciones-multimedia first odd "><a href="/secciones/multimedia?qt-multimedia_tabs=1#tabsmultimedia" title="">Fotogalerías</a></li>
+<li class="menu-3226 menu-path-secciones-multimedia  even last"><a href="/secciones/multimedia?qt-multimedia_tabs=0#tabsmultimedia" title="">Videos</a></li>
+</ul></li>
+<li class="menu-3228 menuparent  menu-path-taxonomy-term-55219  odd "><a href="/secciones/especiales" title="">Especiales</a><ul><li class="menu-3229 menu-path-taxonomy-term-54646 first odd "><a href="/secciones/especiales/nuestras-historias" title="">Nuestras Historias</a></li>
+<li class="menu-3230 menu-path-taxonomy-term-55221  even "><a href="/secciones/especiales/tierra-de-emprendedores" title="">Tierra de Emprendedores</a></li>
+<li class="menu-3231 menu-path-taxonomy-term-55222  odd "><a href="/secciones/especiales/nuevos-queretanos" title="">Nuevos Queretanos</a></li>
+<li class="menu-3232 menu-path-taxonomy-term-55223  even "><a href="/secciones/especiales/bote-pronto" title="">A Bote Pronto</a></li>
+<li class="menu-3233 menu-path-taxonomy-term-55224  odd "><a href="/secciones/especiales/debates" title="">Debates</a></li>
+<li class="menu-3234 menu-path-taxonomy-term-55225  even "><a href="/secciones/especiales/entrevistas" title="">Entrevistas</a></li>
+<li class="menu-3530 menu-path-taxonomy-term-95901  odd "><a href="/secciones/especiales/orgullo-queretano" title="">Orgullo Queretano</a></li>
+<li class="menu-3531 menu-path-taxonomy-term-95905  even last"><a href="/secciones/especiales/zoociales" title="">Zoociales</a></li>
+</ul></li>
+<li class="menu-3235 menuparent  menu-path-taxonomy-term-473  even "><a href="/secciones/vida-q" title="">Vida Q</a><ul><li class="menu-3236 menu-path-taxonomy-term-23 first odd "><a href="/secciones/clase" title="">Clase</a></li>
+<li class="menu-3237 menu-path-taxonomy-term-53527  even "><a href="/seccion/vida-q/espectaculos" title="">Espectáculos</a></li>
+<li class="menu-3238 menu-path-taxonomy-term-53528  odd last"><a href="/seccion/vida-q/cultura" title="">Cultura</a></li>
+</ul></li>
+<li class="menu-3239 menu-path-mxm  odd "><a href="/mxm" title="">Minuto por Minuto</a></li>
+<li class="menu-922 menuparent  menu-path-avisooportunomx-queretaro-home-  even last"><a href="http://www.avisooportuno.mx/queretaro/home/" title="">Aviso Oportuno</a><ul><li class="menu-923 menu-path-avisooportunomx-queretaro-inmuebles- first odd "><a href="http://www.avisooportuno.mx/queretaro/inmuebles/" title="">Inmuebles</a></li>
+<li class="menu-925 menu-path-avisooportunomx-queretaro-empleos-  even "><a href="http://www.avisooportuno.mx/queretaro/empleos/" title="">Empleos</a></li>
+<li class="menu-924 menu-path-avisooportunomx-queretaro-vehiculos-  odd "><a href="http://www.avisooportuno.mx/queretaro/vehiculos/" title="">Vehículos</a></li>
+<li class="menu-926 menu-path-avisooportunomx-queretaro-varios-  even last"><a href="http://www.avisooportuno.mx/queretaro/varios/" title="">Varios</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">
+<div id="zone-content" class="zone zone-content clearfix container-24">
+<div class="grid-24 region region-content" id="region-content">
+<div class="region-inner region-content-inner">
+<a id="main-content"></a>
+<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+<div class="block-inner clearfix">
+<div class="content clearfix">
+<div class="panel-display universal-grid universal-24-seccion-15-8">
+<div class="panel-panel grid-24 alpha omega">
+<div class="inside"><div class="panel-pane pane-views-panes pane-temas-calientes-panel-pane-2">
+<h2 class="pane-title">Es Noticia:</h2>
+<div class="pane-content">
+<div class="view view-temas-calientes view-id-temas_calientes view-display-id-panel_pane_2 view-dom-id-f9b1ea7802d7d3f4e6d0ae56779f7e0d">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<a href="/nuestras-historias/octubre-rosa">Octubre Rosa</a> </div>
+<div class="views-row views-row-2 views-row-even">
+<a href="/mundo/covid-19">Covid-19 </a> </div>
+<div class="views-row views-row-3 views-row-odd">
+<a href="/nacion/violencia-en-guanajuato">Violencia en Guanajuato</a> </div>
+<div class="views-row views-row-4 views-row-even">
+<a href="/sociedad/quedateencasa">#QuédateEnCasa</a> </div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<a href="/24-11-2017/dia-naranja">Violencia de género</a> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-page-breadcrumb">
+<div class="pane-content">
+<h2 class="element-invisible">Se encuentra usted aquí</h2><div class="breadcrumb"><span class="inline odd first"><a href="/" class="active">INICIO</a></span> <span class="delimiter">//</span> <span class="inline even"><a href="/" class="active">QUERÉTARO</a></span> <span class="delimiter">//</span> <span class="inline odd last"></span></div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-carruselnota-panel-pane-1">
+<div class="pane-content">
+<div class="view view-carruselnota view-id-carruselnota view-display-id-panel_pane_1 view-dom-id-89e06aa510a7e4d164b39a0acfe9999f">
+<div class="view-content">
+<div class="skin-default">
+<div class="views-slideshow-controls-top clearfix">
+<div id="views_slideshow_controls_text_carruselnota-panel_pane_1" class="views-slideshow-controls-text views_slideshow_controls_text">
+<span id="views_slideshow_controls_text_previous_carruselnota-panel_pane_1" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Anterior</a></span>
+<span id="views_slideshow_controls_text_pause_carruselnota-panel_pane_1" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause"><a href="#">Pausa</a></span>
+<span id="views_slideshow_controls_text_next_carruselnota-panel_pane_1" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Siguiente</a></span>
+</div>
+</div>
+<div id="views_slideshow_cycle_main_carruselnota-panel_pane_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_carruselnota-panel_pane_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+<div id="views_slideshow_cycle_div_carruselnota-panel_pane_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"> <div id="imagen-principal">
+<div class="imagen-principal-field-image">
+<a href="/metropoli/vehiculo-cae-una-zanja-en-el-centro-historico-de-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/carrusel3columnas/public/2020/10/12/whatsapp_image_2020-10-12_at_22.12.33_1.jpeg?itok=nZc9VzV4&amp;c=4282a13df020e870b97e0f4056529962" width="1039" height="504" alt="Vehículo cae a una zanja en el Centro Histórico de Querétaro" title="Vehículo cae a una zanja en el Centro Histórico de Querétaro" /></a>
+</div>
+<div class="imagen-principal-field-titulo-abreviado">
+<a href="/metropoli/vehiculo-cae-una-zanja-en-el-centro-historico-de-queretaro" target="blank_">
+Vehículo cae a una zanja en el Centro Histórico de Querétaro
+</a>
+</div>
+</div></div> </div></div>
+</div>
+<div id="views_slideshow_cycle_div_carruselnota-panel_pane_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"> <div id="imagen-principal">
+<div class="imagen-principal-field-image">
+<a href="/cartera/4-mil-pesos-el-presupuesto-para-visitar-los-vinedos-un-fin-de-semana"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/carrusel3columnas/public/2020/10/13/tequisquiapan.png?itok=CrOs6dbd&amp;c=f074f51e9d217d7baf7c4c752a1c4ccc" width="1039" height="504" alt="4 mil pesos, el presupuesto para visitar los viñedos un fin de semana " title="4 mil pesos, el presupuesto para visitar los viñedos un fin de semana " /></a>
+</div>
+<div class="imagen-principal-field-titulo-abreviado">
+<a href="/cartera/4-mil-pesos-el-presupuesto-para-visitar-los-vinedos-un-fin-de-semana" target="blank_">
+4 mil pesos, el presupuesto para visitar los viñedos un fin de semana
+</a>
+</div>
+</div></div> </div></div>
+</div>
+<div id="views_slideshow_cycle_div_carruselnota-panel_pane_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"> <div id="imagen-principal">
+<div class="imagen-principal-field-image">
+<a href="/cartera/estas-son-las-dos-tiendas-con-mas-quejas-por-ventas-online-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/carrusel3columnas/public/4-PROFECO.jpg?itok=cBM7ZUuz&amp;c=3e24c105e33b80b515c72e56ba34dd7c" width="1039" height="504" alt="Estas son las dos tiendas con más quejas por ventas online en Querétaro" title="Estas son las dos tiendas con más quejas por ventas online en Querétaro" /></a>
+</div>
+<div class="imagen-principal-field-titulo-abreviado">
+<a href="/cartera/estas-son-las-dos-tiendas-con-mas-quejas-por-ventas-online-en-queretaro" target="blank_">
+Estas son las dos tiendas con más quejas por ventas online en Querétaro
+</a>
+</div>
+</div></div> </div></div>
+</div>
+<div id="views_slideshow_cycle_div_carruselnota-panel_pane_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"> <div id="imagen-principal">
+<div class="imagen-principal-field-image">
+<a href="/nuestras-historias/humilde-y-trabajador-sus-86-anos-don-agustin-arregla-y-confecciona-ropa"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/carrusel3columnas/public/2020/10/14/qr-foco13_118039793.jpg?itok=P7rZZRo5&amp;c=a615d2a5d69cf0688d181061bbd77067" width="1039" height="504" alt="&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir " title="&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir " /></a>
+</div>
+<div class="imagen-principal-field-titulo-abreviado">
+<a href="/nuestras-historias/humilde-y-trabajador-sus-86-anos-don-agustin-arregla-y-confecciona-ropa" target="blank_">
+&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir
+</a>
+</div>
+</div></div> </div></div>
+</div>
+<div id="views_slideshow_cycle_div_carruselnota-panel_pane_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+<div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"> <div id="imagen-principal">
+<div class="imagen-principal-field-image">
+<a href="/vida-q/el-show-debe-continuar-paulina-aguado"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/carrusel3columnas/public/VQ-AGUADO_0.jpg?itok=9XxygeeM&amp;c=e378ad6bdec1f437c5c60f5587f297c1" width="1039" height="504" alt="El show debe continuar: Paulina Aguado " title="El show debe continuar: Paulina Aguado " /></a>
+</div>
+<div class="imagen-principal-field-titulo-abreviado">
+<a href="/vida-q/el-show-debe-continuar-paulina-aguado" target="blank_">
+El show debe continuar: Paulina Aguado
+</a>
+</div>
+</div></div> </div></div>
+</div>
+</div>
+</div>
+<div class="views-slideshow-controls-bottom clearfix">
+<div id="widget_pager_bottom_carruselnota-panel_pane_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+<div id="views_slideshow_pager_field_item_bottom_carruselnota-panel_pane_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd">
+<div class="views-field-nothing">
+<div class="views-content-nothing">
+<div id="main-wrapper">
+<div id="apertura-2-detalle">
+<div class="apertura-2-detalle-field-image-1">
+<img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/slideshow_113x82/public/2020/10/12/whatsapp_image_2020-10-12_at_22.12.33_1.jpeg?itok=O2Nj8zRX" width="113" height="82" alt="Vehículo cae a una zanja en el Centro Histórico de Querétaro" title="Vehículo cae a una zanja en el Centro Histórico de Querétaro" />
+</div>
+<div class="seccion-a3columnas">
+<a href="/secciones/metropoli" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Metrópoli</a>:
+</div>
+<div class="apertura-2-detalle-datos">
+<span class="apertura-2-detalle-field-titulo-abreviado">
+<a href="https://www.eluniversalqueretaro.mx/metropoli/vehiculo-cae-una-zanja-en-el-centro-historico-de-queretaro">Vehículo cae a una zanja en el Centro Histórico de Querétaro</a>
+</span>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_carruselnota-panel_pane_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+<div class="views-field-nothing">
+<div class="views-content-nothing">
+<div id="main-wrapper">
+<div id="apertura-2-detalle">
+<div class="apertura-2-detalle-field-image-1">
+<img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/slideshow_113x82/public/2020/10/13/tequisquiapan.png?itok=PfzVWC11" width="113" height="82" alt="4 mil pesos, el presupuesto para visitar los viñedos un fin de semana " title="4 mil pesos, el presupuesto para visitar los viñedos un fin de semana " />
+</div>
+<div class="seccion-a3columnas">
+<a href="/secciones/cartera" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cartera</a>:
+</div>
+<div class="apertura-2-detalle-datos">
+<span class="apertura-2-detalle-field-titulo-abreviado">
+<a href="https://www.eluniversalqueretaro.mx/cartera/4-mil-pesos-el-presupuesto-para-visitar-los-vinedos-un-fin-de-semana">4 mil pesos, el presupuesto para visitar los viñedos un fin de semana </a>
+</span>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_carruselnota-panel_pane_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd">
+<div class="views-field-nothing">
+<div class="views-content-nothing">
+<div id="main-wrapper">
+<div id="apertura-2-detalle">
+<div class="apertura-2-detalle-field-image-1">
+<img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/slideshow_113x82/public/4-PROFECO.jpg?itok=KQYUmBcc" width="113" height="82" alt="Estas son las dos tiendas con más quejas por ventas online en Querétaro" title="Estas son las dos tiendas con más quejas por ventas online en Querétaro" />
+</div>
+<div class="seccion-a3columnas">
+<a href="/secciones/cartera" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cartera</a>:
+</div>
+<div class="apertura-2-detalle-datos">
+<span class="apertura-2-detalle-field-titulo-abreviado">
+<a href="https://www.eluniversalqueretaro.mx/cartera/estas-son-las-dos-tiendas-con-mas-quejas-por-ventas-online-en-queretaro">Estas son las dos tiendas con más quejas por ventas online en Querétaro</a>
+</span>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_carruselnota-panel_pane_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+<div class="views-field-nothing">
+<div class="views-content-nothing">
+<div id="main-wrapper">
+<div id="apertura-2-detalle">
+<div class="apertura-2-detalle-field-image-1">
+<img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/slideshow_113x82/public/2020/10/14/qr-foco13_118039793.jpg?itok=PfhE8Omm" width="113" height="82" alt="&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir " title="&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir " />
+</div>
+<div class="seccion-a3columnas">
+<a href="/secciones/especiales/nuestras-historias" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nuestras Historias</a>:
+</div>
+<div class="apertura-2-detalle-datos">
+<span class="apertura-2-detalle-field-titulo-abreviado">
+<a href="https://www.eluniversalqueretaro.mx/nuestras-historias/humilde-y-trabajador-sus-86-anos-don-agustin-arregla-y-confecciona-ropa">"Humilde y trabajador". A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir </a>
+</span>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_carruselnota-panel_pane_1_4" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd">
+<div class="views-field-nothing">
+<div class="views-content-nothing">
+<div id="main-wrapper">
+<div id="apertura-2-detalle">
+<div class="apertura-2-detalle-field-image-1">
+<img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/slideshow_113x82/public/VQ-AGUADO_0.jpg?itok=RyhBzM2N" width="113" height="82" alt="El show debe continuar: Paulina Aguado " title="El show debe continuar: Paulina Aguado " />
+</div>
+<div class="seccion-a3columnas">
+<a href="/secciones/vida-q" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vida Q</a>:
+</div>
+<div class="apertura-2-detalle-datos">
+<span class="apertura-2-detalle-field-titulo-abreviado">
+<a href="https://www.eluniversalqueretaro.mx/vida-q/el-show-debe-continuar-paulina-aguado">El show debe continuar: Paulina Aguado </a>
+</span>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="panel-panel grid-16 alpha">
+<div class="panel-panel grid-16 alpha">
+<div class="inside"><div class="panel-pane pane-views-panes pane-home-panel-pane-5">
+<div class="pane-content">
+<div class="view view-home view-id-home view-display-id-panel_pane_5 view-dom-id-5e72bdcd4fd5c79b90179d6d1326c1c6">
+<div class="view-content">
+<div>
+<div class="views-field views-field-title views-field-title"> <span class="field-content"><a href="/sociedad/reportan-130-enfermemos-mas-de-covid-19-en-queretaro">Reportan 130 enfermemos más de Covid-19 en Querétaro</a></span> </div>
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="iconoWrapperBig">
+<div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-7ace29ce54db07e1824cc079b7c9aa40">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/reportan-130-enfermemos-mas-de-covid-19-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f03-651x400/public/2020/10/14/virus_outbreak_ukraine_117499733.jpg?itok=PkvGlyfc&amp;c=6737ca6d85ec201d59f4a7a76790f28c" width="651" height="400" alt="Reportan 130 enfermemos más de Covid-19  en Querétaro" title="Reportan 130 enfermemos más de Covid-19  en Querétaro" /></a>
+</div></span> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/sociedad" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sociedad</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">08:25</span> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content"><div class="field field-name-field-resumen field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Entre los infectados hubo una niña de 1 año y un hombre de 90 años. Querétaro está cerca de alcanzar los 11 mil contagios acumulados</div></div></div></div> </div>
+<div class="views-field views-field-view-2"> <div class="field-content relacionadasSecciones"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_1 view-dom-id-1bb50ff77fa6c5b791347012d3a9fd5a">
+</div></div> </div>
+<div class="views-field views-field-view-3"> <span class="field-content"><div class="view view-notas-relacionadas-y-destacadas-home-y-seccion view-id-notas_relacionadas_y_destacadas_home_y_seccion view-display-id-panel_pane_4 apdestacadas view-dom-id-2bf3782d060d4699c0d72c0285893ec3">
+<div class="view-content">
+<div class="item-list"> <ul class="listDes"> <li class="views-row views-row-1">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_6 iconoTipo view-dom-id-566d4ccc25c4046e8769bdd65148ad89">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/este-lunes-se-reportaron-145-infectados-mas-de-coronavirus-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f08-441x271/public/2020/10/13/mexico-health-virus-doctors_117998902.jpg?itok=rgMcFaa6" width="447" height="271" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/este-lunes-se-reportaron-145-infectados-mas-de-coronavirus-en-queretaro">Este lunes se reportaron 145 infectados más de coronavirus, en Querétaro</a></span> </div>
+<div> <div class="views-field-field-resumen">Hay un menor de tres meses de edad y un hombre de 90 entre los contagiados. También se dio de alta sanitaria a 163 pacientes que vencieron a la enfermedad</div> </div></li>
+<li class="views-row views-row-2">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_6 iconoTipo view-dom-id-4ebb09daad5971c3d1f1959a18bcd84e">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/queretaro-no-regresara-al-semaforo-naranja-contradice-la-secretaria-de-salud-federal"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f08-441x271/public/2020/10/11/restaurante_solidario_con_desempleados_-4.jpg?itok=Hr8vlOu7&amp;c=06a22f3de9b27e2940fcf29946eb3d60" width="447" height="271" alt="Querétaro no regresará al semáforo naranja; contradice a la Secretaría de Salud federal " title="Querétaro no regresará al semáforo naranja; contradice a la Secretaría de Salud federal " /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/queretaro-no-regresara-al-semaforo-naranja-contradice-la-secretaria-de-salud-federal">Querétaro no regresará al semáforo naranja; contradice a la Secretaría de Salud federal </a></span> </div>
+<div> <div class="views-field-field-resumen">Tampoco habrá cierra de actividades reanudadas el 28 de septiembre pasado. El anunció lo dio a conocer el gobernador Francisco Domínguez Servién
+</div> </div></li>
+<li class="views-row views-row-3">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_6 iconoTipo view-dom-id-805bc4cf0a9d60a0e94aafad8fe19cfc">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/queretaro-vuelve-al-semaforo-naranja-estado-decidira-cierre-de-actividades"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f08-441x271/public/2020/10/09/universal_-_copia.jpg?itok=zjIMUxBi&amp;c=e762ff80589d35e1eb6e5049a4d4331e" width="447" height="271" alt="Querétaro vuelve al semáforo naranja; estado decidirá cierre de actividades" title="Querétaro vuelve al semáforo naranja; estado decidirá cierre de actividades" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/queretaro-vuelve-al-semaforo-naranja-estado-decidira-cierre-de-actividades">Querétaro vuelve al semáforo naranja; estado decidirá cierre de actividades</a></span> </div>
+<div> <div class="views-field-field-resumen">Aplicará a partir del 12 y hasta el 25 de octubre; apenas dos semanas atrás, el estadohabía logrado transitar al semáforo amarillo</div> </div></li>
+</ul></div> </div>
+</div></span> </div> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-promo-video-superior-panel-pane-4">
+<div class="pane-content">
+<div class="view view-promo-video-superior view-id-promo_video_superior view-display-id-panel_pane_4 view-dom-id-14f95b654836a0ee0ff8c2444de9f709">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-title"> <span class="field-content">Autoridades desarticulan criadero de perros para peleas</span> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content">Se desconoce el número de perros que fue rescatado por las autoridades</div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content"></div> </div>
+<div class="views-field views-field-views-conditional"> <span class="field-content"><div class="video-responsivo"><div class="embedded-video">
+<div class="player">
+<iframe class="" width="640" height="360" src="//www.youtube.com/embed/tfiOsLN6IRo?width=640&amp;height=360&amp;theme=dark&amp;autoplay=0&amp;vq=large&amp;rel=0&amp;showinfo=1&amp;modestbranding=0&amp;iv_load_policy=1&amp;controls=1&amp;autohide=2&amp;wmode=opaque" frameborder="0" allowfullscreen></iframe> </div>
+</div></div></span> </div> </div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="panel-panel grid-15 alpha">
+<div class="inside"><div class="panel-pane pane-views-panes pane-home-panel-pane-3">
+<div class="pane-content">
+<div class="view view-home view-id-home view-display-id-panel_pane_3 view-dom-id-b118064323c20df13e341fa3f24c9fde">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-8ebaf601ef13d8dedf9054a4cdbb5baa">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/por-pandemia-prohibiran-la-pepena-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/g13091346.jpg_13719252.jpg?itok=I7WHMU3k&amp;c=c2d80dd9b87ea4408c19d9f50f213f80" width="231" height="142" alt="Por pandemia, prohibirán la pepena en Querétaro " title="Por pandemia, prohibirán la pepena en Querétaro " /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/por-pandemia-prohibiran-la-pepena-en-queretaro">Por pandemia, prohibirán la pepena en Querétaro </a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/covid-19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Covid-19</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296216" data-urlfb="https://www.eluniversalqueretaro.mx/sociedad/por-pandemia-prohibiran-la-pepena-en-queretaro"><div id="node-fb-296216" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">La actividad carece de protocolos ante Covid-19, afirma la Sedesu </div> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-258b5e7a4d3b644f5a8562507bd96bef">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/metropoli/hospital-organizo-pelea-clandestina-de-box-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/5-HOSP%C3%8DTAL.jpg?itok=iRLuYpGX&amp;c=28b55b7b40cea7f0b57faba06d92421f" width="231" height="142" alt="Hospital organizó pelea clandestina de box en Querétaro" title="Hospital organizó pelea clandestina de box en Querétaro" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/metropoli/hospital-organizo-pelea-clandestina-de-box-en-queretaro">Hospital organizó pelea clandestina de box en Querétaro</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/viral" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">viral</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296223" data-urlfb="https://www.eluniversalqueretaro.mx/metropoli/hospital-organizo-pelea-clandestina-de-box-en-queretaro"><div id="node-fb-296223" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Medida, por organizar función de box a la que asistieron 400 personas durante la pandemia</div> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-2815c684ee20872c15ccb7e4c445b4ba">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/nacion/amlo-defiende-alvarez-buylla-y-lopez-gatell-los-quieren-desacreditar-dice"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_14.48.34.png?itok=gEqr29l5" width="231" height="142" alt="AMLO defiende a Álvarez-Buylla y a López-Gatell; los quieren desacreditar, dice" title="AMLO defiende a Álvarez-Buylla y a López-Gatell; los quieren desacreditar, dice" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/nacion/amlo-defiende-alvarez-buylla-y-lopez-gatell-los-quieren-desacreditar-dice">AMLO defiende a Álvarez-Buylla y a López-Gatell; los quieren desacreditar, dice</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/amlo" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">amlo</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296260" data-urlfb="https://www.eluniversalqueretaro.mx/nacion/amlo-defiende-alvarez-buylla-y-lopez-gatell-los-quieren-desacreditar-dice"><div id="node-fb-296260" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">El UNIVERSAL documentó que la directora del Conacyt recibió, como investigadora, 17 millones 228 mil 714 pesos de fideicomisos, los que ahora califica como “fuentes de corrupción, instancias opacas y modos de desviar recursos”</div> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-2195b2264b60be9381d49cced2fd1ad2">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/mundo/johnson-johnson-estudia-causa-de-enfermedad-en-voluntario-de-vacuna-contra-covid-19"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_15.06.55.png?itok=kNZQ4EkX" width="231" height="142" alt="Johnson &amp; Johnson estudia causa de enfermedad en voluntario de vacuna contra Covid-19" title="Johnson &amp; Johnson estudia causa de enfermedad en voluntario de vacuna contra Covid-19" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/mundo/johnson-johnson-estudia-causa-de-enfermedad-en-voluntario-de-vacuna-contra-covid-19">Johnson &amp; Johnson estudia causa de enfermedad en voluntario de vacuna contra Covid-19</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/vacuna" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">vacuna</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296262" data-urlfb="https://www.eluniversalqueretaro.mx/mundo/johnson-johnson-estudia-causa-de-enfermedad-en-voluntario-de-vacuna-contra-covid-19"><div id="node-fb-296262" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Directivos de la farmacéutica indicaron que el análisis les tomará varios días; “la enfermedad podría no estar relacionada con la vacuna”, agregaron</div> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-599ab96ed63f8179d3f1f095c8f2a5f0">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/nacion/lopez-gatell-espera-que-rebrotes-de-covid-19-ocurran-de-manera-parcial"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_15.14.07.png?itok=KEFCOAj-" width="231" height="142" alt="López-Gatell espera que rebrotes de Covid-19 ocurran de manera parcial" title="López-Gatell espera que rebrotes de Covid-19 ocurran de manera parcial" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/nacion/lopez-gatell-espera-que-rebrotes-de-covid-19-ocurran-de-manera-parcial">López-Gatell espera que rebrotes de Covid-19 ocurran de manera parcial</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/rebrotes" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">rebrotes</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296264" data-urlfb="https://www.eluniversalqueretaro.mx/nacion/lopez-gatell-espera-que-rebrotes-de-covid-19-ocurran-de-manera-parcial"><div id="node-fb-296264" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">
+El funcionario señaló que “lo ideal es que no haya rebrote de Covid-19 o que si hay, se dé de manera parcial, en algunas entidades, lo deseable es que no ocurra en ninguna”</div> </div> </div>
+<div class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-5785ce5f598f47b93e4dd1ee26e72909">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/nacion/enfrentamiento-en-zacatecas-deja-3-policias-heridos-y-14-agresores-muertos"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_15.19.54.png?itok=s1J6KX7g" width="231" height="142" alt="Enfrentamiento en Zacatecas deja 3 policías heridos y 14 agresores muertos" title="Enfrentamiento en Zacatecas deja 3 policías heridos y 14 agresores muertos" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/nacion/enfrentamiento-en-zacatecas-deja-3-policias-heridos-y-14-agresores-muertos">Enfrentamiento en Zacatecas deja 3 policías heridos y 14 agresores muertos</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/zacatecas" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Zacatecas</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296266" data-urlfb="https://www.eluniversalqueretaro.mx/nacion/enfrentamiento-en-zacatecas-deja-3-policias-heridos-y-14-agresores-muertos"><div id="node-fb-296266" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Elementos de la Policía Estatal Preventiva realizaban acciones táctico-operativas en la comunidad de Nueva Alianza. Se aseguraron tres vehículos, así como un arsenal y droga</div> </div> </div>
+<div class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-7d43d656eb24fb8627c42035b1b9eca5">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/nacion/que-sabemos-sobre-los-casos-de-reinfeccion-de-covid-19-en-el-mundo"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_15.22.14.png?itok=QQs9oXK_" width="231" height="142" alt="¿Qué sabemos sobre los casos de reinfección de Covid-19 en el mundo?" title="¿Qué sabemos sobre los casos de reinfección de Covid-19 en el mundo?" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/nacion/que-sabemos-sobre-los-casos-de-reinfeccion-de-covid-19-en-el-mundo">¿Qué sabemos sobre los casos de reinfección de Covid-19 en el mundo?</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/coronavirus" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">coronavirus</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296268" data-urlfb="https://www.eluniversalqueretaro.mx/nacion/que-sabemos-sobre-los-casos-de-reinfeccion-de-covid-19-en-el-mundo"><div id="node-fb-296268" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Los casos de reinfección de Covid-19 registrados en el mundo suscitan nuevas interrogantes sobre la adquisición de una inmunidad tras haber padecido el virus
+</div> </div> </div>
+<div class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-2290988fd81cc353040d9b841d7b100f">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/nacion/diputada-del-pan-propone-que-desempleados-por-covid-19-conserven-imss-ocho-semanas-mas"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/captura_de_pantalla_2020-10-13_a_las_15.26.08.png?itok=lfQoqyAz" width="231" height="142" alt="Diputada del PAN propone que desempleados por Covid-19 conserven IMSS ocho semanas más" title="Diputada del PAN propone que desempleados por Covid-19 conserven IMSS ocho semanas más" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/nacion/diputada-del-pan-propone-que-desempleados-por-covid-19-conserven-imss-ocho-semanas-mas">Diputada del PAN propone que desempleados por Covid-19 conserven IMSS ocho semanas más</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/imss" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">IMSS</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296270" data-urlfb="https://www.eluniversalqueretaro.mx/nacion/diputada-del-pan-propone-que-desempleados-por-covid-19-conserven-imss-ocho-semanas-mas"><div id="node-fb-296270" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Datos del INEGI y del Banco de México revelan que más de 12 millones de personas perdieron sus puestos de trabajo durante abril y mayo por la pandemia
+</div> </div> </div>
+<div class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-75a7cdf6820074db4e147579bef68a40">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/deportes/queratero-fc-asi-dice-el-anillo-de-ronaldinho"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/anillo.png?itok=kmzOiJVA&amp;c=3b5b83d2fe3d1318c5e81c69d85c03c4" width="231" height="142" alt="“Queratero FC”, así dice el anillo de Ronaldinho" title="“Queratero FC”, así dice el anillo de Ronaldinho" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/deportes/queratero-fc-asi-dice-el-anillo-de-ronaldinho">“Queratero FC”, así dice el anillo de Ronaldinho</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/futbol" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">futbol</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296274" data-urlfb="https://www.eluniversalqueretaro.mx/deportes/queratero-fc-asi-dice-el-anillo-de-ronaldinho"><div id="node-fb-296274" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">La pieza será subastada y las ganancias irán a la asociación 1 Maillot pou la Vieque, que tiene como fin ayudar a niños</div> </div> </div>
+<div class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-12d92caf498cddcfea384082fa8223e9">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/candidatos-la-rectoria-de-la-uaq-en-deuda-con-la-violencia-de-genero"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/13/colectiva_-_copia.jpg?itok=XLiozyh-&amp;c=b9db9b4d10cc6b97ad6e7dfffbd6f7b1" width="231" height="142" alt="“Candidatos a la rectoría de la UAQ, en deuda con la violencia de género”" title="“Candidatos a la rectoría de la UAQ, en deuda con la violencia de género”" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/candidatos-la-rectoria-de-la-uaq-en-deuda-con-la-violencia-de-genero">“Candidatos a la rectoría de la UAQ, en deuda con la violencia de género”</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/violencia-de-genero" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">violencia de género</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">2020-10-13</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296279" data-urlfb="https://www.eluniversalqueretaro.mx/sociedad/candidatos-la-rectoria-de-la-uaq-en-deuda-con-la-violencia-de-genero"><div id="node-fb-296279" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Estudiantes denuncian la falta de atención y la desestimación de denuncias </div> </div> </div>
+<div class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-ed6e52326af0897b6f11e35d2ff92739">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/cartera/frijol-maiz-chia-y-amaranto-afectados-por-las-primeras-heladas-en-queretaro"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/2020/10/14/m-_chia_80004976.jpg?itok=eWBhMeKE&amp;c=49b4f956ed52fd180f4eb6373685bc0a" width="231" height="142" alt="Frijol, maíz, chía y amaranto, afectados por las primeras heladas en Querétaro " title="Frijol, maíz, chía y amaranto, afectados por las primeras heladas en Querétaro " /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/cartera/frijol-maiz-chia-y-amaranto-afectados-por-las-primeras-heladas-en-queretaro">Frijol, maíz, chía y amaranto, afectados por las primeras heladas en Querétaro </a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/campo" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">campo</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">11:01</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296288" data-urlfb="https://www.eluniversalqueretaro.mx/cartera/frijol-maiz-chia-y-amaranto-afectados-por-las-primeras-heladas-en-queretaro"><div id="node-fb-296288" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Suman 6 mil hectáreas de cultivo; se ubican en Cadereyta y San Juan del Río</div> </div> </div>
+<div class="views-row views-row-12 views-row-even">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-fbf42aa04041b615c09e0f8bcfa0a163">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/cartera/por-covid-cancelan-85-feria-ganadera"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/q6-feria.jpg?itok=iOfyuqMY&amp;c=a5e0f5a9d5ce4da3733853f508dbafd3" width="231" height="142" alt="Por Covid, cancelan 85 Feria Ganadera " title="Por Covid, cancelan 85 Feria Ganadera " /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/cartera/por-covid-cancelan-85-feria-ganadera">Por Covid, cancelan 85 Feria Ganadera </a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/feria" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Feria</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">11:04</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296292" data-urlfb="https://www.eluniversalqueretaro.mx/cartera/por-covid-cancelan-85-feria-ganadera"><div id="node-fb-296292" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">No hay condiciones para efectuarla: Comité de Salud</div> </div> </div>
+<div class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-1bfae332b0f67aa9b156bbe2ac3bb549">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/sociedad/fallece-un-radiologo-causa-de-coronavirus"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/q7-radiologo.jpg?itok=WoFFruPS&amp;c=55fdc8e4c4c9683055dbaba0e5b9b7c6" width="231" height="142" alt="Fallece un radiólogo a causa de coronavirus" title="Fallece un radiólogo a causa de coronavirus" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/sociedad/fallece-un-radiologo-causa-de-coronavirus">Fallece un radiólogo a causa de coronavirus</a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/pandemia" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">pandemia</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">11:06</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296295" data-urlfb="https://www.eluniversalqueretaro.mx/sociedad/fallece-un-radiologo-causa-de-coronavirus"><div id="node-fb-296295" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Es el cuarto deceso registrado entre empleados de la salud, dice sindicato</div> </div> </div>
+<div class="views-row views-row-14 views-row-even views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content iconoWrapper"><div class="view view-notas-relacionadas view-id-notas_relacionadas view-display-id-panel_pane_3 iconoTipo view-dom-id-6d23cfc44174ff4b5f6e15b656e5ba77">
+<div class="view-content">
+<div>
+</div>
+</div>
+</div>
+<a href="/metropoli/en-queretaro-constructora-corta-arboles-y-le-suspenden-las-obras"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f13-231x142/public/Q%205-predio.jpg?itok=xVYLkj5i&amp;c=aec31ec1f520deb332c887dbc6811854" width="231" height="142" alt="En Querétaro, constructora corta árboles y le suspenden las obras " title="En Querétaro, constructora corta árboles y le suspenden las obras " /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="/metropoli/en-queretaro-constructora-corta-arboles-y-le-suspenden-las-obras">En Querétaro, constructora corta árboles y le suspenden las obras </a></span> </div>
+<div class="views-field views-field-field-tags"> <div class="field-content"><a href="/tags/sedesu" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">sedesu</a></div> </div>
+<div class="views-field views-field-created"> <span class="field-content">13:20</span> </div>
+<div class="views-field views-field-nid"> <div class="field-content"><div class="fb-comments views-field views-field-fb-comments" data-idfb="296285" data-urlfb="https://www.eluniversalqueretaro.mx/metropoli/en-queretaro-constructora-corta-arboles-y-le-suspenden-las-obras"><div id="node-fb-296285" class=""></div></div></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content">Hacían remoción de masa vegetal en un área que no cuenta con permisos</div> </div> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-minipanel-aiq">
+<div class="pane-content">
+<div class="panel-2col-stacked clearfix panel-display" id="mini-panel-minipanel_aiq">
+<div class="panel-col-top panel-panel">
+<div class="inside"><div class="panel-pane pane-custom pane-1">
+<div class="pane-content">
+<div class="wpb_single_image wpb_content_element vc_align_center" id="pos-ini">
+<figure class="wpb_wrapper vc_figure">
+<a href="http://aiq.com.mx/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img width="" height="" src="/sites/all/themes/universal/images/aiq/aiq-mexico-amqueretaro.jpg" class="vc_single_image-img attachment-large" alt="" srcset="" sizes="(max-width: 770px) 100vw, 770px"></a>
+</figure>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="center-wrapper">
+<div class="panel-col-first panel-panel">
+<div class="inside"></div>
+</div>
+<div class="panel-col-last panel-panel">
+<div class="inside"></div>
+</div>
+</div>
+<div class="panel-col-bottom panel-panel">
+<div class="inside"><div id="tabs-minipanel_aiq-bottom"><div class="item-list"><ul><li class="first"><a href="#tabs-minipanel_aiq-bottom-1">LLEGADAS</a></li><li class="last"><a href="#tabs-minipanel_aiq-bottom-2">SALIDAS</a></li></ul></div><div id="tabs-minipanel_aiq-bottom-1"><div class="panel-pane pane-block pane-itinerario-aiq-llegadas">
+<div class="pane-content">
+<div class="aiq-data">
+<div class="t-row field-data">
+<div class="wrapper">
+<div class="txt logoaiq"><span>AEROLINEA</span><span>AIRLINES</span></div>
+<div class="num vuelo"><span>VUELO</span><span>FLIGHT</span></div>
+</div>
+<div class="wrapper">
+<div class="txt origen"><span>ORIGEN</span><span>FROM</span></div>
+<div class="txt destino"><span>DESTINO</span><span>TO</span></div>
+</div>
+<div class="wrapper">
+<div class="num programado"><span>PROGRAMADO</span><span>SCHEDULED</span></div>
+<div class="txt estimado"><span>ESTIMADO</span><span>EXPECTED</span></div>
+<div class="txt statusv"><span>ESTADO</span><span>STATUS</span></div>
+</div>
+</div>
+<div class="t-row row row-0">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/aero.png"> </div>
+<div class="num vuelo">2263</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">MONTERREY</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">08:17</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-1">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/unit_A.png"> </div>
+<div class="num vuelo">6163</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">HOUSTON</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">12:05</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-2">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/AA.png"> </div>
+<div class="num vuelo">3517</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">DALLAS</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">13:41</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-3">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/Y4.png"> </div>
+<div class="num vuelo">113</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">CANCUN</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">14:33</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-4">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/aero.png"> </div>
+<div class="num vuelo">2264</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">MEXICO</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">14:59</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-5">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/Y4.png"> </div>
+<div class="num vuelo">846</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">TIJUANA</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">15:16</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-6">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/unit_A.png"> </div>
+<div class="num vuelo">6243</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">HOUSTON</div>
+<div class="txt destino">Queretaro</div>
+</div>
+<div class="wrapper">
+<div class="num programado">22:22</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+</div>
+<span class="list-viaj cerrado" rel="0">Consulta las salidas y llegadas </span>
+</div>
+</div>
+</div><div id="tabs-minipanel_aiq-bottom-2"><div class="panel-pane pane-block pane-itinerario-aiq-salidas">
+<div class="pane-content">
+<div class="aiq-data">
+<div class="t-row field-data">
+<div class="wrapper">
+<div class="txt logoaiq"><span>AEROLINEA</span><span>AIRLINES</span></div>
+<div class="num vuelo"><span>VUELO</span><span>FLIGHT</span></div>
+</div>
+<div class="wrapper">
+<div class="txt origen"><span>ORIGEN</span><span>FROM</span></div>
+<div class="txt destino"><span>DESTINO</span><span>TO</span></div>
+</div>
+<div class="wrapper">
+<div class="num programado"><span>PROGRAMADO</span><span>SCHEDULED</span></div>
+<div class="txt estimado"><span>ESTIMADO</span><span>EXPECTED</span></div>
+<div class="txt statusv"><span>ESTADO</span><span>STATUS</span></div>
+</div>
+</div>
+<div class="t-row row row-0">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/unit_A.png"> </div>
+<div class="num vuelo">6316</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">HOUSTON</div>
+</div>
+<div class="wrapper">
+<div class="num programado">06:00</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-1">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/aero.png"> </div>
+<div class="num vuelo">2461</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">MEXICO</div>
+</div>
+<div class="wrapper">
+<div class="num programado">09:07</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-2">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/AA.png"> </div>
+<div class="num vuelo">3517</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">DALLAS</div>
+</div>
+<div class="wrapper">
+<div class="num programado">14:37</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-3">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/Y4.png"> </div>
+<div class="num vuelo">112</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">CANCUN</div>
+</div>
+<div class="wrapper">
+<div class="num programado">15:03</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-4">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/unit_A.png"> </div>
+<div class="num vuelo">6178</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">HOUSTON</div>
+</div>
+<div class="wrapper">
+<div class="num programado">15:10</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+<div class="t-row row row-5">
+<div class="wrapper">
+<div class="txt logoaiq"><img src="/sites/all/themes/universal/images/aiq/aero.png"> </div>
+<div class="num vuelo">2226</div>
+</div>
+<div class="wrapper">
+<div class="txt origen">QUERETARO</div>
+<div class="txt destino">MONTERREY</div>
+</div>
+<div class="wrapper">
+<div class="num programado">16:20</div>
+<div class="txt estimado"></div>
+<div class="txt statusv">A TIEMPO/ON TIME</div>
+</div>
+</div>
+</div>
+<span class="list-viaj cerrado" rel="0">Consulta las salidas y llegadas </span>
+</div>
+</div>
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-panel grid-8 omega">
+<div class="inside"><div class="panel-pane pane-panels-mini pane-minipanel-home-mxm-y-mas">
+<div class="pane-content">
+<div class="panel-display panel-1col clearfix" id="mini-panel-minipanel_home_mxm_y_mas">
+<div class="panel-panel panel-col">
+<div><div id="tabs-minipanel_home_mxm_y_mas-middle"><div class="item-list"><ul><li class="first"><a href="#tabs-minipanel_home_mxm_y_mas-middle-1">Minuto por minuto</a></li><li class="last"><a href="#tabs-minipanel_home_mxm_y_mas-middle-2">Lo más visto</a></li></ul></div><div id="tabs-minipanel_home_mxm_y_mas-middle-1"><div class="panel-pane pane-views-panes pane-minuto-por-minuto-panel-pane-4">
+<div class="pane-content">
+<div class="view view-minuto-por-minuto view-id-minuto_por_minuto view-display-id-panel_pane_4 quick-mxm view-dom-id-a10d8a4b63c5df5bb600eb12c9c40742">
+<div class="view-content">
+<div class="seccion-471">
+<span class="fecha">13:20</span>
+<span><a href="https://www.eluniversalqueretaro.mx/metropoli/en-queretaro-constructora-corta-arboles-y-le-suspenden-las-obras">En Querétaro, constructora corta árboles y le suspenden las obras </a></span> </div>
+<div class="seccion-53526">
+<span class="fecha">11:06</span>
+<span><a href="https://www.eluniversalqueretaro.mx/sociedad/fallece-un-radiologo-causa-de-coronavirus">Fallece un radiólogo a causa de coronavirus</a></span> </div>
+<div class="seccion-472">
+<span class="fecha">11:04</span>
+<span><a href="https://www.eluniversalqueretaro.mx/cartera/por-covid-cancelan-85-feria-ganadera">Por Covid, cancelan 85 Feria Ganadera </a></span> </div>
+<div class="seccion-472">
+<span class="fecha">11:01</span>
+<span><a href="https://www.eluniversalqueretaro.mx/cartera/frijol-maiz-chia-y-amaranto-afectados-por-las-primeras-heladas-en-queretaro">Frijol, maíz, chía y amaranto, afectados por las primeras heladas en Querétaro </a></span> </div>
+<div class="seccion-53526">
+<span class="fecha">08:25</span>
+<span><a href="https://www.eluniversalqueretaro.mx/sociedad/reportan-130-enfermemos-mas-de-covid-19-en-queretaro">Reportan 130 enfermemos más de Covid-19 en Querétaro</a></span> </div>
+<div class="seccion-54646">
+<span class="fecha">05:49</span>
+<span><a href="https://www.eluniversalqueretaro.mx/nuestras-historias/humilde-y-trabajador-sus-86-anos-don-agustin-arregla-y-confecciona-ropa">&quot;Humilde y trabajador&quot;. A sus 86 años, Don Agustín arregla y confecciona ropa sobrevivir </a></span> </div>
+<div class="seccion-473">
+<span class="fecha">05:49</span>
+<span><a href="https://www.eluniversalqueretaro.mx/vida-q/el-show-debe-continuar-paulina-aguado">El show debe continuar: Paulina Aguado </a></span> </div>
+<div class="seccion-53526">
+<span class="fecha">2020-10-13</span>
+<span><a href="https://www.eluniversalqueretaro.mx/sociedad/candidatos-la-rectoria-de-la-uaq-en-deuda-con-la-violencia-de-genero">“Candidatos a la rectoría de la UAQ, en deuda con la violencia de género”</a></span> </div>
+<div class="seccion-472">
+<span class="fecha">2020-10-13</span>
+<span><a href="https://www.eluniversalqueretaro.mx/cartera/4-mil-pesos-el-presupuesto-para-visitar-los-vinedos-un-fin-de-semana">4 mil pesos, el presupuesto para visitar los viñedos un fin de semana </a></span> </div>
+</div>
+</div> </div>
+</div>
+</div><div id="tabs-minipanel_home_mxm_y_mas-middle-2"><div class="panel-pane pane-block pane-mxmtabs-lo-mas-visto">
+<div class="pane-content">
+<div id="lo-mas-visto"></div> </div>
+</div>
+</div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-6">
+<div class="pane-content">
+<div id='div-dfp-right1'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right1'); });
+    </script>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-notas-externas-panel-pane-1">
+<div class="pane-content">
+<div class="view view-notas-externas view-id-notas_externas view-display-id-panel_pane_1 view-dom-id-854af2711ec8850407ca2fee6f3a0a07">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://www.eluniversalqueretaro.mx/municipios/aeronave-que-cayo-en-amealco-estaba-cargada-de-cocaina" target="_blank">Lo más leído </a></span> </div>
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-notas-externas view-id-notas_externas view-display-id-block_1 view-dom-id-84ac4b3744d4befd2010f10b30ef60fc">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image-promo-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/municipios/aeronave-que-cayo-en-amealco-estaba-cargada-de-cocaina" target="_blank"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f10-315x194/public/2020/10/11/avion.png?itok=iNQWYc8r" width="315" height="194" alt="" /></a></div> </div>
+<div class="views-field views-field-field-url-nota-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/municipios/aeronave-que-cayo-en-amealco-estaba-cargada-de-cocaina" target="_blank">Aeronave que cayó en Amealco estaba cargada de cocaína</a></div> </div>
+<div class="views-field views-field-field-summary-promo-ext"> <div class="field-content">Era perseguida por elementos de la Fuerza Aérea Mexicana; las imágenes fueron captadas por habitantes de la zona</div> </div> </div>
+</div>
+</div></span> </div>
+<div class="views-field views-field-view-1"> <span class="field-content"><div class="view view-notas-externas view-id-notas_externas view-display-id-block_2 view-dom-id-9d81fb3a6cc81d9051d37c968bfaf2cc">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-image-promo-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/queretaro-en-lugar-11-de-desempleo" target="_blank"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/10/04/desempleo-6.jpg_117300431.jpg?itok=cWG6EL0g" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-url-nota-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/queretaro-en-lugar-11-de-desempleo" target="_blank">Querétaro, en lugar 11 de desempleo</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-image-promo-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/nuestras-historias/cada-fin-de-semana-desafian-la-pandemia-al-ritmo-de-la-musica" target="_blank"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/09/26/qr-foco21x_117220737.jpg?itok=2h3y586o" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-url-nota-ext"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/nuestras-historias/cada-fin-de-semana-desafian-la-pandemia-al-ritmo-de-la-musica" target="_blank">Cada fin de semana, desafían la pandemia al ritmo de la música</a></div> </div> </div>
+</div>
+</div></span> </div>
+<div class="views-field views-field-view-2"> <span class="field-content"><div class="view view-notas-externas view-id-notas_externas view-display-id-block_3 view-dom-id-0252acd3be14f22357e9174ad4c67e2d">
+</div></span> </div> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-7">
+<div class="pane-content">
+<div id='div-dfp-right2'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right2'); });
+    </script>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-home-opini-n-panel-pane-3">
+<h2 class="pane-title"><a href="/opinion" class="opizq">Opinión </a> </h2>
+<div class="pane-content">
+<div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_3 view-dom-id-9a66c8e848e6c6b6b49f3c6b160124fd">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-1f087098753a4bab5cd38e1c2d78d5f0">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/bajo-reserva-14-de-octubre-de-2020/296290"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2019/11/04/75586116_2625702297487170_5752004388180721664_o.jpg?itok=YDCkosjh&amp;c=f82e3cb23182ac0412d9d393815b0de3" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/bajo-reserva-14-de-octubre-de-2020/296290">
+¿De quién es la voz de Lele?
+</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/bajo-reserva-1403">Bajo Reserva</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-915b7a56999fd94433c44558d0573f93">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/content/12-de-octubre-tampoco-se-olvida"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2020/02/19/img-20200218-wa0022.jpg?itok=sfdS4vZq&amp;c=271de9ccaffb39e7a1f40f05da3414bd" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/content/12-de-octubre-tampoco-se-olvida">12 de octubre tampoco se olvida</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/maricruz-ocampo-guerrero">Maricruz Ocampo Guerrero</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-22ef199f9fbb19b6d4f327148cfa4907">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/content/futuro-del-derecho-del-trabajo-vi"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2017/04/26/colab-filiberto_10366231.jpg?itok=AkKfqiUI" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/content/futuro-del-derecho-del-trabajo-vi">Futuro del Derecho del Trabajo (VI)</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/filiberto-lopez-diaz">Filiberto López Díaz</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-3c7b4ac45ddc281c4059f37ab0dfacff">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/content/un-knock-out-la-ciencia"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2018/08/22/columna_kuri.jpeg?itok=pgo81aKr" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/content/un-knock-out-la-ciencia">Un knock out a la ciencia</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/mauricio-kuri-gonzalez">Mauricio Kuri González</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+<div class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-eab12d35ce8bdef9c2db6590df89e12e">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/content/la-declaracion-de-amor-tiene-nombre-y-ciudad-futura-nos-lo-ensena"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2018/01/10/whatsapp_image_2018-01-10_at_9.56.16_am.jpeg?itok=sWQTwcd3" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/content/la-declaracion-de-amor-tiene-nombre-y-ciudad-futura-nos-lo-ensena">La declaración de amor tiene nombre y Ciudad Futura nos lo enseña</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/pollo-rock">Pollo Rock</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+<div class="views-row views-row-6 views-row-even views-row-last">
+<div class="views-field views-field-view"> <span class="field-content"><div class="view view-home-opini-n view-id-home_opini_n view-display-id-panel_pane_4 view-dom-id-d23d7367cb98a1bd9c5f529a7157f539">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/content/fideicomisos-4t-por-un-mexico-sumiso"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/opinion_84x103/public/2017/04/12/colab-rocharicardo_2256392.jpg?itok=rB4ZYQ4H" width="84" height="103" alt="" /></a></div> </div>
+<div class="views-field views-field-views-conditional"> <div class="field-content views-field-title"><a href="/content/fideicomisos-4t-por-un-mexico-sumiso">Fideicomisos 4T: por un México sumiso</a></div> </div>
+<div class="views-field views-field-field-ep-grafe"> <div class="field-content"></div> </div>
+<div class="views-field views-field-field-author"> <div class="field-content"><a href="/content/ricardo-rocha">Ricardo Rocha</a></div> </div> </div>
+</div>
+</div></span> </div> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-8">
+<div class="pane-content">
+<div id='div-dfp-right3'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right3'); });
+    </script>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-edicion-impresa-panel-pane-1">
+<div class="pane-content">
+<div class="view view-edicion-impresa view-id-edicion_impresa view-display-id-panel_pane_1 view-dom-id-f31c7e342e1f29c09bf9a9beebb8196c">
+<div class="view-header">
+<div class="bloque-impreso">Edición impresa</div>
+<a href="/sites/default/files/portadas/2020/portada_20201014.pdf" target="_blank"><img typeof="foaf:Image" src="/sites/default/files/portadas/2020/portada_20201014.jpg" width="122" height="225" alt="" /></a> </div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/por-covid-cancelan-85-feria-ganadera%20">Por Covid, cancelan 85 Feria Ganadera </a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/queretaro-pierde-cerca-de-26-mil-empleos%20">Querétaro pierde cerca de 26 mil empleos </a></div> </div> </div>
+<div class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/temen-nuevo-cierre-en-antros-y-bares-estatales%20">Temen nuevo cierre en antros y bares estatales </a></div> </div> </div>
+<div class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/metropoli/el-14-de-habitantes-de-alcanfores-perdio-su-casa-por-el-covid%20">El 14% de habitantes de Alcanfores perdió su casa por el Covid</a></div> </div> </div>
+<div class="views-row views-row-5 views-row-odd views-row-last">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/cartera/cerrara-2020-con-caida-de-60-en-turismo%20">Cerrará 2020 con caída de 60% en turismo</a></div> </div> </div>
+</div>
+<div class="view-footer">
+<p><a href="http://ediciondigital.eluniversal.com.mx/edqro/" target="_blank">EDICIÓN DIGITAL</a></p>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-edici-n-impresa-clase">
+<div class="pane-content">
+<div class="view view-edici-n-impresa-clase view-id-edici_n_impresa_clase view-display-id-block view-dom-id-71f5a89ce9ec778c871c88ec2ece3e5e">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-nota-principal"> <div class="field-content"><div class="item-list"><ul><li class="first"><a href="https://www.revistaclase.mx/" target="_blank">Eduardo Verástegui organiza rezo masivo por pandemia de Covid-19</a></li><li><a href="https://www.revistaclase.mx/" target="_blank">Meghan Markle tiene un secreto que pone a temblar a la corona británica</a></li><li class="last"><a href="https://www.revistaclase.mx/" target="_blank">Kate Middleton y la dieta que lleva al día para mantener su esbelta figura</a></li></ul></div></div> </div>
+<div class="views-field views-field-field-thumbnail"> <div class="field-content"><a href="https://www.revistaclase.mx/" target="_blank"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/144x161/public/portada_clase/2019/08/30/10628182_747747645299229_1861782030791616211_n.jpg?itok=qWFu1xbi" width="144" height="161" alt="" /></a></div> </div> </div>
+</div>
+<div class="view-footer">
+<p><a href="https://www.revistaclase.mx" target="_blank">EDICIÓN DIGITAL</a></p>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-15 pane-flash-local-panel-pane-1">
+<div class="pane-content">
+<a href="http://www.clubeluniversal.mx/content/suscripciones" target="_blank"><img alt="Regreso a clases" height="154" src="sites/default/files/publicidad/banner_queretaro-septiembre.png" width="100%" /></a><p></p>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-flash-local-panel-pane-1">
+<h2 class="pane-title">FLASH LOCAL</h2>
+<div class="pane-content">
+<div class="view view-flash-local view-id-flash_local view-display-id-panel_pane_1 view-dom-id-c0f08c2eb0ec941765a670a26e14452c">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/sociedad/amlo-comenzara-la-construccion-del-tren-mexico-queretaro-en-2021" target="_blank"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/flashlocal/public/2020/10/11/tren_ligero_3_116859319.jpg?itok=Pb-RaFIV" width="315" height="250" alt="" /></a></div> </div>
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://www.eluniversalqueretaro.mx/sociedad/amlo-comenzara-la-construccion-del-tren-mexico-queretaro-en-2021" target="_blank">AMLO comenzará la construcción del tren México-Querétaro en 2021</a></span> </div>
+<div class="views-field views-field-nothing"> <span class="field-content"><span class="views-field-field-tags">Tren </span> En la conferencia mañanera, el presidente de México firmó un convenio de colaboración con la Iniciativa Privada que implica el desarrollo de 32 proyectos de infraestructura </span> </div> </div>
+</div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-11">
+<div class="pane-content">
+<div id='div-dfp-right4'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right4'); });
+    </script>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-lista-videos-panel-pane-1">
+<h2 class="pane-title"><a href="/secciones/multimedia">Videos</a> </h2>
+<div class="pane-content">
+<div class="view view-lista-videos view-id-lista_videos view-display-id-panel_pane_1 view-dom-id-de4bae7f091a596bf9d970e0dc6e1013">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-thumbnail"> <div class="field-content"><a href="/video/autoridades-desarticulan-criadero-de-perros-para-peleas"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f10-315x194/public/2020/10/09/120796606_3339628482740347_434583441924133171_n.jpg?itok=WD3yWxYr" width="315" height="194" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/video/autoridades-desarticulan-criadero-de-perros-para-peleas%20">Autoridades desarticulan criadero de perros para peleas</a></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content"><div class="views-field-field-seccion"><a href="/secciones/especiales/zoociales" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Zoociales</a> </div>Se desconoce el número de perros que fue rescatado por las autoridades.</div> </div> </div>
+</div>
+<div class="attachment attachment-after">
+<div class="view view-lista-videos view-id-lista_videos view-display-id-attachment_1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-thumbnail"> <div class="field-content"><a href="/video/vuelve-nacer-rescatan-del-drenaje-perrito"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/10/08/120866845_2511123679185520_735737463907657797_o.jpg?itok=z5tDIcJ7" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/video/vuelve-nacer-rescatan-del-drenaje-perrito">Vuelve a nacer. Rescatan del drenaje a perrito</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/especiales/zoociales" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Zoociales</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-thumbnail"> <div class="field-content"><a href="/video/cae-en-queretaro-avioneta-cargada-de-cocaina"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/10/07/captura_de_pantalla_2020-10-07_a_las_8.52.57.png?itok=tyFC7b8h" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/video/cae-en-queretaro-avioneta-cargada-de-cocaina">Cae en Querétaro avioneta cargada de cocaína</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/seguridad" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Seguridad</a></div> </div> </div>
+</div>
+</div><div class="view view-lista-videos view-id-lista_videos view-display-id-attachment_2">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/video/denuncian-la-presencia-de-aves-muertas-en-el-zoologico-wameru">Denuncian la presencia de aves muertas en el zoológico Wamerú</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/sociedad" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sociedad</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/video/redes-sociales-se-solidarizan-con-artista-afectada-por-el-covid">Redes sociales se solidarizan con artista afectada por el Covid</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/sociedad" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sociedad</a></div> </div> </div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/video/piden-ayuda-para-cachorro-atacado-por-pitbulls">Piden ayuda para cachorro atacado por pitbulls</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/sociedad" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sociedad</a></div> </div> </div>
+</div>
+</div> </div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-12">
+<div class="pane-content">
+<div id='div-dfp-right5'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right5'); });
+    </script>
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-lista-galerias-panel-pane-1">
+<h2 class="pane-title"><a href="/secciones/multimedia">Galerías</a> </h2>
+<div class="pane-content">
+<div class="view view-lista-galerias view-id-lista_galerias view-display-id-panel_pane_1 view-dom-id-92c4fc86df1d1ada2b5ff83ec81f4b92">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-imagenes-galeria"> <div class="field-content"><a href="/galeria/de-pasatiempo-profesion-parkour"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f10-315x194/public/2020/09/05/parkur_dc_11.jpg?itok=RYdbSIqk" width="315" height="194" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="https://www.eluniversalqueretaro.mx/galeria/de-pasatiempo-profesion-parkour">De pasatiempo a profesión: Parkour</a></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content"></div> </div> </div>
+</div>
+<div class="attachment attachment-after">
+<div class="view view-lista-galerias view-id-lista_galerias view-display-id-attachment_1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-imagenes-galeria"> <div class="field-content"><a href="/galeria/iluminan-el-pueblito-por-festejos-patrios"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/09/04/se_pinta_de_color_las_calles_de_el_pueblito_en_corrgidora_pag_5_3.jpg?itok=2Qyk9ugN" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/galeria/iluminan-el-pueblito-por-festejos-patrios">Iluminan El Pueblito por festejos patrios</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/especiales/nuestras-historias" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nuestras Historias</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-imagenes-galeria"> <div class="field-content"><a href="/galeria/la-camarga-donde-la-naturaleza-reina"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/08/30/promo_2_mirada_psf_.jpg?itok=CbF_FBsm" width="147" height="90" alt="" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/galeria/la-camarga-donde-la-naturaleza-reina">La Camarga. Donde la naturaleza reina </a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/especiales" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Especiales</a></div> </div> </div>
+</div>
+</div><div class="view view-lista-galerias view-id-lista_galerias view-display-id-attachment_2">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/galeria/pueblo-se-refugia-en-la-fe-por-covid">“Pueblo se refugia en la fe por Covid”</a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/especiales/nuestras-historias" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nuestras Historias</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/galeria/agonizan-uniformes-se-quedan-colgados-por-el-coronavirus">Agonizan. Uniformes se quedan colgados por el Coronavirus </a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/especiales/nuestras-historias" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nuestras Historias</a></div> </div> </div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/galeria/danza-en-medio-de-la-pandemia">Danza en medio de la pandemia </a></div> </div>
+<div class="views-field views-field-field-seccion"> <div class="field-content"><a href="/secciones/vida-q" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vida Q</a></div> </div> </div>
+</div>
+</div> </div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-lista-clase-panel-pane-1">
+<h2 class="pane-title"><a href="/secciones/clase">Clase</a> </h2>
+<div class="pane-content">
+<div class="view view-lista-clase view-id-lista_clase view-display-id-panel_pane_1 view-dom-id-1bfac2acfb9675a75b9239f7e86ed682">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/clase/sofia-castro-sufrio-bullying-durante-el-matrimonio-de-su-mama-y-epn"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f10-315x194/public/2020/10/11/sofia.png?itok=b3wdWm5L&amp;c=cc7aa205456a96703eec5a8359570f0b" width="315" height="194" alt="Sofía Castro sufrió bullying durante el matrimonio de su mamá y EPN" title="Sofía Castro sufrió bullying durante el matrimonio de su mamá y EPN" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/sofia-castro-sufrio-bullying-durante-el-matrimonio-de-su-mama-y-epn">Sofía Castro sufrió bullying durante el matrimonio de su mamá y EPN</a></div> </div>
+<div class="views-field views-field-field-resumen"> <div class="field-content"><div class="views-field-field-seccion"><a href="/secciones/clase" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Clase</a> </div>La actriz revela que en ese entonces tuvo una relación tóxica por sentir que no &quot;merecía algo bonito&quot;</div> </div> </div>
+</div>
+<div class="attachment attachment-after">
+<div class="view view-lista-clase view-id-lista_clase view-display-id-attachment_1">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/clase/en-su-aniversario-de-bodas-lorenzo-lazo-recuerda-edith-gonzalez"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/09/26/edith.png?itok=3twUg2Oe&amp;c=3d065da46728ebe6a3f658e7871d4746" width="147" height="90" alt="En su aniversario de bodas, Lorenzo Lazo recuerda a Edith González" title="En su aniversario de bodas, Lorenzo Lazo recuerda a Edith González" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/en-su-aniversario-de-bodas-lorenzo-lazo-recuerda-edith-gonzalez">En su aniversario de bodas, Lorenzo Lazo recuerda a Edith González</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/clase/quien-diseno-el-vestido-de-beatriz-gutierrez-para-el-grito"><img typeof="foaf:Image" src="https://www.eluniversalqueretaro.mx/sites/default/files/styles/f18-147x90/public/2020/09/16/beatriz.png?itok=8F1LkdAn&amp;c=5ff78fd4ba6dd32b49c7b39cd6c6283e" width="147" height="90" alt="¿Quién diseñó el vestido de Beatriz Gutiérrez para el Grito?" title="¿Quién diseñó el vestido de Beatriz Gutiérrez para el Grito?" /></a></div> </div>
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/quien-diseno-el-vestido-de-beatriz-gutierrez-para-el-grito">¿Quién diseñó el vestido de Beatriz Gutiérrez para el Grito?</a></div> </div> </div>
+</div>
+</div><div class="view view-lista-clase view-id-lista_clase view-display-id-attachment_2">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/llegan-netflix-meghan-markle-y-harry">Llegan a Netflix Meghan Markle y Harry</a></div> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/la-hija-de-el-potrillo-camila-fernandez-se-alista-para-llegar-al-altar">La hija de ‘El Potrillo’, Camila Fernández, se alista para llegar al altar</a></div> </div> </div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="views-field views-field-field-titulo-abreviado"> <div class="field-content"><a href="/clase/ejemplo-de-vida-exmiss-colombia-vuelve-bailar-tras-amputacion-de-pierna">Ejemplo de vida. Exmiss Colombia vuelve a bailar tras amputación de pierna</a></div> </div> </div>
+</div>
+</div> </div>
+</div> </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-13">
+<div class="pane-content">
+<div id='div-dfp-right6'>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-dfp-right6'); });
+    </script>
+</div>
+</div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-14">
+<div class="pane-content">
+<div id="div-dfp-right7">
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    googletag.cmd.push(function() { googletag.display('div-dfp-right7'); });
+    
+//--><!]]>
+</script></div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel-panel grid-24 alpha omega">
+<div class="inside"><div class="panel-pane pane-custom pane-2">
+<div class="pane-content">
+<div id="v2widgetutv" data-urlw="http://www.eluniversaltv.com.mx/caja"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div> </div>
+</section>
+<footer id="section-footer" class="section section-footer">
+<div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">
+<div id="zone-footer" class="zone zone-footer clearfix container-24">
+<div class="grid-24 region region-footer-second" id="region-footer-second">
+<div class="region-inner region-footer-second-inner">
+<div class="grid-22 prefix-1 suffix-1 alpha">
+<ul class="links"><li class="menu-3164 first"><a href="http://www.eluniversal.com.mx/directorio" title="">Directorio</a></li><li class="menu-3165"><a href="http://www.eluniversalqueretaro.mx/contacto" title="">Contáctanos</a></li><li class="menu-3166"><a href="http://www.eluniversal.com.mx/codigo-de-etica" title="">Código de Ética</a></li><li class="menu-3167"><a href="http://www.eluniversal.com.mx/criterios-ante-violencia" title="">Cómo cubrimos la Violencia</a></li><li class="menu-3169"><a href="http://www.eluniversal.com.mx/politicas-de-privacidad" title="">Aviso Legal</a></li><li class="menu-3170"><a href="http://www.eluniversal.com.mx/sites/default/files/eluniversal_aviso_privacidad.pdf" title="">Aviso de Privacidad</a></li><li class="menu-3171"><a href="http://www.eluniversal.com.mx/mapa-del-sitio" title="">Mapa del sitio</a></li><li class="menu-3172 last"><a href="http://www.eluniversal.com.mx/historia-breve" title="">Historia</a></li></ul> </div>
+<div class="grid-24 alpha">
+<div class="grid-8 alpha">
+<a href="https://www.comscore.com/esl/" title="ComScore" target="_blank">
+<img src="/sites/all/themes/universal/images/comscorefooter.png" alt="ComScore" height="20" width="107">
+</a>
+</div>
+<div class="grid-8">
+<a href="https://www.eluniversal.com.mx/">
+</a>
+</div>
+<div class="grid-8 omega">
+<a href="http://www.gda.com/" title="GDA" target="_blank">
+<img src="/sites/all/themes/universal/images/gdafooter.png" alt="GDA" height="30" width="58">
+</a>
+</div>
+</div>
+<div class="grid-24 alpha">
+<p>© 2000 - 2020 Todos los derechos reservados<br>
+EL UNIVERSAL, Compañía Periodística Nacional. De no existir previa autorización, queda expresamente prohibida la Publicación, retransmisión, edición y cualquier otro uso de los contenidos</p>
+</div>
+</div>
+</div>
+</div>
+</div></footer> </div> <div class="region region-page-bottom" id="region-page-bottom">
+<div class="region-inner region-page-bottom-inner">
+
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+
+	var user = detect.parse(navigator.userAgent);
+
+
+	var date = new Date(); 
+	var weekdays = ["0", "1", "2", "3", "4", "5", "6"]; 
+  	var hora = date.getHours();
+	var weekday = weekdays[date.getDay()]; 
+
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+				bk_addPageCtx("device_browser", user.browser.family.toLowerCase());
+		bk_addPageCtx("device_os", user.os.family.toLowerCase().replace(' ','-').replace(' ','-') );
+		bk_addPageCtx("device_type", user.device.type.toLowerCase());
+		bk_addPageCtx("day_week", weekday);
+		bk_addPageCtx("hour_of_day", hora);
+
+		bk_allow_multiple_calls=true;
+		bk_use_multiple_iframes=true;
+		bk_doJSTag(68471, 10); 
+</script>
+
+</div>
+</div><script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://www.eluniversalqueretaro.mx/sites/default/files/js/js_bGDCLq1QOFSmOiHQZOVK40hq7ZhavopZljmcYBfkoG8.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="https://sb.scorecardresearch.com/c2/6906641/cs.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+<!--//--><![CDATA[//><!--
+_satellite.pageBottom();
+//--><!]]>
+</script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript" src="/sites/all/themes/universal/js/grid.js"></script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+  </script>
+<script type="5d5759f90a42d64ab1affa96-text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.10';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="5d5759f90a42d64ab1affa96-|49" defer=""></script></body>
+</html>

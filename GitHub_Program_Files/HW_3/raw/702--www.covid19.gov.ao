@@ -1,0 +1,332 @@
+
+    <!DOCTYPE html>
+<html lang="pt">
+
+<!-- Mirrored from bootstraplovers.com/bootstrap4/saas-v2.5/html/index-slider.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jul 2019 08:22:58 GMT -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Covid 19</title>
+
+    <!-- plugins -->
+  
+    <!-- plugins -->
+    <link href="assets/css/plugins/bundle.css" rel="stylesheet">
+    <!--main css file-->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"
+            charset="utf-8"></script>
+
+    <!-- plugins -->
+    <!-- Base MasterSlider style sheet -->
+    <link rel="stylesheet" href="assets/masterslider/style/masterslider.css" rel="stylesheet">
+    <!-- Master Slider Skin -->
+    <link href="assets/masterslider/skins/default/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--/preloader-->
+
+    <!--back to top-->
+    <a href="#" class="scrollToTop"><i class="ion-ios-arrow-up"></i></a>
+    <!--back to top end-->
+    <div class="topheader">
+        <img src="assets/images/bandeira_angola.jpg" class="img-responsive " width="100%" alt="">
+    </div>
+    <!-- Fixed navbar -->
+
+
+    <nav class="navbar navbar-expand-lg navbar-light navbar-default ">
+
+        <div class="clearfix"></div>
+        <div class="container-fluid">
+
+            <!-- Start Top Search -->
+            <div class="top-search clearfix">
+
+                <div class="input-group">
+
+                    <input type="text" class="form-control" placeholder="pesquisar">
+                    <span class="input-group-addon close-search"><i class="ion-android-close"></i></span>
+                </div>
+
+            </div>
+            <!-- End Top Search -->
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand  strong" href="index">
+                <img src="assets/images/govlogotop.png" class="logoresp" width="30% " style="margin-left: 200px;" alt="" class="logo-scroll">
+            </a>
+              <a class="navbar-brand  strong" href="http://viagem.covid19.gov.ao/">FORMULÁRIO DE REGISTO DE VIAGEM</a>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- class cor cradiente    skin-bg-->
+    <section class="lastsection container box effect7" style="margin-top: 30px; margin-bottom: 30px;">
+        <div class="col-lg-12 ">
+            <div class="row">
+
+                <div class="col-md-12" class="">
+
+                    <div class="row">
+
+                        <div class="col-md-2 col-s-12" style="">
+                            <h2 class="f-size3 text-black strong">ESTADO DO<br> COVID-19 EM ANGOLA </h2>
+                        </div>
+
+                                                    <div class="col-md-2 col-s-12 text-center">
+                                <span class="big-number text-black">6680</span><br>
+                                <span class="f-size2 text-black">Confirmados</span>
+                            </div>
+
+                                                    <div class="col-md-2 col-s-12 text-center">
+                                <span class="big-number text-black">0</span><br>
+                                <span class="f-size2 text-black">Suspeitos</span>
+                            </div>
+
+                                                    <div class="col-md-2 col-s-12 text-center">
+                                <span class="big-number text-black">2781</span><br>
+                                <span class="f-size2 text-black">Recuperados</span>
+                            </div>
+
+                                                    <div class="col-md-2 col-s-12 text-center">
+                                <span class="big-number text-black">222</span><br>
+                                <span class="f-size2 text-black">Óbitos</span>
+                            </div>
+
+                        
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!--navbar end
+    <div class="dzsparallaxer auto-init" data-options='{   direction: "reverse"}' style="height: 450px;">
+
+        <div class="divimage dzsparallaxer--target " style="width: 101%; height: 600px; background-image: url(assets/images/bg2.jpg)">
+        </div>
+
+    </div>
+ end page header-->
+
+    <div class="cta-skin">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-4 margin-b-20 skin-bg3">
+
+                    <div class="feature-box-center text-center text-uppercase">
+                        <a href="tel:111">
+                            <div class="align-self-center ">
+                                <h3 class="text-white strong" style="font-size:48px; margin-bottom: -10px;">
+                                    <img src="assets/img/cisp-img.png" class="text-white" alt="" width="32%" title=""></h3>
+                                <p class=""> <strong style="font-size: 28px;"><img src="assets/img/ligar.png" class="text-white" alt="" width="32" height="32" title="">111</strong> CONTACTOS DE EMERGÊNCIA
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!--/col-->
+                <div class="col-md-6 col-lg-4  margin-b-10">
+                    <div class="feature-box-center text-center">
+                        <iframe width="100%" height="250" src="https://www.youtube.com/embed/IU2ls6d7q1g" frameborder="0" allow="accelerometer; 
+                        autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <!--/col-->
+                <div class="col-md-6 col-lg-4 margin-b-20 skin-bg4">
+                    <div class="feature-box-center text-uppercase text-center">
+
+                        <a href="perguntas-respostas.php">
+                            <div class="align-self-center">
+                                <h3 class="text-white strong">FAQS</h3>
+                                <p>Aceda aqui à lista de Perguntas mais Frequentes, regularmente atualizada, com resposta das entidades oficiais.</p>
+                            </div>
+
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!--end features section-->
+    <section class="showcase-section" style="position: relative; margin-top:-50px">
+        <div class="space-90"></div>
+        <div class="container">
+            <div class="row align-items-center" >
+                <div class="col-lg-3 margin-b-30">
+                    <h3 class="textm strong colorf">
+                        INFORME DIÁRIO
+                    </h3>
+                </div>
+                <div class="col-lg-8 margin-b-30">
+                    <div class="row">
+                        <div class="col-md-10">
+                            <ul class="list">
+                                <li><a href="assets/arq_pdf/InformeDiario61-covid-19-Copia.pptx" target="_blank" style="color: black;"><i class="ion-ios-arrow-thin-right"></i>Nº 61 de 21/03/2020 Novo Coronavírus(COVID-19)</a></li>
+                            </ul>
+                        </div>
+            
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row align-items-center">
+                <div class="col-lg-3 margin-b-30">
+                    <h3 class="textm strong colorf">
+                        MEDIDAS E RECOMENDAÇÕES COVID-19
+                    </h3>
+
+
+                </div>
+                <div class="col-lg-8 margin-b-30">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul class="list">
+                                <li><a href="assets/arq_pdf/DecretoLegislativoPresidencial.pdf" target="_blank" style="color: black;"><i style="" class="ion-ios-arrow-thin-right"></i>Decreto Legislativo Presidencial Provisório n.º 1/20 de 18 de Março</a></li>
+                             <li><a href="assets/arq_pdf/2020DRI031.pdf" target="_blank" style="color: black;"><i style="" class="ion-ios-arrow-thin-right"></i>Decreto Legislativo Presidencial Provisório n.º 1/20 de 18 de Março(Versão DR)</a></li>
+                            
+                               
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list">
+                              
+                                  <li><a href="assets/arq_pdf/QUARENTENADOMICILIARREV18mar2020versao2.pdf" target="_blank" style="color: black;"><i style="" class="ion-ios-arrow-thin-right"></i>Medidas extraordinária para quarentena domiciliar</a></li>
+                                   <li><a href="assets/arq_pdf/COMUNICADOCOVID19ALERTAPOPGERAL_versao2.pdf" target="_blank" style="color: black;"><i style="" class="ion-ios-arrow-thin-right"></i>Comunicado Covid19</a></li>
+                                    <li><a href="assets/arq_pdf/COVID-19PREVENCAOmg.doc" target="_blank" style="color: black;"><i style="" class="ion-ios-arrow-thin-right"></i>Prevenção Covid19</a></li>
+                              
+                            </ul>
+                        </div>
+                        <!--     <div class="col-md-6">
+                            <ul class="list">
+                                <li><a href="#" style="color: black;"><i class="ion-ios-arrow-thin-right"></i>Medidas extraodinária de apoio às Artes</a></li>
+                                <li><a href="#" style="color: black;"><i class="ion-ios-arrow-thin-right"></i>Medidas extraodinária de apoio às Artes</a></li>
+                            </ul>
+                        </div>  -->
+                    
+                    </div>
+                </div>
+            </div>
+            <div class="space-60"></div>
+        </div>
+    </section>
+
+    
+    <!--    <section class="lastsection container-fluid">
+        <div class="col-lg-12 margin-b-30">
+            <div class="row">
+            </div>
+            <div class="row">
+                <div class="col-md-6 skin-bg1">
+                    <a href="#">
+                        <div class="text-center text-uppercase">
+                            <h2 class="f-size3 text-white strong">DOCUMENTAÇÃO </h2>
+                            <p class="f-size1 text-white">Encontre aqui toda a documentação oficial relacionada com o COVID-19: Formulários, Comunicados, Legislação</p>
+                        </div>
+                    </a>
+
+                </div>
+                <div class="col-md-6 skin-bg2">
+                    <a href="#">
+                        <div class="text-center text-uppercase">
+                            <h2 class="f-size3  text-white strong">FAQs</h2>
+                            <p class="f-size1 text-white">Aceda aqui à lista de Perguntas mais Frequentes, regularmente atualizada, com resposta das entidades oficiais</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+    </section>
+-->
+
+<style>
+        #vertical {
+            height: 80px;
+            border-left: 0.1px solid #fff;
+        }
+    </style>
+
+
+
+
+<script src="assets/js/plugins/plugins.js"> </script>
+<script src="assets/js/template-custom.js" type="text/javascript "></script>
+<script src="assets/masterslider/masterslider.min.js"></script>
+
+
+
+<footer class=" footer ">
+    <div class="space-10 "></div>
+    <div class="container ">
+        <div class="row vertical-align-child ">
+            <div class="col-md-3 margin-b-30 ">
+                <div class="margin-b-10 ">
+                    <a href="index.php">
+                        <img src="assets/images/govlogo.png" class="logobottom" width="60% " alt=" ">
+                    </a>
+                </div>
+                <p>
+                    República de Angola
+                </p>
+            </div>
+            <div class="col-md-4 margin-b-30 ">
+                <h4>CONTACTOS TELEFÓNICOS ÚTEIS</h4>
+                <ul class="list-unstyled ">
+                    <li>
+                        <a href="tel:+244 937 503 349">+244 937 503 349</a>
+                        <p>SOS CORONAVÍRUS.</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-4 margin-b-30 ">
+                <h4>CONTACTOS DIGITAIS ÚTEIS</h4>
+                <div class="container">
+                    <div class="row vertical-align-child">
+                        <div class="col-md-8 margin-b-30">
+                            <ul class="list social ">
+                                <li class="list-inline-item"><a href="https://www.facebook.com/COVID19GovAo" target="_blank"><i style="font-size:30px" class="ion-social-facebook"></i></a></li>
+                                <li class="list-inline-item"><a href="https://www.instagram.com/COVID19GovAo" target="_blank"><i style="font-size:30px" class="ion-social-instagram"></i></a></li>
+
+                                <li class="list-inline-item"><a href="https://www.Twitter.com/COVID19GovAo" target="_blank"><i style="font-size:30px" class="ion-social-twitter"></i></a></li>
+
+                                <li class="list-inline-item"><a href="https://www.Youtube.com/COVID19GovAo" target="_blank"><i style="font-size:30px" class="ion-social-youtube"></i></a></li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</footer>
+    <!-- jQuery plugins-->
+   
+  
+</body>
+
+<!-- Mirrored from bootstraplovers.com/bootstrap4/saas-v2.5/html/index-slider.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jul 2019 08:23:57 GMT -->
+
+</html>

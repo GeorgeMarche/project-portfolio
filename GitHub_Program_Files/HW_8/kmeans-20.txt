@@ -1,0 +1,160 @@
+*** Cluster #1 ***
+
+realdonaldtrump
+cnnbrk
+cnn
+nytimes
+bbcbreaking
+potus
+bbcworld
+whitehouse
+theeconomist
+reuters
+berniesanders
+drjillstein
+tedcruz
+ilhanmn
+seanhannity
+mike_pence
+gop
+aoc
+washingtonpost
+staceyabrams
+rokhanna
+rashidatlaib
+gretathunberg
+npr
+alyssa_milano
+senjohnmccain
+time
+thebushcenter
+
+*** Cluster #2 ***
+
+
+*** Cluster #3 ***
+
+
+*** Cluster #4 ***
+
+nasa
+elonmusk
+judyblume
+
+*** Cluster #5 ***
+
+justinbieber
+youtube
+kimkardashian
+britneyspears
+kingjames
+jlo
+iamsrk
+niallofficial
+wizkhalifa
+kyliejenner
+harry_styles
+louis_tomlinson
+instagram
+liampayne
+onedirection
+aliciakeys
+khloekardashian
+shawnmendes
+nfl
+kourtneykardash
+coldplay
+mariahcarey
+virendersehwag
+chancetherapper
+johncena
+jk_rowling
+walmart
+target
+dsa
+chrisbrogan
+agentm
+
+*** Cluster #6 ***
+
+natgeo
+
+*** Cluster #7 ***
+
+sportscenter
+premierleague
+michaeljordaan
+
+*** Cluster #8 ***
+
+
+*** Cluster #9 ***
+
+
+*** Cluster #10 ***
+
+google
+
+*** Cluster #11 ***
+
+
+*** Cluster #12 ***
+
+oprah
+priyankachopra
+
+*** Cluster #13 ***
+
+barackobama
+ddlovato
+kendalljenner
+hillaryclinton
+pitbull
+coribush
+kamalaharris
+petebuttigieg
+ewarren
+guykawasaki
+
+*** Cluster #14 ***
+
+jimmyfallon
+espn
+nba
+ihrithik
+manutd
+arrahman
+michaelb4jordan
+marthastewart
+
+*** Cluster #15 ***
+
+rihanna
+ladygaga
+theellenshow
+pink
+
+*** Cluster #16 ***
+
+wendys
+
+*** Cluster #17 ***
+
+caranddriver
+
+*** Cluster #18 ***
+
+
+*** Cluster #19 ***
+
+katyperry
+chrissyteigen
+estelledarlings
+georgelopez
+bigmikej73
+
+*** Cluster #20 ***
+
+radioblogger
+dannydevito
+

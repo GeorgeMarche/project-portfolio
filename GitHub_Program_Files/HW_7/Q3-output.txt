@@ -1,0 +1,26 @@
+*** THE 5 MOST RECOMMENDED MOVIES ***
+
+	Movie 1449 - Weighted Score: 4.584650
+		Pather Panchali (1955)
+	Movie 408 - Weighted Score: 4.536313
+		Close Shave, A (1995)
+	Movie 169 - Weighted Score: 4.533059
+		Wrong Trousers, The (1993)
+	Movie 318 - Weighted Score: 4.485503
+		Schindler's List (1993)
+	Movie 114 - Weighted Score: 4.453026
+		Wallace & Gromit: The Best of Aardman Animation (1996)
+
+*** THE 5 LEAST RECOMMENDED MOVIES ***
+
+	Movie 437 - Weighted Score: 1.000000
+		Amityville 1992: It's About Time (1992)
+	Movie 439 - Weighted Score: 1.000000
+		Amityville: A New Generation (1993)
+	Movie 424 - Weighted Score: 1.174258
+		Children of the Corn: The Gathering (1996)
+	Movie 438 - Weighted Score: 1.256601
+		Amityville 3-D (1983)
+	Movie 1246 - Weighted Score: 1.263851
+		Bushwhacked (1995)
+

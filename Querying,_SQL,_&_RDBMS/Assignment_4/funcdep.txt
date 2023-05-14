@@ -1,0 +1,80 @@
+Authors: George Marche <gmarche>
+
+a. {WZ -> Y, W -> X} |= XZ -> Y
+
+	W X Y Z
+	- - - -
+	1 2 3 4
+	X 2 Y 4
+
+	This is a disproof because it violates the RHS {XZ -> Y} as the 
+	X and Z values are the same but the Y values differ; but it does
+	not violate the LHS {WZ -> Y, W -> X} as W differs, and, 
+	therefore, the LHS of {WZ -> Y} and {W -> X} both differ.
+
+b. {W -> Y, X -> Y} |= X -> W
+
+	W X Y
+	- - -
+	1 2 3
+	X 2 3
+
+	This is a disproof because it violates the RHS {X -> Y} as the X
+	value is the same but the W values differs; but it does not
+	violate the LHS {W -> Y, X -> Y} as the LHS of {W -> Y} differs
+	while both X and Y are the same.
+
+c. {Z -> W, Y -> X} |= YZ -> WX
+
+	1. Z -> W	given
+	2. Y -> X 	given
+	3. XZ -> WX 	1, aug
+	4. YZ -> XZ 	2, aug
+	5. YZ -> WX	4,3 trans
+
+d. {VWZ -> Y, V -> YZ, WY -> X} |= WZ -> VX
+
+	V W X Y Z
+	- - - - -
+	1 2 3 4 5
+	X 2 3 4 5
+
+	This is a disproof because it violates the RHS {WZ -> VX} as the
+	W and Z values are the same but the V value differs; but it does
+	not violate the LHS {VWZ -> Y, V -> YZ, WY -> X} as the V value
+	differs and, therefore, the LHS of both {VWZ -> Y} and {V -> YZ}
+	differ while W, Y, and X are the same.
+
+e. {V -> W, Z -> W} |= WZ -> V
+
+	V W Z
+	- - -
+	1 2 3
+	X 2 3
+
+	This is a disproof because it violates the RHS {WZ -> V} as the
+	W and Z values are the same but the V value differs; but it does
+	not violate the LHS {V -> W, Z -> W} as the LHS of {V -> W}
+	differs while both Z and W are the same.
+
+f. {W -> Y, WY -> X} |= W -> X
+
+	1. W -> Y	given
+	2. WY -> X	given
+	3. W -> WY	1, aug
+	4. W -> X	3,2 trans
+
+g. {W -> Y, Y -> X} |= W -> XY
+
+	1. W -> Y	given
+	2. Y -> X	given
+	3. W -> X	1,2 trans
+	4. W -> XY	1,3 union
+
+h. {W -> XY, X -> YZ} |= W -> YZ
+
+	1. W -> XY	given
+	2. X -> YZ	given
+	3. XY -> X	ref
+	4. XY -> YZ	3,2 trans
+	5. W -> YZ	1,4 trans

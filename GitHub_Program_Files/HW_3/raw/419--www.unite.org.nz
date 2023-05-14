@@ -1,0 +1,947 @@
+      <!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Unite Union</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, initial-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    
+
+    <!--attempt to change what facebook displays for post title -->
+    <meta property="og:title" content="Unite Union | Unite Union"/>
+
+    <!-- Font Awesome -->
+    <script src="https://use.fontawesome.com/5e6b2c266c.js"></script>
+    <!-- Custom -->
+    <link rel="stylesheet" href="http://uniteunion.nationbuilder.com/themes/1/54e398eb01925b4169000001/0/attachments/14500586881582325497/default/theme.scss" type="text/css" />
+    <link rel="stylesheet" href="http://uniteunion.nationbuilder.com/themes/1/54e398eb01925b4169000001/0/attachments/14500586881582325497/default/tablet-and-desktop.scss" type="text/css" media="screen and (min-width: 320px)" />
+
+    
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="2JF1RICNuwbeBR/jNR/VNIQNs70zMx1KMsgHw6gYdd8=" name="csrf-token" />
+
+  <link rel="canonical" href="http://www.unite.org.nz/" />
+    <meta name="Title" content="Home - Unite Union">
+    <meta property="og:title" content="Unite Union"/>
+  <meta property="og:url" content="http://www.unite.org.nz/">
+    <meta property="og:type" content="article">
+      <link rel="image_src" href="http://d3n8a8pro7vhmx.cloudfront.net/uniteunion/sites/1/meta_images/original/Unite_1772_x_785.png?1454709430" />
+      <meta property="og:image" content="http://d3n8a8pro7vhmx.cloudfront.net/uniteunion/sites/1/meta_images/original/Unite_1772_x_785.png?1454709430" />
+  <meta property="og:site_name" content="Unite Union"/>
+
+<script type="text/javascript">
+  var NB = NB || {};
+
+  NB.environment = "production";
+  NB.pageId = "286";
+  NB.Liquid = NB.Liquid || {
+    Theme: {
+      version: 2,
+      name: "CityZen Custom",
+      parent: "cityzen",
+      variation: ""
+    }
+  };
+  NB.payments = NB.payments || {tokenize: true, elements: {}};
+</script>
+
+<script type="text/javascript">
+    //<![CDATA[
+      window._auth_token_name = "authenticity_token";
+      window._auth_token = "2JF1RICNuwbeBR/jNR/VNIQNs70zMx1KMsgHw6gYdd8=";
+    //]]>
+</script>
+
+
+  <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
+
+      <link rel="icon" type="image/x-icon" href="http://d3n8a8pro7vhmx.cloudfront.net/uniteunion/sites/1/favicon_images/original/Unite_favicon.gif?1424337260" />
+
+
+  <script src="http://d3n8a8pro7vhmx.cloudfront.net/assets/liquid/main-71f38c156606f7dcf69f9aefdeee03932113335b436be2e9e5296e913b1ff1fd.js"></script>
+
+<script type="text/javascript">
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+</script>
+
+<script type="text/javascript">
+  NB.FBAppId = '126739610711965';
+</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = '//apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+  <script type="text/javascript">
+    (function (d) { var config = { kitId: 'eus1itw', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);
+  </script>
+
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-72346124-1']);
+     _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_gat._anonymizeIp']);
+    _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_setCustomVar', 1, 'UGC', 'false', 3]);
+      _gaq.push(['_setCustomVar', 1, 'Page type', 'Basic', 3]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+
+
+
+<!-- The following line of CSS hides a checkbox in social share prompts for posting to Facebook;
+As of Aug 1 2018, FB has deprecated the ability for apps to post to personal profile pages, so this is a temporary fix
+while we re-configure the social share prompt -->
+<style>label[for="face_tweet_is_facebook"]{display:none;}</style>
+
+
+    <script type="text/javascript">
+      WebFontConfig = { google: { families: [ 'Lato:400,700,900:latin' ] } }
+      (function() { var wf = document.createElement('script')
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'
+        wf.type = 'text/javascript'
+        wf.async = 'true'
+        var s = document.getElementsByTagName('script')[0]
+        s.parentNode.insertBefore(wf, s)
+      })()
+    </script>
+    <script type="text/javascript" src="http://uniteunion.nationbuilder.com/themes/1/54e398eb01925b4169000001/0/attachments/14500586881582325497/default/jquery.ui.effect.min.js"></script>
+    <script type="text/javascript" src="http://uniteunion.nationbuilder.com/themes/1/54e398eb01925b4169000001/0/attachments/14500586881582325497/default/jquery.ui.effect-slide.min.js"></script>
+    <script type="text/javascript" src="http://uniteunion.nationbuilder.com/themes/1/54e398eb01925b4169000001/0/attachments/14500586881582325497/default/staged-donations.js"></script>
+
+    <script type="text/javascript">NB.appConfig.userIsLoggedIn = false;</script>
+  </head>
+  <body id="home" class="aware-theme v2-theme page-type-basic js">
+
+    <div id="pattern" class="pattern">
+      <div class="wrap" id="wrap">
+        <div id="body" class="page-pages-show-basic">
+
+
+          <!-- Login Section -->
+          
+          <section class="preheader clearfix">
+            <div class="subscribe_form">
+              
+<!-- _preheader_email_signup.html -->
+
+
+<form id="stronger_page_new_signup_form" class="ajaxForm signup_form" method="POST" action="/forms/signups" enctype="multipart/form-data"><input name="authenticity_token" type="hidden" value="2JF1RICNuwbeBR/jNR/VNIQNs70zMx1KMsgHw6gYdd8="/><input name="page_id" type="hidden" value="286"/><input name="return_to" type="hidden" value="http://www.unite.org.nz/"/><div class="email_address_form" style="display:none;" aria-hidden="true"><p><label for="email_address">Optional email code</label><br/><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"/></p></div>
+
+<input id="page_id" name="page_id" type="hidden" value="286" />
+
+<label for="signup_email"></label>
+
+<input class="text" id="signup_email" name="signup[email]" placeholder="name@example.com" type="email" />
+
+<input class="submit" type="submit" name="commit" value="Create account" />
+
+<span>or</span>
+
+<a class="button" href="/login">Log In</a>
+
+
+
+</form>
+
+
+<!-- /_preheader_email_signup.html -->
+
+            </div>
+
+            
+            <div class="social_connect">
+              <h4>Or login with:</h4>
+              <a class="icon-twitter_alt2" title="Us using Twitter" href="/users/twitter/connect?page_id=286"></a>
+              <a class="icon-fb" title="Us using Facebook" href="https://uniteunion.nationbuilder.com/users/facebook/connect?page_id=286&scope=public_profile%2Cemail"></a>
+            </div>
+            
+          </section>
+
+          <div id="openPre" class="mobile-visible">
+            <a href="#">Log-in <i class="icon-uniF107"></i></a>
+          </div>
+          
+
+
+          <!-- Navigation -->
+          <div class="header-container" >
+            <div class="width-container clearfix">
+              
+<!-- _nav.html -->
+<nav id="menu" role="navigation"  >
+  <ul id="topnav" class="topnav desktop-nav">
+    
+    
+    <li class=" drop">
+      <a href="/about">About <i class="icon-angle-down"></i></a>
+      <ul class="sub">
+        
+        <li class="show-parent"><a href="/about">About</a></li>
+        
+        
+        <li><a href="/unite_news">News</a></li>
+        
+        <li><a href="/unite_directory">Contact Unite</a></li>
+        
+      </ul>
+    </li>
+    
+    
+    
+    <li  >
+      <a href="/your_employer">Your Employer</a>
+    </li>
+    
+    
+    
+    <li class=" drop">
+      <a href="/join_unite">Join Unite <i class="icon-angle-down"></i></a>
+      <ul class="sub">
+        
+        <li class="show-parent"><a href="/join_unite">Join Unite</a></li>
+        
+        
+        <li><a href="/sign_up_for_membership_benefits">Member Benefits</a></li>
+        
+        <li><a href="/signup_online">Signup Online</a></li>
+        
+      </ul>
+    </li>
+    
+    
+    
+    <li class=" drop">
+      <a href="/publications_and_resources">Publications <i class="icon-angle-down"></i></a>
+      <ul class="sub">
+        
+        <li class="show-parent"><a href="/publications_and_resources">Publications</a></li>
+        
+        
+        <li><a href="/workers_voice">Workers Voice</a></li>
+        
+      </ul>
+    </li>
+    
+    
+    
+    <li class=" drop">
+      <a href="/campaigns">Campaigns <i class="icon-angle-down"></i></a>
+      <ul class="sub">
+        
+        <li class="show-parent"><a href="/campaigns">Campaigns</a></li>
+        
+        
+        <li><a href="/stronger_together">Stronger Together</a></li>
+        
+        <li><a href="/support_unite_campaigns">Support Unite Campaigns</a></li>
+        
+        <li><a href="/join_end_zero_hours">End Zero Hours</a></li>
+        
+      </ul>
+    </li>
+    
+    
+  </ul>
+</nav>
+
+<a href="#menu" class="menu-link"><i class="icon-menu"></i></a>
+<!-- /_nav.html -->
+
+
+              
+              <div class="site-logo">
+                <header>
+                  <a href="/"><img src="http://d3n8a8pro7vhmx.cloudfront.net/uniteunion/sites/1/meta_images/original/Unite_1772_x_785.png?1454709430"></a>
+                </header>
+              </div>
+              
+            </div>
+          </div>
+
+
+          <!-- Breadcrumbs -->
+          
+
+
+          <!-- Main Content -->
+          
+          <div id="content-wrapper">
+            <div class="width-container clearfix">
+              
+<!-- _columns_1.html -->
+
+<div class="onecolumn-container clearfix">
+
+  
+  <div class="columns-1-flash"></div>
+
+  <div class="content-pages-show-basic">
+    
+
+<div class="blog-posts padbottommore">
+  
+<!-- _z_blog_unite_buttons.html -->
+
+
+
+<div class="blog-post blog-buttons">
+  <div class="blog-button" style="background-image: url('http://d3n8a8pro7vhmx.cloudfront.net/themes/54e398eb01925b4169000001/attachments/original/1497741390/contact_us.jpg?1497741390')">
+    <div class="blog-button-overlay">
+      <a href="/unite_directory">
+        <h3>Contact Us</h3>
+      </a>
+    </div>
+  </div>
+  <div class="blog-button" style="background-image: url('http://d3n8a8pro7vhmx.cloudfront.net/themes/54e398eb01925b4169000001/attachments/original/1497741039/volunteer.png?1497741039')">
+    <div class="blog-button-overlay">
+      <a href="/volunteer">
+        <h3>Volunteer</h3>
+      </a>
+    </div>
+  </div>
+  <div class="blog-button" style="background-image: url('http://d3n8a8pro7vhmx.cloudfront.net/themes/54e398eb01925b4169000001/attachments/original/1497741382/join_unite.jpg?1497741382')">
+    <div class="blog-button-overlay">
+      <a href="/join_unite">
+        <h3>Join Unite</h3>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<div class="blog-buttons-mobile">
+  <div class="blog-button-mobile">
+    <a href="/join_unite">
+      <h4>Join Unite</h4>
+    </a>
+  </div>
+  <div class="blog-button-mobile">
+    <a href="/unite_directory">
+      <h4>Contact Us</h4>
+    </a>
+  </div>
+</div>
+
+<!-- /_z_blog_unite_buttons.html -->
+
+
+  
+
+
+  <div class="blog-post">
+    <div class="blog-title">
+      <h4>Unite News</h4>
+    </div>
+
+    <div class="blog-image" style="background-image: url('/meta_images/original/missing.png');">
+      <a href="/covid_income_support"></a>
+    </div>
+
+    <div class="blog-headline">
+      <a href="/covid_income_support">
+        <h4>
+          All those without jobs deserve decent income support
+        </h4>
+      </a>
+    </div>
+
+    <div class="blog-content">
+      <a href="/covid_income_support">
+        <h4>
+          Today’s announcement of an income relief payment goes in the...
+        </h4>
+      </a>
+    </div>
+
+    <div class="blog-more">
+      <a href="/covid_income_support">
+        <h4>Read More</h4>
+      </a>
+    </div>
+  </div>
+
+
+
+  <div class="blog-post">
+    <div class="blog-title">
+      <h4>Unite News</h4>
+    </div>
+
+    <div class="blog-image" style="background-image: url('http://d3n8a8pro7vhmx.cloudfront.net/uniteunion/pages/1902/meta_images/original/Screen_Shot_2020-05-21_at_4.42.22_PM.png?1590036255');">
+      <a href="/will_they_listen_now_fast_food_workers_demands_for_covid_safety"></a>
+    </div>
+
+    <div class="blog-headline">
+      <a href="/will_they_listen_now_fast_food_workers_demands_for_covid_safety">
+        <h4>
+          Will they listen now? Fast Food Workers’ Demands for Covid Safety
+        </h4>
+      </a>
+    </div>
+
+    <div class="blog-content">
+      <a href="/will_they_listen_now_fast_food_workers_demands_for_covid_safety">
+        <h4>
+          Unite Union members working in fast food restaurants across Aotearoa...
+        </h4>
+      </a>
+    </div>
+
+    <div class="blog-more">
+      <a href="/will_they_listen_now_fast_food_workers_demands_for_covid_safety">
+        <h4>Read More</h4>
+      </a>
+    </div>
+  </div>
+
+
+
+
+  
+
+
+
+  <div class="blog-post">
+    <div class="blog-title">
+      <h4>Unite Radio</h4>
+    </div>
+
+    <div class="blog-soundcloud">
+      <p><iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F285024909%26show_artwork%3Dtrue&amp;wmode=transparent&amp;url=https%3A%2F%2Fsoundcloud.com%2Funite-union-aotearoa%2Funite-radio-workers-voice-aug-16-the-housing-crisis&amp;image=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1474548466&amp;key=e1208cbfb854483e8443b1ed081912ee&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe></p>
+    </div>
+
+    <div class="blog-content">
+      <a href="/the_housing_crisis_workers_voice_september_16">
+        <h4>
+          Listen to our weekly radio show
+        </h4>
+      </a>
+    </div>
+
+    <div class="blog-more">
+      <a href="/the_housing_crisis_workers_voice_september_16">
+        <h4>Listen</h4>
+      </a>
+    </div>
+  </div>
+
+
+
+
+  
+<!-- _z_blog_union_news.html -->
+
+<div class="blog-post blog-post-unionnews">
+  <div class="blog-title">
+    <h4>Union News</h4>
+  </div>
+
+  <div class="blog-content-unionnews">
+    <script language="JavaScript" src="http://www.labourstart.org/rdf/labourstart.nz.js"></script>
+  </div>
+</div>
+
+<!-- /_z_blog_union_news.html -->
+
+
+  
+<!-- _z_blog_unite_twitter.html -->
+
+
+<div class="blog-post blog-post-social-media">
+  <div class="blog-twitter">
+    <a class="twitter-timeline"
+      href="https://twitter.com/UniteUnion"
+      data-widget-id="690822099619844096"
+      data-aria-polite="assertive"
+      data-height="400">
+      Tweets by @UniteUnion
+    </a>
+    <script>
+      !function(d,s,id){
+        var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+        if(!d.getElementById(id)) {
+          js=d.createElement(s);
+          js.id=id;
+          js.src=p+"://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js,fjs);
+        }
+      }(document,"script","twitter-wjs")
+    </script>
+  </div>
+</div>
+
+<!-- /_z_blog_unite_twitter.html -->
+
+
+  
+<!-- _z_blog_unite_facebook.html -->
+
+
+<div class="blog-post blog-post-social-media">
+  <div class="blog-facebook">
+    <div class="fb-page"
+      data-href="https://www.facebook.com/UniteUnion/"
+      data-tabs="timeline"
+      data-height="400"
+      data-width="500"
+      data-small-header="true"
+      data-adapt-container-width="true"
+      data-hide-cover="false"
+      data-show-facepile="true">
+      <div class="fb-xfbml-parse-ignore">
+        <blockquote cite="https://www.facebook.com/UniteUnion/">
+          <a href="https://www.facebook.com/UniteUnion/">Unite Union</a>
+        </blockquote>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- /_z_blog_unite_facebook.html -->
+
+
+  
+<!-- _z_blog_unite_video.html -->
+
+
+<div class="blog-post blog-post-video blog-bottomtwo">
+  <div class="blog-title">
+    <h4>Unite Video</h4>
+  </div>
+
+  <div class="blog-video">
+    <iframe
+      width="560"
+      height="315"
+      frameborder="0" allowfullscreen
+      src="https://www.youtube.com/embed/videoseries?list=PLl6PL4VlBrIPS7W-NuhHNJi7V_2s3JUpF">
+    </iframe>
+  </div>
+</div>
+
+<!-- /_z_blog_unite_video.html -->
+
+
+  
+<!-- _z_blog_unite_photo.html -->
+
+
+<div class="blog-post blog-bottomtwo blog-bottomone">
+  <div class="blog-title">
+    <h4>Unite Photo</h4>
+  </div>
+
+  <div class="blog-photo">
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/15427785@N04/albums/72157663348908871" title="Unite Photos">
+      <img src="https://farm1.staticflickr.com/625/22783520894_c0e7fe5d5e_z.jpg" width="640" height="427" alt="Unite Photos">
+    </a>
+    <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  </div>
+</div>
+
+<!-- /_z_blog_unite_photo.html -->
+
+</div>
+
+  </div>
+
+
+</div><!-- /onecolumn-container -->
+
+<!-- /_columns_1.html -->
+
+            </div>
+          </div>
+          
+
+
+          <!-- Sidebar -->
+          
+          <div class="clearfix" id="sidebar">
+            
+<!-- _sidebar.html -->
+
+
+<ul class="supporter-nav logged-off">
+  <li class="facebook"><a href="https://uniteunion.nationbuilder.com/users/facebook/connect?page_id=286&scope=public_profile%2Cemail"><i class="icon-facebook"></i> <span class="menu-label">Sign in with Facebook</span></a></li>
+  <li class="twitter"><a href="/users/twitter/connect?page_id=286"><i class="icon-twitter"></i> <span class="menu-label">Sign in with Twitter</span></a></li>
+  <li class="mail"><a href="/login"><i class="icon-mail"></i> <span class="menu-label">Sign in with Email</span></a></li>
+</ul>
+
+
+
+<script type="text/javascript">
+  $(function() {
+
+    $("#sidebar").mouseenter(function() {
+      if ($(window).width() > 1024){
+        $(this).animate({
+          width: "270px"
+        }, 300,
+        function() {
+          $(this).addClass("active")
+        })
+      }
+    })
+    .mouseleave(function(){
+      if ($(window).width() > 1024){
+        $(this).animate({
+          width: "118px"
+        }, 300, function(){
+          $(this).removeClass("active")
+        })
+      }
+    })
+
+    $("#openPre").click(function() {
+      $(".preheader").toggleClass("open", 500)
+    })
+
+    function sideBar() {
+      if ($(window).width() > 1025){
+        desktop = true;
+      }
+
+      if ($(".preheader").length > 0 && desktop) {
+        preheader = $(".preheader").outerHeight()
+        $('#sidebar').css('top',  preheader).css("height", $(window).height() -  preheader)
+      }
+
+      $(window).scroll(function() {
+        if (desktop) {
+          var height = $(window).height()
+
+          if ($(".preheader").length>0) {
+            preheader2= $(".preheader").outerHeight();
+          } else {
+            preheader2 = 0;
+          }
+
+          if ($(window).scrollTop() <=  preheader2) {
+            $('#sidebar').css('top',  preheader2 - $(window).scrollTop()).css("height", height +  preheader2 - $(window).scrollTop())
+          } else {
+            $('#sidebar').css('top', 0).css("height", height)
+          }
+        }
+      })
+    }
+
+    sideBar();
+    $(window).bind('resize', sideBar)
+  });
+</script>
+
+<!-- /_sidebar.html -->
+
+          </div>
+          
+
+
+          <!-- Actual Footer -->
+          
+<!-- _z_footer.html -->
+
+
+<footer>
+
+  
+  <div class="full-container border-bottom padtopextra padbottomextra">
+    <div class="width-container clearfix">
+      <div class="onecolumn-container clearfix">
+        
+<!-- _z_footer_search.html -->
+
+
+<div class="social-searchs">
+  <div class="social-search social-search-label">
+    <h4>Connect with Unite</h4>
+  </div>
+
+  <div class="social-search social-search-icons">
+    <a href="https://soundcloud.com/unite-union-aotearoa">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-soundcloud fa-stack-1x fa-inner"></i>
+      </span>
+    </a>
+    <a href="https://uniteunion.nationbuilder.com/users/facebook/connect?page_id=286&scope=public_profile%2Cemail">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-facebook fa-stack-1x fa-inner"></i>
+      </span>
+    </a>
+    <a href="/users/twitter/connect?page_id=286">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-twitter fa-stack-1x fa-inner"></i>
+      </span>
+    </a>
+    <a href="https://www.youtube.com/user/UniteAotearoa">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-youtube-play fa-stack-1x fa-inner"></i>
+      </span>
+    </a>
+    <a href="https://www.flickr.com/photos/15427785@N04/">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-flickr fa-stack-1x fa-inner"></i>
+      </span>
+    </a>
+  </div>
+
+  <div class="social-search social-search-submit">
+    <form id="stronger_page_new_signup_form" class="ajaxForm signup_form" method="POST" action="/forms/signups" enctype="multipart/form-data"><input name="authenticity_token" type="hidden" value="2JF1RICNuwbeBR/jNR/VNIQNs70zMx1KMsgHw6gYdd8="/><input name="page_id" type="hidden" value="286"/><input name="return_to" type="hidden" value="http://www.unite.org.nz/"/><div class="email_address_form" style="display:none;" aria-hidden="true"><p><label for="email_address">Optional email code</label><br/><input name="email_address" type="text" class="text" id="email_address" autocomplete="off"/></p></div>
+      <div class="form-errors">
+        
+      </div>
+      <input required="required" id="signup_email" name="signup[email]" placeholder="email address" type="text" />
+      <input type="submit" name="commit" value="I'M IN" />
+      <div class="form-submit"></div>
+    </form>
+  </div>
+
+  <div class="social-search social-search-label">
+    <h4>Search Our Website</h4>
+  </div>
+
+  <div class="social-search social-search-submit">
+    <form method="get" action="/search">
+      <input name="q" type="search" placeholder="keyword search">
+      <input type="submit" value="SEARCH">
+    </form>
+  </div>
+</div>
+
+<!-- /_z_footer_search.html -->
+
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="menu border-bottom padtopextra padbottomextra">
+    <div class="width-container clearfix">
+      <div class="onecolumn-container">
+        <div id="footer-nav" class="row-fluid">
+          
+<!-- _footer_nav.html -->
+
+
+
+  <div class="span4">
+    <a href="/about">About</a>
+  </div>
+  
+    <div class="span4">
+      <a href="/unite_news">News</a>
+    </div>
+  
+    <div class="span4">
+      <a href="/unite_directory">Contact Unite</a>
+    </div>
+  
+
+  <div class="span4">
+    <a href="/your_employer">Your Employer</a>
+  </div>
+  
+
+  <div class="span4">
+    <a href="/join_unite">Join Unite</a>
+  </div>
+  
+    <div class="span4">
+      <a href="/sign_up_for_membership_benefits">Member Benefits</a>
+    </div>
+  
+    <div class="span4">
+      <a href="/signup_online">Signup Online</a>
+    </div>
+  
+
+  <div class="span4">
+    <a href="/publications_and_resources">Publications</a>
+  </div>
+  
+    <div class="span4">
+      <a href="/workers_voice">Workers Voice</a>
+    </div>
+  
+
+  <div class="span4">
+    <a href="/campaigns">Campaigns</a>
+  </div>
+  
+    <div class="span4">
+      <a href="/stronger_together">Stronger Together</a>
+    </div>
+  
+    <div class="span4">
+      <a href="/support_unite_campaigns">Support Unite Campaigns</a>
+    </div>
+  
+    <div class="span4">
+      <a href="/join_end_zero_hours">End Zero Hours</a>
+    </div>
+  
+
+
+<!-- /_footer_nav.html -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="width-container clearfix padtopmore padbottommore">
+    <div class="onecolumn-container clearfix">
+      <div class="supporters">
+        <div class="supporter">
+          <p>
+            Supported by people like you
+          </p>
+          
+            <a href="/aupparty"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1314084381116440576.jpg" border="0" width="48" height="48" class="profile_image" title="Aotearoa Union Party" alt="Aotearoa Union Party"/></a>
+          
+            <a href="/aussihrod"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/831197465781088256.jpg" border="0" width="48" height="48" class="profile_image" title="Aarón Rodríguez" alt="Aarón Rodríguez"/></a>
+          
+            <a href="/maxharr03421445"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1250120716294512645.jpg" border="0" width="48" height="48" class="profile_image" title="Max Harris" alt="Max Harris"/></a>
+          
+            <a href="/earworm_nz"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1107793716985516032.jpg" border="0" width="48" height="48" class="profile_image" title="Kea" alt="Kea"/></a>
+          
+            <a href="/piobair"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/22907559.jpg" border="0" width="48" height="48" class="profile_image" title="Steve Porter" alt="Steve Porter"/></a>
+          
+            <a href="/harinku62913061"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1307127640008998912.jpg" border="0" width="48" height="48" class="profile_image" title="Harinkumar" alt="Harinkumar"/></a>
+          
+            <a href="/252293"><img src="http://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" border="0" width="48" height="48" class="profile_image" title="Dannii Palmer" alt="Dannii Palmer"/></a>
+          
+            <a href="/dipamadai"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1271660716118781953.jpg" border="0" width="48" height="48" class="profile_image" title="dipamadai" alt="dipamadai"/></a>
+          
+            <a href="/252289"><img src="http://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" border="0" width="48" height="48" class="profile_image" title="Vanessa Cleave" alt="Vanessa Cleave"/></a>
+          
+            <a href="/fideluna"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/59590310.jpg" border="0" width="48" height="48" class="profile_image" title="esteban espinoza" alt="esteban espinoza"/></a>
+          
+            <a href="/keepingmum"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/56854159.jpg" border="0" width="48" height="48" class="profile_image" title="Dita De Boni" alt="Dita De Boni"/></a>
+          
+            <a href="/nikkiccameronn"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1292874844871307265.jpg" border="0" width="48" height="48" class="profile_image" title="Nikki Cameron" alt="Nikki Cameron"/></a>
+          
+            <a href="/sharnteu"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/69094571.jpg" border="0" width="48" height="48" class="profile_image" title="Sharn Riggs" alt="Sharn Riggs"/></a>
+          
+            <a href="/252124"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1293994745660706816.jpg" border="0" width="48" height="48" class="profile_image" title="MatthewHootonNZ" alt="MatthewHootonNZ"/></a>
+          
+            <a href="/noniyan11"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/1278408789671239680.jpg" border="0" width="48" height="48" class="profile_image" title="noniyan1" alt="noniyan1"/></a>
+          
+            <a href="/icanc2"><img src="http://res.cloudinary.com/nationbuilder/image/twitter/w_73,h_73,c_fill/2847268952.jpg" border="0" width="48" height="48" class="profile_image" title="Tommy P" alt="Tommy P"/></a>
+          
+        </div>
+        <div class="supporter supporter-nationbuilder">
+          <!-- The NationBuilder link below is required. If it is removed, we may add it back ourselves. You can style it or move it in different ways, but please leave it in the footer. -->
+          <p>
+            <a href="http://www.forpurpose.co.nz/">Built by For Purpose </a>
+            <a href="http://nationbuilder.com/">| Created with NationBuilder</a>
+            
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</footer>
+
+<!-- /_z_footer.html -->
+
+
+
+          <!-- NationBuilder scripts etc -->
+          <div id="fb-root"></div>
+
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 126739610711965,
+      channelUrl : "//uniteunion.nationbuilder.com/channel.html",
+      status     : true,
+      version    : "v3.2",
+      cookie     : true,
+      xfbml      : true
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script src="http://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js"></script>
+
+
+    <iframe src="//www.unite.org.nz/session_pair_phase_1" width="1" height="1" style="display: none;"></iframe>
+
+
+
+
+
+
+
+
+        </div> <!-- body -->
+      </div> <!-- wrap -->
+    </div> <!-- pattern -->
+
+    <script>
+    if ( window.self !== window.top ) {
+      function logIframeRequest() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("GET", "iframe_requests?iframe_req_path=" + window.location.pathname, true);
+        xhttp.send();
+      };
+      try {
+        if ( window.self.location.origin !== window.top.location.origin ) {
+          logIframeRequest();
+        }
+      } catch {
+        logIframeRequest();
+      }
+    }
+  </script>
+</body>
+
+</html>
+

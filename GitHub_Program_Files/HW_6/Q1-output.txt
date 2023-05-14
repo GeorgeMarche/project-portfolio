@@ -1,0 +1,11 @@
+Number of redirects: 774
+Number of 200 statuses: 1114
+Number of non-200 statuses: 565
+
+Number of unique domains: 700
+Top 5 domains:
+ 	21stcenturywire.com showed up in 3088 tweets
+	clarityofsignal.com showed up in 2378 tweets
+	rt.com showed up in 1605 tweets
+	mintpressnews.com showed up in 1558 tweets
+	newsweek.com showed up in 1249 tweets

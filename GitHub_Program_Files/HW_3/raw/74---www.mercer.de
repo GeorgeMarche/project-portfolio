@@ -1,0 +1,2292 @@
+
+<!DOCTYPE HTML>
+<html lang="de-DE">
+    <head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+	<!-- <link rel="preload" href="/etc.clientlibs/mercer-sites/clientlibs/clientlib-base.min.css" as="style" type="text/css"> -->
+    <!--Meta Tags for HTML pages on Mobile -->
+    <meta name="format-detection" content="telephone=yes"/>
+    <meta name="HandheldFriendly" content="true"/> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+	<!--SEO Meta Tags -->
+    <title>Mercer Deutschland | Welcome to brighter</title>
+    <meta name="keywords" content="English,Global"/>
+    <meta name="description" content="Mercer ist ein weltweit führendes Beratungsunternehmen, das Kunden auf der ganzen Welt dabei unterstützt, die Gesundheit, den Wohlstand und die Karrieren ihres wichtigsten Kapitals – ihrer Mitarbeiter – zu fördern."/>
+    <meta name="template" content="mercer-home-page-template"/>
+    <meta name="robots" content="follow"/>
+    
+	
+	
+    
+	<link rel="alternate" href="https://www.mercer.de/" hreflang="de-DE"/>
+
+	<!--Social Media Meta Tags -->
+    
+	<meta name="twitter:title" content="Mercer Deutschland | Welcome to brighter"/>
+	<meta property="og:title" content="Mercer Deutschland | Welcome to brighter"/>
+
+
+
+	<meta name="twitter:description" content="Mercer ist ein weltweit führendes Beratungsunternehmen, das Kunden auf der ganzen Welt dabei unterstützt, die Gesundheit, den Wohlstand und die Karrieren ihres wichtigsten Kapitals – ihrer Mitarbeiter – zu fördern."/>
+	<meta property="og:description" content="Mercer ist ein weltweit führendes Beratungsunternehmen, das Kunden auf der ganzen Welt dabei unterstützt, die Gesundheit, den Wohlstand und die Karrieren ihres wichtigsten Kapitals – ihrer Mitarbeiter – zu fördern."/>
+
+
+
+	<meta property="og:image" content="http://www.mercer.de/content/dam/mercer/assets/social-media/gl-2020-mercer-banner.jpg"/>
+	<meta name="twitter:image" content="http://www.mercer.de/content/dam/mercer/assets/social-media/gl-2020-mercer-banner.jpg"/>
+
+
+<meta property="og:image:width" content="400"/>
+<meta property="og:image:height" content="300"/>
+
+<meta property="og:type" content="website"/>
+
+
+
+
+	<meta property="og:url" content="https://www.mercer.de/"/>
+	<meta name="twitter:url" content="https://www.mercer.de/"/>
+
+
+<meta property="fb:app_id" content="1019251294754334"/>
+
+
+
+<meta name="twitter:creator" content="@mercer"/>
+    
+<!--<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html">-->
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/mercer-sites/clientlibs/vendor/jquery.min.js"></script>
+
+
+    
+    
+<link rel="preload" href="/etc.clientlibs/mercer-sites/clientlibs/clientlib-dependencies.min.css" as="style" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/mercer-sites/clientlibs/clientlib-dependencies.min.css" type="text/css">
+
+
+    
+    
+<link rel="preload" href="/etc.clientlibs/mercer-sites/clientlibs/clientlib-base.min.css" as="style" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/mercer-sites/clientlibs/clientlib-base.min.css" type="text/css">
+
+
+
+
+
+<!-- <sly data-sly-resource="contexthub"/>  -->
+    
+    
+    <script src="https://tags.tiqcdn.com/utag/mercer/main/prod/utag.sync.js"></script>
+<script type="text/javascript">
+(function(a,b,c,d){
+a='https://tags.tiqcdn.com/utag/mercer/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+
+
+    
+
+    
+    
+    
+
+    
+	
+	<!--GTM Head Tag From Page Properties -->
+	
+	
+</head>
+    <body class="page basicpage" id="page-f13cbd0f31">
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+            <!--Body GTM Script From Page Properties -->
+
+
+<div class="header iparsys parsys">
+
+
+
+
+    
+        
+        
+        <div class="topBar">
+
+
+	<div class="topbar">
+		
+		
+			<input name="redirect" type="hidden" value="false"/>
+		
+		<div class="grid-x">
+			<div class="small-12 medium-6 cell topbar-content-section">
+				<ul class="no-bullet language-bar">
+					<li data-toggle="language-dropdown-menu" class="language-dropdown">
+						<a href="#" class="show-for-desktop" id="topbarCountryidItem" onclick="s_objectID='topbarCountryidItem';">de</a>
+						<span class="show-for-mobile">de</span>
+					</li>
+					<div style="background-color: ;" class="dropdown-pane" id="language-dropdown-menu" data-dropdown data-hover="true" data-hover-pane="true">
+						<div class="grid-x lang-dropdown-titlebar">
+							<div class="medium-shrink cell">
+								<div class="lang-logo"><img src="/etc/designs/mercer/relaunch/common/clientlibs/img/Revamp/mercer-blue.png" alt="logo"/></div>
+							</div>
+							<div class="medium-shrink cell">
+								<h2 class="lang-heading">Wählen Sie Ihren Standort</h2>
+							</div>
+						</div>
+						<div class="grid-x grid-padding-x language-listing">
+							<div class="cell">
+								<h3 class="listing-heading">Sites</h3>
+							</div>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="http://www.mercer.com.ar/" id="topbarGroup1Item_0" onclick="s_objectID='topbarGroup1Item_0';">
+											 
+											Argentinien
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.au/" id="topbarGroup1Item_1" onclick="s_objectID='topbarGroup1Item_1';">
+											 
+											Australien
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.at/" id="topbarGroup1Item_2" onclick="s_objectID='topbarGroup1Item_2';">
+											 
+											Österreich
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.be/" id="topbarGroup1Item_3" onclick="s_objectID='topbarGroup1Item_3';">
+											 
+											Belgien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.br/" id="topbarGroup1Item_4" onclick="s_objectID='topbarGroup1Item_4';">
+											 
+											Brasilien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.ca/" id="topbarGroup1Item_5" onclick="s_objectID='topbarGroup1Item_5';">
+											 
+											Kanada
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.cl/" id="topbarGroup1Item_6" onclick="s_objectID='topbarGroup1Item_6';">
+											 
+											Chile
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.co.mercer.com/" id="topbarGroup1Item_7" onclick="s_objectID='topbarGroup1Item_7';">
+											 
+											Kolumbien
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.dk/" id="topbarGroup1Item_8" onclick="s_objectID='topbarGroup1Item_8';">
+											 
+											Dänemark
+
+										</a>
+									</li>
+								
+							</ul>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="http://www.mercer.fi/" id="topbarGroup2Item_0" onclick="s_objectID='topbarGroup2Item_0';">
+											 
+											Finnland
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.fr/" id="topbarGroup2Item_1" onclick="s_objectID='topbarGroup2Item_1';">
+											 
+											Frankreich
+
+										</a>
+									</li>
+								
+							
+								
+									<li class="selected">
+										<a href="https://www.mercer.de/" id="topbarGroup2Item_2" onclick="s_objectID='topbarGroup2Item_2';">
+											 
+											Deutschland
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.hk/" id="topbarGroup2Item_3" onclick="s_objectID='topbarGroup2Item_3';">
+											 
+											
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.co.in/" id="topbarGroup2Item_4" onclick="s_objectID='topbarGroup2Item_4';">
+											 
+											Indien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.co.id/" id="topbarGroup2Item_5" onclick="s_objectID='topbarGroup2Item_5';">
+											 
+											Indonesien
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.ie/" id="topbarGroup2Item_6" onclick="s_objectID='topbarGroup2Item_6';">
+											 
+											Irland
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.it/" id="topbarGroup2Item_7" onclick="s_objectID='topbarGroup2Item_7';">
+											 
+											Italien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.co.jp/" id="topbarGroup2Item_8" onclick="s_objectID='topbarGroup2Item_8';">
+											 
+											Japan
+										</a>
+									</li>
+								
+							</ul>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="http://www.asean.mercer.com/" id="topbarGroup3Item_0" onclick="s_objectID='topbarGroup3Item_0';">
+											 
+											Malaysia
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.latam.mercer.com/" id="topbarGroup3Item_1" onclick="s_objectID='topbarGroup3Item_1';">
+											 
+											Mexiko
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.me.mercer.com/" id="topbarGroup3Item_2" onclick="s_objectID='topbarGroup3Item_2';">
+											 
+											Mittlerer Osten
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.mercer.nl/" id="topbarGroup3Item_3" onclick="s_objectID='topbarGroup3Item_3';">
+											 
+											Niederlande
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.co.nz/" id="topbarGroup3Item_4" onclick="s_objectID='topbarGroup3Item_4';">
+											 
+											Neuseeland
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.no/" id="topbarGroup3Item_5" onclick="s_objectID='topbarGroup3Item_5';">
+											 
+											Norwegen
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://cn.mercer.com/" id="topbarGroup3Item_6" onclick="s_objectID='topbarGroup3Item_6';">
+											 
+											Volksrepublik China
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.pe/" id="topbarGroup3Item_7" onclick="s_objectID='topbarGroup3Item_7';">
+											 
+											Peru
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.ph/" id="topbarGroup3Item_8" onclick="s_objectID='topbarGroup3Item_8';">
+											 
+											Philippinen
+										</a>
+									</li>
+								
+							</ul>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="http://www.mercer.com.pl/" id="topbarGroup4Item_0" onclick="s_objectID='topbarGroup4Item_0';">
+											 
+											Polen
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.pt/" id="topbarGroup4Item_1" onclick="s_objectID='topbarGroup4Item_1';">
+											 
+											Portugal
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.me.mercer.com/" id="topbarGroup4Item_2" onclick="s_objectID='topbarGroup4Item_2';">
+											 
+											Saudi-Arabien
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.sg/" id="topbarGroup4Item_3" onclick="s_objectID='topbarGroup4Item_3';">
+											 
+											Singapur
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://africa.mercer.com/" id="topbarGroup4Item_4" onclick="s_objectID='topbarGroup4Item_4';">
+											 
+											Südafrika
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://kr.mercer.com/" id="topbarGroup4Item_5" onclick="s_objectID='topbarGroup4Item_5';">
+											 
+											Südkorea
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.es/" id="topbarGroup4Item_6" onclick="s_objectID='topbarGroup4Item_6';">
+											 
+											Spanien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.se.mercer.com/" id="topbarGroup4Item_7" onclick="s_objectID='topbarGroup4Item_7';">
+											 
+											Schweden
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.ch/" id="topbarGroup4Item_8" onclick="s_objectID='topbarGroup4Item_8';">
+											 
+											Schweiz
+
+										</a>
+									</li>
+								
+							</ul>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="http://www.mercer.com.tw/" id="topbarGroup5Item_0" onclick="s_objectID='topbarGroup5Item_0';">
+											 
+											Taiwan
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.asean.mercer.com/" id="topbarGroup5Item_1" onclick="s_objectID='topbarGroup5Item_1';">
+											 
+											Thailand
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.tr/" id="topbarGroup5Item_2" onclick="s_objectID='topbarGroup5Item_2';">
+											 
+											Türkei
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.uae.mercer.com/" id="topbarGroup5Item_3" onclick="s_objectID='topbarGroup5Item_3';">
+											 
+											Vereinigte Arabische Emirate
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.uk.mercer.com/" id="topbarGroup5Item_4" onclick="s_objectID='topbarGroup5Item_4';">
+											 
+											Großbritannien
+
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.us/" id="topbarGroup5Item_5" onclick="s_objectID='topbarGroup5Item_5';">
+											 
+											USA
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.mercer.com.ve/" id="topbarGroup5Item_6" onclick="s_objectID='topbarGroup5Item_6';">
+											 
+											Venezuela
+										</a>
+									</li>
+								
+							</ul>
+							<ul class="small-6 medium-2 cell no-bullet">
+								
+									<li>
+										<a href="https://africa.mercer.com/" id="topbarRegionTitleItem_0" onclick="s_objectID='topbarRegionTitleItem_0';">
+											<img src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-site/resources/images/icon-regional.png" alt="regional-icon"/> 
+											Africa
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://www.asean.mercer.com/" id="topbarRegionTitleItem_1" onclick="s_objectID='topbarRegionTitleItem_1';">
+											<img src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-site/resources/images/icon-regional.png" alt="regional-icon"/> 
+											ASEAN
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.mercer.com/" id="topbarRegionTitleItem_2" onclick="s_objectID='topbarRegionTitleItem_2';">
+											<img src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-site/resources/images/icon-regional.png" alt="regional-icon"/> 
+											Global
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="http://latam.mercer.com/" id="topbarRegionTitleItem_3" onclick="s_objectID='topbarRegionTitleItem_3';">
+											<img src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-site/resources/images/icon-regional.png" alt="regional-icon"/> 
+											Lateinamerika
+										</a>
+									</li>
+								
+							
+								
+									<li>
+										<a href="https://www.me.mercer.com/" id="topbarRegionTitleItem_4" onclick="s_objectID='topbarRegionTitleItem_4';">
+											<img src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-site/resources/images/icon-regional.png" alt="regional-icon"/> 
+											Mittlerer Osten
+										</a>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					
+						
+							<li><span class="current-language">Deutsch</span></li>
+							
+						
+					
+				</ul>
+			</div>
+			<div class="small-12 medium-6 cell ">
+				<ul class="no-bullet contact-link text-right">
+					<li><a href="https://www.mercer.de/kontakt.html" id="topbarButtonItem_0" onclick="s_objectID='topbarButtonItem_0';">KONTAKT &gt;</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+    
+        
+        
+        <div class="header3">
+
+
+
+
+
+<div id="stickyNavigation" class="stickyNavigation">
+<nav id="megamenu" class="header3 ">
+	
+	<div class="top-bar-title">
+		<div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+		   <div class="title-bar-title">
+				<div class="navbar__logo">
+					<a href="https://www.mercer.de/" target="_self" title="Mercer" id="header-logo" onclick="s_objectID='header-logo'">
+					   <img src="/content/dam/mercer-subdomains/delegated-solutions/images/logo-mercer.png" width="150" height="30"/>
+					 </a>
+      			</div>
+			</div>
+			<!--Ecommerce icons for mobile header-->
+           <div>
+            
+            
+			
+			 
+            <button class="menu-icon" type="button" data-toggle></button>
+        </div>
+		</div>
+	</div>
+
+	<div class="top-bar" id="main-menu">
+        <ul class="dropdown menu vertical medium-horizontal" id="mega-menu" data-dropdown-menu>
+
+	   		<li class="menu-text" role="menuitem">
+            	<div class="navbar__logo">
+         			<a href="https://www.mercer.de/" class="topbar-responsive-logo" target="_self" title="Mercer" id="header-logo" onclick="s_objectID='header-logo'">
+                    	<img src="/content/dam/mercer-subdomains/delegated-solutions/images/logo-mercer.png" width="150" height="30"/>
+                    </a>
+      			</div>
+	  		</li>
+            
+            <li>
+            <li class="search-global-mobile dropdown main-nav show-for-small is-closed-menu">
+                    <div class="search-wrapper-mobile">
+                        <form action="https://www.mercer.de/search.html">
+                            <div class="search-btn-mobile">
+                                <input class="search-box" type="text" placeholder="Search" name="q"/>
+                                <span><i class="fa fa-search"></i></span>
+                            </div>
+                        </form>
+                    </div>
+                </li>
+            	
+				<li class="nav__item parent-nav-item ">
+				   
+                   
+                   <a href="#" data-children="Unsere Lösungen" target="_self" class="dropdown main-nav" data-toggle="first-nav-section" id="firstMenuLinkItem" onclick="s_objectID='firstMenuLinkItem'">Unsere Lösungen</a>
+				   <span class="dropdown main-nav show-for-medium" data-children data-toggle="first-nav-section">Unsere Lösungen</span>
+				   <span class="dropdown main-nav show-for-small is-closed-menu" data-children>Unsere Lösungen</span>
+				   <div class="dropdown-pane text-left" id="first-nav-section" data-dropdown data-options="hover: true; hoverPane: true;">
+                      
+	
+
+                      <div class="grid-x grid-padding-x navbar__subnav">
+						 
+								
+	
+	<div class="cell medium-auto large-3">
+        <a href="https://www.mercer.de/what-we-do/health-and-benefits.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_24" onclick="s_objectID='sectionMenuItem_24';">
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">Health und Benefits</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>Health und Benefits</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-healthcare-tile-menu.jpg);"></div>
+		
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/what-we-do/health-and-benefits.html" id="sectionMenuItem_24" onclick="s_objectID='sectionMenuItem_24';">Overview</a>
+			</li>
+		</ul>
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/health-and-benefits/betriebliche-krankenversicherungen.html" target="_self" id="sectionSubMenuItem_4_0" onclick="s_objectID='sectionSubMenuItem_4_0';">Betriebliche Krankenversicherungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/health-and-benefits/flexible-benefits.html" target="_self" id="sectionSubMenuItem_4_1" onclick="s_objectID='sectionSubMenuItem_4_1';">Flexible Benefits/Caféteria-Systeme</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/health-and-benefits/global-benefits.html" target="_self" id="sectionSubMenuItem_4_2" onclick="s_objectID='sectionSubMenuItem_4_2';">Global Benefits</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/health-and-benefits/affinity-benefits.html" target="_self" id="sectionSubMenuItem_4_3" onclick="s_objectID='sectionSubMenuItem_4_3';">Affinity Benefits</a>
+		  </li>		 
+		</ul>	
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3">
+        <a href="https://www.mercer.de/what-we-do/wealth-and-investments.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_211" onclick="s_objectID='sectionMenuItem_211';">
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">Wealth und Investments</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>Wealth und Investments</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-wealth-investments-tile-menu.jpg);"></div>
+		
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/what-we-do/wealth-and-investments.html" id="sectionMenuItem_211" onclick="s_objectID='sectionMenuItem_211';">Overview</a>
+			</li>
+		</ul>
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/aktuarielle-dienstleistungen.html" target="_self" id="sectionSubMenuItem_11_0" onclick="s_objectID='sectionSubMenuItem_11_0';">Aktuarielle Dienstleistungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/zeitwertkonten-und-treuhandloesungen.html" target="_self" id="sectionSubMenuItem_11_1" onclick="s_objectID='sectionSubMenuItem_11_1';">Zeitwertkonten- und Treuhandlösungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/versicherungsloesungen.html" target="_self" id="sectionSubMenuItem_11_2" onclick="s_objectID='sectionSubMenuItem_11_2';">Versicherungslösungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/lokale-und-globale-versorgungsplaene.html" target="_self" id="sectionSubMenuItem_11_3" onclick="s_objectID='sectionSubMenuItem_11_3';">Lokale und globale Versorgungspläne</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/investitionen-und-risikomanagement.html" target="_self" id="sectionSubMenuItem_11_4" onclick="s_objectID='sectionSubMenuItem_11_4';">Investitionen und Risikomanagement</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/unterstuetzung-institutionelle-anleger.html" target="_self" id="sectionSubMenuItem_11_5" onclick="s_objectID='sectionSubMenuItem_11_5';">Unterstützung institutionelle Anleger</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/auswahl-von-kapitalanlagedienstleistern.html" target="_self" id="sectionSubMenuItem_11_6" onclick="s_objectID='sectionSubMenuItem_11_6';">Auswahl von Kapitalanlagedienstleistern</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/investment-loesungen.html" target="_self" id="sectionSubMenuItem_11_7" onclick="s_objectID='sectionSubMenuItem_11_7';">Investment-Lösungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/retirement-and-investments/alternative-investments.html" target="_self" id="sectionSubMenuItem_11_8" onclick="s_objectID='sectionSubMenuItem_11_8';">Alternative Investments </a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/our-thinking/responsible-investment.html" target="_self" id="sectionSubMenuItem_11_9" onclick="s_objectID='sectionSubMenuItem_11_9';">Responsible Investments</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/wealth-and-investments/immobilien-investments.html" target="_self" id="sectionSubMenuItem_11_10" onclick="s_objectID='sectionSubMenuItem_11_10';">Immobilien Investments</a>
+		  </li>		 
+		</ul>	
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3">
+        <a href="https://www.mercer.de/what-we-do/workforce-and-careers.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_27" onclick="s_objectID='sectionMenuItem_27';">
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">Workforce und Karriere</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>Workforce und Karriere</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-career-tile-menu.jpg);"></div>
+		
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/what-we-do/workforce-and-careers.html" id="sectionMenuItem_27" onclick="s_objectID='sectionMenuItem_27';">Overview</a>
+			</li>
+		</ul>
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/strategisches-hr-management.html" target="_self" id="sectionSubMenuItem_7_0" onclick="s_objectID='sectionSubMenuItem_7_0';">Strategisches HR-Management</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/verguetung.html" target="_self" id="sectionSubMenuItem_7_1" onclick="s_objectID='sectionSubMenuItem_7_1';">Vergütung</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/entsendungen.html" target="_self" id="sectionSubMenuItem_7_2" onclick="s_objectID='sectionSubMenuItem_7_2';">Entsendungen</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/kommunikation-und-change-management.html" target="_self" id="sectionSubMenuItem_7_3" onclick="s_objectID='sectionSubMenuItem_7_3';">Kommunikation &amp; Change Management</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/workday-services.html" target="_self" id="sectionSubMenuItem_7_4" onclick="s_objectID='sectionSubMenuItem_7_4';">Workday Services</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/talent-strategy.html" target="_self" id="sectionSubMenuItem_7_5" onclick="s_objectID='sectionSubMenuItem_7_5';">Talent Strategy</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/workforce-and-careers/hr-transformation.html" target="_self" id="sectionSubMenuItem_7_6" onclick="s_objectID='sectionSubMenuItem_7_6';">HR-Transformation</a>
+		  </li>		 
+		</ul>	
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3">
+        <a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_26" onclick="s_objectID='sectionMenuItem_26';">
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">M&amp;A and Org Transformation</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>M&amp;A and Org Transformation</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-ma-tile-menu.jpg);"></div>
+		
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions.html" id="sectionMenuItem_26" onclick="s_objectID='sectionMenuItem_26';">Overview</a>
+			</li>
+		</ul>
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions/mergers-acquisitions.html" target="_self" id="sectionSubMenuItem_6_0" onclick="s_objectID='sectionSubMenuItem_6_0';">Mergers and acquisitions</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions/divestitures.html" target="_self" id="sectionSubMenuItem_6_1" onclick="s_objectID='sectionSubMenuItem_6_1';">Divestitures</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions/restructuring-and-turnarounds.html" target="_self" id="sectionSubMenuItem_6_2" onclick="s_objectID='sectionSubMenuItem_6_2';">Restructuring and turnaround</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions/joint-ventures-and-alliances.html" target="_self" id="sectionSubMenuItem_6_3" onclick="s_objectID='sectionSubMenuItem_6_3';">Joint ventures and alliances</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/what-we-do/mergers-and-acquisitions/private-equity-advisory.html" target="_self" id="sectionSubMenuItem_6_4" onclick="s_objectID='sectionSubMenuItem_6_4';">Private equity advisory services</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.com/what-we-do/mergers-and-acquisitions/project-management-office.html" target="_self" id="sectionSubMenuItem_6_5" onclick="s_objectID='sectionSubMenuItem_6_5';">Project management office</a>
+		  </li>		 
+		</ul>	
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+                      </div>
+                   </div>
+                </li>
+				
+				
+				<li class="nav__item parent-nav-item ">
+                   
+                   
+                   <a href="#" data-children="4" target="_self" class="dropdown main-nav" data-toggle="second-nav-section" id="secondMenuLinkItem" onclick="s_objectID='secondMenuLinkItem'">Our Thinking</a>
+				   <span class="dropdown main-nav show-for-medium" data-children="Our Thinking" data-toggle="second-nav-section">Our Thinking</span>
+				   <span class="dropdown main-nav show-for-small is-closed-menu" data-children="Our Thinking">Our Thinking</span>
+				   <div class="dropdown-pane text-left" id="second-nav-section" data-dropdown data-options="closeOnClick:true; hover: true; hoverPane: true;">
+                      
+	<div class="grid-x">
+		<div class="cell">
+		
+			<div class="navbar__subnav_desc ">
+			  <a href="https://www.mercer.de/our-thinking.html" id="goto-OurCompany" onclick="s_objectID='goto-OurCompany';" title="Our Thinking" class="navbar__subnav_desc-anchor" target="_self">
+				 <div class="navbar__subnav_heading">Our Thinking</div>
+				 <div class="grid-x hide-for-small-only">
+					<div class="medium-9 cell">
+					   <p>Entdecken Sie unsere Perspektiven zu aktuellen Fragen und bringen Sie die Gesundheit, den Wohlstand und die Karrieren Ihrer Mitarbeiter und damit Ihr Unternehmen voran.</p>
+					</div>
+					<div class="medium-3 cell text-right">
+					   <span id="goto-btn" class="button">Mehr</span>
+					</div> 
+				 </div>
+			  </a>
+			  
+			</div>
+		</div>
+	</div>
+
+                      <div class="grid-x grid-padding-x navbar__subnav">
+						 
+							
+	
+	
+	 	 
+	<div class="cell medium-auto large-3" data-elements>
+	 
+        <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_4" onclick="s_objectID='section2MenuItem_4';">
+		
+        <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_11" onclick="s_objectID='section2MenuItem_11';">
+		
+        <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_7" onclick="s_objectID='section2MenuItem_7';">
+		
+        <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_6" onclick="s_objectID='section2MenuItem_6';">
+		 
+		<p class="navbar__subnav_subheading show-above-small-devices ">Turbulente Märkte</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children="{!hasChildren}">Turbulente Märkte</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/content-images/de-2020-Pensionsrisiken.png);"></div>
+		<p class="navbar__subnav_text  submenumenumobile">Wie steuern Sie Ihre Bilanzrisiken?</p>
+		</a>
+		
+		
+        
+		
+	</div>
+	
+	
+	
+
+                         
+							
+	
+	
+	 	 
+	<div class="cell medium-auto large-3" data-elements>
+	 
+        <a href="https://human-works.de/" class="navbar__subnav_anchor" target="_blank" id="section2MenuItem_4" onclick="s_objectID='section2MenuItem_4';">
+		
+        <a href="https://human-works.de/" class="navbar__subnav_anchor" target="_blank" id="section2MenuItem_11" onclick="s_objectID='section2MenuItem_11';">
+		
+        <a href="https://human-works.de/" class="navbar__subnav_anchor" target="_blank" id="section2MenuItem_7" onclick="s_objectID='section2MenuItem_7';">
+		
+        <a href="https://human-works.de/" class="navbar__subnav_anchor" target="_blank" id="section2MenuItem_6" onclick="s_objectID='section2MenuItem_6';">
+		 
+		<p class="navbar__subnav_subheading show-above-small-devices ">Human Work/s Talks 2020</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children="{!hasChildren}">Human Work/s Talks 2020</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/content-images/europe/germany/de-2020-digitalization-human-works-talks-0-transparent.png);"></div>
+		<p class="navbar__subnav_text  submenumenumobile">Die virtuelle Veranstaltungsreihe für führende People ManagerInnen!</p>
+		</a>
+		
+		
+        
+		
+	</div>
+	
+	
+	
+
+                         
+							
+	
+	
+	 	 
+	<div class="cell medium-auto large-3" data-elements>
+	 
+        <a href="https://www.mercer.de/our-thinking/mercer-benefits-revolution.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_4" onclick="s_objectID='section2MenuItem_4';">
+		
+        <a href="https://www.mercer.de/our-thinking/mercer-benefits-revolution.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_11" onclick="s_objectID='section2MenuItem_11';">
+		
+        <a href="https://www.mercer.de/our-thinking/mercer-benefits-revolution.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_7" onclick="s_objectID='section2MenuItem_7';">
+		
+        <a href="https://www.mercer.de/our-thinking/mercer-benefits-revolution.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_6" onclick="s_objectID='section2MenuItem_6';">
+		 
+		<p class="navbar__subnav_subheading show-above-small-devices ">Eine neue Vision </p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children="{!hasChildren}">Eine neue Vision </p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/hero-banner/GettyImages-640318623.png);"></div>
+		<p class="navbar__subnav_text  submenumenumobile">Mercer Benefits Transformation</p>
+		</a>
+		
+		
+        
+		
+	</div>
+	
+	
+	
+
+                         
+							
+	
+	
+	 	 
+	<div class="cell medium-auto large-3" data-elements>
+	 
+        <a href="https://www.mercer.de/our-thinking/virtuelle-projektarbeit-in-zeiten-von-corona.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_4" onclick="s_objectID='section2MenuItem_4';">
+		
+        <a href="https://www.mercer.de/our-thinking/virtuelle-projektarbeit-in-zeiten-von-corona.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_11" onclick="s_objectID='section2MenuItem_11';">
+		
+        <a href="https://www.mercer.de/our-thinking/virtuelle-projektarbeit-in-zeiten-von-corona.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_7" onclick="s_objectID='section2MenuItem_7';">
+		
+        <a href="https://www.mercer.de/our-thinking/virtuelle-projektarbeit-in-zeiten-von-corona.html" class="navbar__subnav_anchor" target="_self" id="section2MenuItem_6" onclick="s_objectID='section2MenuItem_6';">
+		 
+		<p class="navbar__subnav_subheading show-above-small-devices ">Virtuelles Arbeiten</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children="{!hasChildren}">Virtuelles Arbeiten</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/content-images/2020-de-teaser-3.png);"></div>
+		<p class="navbar__subnav_text  submenumenumobile">Projektarbeit in Krisenzeiten</p>
+		</a>
+		
+		
+        
+		
+	</div>
+	
+	
+	
+
+                         
+                      </div>
+                   </div>
+                </li>
+
+				
+				<li class="nav__item parent-nav-item ">
+				   
+                   
+                   <a href="#" data-children="4" target="_self" class="dropdown main-nav" data-toggle="third-nav-section" id="thirdMenuLinkItem" onclick="s_objectID='thirdMenuLinkItem'">Unser Unternehmen</a>
+				   <span class="dropdown main-nav show-for-medium" data-children="Über Mercer" data-toggle="third-nav-section">Unser Unternehmen</span>
+				   <span class="dropdown main-nav show-for-small is-closed-menu" data-children="Über Mercer">Unser Unternehmen</span>
+				   <div class="dropdown-pane text-left" id="third-nav-section" data-dropdown data-options="closeOnClick:true; hover: true; hoverPane: true;">
+                      
+	<div class="grid-x">
+		<div class="cell">
+		
+			<div class="navbar__subnav_desc ">
+			  <a href="https://www.mercer.de/about-mercer.html" id="goto-OurCompany" onclick="s_objectID='goto-OurCompany';" title="Über Mercer" class="navbar__subnav_desc-anchor" target="_self">
+				 <div class="navbar__subnav_heading">Über Mercer</div>
+				 <div class="grid-x hide-for-small-only">
+					<div class="medium-9 cell">
+					   <p>Wir von Mercer helfen dabei, die Gesundheit, den Wohlstand und die Karrieren von mehr als 115 Millionen Menschen auf der ganzen Welt zu verbessern. </p>
+					</div>
+					<div class="medium-3 cell text-right">
+					   <span id="goto-btn" class="button">Mehr</span>
+					</div> 
+				 </div>
+			  </a>
+			  
+			</div>
+		</div>
+	</div>
+
+                      <div class="grid-x grid-padding-x navbar__subnav">
+						 
+								
+	
+	<div class="cell medium-auto large-3">
+        
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">Unsere Geschäftsbereiche</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>Unsere Geschäftsbereiche</p>
+        <div class="sub-links-opener"></div>
+		
+		
+		
+		
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/about-mercer/lines-of-business/talent.html" target="_self" id="sectionSubMenuItem_5_0" onclick="s_objectID='sectionSubMenuItem_5_0';">Career</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/about-mercer/lines-of-business/health-and-benefits.html" target="_self" id="sectionSubMenuItem_5_1" onclick="s_objectID='sectionSubMenuItem_5_1';">Health and Benefits</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/about-mercer/lines-of-business/investments.html" target="_self" id="sectionSubMenuItem_5_2" onclick="s_objectID='sectionSubMenuItem_5_2';">Investments</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/about-mercer/lines-of-business/retirement.html" target="_self" id="sectionSubMenuItem_5_3" onclick="s_objectID='sectionSubMenuItem_5_3';">Retirement</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/about-mercer/lines-of-business/mergers-and-acquisitions.html" target="_self" id="sectionSubMenuItem_5_4" onclick="s_objectID='sectionSubMenuItem_5_4';">Mergers and Acquisitions</a>
+		  </li>		 
+		</ul>	
+        <a href="https://www.mercer.de/kontakt.html" title="Kontakt" class="button hide-for-small-only" target="_self">Kontakt</a>
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3">
+        
+		<p class="navbar__subnav_subheading show-above-small-devices show-for-medium show-for-desktop">Veranstaltungen</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small" data-children>Veranstaltungen</p>
+        <div class="sub-links-opener"></div>
+		
+		
+		
+		
+		<ul class="menu vertical nested_verticle_menu show-above-small-devices">		
+		  <li>
+			<a href="https://www.mercer.de/events.html" target="_self" id="sectionSubMenuItem_3_0" onclick="s_objectID='sectionSubMenuItem_3_0';">Events</a>
+		  </li>		 
+				
+		  <li>
+			<a href="https://www.mercer.de/events/webcasts.html" target="_self" id="sectionSubMenuItem_3_1" onclick="s_objectID='sectionSubMenuItem_3_1';">Webcasts</a>
+		  </li>		 
+				
+		  <li>
+			<a href="http://www.mercersignatureevents.com" target="_self" id="sectionSubMenuItem_3_2" onclick="s_objectID='sectionSubMenuItem_3_2';">Mercer Signature Events </a>
+		  </li>		 
+		</ul>	
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3" data-elements>
+        <a href="https://www.mercer.de/newsroom.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_2" onclick="s_objectID='sectionMenuItem_2';">
+		<p class="navbar__subnav_subheading show-above-small-devices ">Newsroom</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small">Newsroom</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-newsroom-tile-menu.jpg);"></div>
+		<p class="navbar__subnav_text hide-for-small-only">Aktuellste Veröffentlichungen</p>
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/newsroom.html" id="sectionMenuItem_2" onclick="s_objectID='sectionMenuItem_2';">Overview</a>
+			</li>
+		</ul>
+			
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+								
+	
+	<div class="cell medium-auto large-3" data-elements>
+        <a href="https://www.mercer.de/mercer-careers.html" class="navbar__subnav_anchor" target="_self" id="sectionMenuItem_2" onclick="s_objectID='sectionMenuItem_2';">
+		<p class="navbar__subnav_subheading show-above-small-devices ">Karriere</p>
+		<p class="navbar__subnav_subheading sub-link-opener show-for-small">Karriere</p>
+        <div class="sub-links-opener"></div>
+		<div class="navbar__subnav_image hide-for-small-only" style="background-image: url(/content/dam/mercer/assets/brand-images/secondary-images/gl-2020-mercer-careers-tile-menu.jpg);"></div>
+		<p class="navbar__subnav_text hide-for-small-only">Unsere Stellenangebote</p>
+		</a>
+		<ul class="menu vertical nested_verticle_menu show-for-small"> 
+			<li>
+				<a href="https://www.mercer.de/mercer-careers.html" id="sectionMenuItem_2" onclick="s_objectID='sectionMenuItem_2';">Overview</a>
+			</li>
+		</ul>
+			
+        
+	</div>
+	 
+	
+	
+	
+
+                         
+                      </div>
+                   </div>
+                </li>
+				
+				
+				
+                <li class="search-global-desktop">
+                    <div class="search-wrapper">
+                        <form action="https://www.mercer.de/search.html">
+                            <span class="search-btn">
+                                <i class="fa fa-search"></i> <i id="clearSearch" class="fa fa-times-circle"></i>
+                            </span>
+                            <div class="searchbox-wrapper">
+                                <i class="fa fa-search"></i>
+                                <input id="searchbox" class="search-box" type="text" placeholder="Search" name="q"/>
+                            </div>
+                        </form>
+                    </div>
+                </li>
+                
+                 
+				
+				 
+               
+                <li class="back-to-top">
+					<a href="#" class="navbar__bottomtoTop-anchor" id="backToTop" onclick="s_objectID='backToTop'"></a>
+				</li>
+            </li>
+		</ul>
+    </div>
+</nav>
+</div>
+</div>
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+</div>
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="hero10 aem-GridColumn aem-GridColumn--default--12">
+
+	<div class="hero-rebrand-gradient-bg gradient-pink-blue" role="banner">
+		<div class="hero-rebrand-image" style="background-image:url('/content/dam/mercer/assets/content-images/GettyImages-reduced-640318623.png/jcr:content/renditions/cq5dam.web.1280.1280.png'); background-color : ;">
+			<div class="hero-contents Small">
+				<div class="brand-asset-mobile" style="background-image:url('/content/dam/mercer/assets/content-images/GettyImages-reduced-640318623.png/jcr:content/renditions/cq5dam.web.1280.1280.png');">
+				</div>
+				<div class="mobile-bg">
+					
+					<h1 class="hero-headline" style="color:;">	Die Mercer Benefits</br> Transformation 
+					</h1>
+					<p class="hero-description" style="color:;">Welche Benefits bieten Unternehmen an und welche Benefits wünschen sich die Mitarbeitenden? Entdecken Sie jetzt neue Inhalte rund um die Mercer Benefits Transformation. Gemeinsam bringen wir Ihre Benefits zum Leuchten!</p>
+					
+					<div class="hero-cta">
+						<div>
+
+
+
+	<div class="button1-container
+		">
+		<a href="https://www.mercer.de/our-thinking/mercer-benefits-revolution.html" title="Mehr erfahren" class="button1 button    rectangle normal" style="color: #001F3F;
+				 background-color: rgb(255,255,255);
+				 border-color: ;" target="_self" id="button1Link" onclick="s_objectID='button1Link';">Mehr erfahren</a>
+	
+	</div>
+
+
+</div>
+						<div>
+
+
+
+
+</div>
+					</div>
+					<div class="hero-sharebar">
+
+
+
+	
+		
+
+		
+			<input class="sharebar-mode" type="hidden" value="sharebar"/>
+				<div class="share-bar share-bar-theme-7  ">
+					<div class="sharebar-listing">
+				
+				
+				
+					<a class="social-button linkedin" href="#" title="linkedin" target="_self" id="sharebarItem1_0" onclick="s_objectID='sharebarItem1_0';"></a>
+				
+					<a class="social-button twitter" href="#" title="twitter" target="_self" id="sharebarItem1_1" onclick="s_objectID='sharebarItem1_1';"></a>
+				
+					<a class="social-button facebook" href="#" title="facebook" target="_self" id="sharebarItem1_2" onclick="s_objectID='sharebarItem1_2';"></a>
+				
+					<a class="social-button mailto" href="#" title="mailto" target="_self" id="sharebarItem1_3" onclick="s_objectID='sharebarItem1_3';"></a>
+				
+					</div>
+			</div>
+			
+			<input class="facebook-app-id" type="hidden" value="1019251294754334"/>
+			<input class="twitter-text" type="hidden"/>
+			<input class="twitter-creator" type="hidden" value="mercer"/>
+			<input class="mailto-subject" type="hidden"/>
+			<input class="mailto-message" type="hidden"/>
+			<input class="jcr-title" type="hidden" value="German"/>
+			<input class="jcr-description" type="hidden" value="Mercer ist ein weltweit führendes Beratungsunternehmen, das Kunden auf der ganzen Welt dabei unterstützt, die Gesundheit, den Wohlstand und die Karrieren ihres wichtigsten Kapitals – ihrer Mitarbeiter – zu fördern."/>
+		 
+	
+</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+<div class="ghost aem-GridColumn aem-GridColumn--default--12">
+
+</div>
+<div class="featuredList5 aem-GridColumn aem-GridColumn--default--12">
+
+
+	
+
+    <div class="featuredList5 variation1" id="featuredList5_variation1">
+        <div class="container-fluid">
+            <div class="grid-x">
+                
+                    <div class="small-12 medium-6 large-4 cell featurelist-wrapper">
+                        <div class="fl5-container" role="banner">
+                            <div class="fl-kicker-title">
+                                <span>Risikosteuerung</span>
+                            </div>
+                            <div class="fl-title">
+                                <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" target="_self" id="featuredList5Item_0" onclick="s_objectID='featuredList5Item_0';">
+                                    <span>Strategisch handeln in turbulenten Zeiten</span>
+                                </a>
+                                
+                            </div>
+                            
+                                <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" target="_self" id="featuredList5ItemImage_0" onclick="s_objectID='featuredList5ItemImage_0';">
+
+                                    <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/asiapacific/australia/2020/tiles/au-2020-tile-what-we-do-insurance-consulting-GettyImages-866692804.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg');">
+                                    </div>
+
+                                </a>
+                            
+                            
+                            <div class="fl-description">
+                                <p>
+                                    In einem volatilen Marktumfeld können gut überlegte Entscheidungen den Unterschied zwischen Erfolg und Misserfolg ausmachen. Wissen Sie, wie Sie Risiken steuern und eine robuste Governance aufbauen können? 
+                                </p>
+                            </div>
+                            <div class="fl-cta-link">
+                                
+                                
+                                    <a href="https://www.mercer.de/our-thinking/strategisch-managen-in-turbulenten-zeiten.html" target="_self" id="featuredList5ItemButton_0" onclick="s_objectID='featuredList5ItemButton_0';">
+                                        <span>Mehr erfahren  </span>
+                                        <div class="ico-right-arrow"> </div>
+                                    </a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="small-12 medium-6 large-4 cell featurelist-wrapper">
+                        <div class="fl5-container" role="banner">
+                            <div class="fl-kicker-title">
+                                <span>Virtuelle Veranstaltungsreihe</span>
+                            </div>
+                            <div class="fl-title">
+                                <a href="https://human-works.de" target="_blank" id="featuredList5Item_1" onclick="s_objectID='featuredList5Item_1';">
+                                    <span>Human Work/s Talks 2020</span>
+                                </a>
+                                
+                            </div>
+                            
+                                <a href="https://human-works.de" target="_blank" id="featuredList5ItemImage_1" onclick="s_objectID='featuredList5ItemImage_1';">
+
+                                    <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/de-2020-digitalization-human-works-talks.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg');">
+                                    </div>
+
+                                </a>
+                            
+                            
+                            <div class="fl-description">
+                                <p>
+                                    Last but not least - der letzte Human Work/s Talk in diesem Jahr steht an. Am 28. Oktober 2020 geht es um das Thema Digitalization. Ist Virtual Collaboration das neue Normal? 
+                                </p>
+                            </div>
+                            <div class="fl-cta-link">
+                                
+                                
+                                    <a href="https://human-works.de" target="_blank" id="featuredList5ItemButton_1" onclick="s_objectID='featuredList5ItemButton_1';">
+                                        <span>Jetzt anmelden! </span>
+                                        <div class="ico-right-arrow"> </div>
+                                    </a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="small-12 medium-6 large-4 cell featurelist-wrapper">
+                        <div class="fl5-container" role="banner">
+                            <div class="fl-kicker-title">
+                                <span>Let's talk about</span>
+                            </div>
+                            <div class="fl-title">
+                                <a href="https://app.keysurvey.com/f/41515042/55da/" target="_blank" id="featuredList5Item_2" onclick="s_objectID='featuredList5Item_2';">
+                                    <span>Talent Trends</span>
+                                </a>
+                                
+                            </div>
+                            
+                                <a href="https://app.keysurvey.com/f/41515042/55da/" target="_blank" id="featuredList5ItemImage_2" onclick="s_objectID='featuredList5ItemImage_2';">
+
+                                    <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/social-media/us-2020-gradient_bluetoturquoise-1007649498-1200x630.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg');">
+                                    </div>
+
+                                </a>
+                            
+                            
+                            <div class="fl-description">
+                                <p>
+                                    Wie beeinflussen Innovation und Empathie Ihr neues Normal und Ihre HR-Strategie? Nehmen Sie bis zum 18.10. an der Global Talent Trends Studie 2021 teil (in Englisch).
+
+                                </p>
+                            </div>
+                            <div class="fl-cta-link">
+                                
+                                
+                                    <a href="https://app.keysurvey.com/f/41515042/55da/" target="_blank" id="featuredList5ItemButton_2" onclick="s_objectID='featuredList5ItemButton_2';">
+                                        <span>Jetzt teilnehmen </span>
+                                        <div class="ico-right-arrow"> </div>
+                                    </a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+
+        </div>
+    </div>
+		
+	
+
+<script src="//players.brightcove.net/4710676951001/ryzRR500_default/index.min.js"></script>
+</div>
+<div class="card1 aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="card1 variation13  " style="background-color: #F6F7F9">
+    <div class="grid-container fluid">
+        <h2 class="content-heading" style="color: ">Unsere Lösungen</h2>
+        <div class="content-wrap">
+            <div class="grid-x">
+                
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/health-and-benefits.html" target="_self" title="Mehr" id="card1Var13_0" onclick="s_objectID='card1Var13_0';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/icon-apple-green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="Betriebliches Gesundheits"/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Health & Benefits</div>
+                                <div class="card-description"><p>Wir unterstützen Sie bei der effektiven Gestaltung und Umsetzung von betrieblichen Krankenversicherungen sowie Flexiblen Benefits/Caféteria-Systemen.</p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/wealth-and-investments.html" target="_self" title="Mehr" id="card1Var13_1" onclick="s_objectID='card1Var13_1';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/icon-compass-green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="Aktuarielle Dienstleistun"/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Wealth </div>
+                                <div class="card-description"><p>Wir beraten zu allen Fragen rund um die betriebliche Altersversorgung und unterstützen Sie mit umfassenden Dienstleistungen.</p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/wealth-and-investments.html" target="_self" title="Mehr" id="card1Var13_2" onclick="s_objectID='card1Var13_2';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/icon-acorn-green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="Unterstützung "/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Investments</div>
+                                <div class="card-description"><p>Wir beraten institutionelle Investoren in allen Phasen des Investment-Prozesses und unterstützen Sie, die beste Investmentstrategie für die Zukunft zu identifizieren.</p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/workforce-and-careers/strategisches-hr-management.html" target="_self" title="Mehr" id="card1Var13_3" onclick="s_objectID='card1Var13_3';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/icon-signpost-green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="HR-Management"/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Strategisches HR-Management</div>
+                                <div class="card-description"><p>Wir unterstützen Sie bei der Entwicklung und Umsetzung zukunftsorientierter, innovativer und strategisch bedeutungsvoller HR-Konzepte. </p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/workforce-and-careers.html" target="_self" title="Mehr" id="card1Var13_4" onclick="s_objectID='card1Var13_4';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/australia/icons_rebrand_2020_256px/Pawn-Green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="Entsendungen"/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Workforce & Karriere</div>
+                                <div class="card-description"><p>Wir verstehen HR-Verantwortliche als wertvolle Business Partner. Entdecken Sie die vielfältigen Bereiche, in denen wir Sie bei diesem Ziel unterstützen. </p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                        <div class="small-12 medium-6 large-4 cell card-content-wrapper">
+                            <a class="icon-card-wrapper" href="https://www.mercer.de/what-we-do/mergers-and-acquisitions.html" target="_self" title="Mehr" id="card1Var13_5" onclick="s_objectID='card1Var13_5';">
+                                <div class="card-img" role="banner">
+                                    <img loading="lazy" src="/content/dam/mercer/assets/brandimages/icon-people-green.png/_jcr_content/renditions/cq5dam.thumbnail.140.100.png" alt="Developing meaningful emp"/>
+                                </div>
+
+                                <div class="card-title" style="color: ">Mergers & Acquisitions </div>
+                                <div class="card-description"><p>We help you to address people-related risks as well as drive profitable growth and optimize performance across all phases of the deal life cycle. </p>
+
+
+</div>
+                                
+                                    <div class="card-cta">
+                                        <span>Mehr</span>
+                                        <div class="arrow-icon"></div>
+                                    </div>
+                                
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="featuredList5 aem-GridColumn aem-GridColumn--default--12">
+
+
+	
+	
+    <div class="featuredList5 variation2">
+        <div class="grid-container fluid">
+            <h4 class="component-main-heading"> Mehr entdecken </h4>
+            <div class="content-wrap">
+                <div class="grid-x owl-carousel">
+                    
+                        <div class="small-12 medium-6 large-3 cell">
+                            <div class="fl5-container" role="banner">
+                                
+                                    <a href="https://www.mercer.de/events/mercer-jahrestagungen-zur-bav-2020.html" target="_self" id="featuredList5V2ItemImage_0" onclick="s_objectID='featuredList5V2ItemImage_0';">
+                                        <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/2020-de-dax-30-cover.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png');">
+                                        </div>
+                                    </a>
+                                
+                                
+                                <div class="fl-kicker-title">
+                                    <span>Jetzt kostenfrei anmelden</span>
+                                </div>
+                                <div class="fl-title">
+                                    
+                                        <a href="https://www.mercer.de/events/mercer-jahrestagungen-zur-bav-2020.html" target="_self" id="featuredList5V2Item_0" onclick="s_objectID='featuredList5V2Item_0';">
+                                            <span>Mercer Jahrestagungen 2020</span>
+                                        </a>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="small-12 medium-6 large-3 cell">
+                            <div class="fl5-container" role="banner">
+                                
+                                    <a href="https://www.mercer.de/our-thinking/strategien-fuer-die-bav-strategisch-managen-in-turbulenten-zeiten.html" target="_blank" id="featuredList5V2ItemImage_1" onclick="s_objectID='featuredList5V2ItemImage_1';">
+                                        <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/2020-de-new-teaser-image.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png');">
+                                        </div>
+                                    </a>
+                                
+                                
+                                <div class="fl-kicker-title">
+                                    <span>Jetzt Report herunterladen</span>
+                                </div>
+                                <div class="fl-title">
+                                    
+                                        <a href="https://www.mercer.de/our-thinking/strategien-fuer-die-bav-strategisch-managen-in-turbulenten-zeiten.html" target="_blank" id="featuredList5V2Item_1" onclick="s_objectID='featuredList5V2Item_1';">
+                                            <span>So optimieren Sie Ihre bAV-Strategie</span>
+                                        </a>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="small-12 medium-6 large-3 cell">
+                            <div class="fl5-container" role="banner">
+                                
+                                    <a href="https://www.mercer.de/our-thinking/european-asset-allocation-survey-strategisch-managen-in-turbulenten-zeiten.html" target="_self" id="featuredList5V2ItemImage_2" onclick="s_objectID='featuredList5V2ItemImage_2';">
+                                        <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/2020-de-Niedrigzinsumfeld.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png');">
+                                        </div>
+                                    </a>
+                                
+                                
+                                <div class="fl-kicker-title">
+                                    <span>Aktuelle Asset Allocation Survey </span>
+                                </div>
+                                <div class="fl-title">
+                                    
+                                        <a href="https://www.mercer.de/our-thinking/european-asset-allocation-survey-strategisch-managen-in-turbulenten-zeiten.html" target="_self" id="featuredList5V2Item_2" onclick="s_objectID='featuredList5V2Item_2';">
+                                            <span>Investoren setzen auf ESG-Faktoren</span>
+                                        </a>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="small-12 medium-6 large-3 cell">
+                            <div class="fl5-container" role="banner">
+                                
+                                    <a href="https://www.mercer.de/our-thinking/das-corona-risiko-managen.html" target="_self" id="featuredList5V2ItemImage_3" onclick="s_objectID='featuredList5V2ItemImage_3';">
+                                        <div class="fl-image" style="background-image:url('/content/dam/mercer/assets/content-images/2020-de-covid-teaser.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png');">
+                                        </div>
+                                    </a>
+                                
+                                
+                                <div class="fl-kicker-title">
+                                    <span>Das Risiko managen</span>
+                                </div>
+                                <div class="fl-title">
+                                    
+                                        <a href="https://www.mercer.de/our-thinking/das-corona-risiko-managen.html" target="_self" id="featuredList5V2Item_3" onclick="s_objectID='featuredList5V2Item_3';">
+                                            <span>Updates zum Coronavirus </span>
+                                        </a>
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                </div>
+                <!-- following video div is repeated to solve slider video modal -->
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            </div>
+        </div>
+    </div>	
+	
+
+<script src="//players.brightcove.net/4710676951001/ryzRR500_default/index.min.js"></script>
+</div>
+<div class="testimonial3 aem-GridColumn aem-GridColumn--default--12">
+
+
+
+
+<div class="testimonial-three">
+	<div class="pullQuoteDiv divHeight">
+		
+
+		
+		
+			<section class="statement future-of-work gradient-blue-green">
+	<div class="quote-content">
+		<div class="quatation">
+			
+			
+		</div>
+	</div>
+	<div class="wow none" data-wow-delay="ms">
+		<p><p style="text-align: center;"><span class="statementBold">Bereit, besser zu leben,&nbsp;</span></p>
+<p style="text-align: center;"><span class="statementBold">besser zu arbeiten?</span></p>
+<p style="text-align: center;"><span class="statementRegular">Sprechen Sie mit einem unserer Berater. </span></p>
+</p>
+		<div class="testimonial_btn">
+			<div>
+
+
+
+	<div class="button1-container
+		button1-container--center">
+		<a href="https://www.mercer.de/kontakt.html" title="Kontakt aufnehmen" class="button1 button    rectangle normal" style="color: #007BB7;
+				 background-color: #fff;
+				 border-color: ;" target="_self" id="button1Link" onclick="s_objectID='button1Link';">Kontakt aufnehmen</a>
+	
+	</div>
+
+
+</div>
+		</div>
+	</div>
+</section>
+		
+	</div>
+</div>
+</div>
+
+    
+</div>
+</div>
+<div class="footer iparsys parsys">
+
+
+
+
+    
+        
+        
+        <div class="footer2">
+
+    
+
+<div class="footer variation-1">
+    <div class="grid-container fluid">
+        <div class="grid-x grid-margin-x align-justify">
+            <div class="cell small-12 medium-6 large-6">
+                
+            </div>
+
+            
+
+
+        </div>
+        <!-- /* This is where the data collected in the multifields is being listed in the four columns of the component*/ -->
+
+        <div class="grid-x grid-margin-x margin-horizontal-2 footer-main-links">
+            
+                
+
+
+                    
+                    
+                    
+
+                    
+
+                    <div class="cell small-12 medium-12 large-5 margin-horizonta--1">
+                        
+                            <div class="footer-logo">
+                                <a href="#" target="_self" id="footer2logoImage" onclick="s_objectID='footer2logoImage';">
+                                    <img src="/etc/designs/mercer/relaunch/common/clientlibs/img/Revamp/logo-marsh.png" alt="Marsh &amp; McLennan Companies"/>
+                                </a>
+                            </div>
+                        
+                        
+                        
+                        <ul class="footer-list-link">
+                            
+                                
+                                    <li class="cell auto" title="Guy Carpenter">
+                                        <a href="http://www.guycarp.com/" target="_blank" id="footer2subLinkItem_0" onclick="s_objectID='footer2subLinkItem_0';">Guy Carpenter</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Marsh">
+                                        <a href="https://www.marsh.com/" target="_blank" id="footer2subLinkItem_1" onclick="s_objectID='footer2subLinkItem_1';">Marsh</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Mercer">
+                                        <a href="https://www.mercer.com/" target="_blank" id="footer2subLinkItem_2" onclick="s_objectID='footer2subLinkItem_2';">Mercer</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Oliver Wyman">
+                                        <a href="https://www.oliverwyman.com" target="_blank" id="footer2subLinkItem_3" onclick="s_objectID='footer2subLinkItem_3';">Oliver Wyman</a>
+                                    </li>
+                                
+                            
+                        </ul>
+                        <ul class="footer__list--divided child-menu-ul">
+                            
+
+
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                            
+                        </ul>
+
+                    </div>
+                
+
+
+                    
+                    
+                    
+
+                    
+
+                    <div class="cell small-12 medium-6 large-4 margin-horizonta--1">
+                        
+                        
+                        
+                            <h4 class="footer-list-header">Mercer Deutschland</h4>
+                        
+                        <ul class="footer-list-link">
+                            
+                                
+                                    <li class="cell auto" title="Events">
+                                        <a href="https://www.mercer.de/events.html" target="_self" id="footer2subLinkItem_0" onclick="s_objectID='footer2subLinkItem_0';">Events</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Voice on Growth">
+                                        <a href="https://voice-on-growth.mercer.com/" target="_blank" id="footer2subLinkItem_1" onclick="s_objectID='footer2subLinkItem_1';">Voice on Growth</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Presse">
+                                        <a href="https://www.mercer.de/newsroom.html" target="_blank" id="footer2subLinkItem_2" onclick="s_objectID='footer2subLinkItem_2';">Presse</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Karriere">
+                                        <a href="https://www.mercer.de/mercer-careers.html" target="_self" id="footer2subLinkItem_3" onclick="s_objectID='footer2subLinkItem_3';">Karriere</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Standorte">
+                                        <a href="https://www.mercer.de/about-us/locations.html" target="_self" id="footer2subLinkItem_4" onclick="s_objectID='footer2subLinkItem_4';">Standorte</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Kontakt">
+                                        <a href="https://www.mercer.de/kontakt.html" target="_self" id="footer2subLinkItem_5" onclick="s_objectID='footer2subLinkItem_5';">Kontakt</a>
+                                    </li>
+                                
+                            
+                                
+                                    <li class="cell auto">
+                                        <a id="footer2subLinkItem_0" onclick="s_objectID='footer2subLinkItem_0';"></a>
+                                    </li>
+                                
+                                    <li class="cell auto">
+                                        <a id="footer2subLinkItem_1" onclick="s_objectID='footer2subLinkItem_1';"></a>
+                                    </li>
+                                
+                                    <li class="cell auto">
+                                        <a id="footer2subLinkItem_2" onclick="s_objectID='footer2subLinkItem_2';"></a>
+                                    </li>
+                                
+                            
+                        </ul>
+                        <ul class="footer__list--divided child-menu-ul">
+                            
+
+
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                            
+
+
+                                
+
+                                    
+
+                                        <li><a href="https://www.mercer.de/impressum.html" target="_self" id="footer2multiLinkItem_0" onclick="s_objectID='footer2multiLinkItem_0';">Impressum</a></li>
+
+                                    
+                                
+
+                                    
+
+                                        <li><a href="https://www.mercer.de/privacy.html" target="_self" id="footer2multiLinkItem_1" onclick="s_objectID='footer2multiLinkItem_1';">Privacy</a></li>
+
+                                    
+                                
+
+                                    
+
+                                        <li><a href="https://www.mercer.de/terms.html" target="_self" id="footer2multiLinkItem_2" onclick="s_objectID='footer2multiLinkItem_2';">Terms</a></li>
+
+                                    
+                                
+
+                            
+                        </ul>
+
+                    </div>
+                
+
+
+                    
+                    
+                    
+
+                    
+
+                    <div class="cell small-12 medium-6 large-3 margin-horizonta--1">
+                        
+                        
+                        
+                            <h4 class="footer-list-header">Lines of Business</h4>
+                        
+                        <ul class="footer-list-link">
+                            
+                                
+                                    <li class="cell auto" title="Career">
+                                        <a href="https://www.mercer.de/about-mercer/lines-of-business/talent.html" target="_self" id="footer2subLinkItem_0" onclick="s_objectID='footer2subLinkItem_0';">Career</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Health and Benefits">
+                                        <a href="https://www.mercer.de/about-mercer/lines-of-business/health-and-benefits.html" target="_self" id="footer2subLinkItem_1" onclick="s_objectID='footer2subLinkItem_1';">Health and Benefits</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Retirement">
+                                        <a href="https://www.mercer.de/about-mercer/lines-of-business/retirement.html" target="_self" id="footer2subLinkItem_2" onclick="s_objectID='footer2subLinkItem_2';">Retirement</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Investments">
+                                        <a href="https://www.mercer.de/about-mercer/lines-of-business/investments.html" target="_self" id="footer2subLinkItem_3" onclick="s_objectID='footer2subLinkItem_3';">Investments</a>
+                                    </li>
+                                
+                                    <li class="cell auto" title="Mergers and Acquisitions">
+                                        <a href="https://www.mercer.de/about-mercer/lines-of-business/mergers-and-acquisitions.html" target="_self" id="footer2subLinkItem_4" onclick="s_objectID='footer2subLinkItem_4';">Mergers and Acquisitions</a>
+                                    </li>
+                                
+                            
+                        </ul>
+                        <ul class="footer__list--divided child-menu-ul">
+                            
+
+
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                                    
+                                
+
+                            
+                        </ul>
+
+                    </div>
+                
+        </div>
+        <div class="grid-x grid-margin-x margin-horizontal-2 bottom-navigation-row">
+            <div class="cell small-12 medium-12 large-12">
+                <div class="border-top-1"></div>
+            </div>
+            
+                <div class="cell small-12 medium-12 large-6">
+                    <ul class="footer-bottom-left-menu">
+                        
+                            
+                        
+                            
+                        
+                    </ul>
+                </div>
+                <div class="cell small-12 medium-12 large-6">
+                    <ul class="footer-bottom-right-menu">
+                        
+                            
+                        
+                            
+                        
+                    </ul>
+                </div>
+
+
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="copyright-text"> &#169; 2020 Mercer LLC, All Rights Reserved</div>
+        <div class="logo-bottom-footer">
+            <img src="/etc/designs/mercer/relaunch/common/clientlibs/img/Revamp/logo-marsh.png"/>
+        </div>
+    </div>
+
+</div>
+	
+	
+	</div>
+
+    
+        
+        
+        <div class="tealiumAnalyticsDataLayer">
+
+
+<script type="application/javascript">
+	
+var formId = "";
+if($('form[id^="mktoForm_"]').length){
+	formId = $('form[id^="mktoForm_"]').attr('id');
+}
+	var utag_data = {
+	    "campaign":"",
+		 "server_error_name":"",
+		  "action_error_name":"",
+		  "line_of_business":"",
+		  "tags":"English~Global",
+		  "brand":"",
+		  "site":"www.mercer.de",
+		  "country":"Germany",
+		  "country_id":"de", 
+		  "language":"de",
+		  "aem_template":"/templates/mercer-home-page-template",
+		  "author_name":"",
+		  "page_name":"German",
+		  "onsite_search_term":"",
+		  "onsite_search_results":"",
+		  "page_type":"Home Page",
+		  "primary_category":"",
+		  "sub_category1":"",
+		  "sub_category2":"",
+		  "sub_category3":"",
+		  "search_refinement":"",
+		  "search_filter":"",
+		  "search_method":"",
+		  "email_id":"", // ecommerce
+	  	  "time_stamp":"", // ecommerce
+	  	  "payment_type":"", // ecommerce
+	  	  "product_id":"", // ecommerce
+	  	  "error_code":"", // ecommerce
+	  	  "error_cause":"", // ecommerce
+	  	  "download_type":"",  // ecommerce
+	  	  "tag":"",//tag search tag
+	  	  "search_results":"", // tag search search results
+	  	  "name":"", // Download name 
+	  	  "form_id": formId,
+	  	  "campaign_id": "",
+	  	  
+	};
+
+
+</script> </div>
+
+    
+        
+        
+        <div class="codeInput"> 
+
+	<script>
+var child=document.createElement("li");
+child.setAttribute("class","cell auto");
+child.setAttribute("id","teconsent");
+0<document.getElementsByClassName("footer-list-link").length&&document.getElementsByClassName("footer-list-link")[1].appendChild(child);
+</script>
+<!-- To be taken care in tealium since the tealium trust arc tag does not have privacy policy link had to add it in authoring -->
+<div id="consent_blackbar" class="consentblackbar"></div>
+<style>
+.consentblackbar {
+    width: 95%;
+    margin: 0 2.5%;
+    background: rgba(2,33,82,0.9);
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 3147483647;
+}
+</style>
+
+</div>
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+</div>
+
+            
+    
+    
+<!--<sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html">-->
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-dependencies.min.js"></script>
+
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/mercer-sites/clientlibs/clientlib-base.min.js"></script>
+
+
+
+
+    <div class="cloudservice generictracker">
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51340447-1', 'mercer.de');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+/**
+* Function that tracks a click on an outbound link in Google Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+     function () {
+          
+     }
+   });
+}
+</script>
+<script type="text/javascript">
+  _bizo_data_partner_id = "7662";
+</script>
+<script type="text/javascript">
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=7662&fmt=gif"/>
+</noscript>
+<script>
+(function(d,b,a,s,e){ var t = b.createElement(a),
+    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e; t.src=s;
+    fs.parentNode.insertBefore(t, fs); })
+(window,document,'script','https://scripts.demandbase.com/muGZc1pV.min.js','demandbase_js_lib');
+</script>
+<script type="text/javascript"> _linkedin_partner_id = "1860698"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> 
+<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1860698&fmt=gif"/> </noscript>
+<script defer async type="text/javascript"> document.write(unescape("%3Cscript src='" + document.location.protocol + "//munchkin.marketo.net/munchkin-beta.js' type='text/javascript'%3E%3C/script%3E")); </script> <script>Munchkin.init('521-DEV-513');</script><script type="text/javascript">
+    </script>
+</div>
+<script type="text/javascript"></script>
+
+    
+
+    
+
+            
+
+        
+    </body>
+</html>

@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://dailyasset.ng/xmlrpc.php">
+
+<!-- Optimized by SG Optimizer plugin version - 5.6.5 -->
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home Page ~ Daily Asset Online</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://dailyasset.ng/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home Page ~ Daily Asset Online" />
+	<meta property="og:url" content="https://dailyasset.ng/" />
+	<meta property="og:site_name" content="Daily Asset Online" />
+	<meta property="article:publisher" content="https://web.facebook.com/dailyassetnewspaper/" />
+	<meta property="article:modified_time" content="2019-08-01T10:07:40+00:00" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@DailyAssetNG" />
+	<meta name="twitter:site" content="@DailyAssetNG" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://dailyasset.ng/#organization","name":"Daily Asset Newspapers","url":"https://dailyasset.ng/","sameAs":["https://web.facebook.com/dailyassetnewspaper/","https://www.linkedin.com/in/dailyasset/","https://www.linkedin.com/in/dailyasset/","https://twitter.com/DailyAssetNG"],"logo":{"@type":"ImageObject","@id":"https://dailyasset.ng/#logo","inLanguage":"en-US","url":"","caption":"Daily Asset Newspapers"},"image":{"@id":"https://dailyasset.ng/#logo"}},{"@type":"WebSite","@id":"https://dailyasset.ng/#website","url":"https://dailyasset.ng/","name":"Daily Asset Online","description":"Truth Is Treasure","publisher":{"@id":"https://dailyasset.ng/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://dailyasset.ng/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://dailyasset.ng/#primaryimage","inLanguage":"en-US","url":""},{"@type":"WebPage","@id":"https://dailyasset.ng/#webpage","url":"https://dailyasset.ng/","name":"Home Page ~ Daily Asset Online","isPartOf":{"@id":"https://dailyasset.ng/#website"},"about":{"@id":"https://dailyasset.ng/#organization"},"primaryImageOfPage":{"@id":"https://dailyasset.ng/#primaryimage"},"datePublished":"2019-05-17T23:44:11+00:00","dateModified":"2019-08-01T10:07:40+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://dailyasset.ng/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Daily Asset Online &raquo; Feed" href="https://dailyasset.ng/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Asset Online &raquo; Comments Feed" href="https://dailyasset.ng/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dailyasset.ng\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-five-css-css'  href='https://dailyasset.ng/wp-content/plugins/accesspress-social-counter/css/fontawesome-all.css?ver=1.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='apsc-frontend-css-css'  href='https://dailyasset.ng/wp-content/plugins/accesspress-social-counter/css/frontend.css?ver=1.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://dailyasset.ng/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='https://dailyasset.ng/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vmag-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C400italic%2C300%7CRoboto%3A400%2C500%2C700%2C300%2C400italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vmag-style-css'  href='https://dailyasset.ng/wp-content/themes/vmag/style.css?ver=1.1.6' type='text/css' media='all' />
+<style id='vmag-style-inline-css' type='text/css'>
+
+                .site-content .vmag-newsticker-wrapper ul li a:hover,
+                .widget h4.block-title a:hover,
+                .site-header .main-navigation ul li ul li a:hover,
+                h3 a:hover, .widget .single-post .post-meta a:hover,
+                .block-header .view-all a:hover,
+                .site-footer a:hover,
+                .post-meta a:hover, .entry-meta a:hover,
+                #primary .entry-footer a:hover,
+                #vmag-breadcrumbs span a:hover,
+                .entry-meta .cat-links:hover,
+                .archive .tags-links a:hover,
+                .single-post .tags-links a:hover,
+                .search .tags-links a:hover,
+                .blog .tags-links a:hover,
+                .post-navigation .nav-links .nav-previous a:hover,
+                .post-navigation .nav-links .nav-next a:hover,
+                #primary .vmag-author-metabox .author-desc-wrapper a.author-title:hover,
+                #primary .vmag-author-metabox .author-desc-wrapper a:hover,
+                .widget_recent_entries li a:hover, .widget_archive li a:hover,
+                .widget_categories li a:hover, .widget_meta li a:hover,
+                .widget_recent_comments li a:hover, .vmag-footer-widget .menu li a:hover{
+                    color: #4db2ec;
+                }
+                .vmag-top-header,
+                .site-content .vmag-newsticker-wrapper .vmag-ticker-caption span,
+                .widget .single-post .post-meta span.comments-count a,
+                .vmag_categories_tabbed ul li.active a,
+                .vmag_categories_tabbed ul li:hover a,
+                span.format-icon:hover,
+                #scroll-up:hover,
+                .archive .vmag-archive-more:hover,
+                .search .vmag-archive-more:hover,
+                .blog .vmag-archive-more:hover,
+                .pagination .nav-links span.current,
+                .pagination .nav-links span:hover,
+                .pagination .nav-links a:hover,
+                #primary .comments-area .form-submit input[type=submit],
+                .site-header .main-navigation .vmag-search-form-primary.search-in .search-form .search-submit:hover,
+                .widget.vmag_category_posts_slider .lSSlideOuter ul.lSPager.lSpg > li.active a,
+                .widget.vmag_category_posts_slider .lSSlideOuter ul.lSPager.lSpg > li a:hover,
+                #secondary .widget_search input.search-submit:hover{
+                    background: #4db2ec;
+                }
+                #secondary .widget_search input.search-submit{
+                    background: #71c1f0;
+                }
+                .nav-wrapper .current-menu-item a:before,
+                .nav-wrapper .current-menu-ancestor a:before,
+                .site-header .main-navigation li a:hover:before,
+                .site-header .main-navigation ul li ul li a:hover,
+                .vmag_categories_tabbed ul,
+                .archive .vmag-archive-more:hover,
+                .search .vmag-archive-more:hover,
+                .blog .vmag-archive-more:hover,
+                .pagination .nav-links span.current,
+                .pagination .nav-links span:hover,
+                .pagination .nav-links a:hover,
+                .site-header .main-navigation .vmag-search-form-primary .search-form{
+                    border-color: #4db2ec; 
+                }
+                .widget .single-post .post-meta span.comments-count a:before{
+                   border-color: #4db2ec transparent transparent; 
+                }
+                @media (max-width: 1004px){
+                    .nav-toggle span,
+                    .sub-toggle, .sub-toggle-children{
+                        background: #4db2ec !important;
+                    }
+
+                    .site-header .main-navigation li a:hover{
+                        color: #4db2ec !important;
+                    }
+
+                    .site-header .main-navigation li a:hover{
+                        border-color: #4db2ec !important;
+                    }
+                }
+</style>
+<link rel='stylesheet' id='lightslider-style-css'  href='https://dailyasset.ng/wp-content/themes/vmag/css/lightslider.css?ver=1.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://dailyasset.ng/wp-content/themes/vmag/css/font-awesome.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='https://dailyasset.ng/wp-content/themes/vmag/css/animate.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vmag-responsive-style-css'  href='https://dailyasset.ng/wp-content/themes/vmag/css/responsive.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_facebook_likebox-css'  href='https://c0.wp.com/p/jetpack/8.9/modules/widgets/facebook-likebox/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.9/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' id='ahc_front_js-js-extra'>
+/* <![CDATA[ */
+var ahc_ajax_front = {"ajax_url":"https:\/\/dailyasset.ng\/wp-admin\/admin-ajax.php","page_id":"37","page_title":"Home Page","post_type":"page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js?ver=5.5.1' id='ahc_front_js-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://dailyasset.ng/wp-json/" /><link rel="alternate" type="application/json" href="https://dailyasset.ng/wp-json/wp/v2/pages/37" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dailyasset.ng/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dailyasset.ng/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://wp.me/P8RfkW-B' />
+<link rel="alternate" type="application/json+oembed" href="https://dailyasset.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdailyasset.ng%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dailyasset.ng/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdailyasset.ng%2F&#038;format=xml" />
+
+<!-- This site is using AdRotate v5.8.7 to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"YGWEq1zDGU20kU", domain:"dailyasset.ng",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=YGWEq1zDGU20kU" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Analytics by WP-Statistics v12.6.13 - https://wp-statistics.com/ -->
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<script src="https://galleria.com.ng/inc/adsbygalleria.js"></script><link rel="icon" href="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/favicon.ico.jpg?fit=16%2C16&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/favicon.ico.jpg?fit=16%2C16&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/favicon.ico.jpg?fit=16%2C16&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/favicon.ico.jpg?fit=16%2C16&#038;ssl=1" />
+	
+		
+	<script data-ad-client="ca-pub-5951323400965275" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+	
+</head>
+
+<body class="home page-template page-template-templates page-template-home-template page-template-templateshome-template-php page page-id-37 wp-custom-logo wp-embed-responsive group-blog fullwidth_layout right-sidebar">
+
+<div id="page" class="site">
+		<div class="vmag-top-header clearfix">
+		<div class="vmag-container">
+						<div class="vmag-current-date">Wednesday, October 14, 2020</div>
+			<nav id="top-site-navigation" class="top-navigation" role="navigation">
+							</nav><!-- #site-navigation -->
+		</div>
+	</div><!-- .vmag-top-header -->
+	<header id="masthead" class="site-header" role="banner">
+		<div class="logo-ad-wrapper clearfix">
+			<div class="vmag-container">
+				<div class="site-branding">
+					
+					<a href="https://dailyasset.ng/" class="custom-logo-link" rel="home" aria-current="page"><img width="356" height="90" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?fit=356%2C90&amp;ssl=1" class="custom-logo" alt="Daily Asset Online" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?w=356&amp;ssl=1 356w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?resize=300%2C76&amp;ssl=1 300w" sizes="(max-width: 356px) 100vw, 356px" data-attachment-id="1393" data-permalink="https://dailyasset.ng/cropped-dailyasset-logo400xi-jpg/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?fit=356%2C90&amp;ssl=1" data-orig-size="356,90" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-DailyAsset-Logo400xi.jpg" data-image-description="&lt;p&gt;https://dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?fit=300%2C76&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/cropped-DailyAsset-Logo400xi.jpg?fit=356%2C90&amp;ssl=1" /></a>
+					<div class="site-title-wrapper">
+													<p class="site-title"><a href="https://dailyasset.ng/" rel="home">Daily Asset Online</a></p>
+													<p class="site-description">Truth Is Treasure</p>
+											</div>
+				</div><!-- .site-branding -->
+				<div class="header-ad-wrapper">
+									</div><!-- .header-ad-wrapper -->
+			</div><!-- .vmag-container -->
+		</div><!-- .logo-ad-wrapper -->
+		<div class="vmag-container">			
+			<nav id="site-navigation" class="main-navigation clearfix" role="navigation">
+				<div class="nav-wrapper">
+					<div class="nav-toggle hide">
+		                <span> </span>
+		                <span> </span>
+		                <span> </span>
+		            </div>
+					<div class="menu-main-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-46"><a href="https://dailyasset.ng/category/news/">NEWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="https://dailyasset.ng/category/cover/">COVER</a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47"><a href="https://dailyasset.ng/category/news/interviews/">Education</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="https://dailyasset.ng/category/news/foreign-news/">Foreign News</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-45"><a href="https://dailyasset.ng/category/health/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-50"><a href="https://dailyasset.ng/category/politics/">POLITICS</a>
+<ul class="sub-menu">
+	<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="https://dailyasset.ng/category/politics/analysis/">Analysis</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="https://dailyasset.ng/category/politics/interviews-politics/">Interviews</a></li>
+</ul>
+</li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-27"><a href="https://dailyasset.ng/category/business/">BUSINESS</a>
+<ul class="sub-menu">
+	<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="https://dailyasset.ng/category/business/agriculture/">Agriculture</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://dailyasset.ng/category/business/aviation/">Aviation</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="https://dailyasset.ng/category/business/business-analysis/">Business Analysis</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://dailyasset.ng/category/business/business-news/">Business News</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://dailyasset.ng/category/business/economy/">Economy</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="https://dailyasset.ng/category/business/infotech/">InfoTech</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="https://dailyasset.ng/category/business/oil-gas/">Oil &#038; Gas</a></li>
+</ul>
+</li>
+<li id="menu-item-64" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-64"><a href="https://dailyasset.ng/category/features/">FEATURES</a>
+<ul class="sub-menu">
+	<li id="menu-item-65" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65"><a href="https://dailyasset.ng/category/features/people/">People</a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="https://dailyasset.ng/category/features/royalty/">Royalty</a></li>
+</ul>
+</li>
+<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49"><a href="https://dailyasset.ng/category/editorial/">EDITORIAL</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-60"><a href="https://dailyasset.ng/category/columnists/">COLUMNISTS</a>
+<ul class="sub-menu">
+	<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="https://dailyasset.ng/category/columnists/faith-matters/">FAITH MATTERS</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="https://dailyasset.ng/category/columnists/guest-columnist/">GUEST COLUMNIST</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="https://dailyasset.ng/category/columnists/world-panorama/">WORLD PANORAMA</a></li>
+</ul>
+</li>
+<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-67"><a href="https://dailyasset.ng/category/opinion/">OPINION</a>
+<ul class="sub-menu">
+	<li id="menu-item-68" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68"><a href="https://dailyasset.ng/category/opinion/perspective/">Perspective</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="https://dailyasset.ng/category/entertainment-arts-culture/">Entertainment/Arts/Culture</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69"><a href="https://dailyasset.ng/category/stylewomen/">STYLE/WOMEN</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31"><a href="https://dailyasset.ng/category/sports/">SPORTS</a></li>
+<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-163"><a href="https://dailyasset.ng/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-162"><a href="https://dailyasset.ng/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+</ul></div>				</div><!-- .nav-wrapper -->
+				<div class="icons-wrapper clearfix">
+										<span class="icon-search vmag-search-in-primary"></span>
+										                <a href="https://dailyasset.ng/nigerian-army-graduates-special-forces-personnel-at-jaji/" class="icon-random" title="View a random post"></a>
+    				</div><!-- .icons-wrapper -->
+										<div class="vmag-search-form-primary"><form role="search" method="get" class="search-form" action="https://dailyasset.ng/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div>
+							</nav><!-- #site-navigation -->
+
+		</div><!-- .vmag-container -->
+	</header><!-- #masthead -->
+			<div id="content" class="site-content">
+
+		<main id="main" class="site-main" role="main">
+
+			<div class="vmag-newsticker-wrapper">
+				<div class="vmag-container">
+							<div class="vmag-ticker-caption">
+			<span>Recent News</span>
+		</div>
+<ul id="vmag-news-ticker" class="cS-hidden">					<li>
+						<div class="single-news"><a href="https://dailyasset.ng/details-of-teachers-salary-scale-other-packages-coming-soon-fg/">Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG</a></div>
+					</li>
+							<li>
+						<div class="single-news"><a href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/">RMAFC Recovers N474m Unremitted Revenue from Guiness</a></div>
+					</li>
+							<li>
+						<div class="single-news"><a href="https://dailyasset.ng/eni-takes-nigeria-to-intl-arbitration-over-oilfields-dispute/">Eni Takes Nigeria to Int’l Arbitration Over Oilfields Dispute</a></div>
+					</li>
+							<li>
+						<div class="single-news"><a href="https://dailyasset.ng/treat-drug-addiction-as-national-emergency-rep/">Treat Drug Addiction as National Emergency-Rep</a></div>
+					</li>
+							<li>
+						<div class="single-news"><a href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/">Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq</a></div>
+					</li>
+		</li>				</div>	
+			</div><!-- .vmag-newsticker-wrapper -->
+			
+			<div class="homepage-slider-section">
+				<div class="vmag-container">
+							        </div>
+			</div> <!-- .end of home slider -->
+
+			<div class="homepage-content-wrapper clearfix">
+				<div class="vmag-container">
+					<div class="vmag-main-content">
+						<section id="recent-posts-flexslider-2" class="widget recent-posts-flexslider-class">
+
+<div id="slider-wrap">
+	<div class="flexslider"
+		>
+		<ul class="slides">
+			<li style="max-height: 450px;"><a href="https://dailyasset.ng/details-of-teachers-salary-scale-other-packages-coming-soon-fg/" title="Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="367" height="286" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?fit=367%2C286&amp;ssl=1" class="full wp-post-image" alt="Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG" loading="lazy" title="Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?w=367&amp;ssl=1 367w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?resize=300%2C234&amp;ssl=1 300w" sizes="(max-width: 367px) 100vw, 367px" data-attachment-id="10994" data-permalink="https://dailyasset.ng/powerful-forces-in-education-sector-out-to-smear-my-reputation-echono/sonny-echono/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?fit=367%2C286&amp;ssl=1" data-orig-size="367,286" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sonny-Echono" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?fit=300%2C234&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?fit=367%2C286&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/" title="RMAFC Recovers N474m Unremitted Revenue from Guiness"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>RMAFC Recovers N474m Unremitted Revenue from Guiness</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="673" height="411" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?fit=673%2C411&amp;ssl=1" class="full wp-post-image" alt="RMAFC Recovers N474m Unremitted Revenue from Guiness" loading="lazy" title="RMAFC Recovers N474m Unremitted Revenue from Guiness" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?w=673&amp;ssl=1 673w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?resize=300%2C183&amp;ssl=1 300w" sizes="(max-width: 673px) 100vw, 673px" data-attachment-id="593" data-permalink="https://dailyasset.ng/rmafc-mulls-revenue-sharing-formula-review/rmfarc/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?fit=673%2C411&amp;ssl=1" data-orig-size="673,411" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="RMFARC" data-image-description="&lt;p&gt;Revenue Mobilisation Allocation and&lt;br /&gt;
+Fiscal Commission (RMAFC) is considering a revisit to the nation’s revenue&lt;br /&gt;
+sharing formula.&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?fit=300%2C183&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?fit=640%2C391&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/eni-takes-nigeria-to-intl-arbitration-over-oilfields-dispute/" title="Eni Takes Nigeria to Int’l Arbitration Over Oilfields Dispute"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Eni Takes Nigeria to Int’l Arbitration Over Oilfields Dispute</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="480" height="548" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?fit=480%2C548&amp;ssl=1" class="full wp-post-image" alt="Eni Takes Nigeria to Int’l Arbitration Over Oilfields Dispute" loading="lazy" title="Eni Takes Nigeria to Int’l Arbitration Over Oilfields Dispute" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?w=480&amp;ssl=1 480w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?resize=263%2C300&amp;ssl=1 263w" sizes="(max-width: 480px) 100vw, 480px" data-attachment-id="2165" data-permalink="https://dailyasset.ng/kebbi-jubilates-as-malami-makes-a-comeback-as-minister/abubakar-chika-malami-san-attorney-general/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?fit=480%2C548&amp;ssl=1" data-orig-size="480,548" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Abubakar-Chika-Malami-SAN-Attorney-General" data-image-description="&lt;p&gt;Abubakar Chika Malami SAN Attorney General&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?fit=263%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Abubakar-Chika-Malami-SAN-Attorney-General.jpg?fit=480%2C548&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/treat-drug-addiction-as-national-emergency-rep/" title="Treat Drug Addiction as National Emergency-Rep"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Treat Drug Addiction as National Emergency-Rep</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="673" height="659" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?fit=673%2C659&amp;ssl=1" class="full wp-post-image" alt="Treat Drug Addiction as National Emergency-Rep" loading="lazy" title="Treat Drug Addiction as National Emergency-Rep" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?w=673&amp;ssl=1 673w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?resize=300%2C294&amp;ssl=1 300w" sizes="(max-width: 673px) 100vw, 673px" data-attachment-id="827" data-permalink="https://dailyasset.ng/benue-rep-donates-four-years-salary-to-orphans-widows-others/hon-francis-ottah-agbo/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?fit=673%2C659&amp;ssl=1" data-orig-size="673,659" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Hon-Francis-Ottah-Agbo" data-image-description="&lt;p&gt;A member of the House of Representatives, representing Ado/Okpokwu/Ogbadibo Federal Constituency of Benue State, Hon. Francis Ottah Agbo&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?fit=300%2C294&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?fit=640%2C627&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/" title="Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="366" height="367" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?fit=366%2C367&amp;ssl=1" class="full wp-post-image" alt="Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq" loading="lazy" title="Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?w=366&amp;ssl=1 366w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 366px) 100vw, 366px" data-attachment-id="5438" data-permalink="https://dailyasset.ng/lassa-fever-kwara-sets-up-isolation-centre-begins-border-screening/abdulrasaq-kwara-gov/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?fit=366%2C367&amp;ssl=1" data-orig-size="366,367" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Abdulrasaq-Kwara-Gov" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?fit=366%2C367&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/reps-begin-consideration-of-2021-budget-for-2nd-reading/" title="Reps Begin Consideration of 2021 Budget for 2nd Reading"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Reps Begin Consideration of 2021 Budget for 2nd Reading</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="794" height="680" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?fit=794%2C680&amp;ssl=1" class="full wp-post-image" alt="Reps Begin Consideration of 2021 Budget for 2nd Reading" loading="lazy" title="Reps Begin Consideration of 2021 Budget for 2nd Reading" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?w=794&amp;ssl=1 794w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?resize=300%2C257&amp;ssl=1 300w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?resize=768%2C658&amp;ssl=1 768w" sizes="(max-width: 794px) 100vw, 794px" data-attachment-id="1348" data-permalink="https://dailyasset.ng/gbajabiamilas-standing-ccommittees-of-change/house-of-rep-speaker-femi-gbajabiamila-2/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?fit=794%2C680&amp;ssl=1" data-orig-size="794,680" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="House-of-Rep-Speaker-Femi-Gbajabiamila" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?fit=300%2C257&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/House-of-Rep-Speaker-Femi-Gbajabiamila.jpg?fit=640%2C548&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>IPPIS: FG Considers ASUU’s Proposed Payment Platform</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="622" height="350" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?fit=622%2C350&amp;ssl=1" class="full wp-post-image" alt="IPPIS: FG Considers ASUU’s Proposed Payment Platform" loading="lazy" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?w=622&amp;ssl=1 622w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?resize=300%2C169&amp;ssl=1 300w" sizes="(max-width: 622px) 100vw, 622px" data-attachment-id="2215" data-permalink="https://dailyasset.ng/obiano-ortom-workers-hail-ngiges-re-appointment/dr-ngige/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?fit=622%2C350&amp;ssl=1" data-orig-size="622,350" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dr-Ngige" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?fit=622%2C350&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/nigeria-records-one-death-225-new-cases-of-covid-19/" title="Nigeria Records One death, 225 New Cases of COVID-19"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Nigeria Records One death, 225 New Cases of COVID-19</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="309" height="198" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" class="full wp-post-image" alt="Nigeria Records One death, 225 New Cases of COVID-19" loading="lazy" title="Nigeria Records One death, 225 New Cases of COVID-19" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?w=309&amp;ssl=1 309w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?resize=300%2C192&amp;ssl=1 300w" sizes="(max-width: 309px) 100vw, 309px" data-attachment-id="7655" data-permalink="https://dailyasset.ng/covid-19ncdc-confirms-239-new-cases-total-infections-now-4151/ncdc-logo/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" data-orig-size="309,198" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="NCDC-LOGO" data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/fg-slates-60-sports-icons-for-honours/" title="FG Slates 60 Sports Icons for Honours"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>FG Slates 60 Sports Icons for Honours</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="253" height="253" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" class="full wp-post-image" alt="FG Slates 60 Sports Icons for Honours" loading="lazy" title="FG Slates 60 Sports Icons for Honours" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?w=253&amp;ssl=1 253w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 253px) 100vw, 253px" data-attachment-id="2129" data-permalink="https://dailyasset.ng/makinde-charges-minister-dare-to-be-good-ambassador/sunday-dare/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" data-orig-size="253,253" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sunday-Dare" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/jamb-shuts-down-seven-exam-centres-in-bayelsa/" title="JAMB Shuts Down Seven Exam Centres in Bayelsa"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>JAMB Shuts Down Seven Exam Centres in Bayelsa</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="583" height="504" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?fit=583%2C504&amp;ssl=1" class="full wp-post-image" alt="JAMB Shuts Down Seven Exam Centres in Bayelsa" loading="lazy" title="JAMB Shuts Down Seven Exam Centres in Bayelsa" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?w=583&amp;ssl=1 583w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?resize=300%2C259&amp;ssl=1 300w" sizes="(max-width: 583px) 100vw, 583px" data-attachment-id="528" data-permalink="https://dailyasset.ng/jamb-uses-175000-computers-for-2019-utme/jamb1/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?fit=583%2C504&amp;ssl=1" data-orig-size="583,504" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="jamb1" data-image-description="&lt;p&gt;JAMB Uses 175,000 Computers for 2019 UTME&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?fit=300%2C259&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?fit=583%2C504&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/fg-plans-more-airports-by-2023-sirika/" title="FG Plans  More Airports by 2023 – Sirika"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>FG Plans  More Airports by 2023 – Sirika</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="232" height="304" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?fit=232%2C304&amp;ssl=1" class="full wp-post-image" alt="FG Plans  More Airports by 2023 – Sirika" loading="lazy" title="FG Plans  More Airports by 2023 – Sirika" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?w=232&amp;ssl=1 232w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?resize=229%2C300&amp;ssl=1 229w" sizes="(max-width: 232px) 100vw, 232px" data-attachment-id="2081" data-permalink="https://dailyasset.ng/sirika-promises-to-work-with-aviation-unions-to-tackle-emerging-challenges/hadi-sirika/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?fit=232%2C304&amp;ssl=1" data-orig-size="232,304" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Hadi-Sirika" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?fit=229%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Hadi-Sirika.jpg?fit=232%2C304&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/fg-ll-not-seek-relief-for-n31trn-debt-minster/" title="FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="318" height="295" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?fit=318%2C295&amp;ssl=1" class="full wp-post-image" alt="FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster" loading="lazy" title="FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?w=318&amp;ssl=1 318w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?resize=300%2C278&amp;ssl=1 300w" sizes="(max-width: 318px) 100vw, 318px" data-attachment-id="2118" data-permalink="https://dailyasset.ng/faac-shares-n769-523bn-to-tiers-of-government-for-july/zainab-ahmed-finance/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?fit=318%2C295&amp;ssl=1" data-orig-size="318,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Zainab-Ahmed-Finance" data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?fit=300%2C278&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?fit=318%2C295&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/sanwo-olu-meets-buhari-over-anti-police-protests/" title="Sanwo-Olu Meets Buhari Over Anti-Police Protests"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Sanwo-Olu Meets Buhari Over Anti-Police Protests</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="643" height="442" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?fit=643%2C442&amp;ssl=1" class="full wp-post-image" alt="Sanwo-Olu Meets Buhari Over Anti-Police Protests" loading="lazy" title="Sanwo-Olu Meets Buhari Over Anti-Police Protests" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?w=643&amp;ssl=1 643w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?resize=300%2C206&amp;ssl=1 300w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?resize=110%2C75&amp;ssl=1 110w" sizes="(max-width: 643px) 100vw, 643px" data-attachment-id="672" data-permalink="https://dailyasset.ng/be-patient-with-sanwo-olu-lagosians-urged/governor-of-lagos-state-mr-babajide-sanwo-olu/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?fit=643%2C442&amp;ssl=1" data-orig-size="643,442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu" data-image-description="&lt;p&gt;Governor of Lagos State, Mr. Babajide Sanwo-Olu&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?fit=300%2C206&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Governor-of-Lagos-State-Mr-Babajide-Sanwo-Olu.jpg?fit=640%2C440&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/igp-creates-swat-to-replace-sars/" title="IGP Creates SWAT to Replace SARS"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>IGP Creates SWAT to Replace SARS</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="794" height="529" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?fit=794%2C529&amp;ssl=1" class="full wp-post-image" alt="IGP Creates SWAT to Replace SARS" loading="lazy" title="IGP Creates SWAT to Replace SARS" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?w=794&amp;ssl=1 794w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?resize=300%2C200&amp;ssl=1 300w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?resize=768%2C512&amp;ssl=1 768w" sizes="(max-width: 794px) 100vw, 794px" data-attachment-id="2248" data-permalink="https://dailyasset.ng/igp-seeks-international-dimensions-in-tackling-security-challenges/inspector-general-of-police-igp-mohammed-adamu/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?fit=794%2C529&amp;ssl=1" data-orig-size="794,529" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Inspector-General-of-Police-IGP-Mohammed-Adamu" data-image-description="&lt;p&gt;Inspector General of Police (IGP), Mohammed Adamu&lt;/p&gt;
+" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?fit=640%2C426&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/benue-varsity-appoints-tor-iorapuu-as-6th-vice-chancellor/" title="Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="188" height="269" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/ProfTor-Iorapuu-BSU.jpg?fit=188%2C269&amp;ssl=1" class="full wp-post-image" alt="Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor" loading="lazy" title="Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor" data-attachment-id="11192" data-permalink="https://dailyasset.ng/benue-varsity-appoints-tor-iorapuu-as-6th-vice-chancellor/proftor-iorapuu-bsu/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/ProfTor-Iorapuu-BSU.jpg?fit=188%2C269&amp;ssl=1" data-orig-size="188,269" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ProfTor-Iorapuu-BSU" data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/ProfTor-Iorapuu-BSU.jpg?fit=188%2C269&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/ProfTor-Iorapuu-BSU.jpg?fit=188%2C269&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/president-buhari-pays-tribute-to-j-p-clark/" title="Buhari Mourns Literary Giant, J.P Clark"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Buhari Mourns Literary Giant, J.P Clark</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="126" height="190" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Prpof-JP-Clark.jpg?fit=126%2C190&amp;ssl=1" class="full wp-post-image" alt="Buhari Mourns Literary Giant, J.P Clark" loading="lazy" title="Buhari Mourns Literary Giant, J.P Clark" data-attachment-id="11188" data-permalink="https://dailyasset.ng/president-buhari-pays-tribute-to-j-p-clark/prpof-jp-clark/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Prpof-JP-Clark.jpg?fit=126%2C190&amp;ssl=1" data-orig-size="126,190" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Prpof-JP-Clark," data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Prpof-JP-Clark.jpg?fit=126%2C190&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Prpof-JP-Clark.jpg?fit=126%2C190&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/disbandment-of-sars/" title="Disbandment of SARS"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Disbandment of SARS</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="800" height="445" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?fit=800%2C445&amp;ssl=1" class="full wp-post-image" alt="Disbandment of SARS" loading="lazy" title="Disbandment of SARS" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=300%2C167&amp;ssl=1 300w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=768%2C427&amp;ssl=1 768w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="146" data-permalink="https://dailyasset.ng/infrastructure-development-in-abuja/trrt-editorial/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?fit=800%2C445&amp;ssl=1" data-orig-size="800,445" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="trrt-editorial" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?fit=640%2C356&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/senate-confirms-eight-more-justices-of-supreme-court/" title="Senate Confirms Eight More Justices of Supreme Court"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Senate Confirms Eight More Justices of Supreme Court</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="417" height="277" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?fit=417%2C277&amp;ssl=1" class="full wp-post-image" alt="Senate Confirms Eight More Justices of Supreme Court" loading="lazy" title="Senate Confirms Eight More Justices of Supreme Court" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?w=417&amp;ssl=1 417w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?resize=300%2C199&amp;ssl=1 300w" sizes="(max-width: 417px) 100vw, 417px" data-attachment-id="5112" data-permalink="https://dailyasset.ng/supreme-court-suspends-hearing-of-benue-sokoto-plateau-imo-governorship-petitions/supreme-court/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?fit=417%2C277&amp;ssl=1" data-orig-size="417,277" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Supreme-court" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?fit=300%2C199&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?fit=417%2C277&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/endsars-buhari-constitutes-panel-on-police-reforms/" title="#EndSARS: Buhari Constitutes Panel on Police Reforms"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>#EndSARS: Buhari Constitutes Panel on Police Reforms</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="639" height="400" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?fit=639%2C400&amp;ssl=1" class="full wp-post-image" alt="#EndSARS: Buhari Constitutes Panel on Police Reforms" loading="lazy" title="#EndSARS: Buhari Constitutes Panel on Police Reforms" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?w=639&amp;ssl=1 639w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?resize=300%2C188&amp;ssl=1 300w" sizes="(max-width: 639px) 100vw, 639px" data-attachment-id="74" data-permalink="https://dailyasset.ng/?attachment_id=74" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?fit=639%2C400&amp;ssl=1" data-orig-size="639,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Buhari" data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?fit=300%2C188&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/05/Buhari.jpg?fit=639%2C400&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/fg-extends-suspension-of-new-electricity-tariff-by-one-week/" title="FG Extends Suspension of New Electricity Tariff by One Week"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>FG Extends Suspension of New Electricity Tariff by One Week</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="357" height="357" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?fit=357%2C357&amp;ssl=1" class="full wp-post-image" alt="FG Extends Suspension of New Electricity Tariff by One Week" loading="lazy" title="FG Extends Suspension of New Electricity Tariff by One Week" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?w=357&amp;ssl=1 357w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 357px) 100vw, 357px" data-attachment-id="4747" data-permalink="https://dailyasset.ng/enugu-port-harcourt-discos-face-nerc-sanctions-over-remittance/nerc-logo/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?fit=357%2C357&amp;ssl=1" data-orig-size="357,357" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="NERC-LOGO" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/12/NERC-LOGO.jpg?fit=357%2C357&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/sarssenate-president-commends-buhari-for-acceding-to-the-demand-of-nigerians/" title="SARS:Senate President Commends Buhari for Acceding to the Demand of Nigerians"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>SARS:Senate President Commends Buhari for Acceding to the Demand of Nigerians</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="807" height="1009" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?fit=807%2C1009&amp;ssl=1" class="full wp-post-image" alt="SARS:Senate President Commends Buhari for Acceding to the Demand of Nigerians" loading="lazy" title="SARS:Senate President Commends Buhari for Acceding to the Demand of Nigerians" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?w=807&amp;ssl=1 807w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?resize=768%2C960&amp;ssl=1 768w" sizes="(max-width: 807px) 100vw, 807px" data-attachment-id="9222" data-permalink="https://dailyasset.ng/senate-president-has-no-presidential-ambition-in-2023-media-adviser/senator-ahmed-lawan/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?fit=807%2C1009&amp;ssl=1" data-orig-size="807,1009" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Senator-Ahmed-Lawan" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?fit=240%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/07/Senator-Ahmed-Lawan.jpg?fit=640%2C800&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/ncdc-announces-163-new-covid-19-infections-caseload-now-60266/" title="NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="309" height="198" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" class="full wp-post-image" alt="NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266" loading="lazy" title="NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?w=309&amp;ssl=1 309w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?resize=300%2C192&amp;ssl=1 300w" sizes="(max-width: 309px) 100vw, 309px" data-attachment-id="7655" data-permalink="https://dailyasset.ng/covid-19ncdc-confirms-239-new-cases-total-infections-now-4151/ncdc-logo/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" data-orig-size="309,198" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="NCDC-LOGO" data-image-description="" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?fit=309%2C198&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/ondo-navy-rescue-inec-staff-others-as-boat-capsize-in-ilaje/" title="Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="567" height="404" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?fit=567%2C404&amp;ssl=1" class="full wp-post-image" alt="Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje" loading="lazy" title="Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?w=567&amp;ssl=1 567w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?resize=300%2C214&amp;ssl=1 300w" sizes="(max-width: 567px) 100vw, 567px" data-attachment-id="291" data-permalink="https://dailyasset.ng/inec-makes-u-turn-admits-ownership-of-server/inec-server/" data-orig-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?fit=567%2C404&amp;ssl=1" data-orig-size="567,404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="INEC" data-image-description="&lt;p&gt;INEC makes U-turn, admits ownership of server&lt;/p&gt;
+" data-medium-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?fit=300%2C214&amp;ssl=1" data-large-file="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?fit=567%2C404&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/" title="Minister Condemns Killing of End SARS Protester in Hometown"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Minister Condemns Killing of End SARS Protester in Hometown</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="253" height="253" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" class="full wp-post-image" alt="Minister Condemns Killing of End SARS Protester in Hometown" loading="lazy" title="Minister Condemns Killing of End SARS Protester in Hometown" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?w=253&amp;ssl=1 253w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 253px) 100vw, 253px" data-attachment-id="2129" data-permalink="https://dailyasset.ng/makinde-charges-minister-dare-to-be-good-ambassador/sunday-dare/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" data-orig-size="253,253" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Sunday-Dare" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?fit=253%2C253&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/gbajabiamila-gets-ipu-support-on-debt-cancellation/" title="Gbajabiamila Gets IPU Support on Debt Cancellation"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Gbajabiamila Gets IPU Support on Debt Cancellation</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="660" height="389" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?fit=660%2C389&amp;ssl=1" class="full wp-post-image" alt="Gbajabiamila Gets IPU Support on Debt Cancellation" loading="lazy" title="Gbajabiamila Gets IPU Support on Debt Cancellation" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?w=660&amp;ssl=1 660w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?resize=300%2C177&amp;ssl=1 300w" sizes="(max-width: 660px) 100vw, 660px" data-attachment-id="381" data-permalink="https://dailyasset.ng/is-gbajas-house-going-to-be-crisis-ridden/speaker-house-of-rep-femi-gbajabiamila/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?fit=660%2C389&amp;ssl=1" data-orig-size="660,389" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="speaker-house-of-rep-femi-gbajabiamila" data-image-description="&lt;p&gt;Is Gbaja’s House going to be Crisis Ridden?&lt;/p&gt;
+" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/06/speaker-house-of-rep-femi-gbajabiamila.jpg?fit=640%2C377&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/ministry-donates-5952-mattresses-2976-bags-of-rice-others-to-jigawa/" title="Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="514" height="400" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?fit=514%2C400&amp;ssl=1" class="full wp-post-image" alt="Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa" loading="lazy" title="Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?w=514&amp;ssl=1 514w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?resize=300%2C233&amp;ssl=1 300w" sizes="(max-width: 514px) 100vw, 514px" data-attachment-id="3019" data-permalink="https://dailyasset.ng/minister-reassures-nigerians-of-measures-to-tackle-floods/sadiya-umar-farouq/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?fit=514%2C400&amp;ssl=1" data-orig-size="514,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1565118741&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Sadiya-Umar-Farouq" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?fit=300%2C233&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?fit=514%2C400&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/fg-approves-n1-8bn-for-automotive-equipment-installations/" title="FG Approves N1.8bn for Automotive Equipment Installations"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>FG Approves N1.8bn for Automotive Equipment Installations</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="457" height="457" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?fit=457%2C457&amp;ssl=1" class="full wp-post-image" alt="FG Approves N1.8bn for Automotive Equipment Installations" loading="lazy" title="FG Approves N1.8bn for Automotive Equipment Installations" srcset="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?w=457&amp;ssl=1 457w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 457px) 100vw, 457px" data-attachment-id="5333" data-permalink="https://dailyasset.ng/nigeria-records-over-15-increase-in-export/niyi-adebayo-minister/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?fit=457%2C457&amp;ssl=1" data-orig-size="457,457" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Niyi-Adebayo-Minister" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?fit=457%2C457&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/well-take-positives-from-algeria-loss-yobo/" title="We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="413" height="231" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?fit=413%2C231&amp;ssl=1" class="full wp-post-image" alt="We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo" loading="lazy" title="We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?w=413&amp;ssl=1 413w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?resize=300%2C168&amp;ssl=1 300w" sizes="(max-width: 413px) 100vw, 413px" data-attachment-id="5787" data-permalink="https://dailyasset.ng/ex-super-eagles-captain-yobo-returns-as-assistant-coach/joseph-yobo/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?fit=413%2C231&amp;ssl=1" data-orig-size="413,231" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Joseph-Yobo" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?fit=413%2C231&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/ogunsakin-brothers-rule-cbn-junior-tennis-championship/" title="Ogunsakin Brothers Rule CBN Junior Tennis Championship"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Ogunsakin Brothers Rule CBN Junior Tennis Championship</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="361" height="239" src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?fit=361%2C239&amp;ssl=1" class="full wp-post-image" alt="Ogunsakin Brothers Rule CBN Junior Tennis Championship" loading="lazy" title="Ogunsakin Brothers Rule CBN Junior Tennis Championship" srcset="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?w=361&amp;ssl=1 361w, https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?resize=300%2C199&amp;ssl=1 300w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="11157" data-permalink="https://dailyasset.ng/ogunsakin-brothers-rule-cbn-junior-tennis-championship/ogunsakin-tennis/" data-orig-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?fit=361%2C239&amp;ssl=1" data-orig-size="361,239" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ogunsakin-Tennis" data-image-description="" data-medium-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?fit=300%2C199&amp;ssl=1" data-large-file="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?fit=361%2C239&amp;ssl=1" /></div></a></li><li style="max-height: 450px;"><a href="https://dailyasset.ng/operatives-rescue-kidnapped-rivers-lawyer/" title="Operatives Rescue Kidnapped Rivers Lawyer"><div class="flexslider-caption"><div class="flexslider-caption-inner"><h3>Operatives Rescue Kidnapped Rivers Lawyer</h3></div></div><div class="slide-image-container" style="max-height: 450px"><img width="277" height="181" src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Police-officers.jpg?fit=277%2C181&amp;ssl=1" class="full wp-post-image" alt="Operatives Rescue Kidnapped Rivers Lawyer" loading="lazy" title="Operatives Rescue Kidnapped Rivers Lawyer" data-attachment-id="1617" data-permalink="https://dailyasset.ng/how-four-police-detectives-were-killed-in-a-taraba-village/police-officers/" data-orig-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Police-officers.jpg?fit=277%2C181&amp;ssl=1" data-orig-size="277,181" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Police-officers" data-image-description="" data-medium-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Police-officers.jpg?fit=277%2C181&amp;ssl=1" data-large-file="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Police-officers.jpg?fit=277%2C181&amp;ssl=1" /></div></a></li>		</ul>
+	</div>
+</div>
+
+<script type="text/javascript">
+(function ($) {
+	"use strict";
+	$(function () {
+		jQuery('.flexslider').flexslider({
+			animation: "slide",	// String: Set the slideshow animation (either slide or fade)
+			slideshowSpeed: 5000,	// Integer: Set the speed of the slideshow cycling, in milliseconds
+			animationSpeed: 1000,// Integer: Set the speed of animations, in milliseconds
+			controlNav: true,		//Boolean: Create navigation for paging control of each slide? Note: Leave true for manualControls usage
+			directionNav: true,	//Boolean: Create navigation for previous/next navigation? (true/false)
+		});
+	});
+}(jQuery));
+</script>
+</section><section id="adrotate_widgets-3" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style1-2" class="widget vmag_block_posts_style1">        <div class="block-post-wrapper clearfix">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+General News		</h4>
+            </div><!-- .block-header-->
+            
+            <div class="left-post-wrapper wow fadeInDown" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/" title="Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Abdulrasaq-Kwara-Gov.jpg?resize=366%2C367&#038;ssl=1" alt="" title="Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                <span class="post-tags-links"><a href="https://dailyasset.ng/tag/kwara/" rel="tag">Kwara</a><a href="https://dailyasset.ng/tag/minimum-wage-2/" rel="tag">Minimum-wage</a></span>                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="large-font"><a href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/">Kwara Govt Purse Too Lean to Pay N30, 000 Now &#8211; Abdulrasaq</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T08:00:07+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T08:00:25+01:00">October 14, 2020</time></a></span>                                    <span class="comments-count"><a href="https://dailyasset.ng/kwara-govt-purse-too-lean-to-pay-n30-000-now-abdulrasaq/#respond">0</a></span>                                </div>
+                            </div><!-- .post-caption-wrapper -->
+                            
+
+
+
+
+From Alfred Babs, Ilorin
+
+
+
+Kwara State Governor, AbdulRahman AbdulRazaq yesterday said the state’s treasury is too lean to a...                        </div><!-- .single-post -->
+            </div><div class="right-posts-wrapper wow fadeInUp" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform">
+                                        <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?resize=320%2C224&#038;ssl=1" alt="" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/">IPPIS: FG Considers ASUU’s Proposed Payment Platform</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T07:51:21+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T07:51:30+01:00">October 14, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/ondo-navy-rescue-inec-staff-others-as-boat-capsize-in-ilaje/" title="Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/06/INEC-Server.jpg?resize=320%2C224&#038;ssl=1" alt="INEC makes U-turn, admits ownership of server" title="Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ondo-navy-rescue-inec-staff-others-as-boat-capsize-in-ilaje/">Ondo: Navy Rescue INEC Staff, Others as Boat Capsize in Ilaje</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ondo-navy-rescue-inec-staff-others-as-boat-capsize-in-ilaje/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:22:04+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:22:11+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/" title="Minister Condemns Killing of End SARS Protester in Hometown">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?resize=253%2C224&#038;ssl=1" alt="" title="Minister Condemns Killing of End SARS Protester in Hometown" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/">Minister Condemns Killing of End SARS Protester in Hometown</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:13:37+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:13:56+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/ministry-donates-5952-mattresses-2976-bags-of-rice-others-to-jigawa/" title="Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa">
+                                        <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Sadiya-Umar-Farouq.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ministry-donates-5952-mattresses-2976-bags-of-rice-others-to-jigawa/">Ministry Donates 5,952 Mattresses, 2,976 Bags of Rice, Others to Jigawa</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ministry-donates-5952-mattresses-2976-bags-of-rice-others-to-jigawa/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:07:44+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:07:52+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+            </div>        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-4" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style2-2" class="widget vmag_block_posts_style2">        <div class="block-post-wrapper column4-layout">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+Cover Stories		</h4>
+            </div><!-- .block-header-->
+            <div class="block-column-wrapper wow fadeInUp" data-wow-duration="0.7s">
+
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/treat-drug-addiction-as-national-emergency-rep/" title="Treat Drug Addiction as National Emergency-Rep">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Hon-Francis-Ottah-Agbo.jpg?resize=510%2C369&#038;ssl=1" alt="A member of the House of Representatives, representing Ado/Okpokwu/Ogbadibo Federal Constituency of Benue State, Hon. Francis Ottah Agbo" title="Treat Drug Addiction as National Emergency-Rep" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/treat-drug-addiction-as-national-emergency-rep/">Treat Drug Addiction as National Emergency-Rep</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/treat-drug-addiction-as-national-emergency-rep/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T08:03:49+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T08:03:56+01:00">October 14, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/fg-ll-not-seek-relief-for-n31trn-debt-minster/" title="FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Zainab-Ahmed-Finance.jpg?resize=318%2C295&#038;ssl=1" alt="" title="FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/fg-ll-not-seek-relief-for-n31trn-debt-minster/">FG ’ll Not Seek Relief for N31trn Debt &#8211; Minster</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/fg-ll-not-seek-relief-for-n31trn-debt-minster/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T20:53:36+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T20:53:42+01:00">October 13, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/igp-creates-swat-to-replace-sars/" title="IGP Creates SWAT to Replace SARS">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Inspector-General-of-Police-IGP-Mohammed-Adamu.jpg?resize=510%2C369&#038;ssl=1" alt="Inspector General of Police (IGP), Mohammed Adamu" title="IGP Creates SWAT to Replace SARS" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/igp-creates-swat-to-replace-sars/">IGP Creates SWAT to Replace SARS</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/igp-creates-swat-to-replace-sars/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T20:34:07+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T20:34:15+01:00">October 13, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/senate-confirms-eight-more-justices-of-supreme-court/" title="Senate Confirms Eight More Justices of Supreme Court">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Supreme-court.jpg?resize=417%2C277&#038;ssl=1" alt="" title="Senate Confirms Eight More Justices of Supreme Court" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/senate-confirms-eight-more-justices-of-supreme-court/">Senate Confirms Eight More Justices of Supreme Court</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/senate-confirms-eight-more-justices-of-supreme-court/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T19:18:47+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T19:18:53+01:00">October 13, 2020</time></a></span>                                </div>
+                            </div>
+                            </div><!-- .block-column-wrapper -->
+        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-5" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style1-3" class="widget vmag_block_posts_style1">        <div class="block-post-wrapper clearfix">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+Business News		</h4>
+            </div><!-- .block-header-->
+            
+            <div class="left-post-wrapper wow fadeInDown" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/" title="RMAFC Recovers N474m Unremitted Revenue from Guiness">
+                                        <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/07/RMFARC.jpg?resize=510%2C369&#038;ssl=1" alt="RMFARC" title="RMAFC Recovers N474m Unremitted Revenue from Guiness" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                <span class="post-tags-links"><a href="https://dailyasset.ng/tag/guiness/" rel="tag">Guiness</a><a href="https://dailyasset.ng/tag/rmafc/" rel="tag">RMAFC</a></span>                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="large-font"><a href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/">RMAFC Recovers N474m Unremitted Revenue from Guiness</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T08:11:15+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T08:11:21+01:00">October 14, 2020</time></a></span>                                    <span class="comments-count"><a href="https://dailyasset.ng/rmafc-recovers-n474m-unremitted-revenue-from-guiness/#respond">0</a></span>                                </div>
+                            </div><!-- .post-caption-wrapper -->
+                            
+By Tony Obiechina, Abuja
+
+
+
+The Revenue Mobilisation Allocation and Fiscal Commission (RMAFC) has recovered over N470,000 million...                        </div><!-- .single-post -->
+            </div><div class="right-posts-wrapper wow fadeInUp" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/fg-approves-n1-8bn-for-automotive-equipment-installations/" title="FG Approves N1.8bn for Automotive Equipment Installations">
+                                        <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Niyi-Adebayo-Minister.jpg?resize=320%2C224&#038;ssl=1" alt="" title="FG Approves N1.8bn for Automotive Equipment Installations" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/fg-approves-n1-8bn-for-automotive-equipment-installations/">FG Approves N1.8bn for Automotive Equipment Installations</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/fg-approves-n1-8bn-for-automotive-equipment-installations/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:04:43+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:04:48+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/naicom-to-actualize-80-financial-inclusion-target-by-2021/" title="NAICOM to Actualize 80% Financial Inclusion Target by 2021">
+                                        <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/05/NICOM-NATIONAL-INSURANCE-COMMISSION.jpg?resize=320%2C142&#038;ssl=1" alt="" title="NAICOM to Actualize 80% Financial Inclusion Target by 2021" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/naicom-to-actualize-80-financial-inclusion-target-by-2021/">NAICOM to Actualize 80% Financial Inclusion Target by 2021</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/naicom-to-actualize-80-financial-inclusion-target-by-2021/" rel="bookmark"><time class="entry-date published" datetime="2020-10-09T07:30:45+01:00">October 9, 2020</time><time class="updated" datetime="2020-10-09T07:30:52+01:00">October 9, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/capital-markets-bullish-trend-breaks-sheds-n46bn/" title="Capital Market’s Bullish Trend Breaks, Sheds N46bn">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/01/NSE.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Capital Market’s Bullish Trend Breaks, Sheds N46bn" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/capital-markets-bullish-trend-breaks-sheds-n46bn/">Capital Market’s Bullish Trend Breaks, Sheds N46bn</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/capital-markets-bullish-trend-breaks-sheds-n46bn/" rel="bookmark"><time class="entry-date published" datetime="2020-10-09T07:26:08+01:00">October 9, 2020</time><time class="updated" datetime="2020-10-09T07:26:13+01:00">October 9, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/cbn-warns-nigerians-against-fraudulent-loan-offers-investment-schemes/" title="CBN Warns Nigerians Against Fraudulent Loan Offers, Investment Schemes">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/Central-Bank-of-Nigeria-CBN.jpg?resize=320%2C224&#038;ssl=1" alt="Central Bank of Nigeria CBN" title="CBN Warns Nigerians Against Fraudulent Loan Offers, Investment Schemes" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/cbn-warns-nigerians-against-fraudulent-loan-offers-investment-schemes/">CBN Warns Nigerians Against Fraudulent Loan Offers, Investment Schemes</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/cbn-warns-nigerians-against-fraudulent-loan-offers-investment-schemes/" rel="bookmark"><time class="entry-date published" datetime="2020-10-09T07:23:02+01:00">October 9, 2020</time><time class="updated" datetime="2020-10-09T07:23:09+01:00">October 9, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+            </div>        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-7" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style2-3" class="widget vmag_block_posts_style2">        <div class="block-post-wrapper column4-layout">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+Entertainment Stories		</h4>
+            </div><!-- .block-header-->
+            <div class="block-column-wrapper wow fadeInUp" data-wow-duration="0.7s">
+
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/a-tale-of-two-giants/" title="A Tale of Two Giants">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Soyinka.jpg?resize=510%2C369&#038;ssl=1" alt="" title="A Tale of Two Giants" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/a-tale-of-two-giants/">A Tale of Two Giants</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/a-tale-of-two-giants/" rel="bookmark"><time class="entry-date published" datetime="2020-09-05T10:18:24+01:00">September 5, 2020</time><time class="updated" datetime="2020-09-05T10:18:42+01:00">September 5, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/davido-isolates-self-as-partner-tests-positive-for-coronavirus/" title="Davido  Isolates Self  as Partner Tests Positive for Coronavirus">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/09/Davido-and-Chioma-Wedding-Plan.jpg?resize=492%2C369&#038;ssl=1" alt="Davido and Chioma Wedding Plan" title="Davido  Isolates Self  as Partner Tests Positive for Coronavirus" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/davido-isolates-self-as-partner-tests-positive-for-coronavirus/">Davido  Isolates Self  as Partner Tests Positive for Coronavirus</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/davido-isolates-self-as-partner-tests-positive-for-coronavirus/" rel="bookmark"><time class="entry-date published" datetime="2020-03-28T07:31:48+01:00">March 28, 2020</time><time class="updated" datetime="2020-03-28T07:31:55+01:00">March 28, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/after-a-2-year-break-zaky-adzay-set-to-release-notice/" title="After a 2-year-break, Zaky Adzay Set to Release “Notice’’">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/03/Zaky-Adzer.jpg?resize=225%2C225&#038;ssl=1" alt="" title="After a 2-year-break, Zaky Adzay Set to Release “Notice’’" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/after-a-2-year-break-zaky-adzay-set-to-release-notice/">After a 2-year-break, Zaky Adzay Set to Release “Notice’’</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/after-a-2-year-break-zaky-adzay-set-to-release-notice/" rel="bookmark"><time class="entry-date published" datetime="2020-03-10T11:24:57+01:00">March 10, 2020</time><time class="updated" datetime="2020-03-10T11:25:06+01:00">March 10, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/davido-releases-new-song-for-2020/" title="Davido Releases New Song for 2020">
+                                            <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/01/Davido.jpg?resize=367%2C367&#038;ssl=1" alt="" title="Davido Releases New Song for 2020" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/davido-releases-new-song-for-2020/">Davido Releases New Song for 2020</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/davido-releases-new-song-for-2020/" rel="bookmark"><time class="entry-date published" datetime="2020-01-26T11:12:22+01:00">January 26, 2020</time><time class="updated" datetime="2020-01-26T11:12:31+01:00">January 26, 2020</time></a></span>                                </div>
+                            </div>
+                            </div><!-- .block-column-wrapper -->
+        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-8" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style1-4" class="widget vmag_block_posts_style1">        <div class="block-post-wrapper clearfix">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+Health News		</h4>
+            </div><!-- .block-header-->
+            
+            <div class="left-post-wrapper wow fadeInDown" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/nigeria-records-one-death-225-new-cases-of-covid-19/" title="Nigeria Records One death, 225 New Cases of COVID-19">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?resize=309%2C198&#038;ssl=1" alt="" title="Nigeria Records One death, 225 New Cases of COVID-19" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                <span class="post-tags-links"><a href="https://dailyasset.ng/tag/covid-19/" rel="tag">CoVID-19</a></span>                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="large-font"><a href="https://dailyasset.ng/nigeria-records-one-death-225-new-cases-of-covid-19/">Nigeria Records One death, 225 New Cases of COVID-19</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/nigeria-records-one-death-225-new-cases-of-covid-19/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T07:46:11+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T07:46:18+01:00">October 14, 2020</time></a></span>                                    <span class="comments-count"><a href="https://dailyasset.ng/nigeria-records-one-death-225-new-cases-of-covid-19/#respond">0</a></span>                                </div>
+                            </div><!-- .post-caption-wrapper -->
+                            
+
+
+
+
+ Nigeria recorded one death and 225 fresh Coronavirus disease (COVID-19), the Nigeria Center for Disease Control (NCDC) has c...                        </div><!-- .single-post -->
+            </div><div class="right-posts-wrapper wow fadeInUp" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/ncdc-announces-163-new-covid-19-infections-caseload-now-60266/" title="NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?resize=309%2C198&#038;ssl=1" alt="" title="NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ncdc-announces-163-new-covid-19-infections-caseload-now-60266/">NCDC Announces 163 New COVID-19 Infections, Caseload now 60,266</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ncdc-announces-163-new-covid-19-infections-caseload-now-60266/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:25:59+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:27:44+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/indias-covid-19-cases-surge-past-7m-mark/" title="India’s COVID-19 Cases Surge Past 7m Mark">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/08/India-Prime-Minister.jpg?resize=320%2C220&#038;ssl=1" alt="" title="India’s COVID-19 Cases Surge Past 7m Mark" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/indias-covid-19-cases-surge-past-7m-mark/">India’s COVID-19 Cases Surge Past 7m Mark</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/indias-covid-19-cases-surge-past-7m-mark/" rel="bookmark"><time class="entry-date published" datetime="2020-10-11T12:21:03+01:00">October 11, 2020</time><time class="updated" datetime="2020-10-11T12:21:11+01:00">October 11, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/nigerias-covid-19-cases-surpass-60000-with-111-new-infections/" title="Nigeria’s COVID-19 Cases Surpass 60,000 With 111 New Infections">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/05/NCDC-LOGO.jpg?resize=309%2C198&#038;ssl=1" alt="" title="Nigeria’s COVID-19 Cases Surpass 60,000 With 111 New Infections" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/nigerias-covid-19-cases-surpass-60000-with-111-new-infections/">Nigeria’s COVID-19 Cases Surpass 60,000 With 111 New Infections</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/nigerias-covid-19-cases-surpass-60000-with-111-new-infections/" rel="bookmark"><time class="entry-date published" datetime="2020-10-11T11:58:00+01:00">October 11, 2020</time><time class="updated" datetime="2020-10-11T11:58:06+01:00">October 11, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/kogi-police-command-rescues-one-of-two-kidnapped-doctors/" title="Kogi Police Command Rescues  Two Kidnapped Doctors">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Police-logo.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Kogi Police Command Rescues  Two Kidnapped Doctors" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/kogi-police-command-rescues-one-of-two-kidnapped-doctors/">Kogi Police Command Rescues  Two Kidnapped Doctors</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/kogi-police-command-rescues-one-of-two-kidnapped-doctors/" rel="bookmark"><time class="entry-date published" datetime="2020-10-11T11:39:43+01:00">October 11, 2020</time><time class="updated" datetime="2020-10-11T12:28:00+01:00">October 11, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+            </div>        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-10" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style2-4" class="widget vmag_block_posts_style2">        <div class="block-post-wrapper column4-layout">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+Education		</h4>
+            </div><!-- .block-header-->
+            <div class="block-column-wrapper wow fadeInUp" data-wow-duration="0.7s">
+
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/details-of-teachers-salary-scale-other-packages-coming-soon-fg/" title="Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG">
+                                            <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Sonny-Echono.jpg?resize=367%2C286&#038;ssl=1" alt="" title="Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/details-of-teachers-salary-scale-other-packages-coming-soon-fg/">Details of Teachers’ Salary Scale, Other  Packages  Coming Soon – FG</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/details-of-teachers-salary-scale-other-packages-coming-soon-fg/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T08:24:38+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T08:24:46+01:00">October 14, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform">
+                                            <img src="https://i2.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Dr-Ngige.jpg?resize=510%2C350&#038;ssl=1" alt="" title="IPPIS: FG Considers ASUU’s Proposed Payment Platform" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/">IPPIS: FG Considers ASUU’s Proposed Payment Platform</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ippis-fg-considers-asuus-proposed-payment-platform/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T07:51:21+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T07:51:30+01:00">October 14, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/jamb-shuts-down-seven-exam-centres-in-bayelsa/" title="JAMB Shuts Down Seven Exam Centres in Bayelsa">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/07/jamb1.jpg?resize=510%2C369&#038;ssl=1" alt="Joint Admission and Matriculation Board" title="JAMB Shuts Down Seven Exam Centres in Bayelsa" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/jamb-shuts-down-seven-exam-centres-in-bayelsa/">JAMB Shuts Down Seven Exam Centres in Bayelsa</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/jamb-shuts-down-seven-exam-centres-in-bayelsa/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T21:06:50+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T21:06:57+01:00">October 13, 2020</time></a></span>                                </div>
+                            </div>
+                                            <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/benue-varsity-appoints-tor-iorapuu-as-6th-vice-chancellor/" title="Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor">
+                                            <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/ProfTor-Iorapuu-BSU.jpg?resize=188%2C269&#038;ssl=1" alt="" title="Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                                                        </div>
+                                <h3 class="small-font"><a href="https://dailyasset.ng/benue-varsity-appoints-tor-iorapuu-as-6th-vice-chancellor/">Benue Varsity Appoints Tor-Iorapuu as 6th Vice Chancellor</a></h3>
+                                <div class="post-meta">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/benue-varsity-appoints-tor-iorapuu-as-6th-vice-chancellor/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T20:04:54+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T20:05:01+01:00">October 13, 2020</time></a></span>                                </div>
+                            </div>
+                            </div><!-- .block-column-wrapper -->
+        </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-9" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section><section id="vmag_block_posts_style1-5" class="widget vmag_block_posts_style1">        <div class="block-post-wrapper clearfix">
+            <div class="block-header clearfix">
+                		<h4 class="block-title">
+<a href="http://Sports%20News">Sport News</a>		</h4>
+            </div><!-- .block-header-->
+            
+            <div class="left-post-wrapper wow fadeInDown" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/fg-slates-60-sports-icons-for-honours/" title="FG Slates 60 Sports Icons for Honours">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?resize=253%2C253&#038;ssl=1" alt="" title="FG Slates 60 Sports Icons for Honours" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                <span class="post-tags-links"><a href="https://dailyasset.ng/tag/fg/" rel="tag">FG</a><a href="https://dailyasset.ng/tag/honours/" rel="tag">Honours</a><a href="https://dailyasset.ng/tag/sports-icons/" rel="tag">Sports-icons</a></span>                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="large-font"><a href="https://dailyasset.ng/fg-slates-60-sports-icons-for-honours/">FG Slates 60 Sports Icons for Honours</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/fg-slates-60-sports-icons-for-honours/" rel="bookmark"><time class="entry-date published" datetime="2020-10-14T07:42:40+01:00">October 14, 2020</time><time class="updated" datetime="2020-10-14T07:42:47+01:00">October 14, 2020</time></a></span>                                    <span class="comments-count"><a href="https://dailyasset.ng/fg-slates-60-sports-icons-for-honours/#respond">0</a></span>                                </div>
+                            </div><!-- .post-caption-wrapper -->
+                            
+
+
+
+
+By Jude Opara, Abuja
+
+
+
+The federal government through the  Ministry of Sports and Youth Development has concluded arrangemen...                        </div><!-- .single-post -->
+            </div><div class="right-posts-wrapper wow fadeInUp" data-wow-duration="0.7s">                        <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/" title="Minister Condemns Killing of End SARS Protester in Hometown">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/08/Sunday-Dare.jpg?resize=253%2C224&#038;ssl=1" alt="" title="Minister Condemns Killing of End SARS Protester in Hometown" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/">Minister Condemns Killing of End SARS Protester in Hometown</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/minister-condemns-killing-of-end-sars-protester-in-hometown/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:13:37+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:13:56+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/well-take-positives-from-algeria-loss-yobo/" title="We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/02/Joseph-Yobo.jpg?resize=320%2C224&#038;ssl=1" alt="" title="We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/well-take-positives-from-algeria-loss-yobo/">We’ll Take ‘Positives’ from Algeria Loss &#8211; Yobo</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/well-take-positives-from-algeria-loss-yobo/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T09:00:47+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T09:00:54+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/ogunsakin-brothers-rule-cbn-junior-tennis-championship/" title="Ogunsakin Brothers Rule CBN Junior Tennis Championship">
+                                        <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2020/10/Ogunsakin-Tennis.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Ogunsakin Brothers Rule CBN Junior Tennis Championship" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/ogunsakin-brothers-rule-cbn-junior-tennis-championship/">Ogunsakin Brothers Rule CBN Junior Tennis Championship</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/ogunsakin-brothers-rule-cbn-junior-tennis-championship/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T08:58:22+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T08:58:34+01:00">October 12, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+                                    <div class="single-post clearfix">
+                            <div class="post-thumb">
+                                                                    <a class="thumb-zoom" href="https://dailyasset.ng/nnl-planning-insurance-medicals-for-clubs/" title="NNL Planning Insurance, Medicals for Clubs">
+                                        <img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/10/NNL-LOGO.jpg?resize=320%2C224&#038;ssl=1" alt="" title="NNL Planning Insurance, Medicals for Clubs" />
+                                        <div class="image-overlay"></div>
+                                    </a>
+                                                                                            </div><!-- .post-thumb -->
+                            <div class="post-caption-wrapper">
+                                <h3 class="small-font"><a href="https://dailyasset.ng/nnl-planning-insurance-medicals-for-clubs/">NNL Planning Insurance, Medicals for Clubs</a></h3>
+                                <div class="post-meta clearfix">
+                                    <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/nnl-planning-insurance-medicals-for-clubs/" rel="bookmark"><time class="entry-date published" datetime="2020-10-01T10:03:32+01:00">October 1, 2020</time><time class="updated" datetime="2020-10-01T10:03:38+01:00">October 1, 2020</time></a></span>                                                                    </div>
+                            </div><!-- .post-caption-wrapper -->
+                                                    </div><!-- .single-post -->
+            </div>        </div><!-- .block-post-wrapper -->
+    </section>			        </div><!-- .vmag-main-content -->
+			        <div class="vmag-home-aside">
+			        	<section id="adrotate_widgets-14" class="widget adrotate_widgets"><h4 class="widget-title">Sponsored</h4><div class="a-single a-2"><a href="https://www.fidelitybank.ng/oaop" target="_blank"><img src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2020/08/Open-Business-Account-With-Fidelity-Bank.jpg?ssl=1" /></a>
+</div></section><section id="vmag_category_posts_list-2" class="widget vmag_category_posts_list">        <div class="block-post-wrapper wow fadeInUp" data-wow-duration="1s">
+            		<h4 class="block-title">
+Editorial		</h4>
+                                        <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/disbandment-of-sars/" title="Disbandment of SARS">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Disbandment of SARS" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                    </div>
+                                <div class="post-caption clearfix">
+                                    <h3 class="small-font"><a href="https://dailyasset.ng/disbandment-of-sars/">Disbandment of SARS</a></h3>
+                                    <div class="post-meta">
+                                        <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/disbandment-of-sars/" rel="bookmark"><time class="entry-date published" datetime="2020-10-13T19:34:17+01:00">October 13, 2020</time><time class="updated" datetime="2020-10-13T19:34:23+01:00">October 13, 2020</time></a></span>                                    </div>
+                                </div><!-- .post-caption -->
+                            </div><!-- .single-post -->
+                                        <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/improved-conditions-of-service-for-teachers/" title="Improved  Conditions of service for Teachers">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Improved  Conditions of service for Teachers" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                    </div>
+                                <div class="post-caption clearfix">
+                                    <h3 class="small-font"><a href="https://dailyasset.ng/improved-conditions-of-service-for-teachers/">Improved  Conditions of service for Teachers</a></h3>
+                                    <div class="post-meta">
+                                        <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/improved-conditions-of-service-for-teachers/" rel="bookmark"><time class="entry-date published" datetime="2020-10-12T07:48:24+01:00">October 12, 2020</time><time class="updated" datetime="2020-10-12T07:48:30+01:00">October 12, 2020</time></a></span>                                    </div>
+                                </div><!-- .post-caption -->
+                            </div><!-- .single-post -->
+                                        <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/time-to-privatize-nations-refineries/" title="Time to Privatize Nation&#8217;s Refineries">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Time to Privatize Nation&#8217;s Refineries" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                    </div>
+                                <div class="post-caption clearfix">
+                                    <h3 class="small-font"><a href="https://dailyasset.ng/time-to-privatize-nations-refineries/">Time to Privatize Nation&#8217;s Refineries</a></h3>
+                                    <div class="post-meta">
+                                        <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/time-to-privatize-nations-refineries/" rel="bookmark"><time class="entry-date published" datetime="2020-10-08T18:07:22+01:00">October 8, 2020</time><time class="updated" datetime="2020-10-08T18:07:28+01:00">October 8, 2020</time></a></span>                                    </div>
+                                </div><!-- .post-caption -->
+                            </div><!-- .single-post -->
+                                        <div class="single-post clearfix">
+                                <div class="post-thumb">
+                                                                            <a class="thumb-zoom" href="https://dailyasset.ng/deadly-attacks-on-governor-zulum/" title="Deadly Attacks on Governor Zulum">
+                                            <img src="https://i0.wp.com/dailyasset.ng/wp-content/uploads/2019/05/trrt-editorial.jpg?resize=320%2C224&#038;ssl=1" alt="" title="Deadly Attacks on Governor Zulum" />
+                                            <div class="image-overlay"></div>
+                                        </a>
+                                                                    </div>
+                                <div class="post-caption clearfix">
+                                    <h3 class="small-font"><a href="https://dailyasset.ng/deadly-attacks-on-governor-zulum/">Deadly Attacks on Governor Zulum</a></h3>
+                                    <div class="post-meta">
+                                        <span class="post-author"><span class="author vcard"><a class="url fn n" href="https://dailyasset.ng/author/editor_01/">Editor_01</a></span></span><span class="posted-on"><a href="https://dailyasset.ng/deadly-attacks-on-governor-zulum/" rel="bookmark"><time class="entry-date published" datetime="2020-10-05T08:31:14+01:00">October 5, 2020</time><time class="updated" datetime="2020-10-05T08:31:20+01:00">October 5, 2020</time></a></span>                                    </div>
+                                </div><!-- .post-caption -->
+                            </div><!-- .single-post -->
+                    </div><!-- .block-post-wrapper -->
+    </section><section id="adrotate_widgets-2" class="widget adrotate_widgets"><div class="a-single a-4"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive All Round Ads 19062019 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2144514710883296"
+     data-ad-slot="5978610134"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></section><section id="text-4" class="widget widget_text">			<div class="textwidget"><p><img loading="lazy" class="alignnone size-medium wp-image-3283" src="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/10/Daily-Asset-Newspaper-Advert-Rate.jpg?resize=214%2C300&#038;ssl=1" alt="Daily Asset Newspaper Advert Rate" width="214" height="300" data-recalc-dims="1" srcset="https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/10/Daily-Asset-Newspaper-Advert-Rate.jpg?w=750&amp;ssl=1 750w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/10/Daily-Asset-Newspaper-Advert-Rate.jpg?resize=214%2C300&amp;ssl=1 214w, https://i1.wp.com/dailyasset.ng/wp-content/uploads/2019/10/Daily-Asset-Newspaper-Advert-Rate.jpg?resize=731%2C1024&amp;ssl=1 731w" sizes="(max-width: 214px) 100vw, 214px" /></p>
+</div>
+		</section><section id="apsc_widget-2" class="widget widget_apsc_widget"><h4 class="widget-title">FIND &#038; FOLLOW US</h4><div class="apsc-icons-wrapper clearfix apsc-theme-2 " >
+                    <div class="apsc-each-profile">
+                    <a  class="apsc-facebook-icon clearfix" href="https://facebook.com/" target="_blank" >
+    <div class="apsc-inner-block">
+        <span class="social-icon"><i class="fab fa-facebook-f apsc-facebook"></i><span class="media-name">Facebook</span></span>
+        <span class="apsc-count">474</span><span class="apsc-media-type">Fans</span>
+    </div>
+</a>
+                </div>                <div class="apsc-each-profile">
+                    <a  class="apsc-twitter-icon clearfix"  href="https://twitter.com/DailyAssetNG" target="_blank"  >
+   <div class="apsc-inner-block">
+        <span class="social-icon"><i class="fab fa-twitter apsc-twitter"></i><span class="media-name">Twitter</span></span>
+        <span class="apsc-count">214</span><span class="apsc-media-type">Followers</span>
+   </div>
+</a>
+                </div>                <div class="apsc-each-profile">
+                                    </div>                <div class="apsc-each-profile">
+                    <a  class="apsc-instagram-icon clearfix" href="https://instagram.com/dailyassetnewspaper" target="_blank"   >
+     <div class="apsc-inner-block">
+          <span class="social-icon"><i class="apsc-instagram fab fa-instagram"></i><span class="media-name">Instagram</span></span>
+          <span class="apsc-count">0</span><span class="apsc-media-type">Followers</span>
+     </div>
+</a>
+                </div>                <div class="apsc-each-profile">
+                    
+<a class="apsc-edit-icon clearfix" href="javascript:void(0);" >
+   <div class="apsc-inner-block">
+        <span class="social-icon"><i class="apsc-posts fas fa-edit"></i><span class="media-name">Post</span></span>
+        <span class="apsc-count">4,125</span><span class="apsc-media-type">Post</span>
+   </div>
+</a>
+                </div></div></section><section id="facebook-likebox-2" class="widget widget_facebook_likebox"><h4 class="widget-title"><a href="https://web.facebook.com/dailyassetnewspaper">Daily Asset on Facebook</a></h4>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://web.facebook.com/dailyassetnewspaper" data-width="300"  data-height="450" data-hide-cover="false" data-show-facepile="true" data-tabs="timeline" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://web.facebook.com/dailyassetnewspaper"><a href="https://web.facebook.com/dailyassetnewspaper">Daily Asset on Facebook</a></blockquote></div>
+		</div>
+		</section><section id="twitter_timeline-2" class="widget widget_twitter_timeline"><h4 class="widget-title">@Follow Us on Twitter</h4><a class="twitter-timeline" data-height="400" data-theme="light" data-border-color="#e8e8e8" data-lang="EN" data-partner="jetpack" href="https://twitter.com/@DailyAssetNG" href="https://twitter.com/@DailyAssetNG">My Tweets</a></section><section id="youtube_responsive-2" class="widget widget_youtube_responsive"><h4 class="widget-title">Trump Video</h4><object  class='StefanoAI-youtube-responsive fitvidsignore ' width='160' height='90' style='' type='application/video'><iframe id='StefanoAI-youtube-1' class='StefanoAI-youtube-responsive ' width='160' height='90' src='//www.youtube.com/embed/amZizY4HmS8?&amp;autohide=2&amp;color=red&amp;controls=1&amp;disablekb=0&amp;fs=0&amp;iv_load_policy=1&amp;modestbranding=0&amp;rel=0&amp;showinfo=0&amp;theme=dark&amp;vq=default'  style='border:none;'></iframe></object></section>			        </div><!-- .vmag-home-aside -->
+		        </div>
+			</div><!-- .homepage-content-wrapper -->
+				
+			<div class="homepage-fullwidth-wrapper clearfix">
+				<div class="vmag-container">
+					<section id="adrotate_widgets-12" class="widget adrotate_widgets"><!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! --></section>		        </div>
+			</div><!-- .homepage-fullwidth-wrapper -->
+						<div class="homepage-second-fullwidth-wrapper widget-column-0 clearfix">
+				<div class="vmag-container">
+								    </div>    
+			</div><!-- .homepage-widget-column-wrapper -->
+
+		</main><!-- #main -->
+
+
+	</div><!-- #content -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="vmag-container">
+			<div class="vmag-top-footer footer_column_three clearfix">
+	<div class="vmag-footer-widget-wrapper">
+		<div class="vmag-footer-widget column-first">
+			<section id="blog_subscription-2" class="widget widget_blog_subscription jetpack_subscription_widget"><h4 class="widget-title">Subscribe to Blog via Email</h4>
+            <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				                    <div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>					<div class="jetpack-subscribe-count">
+						<p>
+						Join 1,054 other subscribers						</p>
+					</div>
+					                    <p id="subscribe-email">
+                        <label id="jetpack-subscribe-label"
+                               class="screen-reader-text"
+                               for="subscribe-field-blog_subscription-2">
+							Email Address                        </label>
+                        <input type="email" name="email" required="required"
+                        			                                                value=""
+                            id="subscribe-field-blog_subscription-2"
+                            placeholder="Email Address"
+                        />
+                    </p>
+
+                    <p id="subscribe-submit">
+                        <input type="hidden" name="action" value="subscribe"/>
+                        <input type="hidden" name="source" value="https://dailyasset.ng/"/>
+                        <input type="hidden" name="sub-type" value="widget"/>
+                        <input type="hidden" name="redirect_fragment" value="blog_subscription-2"/>
+						                        <button type="submit"
+	                        		                    	                        name="jetpack_subscriptions_widget"
+	                    >
+	                        Subscribe                        </button>
+                    </p>
+				            </form>
+		
+</section>		</div>
+
+		<div class="vmag-footer-widget column-second" style="display: block;">
+			<section id="widget_contact_info-2" class="widget widget_contact_info"><h4 class="widget-title">Contact Us</h4><div itemscope itemtype="http://schema.org/LocalBusiness"><div class="confit-address" itemscope itemtype="http://schema.org/PostalAddress" itemprop="address"><a href="https://maps.google.com/maps?z=16&#038;q=plot%2B1295%2C%2B3502%2Broad%2C%2Bfha%2Blugbe%2C%2Babuja%2C%2Bfct." target="_blank" rel="noopener noreferrer">plot 1295, 3502 Road, <br/>FHA Lugbe,<br/>Abuja, FCT.</a></div><div class="confit-phone"><span itemprop="telephone">+234 8080870654</span></div><div class="confit-email"><a href="mailto:contact@dailyasset.ng">contact@dailyasset.ng</a></div><div class="confit-hours" itemprop="openingHours">Mon - Sat: 09am - 6pm</div></div></section>		</div>
+
+		<div class="vmag-footer-widget column-third" style="display: block;">
+					</div>
+
+		<div class="vmag-footer-widget column-forth" style="display: none;">
+					</div>
+	</div><!-- .vmag-footer-widget-wrapper -->
+</div><!-- .vmag-top-footer -->
+			<div class="site-info">
+										<span class="copyright-text">2019 Daily Asset Online</span>
+						<span class="sep"> | </span>
+							
+				 by <a href="https://obajesoft.com.ng/" rel="designer">ObajeSoft Inc</a>.				<div class="clear"></div>
+			</div><!-- .site-info -->
+			<div class="footer-menu-wrapper">
+				<nav id="footer-site-navigation" class="footer-navigation" role="navigation">
+									</nav><!-- #site-navigation -->
+			</div><!-- .footer-menu-wrapper -->
+		</div>
+	</footer><!-- #colophon -->
+	<a href="#masthead" id="scroll-up"><i class="fa fa-sort-up"></i></a>
+</div><!-- #page -->
+
+<link rel='stylesheet' id='recent-posts-flexslider-style-css'  href='https://dailyasset.ng/wp-content/plugins/recent-posts-flexslider/css/slider.css?ver=2.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.9/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' id='clicktrack-adrotate-js-extra'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/dailyasset.ng\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js' id='clicktrack-adrotate-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/dailyasset.ng\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/themes/vmag/js/lightslider.js?ver=1.1.5' id='lightslider-js'></script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/themes/vmag/js/wow.js?ver=1.1.2' id='wow-js'></script>
+<script type='text/javascript' id='vmag-custom-script-js-extra'>
+/* <![CDATA[ */
+var WowOption = {"mode":"enable"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/themes/vmag/js/vmag-custom.js?ver=1.1.6' id='vmag-custom-script-js'></script>
+<script type='text/javascript' id='jetpack-facebook-embed-js-extra'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.9/_inc/build/facebook-embed.min.js' id='jetpack-facebook-embed-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.9/_inc/build/twitter-timeline.min.js' id='jetpack-twitter-timeline-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://dailyasset.ng/wp-content/plugins/recent-posts-flexslider/js/jquery.flexslider-min.js?ver=2.1.1' id='recent-posts-flexslider-script-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202042.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.9',blog:'130901030',post:'37',tz:'1',srv:'dailyasset.ng'} ]);
+	_stq.push([ 'clickTrackerInit', '130901030', '37' ]);
+</script>
+        <script type="text/javascript">
+            function AI_responsive_widget() {
+                jQuery('object.StefanoAI-youtube-responsive').each(function () {
+                    jQuery(this).parent('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    jQuery(this).children('.fluid-width-video-wrapper').removeClass('fluid-width-video-wrapper').removeAttr('style').css('width', '100%').css('display', 'block');
+                    var width = jQuery(this).parent().innerWidth();
+                    var maxwidth = jQuery(this).css('max-width').replace(/px/, '');
+                    var pl = parseInt(jQuery(this).parent().css('padding-left').replace(/px/, ''));
+                    var pr = parseInt(jQuery(this).parent().css('padding-right').replace(/px/, ''));
+                    width = width - pl - pr;
+                    if (maxwidth < width) {
+                        width = maxwidth;
+                    }
+                    jQuery(this).css('width', width + "px");
+                    jQuery(this).css('height', width / (16 / 9) + "px");
+                    jQuery(this).find('iframe').css('width', width + "px");
+                    jQuery(this).find('iframe').css('height', width / (16 / 9) + "px");
+                });
+            }
+            if (typeof jQuery !== 'undefined') {
+                jQuery(document).ready(function () {
+                    var tag = document.createElement('script');
+                    tag.src = "https://www.youtube.com/iframe_api";
+                    var firstScriptTag = document.getElementsByTagName('script')[0];
+                    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+                    AI_responsive_widget();
+                });
+                jQuery(window).resize(function () {
+                    AI_responsive_widget();
+                });
+            }
+                </script>
+        
+</body>
+</html>

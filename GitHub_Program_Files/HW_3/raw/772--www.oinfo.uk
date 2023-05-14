@@ -1,0 +1,582 @@
+
+
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>oinfo.uk &#8211; Online Information UK</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="oinfo.uk &raquo; Feed" href="http://www.oinfo.uk/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.oinfo.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.oinfo.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='multicolors-style-css'  href='http://www.oinfo.uk/wp-content/themes/multicolors/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='multicolors-googlefonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.oinfo.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.oinfo.uk/wp-content/themes/multicolors/js/nav.js?ver=5.5.1' id='multicolors-nav-js'></script>
+<link rel="https://api.w.org/" href="http://www.oinfo.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.oinfo.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.oinfo.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+</head>
+<body class="home blog">
+
+<div id="container">
+	<div id="header-first-container">
+		<div class="logo">
+							<h1><a href="http://www.oinfo.uk/" title="oinfo.uk">oinfo.uk</a></h1>
+									<div class="site-tagline">Online Information UK</div>
+									</div>
+	</div>
+
+		<div id="header-second-container">
+		<div class="nav-head"><ul id="menu-menu-1" class="menu"><li id="menu-item-708" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-708"><a href="http://www.oinfo.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-710"><a href="http://www.oinfo.uk/oinfo">General info</a>
+<ul class="sub-menu">
+	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="http://www.oinfo.uk/oinfo/brexit">Brexit</a></li>
+	<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="http://www.oinfo.uk/americanisms">Americanism’s</a></li>
+	<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="http://www.oinfo.uk/documents-etc">Document’s etc</a></li>
+	<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="http://www.oinfo.uk/videos-etc">Video’s etc</a></li>
+	<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="http://www.oinfo.uk/oinfo/website-cookies">Website Cookies</a></li>
+</ul>
+</li>
+<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-712"><a href="http://www.oinfo.uk/technology">Technology</a>
+<ul class="sub-menu">
+	<li id="menu-item-999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999"><a href="http://www.oinfo.uk/technology/tv-and-sound">TV and Sound</a></li>
+	<li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-720"><a href="http://www.oinfo.uk/technology/mobile-phones">Mobile Phones</a>
+	<ul class="sub-menu">
+		<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="http://www.oinfo.uk/technology/mobile-phones/lg-v10-h900-etc">LG V10 H900 all versions</a></li>
+		<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.oinfo.uk/technology/sim-card">Sim Card</a></li>
+		<li id="menu-item-831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-831"><a href="http://www.oinfo.uk/sim-free">Sim Free</a></li>
+	</ul>
+</li>
+	<li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-713"><a href="http://www.oinfo.uk/technology/computing">Computing</a>
+	<ul class="sub-menu">
+		<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="http://www.oinfo.uk/technology/computing/pcs">PC’s</a></li>
+		<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="http://www.oinfo.uk/technology/computing/laptops-and-netbooks">Laptop’s and Netbook’s</a></li>
+		<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="http://www.oinfo.uk/technology/computing/tablets">Tablet PC</a></li>
+		<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="http://www.oinfo.uk/technology/computing/memory">Memory</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-752"><a href="http://www.oinfo.uk/help-with">Health</a>
+<ul class="sub-menu">
+	<li id="menu-item-948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-948"><a href="http://www.oinfo.uk/help-with/mental-health">Mental Health</a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="http://www.oinfo.uk/is-there-a-cure-for-cancer">Is there a cure for Cancer</a></li>
+	<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://www.oinfo.uk/is-type-2-diabetes-reversable">Is Type 2 Diabetes reversable?</a></li>
+	<li id="menu-item-975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="http://www.oinfo.uk/help-with/general-health-and-wellbeing">General Health and Wellbeing</a></li>
+</ul>
+</li>
+<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-797"><a href="http://www.oinfo.uk/entertainment">Aviation</a>
+<ul class="sub-menu">
+	<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="http://www.oinfo.uk/entertainment/raf-red-arrows-2019">RAF Red Arrows 2019-2020</a></li>
+	<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href="http://www.oinfo.uk/entertainment/private">Private</a></li>
+	<li id="menu-item-926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href="http://www.oinfo.uk/entertainment/commercial">Commercial</a></li>
+	<li id="menu-item-925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href="http://www.oinfo.uk/entertainment/passenger">Passenger</a></li>
+	<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="http://www.oinfo.uk/entertainment/rotory">Rotory</a></li>
+</ul>
+</li>
+<li id="menu-item-1048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1048"><a href="http://www.oinfo.uk/covid-19">Covid-19</a>
+<ul class="sub-menu">
+	<li id="menu-item-874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://www.oinfo.uk/help-with/coronavirusuk-covid_19uk">#Coronavirus #Covid_19</a></li>
+</ul>
+</li>
+<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-711"><a href="http://www.oinfo.uk/online-shopping">Shopping</a>
+<ul class="sub-menu">
+	<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="http://www.oinfo.uk/high-street">High Street Shopping</a></li>
+	<li id="menu-item-894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href="http://www.oinfo.uk/online-shopping/shopping-centers">Shopping Centers</a></li>
+	<li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="http://www.oinfo.uk/online-shopping/buying-online">Buying Online</a></li>
+	<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.oinfo.uk/trading-estates">Trading Estates</a></li>
+	<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="http://www.oinfo.uk/online-shopping/shopping-channels-on-tv">TV Shopping Channels</a></li>
+</ul>
+</li>
+<li id="menu-item-848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-848"><a href="http://www.oinfo.uk/automotive">Transport</a>
+<ul class="sub-menu">
+	<li id="menu-item-995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995"><a href="http://www.oinfo.uk/automotive/electric-vehicles">Electric Vehicles</a></li>
+	<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="http://www.oinfo.uk/automotive/motorcycle-scooter-or-moped">Motorcycle, Scooter or Moped?</a></li>
+	<li id="menu-item-911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-911"><a href="http://www.oinfo.uk/automotive/cars">Cars</a></li>
+	<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-910"><a href="http://www.oinfo.uk/automotive/commercial">Commercial</a></li>
+	<li id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909"><a href="http://www.oinfo.uk/automotive/agricultural">Agricultural</a></li>
+	<li id="menu-item-929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929"><a href="http://www.oinfo.uk/automotive/emergency-services">Emergency Services</a></li>
+</ul>
+</li>
+<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="http://www.oinfo.uk/vids-n-pics">Vids n Pics</a></li>
+</ul></div>		<div class="mobile-nav-container">
+			<div class="mobile-nav-toggle">Menu +</div>
+			<div class="mobile-nav">
+				<div class="menu-menu-1-container"><ul id="menu-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-708"><a href="http://www.oinfo.uk/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-710"><a href="http://www.oinfo.uk/oinfo">General info</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="http://www.oinfo.uk/oinfo/brexit">Brexit</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="http://www.oinfo.uk/americanisms">Americanism’s</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="http://www.oinfo.uk/documents-etc">Document’s etc</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-727"><a href="http://www.oinfo.uk/videos-etc">Video’s etc</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="http://www.oinfo.uk/oinfo/website-cookies">Website Cookies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-712"><a href="http://www.oinfo.uk/technology">Technology</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-999"><a href="http://www.oinfo.uk/technology/tv-and-sound">TV and Sound</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-720"><a href="http://www.oinfo.uk/technology/mobile-phones">Mobile Phones</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="http://www.oinfo.uk/technology/mobile-phones/lg-v10-h900-etc">LG V10 H900 all versions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.oinfo.uk/technology/sim-card">Sim Card</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-831"><a href="http://www.oinfo.uk/sim-free">Sim Free</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-713"><a href="http://www.oinfo.uk/technology/computing">Computing</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="http://www.oinfo.uk/technology/computing/pcs">PC’s</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="http://www.oinfo.uk/technology/computing/laptops-and-netbooks">Laptop’s and Netbook’s</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="http://www.oinfo.uk/technology/computing/tablets">Tablet PC</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="http://www.oinfo.uk/technology/computing/memory">Memory</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-752"><a href="http://www.oinfo.uk/help-with">Health</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-948"><a href="http://www.oinfo.uk/help-with/mental-health">Mental Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="http://www.oinfo.uk/is-there-a-cure-for-cancer">Is there a cure for Cancer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://www.oinfo.uk/is-type-2-diabetes-reversable">Is Type 2 Diabetes reversable?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-975"><a href="http://www.oinfo.uk/help-with/general-health-and-wellbeing">General Health and Wellbeing</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-797"><a href="http://www.oinfo.uk/entertainment">Aviation</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-728"><a href="http://www.oinfo.uk/entertainment/raf-red-arrows-2019">RAF Red Arrows 2019-2020</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href="http://www.oinfo.uk/entertainment/private">Private</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href="http://www.oinfo.uk/entertainment/commercial">Commercial</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href="http://www.oinfo.uk/entertainment/passenger">Passenger</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="http://www.oinfo.uk/entertainment/rotory">Rotory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1048"><a href="http://www.oinfo.uk/covid-19">Covid-19</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-874"><a href="http://www.oinfo.uk/help-with/coronavirusuk-covid_19uk">#Coronavirus #Covid_19</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-711"><a href="http://www.oinfo.uk/online-shopping">Shopping</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="http://www.oinfo.uk/high-street">High Street Shopping</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href="http://www.oinfo.uk/online-shopping/shopping-centers">Shopping Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="http://www.oinfo.uk/online-shopping/buying-online">Buying Online</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.oinfo.uk/trading-estates">Trading Estates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="http://www.oinfo.uk/online-shopping/shopping-channels-on-tv">TV Shopping Channels</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-848"><a href="http://www.oinfo.uk/automotive">Transport</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-995"><a href="http://www.oinfo.uk/automotive/electric-vehicles">Electric Vehicles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-725"><a href="http://www.oinfo.uk/automotive/motorcycle-scooter-or-moped">Motorcycle, Scooter or Moped?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-911"><a href="http://www.oinfo.uk/automotive/cars">Cars</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-910"><a href="http://www.oinfo.uk/automotive/commercial">Commercial</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909"><a href="http://www.oinfo.uk/automotive/agricultural">Agricultural</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929"><a href="http://www.oinfo.uk/automotive/emergency-services">Emergency Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="http://www.oinfo.uk/vids-n-pics">Vids n Pics</a></li>
+</ul></div>			</div>
+		</div>
+	</div>
+	
+			
+			
+	<div id="main-content-container">
+		<div id="main-content">
+<div id="content-full">
+							
+					
+			<article id="post-1038" class="post-home left post-1038 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Covid-19"> Covid-19</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-10-06T20:05:56+01:00">6 October 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>ITS Covid_19 because Coronavirus is a GROUP of SEVEN Viruses!</p>
+
+
+
+<p>Even our Government and the NHS are getting it WRONG!!</p>
+
+
+
+<p>Coronavirus is a general term and NOT the ACTUAL name of this CURRENT Pandemic that was named Covid_19 by WHO World Health Organisation because Seasonal Flu is Coronavirus!!</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="573" src="http://www.oinfo.uk/wp-content/uploads/2020/10/image_2020-10-06_200357-1024x573.png" alt="" class="wp-image-1039" srcset="http://www.oinfo.uk/wp-content/uploads/2020/10/image_2020-10-06_200357-1024x573.png 1024w, http://www.oinfo.uk/wp-content/uploads/2020/10/image_2020-10-06_200357-300x168.png 300w, http://www.oinfo.uk/wp-content/uploads/2020/10/image_2020-10-06_200357-768x430.png 768w, http://www.oinfo.uk/wp-content/uploads/2020/10/image_2020-10-06_200357.png 1079w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+			</div>
+
+	</article>
+					
+			<article id="post-1033" class="post-home post-1033 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Covid-19 UK"> Covid-19 UK</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-09-30T04:49:50+01:00">30 September 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>Mounting evidence and common knowledge along with logical thinking and common sense says that Covid-19 is <a href="https://www.healthline.com/health-news/experts-say-covid-19-is-airborne-heres-how-you-can-stay-safe">spread by Droplets and Aerosols</a> that are smaller and can drift and hang in the air even just by talking and normal breathing, this is why we need to be serious and vigilant in keeping our distance along with wearing a mask and Hand hygiene washing with Soap and Water or using Hand Sanitiser if out and about, it will also help if we keep surfaces clean and maintain best possible care towards our fellow Humans by doing this. Being careless or selfish not only can cause deaths from the virus itself but causing Mental Health issues from various situations caused by having to take measures strange to what we are used to in normal everyday life.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-1024x1024.png" alt="" class="wp-image-1034" srcset="http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-1024x1024.png 1024w, http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-300x300.png 300w, http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-150x150.png 150w, http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-768x768.png 768w, http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others-1536x1536.png 1536w, http://www.oinfo.uk/wp-content/uploads/2020/09/wear-a-mask-to-protect-yourself-others.png 1921w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+			</div>
+
+	</article>
+					
+			<article id="post-1030" class="post-home left post-1030 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Covid_19 UK"> Covid_19 UK</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-09-30T04:26:41+01:00">30 September 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>its now <a href="https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_Kingdom">September 2020 and its about 8 Months since it came to the UK </a>!!!</p>
+
+
+
+<p>Here is a<a href="https://bfpg.co.uk/2020/04/covid-19-timeline/"> Month by Month </a>timeline of this Pandemic</p>
+
+
+
+<p>R number and the <a href="https://www.newscientist.com/article/2237475-covid-19-news-uk-government-criticised-for-confusion-over-new-rules/">rise in Covid-19 cases 29 September</a></p>
+
+
+
+<p>NHS Social distancing: <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/social-distancing/what-you-need-to-do/">what you need to do</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="472" src="http://www.oinfo.uk/wp-content/uploads/2020/09/masks-and-no-masks.jpg" alt="" class="wp-image-1031" srcset="http://www.oinfo.uk/wp-content/uploads/2020/09/masks-and-no-masks.jpg 800w, http://www.oinfo.uk/wp-content/uploads/2020/09/masks-and-no-masks-300x177.jpg 300w, http://www.oinfo.uk/wp-content/uploads/2020/09/masks-and-no-masks-768x453.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+			</div>
+
+	</article>
+					
+			<article id="post-1025" class="post-home post-1025 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Mask Wearing in shops"> Mask Wearing in shops</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-07-14T00:41:31+01:00">14 July 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>Maybe after all this time the Government will understand we all need to wear a mask in public because this Covid19 is partly aerosoled and we cant see it. So to help protect each other and save lives. <a href="https://www.bbc.com/news/uk-politics-53388444"><strong>Wear a mask in shops has been announced</strong></a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="300" height="180" src="http://www.oinfo.uk/wp-content/uploads/2020/07/3252-1.jpg" alt="" class="wp-image-1026"/></figure></div>
+			</div>
+
+	</article>
+					
+			<article id="post-1013" class="post-home left post-1013 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Masks and lack of Oxygen"> Masks and lack of Oxygen</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-07-11T19:32:45+01:00">11 July 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p> Quite a few people saying adverse things about wearing masks, quite probably because they are feeling claustrophobic or just don&#8217;t like wearing one because its not the normal thing to do for them? But lets remember we all have a duty of care towards our fellow Humans and spreading Covid19 knowing you could be asymptomatioc and spreading it with the possibility of it killing someone is that how you like to be!? So, is it true that when wearing a mask it starves you of Oxygen? well the answer is apparently <a href="https://expressdigest.com/coronavirus-doctor-debunks-claims-face-masks-inhibit-breathing/">No it doesn&#8217;t according to this HC Professional.</a>and many others because if it did do you REALLY think they would be wearing then ALL DAY&#8230;photos she posted on her Facebook Page.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="661" height="650" src="http://www.oinfo.uk/wp-content/uploads/2020/07/mask1.jpg" alt="" class="wp-image-1014" srcset="http://www.oinfo.uk/wp-content/uploads/2020/07/mask1.jpg 661w, http://www.oinfo.uk/wp-content/uploads/2020/07/mask1-300x295.jpg 300w" sizes="(max-width: 661px) 100vw, 661px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="655" height="629" src="http://www.oinfo.uk/wp-content/uploads/2020/07/mask2.jpg" alt="" class="wp-image-1015" srcset="http://www.oinfo.uk/wp-content/uploads/2020/07/mask2.jpg 655w, http://www.oinfo.uk/wp-content/uploads/2020/07/mask2-300x288.jpg 300w" sizes="(max-width: 655px) 100vw, 655px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="649" height="637" src="http://www.oinfo.uk/wp-content/uploads/2020/07/mask3.jpg" alt="" class="wp-image-1016" srcset="http://www.oinfo.uk/wp-content/uploads/2020/07/mask3.jpg 649w, http://www.oinfo.uk/wp-content/uploads/2020/07/mask3-300x294.jpg 300w" sizes="(max-width: 649px) 100vw, 649px" /></figure>
+
+
+
+<p><a href="https://www.boredpanda.com/face-mask-oxygen-levels-coronavirus-prevention-megan-hall/?media_id=face-mask-oxygen-levels-coronavirus-prevention-megan-hall-17-5ef3121ade7d1__700&amp;utm_source=google&amp;utm_medium=organic&amp;utm_campaign=organic">More on this story here.</a></p>
+			</div>
+
+	</article>
+					
+			<article id="post-1008" class="post-home post-1008 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Face Mask wearing?"> Face Mask wearing?</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-07-11T16:22:26+01:00">11 July 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>Firstly I am no Doctor or Health Advisor but my experience in life and at work along with LOTS of research I am doing this to try and help people. Finally after eight months or so of Coronavirus pandemic, Covid19 as its been known as since February 23rd 2020 when The World Health Organisation named it so we would&#8217;nt get mixed up between Covid10 and othewr Coronaviruses like Seasonal Flu it might be the UK Government will be anopuncing that Mask wearing in shops might become compulsory? <a href="https://www.bbc.com/news/uk-politics-53365062">BBC link here</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="300" height="180" src="http://www.oinfo.uk/wp-content/uploads/2020/07/3252.jpg" alt="" class="wp-image-1009"/></figure></div>
+
+
+
+<p>More news on the wearing of masks from Newspapers etc below.</p>
+
+
+
+<p><a href="https://www.wired.co.uk/article/face-masks-compulsory-uk">Wired Co UK on 29th June 2020</a> <a href="http://Why aren’t face coverings compulsory in the UK?">Why aren’t face coverings compulsory in the UK?</a></p>
+
+
+
+<p><a href="https://www.dailymail.co.uk/news/article-8510095/Ministers-dodge-wearing-face-coverings-public.html">Daily Mail 11 July 2020 Masks &#8216;WILL become compulsory in shops and pubs within weeks&#8217; as Boris Johnson wears a mask for the first time to pull a pints</a></p>
+
+
+
+<p>If you are wanting to buy a mask there are plenty of non-surgical masks on <a href="http://www.ebay.co.uk">eBay,co.uk</a> There are the best ones like Vogmask and Cambridge Mask and expect to pay around £100 or so currently for these as they are better than most others because they have been made with the best filters and materials, the filter being the full size of the mask so you get better filtration than the ones that have a filter you can take out and renew because these type only filter part of the mask. Vogmask and Cambridge Masks are reuseable for quite some time depending on how often used Vogmask say 3 tyo 5 months depending and Cambridge Mask say 340 hrs depending.</p>
+
+
+
+<p>Look for N95 or best N99 but try not to buy the ones that Healthcare workers use. Make sure your hands are cleaned before putting a mask on and DONT touch the mask itself when in use and taking it off as it will have Covid19 on it and it will be spread everywhere you touch so be careful. Wear your mask over your Mouth and Nose properly and it will HELP to protect you and others.</p>
+
+
+
+<p>Other places to look are Gumtree, Preloved and Etsy but be careful what and who you buy from as always. #Wearamasktosavelives #lookaftereachother</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Bill Nye says Wear a Mask and Save Lives" width="760" height="428" src="https://www.youtube.com/embed/RYGCP8sGCi8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Vogmask (below) has Earloops and a vent they come in different designs.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="471" height="223" src="http://www.oinfo.uk/wp-content/uploads/2020/07/capture6.jpg" alt="" class="wp-image-1011" srcset="http://www.oinfo.uk/wp-content/uploads/2020/07/capture6.jpg 471w, http://www.oinfo.uk/wp-content/uploads/2020/07/capture6-300x142.jpg 300w" sizes="(max-width: 471px) 100vw, 471px" /></figure>
+			</div>
+
+	</article>
+					
+			<article id="post-963" class="post-home left post-963 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Coronavirus"> Coronavirus</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-06-29T22:29:11+01:00">29 June 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p><strong>Coronavirus Why is it called Covid_19</strong>?</p>
+
+
+
+<p>Most Media and Authorities are STILL calling this latest Novel Coronavirus Pandemic Coronavirus and not as they should be calling it Covid_19 even after more than 4 Months! Coronavirus is also seasonal Flu! This is why The World Health organisation named it Covid_19 11th February 2020.</p>
+
+
+
+<p>February 2020 The World Health Organization said the official name for the disease caused by the new coronavirus is Covid-19.</p>
+
+
+
+<p>&#8220;We now have a name for the disease and it&#8217;s Covid-19,&#8221; WHO chief Tedros Adhanom Ghebreyesus told reporters in Geneva.</p>
+
+
+
+<p>It comes after the death toll from the virus passed 1,000. Tens of thousands of people have been infected.</p>
+
+
+
+<p>Dr Ghebreyesus called on the world to fight the new virus as aggressively as possible.</p>
+
+
+
+<p>The word coronavirus refers to the group of viruses it belongs to, rather than the latest strain.</p>
+
+
+
+<p>The virus itself&nbsp;<a href="https://www.biorxiv.org/content/10.1101/2020.02.07.937862v1">has been designated SARS-CoV-2</a>&nbsp;by the International Committee on Taxonomy of Viruses.</p>
+
+
+
+<p>Researchers have been calling for an official name to avoid confusion and stigmatisation of any group or country because its not only Covid_19 it is Coronavirus Seasonal Flu plus others&#8230;&#8230;</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="696" height="464" src="http://www.oinfo.uk/wp-content/uploads/2020/06/COVID-19.jpg" alt="" class="wp-image-964" srcset="http://www.oinfo.uk/wp-content/uploads/2020/06/COVID-19.jpg 696w, http://www.oinfo.uk/wp-content/uploads/2020/06/COVID-19-300x200.jpg 300w" sizes="(max-width: 696px) 100vw, 696px" /></figure>
+			</div>
+
+	</article>
+					
+			<article id="post-879" class="post-home post-879 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Clap for Carers"> Clap for Carers</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-05-28T16:20:02+01:00">28 May 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>Its been said that this Thursday 28th May 2020 Clap for Carers might be the last one, but some people think it should carry on to give the Front Line workers support as its still needed it was started 10 weeks ago by <a href="https://en.wikipedia.org/wiki/Clap_for_Our_Carers"><em>Annemarie Plas</em></a> and heres the <a href="http://www.clapforcarers.co.uk"><em>Website</em></a> and you can follow her on Twitter @AnnemariePlas</p>
+
+
+
+<p>It is said that some of the Front Line workers in the NHS and Care sectors that they will be suffering Mental Trauma themselves so in my opinion we NEED to still help them and will have to for some time to come?</p>
+
+
+
+<p>Facebook Video about Annemarie Plas and the <a href="https://www.facebook.com/facebookappUK/videos/526769514549743/"><em>last Clap</em></a>?</p>
+
+
+
+<p>Yoga with Annemarie Plas</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="#5 - 30 MIN YOGA PRACTICE - Where Is Your Normal? - Week 21 - 2020 | By Annemarie Plas" width="760" height="428" src="https://www.youtube.com/embed/Gi1K3CjdFD4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+			</div>
+
+	</article>
+					
+			<article id="post-869" class="post-home left post-869 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to Coronavirus Covid_19"> Coronavirus Covid_19</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2020-05-07T00:09:54+01:00">7 May 2020</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p>Coronavirus is a group of Viruses and this latest <a href="https://en.wikipedia.org/wiki/Coronavirus">Novel Coronavirus was named Covid_19</a> on Feruary 11th 2020 so as to differentiate between this latest <a href="https://www.webmd.com/lung/coronavirus">Covid_19</a> Pandemic and SARS, MERS and Seasonal Flu BECAUSE there are some differences.</p>
+			</div>
+
+	</article>
+					
+			<article id="post-864" class="post-home post-864 post type-post status-publish format-standard hentry category-uncategorised">
+		
+	<h2 class="post-title entry-title">
+		<a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions" rel="bookmark" title="Permalink to UK General Election 2019"> UK General Election 2019</a>
+	</h2>
+
+	
+<div class="postmetadata">
+	Posted on <a href="http://www.oinfo.uk/LG%20V10%20H900%20all%20versions"><time class="updated" datetime="2019-12-14T04:23:15+00:00">14 December 2019</time></a> | 
+	By <span class="author vcard"><a class="url fn" href="http://www.oinfo.uk/LGauthor/lenny654">oinfo.uk</a></span>	</div>
+
+	<div class="entry-content">
+							
+<p><strong>The UK General Election was held on Thursday 12 December 2019</strong>. </p>
+
+
+
+<p>It was a Landslide Victory for the Conservatives with Boris Johnson at the Helm votes received  13,966,565 total seats  365, he had a Slogan &#8220;Get Brexit Done&#8221; which seemed to catch on quite a bit.</p>
+
+
+
+<p>Jo Swinson came out worse than most and even lost her seat Lib-Dems got just 11 seats with  3,696,423 votes. Labour came Second with 203 seats and 10,295,607 votes,  the SNP with Nichola Sturgeon came Third with 48 seats from 3,696,423 votes .  <a href="https://en.wikipedia.org/wiki/Results_breakdown_of_the_2019_United_Kingdom_general_election">For Full results click here Wikipedia.</a></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Boris Johnson tells Tory conference &#039;Let&#039;s get Brexit done&#039; in key note speech" width="760" height="428" src="https://www.youtube.com/embed/1YPXXDs4QZM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Boris Johnson recreates Love Actually doorstep scene warning the election is ‘closer than you think’" width="760" height="428" src="https://www.youtube.com/embed/an6rjBDE6zA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Results_breakdown_of_the_2019_United_Kingdom_general_election">The full results click here Wikipedia.</a></p>
+			</div>
+
+	</article>
+		
+		<div class="post-nav">
+			<a href="http://www.oinfo.uk/page/2" class="nav-next">Next Page &raquo;</a>					</div>
+
+	</div>
+
+</div><!-- #main-content -->
+</div><!-- #main-content-container -->
+<div id="footer">
+	
+	<div class="site-info">
+		Copyright 2020  <a href="http://www.oinfo.uk/" title="oinfo.uk">oinfo.uk</a>
+	</div>
+</div>
+</div><!-- #container -->
+
+<script type='text/javascript' src='http://www.oinfo.uk/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+</body>
+</html>

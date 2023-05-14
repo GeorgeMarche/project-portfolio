@@ -1,0 +1,193 @@
+Authors: George Marche <gmarche>
+
+a. 	R = {A,B,C,D,E}
+	F = {B -> CE, BCD -> E, DE -> A}
+
+	LHS Only = {B,D}
+	RHS Only = {A}
+	Unknowns = {C,E}
+
+	Here, B and D must be in the key, and A cannot be in the key. C
+	and E do not need to be in the key as B determines C and E.
+
+		i. BD -> A:
+			1. B -> CE	given
+			2. DE -> A	given
+			3. BD -> CDE	1, aug
+			4. BD -> DE	3, decomp
+			5. BD -> A	4,2 trans (DE -> A)
+
+		ii. BD -> B:
+			1. BD -> B	ref
+
+		iii. BD -> C:
+			1. B -> CE	given
+			2. BD -> CDE	1, aug
+			3. BD -> C	2, decomp
+
+		iv. BD -> D:
+			1. BD -> D	ref
+
+		v. BD -> E:
+			1. B -> CE	given
+			2. BD -> CDE	1, aug
+			3. BD -> E	2, decomp
+
+	The keys for this relation are: BD
+
+b.	R = {A,B,C,D}
+	F = {ABC -> D, ABD -> C}
+
+	LHS Only = {A,B}
+	Unknowns = {C,D}
+
+	Here, A and B must be in the key. However, by themselves, they
+	determine nothing out of these functional dependencies. We need
+	to either add C to determine D or vice versa. ABC and ABD are
+	overlapping keys.
+	
+	Key ABC:	
+		i. ABC -> A:
+			1. ABC -> A	ref
+
+		ii. ABC -> B:
+			1. ABC -> B	ref
+
+		iii. ABC -> C:
+			1. ABC -> C	ref
+
+		iv. ABC -> D:
+			1. ABC -> D	given
+
+	Key ABD:
+		i. ABD -> A:	
+			1. ABD -> A	ref
+		
+		ii. ABD -> B:
+			1. ABD -> B	ref
+
+		iii. ABD -> C:
+			1. ABD -> C	given
+
+		iv. ABD -> D:
+			1. ABD -> D	ref
+
+	The keys for this relation are: ABC and ABD
+
+c. 	R = {A,B,C,D}
+	F = {B -> C, CD -> AB}
+	
+	LHS Only = {D}
+	RHS Only = {A}
+	Unknowns = {B,C}
+	
+	Here, D must be in the key and A cannot be in the key. As
+	obviously seen in the second functional dependency, C and D do
+	determine A and B already. Also, B and D determine C and A, as
+	B determines C, which means BD determines CD, which transitively
+	determines A. BD and CD are overlapping keys. D is not the key
+	as it determines nothing by itself.
+	
+	Key BD:
+		i. BD -> A:
+			1. B -> C	given
+			2. CD -> AB	given
+			3. BD -> CD	1, aug
+			4. BD -> AB	3,2 trans
+			5. BD -> A	4, decomp
+
+		ii. BD -> B:
+			1. BD -> B	ref
+
+		iii. BD -> C:
+			1. B -> C	given
+			2. BD -> CD	1, aug
+			3. BD -> C	2, decomp
+
+		iv. BD -> D:
+			1. BD -> D	ref
+	
+	Key CD:	
+		i. CD -> A:
+			1. CD -> AB	given
+			2. CD -> A	1, decomp
+
+		ii. CD -> B:
+			1. CD -> AB	given
+			2. CD -> B	1, decomp
+
+		iii. CD -> C:
+			1. CD -> C	ref
+
+		iv. CD -> D
+			1. CD -> D	ref
+
+	The keys for this relation are: BD and CD
+
+d.	R = {A,B,C,D}
+	F = {A -> B, B -> AD, CD -> A}
+
+	LHS Only = {C}
+	RHS Only = {}
+	Unknowns = {A,B,D}
+
+	Here, C must be in the key. However, by itself, it determines
+	nothing. A determines B, which transitively determines A and D,
+	and C determines itself, so CA is a key. Similarly, B determines
+	A and D, so CB is a key. Also, C and D determine A, which then
+	determines B, so CD is a key as well. We have three keys here
+	that all overlap.
+
+	Key AC:
+		i. AC -> A:
+			1. AC -> A	ref
+
+		ii. AC -> B:
+			1. A -> B	given
+			2. AC -> BC	1, aug
+			3. AC -> B	2, decomp
+
+		iii. AC -> C:
+			1. AC -> C	ref
+
+		iv. AC -> D:
+			1. A -> B	given	
+			2. B -> AD	given
+			3. AC -> BC	1, aug
+			4. AC -> B	3, decomp
+			5. AC -> AD	4,2 trans
+			6. AC -> D	5, decomp
+
+	Key BC:
+		i. BC -> A:
+			1. B -> AD	given
+			2. BC -> ACD	1, aug
+			3. BC -> A	2, decomp
+
+		ii. BC -> B:
+			1. BC -> B	ref
+
+		iii. BC -> C:
+			1. BC -> C	ref
+
+		iv. BC -> D:
+			1. B -> AD	given
+			2. BC -> ACD	1, aug
+			3. BC -> D	2, decomp
+
+	Key CD:
+		i. CD -> A:
+			1. CD -> A	given
+
+		ii. CD -> B:
+			1. CD -> A	given
+			2. A -> B	given
+			3. CD -> B	1,2 trans
+
+		iii. CD -> C:
+			1. CD -> C	ref
+
+		iv. CD -> D:
+			1. CD -> D	ref
+
+	The keys for this relation are: AC, BC, and CD

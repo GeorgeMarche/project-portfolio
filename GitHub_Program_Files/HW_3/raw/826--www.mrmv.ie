@@ -1,0 +1,1117 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Mihai Vioreanu, Knee &amp; Hip Orthopaedic Surgeon at Sports Surgery Clinic" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="description" content="Mihai Vioreanu is an internationally trained Dublin-based Orthopaedic Surgeon with expertise in sports  knee ( ACL, Meniscal, Cartilage and Malalignment surgery ) and hip and knee replacement." />
+    <meta name="keywords" content="" />
+    <meta name="title" content="Mihai Vioreanu, Knee &amp; Hip Orthopaedic Surgeon at Sports Surgery Clinic" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5d5bed78c60153001277bfb3&product=inline-share-buttons' async='async'></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    <!--GOOGLE Analytics CODE-->
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-52294971-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+    <meta name="google-site-verification" content="uxooAxq0ta7H-R3nB_q_1wGjY174C9RP3kJdu4IopVg" />
+
+
+    <title> Mihai Vioreanu | Home</title>
+
+
+    <link href="/Content/css?v=OC1ComIaNbkbQoUZgS9lU2wWaTxcZtsSdC8XGn9el-k1" rel="stylesheet"/>
+
+    <link href="/Content/modal?v=72nRqLqx1-nQZEPjg9yMdq154tFRrQc8_6U5dKEBgJ81" rel="stylesheet"/>
+
+    <link href="/Content/resources?v=fQwANDaf8dT_I4gdYuLL8cHxhuWfW-T3EUuKchgjV5Q1" rel="stylesheet"/>
+
+    
+    <style>
+        @media(max-width: 1025px) {
+            .site-header, .site-header .overlay:before {
+                height: 640px !important;
+            }
+        }
+    </style>
+
+    <script src="/bundles/jquery?v=8Oos0avDZyPg-cbyVzvkIfERIE1DGSe3sRQdCSYrgEQ1"></script>
+
+</head>
+
+<body>
+    <div class="site-header">
+        <div class="site-navbar">
+            <ul class="main-nav navigation-container">
+
+    <input type="checkbox" hidden aria-hidden="true" id="menu-open" />
+    <label for="menu-open" class="dropdown-button">
+        <span id="burger-lines">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </span>
+    </label>
+    <ul class="level-Umbraco.Web.Models.DynamicPublishedContent clearfix">
+        
+
+
+        <li class="logo-home">
+            <a href="/" class="logo">
+                <img src="/img/logo.png" />
+            </a>
+        </li>
+
+                <li class="has-child">
+                        <a href="/about/" class="nav-links">About</a>
+                </li>
+                <li class="has-child">
+                        <a href="/surgery/" class="nav-links">Surgery</a><div class="arrow-menu" id="arrow-1" onclick="visibleSubmenu(1)"></div>
+                        <ul class="submenu" id="submenu-1">
+                                    <li><a href="/surgery/knee-surgery/" class="nav-links">Knee Surgery</a></li>
+                                    <li><a href="/surgery/hip-surgery/" class="nav-links">Hip Surgery</a></li>
+                        </ul>
+                </li>
+                <li class="has-child">
+                        <a href="/rehabilitation/" class="nav-links">Rehabilitation</a>
+                </li>
+                <li class="has-child">
+                        <a href="/resources/" class="nav-links">Resources</a><div class="arrow-menu" id="arrow-3" onclick="visibleSubmenu(3)"></div>
+                        <ul class="submenu" id="submenu-3">
+                                    <li><a href="/resources/blog/" class="nav-links">Blog</a></li>
+                                    <li><a href="/resources/video/" class="nav-links">Video</a></li>
+                        </ul>
+                </li>
+                <li class="has-child">
+                        <a href="/testimonials/" class="nav-links">Testimonials</a><div class="arrow-menu" id="arrow-4" onclick="visibleSubmenu(4)"></div>
+                        <ul class="submenu" id="submenu-4">
+                                        <li class="submenu-1"><a href="/testimonials/?tab=1" class="nav-links">PATIENTS</a></li>
+                                        <li class="submenu-2"><a href="/testimonials/?tab=2" class="nav-links">PROFESSIONALS</a></li>
+                        </ul>
+                </li>
+                <li class="has-child">
+                        <a href="/appointments/" class="nav-links">Appointments</a>
+                </li>
+                <li class="has-child">
+                        <a href="/contact/" class="nav-links">Contact</a>
+                </li>
+
+    </ul>
+
+
+            </ul>
+        </div>
+        <div class="phone-number">
+            <a href="tel:(01) 526 2340">
+                <div class="phone">
+                    <img src="/img/phone_white.png" />
+                    <label>(01) 526 2340 </label>
+                </div>
+            </a>
+        </div>
+        <div class="site-header-content flex-container overlay" id="start-navbar">
+            
+    
+<div class="slideshow-container" style="overflow: hidden;height: 647px">
+        <div class="slide">
+                <img src="/media/1085/slider1.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=640" srcset="/media/1085/slider1.jpg 2x"/>
+                <div class="slide-content" id="showAfter">
+                    <div class="title-slider">
+                        <div>
+                            <div class="title">
+                                Orthopaedic Surgeon
+                            </div>
+                            <div class="description">
+                                <p>Knee &amp; Hip Specialist </p>
+                            </div>
+                        </div>
+                        <a href="/about/">
+                            <input class="primary-button" type="button" value="Read more" />
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="slide">
+                <img src="/media/1086/slider2.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=640" srcset="/media/1086/slider2.jpg 2x"/>
+                <div class="slide-content" id="showAfter">
+                    <div class="title-slider">
+                        <div>
+                            <div class="title">
+                                Sports Surgery Clinic
+                            </div>
+                            <div class="description">
+                                <p>Ireland's leading orthopaedic sports injuries private hospital</p>
+                            </div>
+                        </div>
+                        <a href="/contact/">
+                            <input class="primary-button" type="button" value="Read more" />
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="slide">
+                <img src="/media/1087/slider3.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=640" srcset="/media/1087/slider3.jpg 2x"/>
+                <div class="slide-content" id="showAfter">
+                    <div class="title-slider">
+                        <div>
+                            <div class="title">
+                                Knee &amp; Hip Surgeon
+                            </div>
+                            <div class="description">
+                                <p>Trained to the highest international standards</p>
+                            </div>
+                        </div>
+                        <a href="/about/">
+                            <input class="primary-button" type="button" value="Read more" />
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="slide">
+                <img src="/media/1088/slider4.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=640" srcset="/media/1088/slider4.jpg 2x"/>
+                <div class="slide-content" id="showAfter">
+                    <div class="title-slider">
+                        <div>
+                            <div class="title">
+                                Knee Surgery
+                            </div>
+                            <div class="description">
+                                <p>ACL, Meniscal, Cartilage, Early Osteoarthritis &amp; Malalignment Knee Surgery</p>
+                            </div>
+                        </div>
+                        <a href="/surgery/knee-surgery/">
+                            <input class="primary-button" type="button" value="Read more" />
+                        </a>
+                    </div>
+                </div>
+        </div>
+        <div class="slide">
+                <img src="/media/1089/slider5.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=640" srcset="/media/1089/slider5.jpg 2x"/>
+                <div class="slide-content" id="showAfter">
+                    <div class="title-slider">
+                        <div>
+                            <div class="title">
+                                Hip &amp; Knee Replacement
+                            </div>
+                            <div class="description">
+                                <p>Return to your chosen activity, work, leisure or lifestyle pursuits</p>
+                            </div>
+                        </div>
+                        <a href="/surgery/hip-surgery/">
+                            <input class="primary-button" type="button" value="Read more" />
+                        </a>
+                    </div>
+                </div>
+        </div>
+    <div class="button-slides">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+    <div class="site-container">
+        
+
+
+<div class="content">
+    <label class="title-content">about</label>
+    <div class="container-about flex-container">
+        <img src="/media/1181/img_8954-2x.png?anchor=center&mode=crop&height=325&width=215" />
+        <div class="about-description">
+            <div class="descripiton ellipsis">
+                <p><strong>Mr. Mihai Vioreanu is a highly experienced, internationally trained and Dublin-based Knee &amp; Hip Orthopaedic Surgeon with expertise in knee and hip surgery, performing over 600 surgical procedures a year.</strong></p>
+<p> </p>
+<p>After completing his Specialist Orthopaedic training in Ireland Mihai moved to Vancouver, Canada to subspecialize in Primary and Revision Hip and Knee Replacement. Mihai also spent a year in Sydney, Australia performing Sports Knee Surgery with Professor Leo Pinczewski, one of the world leaders in ACL Reconstruction. During the year in Sydney, Mr. Vioreanu has operated on many professional athletes (ie Rugby, AFL, Netball &amp; Soccer players) as well as children and adolescents with knee injuries and patients with failed ACL reconstruction requiring revision ACL surgery.</p>
+<p> </p>
+<p>Mr. Vioreanu is dedicated to achieving the best possible outcome for every patient, using an evidence-based approach when recommending treatment. He employs the most effective surgical techniques and technologies, multimodal pain control protocols, early mobilization and rapid recovery rehabilitation programs.</p>
+<p><br />Mr. Vioreanu returned in 2014 to Dublin to practice at Sports Surgery Clinic and Mater Private Hospital.</p>
+            </div>
+            <a href="1169"><input type="button" class="third-button" value="View more..." /></a>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <label class="title-content">
+        TREATMENTS
+    </label>
+    <div class="container-treatments flex-container">
+            <div class="container-left">
+                <a href="/surgery/knee-surgery/">
+                    <div class="container-img overlay">
+                        <img src="/media/1184/4_girls_gaa-2x-min.png?anchor=center&amp;mode=crop&amp;width=550&amp;height=300" srcset="/media/1184/4_girls_gaa-2x-min.png" />
+                        <div class="title">Knee Surgery</div>
+                    </div>
+                </a>
+                <div class="article">
+                                <a href="/surgery/knee-surgery/?tab=1">
+                                    <input type="button" class="primary-button" value="Anterior Cruciate Ligament (ACL)" />
+                                </a>
+                                <a href="/surgery/knee-surgery/?tab=2">
+                                    <input type="button" class="primary-button" value="Knee Arthroscopy" />
+                                </a>
+                                <a href="/surgery/knee-surgery/?tab=3">
+                                    <input type="button" class="primary-button" value="Knee Osteoarthritis" />
+                                </a>
+                                <a href="/surgery/knee-surgery/?tab=4">
+                                    <input type="button" class="primary-button" value="Knee Replacement" />
+                                </a>
+
+                </div>
+            </div>
+            <div class="container-left">
+                <a href="/surgery/hip-surgery/">
+                    <div class="container-img overlay">
+                        <img src="/media/1185/5_eldery_couple-2x-min.png?anchor=center&amp;mode=crop&amp;width=550&amp;height=300" srcset="/media/1185/5_eldery_couple-2x-min.png" />
+                        <div class="title">Hip Surgery</div>
+                    </div>
+                </a>
+                <div class="article">
+                                <a href="/surgery/hip-surgery/?tab=1">
+                                    <input type="button" class="primary-button" value="Primary Hip Replacement" />
+                                </a>
+                                <a href="/surgery/hip-surgery/?tab=2">
+                                    <input type="button" class="primary-button" value="Revision Hip Replacement" />
+                                </a>
+
+                </div>
+            </div>
+    </div>
+</div>
+
+
+
+
+<div class="content">
+    <label class="title-content">
+        LATEST NEWS
+    </label>
+    <div class="container-news">
+        <div class="news">
+                <a href="/news/news-4/">
+                    <div class="news-item">
+                        <img src="/media/1225/eu.jpg?anchor=center&mode=crop&height=166&width=166" />
+                        <div>
+                            <div class="title"> NORTHERN IRELAND &amp; UK PATIENTS UNDER CROSS-BORDER EU DIRECTIVE</div>
+                            
+                            <div class="descripiton">Our clinic runs a special Hip &amp; Knee Replacement surgical program dedicated to patients from Northern Ireland &amp; UK awaiting for Hip or Knee Replacement surgery. Please read below information regarding the steps required to access this program and have the surgery performed by Mr. Vioreanu in Sports Surgery Clinic in Dublin. </div>
+
+                            <div class="read-button">Read more</div>
+
+                        </div>
+                    </div>
+                </a>
+                <a href="/news/news-1/">
+                    <div class="news-item">
+                        <img src="/media/1216/senior-couple.jpg?anchor=center&mode=crop&height=166&width=166" />
+                        <div>
+                            <div class="title"> ENHANCED RECOVERY AFTER HIP&amp;KNEE REPLACEMENT SURGERY</div>
+                            
+                            <div class="descripiton">Enhanced recovery after surgery (ERAS) was pioneered by Henrik Kehlet in Denmark, in the 1990s as an effort to improve recovery after colorectal surgery. Kehlet hypothesized that surgical stress, metabolic and endocrine derangements, and prolonged immobilization contribute to ‘organ dysfunction’: pain, nausea, vomiting, ileus, fatigue, and cognitive disturbance. </div>
+
+                            <div class="read-button">Read more</div>
+
+                        </div>
+                    </div>
+                </a>
+                <a href="/news/news-3/">
+                    <div class="news-item">
+                        <img src="/media/1219/board-2x.png?anchor=center&mode=crop&height=166&width=166" />
+                        <div>
+                            <div class="title"> 2017 ESSKA EUROPEAN OSTEOTOMY TRAVELING FELLOWSHIP</div>
+                            
+                            <div class="descripiton">ESSKA, through its educational committee, is supporting a number of traveling fellowship programs to promote international scientific and cultural exchange for promising young orthopaedic surgeons. This is an inaugural unique programme that gives surgeons great opportunity to experience primarily osteotomy procedures at leading European centres</div>
+
+                            <div class="read-button">Read more</div>
+
+                        </div>
+                    </div>
+                </a>
+                <a href="/news/news-2/">
+                    <div class="news-item">
+                        <img src="/media/1218/social-media-in-medicine.jpeg?anchor=center&mode=crop&height=166&width=166" />
+                        <div>
+                            <div class="title"> USE OF SOCIAL MEDIA IN SPORTS MEDICINE</div>
+                            
+                            <div class="descripiton">Whether we like or not, the fast growth of social media is having a major impact on our personal and professional lives.     Social media is the space where patients are engaging, sharing their healthcare experiences and seeking health information. More people than ever are searching online for health information.</div>
+
+                            <div class="read-button">Read more</div>
+
+                        </div>
+                    </div>
+                </a>
+        </div>
+        <div id="twitter-container">
+            <iframe frameborder="0" style="overflow:hidden;height:100%;width:100%"
+                    src="https://deventure.co/api/Home/TwitterTimeline?userName=MihaiVioreanu&displayName=Mihai%20Vioreanu"></iframe>
+        </div>
+    </div>
+</div>
+
+<div class="content-testimonial">
+    <div class="content testiomnials">
+        <label class="title-content">
+            TESTIMONIALS
+        </label>
+        
+<div class="slideshow-container ">
+    <div class="slideshow-container ">
+            <div class="slide-testimonials">
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1229/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1229/user-2x.png`,`Aileen O&#39;Mahony`,`Co Cork`,`REVISION ACL SURGERY`,`&quot;High Level of Empathy and Professionalism&quot;`,`&lt;p&gt;I am an active PE and Maths teacher who has always enjoyed playing a range of sports. Around ten years ago, I tore my right ACL playing basketball and after a long and painful recovery lasting 8 months to a year, I struggled to regain my fitness, but returned to playing sport. After 2/3 years of training and playing I ruptured my left ACL. This time, I went to a different surgeon. Both experiences with the surgeons were similar, somewhat impersonal.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;However, when I needed revision surgery, Mr Mihai Vioreanu was recommended and I can honestly say that his level of empathy and professionalism changed my opinion on surgery.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I received a donor (Achilles) graft where Mihai used a graft sourced in the US. My recovery was so much faster than with previous operations. Each time I went to my physio, she would highlight that the stage of recovery I was at was similar to other patients who had their ACL replacement operation 1/2 months before me. I found that, unlike the other times, I lost only a fraction of the strength in my hamstring and quadriceps.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I would strongly recommend Mihai and found him so personable and responsive, always getting back to me if I had a question. For example, once when I was concerned and emailed Mihai, within minutes he had responded and put my mind at ease.&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1229/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1229/user-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Aileen O&#39;Mahony
+                            </label>
+                            <label class="adress" id="adress">Co Cork</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">REVISION ACL SURGERY</div>
+                                <div class="title" id="title">&quot;High Level of Empathy and Professionalism&quot;</div>
+                                <div class="text" id="text">I am an active PE and Maths teacher who has always enjoyed playing a range of sports. Around ten years ago, I tore my right ACL playing basketball and after a long and painful recovery lasting 8 months to a year, I struggled to regain my fitness, but returned to playing sport. After 2/3 years of training and playing I ruptured my left ACL. This time, I went to a different surgeon. Both experiences with the surgeons were similar, somewhat impersonal.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1229/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1229/user-2x.png`,`Bernice Molony `,`Melbourne, Australia`,`ACL RECONSTRUCTION`,`&quot;Exceptionally Professional Surgery &amp; Follow-Up&quot;`,`&lt;p&gt;As a GP and a patient I can fully appreciate the quality of care I received having my ACL reconstruction done with Mr Vioreanu.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I had a skiing accident and ruptured my ACL. Within a few days of my return home I had an appointment and discussion with Mihai about my options and likely time frames which was very important to me both for work, and, as I was emigrating to Australia within a few months. I was extremely happy with the care that I received having opted to go ahead with surgical reconstruction. My physiotherapist was amazed by my quick recovery and minimal scarring. On leaving Ireland I was even given contacts in Australia in case I needed any follow up (I didn’t) and I have had no issues getting back to pre-injury sports activities. Often I forget which knee was operated due the excellent function of the reconstructed knee.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Many thanks for an exceptionally professional surgery and follow up. I absolutely recommend Mr Vioreanu both as a patient and as a GP.&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1229/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1229/user-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Bernice Molony 
+                            </label>
+                            <label class="adress" id="adress">Melbourne, Australia</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">ACL RECONSTRUCTION</div>
+                                <div class="title" id="title">&quot;Exceptionally Professional Surgery &amp; Follow-Up&quot;</div>
+                                <div class="text" id="text">I had a skiing accident and ruptured my ACL. Within a few days of my return home I had an appointment and discussion with Mihai about my options and likely time frames which was very important to me both for work, and, as I was emigrating to Australia within a few months. I was extremely happy with the care that I received having opted to go ahead with surgical reconstruction. My physiotherapist was amazed by my quick recovery and minimal scarring. On leaving Ireland I was even given contacts in</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+            </div>
+            <div class="slide-testimonials">
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1198/camil-perian-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1198/camil-perian-2x.png`,`Camil Perian`,`Bucharest, Romania`,`NON-OPERATIVE TREATMENT`,`&quot;Appropriate diagnosis and rehabilitation made a major difference&quot;`,`&lt;p&gt;I am 37 years old CEO and met Mr. Mihai Vioreanu after an 18 months of continuous knee pain following surgery that did not worked well and a wrong rehabilitation performed in a different clinic. Mr. Vioreanu was the fifth orthopaedic surgeon in Europe to evaluate me in 18 months and the only one who was able to determine right away the source of my knee pain.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;After evaluating and explaining in a very professional way and also easy to understand the source of my pain Mihai recommended a completely different rehab protocol then I received before. I was very impressed with the Physiotherapy department in Sports Surgery Clinic and with professionalism of Mr. Colm Fuller, lead Physiotherapist in SSC.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Following Mihai&#39;s recommendation the pain in my knee reduced next day by half and then disappeared completely over the next 6 months. I was really impressed how he &quot;took me from hell to heaven&quot; in such a short time.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Thank you Mihai and many thanks to your team in SSC! I cannot thank you enough!&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1198/camil-perian-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1198/camil-perian-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Camil Perian
+                            </label>
+                            <label class="adress" id="adress">Bucharest, Romania</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">NON-OPERATIVE TREATMENT</div>
+                                <div class="title" id="title">&quot;Appropriate diagnosis and rehabilitation made a major difference&quot;</div>
+                                <div class="text" id="text">I am 37 years old CEO and met Mr. Mihai Vioreanu after an 18 months of continuous knee pain following surgery that did not worked well and a wrong rehabilitation performed in a different clinic. Mr. Vioreanu was the fifth orthopaedic surgeon in Europe to evaluate me in 18 months and the only one who was able to determine right away the source of my knee pain.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1187/screen-shot-2019-09-02-at-133050-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1187/screen-shot-2019-09-02-at-133050-2x.png`,`Cathal Melinn`,`Whitehall, Dublin 9`,`TOTAL HIP REPLACEMENT `,`&quot;Incredible experience improving my life&quot;`,`&lt;div class=&quot;testimonial-description&quot;&gt;
+&lt;p&gt;Mr. Vioreanu is an incredible surgeon who significantly improved my mobility and quality of life in just 2 days after hip replacement surgery!&#160;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Mihai explained in clear and simple language the process and outcome before the procedure (which only took about an hour), this was very reassuring to know. &#160;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;His precision, skill and technique meant the impact of the recovery period was minimal and I was walking with crutches the next morning, which by all standards is a phenomenal result. &#160;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I&#39;m 4 weeks after surgery, I&#39;m driving and walking better than ever before (without crutches or pain too). Now I have a greater range of movement and just a barely noticeable scar which is great!&#160;&lt;/p&gt;
+&lt;p&gt;Walking and everything was so restrictive before the operation at such a young age ( 38 yo ) but I&#39;m excited and very much looking forward to enjoying a fully functional active life. &#160;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Best thing I ever did!! Mihai is highly recommend.&lt;/p&gt;
+&lt;/div&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1187/screen-shot-2019-09-02-at-133050-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1187/screen-shot-2019-09-02-at-133050-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Cathal Melinn
+                            </label>
+                            <label class="adress" id="adress">Whitehall, Dublin 9</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">TOTAL HIP REPLACEMENT </div>
+                                <div class="title" id="title">&quot;Incredible experience improving my life&quot;</div>
+                                <div class="text" id="text">Mr. Vioreanu is an incredible surgeon who significantly improved my mobility and quality of life in just 2 days after hip replacement surgery!&#160;</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+            </div>
+            <div class="slide-testimonials">
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1186/bilateral-tkr-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1186/bilateral-tkr-2x.png`,`Chirstina Reilly`,`Ballinteer, Dublin`,`BILATERAL KNEE REPLACEMENT `,`&quot;Enjoying Every Minute of It&quot;`,`&lt;p&gt;After many years of discomfort with both knees, endless amounts of injections, and getting nowhere I met Mr Vioreanu at the Sports Surgery Clinic in December 2014.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;During the consultation Mihai took the time to explain in plain language the risks and the benefits of total knee replacements. I was very comfortable with his open and straight approach. I was advised to exercise in preparation for the operation on my right knee in January 2015. I did Pilates for 20 minutes daily for 6 weeks prior to my operation. I went into the hospital on Friday and home on Monday. Ten weeks later I had my left knee replaced.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;After 5 months I flew to Sydney and walked pain free, really enjoying the trip. I am back hill walking and enjoying every minute of it. I got my life back.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Many thanks Mihai.&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1186/bilateral-tkr-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1186/bilateral-tkr-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Chirstina Reilly
+                            </label>
+                            <label class="adress" id="adress">Ballinteer, Dublin</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">BILATERAL KNEE REPLACEMENT </div>
+                                <div class="title" id="title">&quot;Enjoying Every Minute of It&quot;</div>
+                                <div class="text" id="text">After many years of discomfort with both knees, endless amounts of injections, and getting nowhere I met Mr Vioreanu at the Sports Surgery Clinic in December 2014.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1212/user-2x.png`,`Bernice Molony `,`Melbourne, Australia`,`ACL RECONSTRUCTION`,`Exceptionally Professional Surgery &amp; Follow-up`,`&lt;div class=&quot;testimonial-right&quot;&gt;
+&lt;div class=&quot;testimonial-description&quot;&gt;As a GP and a patient I can fully appreciate the quality of care I received having my ACL reconstruction done with Mr Vioreanu.&lt;/div&gt;
+&lt;div class=&quot;testimonial-description&quot;&gt;&lt;br /&gt;I had a skiing accident and ruptured my ACL. Within a few days of my return home I had an appointment and discussion with Mihai about my options and likely time frames which was very important to me both for work, and, as I was emigrating to Australia within a few months. I was extremely happy with the care that I received having opted to go ahead with surgical reconstruction. My physiotherapist was amazed by my quick recovery and minimal scarring. On leaving Ireland I was even given contacts in Australia in case I needed any follow up (I didn’t) and I have had no issues getting back to pre-injury sports activities. Often I forget which knee was operated due the excellent function of the reconstructed knee.&lt;/div&gt;
+&lt;div class=&quot;testimonial-description&quot;&gt;&lt;br /&gt;Many thanks for an exceptionally professional surgery and follow up. I absolutely recommend Mr Vioreanu both as a patient and as a GP.&lt;/div&gt;
+&lt;/div&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1212/user-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Bernice Molony 
+                            </label>
+                            <label class="adress" id="adress">Melbourne, Australia</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">ACL RECONSTRUCTION</div>
+                                <div class="title" id="title">Exceptionally Professional Surgery &amp; Follow-up</div>
+                                <div class="text" id="text">As a GP and a patient I can fully appreciate the quality of care I received having my ACL reconstruction done with Mr Vioreanu.  I had a skiing accident and ruptured my ACL. Within a few days of my return home I had an appointment and discussion with Mihai about my options and likely time frames which was very important to me both for work, and, as I was emigrating to Australia within a few months. I was extremely happy with the care that I received having opted to go ahead with surgical reconst</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+            </div>
+            <div class="slide-testimonials">
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1203/blaithin-brady-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1203/blaithin-brady-2x.png`,`Blaithin Brady`,`Tallaght, Dublin 24`,`CHARTERED PHYSIOTHERAPIST`,`Highest standard of care &amp; Excellent recovery rates for our players`,`&lt;p&gt;Mr. Vioreanu has been looking after many of our Monkstown and Leinster junior rugby players for the past 18 months. Since I met Mihai I have seen a huge improvement in both the rehabilitation time and prognosis for our players. From using the most innovative surgical options to constantly being there for any post operative advice Mihai has done it all.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Mihai has made a significant impact on our selection of players over the last 18 months as anyone we have sent to him has received the highest standard of care and their recovery rates have been excellent.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;The best professional recommendation that I can give to Mihai is that he would be the first surgeon I would be calling if I injured myself on the playing field. His patient centered practice and attention to detail are second to none and I believe he has been a super addition to the Sports Surgery Clinical Team.&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1203/blaithin-brady-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1203/blaithin-brady-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Blaithin Brady
+                            </label>
+                            <label class="adress" id="adress">Tallaght, Dublin 24</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">CHARTERED PHYSIOTHERAPIST</div>
+                                <div class="title" id="title">Highest standard of care &amp; Excellent recovery rates for our players</div>
+                                <div class="text" id="text">Mr. Vioreanu has been looking after many of our Monkstown and Leinster junior rugby players for the past 18 months. Since I met Mihai I have seen a huge improvement in both the rehabilitation time and prognosis for our players. From using the most innovative surgical options to constantly being there for any post operative advice Mihai has done it all. Mihai has made a significant impact on our selection of players over the last 18 months as anyone we have sent to him has received the highest st</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1212/user-2x.png`,`Cathy Tyndall`,`Skerries, Co. Dublin`,`CHARTERED PHYSIOTHERAPIST`,`High level of communication`,`&lt;p&gt;I am very happy to recommend the services of Mr. Mihai Vioreanu. Mihai has developed an exceptional surgical service from our patient’s first appointment through to discharge.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;As a group of Chartered Physiotherapists, we are delighted to work with Mihai, who adopts a very pro-rehabilitation approach. What stands out about Mihai’s service is the high level of communication between surgeon, physiotherapist and patient, forming an essential chain of communication from the day of the first assessment through to the day of discharge.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Our patients can rest assured that Mihai always makes himself available to us to address any queries or concerns and is always keen to keep up to speed with their progress every step of the way towards a full and complete recovery&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1212/user-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Cathy Tyndall
+                            </label>
+                            <label class="adress" id="adress">Skerries, Co. Dublin</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">CHARTERED PHYSIOTHERAPIST</div>
+                                <div class="title" id="title">High level of communication</div>
+                                <div class="text" id="text"> As a group of Chartered Physiotherapists, we are delighted to work with Mihai, who adopts a very pro-rehabilitation approach. What stands out about Mihai’s service is the high level of communication between surgeon, physiotherapist and patient, forming an essential chain of communication from the day of the first assessment through to the day of discharge.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+            </div>
+            <div class="slide-testimonials">
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1208/kilross-clinic-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1208/kilross-clinic-2x.png`,`Conor Bourke`,`Kilross Clinic, Co. Cork`,`PHYSICAL THERAPIST`,`Example of the modern surgeon`,`&lt;p&gt;I contacted Mihai as I was interested in knowing more about how ACL surgery was done. I had rehabilitated plenty of ACL patients, some of which Mihai had operated on, but never saw a live surgery. It was a cold call and I wasn&#39;t expecting a reply as I had contacted other surgeons also without response. I received a prompt reply with an invitation to visit his OR and spend some time speaking to him about his surgical approach &amp;amp; his rehab protocols.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I witnessed first hand Mihai&#39;s excellent surgical skills and his professional approach towards his patients. Post surgery we spent some time going through his rehab protocols. I was was very impressed with his generous attitude and openness.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Mihai is a shining example of the modern surgeon, ready and willing to engage with other healthcare professionals, and communicate openly to ensure optimal recovery of his patients.&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1208/kilross-clinic-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1208/kilross-clinic-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                Conor Bourke
+                            </label>
+                            <label class="adress" id="adress">Kilross Clinic, Co. Cork</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">PHYSICAL THERAPIST</div>
+                                <div class="title" id="title">Example of the modern surgeon</div>
+                                <div class="text" id="text">I contacted Mihai as I was interested in knowing more about how ACL surgery was done. I had rehabilitated plenty of ACL patients, some of which Mihai had operated on, but never saw a live surgery. It was a cold call and I wasn&#39;t expecting a reply as I had contacted other surgeons also without response. I received a prompt reply with an invitation to visit his OR and spend some time speaking to him about his surgical approach &amp; his rehab protocols.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+                    <div class="testimonial testimonial-home" onclick="showDetailsTestimonial(`/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70`,`/media/1212/user-2x.png`,`David Harrison `,`Co Roscommon`,`GENERAL PRACTITIONER`,`An absolute gentleman and highly skilled surgeon`,`&lt;p&gt;I have dealt with Mihai as both a GP and as a patient. I am a GP in Roscommon and ruptured my cruciate ligament on the GAA pitch in Sept, 2014, 5 weeks before my wedding day. I wanted to get it sorted and on the road to recovery ASAP. Having had the MRI and the leg in otherwise excellent shape, Mihai deemed me suitable to have the surgery 2 weeks after the injury. I met with him and was delighted with the experience. He spends quite some time explaining things, answer (the many!) questions and focuses on a holistic approach to recovery and rehab.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Mihai is an absolute gentleman and a highly skilled surgeon. The surgery itself was a resounding success. Mihai emphasises a plyometric warmup regime to prevent cruciate injury recurrence. I made a complete recovery and was back playing competitively in under 9 months. I haven’t looked back since and am fitter and faster than ever. As former doctor to the Roscommon GAA team and a practicing GP in Roscommon, given my hugely positive experience I had, I had no hesitation to refer any GAA player with a knee issue to him. And each and every one of these players was delighted with the level of care received.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;I have no hesitation in recommending Mihai as a top notch knee surgeon. 5 stars.&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+&lt;p&gt;Update (October 2018 ):&lt;/p&gt;
+&lt;p&gt;&quot;I refer my patients to you because I believe in your exceptional abilities as a surgeon and as a person! &lt;br /&gt;I&#39;m still flying in sport, continuing to hit me heights. Thanks to you.&quot;&lt;/p&gt;`)">
+                        <div class="picture">
+                            <img src="/media/1212/user-2x.png?anchor=center&amp;mode=crop&amp;width=70&amp;height=70" srcset="/media/1212/user-2x.png 2x" id="picture" />
+                            <label class="name" id="name">
+                                David Harrison 
+                            </label>
+                            <label class="adress" id="adress">Co Roscommon</label>
+                        </div>
+                        <div class="descripiton">
+                            <div class="descripiton">
+                                <div id="subtitle">GENERAL PRACTITIONER</div>
+                                <div class="title" id="title">An absolute gentleman and highly skilled surgeon</div>
+                                <div class="text" id="text">I have dealt with Mihai as both a GP and as a patient. I am a GP in Roscommon and ruptured my cruciate ligament on the GAA pitch in Sept, 2014, 5 weeks before my wedding day. I wanted to get it sorted and on the road to recovery ASAP. Having had the MRI and the leg in otherwise excellent shape, Mihai deemed me suitable to have the surgery 2 weeks after the injury.</div>
+                            </div>
+                        </div>
+                        <div class="button-more">
+                            Read more
+                        </div>
+                    </div>
+            </div>
+        <div class="button-slides-testimonials">
+                <span class="dot-testimonials" onclick="currentSlideTestimonials(1)"></span>
+                <span class="dot-testimonials" onclick="currentSlideTestimonials(2)"></span>
+                <span class="dot-testimonials" onclick="currentSlideTestimonials(3)"></span>
+                <span class="dot-testimonials" onclick="currentSlideTestimonials(4)"></span>
+                <span class="dot-testimonials" onclick="currentSlideTestimonials(5)"></span>
+        </div>
+        <div class="button-all-slider">
+            <a href="/testimonials/">
+                <label>View all testimonials</label>
+            </a>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+            <div class="sliders-content">
+                <div class="content">
+                    <label class="title-content">PROFESSIONAL AFFILIATIONS</label>
+                    
+
+<div class="professional-affilitions-container ">
+    <div id="slider">
+        <ul>
+                <li>
+                        <a href="https://www.aofoundation.org/Strucature/Pages/default.aspx" target="_blank">
+                            <img src="/media/1108/ao-foundation-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1108/ao-foundation-2x.png 2x" />
+                        </a>
+                        <a href="https://www.sportsmed.org/aossmimis" target="_blank">
+                            <img src="/media/1109/aossm-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1109/aossm-2x.png 2x" />
+                        </a>
+                        <a href="https://www.esska.org/" target="_blank">
+                            <img src="/media/1110/esska-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1110/esska-2x.png 2x" />
+                        </a>
+                        <a href="https://www.iitos.ie/" target="_blank">
+                            <img src="/media/1111/irish-institute-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1111/irish-institute-2x.png 2x" />
+                        </a>
+                        <a href="http://ioa.ie/index.html" target="_blank">
+                            <img src="/media/1112/irisj-ortho-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1112/irisj-ortho-2x.png 2x" />
+                        </a>
+                        <a href=" https://www.esska.org/" target="_blank">
+                            <img src="/media/1113/magellan-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1113/magellan-2x.png 2x" />
+                        </a>
+                </li>
+                <li>
+                        <a href="https://www.medicalcouncil.ie/" target="_blank">
+                            <img src="/media/1114/medical-council-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1114/medical-council-2x.png 2x" />
+                        </a>
+                        <a href="https://www.rcsi.com/dublin" target="_blank">
+                            <img src="/media/1115/royal-college-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1115/royal-college-2x.png 2x" />
+                        </a>
+                        <a href="https://www.sportssurgeryclinic.com/" target="_blank">
+                            <img src="/media/1116/ssc-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1116/ssc-2x.png 2x" />
+                        </a>
+                        <a href="https://www.isakos.com/" target="_blank">
+                            <img src="/media/1129/isakos.jpg?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1129/isakos.jpg 2x" />
+                        </a>
+                        <a href="https://aaos.org/Default.aspx?ssopc=1" target="_blank">
+                            <img src="/media/1107/aaos-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1107/aaos-2x.png 2x" />
+                        </a>
+                        <a href=" https://www.esska.org/" target="_blank">
+                            <img src="/media/1110/esska-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1110/esska-2x.png 2x" />
+                        </a>
+                </li>
+        </ul>
+    </div>
+</div>
+
+                </div>
+                <div class="content">
+                    <label class="title-content">HEALTHCARE PROVIDER PARTNERS</label>
+                    
+
+<div class="health-care-container ">
+    <div id="slider-health">
+        <ul>
+                <li>
+                        <a href="https://www.esb.ie" target="_blank">
+                            <img src="/media/1118/esb-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1118/esb-2x.png 2x" />
+                        </a>
+                        <a href="https://www.glohealth.ie" target="_blank">
+                            <img src="/media/1119/glo-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1119/glo-2x.png 2x" />
+                        </a>
+                        <a href="https://www.layahealthcare.ie" target="_blank">
+                            <img src="/media/1120/laya-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1120/laya-2x.png 2x" />
+                        </a>
+                        <a href="https://www.medicalaid.ie" target="_blank">
+                            <img src="/media/1121/st-pauls-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1121/st-pauls-2x.png 2x" />
+                        </a>
+                        <a href="https://www.vhi.ie" target="_blank">
+                            <img src="/media/1122/vhi-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1122/vhi-2x.png 2x" />
+                        </a>
+                        <a href="https://www.aviva.ie" target="_blank">
+                            <img src="/media/1117/aviva-2x.png?anchor=center&amp;mode=crop&amp;width=130&amp;height=100" srcset="/media/1117/aviva-2x.png 2x" />
+                        </a>
+                </li>
+                <li>
+                </li>
+                <li>
+                </li>
+        </ul>
+    </div>
+</div>
+                </div>
+            </div>
+                            <div class="inquiry-button-desktop">
+                <input type="button" value="Online Inquiry" class="secondary-button button-video" onclick="showModalOnlineInquery()">
+            </div>
+        <div id="online-inquery-modal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="demo">
+    <div class="flyout-container">
+        <div class="data-protection">
+            <div>
+                <div class="data-title">
+                    Data Protection
+                </div>
+                <div class="data-description">
+                    Protection of your confidentiality and data is of utmost importance to Mr Vioreanu. Please read the Practice Data Protection Notice.
+                </div>
+            </div>
+            <div class="button-data">
+                
+                <a href="https://suxeed.blob.core.windows.net/docs/VML-Data-Protection-Notice-(Website-Version-Headed-paper).pdf" target="_blank"
+                   class="primary-button"> Data Protection Notice</a>
+            </div>
+            <div class="close" data-dismiss="modal">
+                <img src="/img/OtherIcons/x.png">
+            </div>
+        </div>
+        <div class="flyout">
+            <div class="flyout-details">
+                <div class="flyout-title">
+                    ONLINE INQUIRY
+                </div>
+                <div class="flyout-description">
+                    Before attending an appointment please read “Appointment information”. To save time please complete and return the relevant forms and questionnaires provided in 'Patient Forms' below.
+                </div>
+                <div class="flyout-message">
+                    Please fill out the form below and we will get back to you.
+                </div>
+            </div>
+            <form id="form-online-inquiry">
+                <div class="flyout-inputs">
+                    <div class="section-1">
+                        <div class="left-column">
+                            <div class="row">
+                                <select data-val="true" data-val-required="Required" id="inquiry-title" name="Title"><option>Mr</option>
+<option>Ms</option>
+<option>Mrs</option>
+</select>
+                                <span class="field-validation-valid text-danger" data-valmsg-for="Title" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="row">
+                                <input data-val="true" data-val-length="The First Name must be at least 2 characters long." data-val-length-max="100" data-val-length-min="2" data-val-required="Required" id="inquiry-first-name" name="FirstName" placeholder="First Name" type="text" value="" />
+                                <span class="field-validation-valid text-danger" data-valmsg-for="FirstName" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="row">
+                                <input data-val="true" data-val-length="The Last Name must be at least 2 characters long." data-val-length-max="100" data-val-length-min="2" data-val-required="Required" id="inquiry-last-name" name="LastName" placeholder="Last Name" type="text" value="" />
+                                <span class="field-validation-valid text-danger" data-valmsg-for="LastName" data-valmsg-replace="true"></span>
+                            </div>
+                        </div>
+                        <div class="right-column">
+                            <div class="row">
+                                <input data-val="true" data-val-regex="Not a valid Phone number" data-val-regex-pattern="^(\s*(?:\+?(\d{1,3}))?[-. (]*(\d{3})[-. )]*(\d{3})[-. ]*(\d{3,4})(?: *x(\d+))?\s*)$" data-val-required="Required" id="inquiry-phone-number" name="PhoneNumber" placeholder="Phone Number" type="text" value="" />
+                                <span class="field-validation-valid text-danger" data-valmsg-for="PhoneNumber" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="row">
+                                <input data-val="true" data-val-length="The Email must be at least 5 characters long." data-val-length-max="255" data-val-length-min="5" data-val-regex="Not a valid email" data-val-regex-pattern="^\w+([-+.&#39;]\w+)*([-+.&#39;])?@\w+([-.]\w+)*\.\w+([-.]\w+)*\s*$" data-val-required="Required" id="inquiry-email" name="Email" placeholder="Email" type="text" value="" />
+                                <span class="field-validation-valid text-danger" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section-2">
+                        <div class="row">
+                            <textarea cols="20" data-val="true" data-val-length="The Injuiry must be at least 5 characters long." data-val-length-max="2000" data-val-length-min="5" data-val-required="Required" id="inquiry-injury" name="Injury" placeholder="Injury..." rows="2">
+</textarea>
+                            <span class="field-validation-valid text-danger" data-valmsg-for="Injury" data-valmsg-replace="true"></span>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <div class="flyout-submit">
+                
+                <div class="button">
+                    <input type="button" class="primary-button" value="Submit" onclick="SubmitInquiry()">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div>
+
+
+
+<div class="footer ">
+    <div class="footer-container flex-container">
+        <div>
+                <a href="/privacy-policy/" target="_blank">
+                    <span>
+                        Privacy Policy
+                    </span>
+                </a>
+                <a href="/term-conditions/" target="_blank">
+                    <span>
+                        Term &amp; Conditions
+                    </span>
+                </a>
+                <a href="/cookie-policy/" target="_blank">
+                    <span>
+                        Cookie Policy
+                    </span>
+                </a>
+                <a href="/disclaimer-policy/" target="_blank">
+                    <span>
+                        Disclaimer Policy
+                    </span>
+                </a>
+        </div>
+        
+        <div>
+            <h3>
+                IMC Reg No: 55588
+            </h3>
+            <span>
+                © Copyright Mr. Mihai Vioreanu 2020
+                <br>All Rights Reserved
+            </span>
+        </div>
+        <div class="social-media-container">
+            <div class="socialmedia-center">
+                <div class="icon">
+                    <a href="https://www.facebook.com/people/DrMihai-Vioreanu/100006233806037" target="_blank">
+                        <i class="icon-facebook"></i>
+                    </a>
+                </div>
+                <div class="icon">
+                    <a href="https://twitter.com/MihaiVioreanu" target="_blank">
+                        <i class="icon-twitter-bird"></i>
+                    </a>
+                </div>
+                <div class="icon">
+                    <a href="https://www.linkedin.com/in/mihai-vioreanu-1536055" target="_blank">
+                        <i class="icon-linkedin"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="newsletter">
+                <div class="title-newsletter">Subscribe to our newsletter</div>
+                <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                <style type="text/css">
+                    #mc_embed_signup {
+                        clear: left;
+                        font: 14px Helvetica,Arial,sans-serif;
+                        width: 100%;
+                    }
+                </style>
+                <!-- Begin Mailchimp Signup Form -->
+                <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+                <style type="text/css">
+                    #mc_embed_signup {
+                        clear: left;
+                        font: 14px Helvetica,Arial,sans-serif;
+                        width: 100%;
+                    }
+                </style>
+
+                <div id="mc_embed_signup">
+                    <form action="https://mihaivioreanu.us3.list-manage.com/subscribe/post?u=d74106c99ccb5cf558e2f76d6&amp;id=4316cb918c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">
+                            <label for="mce-EMAIL">Subscribe</label>
+                            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d74106c99ccb5cf558e2f76d6_4316cb918c" tabindex="-1" value=""></div>
+                            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                        </div>
+                    </form>
+                </div>
+
+                <!--End mc_embed_signup-->
+            </div>
+
+        </div>
+        <div>
+<div class="container-craft" onclick="window.open('https://deventure.co/', '_blank');" style="cursor:pointer;">
+    <label class="craft-title">Crafted by </label>
+    <img src="https://deventurestorage.blob.core.windows.net/img/logoCraft/logo_dev.png" />
+    <label class="craft-web">www.deventure.co</label>
+</div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </footer>
+
+    <!-- Modal -->
+<div id="details-testimonial" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="testimonial-header">
+                    <img src="" class="picture-modal">
+                    <div>
+                        <label class="name-modal">    </label>
+                        <label class="adress-modal"></label>
+                    </div>
+                </div>
+                <div class="testimonial-description">
+                    <div class="subtitle-modal"></div>
+                    <div class="title-modal"></div>
+                    <div class="text-modal"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        <div id="popup-modal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content popup-alert">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <img src="/media/1232/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg?anchor=center&amp;mode=crop&amp;width=800&amp;height=325" srcset="/media/1232/fusion-medical-animation-rnr8d3fnuny-unsplash.jpg 2x" />
+                <div class="photo-by">
+                    <a href="https://unsplash.com/@fusion_medical_animation" target="_blank">Photo by Fusion Medical Animation on Unsplash</a>
+                </div>
+                <div class="popup-alert-footer">
+                    <div class="informations">
+                        <div>LATEST NEWS</div>
+                        <div>IMPORTANT INFORMATION ON CLINICAL ACTIVITY DURING ONGOING COVID-19 CRISIS</div>
+                    </div>
+                    <a href="/resources/blog/covid19/">
+                        <input type="button" class="primary-button" value="Read More" />
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="/bundles/jqueryval?v=ewwbEwxCzNIunbw9c2Y5X5_ldbOkIBIkUo-LvchX7I81"></script>
+
+    <script src="/bundles/toastrModule?v=JcGjWBcLAiQTcouWX8ZaVBFsUIR5sm3tagPwKFbW_iM1"></script>
+
+    <script src="/bundles/utils?v=neqxSXyb01sY1-2qA5lkp_72vR4bHZWPtH0R0Od26nY1"></script>
+
+    
+    <script src="/bundles/bootstrap?v=ESck_wvaWCiF5JsitLMh765lhMnw7BVBtZE-YUTa4Ns1"></script>
+
+    <script src="/bundles/slider?v=vIr-NRfSUl9vJDuDvUMDEHogxJJEXz2neMDF0urboCs1"></script>
+
+    <script src="/bundles/leaveTestimonial?v=FFWjupAXrtXYhfqLbIWyPVBKh-yXTiwcLHocbg_bqKQ1"></script>
+
+    <script src="/bundles/onlineInquiry?v=AJKUB59Ihbbq2C3HtGbLYbNHknxr2d2ze2ehLaxoRX81"></script>
+
+
+    
+
+    <script type="text/javascript">
+        var nSlide = 0;
+        $(document).ready(function ($) {
+            setInterval(function () {
+                currentSlideTestimonials(nSlide);
+                currentSlide(nSlide)
+                nSlide++;
+            }, 5000);
+
+            setTimeout(function () {
+                $("#popup-modal").modal();
+            }, 3000);
+
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function ($) {
+            setInterval(function () {
+                sliderProfessinal();
+            }, 4000);
+
+            var scroll_start = 0;
+            var startchange = $('#start-navbar');
+            var offset = startchange.offset();
+            if (startchange.length) {
+                $(document).scroll(function () {
+                    scroll_start = $(this).scrollTop();
+                    if (scroll_start > offset.top) {
+                        $(".site-navbar").css('background-color', '#242424');
+                    } else {
+                        $('.site-navbar').css('background-color', 'rgba(0, 0, 0, 0.51');
+                    }
+                });
+            }
+        });
+
+        function visibleSubmenu(el) {
+            var element = document.getElementById("submenu-" + el + "");
+            var arrow = document.getElementById("arrow-" + el + "");
+            $(".arrow-menu").each(function (index, item) {
+                $item = $(item);
+                if ($item.attr("id") != "arrow-" + el + "") {
+                    $item.removeClass("arrow-menu-rotate");
+                   $item.siblings(".submenu").removeClass("submenu-visible");
+                } else {
+                    element.classList.toggle("submenu-visible");
+                    arrow.classList.toggle("arrow-menu-rotate");
+                }
+            });
+        }
+
+        function showModalOnlineInquery() {
+            $("#online-inquery-modal").modal();
+        }
+
+    function showDetailsTestimonial(imgSet0,imgSet1,fullName,location,subtitle,title,message) {
+            $('.picture-modal').attr('src', imgSet0)
+            $('.picture-modal').attr('srcset', imgSet1)
+            $(".name-modal").html(fullName);
+            $(".adress-modal").html(location);
+            $(".subtitle-modal").html(subtitle);
+            $(".title-modal").html(title);
+            $(".text-modal").html(message);
+            $("#details-testimonial").modal();
+        }
+
+          document.addEventListener('DOMContentLoaded', function () {
+           var size = document.getElementById('selectPageSize');
+           if (localStorage['selectPageSize']) {
+               size.value = localStorage['selectPageSize'];
+           }
+           if (size) {
+           size.onchange = function () {
+               localStorage['selectPageSize'] = this.value;
+               window.location.href = '?pageSize=' + this.value;
+                  }
+            }
+        });
+    </script>
+</body>
+</html>

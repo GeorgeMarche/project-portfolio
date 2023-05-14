@@ -1,0 +1,559 @@
+<!doctype html>
+<html lang="it-IT" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0c5997">
+<meta name="msapplication-TileColor" content="#0c5997">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link href="splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+			document.documentElement.classList.remove('no-js');
+		</script>
+
+<title>Covid-19, effetto scuola sui contagi: 223 istituti chiusi, 1.493 con almeno un caso. I dati aggiornati - Orizzonte Scuola Notizie</title>
+<meta name="description" content="Il 14 settembre, giorno della riapertura delle scuole, i casi di positività al Covid-19 erano 1.008. Ieri, 8 ottobre, 4.458. Può essere l&#039;effetto della riapertura delle scuole." />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Covid-19, effetto scuola sui contagi: 223 istituti chiusi, 1.493 con almeno un caso. I dati aggiornati - Orizzonte Scuola Notizie" />
+<meta property="og:description" content="Il 14 settembre, giorno della riapertura delle scuole, i casi di positività al Covid-19 erano 1.008. Ieri, 8 ottobre, 4.458. Può essere l&#039;effetto della riapertura delle scuole." />
+<meta property="og:url" content="https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/" />
+<meta property="og:site_name" content="Orizzonte Scuola Notizie" />
+<meta property="article:publisher" content="http://www.facebook.com/pages/orizzontescuola/137568969597372" />
+<meta property="article:author" content="https://www.facebook.com/acarlino85/" />
+<meta property="article:published_time" content="2020-10-09T05:50:46+00:00" />
+<meta property="article:modified_time" content="2020-10-09T06:04:28+00:00" />
+<meta property="og:image" content="https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="563" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@acarlino85" />
+<meta name="twitter:site" content="@orizzontescuola" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.orizzontescuola.it/#organization","name":"Orizzonte Scuola","url":"https://www.orizzontescuola.it/","sameAs":["http://www.facebook.com/pages/orizzontescuola/137568969597372","https://www.youtube.com/user/orizzontescuolatv","https://twitter.com/orizzontescuola"],"logo":{"@type":"ImageObject","@id":"https://www.orizzontescuola.it/#logo","inLanguage":"it-IT","url":"https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg","width":82,"height":82,"caption":"Orizzonte Scuola"},"image":{"@id":"https://www.orizzontescuola.it/#logo"}},{"@type":"WebSite","@id":"https://www.orizzontescuola.it/#website","url":"https://www.orizzontescuola.it/","name":"Orizzonte Scuola Notizie","description":"La scuola in un click","publisher":{"@id":"https://www.orizzontescuola.it/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.orizzontescuola.it/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"it-IT"},{"@type":"ImageObject","@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#primaryimage","inLanguage":"it-IT","url":"https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779.jpg","width":1000,"height":563},{"@type":"WebPage","@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#webpage","url":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/","name":"Covid-19, effetto scuola sui contagi: 223 istituti chiusi, 1.493 con almeno un caso. I dati aggiornati - Orizzonte Scuola Notizie","isPartOf":{"@id":"https://www.orizzontescuola.it/#website"},"primaryImageOfPage":{"@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#primaryimage"},"datePublished":"2020-10-09T05:50:46+00:00","dateModified":"2020-10-09T06:04:28+00:00","description":"Il 14 settembre, giorno della riapertura delle scuole, i casi di positivit\u00e0 al Covid-19 erano 1.008. Ieri, 8 ottobre, 4.458. Pu\u00f2 essere l'effetto della riapertura delle scuole.","inLanguage":"it-IT","potentialAction":[{"@type":"ReadAction","target":["https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/"]}]},{"@type":"Article","@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#article","isPartOf":{"@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#webpage"},"author":{"@id":"https://www.orizzontescuola.it/#/schema/person/1559ba4a436f571d24becfc80fd1a6e4"},"headline":"Covid-19, effetto scuola sui contagi: 223 istituti chiusi, 1.493 con almeno un caso. I dati aggiornati","datePublished":"2020-10-09T05:50:46+00:00","dateModified":"2020-10-09T06:04:28+00:00","mainEntityOfPage":{"@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#webpage"},"publisher":{"@id":"https://www.orizzontescuola.it/#organization"},"image":{"@id":"https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/#primaryimage"},"keywords":"In breve","articleSection":"Cronaca","inLanguage":"it-IT"},{"@type":"Person","@id":"https://www.orizzontescuola.it/#/schema/person/1559ba4a436f571d24becfc80fd1a6e4","name":"Andrea Carlino","image":{"@type":"ImageObject","@id":"https://www.orizzontescuola.it/#personlogo","inLanguage":"it-IT","url":"https://secure.gravatar.com/avatar/a86a7c1d07aa03909cd59f501541f48f?s=96&d=mm&r=g","caption":"Andrea Carlino"},"sameAs":["https://www.facebook.com/acarlino85/","https://twitter.com/acarlino85"]}]}</script>
+
+<link rel='dns-prefetch' href='//assets.evolutionadv.it' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Orizzonte Scuola Notizie &raquo; Feed" href="https://www.orizzontescuola.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Orizzonte Scuola Notizie &raquo; Feed dei commenti" href="https://www.orizzontescuola.it/comments/feed/" />
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.orizzontescuola.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.orizzontescuola.it/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css' href='https://www.orizzontescuola.it/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-au-css' href='https://www.orizzontescuola.it/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-css' href='https://www.orizzontescuola.it/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.11.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.orizzontescuola.it/wp-includes/css/dashicons.min.css?ver=5.5.1' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='os2020-fonts-css' href='https://fonts.googleapis.com/css?family=Lora:400,600|Merriweather:300,400,900&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='os2020-global-css' href='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/global.min.css?ver=1602691467' type='text/css' media='all' />
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/js/ads.min.js?ver=1602691467' id='ads-js' defer></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://assets.evolutionadv.it/orizzontescuola_it/orizzontescuola_it_new.min.js?ver=5.5.1' id='evolution-js' defer></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" id='os2020-navigation-js-extra'>
+/* <![CDATA[ */
+var os2020ScreenReaderText = {"expand":"Expand child menu","collapse":"Collapse child menu"};
+/* ]]> */
+</script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/js/navigation.min.js?ver=1596516635' id='os2020-navigation-js' async></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/js/lazyload.min.js?ver=1596516635' id='os2020-lazy-load-images-js' defer></script>
+<link rel="https://api.w.org/" href="https://www.orizzontescuola.it/wp-json/" /><link rel="alternate" type="application/json" href="https://www.orizzontescuola.it/wp-json/wp/v2/posts/236432" /><link rel='shortlink' href='https://www.orizzontescuola.it/?p=236432' />
+<link rel="alternate" type="application/json+oembed" href="https://www.orizzontescuola.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orizzontescuola.it%2Fcovid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.orizzontescuola.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orizzontescuola.it%2Fcovid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati%2F&#038;format=xml" />
+<link rel="preload" id="os2020-content-preload" href="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/content.min.css?ver=1602691467" as="style">
+<link rel="preload" id="os2020-sidebar-preload" href="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/sidebar.min.css?ver=1596516635" as="style">
+<link rel="preload" id="os2020-widgets-preload" href="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/widgets.min.css?ver=1596516635" as="style">
+<meta name="onesignal" content="wordpress-plugin" />
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.orizzontescuola.it");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '6eaba072-2cb1-4535-9a01-d5567992deb9';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "OrizzonteScuola";
+oneSignal_options['welcomeNotification']['message'] = "Grazie per esserti iscritto alle notifiche";
+oneSignal_options['welcomeNotification']['url'] = "https://www.orizzontescuola.it";
+oneSignal_options['path'] = "https://www.orizzontescuola.it/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.2900aeea-27da-4bc5-9f95-2e3d9a76781c";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Vuoi restare sempre aggiornato con le notifiche?';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'CONTINUA';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'NO GRAZIE';
+oneSignal_options['promptOptions']['siteName'] = 'https://www.orizzontescuola.it';
+oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Autorizza';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Iscriviti alle notifiche';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Sei iscritto alle notifiche';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Le notifiche sono state bloccate';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Grazie per esserti iscritto, da adesso grazie alle notifiche potrai sempre restare aggiornato';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Sei iscritto alle notifiche';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Da adesso in poi non riceverai notifiche';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Gestisci notifiche';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'ISCRIVITI';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'CANCELLATI';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Sblocca notifiche';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Segui queste istruzioni per ricevere le notifiche:';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = 'white';
+oneSignal_options['notifyButton']['colors']['circle.foreground'] = '#0c5997';
+oneSignal_options['notifyButton']['colors']['pulse.color'] = '#0c5997';
+oneSignal_options['notifyButton']['colors']['dialog.button.background'] = '#0c5997';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.hovering'] = '#0c5997';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.active'] = '#0c5997';
+oneSignal_options['notifyButton']['offset'] = {};
+oneSignal_options['notifyButton']['offset']['bottom'] = '20px';
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="amphtml" href="https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/?amp"><link rel="icon" href="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" sizes="32x32" />
+<link rel="icon" href="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" />
+<meta name="msapplication-TileImage" content="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" />
+</head>
+<body class="post-template-default single single-post postid-236432 single-format-standard wp-custom-logo wp-embed-responsive has-sidebar">
+<div id="page" class="site">
+<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+<div class="site-top desktop">
+<div id="top-row">
+<div class="last-update">14 Ottobre 2020</div>
+<nav id="top-navigation" class="top-navigation nav--toggle-sub nav--toggle-small" aria-label="Top menu">
+
+<div class="top-menu-container">
+<ul id="top-menu" class="menu"><li id="menu-item-160120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160120"><a href="https://www.orizzontescuola.it/newsletter/">Newsletter</a></li>
+<li id="menu-item-163300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163300"><a href="https://www.orizzontescuola.it/notifica-pubblici-proclami-tag">Pubblici proclami</a></li>
+<li id="menu-item-150483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150483"><a href="https://www.orizzontescuola.it/pubblicizzati/">Pubblicizzati</a></li>
+<li id="menu-item-227178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227178"><a href="https://www.orizzontescuola.it/notifiche-iscrizione-e-cancellazione/">Notifiche</a></li>
+<li id="menu-item-150480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150480"><a href="https://www.orizzontescuola.it/contattaci/">Contattaci</a></li>
+</ul> </div>
+</nav>
+<div class="social-links">
+<ul id="social-logo">
+<li>
+<a href="https://www.facebook.com/OrizzonteScuola.it/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/fb.svg" alt=""></a>
+</li>
+<li>
+<a href="https://twitter.com/#!/orizzontescuola"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/twitter.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/orizzontescuolatv"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/youtube.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.instagram.com/orizzontescuola.it/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/instagram.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.orizzontescuola.it/telegram"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/telegram.png" alt=""></a>
+</li>
+<li>
+<a href="https://www.orizzontescuola.it/rss-feeds"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/rss.svg" alt=""></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="ads desktop" id="lead-single">
+</div>
+</div>
+<header id="masthead" class="site-header">
+<div id="h-menu" class="mobile">
+<input id="responsive-menu" type="checkbox">
+<label for="responsive-menu"><span id="menu-icon"></span></label>
+<div id="menu-overlay">
+<nav>
+<h3 class="menu-section">Sezioni</h3>
+<ul id="mobile-primary" class="menu"><li id="menu-item-226955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-226955"><a href="https://www.orizzontescuola.it">Home</a></li>
+<li id="menu-item-226957" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226957"><a href="https://www.orizzontescuola.it/scuole/">Scuole</a></li>
+<li id="menu-item-226958" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226958"><a href="https://www.orizzontescuola.it/docenti/">Docenti</a></li>
+<li id="menu-item-226959" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-226959"><a href="https://www.orizzontescuola.it/cronaca/">Cronaca</a></li>
+<li id="menu-item-226960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226960"><a href="https://www.orizzontescuola.it/studenti/">Studenti</a></li>
+<li id="menu-item-226961" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226961"><a href="https://www.orizzontescuola.it/pensioni/">Pensioni</a></li>
+<li id="menu-item-226962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226962"><a href="https://www.orizzontescuola.it/diventareinsegnanti/">Diventare Insegnanti</a></li>
+<li id="menu-item-226963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226963"><a href="https://www.orizzontescuola.it/ata/">ATA</a></li>
+<li id="menu-item-226964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226964"><a href="https://www.orizzontescuola.it/dsga/">DSGA</a></li>
+<li id="menu-item-226965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226965"><a href="https://www.orizzontescuola.it/personale-educativo/">Personale educativo</a></li>
+<li id="menu-item-226966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226966"><a href="https://www.orizzontescuola.it/genitori/">Genitori</a></li>
+<li id="menu-item-226967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226967"><a href="https://www.orizzontescuola.it/politica-scolastica/">Politica scolastica</a></li>
+<li id="menu-item-226968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226968"><a href="https://www.orizzontescuola.it/lettere-redazione/">Lettere in redazione</a></li>
+<li id="menu-item-226969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226969"><a href="https://www.orizzontescuola.it/scuole-non-statali/">Scuole non statali</a></li>
+<li id="menu-item-226970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226970"><a href="https://www.orizzontescuola.it/guide/">Guide</a></li>
+<li id="menu-item-226971" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226971"><a href="https://www.orizzontescuola.it/segreteria/">Segreteria</a></li>
+<li id="menu-item-226972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226972"><a href="https://www.orizzontescuola.it/orientamento-alternanza/">Orientamento e PTCO</a></li>
+</ul> <h3 class="menu-section">Servizi</h3>
+<ul id="mobile-secondary" class="menu"><li id="menu-item-226946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-226946"><a href="https://www.orizzontescuolaformazione.it">Formazione</a></li>
+<li id="menu-item-226947" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226947"><a href="https://www.orizzontescuola.it/chiediloalalla/">Chiedilo a Lalla</a></li>
+<li id="menu-item-226948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226948"><a href="https://www.orizzontescuola.it/consulenzafiscale/">Consulenza fiscale</a></li>
+<li id="menu-item-226949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226949"><a href="https://www.orizzontescuola.it/scadenze-ed-eventi/">Scadenze ed eventi</a></li>
+<li id="menu-item-226950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-226950"><a href="https://www.orizzontescuolaforum.net/">Forum</a></li>
+<li id="menu-item-226951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226951"><a href="https://www.orizzontescuola.it/newsletter/">Newsletter</a></li>
+<li id="menu-item-226952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226952"><a href="https://www.orizzontescuola.it/social/">Social</a></li>
+<li id="menu-item-226953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226953"><a href="https://www.orizzontescuola.it/notifiche/">Notifiche</a></li>
+<li id="menu-item-226954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226954"><a href="https://www.orizzontescuola.it/contattaci/">Contattaci</a></li>
+</ul>
+<ul id="social-media">
+<li>
+<a href="https://www.facebook.com/OrizzonteScuola.it/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/fb.svg" alt=""></a>
+</li>
+<li>
+<a href="https://twitter.com/#!/orizzontescuola"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/twitter.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/orizzontescuolatv"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/youtube.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.instagram.com/orizzontescuola.it/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/instagram.svg" alt=""></a>
+</li>
+<li>
+<a href="https://www.orizzontescuola.it/telegram"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/telegram.png" alt=""></a>
+</li>
+<li>
+<a href="https://www.orizzontescuola.it/rss-feeds"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/rss.svg" alt=""></a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-branding">
+<p class="site-title"><a href="https://www.orizzontescuola.it/" rel="home"><a href="https://www.orizzontescuola.it/" class="custom-logo-link" rel="home"><img width="456" height="46" src="https://www.orizzontescuola.it/wp-content/uploads/2020/08/logo2020.svg" class="custom-logo" alt="Orizzonte Scuola Notizie" sizes="(min-width: 960px) 75vw, 100vw" /></a></a></p>
+<a href="https://www.orizzontescuola.it/" rel="home"><img class="site-icon" src="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" alt="OS"></a>
+<div class="ads ads-brand desktop" id="brand-single">
+</div>
+</div>
+<div id="navsearch" class="searchform">
+<form action="https://www.orizzontescuola.it//ricerca" autocomplete="on">
+<input id="search" name="term" type="text" placeholder="Cosa stai cercando?"><input id="search_submit" value="Ricerca" type="submit">
+</form>
+</div>
+<nav id="site-navigation" class="main-navigation nav--toggle-sub nav--toggle-small" aria-label="Main menu">
+<button class="menu-toggle" aria-label="Open menu" aria-controls="primary-menu" aria-expanded="false">
+Menu	</button>
+<div class="primary-menu-container">
+<ul id="primary-menu" class="menu"><li id="menu-item-150468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150468"><a href="https://www.orizzontescuola.it/diventareinsegnanti/">Diventare Insegnanti</a></li>
+<li id="menu-item-227909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227909"><a href="https://www.orizzontescuola.it/ata/">ATA</a></li>
+<li id="menu-item-227167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-227167"><a href="https://www.orizzontescuola.it/didattica/">Didattica</a></li>
+<li id="menu-item-196149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196149"><a href="https://www.orizzontescuolaformazione.it/">Formazione</a></li>
+<li id="menu-item-227172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-227172"><a href="https://www.orizzontescuola.it/chiediloalalla/">Chiedilo a Lalla</a></li>
+<li id="menu-item-227171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-227171"><a href="https://www.orizzontescuola.it/consulenzafiscale/">Consulenza fiscale</a></li>
+<li id="menu-item-227173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227173"><a href="https://www.orizzontescuolaforum.net">Forum</a></li>
+<li id="menu-item-150469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150469"><a href="https://www.orizzontescuola.it/scadenze-ed-eventi/">Scadenze</a></li>
+</ul> </div>
+<div class="ads desktop" id="menu-single">
+</div>
+<div class="featured-menu-container">
+<span class="category">
+SPECIALI
+</span>
+<ul id="featured-menu" class="menu"><li id="menu-item-234624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234624"><a href="https://www.orizzontescuola.it/neoimmessi-in-ruolo-2020-21-e-anno-di-prova-ai-tempi-del-covid-19-lo-speciale/">Anno prova neoassunti</a></li>
+<li id="menu-item-227786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227786"><a href="https://www.orizzontescuola.it/inizio-anno-scolastico/">Inizio anno scolastico</a></li>
+<li id="menu-item-228696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-228696"><a href="https://www.orizzontescuola.it/supplenze-da-gps-e-graduatorie-di-istituto-convocazioni-posti-priorita-lo-speciale/">Supplenze</a></li>
+<li id="menu-item-222083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-222083"><a href="https://www.orizzontescuola.it/graduatorie-provinciali-e-di-istituto-per-le-supplenze-modalita-pubblicazione-convocazioni-e-tempistica-lo-speciale/">Graduatorie istituto</a></li>
+<li id="menu-item-218666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218666"><a href="https://www.orizzontescuola.it/bandi-concorsi-in-gazzetta-straordinario-ordinario-secondaria-e-ordinario-infanzia-primaria-domande-dal-28-maggio-come-sono-suddivisi-i-62-000-posti/">Concorsi</a></li>
+<li id="menu-item-155804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155804"><a href="https://www.orizzontescuola.it/concorso-secondaria-24-cfu-requisito-di-accesso-modalita-tempi-costi/">24 CFU</a></li>
+</ul> </div>
+</nav>
+</header>
+<link rel='stylesheet' id='os2020-content-css' href='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/content.min.css?ver=1602691467' type='text/css' media='all' />
+<main id="primary" class="site-main">
+<section class="lead-ads mobile">
+<div class="ads mobile" id="m-lead-single"></div>
+<div class="ads mobile" id="m-lead-single2"></div>
+</section>
+<article id="post-236432" class="entry post-236432 post type-post status-publish format-standard has-post-thumbnail hentry category-cronaca tag-in-breve">
+<div class="entry-content">
+<div class="ads desktop" id="top-single1"></div>
+<header class="entry-header">
+<div class="entry-meta">
+<span class="category">
+<a href="https://www.orizzontescuola.it/cronaca/">Cronaca</a> </span>
+<span class="posted-on">
+<a href="https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/" rel="bookmark"><time class="entry-date published updated" datetime="2020-10-09T07:50:46+02:00">9 Ott 2020 - 7:50</time></a> </span>
+</div>
+<h1 class="entry-title">Covid-19, effetto scuola sui contagi: 223 istituti chiusi, 1.493 con almeno un caso. I dati aggiornati</h1> <div class="posted-by">
+Di <span class="author vcard"><a class="url fn n" href="https://www.orizzontescuola.it/author/andrea-carlino/">Andrea Carlino</a></span> </div>
+</header>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v5.0" type="14fb9faf8c53e353fb088a7d-text/javascript"></script>
+<div id="socialsharing">
+<div class="fb-like" data-width="" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<div class="twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-via="orizzontescuola" data-lang="it">Tweet</a></div>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+            ! function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                    p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+            </script>
+<div class="whatsapp noprint"><a class="mobile" id="whatsappshare" href="whatsapp://send?text=https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/whatsapp.png" alt="WhatsApp"> <span>WhatsApp</span></a></div>
+<div class="printer">
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = '';var pfBtVersion='2';(function(){var js,pf;pf=document.createElement('script');pf.type='text/javascript';pf.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')[0].appendChild(pf)})();</script>
+<a href="https://www.printfriendly.com" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print();return false;" title="Stampa articolo" data-cf-modified-14fb9faf8c53e353fb088a7d-=""><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/print.png" alt="Stampa"> </a></div>
+</div>
+<div class="ads mobile" id="m-entry-top-single1"></div>
+<div class="post-thumbnail">
+<img width="720" height="405" src="https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779-720x405.jpg" class="skip-lazy wp-post-image" alt="" loading="lazy" srcset="https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779-720x405.jpg 720w, https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779-290x163.jpg 290w, https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779-600x338.jpg 600w, https://www.orizzontescuola.it/wp-content/uploads/2020/08/shutterstock_1647476779.jpg 1000w" sizes="(min-width: 960px) 75vw, 100vw" /> </div>
+<p>Il 14 settembre, giorno della riapertura delle scuole, i casi di positività al Covid-19 erano 1.008. Ieri, 8 ottobre, 4.458. Può essere l&#8217;effetto della riapertura delle scuole.</p>
+<p>Sono <b>223 </b>le scuole chiuse e almeno <b>1.493</b> quelle in cui si è verificato almeno un caso di coronavirus dall&#8217;inizio di questo anno scolastico in Italia. I numeri che emergono da un database ideato da un giovane ricercatore e uno studente universitario &#8211; Vittorio Nicoletta e Lorenzo Ruffino &#8211; che hanno raccolto, dalla riapertura degli istituti, notizie e ordinanze dei sindaci.</p>
+<p><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">Database: </span><a class="r-1n1174f r-1loqt21 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0 css-4rbku5 css-18t94o4 css-901oao css-16my406" dir="ltr" title="https://bit.ly/covid_scuole" role="link" href="https://t.co/NttdpP1gpn?amp=1" target="_blank" rel="noopener noreferrer" data-focusable="true"><span class="css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>bit.ly/covid_scuole</a></p>
+<p><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0">Mappa interattiva: </span><a class="r-1n1174f r-1loqt21 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0 css-4rbku5 css-18t94o4 css-901oao css-16my406" dir="ltr" title="https://www.datawrapper.de/_/DLy9C/" role="link" href="https://t.co/kLL4Y3pbu6?amp=1" target="_blank" rel="noopener noreferrer" data-focusable="true"><span class="css-901oao css-16my406 r-1qd0xha r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0" aria-hidden="true">https://</span>datawrapper.de/_/DLy9C/</a></p>
+<p>Secondo gli esperti del Comitato Tecnico Scientifico, segnala La Repubblica, potrebbe iniziare a farsi sentire l&#8217;effetto della partenza dell&#8217;anno scolastico. L&#8217;epidemia, però, sembra muoversi dentro le famiglie e, come ricorda Massimo Andreoni, direttore scientifico della Società italiana di malattia infettive, il singolo caso ne genera quattro-cinque tra i parenti.</p>
+<p>Per tenere meglio sotto controllo la situazione nelle scuole, nel Governo, a partire dalla ministra all’Istruzione Lucia Azzolina, si chiedono di fare i test salivari a scuola.</p>
+<p>Al ministero alla Salute pensano che siano utili soprattutto per i bambini più piccoli, perché meno invasivi dei tamponi rapidi, ma ci vorranno almeno 20 giorno affinché siano disponibili per tutti.</p>
+</p>
+<div class="ads mobile" id="m-entry-bottom-single1"></div>
+<div class="ads mobile" id="m-entry-bottom-single2"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v5.0" type="14fb9faf8c53e353fb088a7d-text/javascript"></script>
+<div id="socialsharing">
+<div class="fb-like" data-width="" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<div class="twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-via="orizzontescuola" data-lang="it">Tweet</a></div>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+            ! function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                    p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+            </script>
+<div class="whatsapp noprint"><a class="mobile" id="whatsappshare" href="whatsapp://send?text=https://www.orizzontescuola.it/covid-19-effetto-scuola-sui-contagi-223-istituti-chiusi-1-493-con-almeno-un-caso-i-dati-aggiornati/"><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/whatsapp.png" alt="WhatsApp"> <span>WhatsApp</span></a></div>
+<div class="printer">
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = '';var pfBtVersion='2';(function(){var js,pf;pf=document.createElement('script');pf.type='text/javascript';pf.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')[0].appendChild(pf)})();</script>
+<a href="https://www.printfriendly.com" onclick="if (!window.__cfRLUnblockHandlers) return false; window.print();return false;" title="Stampa articolo" data-cf-modified-14fb9faf8c53e353fb088a7d-=""><img src="https://www.orizzontescuola.it/wp-content/themes/os2020/assets/images/print.png" alt="Stampa"> </a></div>
+</div>
+<div class="info-block nl-block">
+<a href="https://www.orizzontescuola.it/content/newsletter">
+<span class="highlight">Iscriviti alla newsletter di OrizzonteScuola</span>
+<p>Ricevi ogni sera nella tua casella di posta una e-mail con tutti gli aggiornamenti del network di
+orizzontescuola.it</p>
+</a>
+</div>
+<footer class="entry-footer">
+<div class="entry-taxonomies">
+<span class="category-links term-links">
+Pubblicato in <a href="https://www.orizzontescuola.it/cronaca/" rel="category tag">Cronaca</a> </span>
+<span class="tag-links term-links">
+Argomenti: <a href="https://www.orizzontescuola.it/in-breve/" rel="tag">In breve</a> </span>
+</div>
+</footer>
+<div class="ads-2col desktop">
+<div class="ads" id="bottom-single1"></div>
+<div class="ads" id="bottom-single2"></div>
+<div class="ads" id="bottom-single3"></div>
+<div class="ads" id="bottom-single4"></div>
+</div>
+<div class="ads mobile" id="m-bottom-single1"></div>
+<div class="ads mobile" id="m-bottom-single2"></div>
+<div class="ads mobile" id="m-bottom-single3"></div>
+</div>
+</article>
+</main>
+<link rel='stylesheet' id='os2020-sidebar-css' href='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/sidebar.min.css?ver=1596516635' type='text/css' media='all' />
+<link rel='stylesheet' id='os2020-widgets-css' href='https://www.orizzontescuola.it/wp-content/themes/os2020/assets/css/widgets.min.css?ver=1596516635' type='text/css' media='all' />
+<aside id="secondary" class="primary-sidebar widget-area desktop">
+<div class="ads desktop" id="side-single1"></div>
+<div class="ads desktop" id="side-single2"></div>
+<div class="ads desktop" id="side-single3"></div>
+<div class="ads desktop" id="side-single4"></div>
+<div class="ads desktop" id="side-single5"></div>
+<div class="ads desktop" id="side-single6"></div>
+<div class="ads desktop" id="side-single7"></div>
+<div class="ads desktop" id="side-single8"></div>
+<div class="ads desktop" id="side-single9"></div>
+<div class="ads desktop" id="side-single10"></div>
+</aside>
+<footer id="colophon" class="site-footer">
+<div class="footer-row">
+<div class="footer-logo"><a href="https://www.orizzontescuola.it/" class="custom-logo-link" rel="home"><img width="456" height="46" src="https://www.orizzontescuola.it/wp-content/uploads/2020/08/logo2020.svg" class="custom-logo" alt="Orizzonte Scuola Notizie" sizes="(min-width: 960px) 75vw, 100vw" /></a></div>
+<div class="footer-icon"><a href="https://www.orizzontescuola.it/" rel="home"><img class="site-icon" src="https://www.orizzontescuola.it/wp-content/uploads/2020/08/icon.svg" alt="OS"></a></div>
+<nav id="site-navigation" class="footer-navigation nav--toggle-sub nav--toggle-small" aria-label="Footer menu">
+
+<div class="footer-menu-container">
+<ul id="footer-menu" class="menu"><li id="menu-item-150485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150485"><a href="https://www.orizzontescuola.it/termini/">Termini</a></li>
+<li id="menu-item-150486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-150486"><a href="https://www.orizzontescuola.it/privacy/">Privacy</a></li>
+<li id="menu-item-150487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150487"><a href="https://www.orizzontescuola.it/netiquette/">Netiquette</a></li>
+<li id="menu-item-150488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150488"><a href="https://www.orizzontescuola.it/chi-siamo/">Chi siamo</a></li>
+<li id="menu-item-150489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150489"><a href="https://www.orizzontescuola.it/contattaci/">Contattaci</a></li>
+</ul> </div>
+</nav>
+</div>
+<div class="site-info">
+Testata giornalistica registrata presso il
+Tribunale di Ragusa - Proprietario OrizzonteScuola SRL - Via J. A. Spataro 97100 Ragusa <br>Società iscritta
+al registro delle imprese di Ragusa - P. IVA 01492590888 - Iscrizione al ROC 25083 - Capitale sociale 10.000
+euro i.v. <br> Direttore responsabile Eleonora Fortunato - Web content manager Paolo Damanti - Development <a href="http://www.giovanniscala.com" title="Giovanni Scala">Giovanni Scala</a><br>
+</div>
+</footer>
+</div>
+<div id="slidingblock">
+<article id="post-232015" class="entry post-232015 post type-post status-publish format-standard has-post-thumbnail hentry category-promo-slide tag-cfi-formazione">
+<div class="entry-content">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="category">
+MESSAGGIO SPONSORIZZATO
+</span>
+</div>
+<h2 class="entry-title"><a href="https://www.orizzontescuola.it/preparazione-concorsi-tfa-e-punteggio-in-graduatoria-con-cfiscuola-3/" rel="bookmark">Preparazione concorsi, TFA e punteggio in graduatoria con CFIScuola!</a></h2> </header>
+</div>
+</article>
+<a class="close" title="Click to hide" href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; closeBlock(); return false;" data-cf-modified-14fb9faf8c53e353fb088a7d-=""><span class="dashicons dashicons-arrow-right-alt2"></span></a>
+</div>
+<script defer type="14fb9faf8c53e353fb088a7d-text/javascript">
+		function rightBlock(t){window.pageYOffset>window.innerWidth-300?document.getElementById("slidingblock").style.right=0:document.getElementById("slidingblock").style.right="-500px"}function bottomBlock(t){window.pageYOffset>window.innerWidth+600?(document.getElementById("slidingblock").style.bottom=0,setTimeout(function(){closeBlock()},8e3)):document.getElementById("slidingblock").style.bottom="-300px"}function closeBlock(){960<width?document.getElementById("slidingblock").style.right="-500px":document.getElementById("slidingblock").style.bottom="-500px",setTimeout(function(){document.getElementById("slidingblock").style.display="none"},800)}var width=window.innerWidth||document.documentElement.clientWidth;window.onscroll=960<width?rightBlock:bottomBlock;
+	</script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+	(function(i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function() {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-12033602-1', 'auto');
+	ga('send', 'pageview');
+	ga('set', 'anonymizeIp', true);
+</script>
+
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+	function _gaLt(event) {
+		var el = event.srcElement || event.target;
+
+		/* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+		while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)) {
+			el = el.parentNode;
+		}
+
+		if (el && el.href) {
+			/* link */
+			var link = el.href;
+			if (link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i) && !link.match(/printfriendly/g)) {
+				/* external link */
+				/* HitCallback function to either open link in either same or new window */
+				var hitBack = function(link, target) {
+					target ? window.open(link, target) : window.location.href = link;
+				};
+				/* Is target set and not _(self|parent|top)? */
+				var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+				/* send event with callback */
+				ga(
+					"send", "event", "Outgoing Links", link,
+					document.location.pathname + document.location.search, {
+						"hitCallback": hitBack(link, target)
+					}
+				);
+
+				/* Prevent standard click */
+				event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+			}
+
+		}
+	}
+
+	/* Attach the event to all clicks in the document after page has loaded */
+	var w = window;
+	w.addEventListener ? w.addEventListener("load", function() {
+			document.body.addEventListener("click", _gaLt, !1)
+		}, !1) :
+		w.attachEvent && w.attachEvent("onload", function() {
+			document.body.attachEvent("onclick", _gaLt)
+		});
+</script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+		var _comscore = _comscore || [];
+		_comscore.push({
+			c1: "2",
+			c2: "22335742"
+		});
+		(function() {
+			var s = document.createElement("script"),
+				el = document.getElementsByTagName("script")[0];
+			s.async = true;
+			s.src = "https://sb.scorecardresearch.com/cs/22335742/beacon.js";
+			el.parentNode.insertBefore(s, el);
+		})();
+	</script>
+<noscript>
+		<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=22335742&amp;cv=3.6.0&amp;cj=1">
+	</noscript>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script><script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.11.8' id='magnific-popup-au-js'></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://www.orizzontescuola.it/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript" src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.5.1' async='async' id='remote_sdk-js'></script>
+<script type="14fb9faf8c53e353fb088a7d-text/javascript">
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+		</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="14fb9faf8c53e353fb088a7d-|49" defer=""></script></body>
+</html>

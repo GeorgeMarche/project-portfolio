@@ -1,0 +1,404 @@
+<!DOCTYPE html><!--[if lt IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="fr" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="fr" class="no-js lt-ie9"><![endif]--><!--[if gt IE 8]><!--><html lang="fr" class="no-js" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta property="orange: sonde" content="37a35bd519baad70528272dff014e553"><meta name="robots" content="index, follow"><meta name="msvalidate.01" content="5D5336A72635F62FA6B1B79A7B3507B2" /><meta name="orange-generated-date" content="2020-10-14 20:40:43"><meta name="orange-generated-timestamp" content="1602700843"><meta name="orange-hbx-dc" content="m0"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=bOReJRKMXp"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-precomposed.png?v=bOReJRKMXp"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=bOReJRKMXp"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=bOReJRKMXp"><link rel="manifest" href="/site.webmanifest?v=bOReJRKMXp"><link rel="mask-icon" href="/safari-pinned-tab.svg?v=bOReJRKMXp" color="#ff7900"><link rel="shortcut icon" href="/favicon.ico?v=bOReJRKMXp"><meta name="msapplication-TileColor" content="#000000"><meta name="theme-color" content="#ffffff"><title>Marseille : l'IHU de Didier Raoult ne dispose pas de lits de r&eacute;animation pour les patients atteints d'une forme grave du Covid-19</title><meta name="description" content="Le pr&eacute;sident de la r&eacute;gion Provence-Alpes C&ocirc;te d'Azur (PACA) Renaud Muselier (LR) a &eacute;tonn&eacute; ce lundi sur Cnews,&nbsp;en affirmant que l'IHU M&eacute;diterran&eacute;e, h&ocirc;pital sp&eacute;cialis&eacute; dans les maladies infectieuses dirig&eacute; par le professeur Raoult, ne disposait pas de lits de r&eacute;animation pour les patients atteints du Covid-19.&nbsp;
+
+Cet &eacute;tablissement est devenu embl&eacute;matique depuis le d&eacute;but de l'&eacute;pid&eacute;mie de Covid-19. L'Institut hospitalo-universitaire en maladies infectieuses de Marseille (IHU M&eacute;diterran&eacute;e), dirig&eacute; par le controvers&eacute; Dider Raoult, qui d&eacute;fend le recours &agrave;&nbsp;l'hydroxychloroquine comme traitement efficace contre le virus, ne dispose pas de lits de r&eacute;animation &agrave; destination des patients atteints d'une forme grave du virus.&nbsp; Alors que ces services de r&eacute;animation enregistrent les taux de mortalit&eacute; li&eacute;e au Covid-19 les plus &eacute;lev&eacute;s,&nbsp;Didier Raoult a communiqu&eacute; depuis le d&eacute;but de la crise sanitaire sur les excellents r&eacute;sultats de son institut en terme de mortalit&eacute; dans son service.
+
+Le Figaro&nbsp;a v&eacute;rifi&eacute; cette information divulgu&eacute;e lundi 5 octobre par&nbsp;Renaud Muselier, pr&eacute;sident LR de la r&eacute;gion PACA sur le plateau de&nbsp;Cnews.&nbsp;Le quotidien a effectivement constat&eacute; que l'IHU M&eacute;diterran&eacute;e ne disposait pas de lits de r&eacute;animation. Cet &eacute;tablissement sp&eacute;cialis&eacute; faisant partie int&eacute;grante de l'AP-HM, les cas graves de Covid-19 sont transf&eacute;r&eacute;s en r&eacute;animation dans les services appropri&eacute;s de l'AP-HM. De quoi expliquer le taux tr&egrave;s faible de mortalit&eacute; li&eacute;e au Covid-19 &agrave; l'IHU M&eacute;diterran&eacute;e.
+
+&quot;Tout est fait &agrave; l'AP-HM&quot;
+
+&quot;L'IHU ne dispose pas de lits de r&eacute;animation, ni de lits de soins critiques. Il n'y a pas non plus de m&eacute;decins r&eacute;animateurs ni de personnel form&eacute; &agrave; la r&eacute;animation&quot;, explique le docteur Jean-Marie Forel, m&eacute;decin intensiviste r&eacute;animateur &agrave; l'h&ocirc;pital Nord de l'AP-HM. &quot;Il n'y a pas de scanner et de mat&eacute;riel de radiographie, tout est fait l'AP-HM&quot;, ajoute-t-il.&nbsp;
+
+L'IHU faisant partie int&eacute;grante de l'AP-HM, les patients de l'institut d'infectiologie atteints d'une forme grave de Covid-19 sont transf&eacute;r&eacute;s dans l'un des services de l'AP-HM &eacute;quip&eacute; pour faire de la r&eacute;animation. Un anesth&eacute;siste explique que des r&eacute;animateurs &quot;passent tous les jours &agrave; l'AP-HM pour d&eacute;terminer avec les m&eacute;decins de l'IHU quel patient doit aller en r&eacute;animation&quot;. Et si un patient se pr&eacute;sente aux urgences dans un &eacute;tat grave, &quot;il ne va pas &ecirc;tre hospitalis&eacute; &agrave; l'IHU, mais directement en r&eacute;animation&quot;. &quot;Lorsqu'un patient se d&eacute;grade &agrave; l'IHU, il est transf&eacute;r&eacute; &agrave; l'AP-HM. Et si cela tourne mal, son d&eacute;c&egrave;s est comptabilis&eacute; &agrave; l'AP-HM&quot;, ajoute-t-il.&nbsp;
+
+Ce fonctionnement explique pourquoi le taux de mortalit&eacute; li&eacute; au Covid-19 &agrave; l'IHU M&eacute;diterran&eacute;e entre janvier et juin &eacute;tait quatre fois plus faible que dans le reste de l'AP-HM, souligne&nbsp;Le Figaro&nbsp;(0,6% contre 2,4%). Un chiffre encore plus &eacute;lev&eacute; dans les services de r&eacute;animation, o&ugrave; le taux de d&eacute;c&egrave;s li&eacute;s au Covid-19 oscille entre 16 et 20%.&nbsp; "><meta property="fb:admins" content="100001472813666"><meta property="fb:pages" content="227362824389057"><meta property="og:site_name" content="Orange Actualit&eacute;s"><meta property="og:locale" content="fr_FR"><meta property="twitter:site" content="@Oactu_tworangenews"><meta property="name" content="Marseille : l'IHU de Didier Raoult ne dispose pas de lits de r&eacute;animation pour les patients atteints d'une forme grave du Covid-19"><meta property="author" content="Orange avec Media Services"><meta property="publisher" content="Orange avec Media Services"><meta property="dateModified" content="2020-10-10T14:29:54+02:00"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:image:src" content="http://media3.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F95f%2F641%2Fdea1c288beab35dc4c922ad71c%2Fmarseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19%7C95f641dea1c288beab35dc4c922ad71c.jpg?format=470x264&amp;facedetect=1&amp;quality=85"><meta property="og:type" content="article"><meta property="article:published_time" content="2020-10-07T17:30:00+02:00"><meta property="article:modified_time" content="2020-10-07T17:30:00+02:00"><meta property="article:section" content="France"><meta property="article:author" content="Orange avec Media Services"><meta property="og:image" content="http://media3.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F95f%2F641%2Fdea1c288beab35dc4c922ad71c%2Fmarseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19%7C95f641dea1c288beab35dc4c922ad71c.jpg?format=470x264&amp;facedetect=1&amp;quality=85"><meta property="og:title" content="Marseille : l'IHU de Didier Raoult ne dispose pas de lits de r&eacute;animation pour les patients atteints d'une forme grave du Covid-19"><meta property="og:description" content="Le pr&eacute;sident de la r&eacute;gion Provence-Alpes C&ocirc;te d'Azur (PACA) Renaud Muselier (LR) a &eacute;tonn&eacute; ce lundi sur Cnews,&nbsp;en affirmant que l'IHU M&eacute;diterran&eacute;e, h&ocirc;pital sp&eacute;cialis&eacute; dans les maladies infectieuses dirig&eacute; par le professeur Raoult, ne disposait pas de lits de r&eacute;animation pour les patients atteints du Covid-19.&nbsp;
+
+Cet &eacute;tablissement est devenu embl&eacute;matique depuis le d&eacute;but de l'&eacute;pid&eacute;mie de Covid-19. L'Institut hospitalo-universitaire en maladies infectieuses de Marseille (IHU M&eacute;diterran&eacute;e), dirig&eacute; par le controvers&eacute; Dider Raoult, qui d&eacute;fend le recours &agrave;&nbsp;l'hydroxychloroquine comme traitement efficace contre le virus, ne dispose pas de lits de r&eacute;animation &agrave; destination des patients atteints d'une forme grave du virus.&nbsp; Alors que ces services de r&eacute;animation enregistrent les taux de mortalit&eacute; li&eacute;e au Covid-19 les plus &eacute;lev&eacute;s,&nbsp;Didier Raoult a communiqu&eacute; depuis le d&eacute;but de la crise sanitaire sur les excellents r&eacute;sultats de son institut en terme de mortalit&eacute; dans son service.
+
+Le Figaro&nbsp;a v&eacute;rifi&eacute; cette information divulgu&eacute;e lundi 5 octobre par&nbsp;Renaud Muselier, pr&eacute;sident LR de la r&eacute;gion PACA sur le plateau de&nbsp;Cnews.&nbsp;Le quotidien a effectivement constat&eacute; que l'IHU M&eacute;diterran&eacute;e ne disposait pas de lits de r&eacute;animation. Cet &eacute;tablissement sp&eacute;cialis&eacute; faisant partie int&eacute;grante de l'AP-HM, les cas graves de Covid-19 sont transf&eacute;r&eacute;s en r&eacute;animation dans les services appropri&eacute;s de l'AP-HM. De quoi expliquer le taux tr&egrave;s faible de mortalit&eacute; li&eacute;e au Covid-19 &agrave; l'IHU M&eacute;diterran&eacute;e.
+
+&quot;Tout est fait &agrave; l'AP-HM&quot;
+
+&quot;L'IHU ne dispose pas de lits de r&eacute;animation, ni de lits de soins critiques. Il n'y a pas non plus de m&eacute;decins r&eacute;animateurs ni de personnel form&eacute; &agrave; la r&eacute;animation&quot;, explique le docteur Jean-Marie Forel, m&eacute;decin intensiviste r&eacute;animateur &agrave; l'h&ocirc;pital Nord de l'AP-HM. &quot;Il n'y a pas de scanner et de mat&eacute;riel de radiographie, tout est fait l'AP-HM&quot;, ajoute-t-il.&nbsp;
+
+L'IHU faisant partie int&eacute;grante de l'AP-HM, les patients de l'institut d'infectiologie atteints d'une forme grave de Covid-19 sont transf&eacute;r&eacute;s dans l'un des services de l'AP-HM &eacute;quip&eacute; pour faire de la r&eacute;animation. Un anesth&eacute;siste explique que des r&eacute;animateurs &quot;passent tous les jours &agrave; l'AP-HM pour d&eacute;terminer avec les m&eacute;decins de l'IHU quel patient doit aller en r&eacute;animation&quot;. Et si un patient se pr&eacute;sente aux urgences dans un &eacute;tat grave, &quot;il ne va pas &ecirc;tre hospitalis&eacute; &agrave; l'IHU, mais directement en r&eacute;animation&quot;. &quot;Lorsqu'un patient se d&eacute;grade &agrave; l'IHU, il est transf&eacute;r&eacute; &agrave; l'AP-HM. Et si cela tourne mal, son d&eacute;c&egrave;s est comptabilis&eacute; &agrave; l'AP-HM&quot;, ajoute-t-il.&nbsp;
+
+Ce fonctionnement explique pourquoi le taux de mortalit&eacute; li&eacute; au Covid-19 &agrave; l'IHU M&eacute;diterran&eacute;e entre janvier et juin &eacute;tait quatre fois plus faible que dans le reste de l'AP-HM, souligne&nbsp;Le Figaro&nbsp;(0,6% contre 2,4%). Un chiffre encore plus &eacute;lev&eacute; dans les services de r&eacute;animation, o&ugrave; le taux de d&eacute;c&egrave;s li&eacute;s au Covid-19 oscille entre 16 et 20%.&nbsp; "><meta property="og:url" content="https://actu.orange.fr/france/marseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19-magic-CNT000001tUzB0.html"><meta property="og:author" content="https://www.facebook.com/orangeactufr"><link rel="canonical" href="https://actu.orange.fr/france/marseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19-magic-CNT000001tUzB0.html"><link rel="amphtml" href="https://actu.orange.fr/france/marseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19-magic-CNT000001tUzB0.amp"><link rel="stylesheet" href="//c.woopic.com/pseudo/css/mediation.css?43"><link rel="stylesheet" href="//c.woopic.com/react/css/react.css?43"><link rel="stylesheet" href="//pseudo.woopic.com/css/spup.css"><script type="text/javascript" src="//iz4.orange.fr/$v=2;i=actu_I1;d=1602700873;s=fc638e9a4b1fa73f1ca78692f43fedff4c446e947de289fb09bd4255dc85e01f/idzone.js"></script><script>var sUrlReferrer = "actufranceart"</script><script>
+    var o_confCommon = {
+        footer: {
+            id: 'o-footer-wrapper',
+            sitemapZone: true
+        },
+        headerDisplay : true,
+                domainTitle : "Actualités",
+        domainUrl : '//actu.orange.fr',
+                domainRef : "actu",
+        polarisMode : true,
+                slimServiceZone : false,
+                tracking : {
+                        //enable iQ TMS
+            Tealium: {
+                activate : true 
+            }
+
+        },
+        underlineLeftItem : '0',
+        unifiedSearchEngine : {
+            label: "Rechercher dans Actualités",
+            queryAdditionalParams : "module=chaine&bhv=actu&ap=-1",
+            cmplBlocks : [{ baseId : '-actu' }],
+                        toptrendCategory : "orange.actu",            toptrend : true
+                    },
+        cmplPetale : false 
+    };
+
+    
+    
+    // Determiner si un user est connecte ou non
+    var c_userid = true;
+    if ((o_idzone.ACCOUNT_MULTIBAL && o_idzone.USER_IDENT_LEVEL == "PARTIAL") || o_idzone.USER_IDENT_LEVEL == "NONE" || o_idzone.USER_IDENT_LEVEL == null || o_idzone.USER_IDENT_LEVEL == "") {
+        c_userid = false;
+    }
+
+    // Conf de tracking GA
+            var o_data = {
+            //liste des variables valorisees a partir des donnees incluses dans les pages du site
+            "domaine": "actu",
+            "univers_affichage": "france",
+            "sous_univers" : "",
+            "source_contenu" : "Orange avec Media Services",
+            "titre_page": document.title, // document title
+            "type_page": "article",
+            "client_log": c_userid ? "Authentifie" : "Anonyme",
+            "canal": "Web"
+        };
+    
+
+
+</script><script src="//c.woopic.com/libs/common/o_load_responsive_web.js"></script><link rel="stylesheet" href="//actu.orange.fr/css/min/article.header.23e6981c4bcfdd28c860e3a7145441dde5998348.css"><script  src="//actu.orange.fr/js/min/article.header.6e87cc5be25c830e63cc79d7060d4d1e90b0c6a2.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script><script src="//pms.orange.fr/module/embed/2115/js/embed.js"></script><!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie7.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie8.css" /><![endif]--><!--[if IE 9]><link rel="stylesheet" type="text/css" href="/css/media/desktop/patch.polaris-ie9.css" /><![endif]--><script src="//all.orfr.adgtw.orangeads.fr/js/ora_actu.france?sKW=&sCT="></script></head><body class="device-desktop"><div id="omContent" class="polaris">
+<header class="menu-v3 o_r_url_menu" id="menu-v3-first-level"><div class="mv3-container-main"><ul class="mv3-first-level mv3-loader-bright"><li class="dynamic"><ul class="dynamic-menu clearfix"><li class=" o_r_a-la-une" ><a
+                                    href="https://actu.orange.fr/"
+                                    title="A la une"
+                                                                >
+                                A la une
+                            </a></li><li class=" mv3-active o_r_france" ><a
+                                    href="https://actu.orange.fr/france/"
+                                    title="France"
+                                                                >
+                                France
+                            </a></li><li class=" o_r_monde" ><a
+                                    href="https://actu.orange.fr/monde/"
+                                    title="Monde"
+                                                                >
+                                Monde
+                            </a></li><li class=" o_r_politique" ><a
+                                    href="https://actu.orange.fr/politique/"
+                                    title="Politique"
+                                                                >
+                                Politique
+                            </a></li><li class=" o_r_societe" ><a
+                                    href="https://actu.orange.fr/societe/"
+                                    title="Société"
+                                                                >
+                                Société
+                            </a></li><li class=" o_r_finance" ><a
+                                    href="http://finance.orange.fr/"
+                                    title="Finance"
+                                                                >
+                                Finance
+                            </a></li><li class=" o_r_auto" ><a
+                                    href="https://auto.orange.fr/"
+                                    title="Auto"
+                                                                >
+                                Auto
+                            </a></li><li class=" o_r_meteo" ><a
+                                    href="http://meteo.orange.fr/"
+                                    title="Météo"
+                                                                >
+                                Météo
+                            </a></li></ul></li><li class="mv3-events fixed-width"><ul><li class="mv3-logo o_r_le-parlement-europeen"><a
+                href="https://parlement-europeen.actu.orange.fr?utx_source=Parlement_Europeen_2020&utx_medium=onglet&utx_campaign=rubrique_actu"
+                title="le Parlement Européen"
+                                        ><img src="//media2.woopic.com/api/v1/images/661%2Fum-menuv3%2F128%2F967%2F0ae5fbf4b700389ac158dce692%2F1289670ae5fbf4b700389ac158dce692.png?facedetect=1&quality=85" alt="le Parlement Européen" title="le Parlement Européen"/></a></li></ul></li></ul></div></header><div class="clear"></div>
+<header id="secondary_nav" class="polaris"><div class="container-main"><div class="main-container"><ul class="menu clearfix o_r_url_noeud_menu"><li class="breadcrumb"><span>En ce moment</span></li><li class="o_r_covid-19-de-nouvelles-restrictions-en-vue "><a href="/france/coronavirus/"
+                           title="Covid-19: de nouvelles restrictions en vue" >
+                            Covid-19
+                        </a></li><li class="o_r_videos "><a href="/france/videos/"
+                           title="Vidéos" >
+                            Vidéos
+                        </a></li><li class="o_r_diaporamas "><a href="/france/diaporamas/"
+                           title="Diaporamas" >
+                            Diaporamas
+                        </a></li></ul></div></div></header><div class="news-top-article light-bkg"><div class="container-main"><div class="main-container"><div id="carousel-news-top-article" class="jssor-carousel polaris strip bkg-dark"><div data-u="slides" class="slides o_r_url_bandeau"><div class="three  type6 tile shadow blocHref o_r_1"><div class="container ellipsis-parent"
+         id="oan_ora_1_1x1_chaine.article.bandeaunews"         widget-id="AR_14"    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F1fa%2F275%2Fbfdf10c712823fc7ddc8a67ea3%2Fl-etat-d-urgence-sanitaire-reinstaure-samedi%7C1fa275bfdf10c712823fc7ddc8a67ea3.jpg?format=80x90&facedetect=1&quality=85" alt="L&#039;état d&#039;urgence sanitaire réinstauré samedi" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/l-etat-d-urgence-sanitaire-reinstaure-samedi-magic-CNT000001u6Y2V.html"  title="L&#039;état d&#039;urgence sanitaire réinstauré samedi" class="title blocHrefTarget lines-2">
+                            L'état d'urgence sanitaire réinstauré samedi
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_2"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F2fb%2F5cf%2Fb668298b7b2144ad3826450476%2Fintemperies-dans-les-alpes-maritimes-cinq-victimes-formellement-identifiees%7C2fb5cfb668298b7b2144ad3826450476.jpg?format=80x90&facedetect=1&quality=85" alt="Intempéries dans les Alpes-Maritimes : cinq victimes formellement identifiées" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/intemperies-dans-les-alpes-maritimes-cinq-victimes-formellement-identifiees-magic-CNT000001u6WFI.html"  title="Intempéries dans les Alpes-Maritimes : cinq victimes formellement identifiées" class="title blocHrefTarget lines-2">
+                            Intempéries dans les Alpes-Maritimes : cinq victimes formellement ...
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_3"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F5e1%2Ffc5%2F1a0ecf796949ec725e39589848%2Fapprendre-a-vivre-avec-la-difficile-reconstruction-d-un-survivant-du-bataclan%7C000_QB1D4-highDef.jpg?format=80x90&facedetect=1&quality=85" alt="&quot;Apprendre à vivre avec&quot;: la difficile reconstruction d&#039;un survivant du Bataclan" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/apprendre-a-vivre-avec-la-difficile-reconstruction-d-un-survivant-du-bataclan-CNT000001u6UZw.html"  title="&quot;Apprendre à vivre avec&quot;: la difficile reconstruction d&#039;un survivant du Bataclan" class="title blocHrefTarget lines-2">
+                            "Apprendre à vivre avec": la difficile reconstruction d'un survivant ...
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_4"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2Fc11%2F5e4%2F424b620b54588f7bf21d08c2dc%2Fa-nice-un-sdf-offre-ses-economies-aux-sinistres-des-crues%7C000_8T32R9-highDef.jpg?format=80x90&facedetect=1&quality=85" alt="A Nice, un SDF offre ses économies aux sinistrés des crues" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/a-nice-un-sdf-offre-ses-economies-aux-sinistres-des-crues-CNT000001u6TKg.html"  title="A Nice, un SDF offre ses économies aux sinistrés des crues" class="title blocHrefTarget lines-2">
+                            A Nice, un SDF offre ses économies aux sinistrés des crues
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_5"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media3.woopic.com/api/v1/images/661%2Fafp-news%2F27f%2Fe8c%2F56ee5ece65b49cb5b5fb9ce253%2F28-ans-de-prison-pour-l-assaillant-de-notre-dame-qui-n-a-aucun-regret%7C000_PB3UO-highDef.jpg?format=80x90&facedetect=1&quality=85" alt="28 ans de prison pour l&#039;assaillant de Notre-Dame qui n&#039;a aucun regret" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/28-ans-de-prison-pour-l-assaillant-de-notre-dame-qui-n-a-aucun-regret-CNT000001u6T2I.html"  title="28 ans de prison pour l&#039;assaillant de Notre-Dame qui n&#039;a aucun regret" class="title blocHrefTarget lines-2">
+                            28 ans de prison pour l'assaillant de Notre-Dame qui n'a aucun regret
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_6"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F8a6%2F7a0%2F57025833e21f8412f70b2a9f15%2Fcovid-19-nouveau-tour-de-vis-voire-couvre-feu-macron-va-trancher%7C000_8RH9XD-highDef.jpg?format=80x90&facedetect=1&quality=85" alt="Covid-19: nouveau tour de vis, voire couvre-feu, Macron va trancher" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/covid-19-nouveau-tour-de-vis-voire-couvre-feu-macron-va-trancher-CNT000001u6Sff.html"  title="Covid-19: nouveau tour de vis, voire couvre-feu, Macron va trancher" class="title blocHrefTarget lines-2">
+                            Covid-19: nouveau tour de vis, voire couvre-feu, Macron va trancher
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_7"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Faee%2Fc57%2F4a7c429f1659ea4ca524dbc209%2Fune-mere-exige-que-l-etat-aide-financierement-sa-fille-detenue-en-syrie%7Caeec574a7c429f1659ea4ca524dbc209.jpg?format=80x90&facedetect=1&quality=85" alt="Une mère exige que l&#039;État aide financièrement sa fille détenue en Syrie " /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/une-mere-exige-que-l-etat-aide-financierement-sa-fille-detenue-en-syrie-magic-CNT000001u6QCG.html"  title="Une mère exige que l&#039;État aide financièrement sa fille détenue en Syrie " class="title blocHrefTarget lines-2">
+                            Une mère exige que l'État aide financièrement sa fille détenue en Syrie 
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_8"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F4b4%2Fa97%2F78df75cb849eaa28ac5411f105%2Fpolicier-renverse-dans-l-essonne-la-colere-nous-habite-assure-la-police-apres-ce-nouvel-acte-de-violence%7C4b4a9778df75cb849eaa28ac5411f105.jpg?format=80x90&facedetect=1&quality=85" alt="Policier renversé dans l&#039;Essonne : &quot;La colère nous habite&quot;, assure la police après ce nouvel acte de violence" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/policier-renverse-dans-l-essonne-la-colere-nous-habite-assure-la-police-apres-ce-nouvel-acte-de-violence-magic-CNT000001u6FzO.html"  title="Policier renversé dans l&#039;Essonne : &quot;La colère nous habite&quot;, assure la police après ce nouvel acte de violence" class="title blocHrefTarget lines-2">
+                            Policier renversé dans l'Essonne : "La colère nous habite", assure ...
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_9"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F09f%2Fb04%2F492390b564de7025352e8e88ef%2Fmort-de-victorine-un-suspect-interpelle%7C09fb04492390b564de7025352e8e88ef.jpg?format=80x90&facedetect=1&quality=85" alt="Mort de Victorine : un suspect interpellé" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/mort-de-victorine-un-suspect-interpelle-magic-CNT000001u6BZv.html"  title="Mort de Victorine : un suspect interpellé" class="title blocHrefTarget lines-2">
+                            Mort de Victorine : un suspect interpellé
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_10"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F8a2%2F311%2F9ca80de9d8880430344cedbce1%2Fvictorine-l-homme-passe-aux-aveux-vivait-dans-le-meme-quartier-que-la-victime%7C8a23119ca80de9d8880430344cedbce1.jpg?format=80x90&facedetect=1&quality=85" alt="Victorine : l&#039;homme passé aux aveux vivait dans le même quartier que la victime" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/victorine-l-homme-passe-aux-aveux-vivait-dans-le-meme-quartier-que-la-victime-magic-CNT000001u6BKQ.html"  title="Victorine : l&#039;homme passé aux aveux vivait dans le même quartier que la victime" class="title blocHrefTarget lines-2">
+                            Victorine : l'homme passé aux aveux vivait dans le même quartier que ...
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_11"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media1.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F03f%2Fc6b%2Ffe7cc07ca6997cdaf780794ca9%2Fcoronavirus-25-000-volontaires-pour-tester-des-vaccins-avec-l-inserm%7C03fc6bfe7cc07ca6997cdaf780794ca9.jpg?format=80x90&facedetect=1&quality=85" alt="Coronavirus : 25.000 volontaires pour tester des vaccins avec l&#039;Inserm" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/coronavirus-25-000-volontaires-pour-tester-des-vaccins-avec-l-inserm-magic-CNT000001u6wk8.html"  title="Coronavirus : 25.000 volontaires pour tester des vaccins avec l&#039;Inserm" class="title blocHrefTarget lines-2">
+                            Coronavirus : 25.000 volontaires pour tester des vaccins avec l'Inserm
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_12"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2Fbe3%2Fd97%2F378be2affb5d2de74beb1fafeb%2Fretraites-la-lourde-facture-du-covid-19%7Cbe3d97378be2affb5d2de74beb1fafeb.jpg?format=80x90&facedetect=1&quality=85" alt="Retraites : la lourde facture du Covid-19" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/retraites-la-lourde-facture-du-covid-19-magic-CNT000001u6l4z.html"  title="Retraites : la lourde facture du Covid-19" class="title blocHrefTarget lines-2">
+                            Retraites : la lourde facture du Covid-19
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div><div class="three  type6 tile shadow blocHref o_r_13"><div class="container ellipsis-parent"
+                    ><div class="image "><img  src="//media2.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F052%2F7de%2Ff33a3b48a6b684215e06a41786%2Femmanuel-macron-annonce-un-couvre-feu-dans-9-grandes-villes%7C0527def33a3b48a6b684215e06a41786.jpg?format=80x90&facedetect=1&quality=85" alt="Emmanuel Macron annonce un couvre-feu dans 9 grandes villes" /><div class="mark"></div></div><div class="info "><div class="info-outer"><div class="info-inner ellipsis-container"><div class="tag">News</div><div><a href="https://actu.orange.fr/france/emmanuel-macron-annonce-un-couvre-feu-dans-9-grandes-villes-magic-CNT000001u6pBB.html"  title="Emmanuel Macron annonce un couvre-feu dans 9 grandes villes" class="title blocHrefTarget lines-2">
+                            Emmanuel Macron annonce un couvre-feu dans 9 grandes villes
+                        </a></div><div class="date">
+                                14 octobre 2020
+            </div></div></div></div></div></div></div><a href="#" data-u="arrowleft" class="arrow left o_r_nav_bandeau_fleche_gauche"><span class="icon-arrow-left"></span></a><a href="#" data-u="arrowright" class="arrow right o_r_nav_bandeau_fleche_droite"><span class="icon-arrow-right"></span></a></div></div></div></div><script>
+    $(document).ready(function () {
+        var e = $("#carousel-news-top-article");
+        e.find(".slides img:first").imagesLoaded().always(function (t) {
+            $.carousel(e, {
+                container: $(".news-top-article .main-container"),
+                cloneSlidesContainer: false
+            })
+        })
+    });
+</script>
+
+<div class="container-main strip-alerte-info"><div class="main-container"><div class="alerte-info blocHref"><div class="title-alerte-info">
+                    ALERTE INFO
+                </div><div class="texte-alerte-info"><div class="slide"><span class="heure">20:26</span><a href="https://actu.orange.fr/france/emmanuel-macron-prend-la-parole-a-20h00-magic-CNT000001u6pBB.html" target="_self">
+                                                EN DIRECT. Réunions privées : ne pas être "plus de 6 à table"
+                                                    </a></div></div></div><div class="clear"></div></div></div><div class="container-main"><div class="main-container container-top fil-ariane"><a href="/france/" title="retour en arri&egrave;re"><span class="icon-arrow-left"></span>Toutes les news France</a></div></div><div class="container-main"><div class="main-container"><div class="fluid"><div class="inner-left"><div class="stickyTwin"><h1 itemscope itemtype ="http://schema.org/title">
+    Marseille : l'IHU de Didier Raoult ne dispose pas de lits de réanimation pour les patients atteints d'une forme grave du Covid-19
+</h1><div class="share-container clear"><div class="osocial-share" data-shorten-total='1'></div><button class="MSReact-btn MSReact-btnGrey right" title="R&eacute;agir">R&eacute;agir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><article itemscope itemtype="http://schema.org/Article" id="CNT000001tUzB0"><span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Orange Actu"/><span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="//c.orange.fr/logo-orange.png"/></span></span><div class="article-corps"><!-- IMAGE --><div class="article-corps-image"><div class="image-wrapper"><div class="article-img"><img itemprop="image" src="//media3.woopic.com/api/v1/images/661%2Fmagic-article-actu%2F95f%2F641%2Fdea1c288beab35dc4c922ad71c%2Fmarseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19%7C95f641dea1c288beab35dc4c922ad71c.jpg?format=980x450&facedetect=1&quality=85" alt="Marseille : l&#039;IHU de Didier Raoult ne dispose pas de lits de réanimation pour les patients atteints d&#039;une forme grave du Covid-19"></div><div class="caption-wrapper"><div class="caption-title" itemprop="name">Un lit de réanimation au CHU Les Abymes, en Guadeloupe, le 9 avril 2020</div><div class="caption-copyright" itemprop="copyrightHolder" itemtype="http://schema.org/Organization">©Cedrick Isham CALVADOS / AFP</div></div></div><!-- .image-wrapper --></div><!-- fin article corps image --><div class="article-corps-text"><div class="sticky-block-column sticky-lire-aussi"><div class="insert-zone1"><span class="title">A lire aussi</span><div class="a-lire-aussi blocHref o_r_url_lireaussi"><div class="element-container o_r_lien1"><div class="image"><img src="//media2.woopic.com/api/v1/images/661%2Fafp-news%2F30d%2F344%2F7e623953953bf626578aebf5d7%2Fcovid-19-les-hopitaux-toujours-confrontes-au-manque-de-lits-et-d-effectifs%7C000_8R68AT-highDef.jpg?format=250x150&facedetect=1&quality=85" alt="Covid-19: les hôpitaux toujours confrontés au manque de lits et d&#039;effectifs " /></div><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/covid-19-les-hopitaux-toujours-confrontes-au-manque-de-lits-et-d-effectifs-CNT000001tM8UG.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 1', track_nom:'Covid-19: les hôpitaux toujours confrontés au manque de lits et d&#039;effectifs ' });} else { javascript:void(0); }">
+                Covid-19: les hôpitaux toujours confrontés au manque de lits et d'effectifs 
+            </a></div></div><div class="element-container o_r_lien2"><div class="element-genre">France</div><div class="element-title"><a href="https://actu.orange.fr/france/coronavirus-il-y-a-trop-d-affolement-trop-de-panique-selon-le-pr-raoult-magic-CNT000001tEhEX.html" onmousedown="if (utag) { utag.link({ track_page:'Bloc A lire aussi', track_zone:'Clic article 2', track_nom:'Coronavirus : &quot;Il y a trop d&#039;affolement, trop de panique&quot;, selon le Pr Raoult' });} else { javascript:void(0); }">
+                Coronavirus : "Il y a trop d'affolement, trop de panique", selon le Pr Raoult
+            </a></div></div></div><script>
+    $(document).ready(function(){
+        socialGraphClick(1901);
+    });
+</script></div></div><div class="sticky-text-column"><!-- PUBLICATION --><meta itemprop="datePublished" content="2020-10-07"><meta itemprop="dateModified" content="2020-10-07"/><meta itemprop="mainEntityOfPage" content="https://actu.orange.fr/france/marseille-l-ihu-de-didier-raoult-ne-dispose-pas-de-lits-de-reanimation-pour-les-patients-atteints-d-une-forme-grave-du-covid-19-magic-CNT000001tUzB0.html"/><meta itemprop="headline" content="  Le président de la région Provence-Alpes Côte d'Azur (PACA) Renaud Muselier (LR) a étonné ce lundi sur..."/><div itemprop="articleBody" ><!-- Date --><p class="date"><span itemprop="author" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Orange avec Media Services</span></span>, publié le mercredi 07 octobre 2020 à 17h30
+                    </p><!-- Fin Date --><!-- TEXTE --><p><strong>Le président de la région Provence-Alpes Côte d'Azur (PACA) Renaud Muselier (LR) a étonné ce lundi sur <em>Cnews, </em>en affirmant que l'IHU Méditerranée, hôpital spécialisé dans les maladies infectieuses dirigé par le professeur Raoult, ne disposait pas de lits de réanimation pour les patients atteints du Covid-19. </strong><br/><div class="ms-embed dailymotion-p-m video dailymotion-p-m-1 ms-embed-1"><a id="embedAMP_dbae9839139076b9bec04615eb535c9d"></a><div id="pvpContainer_dbae9839139076b9bec04615eb535c9d" class='pip' data-pip-mode='pvp' data-pip-ref='pvp_dbae9839139076b9bec04615eb535c9d'></div><p><script>
+    window.pvp_dbae9839139076b9bec04615eb535c9d = new Pvp('dmpublic', {idDM: "x7wmpch", mediaType: "dm-public"}, {
+        'sequenceUrl': 
+        
+        "//pms.orange.fr/module/pm/1892/videoInfoEdito/extId/x7wmpch/adCategory/embed", 
+        'domNode': "pvpContainer_dbae9839139076b9bec04615eb535c9d",
+        "origin": "embed",
+        "mute": true,
+        "autoplay": false
+    });
+</script><div class="daily-motion-footer"><span><a href="http://www.dailymotion.com/video/x7wmpch" target="_blank">Renaud Muselier : "On les as tous envoyés chez Mr Raoult, ils sont tous été soignés, j'ai eu personne en réanimation "</a><em>par <a href="https://www.dailymotion.com/News360x" target="_blank">cjtinfo</a></em></span><a class="report o_r_abuseDM" data-id-dm="x7wmpch" alt="Signaler ce contenu" title="Signaler ce contenu" target="_blank"
+       href="http://www.dailymotion.com/pageitem/abuse?request=%2Ffr%2Ffeatured%2Fvideo%2Fx7wmpch"><span
+            class="icon-flag"></span></a></div><p></div><p><br/>
+Cet établissement est devenu emblématique depuis le début de l'épidémie de Covid-19. L'Institut hospitalo-universitaire en maladies infectieuses de Marseille (IHU Méditerranée), dirigé par le controversé <a href="https://actu.orange.fr/france/coronavirus-le-virus-est-plus-dangereux-aujourd-hui-que-cet-ete-selon-le-pr-raoult-magic-CNT000001tUrsK.html">Dider Raoult</a>, qui défend le recours à <a href="https://actu.orange.fr/france/coronavirus-le-virus-est-plus-dangereux-aujourd-hui-que-cet-ete-selon-le-pr-raoult-magic-CNT000001tUrsK.html">l'hydroxychloroquine </a>comme traitement efficace contre le virus, ne dispose pas de lits de réanimation à destination des patients atteints d'une forme grave du virus.  Alors que ces services de réanimation enregistrent les taux de mortalité liée au Covid-19 les plus élevés, Didier Raoult a communiqué depuis le début de la crise sanitaire sur les excellents résultats de son institut en terme de mortalité dans son service.<br/><br/><em>Le Figaro </em>a vérifié cette information divulguée lundi 5 octobre par Renaud Muselier, président LR de la région PACA sur le plateau de <em>Cnews. </em>Le quotidien a effectivement constaté que l'IHU Méditerranée ne disposait pas de lits de réanimation. </p><p>Cet établissement spécialisé faisant partie intégrante de l'AP-HM, les cas graves de Covid-19 sont transférés en réanimation dans les services appropriés de l'AP-HM. De quoi expliquer le taux très faible de mortalité liée au Covid-19 à l'IHU Méditerranée.<br/><br/><strong>&quot;Tout est fait à l'AP-HM&quot;</strong><br/><br/>
+&quot;L'IHU ne dispose pas de lits de réanimation, ni de lits de soins critiques. Il n'y a pas non plus de médecins réanimateurs ni de personnel formé à la réanimation&quot;, explique le docteur Jean-Marie Forel, médecin intensiviste réanimateur à l'hôpital Nord de l'AP-HM. &quot;Il n'y a pas de scanner et de matériel de radiographie, tout est fait l'AP-HM&quot;, ajoute-t-il. <br/><br/>
+L'IHU faisant partie intégrante de l'AP-HM, les patients de l'institut d'infectiologie atteints d'une forme grave de Covid-19 sont transférés dans l'un des services de l'AP-HM équipé pour faire de la réanimation. Un anesthésiste explique que des réanimateurs &quot;passent tous les jours à l'AP-HM pour déterminer avec les médecins de l'IHU quel patient doit aller en réanimation&quot;. Et si un patient se présente aux urgences dans un état grave, &quot;il ne va pas être hospitalisé à l'IHU, mais directement en réanimation&quot;. &quot;Lorsqu'un patient se dégrade à l'IHU, il est transféré à l'AP-HM. Et si cela tourne mal, son décès est comptabilisé à l'AP-HM&quot;, ajoute-t-il. <br/><br/>
+Ce fonctionnement explique pourquoi le taux de mortalité lié au Covid-19 à l'IHU Méditerranée entre janvier et juin était quatre fois plus faible que dans le reste de l'AP-HM, souligne <em>Le Figaro </em>(0,6% contre 2,4%). Un chiffre encore plus élevé dans les services de réanimation, où le taux de décès liés au Covid-19 oscille entre 16 et 20%.  </p></div><!-- articleBody --></div><!-- .colonne-text --></div><!-- .article.corps-text --></div><!-- .article-corps --><div class="stopScroll"></div></article><script>
+$(document).ready(function () {
+    if ($('.news-top-article').length && $('.sticky-block-column').length) {
+    //to set banner "a lire aussi" position at the top if "news-top-article" is present
+        $('.article-corps').addClass('news-top-check');
+        $.makeItSticky(".sticky", ".article-img", ".share-container", ".stickyTwin");
+    }
+});
+</script><div class="share-container clear"><div class="osocial-share" data-shorten-total='1'></div><button class="MSReact-btn MSReact-btnGrey right" title="R&eacute;agir">R&eacute;agir</button><div class="clear"></div></div><script>
+    window.oShareInit = function() { oShare.init({ confId : 1901 }); };
+</script><script>
+    $(document).ready(function(){
+
+        $( ".MSReact-btn" ).click(function() {
+            var newsBlock = $('.news-top-article');
+            if (newsBlock.length) {
+                var TOP_MARGIN = newsBlock.height();
+            } else {
+                var TOP_MARGIN = 0;
+            }
+
+            $(window).scrollTop($('#comments').offset().top -TOP_MARGIN);
+        });
+    });
+</script><section class="voir-aussi o_r_notchanged clear"><div id="outbrain-container"><div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3"></div></div></section><script>
+    $(document).ready(function(){
+        $.o_socialGraph
+                .setConf({
+                    "socialgraph": {
+                        "id" : 1901
+                    },
+                    "magicRequest": {
+                        "hostname" : "//actu.orange.fr/media/related-popin/"
+                    }
+                }).setDeviceType('desktop');
+
+        $.sgPlugins.popin_related.activate(120000, 'actu', 2, 4, 'CNT000001tUzB0');
+    });
+</script><div class="clear_30"></div><div id="ultimedia_wrapper" class="pip_reset-when-visible"></div><script>
+    $(document).ready(function(){
+        new Pvp(
+            'digitekawidget',
+            {
+                'mdtk': '01582271',
+                'mediaType': 'digiteka-public',
+                'date': '20201007'
+            },
+            {
+                'domNode': 'ultimedia_wrapper',
+                'skinId': 'orange',
+                'libraryHost': '//c.woopic.com/Pvp/'            }
+        );
+    });
+</script><div class="clear"></div></div></div></div><aside class="fixed-sidebar"><div class="sidebar"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_1_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_1_300x250_actu.france" target="_blank"><img src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_1_300x250_actu.france" width="300" height="250" alt=""/></a></noscript></div></div><div class="stickyTop"></div><div class="sticky"><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="fil-info no-js o_r_url_filinfo"><div class="fil-info-entete bloc-commun"><h2> Fil info</h2><nav class="fil-info-select" id= "fil-info-select"><a href="#" class="fil-info-choix-categorie o_r_actu"><span id="fil-info-choix-label">Actu</span></a><ul class="fil-info-list-categorie mCS_destroyed" id="fil-info-list-categorie"><li><a class="fil-info-link-categorie o_r_notchanged" href="#all" data-title="Actu">Actu</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#france" data-title="France">France</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#politique" data-title="Politique">Politique</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#societe" data-title="Société">Société</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#monde" data-title="Monde">Monde</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#finance" data-title="Finance">Finance</a></li><li><a class="fil-info-link-categorie o_r_notchanged" href="#auto" data-title="Auto">Auto</a></li></ul></nav></div><div class="fil-info-content bloc-commun"><div class="fil-info-datatitle o_r_news_1" data-text="L'état d'urgence sanitaire réinstauré samedi" data-title="France"><a href="https://actu.orange.fr/france/l-etat-d-urgence-sanitaire-reinstaure-samedi-magic-CNT000001u6Y2V.html" class="fil-info-overflow"><span class="fil-info-datePublished">19:30</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">L'état d'urgence sanitaire réinstauré samedi</span></a></div><div class="fil-info-datatitle o_r_news_2" data-text="Covid-19 : les transports en commun, des bétaillères à virus, selon Julien..." data-title="Politique"><a href="https://actu.orange.fr/politique/covid-19-les-transports-en-commun-des-betailleres-a-virus-selon-julien-bayou-magic-CNT000001u6XIM.html" class="fil-info-overflow"><span class="fil-info-datePublished">19:30</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Covid-19 : les transports en commun, des "bétaillères à virus", selon Julien Bayou</span></a></div><div class="fil-info-datatitle o_r_news_3" data-text="Intempéries dans les Alpes-Maritimes : cinq victimes formellement identifiées" data-title="France"><a href="https://actu.orange.fr/france/intemperies-dans-les-alpes-maritimes-cinq-victimes-formellement-identifiees-magic-CNT000001u6WFI.html" class="fil-info-overflow"><span class="fil-info-datePublished">18:30</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Intempéries dans les Alpes-Maritimes : cinq victimes formellement identifiées</span></a></div><div class="fil-info-datatitle o_r_news_4" data-text="Fusillade à Marseille : l'une des jeunes filles touchées par les tirs est..." data-title="Fait-divers"><a href="https://actu.orange.fr/societe/fait-divers/fusillade-a-marseille-l-une-des-jeunes-filles-touchees-par-les-tirs-est-decedee-magic-CNT000001u6Vmh.html" class="fil-info-overflow"><span class="fil-info-datePublished">17:40</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Fusillade à Marseille : l'une des jeunes filles touchées par les tirs est décédée</span></a></div><div class="fil-info-datatitle o_r_news_5" data-text="Apprendre à vivre avec: la difficile reconstruction d'un survivant du Bataclan" data-title="France"><a href="https://actu.orange.fr/france/apprendre-a-vivre-avec-la-difficile-reconstruction-d-un-survivant-du-bataclan-CNT000001u6UZw.html" class="fil-info-overflow"><span class="fil-info-datePublished">17:16</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">"Apprendre à vivre avec": la difficile reconstruction d'un survivant du Bataclan</span></a></div><div class="fil-info-datatitle o_r_news_6" data-text="Trump face à Biden, pas de débat mais duel à distance" data-title="Monde"><a href="https://actu.orange.fr/monde/trump-face-a-biden-pas-de-debat-mais-duel-a-distance-CNT000001u6UTa.html" class="fil-info-overflow"><span class="fil-info-datePublished">17:14</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Trump face à Biden, pas de débat mais duel à distance</span></a></div><div class="fil-info-datatitle o_r_news_7" data-text="Covid-19: baisse sans précédent des émissions de CO2 (étude)" data-title="Environnement"><a href="https://actu.orange.fr/societe/environnement/covid-19-baisse-sans-precedent-des-emissions-de-co2-etude-CNT000001u6URh.html" class="fil-info-overflow"><span class="fil-info-datePublished">17:07</span><span class="fil-info-categorie">Environnement</span><span class="fil-info-datatitre">Covid-19: baisse "sans précédent" des émissions de CO2 (étude)</span></a></div><div class="fil-info-datatitle o_r_news_8" data-text="Présidentielle de 2022 : les militants insoumis invités à se prononcer sur la..." data-title="Politique"><a href="https://actu.orange.fr/politique/presidentielle-de-2022-les-militants-insoumis-invites-a-se-prononcer-sur-la-candidature-de-jean-luc-melenchon-magic-CNT000001u6UAe.html" class="fil-info-overflow"><span class="fil-info-datePublished">16:45</span><span class="fil-info-categorie">Politique</span><span class="fil-info-datatitre">Présidentielle de 2022 : les militants insoumis invités à se prononcer sur la candidature de Jean-Luc Mélenchon</span></a></div><div class="fil-info-datatitle o_r_news_9" data-text="Virus: l'Europe durcit ses restrictions, mesures attendues en France" data-title="Monde"><a href="https://actu.orange.fr/monde/virus-l-europe-durcit-ses-restrictions-mesures-attendues-en-france-CNT000001u6U9F.html" class="fil-info-overflow"><span class="fil-info-datePublished">16:27</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Virus: l'Europe durcit ses restrictions, mesures attendues en France</span></a></div><div class="fil-info-datatitle o_r_news_10" data-text="A Nice, un SDF offre ses économies aux sinistrés des crues" data-title="France"><a href="https://actu.orange.fr/societe/insolite/a-nice-un-sdf-offre-ses-economies-aux-sinistres-des-crues-CNT000001u6TKg.html" class="fil-info-overflow"><span class="fil-info-datePublished">16:06</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">A Nice, un SDF offre ses économies aux sinistrés des crues</span></a></div><div class="fil-info-datatitle o_r_news_11" data-text="Tatouages nazis : une dentiste licenciée près de Lyon, enquête ouverte" data-title="Fait-divers"><a href="https://actu.orange.fr/societe/fait-divers/tatouages-nazis-une-dentiste-licenciee-pres-de-lyon-enquete-ouverte-magic-CNT000001u6Tdj.html" class="fil-info-overflow"><span class="fil-info-datePublished">15:57</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Tatouages nazis : une dentiste licenciée près de Lyon, enquête ouverte</span></a></div><div class="fil-info-datatitle o_r_news_12" data-text="28 ans de prison pour l'assaillant de Notre-Dame qui n'a aucun regret" data-title="France"><a href="https://actu.orange.fr/france/28-ans-de-prison-pour-l-assaillant-de-notre-dame-qui-n-a-aucun-regret-CNT000001u6T2I.html" class="fil-info-overflow"><span class="fil-info-datePublished">15:52</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">28 ans de prison pour l'assaillant de Notre-Dame qui n'a aucun regret</span></a></div><div class="fil-info-datatitle o_r_news_13" data-text="Covid-19: nouveau tour de vis, voire couvre-feu, Macron va trancher" data-title="France"><a href="https://actu.orange.fr/france/covid-19-nouveau-tour-de-vis-voire-couvre-feu-macron-va-trancher-CNT000001u6Sff.html" class="fil-info-overflow"><span class="fil-info-datePublished">15:39</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Covid-19: nouveau tour de vis, voire couvre-feu, Macron va trancher</span></a></div><div class="fil-info-datatitle o_r_news_14" data-text="Covid-19 : les voisins européens de la France imposent de nouvelles..." data-title="Monde"><a href="https://actu.orange.fr/monde/covid-19-les-voisins-europeens-de-la-france-imposent-de-nouvelles-restrictions-magic-CNT000001u6SlV.html" class="fil-info-overflow"><span class="fil-info-datePublished">15:35</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Covid-19 : les voisins européens de la France imposent de nouvelles restrictions </span></a></div><div class="fil-info-datatitle o_r_news_15" data-text="Lourdes peines de prison pour l'organisation criminelle grecque Aube dorée" data-title="Monde"><a href="https://actu.orange.fr/monde/lourdes-peines-de-prison-pour-l-organisation-criminelle-grecque-aube-doree-CNT000001u6QHL.html" class="fil-info-overflow"><span class="fil-info-datePublished">14:51</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Lourdes peines de prison pour l'"organisation criminelle" grecque Aube dorée</span></a></div><div class="fil-info-datatitle o_r_news_16" data-text="Une mère exige que l'État aide financièrement sa fille détenue en Syrie " data-title="France"><a href="https://actu.orange.fr/france/une-mere-exige-que-l-etat-aide-financierement-sa-fille-detenue-en-syrie-magic-CNT000001u6QCG.html" class="fil-info-overflow"><span class="fil-info-datePublished">14:50</span><span class="fil-info-categorie">France</span><span class="fil-info-datatitre">Une mère exige que l'État aide financièrement sa fille détenue en Syrie </span></a></div><div class="fil-info-datatitle o_r_news_17" data-text="Grâce à un skateur sur TikTok, Fleetwood Mac réintègre le Billboard" data-title="Culture"><a href="https://actu.orange.fr/societe/culture/grace-a-un-skateur-sur-tiktok-fleetwood-mac-reintegre-le-billboard-CNT000001u6Q5i.html" class="fil-info-overflow"><span class="fil-info-datePublished">14:30</span><span class="fil-info-categorie">Culture</span><span class="fil-info-datatitre">Grâce à un skateur sur TikTok, Fleetwood Mac réintègre le Billboard</span></a></div><div class="fil-info-datatitle o_r_news_18" data-text="En difficulté, Donald Trump ne change rien " data-title="Monde"><a href="https://actu.orange.fr/monde/en-difficulte-donald-trump-ne-change-rien-CNT000001u6PWw.html" class="fil-info-overflow"><span class="fil-info-datePublished">14:19</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">En difficulté, Donald Trump ne change rien </span></a></div><div class="fil-info-datatitle o_r_news_19" data-text="Coronavirus: le point sur la pandémie" data-title="Monde"><a href="https://actu.orange.fr/monde/coronavirus-le-point-sur-la-pandemie-CNT000001u6PIS.html" class="fil-info-overflow"><span class="fil-info-datePublished">13:57</span><span class="fil-info-categorie">Monde</span><span class="fil-info-datatitre">Coronavirus: le point sur la pandémie</span></a></div><div class="fil-info-datatitle o_r_news_20" data-text="Bordeaux : des policiers visés par des tirs de mortiers d'artifice et une..." data-title="Fait-divers"><a href="https://actu.orange.fr/societe/fait-divers/bordeaux-des-policiers-vises-par-des-tirs-de-mortiers-d-artifice-et-une-tentative-d-ecrasement-magic-CNT000001u6OWY.html" class="fil-info-overflow"><span class="fil-info-datePublished">13:51</span><span class="fil-info-categorie">Fait-divers</span><span class="fil-info-datatitre">Bordeaux : des policiers visés par des tirs de mortiers d'artifice et une tentative d'écrasement</span></a></div>
+</div><div class="fil-info-pagination bloc-commun"><div class="fil-info-counter"></div></div></div><!--[if lte IE 7]></div><![endif]--><!--[if IE 8]></div><![endif]--><script>
+    if (sUrlReferrer != 'undefined'){
+        var ref = sUrlReferrer;
+    }else {
+        var ref = "";
+    }
+    if(typeof Polaris == "undefined") Polaris = { };
+    Polaris.newsfeed = { limit: 7, src: "/fragments/fil-info/", currentCat: "all" };
+    function changeAllLinksFilInfo(tag_gstat){
+        img = new Image();
+        z_protocol = (document.location.protocol === 'https:') ? 'https%3A' : 'http%3A';
+        rnd = Math.round(Math.random() * 10000000000);
+        img.src = document.location.protocol + "//r.orange.fr/r?ref="+ref+"_"+tag_gstat+"&url=" + z_protocol + "//c.woopic.com/z.gif?" + rnd;
+    };
+</script><!--[if lte IE 7]><div class="ie7"><![endif]--><!--[if IE 8]><div class="ie8"><![endif]--><div class="no-js graphbourse blocHref tile"><div class="container"><div class="inline"><p class="name"><a href="//finance.orange.fr/bourse/">CAC 40</a></p><p class="variation">
+                4 942 pts
+            </p></div><div class="inline"><div class="icone bourse"><span class="icon-finance-down" ></span></div></div><div class="inline"><p class="down">-0,12%</p></div></div></div><div class="no-js graphbourse thelast tile"><div class="container"><div class="inline"><p class="name">
+                Météo
+            </p><p class="variation ville">
+                Paris
+            </p></div><div class="inline"><div class="meteo"><span class="favorites-city-icon"><span class="picTempsAddons"></span></span></div></div><div class="inline"><span class="temperature">27°</span></div><div class="clear"></div></div></div><div class="blocHref upsell portrait o_r_url_upsell_presse_item1" ><h2>Presse</h2><div class="content"><img src="https://proxymedia.woopic.com/api/v1/images/463%2Fe-presse%2Fd7c%2F7e6%2F313dbc9952770b498de337635c%2Fcover-big.jpg?format=200x300" alt="Le Parisien"><div class="inner"><h3 class="transition_1">Le Parisien</h3><a href="https://r.orange.fr/r/Omedia_epresse/quotidien/le-parisien/hauts-de-seine/2020-10-14" target="_blank"><button>découvrir</button></a></div></div><div class="clear"></div></div></div></div></aside><div class="clear"></div></div></div><div class="clearfix stickyBottom"></div><section id="comments"><div class="main-container"><div class="fluid"><div class="sticky-comments-column"><div id="react" class="inner-left"><div class="info_message_react"><div><span class="o-icon-INFORMATION"></span></div><p class="message_cgu">
+                                    Vos réactions doivent respecter <a href="https://c.orange.fr/pages-juridiques-media/cgu-graphcomment.html">nos CGU</a>.
+                                </p></div></div><div id="graphcomment" class="inner-left"></div><script type="text/javascript">
+                        /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
+                        window.gc_params = {
+                            graphcomment_id:'orange-actu',
+                            uid: 'CNT000001tUzB0',
+                            publication_date: '2020-10-07 17:30:00',//datetime
+                            lifetime: '7' //Number of days
+                        };
+                        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+                        (function() {
+                            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+
+                            var environmentUrl = window.location.hostname;
+                            var environmentSet =  environmentUrl.match("^.*\.(dev|rec|preprod|staging)\.(orange\.fr)$");
+                            if (environmentSet && environmentSet.length) {
+                                gc.src = 'https://graphcomment.dev.orange.fr/js/orange.js';
+                              } else {
+                                gc.src = 'https://graphcomment.orange.fr/js/orange.js';
+                              }
+
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+                        })();
+                    </script></div></div><aside class="fixed-sidebar sticky-pub-comments sticky-pub-block-column"><div class="sidebar"><div class="stickyTopReact"></div><div class="stickyReact" style="position:relative"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_300x250_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_300x250_actu.france" target="_blank"><img src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_300x250_actu.france" width="300" height="250" alt=""/></a></noscript></div></div></div></div></aside><div class="clear"></div></div></section><div class="stickyBottomReact"></div><script>
+        $(document).ready(function () {
+            if ($('.news-top-article').length && $('.sticky-pub-block-column').length) {
+                $.makeItSticky(".sticky", ".stickyTopReact", ".stickyBottomReact", "#graphComment");
+            }
+        });
+    </script><div class="clear" id="commercial-links"><div class="container-main"><div class="main-container"><h4>Liens commerciaux</h4><div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div></div></div></div><div class="container-main clear"><div class="main-container"><div class="syndication-bar"><p>retrouvez <strong>Actualités</strong> sur</p><a href="//r.orange.fr/r/Oactu_fborangenews" target="_blank" class="o_r_url_social_facebook bt-soc bt-fb transition_1" title="Facebook"><span class="icon-facebook"></span><span class="nom transition_1">facebook</span></a><a href="//r.orange.fr/r/Oactu_tworangenews" target="_blank" class="o_r_url_social_twitter bt-soc bt-tw transition_1" title="Twitter"><span class="icon-twitter"></span><span class="nom transition_1">twitter</span></a></div></div></div><div id="o-footer-ad"  ><div class="main-container"><div class="pave_pub"><span>Publicité</span><div id="oan_ora_2_728x90_actu.france"><noscript><a href="//all.orfr.adgtw.orangeads.fr/clk/ora_actu.france/ora_2_728x90_actu.france" target="_blank"><img src="//all.orfr.adgtw.orangeads.fr/img/ora_actu.france/ora_2_728x90_actu.france" width="728" height="90" alt=""/></a></noscript></div></div></div></div><div class="sitemap-link"><div class="container-main"><div class="main-container"><a href="/plan-du-site/">Liste des articles archivés</a></div></div></div><div id='o-footer-wrapper'></div><script>
+    head.ready( function() {
+        o_generateFooterZone("ZoneSiteMap");
+        o_hGetById('o-footer-wrapper').appendChild(o_hGetById('o-footer-ad'));
+        o_generateFooterZone("ZoneAccesDirect");
+        o_generateFooterZone("ZoneLienLegal");
+
+                
+        function getUrlParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        var unsubVar = getUrlParameter("displayUnsub");
+        if(unsubVar == 1){
+            Polaris.mediaPopin.load({src:'/media/newsletter/unsubscribeNewsletter/'});
+        }
+        
+        
+        //o_footer('','div_footer');
+        o_refreshSession();
+        o_changeAllLinks();
+
+        //gstat
+        if (typeof _gstat !== "undefined") {
+            var gstatPath = o_confCommon.tracking.Gstat.path || o_confCommon.footer.gstatPath;
+            if (gstatPath) {
+                _gstat.audience("","",gstatPath);
+            } else {
+                _gstat.audience("","","");
+            }
+        }
+
+    });
+    try { $(function() { if($.blocHref) { $.blocHref(); }  if($.breadcrumbs) { $.breadcrumbs.restore(); }  }); } catch(e) { }
+	</script></div><script  src="//actu.orange.fr/js/min/article.footer.7debf2966c34a61cb0733f7d607f63c2455d8564.js"></script><script src="//c.woopic.com/oshare/js/jquery.share.min.js"></script><script src="//pseudo.woopic.com/js/spup.js"></script><script src="//c.woopic.com/Pvp/js/pvp-min.js"></script></body></html>
+
+

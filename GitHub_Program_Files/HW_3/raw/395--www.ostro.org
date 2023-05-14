@@ -1,0 +1,2223 @@
+
+	
+
+
+<!DOCTYPE html>
+<html lang="ru-RU" prefix="og: //ogp.me/ns# fb: //ogp.me/ns/fb#">
+<head>
+<title>«ОстроВ» - информационное агентство </title>
+<link rel="canonical" href="https://www.ostro.org/" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<meta name="revisit-after" content="1 days">
+
+
+<link rel="dns-prefetch" href="//m.ostro.org">
+<link rel="dns-prefetch" href="//googletagservices.com">
+<link rel="dns-prefetch" href="//google-analytics.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//facebook.com">
+<link rel="dns-prefetch" href="//connect.facebook.net"> 
+<link rel="dns-prefetch" href="//syndication.twitter.com"> 
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//cdn.syndication.twimg.com">
+<!--link rel="dns-prefetch" href="//an.yandex.ru"-->
+<link rel="dns-prefetch" href="//cdn.onesignal.com">
+<link rel="dns-prefetch" href="//onesignal.com">
+<link rel="dns-prefetch" href="//cdn.admixer.net"> 
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link href="/bitrix/js/main/core/css/core.css?1365587796" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/bitrix/menu/tabs/style.css?1320514205" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.top_news/one_news_home/style.css?1405370957" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/bitrix/voting.current/.default/style.css?1424175347" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/bitrix/voting.form/.default/style.css?1424182696" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache-editor/article_editor/style.css?1485433973" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/video_news/style.css?1405019932" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/articles_list2/style.css?1416821063" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/one_news_home/style.css?1405019932" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/articles_list/style.css?1405019932" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/blog/templates/.default/style.css?1380531480" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/blog/templates/.default/themes/blue/style.css?1320514234" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/conference_home/style.css?1405303261" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/aside_news/style.css?1320514205" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/components/aniart/news.list.tag-cache/company_news/style.css?1405019932" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/styles.css?1484081184" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/ostro/template_styles.css?1586521086" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1602700450','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'396e446a2d7b915916de71e64b293b75','SITE_ID':'s1'});(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/ostro/kernel/kernel.js?1602699332"></script>
+<script type="text/javascript"> BX.setKernelJS(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/session.js','/bitrix/js/main/utils.js','/bitrix/js/main/popup_menu.js']); </script><script type="text/javascript">
+bxSession.Expand(592000, '396e446a2d7b915916de71e64b293b75', false, 'eff788d51c47e4a14fa71df1548f4d49');
+</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/ostro/template_327d106ddbde5410468e99b4240a912b/template_327d106ddbde5410468e99b4240a912b_13ce056af8e2b55a4db28b413ffa574f.js?1602699305"></script>
+
+
+<link rel="manifest" href="/manifest.json" />
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "ae1e3cb2-d600-4593-bf6f-490573a07995",
+      safari_web_id: 'web.onesignal.auto.0d033746-9b8a-4e2f-a0e7-88cee0acb9dd'
+    });
+  });
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="/bitrix/templates/ostro/jquery.selectBox.js"></script>
+<script type="text/javascript" src="/bitrix/templates/ostro/script.js"></script>
+<script type="text/javascript" src="/bitrix/templates/ostro/aside_news.js"></script>
+<script src="/bitrix/js/slider/slides.jquery.js" type="text/javascript"></script>
+
+
+<!--link rel="alternate" type="application/rss+xml" title="ОстроВ - все материалы" href="//www.ostro.org/rss/" /--> 
+
+<link rel="stylesheet" type="text/css" href="/bitrix/js/fileman/light_editor/light_editor.css"/>
+<!--<link rel="stylesheet" type="text/css" href="/bitrix/templates/ostro/styles_social.css"/>-->
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/ostro/_to_top.css"/>
+<script type="text/javascript">
+if (parent.frames.length >0 && parent != window) {
+	parent.window.location.href=this.window.location.href;
+}
+$().ready(function() {
+	$("#back-top").hide();
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+});
+</script>
+<link href="/bitrix/templates/ostro/js/barousel.css" type="text/css" rel="stylesheet" />
+<!--link href="/template/css/font-awesome.min.css" type="text/css" rel="stylesheet" /-->
+<!--[if lt IE 9]>
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
+<![endif]--> 
+<!--mobyslider -->
+<script type="text/javascript" src="/bitrix/js/mobilyslider/mobilyslider.js"></script>
+<link rel="stylesheet" type="text/css" href="/bitrix/js/mobilyslider/mobilyslider.css" />
+<!--slider for photo section-->
+<link href="/bitrix/templates/ostro/js/es/elastislide.css" type="text/css" rel="stylesheet" />
+
+<!--script type="text/javascript" src="//vk.com/js/api/share.js?94""></script-->
+
+
+
+<!--<div id="fb-root"></div>-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=427943867394947";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Google Analitycs ОстроВ основной -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26023455-1', 'ostro.org');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analitycs ОстроВ основной -->
+<!-- Google DCP -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/469082444/ostro_org_240_400_main', [240, 400], 'div-gpt-ad-1507810414004-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/469082444/ostro_org_240_400_enter', [240, 400], 'div-gpt-ad-1493727152507-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/469082444/ostro_org_720_90_main_top', [720, 90], 'div-gpt-ad-1543869630474-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/469082444/ostro_org_578_pereselentsam', [578, 200], 'div-gpt-ad-1490878368611-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+ <!-- Google DCP -->
+
+<script src="/bitrix/templates/ostro/jwplayer-7.12.6/jwplayer.js"></script>
+<script>jwplayer.key="lV/hvQO8yaVQhVAdIGOkluJcEoJzhYa2x67mTw==";</script>
+<script src="/bitrix/templates/ostro/chart.js/dist/Chart.js"></script>
+
+<!--ukr.net-->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/17774365/ostro.org_300x250', [300, 250], 'div-gpt-ad-1525250605780-0').addService(googletag.pubads());
+    googletag.defineSlot('/17774365/ostro.org_300x250_2', [300, 250], 'div-gpt-ad-1525250605780-1').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!--END:ukr.net-->
+
+
+<!-- Yandex.Metrika counter --
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter10095436 = new Ya.Metrika({id:10095436, enableAll: true, webvisor:true});
+        } catch(e) {}
+    });
+    
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "https://d31j93rd8oukbv.cloudfront.net/metrika/watch_ua.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<!--noscript><div><img src="//mc.yandex.ru/watch/10095436" style="position:absolute; left:-9999px;" alt="" /></div></noscript-->
+<!-- /Yandex.Metrika counter -->
+
+<!--<script>
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				play: 5000,
+				pause: 500,
+				hoverPause: true,
+				animationStart: function(current){
+					$('.caption').animate({
+						bottom:-35
+					},100);
+					if (window.console && console.log) {
+						// example return of current slide number
+						console.log('animationStart on slide: ', current);
+					};
+				},
+				animationComplete: function(current){
+					$('.caption').animate({
+						bottom:0
+					},200);
+					if (window.console && console.log) {
+						// example return of current slide number
+						console.log('animationComplete on slide: ', current);
+					};
+				},
+				slidesLoaded: function() {
+					$('.caption').animate({
+						bottom:0
+					},200);
+				}
+			});
+		});
+	</script>-->
+	<!--bigmir)net TOP 100 Part 1-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:66879,s:66879,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400).slice(0,400);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="https://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="https://c.bigmir.net/?v66879&s66879&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+<!-- MT --
+<script charset="windows-1251" src="//i.mediatraffic.com.ua/js/uho/mt20_3.js"></script>
+<!-- MT -->
+
+</head>
+
+<body>
+<!--<center><img src="http://www.ostro.org/files_dn/2014/01/23/zabastovka.png" style="border:none"  /></center>-->
+<span class="current_timestamp" style="display:none;">1602700450000</span>
+
+<div class="container">
+		<header>
+			<div class="top-line">
+				<span class="top-line-left"></span>
+				<span class="top-line-center">
+					<span class="top-date">
+						Среда, 14 октября 2020, 21:34<span style='display:none'>1602700450</span>					</span>
+					
+					<div class="social-icon-top">
+					<a href="//www.facebook.com/iaostro" class="icon-social icon-social-facebook"></a>
+					<a href="//twitter.com/ostro_v" class="icon-social icon-social-twitter"></a>
+					<!--a href="http://vk.com/ostro_org" class="icon-social icon-social-vk"></a-->
+					<a href="//www.youtube.com/user/ostroorg/" class="icon-social icon-social-youtube"></a>
+					<a href="/rss/" class="icon-social icon-social-rss"></a>
+					</div>
+					
+								
+					<span class="top-links">
+						<noindex>
+						<a href="/cdn-cgi/l/email-protection#e58c8b838aa58a9691978acb8a9782">Написать нам</a></noindex>
+						<a href="/advertising.php">Реклама на сайте</a>
+						<a href="https://m.ostro.org/?USE_DESKTOP=0">Мобильная версия</a>
+						<a href="https://www.ostro.info/">English</a>
+					</span>
+				</span>
+				<span class="top-line-right"></span>
+			</div>
+			<div class="header-middle">
+				<a class="logo" href="/"></a> 
+							
+				<!--div class="top-block-container-radio">
+					<div class="top-block-item">
+						<a href="/radio/">
+							<img src="/images/ord.png" width="65" height="65">
+							<span>
+								<span class="title">РАДИОПРОГРАММА "ОККУПАЦИЯ"</span>
+								<br>
+								<span class="text">Обзор событий недели на оккупированных территориях</span><br>
+							</span>
+						</a>
+					</div>
+				</div>
+				<div class="top-block-container">
+					<div class="top-block-item">
+						<a href="/pereselentsam/">
+							<img src="/images/people.png" width="65" height="65">
+							<span>
+								<span class="title">СПЕЦПРОЕКТ "ПЕРЕСЕЛЕНЕЦ"</span>
+								<br>
+								<span class="text">Новости, статьи, ответы на вопросы для внутренне перемещенных лиц</span><br>
+							</span>
+						</a>
+					</div>
+				</div-->
+				<!--section>
+					<a href="/pereselentsam/">
+						<img src="/bitrix/templates/ostro/images/pereselentsam.jpg" style="border:none; margin: 0 0 0 18px;"  />
+					</a>
+					
+				</section-->
+				<section class="banner680x90">
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Main_page_728x90_top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4709105346903522"
+     data-ad-slot="8098051298"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</section>
+							</div>
+	
+
+<nav class="topmenu">
+	<span class="topmenu-left"></span>	
+	<div class="top">		
+															<a href="/" class="active">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ГЛАВНАЯ</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/donetsk/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ДОНЕЦК</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/lugansk/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ЛУГАНСК</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/video/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ВИДЕО</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/pereselentsam/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ДЛЯ ПЕРЕСЕЛЕНЦЕВ</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/eu4east/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">ЕС ДЛЯ ВОСТОКА</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+												<span class="topsep"></span>				<a href="/archive/">
+					<span class="topmenu-link-left"></span>
+					<span class="topmenu-link-center">АРХИВ</span>
+					<span class="topmenu-link-right"></span>
+				</a>				
+									<div class="search">
+			<a href="/search/" class="icon-social icon-social-search"></a>			
+		</div>
+	</div>
+	<span class="topmenu-right"></span>
+	
+	</nav>
+
+<noindex><p id="back-top" style="display: block;"><a href="#top"><span></span>Вверх</a></p></noindex>
+</header>
+<div class="content">
+	<div class="left">
+		<div> <noidex> 
+<!--<a id="bxid_221778" href="http://www.ostro.org/spectema/" ><img id="bxid_270034" src="http://www.ostro.org/spectema/izb_jurnal.png" style="border:none"  /></a>-->
+<!--div style="position: absolute; left:0; top:0; width: 90px; height: 90px; background: url('http://www.ostro.org/files_dn/2013/11/30/em-ribbon.png'); z-index: 2013; border: 0;"></div>-->
+<!--<div style="position: absolute; left:0; top:0; width: 200px; height: 220px; background: url('http://www.ostro.org/files_dn/2014/04/11/em-ribbon.png'); z-index: 2013; border: 0;"></div>-->
+<!--a id="bxid_221778" href="http://www.ostro.org/radio/" ><img id="bxid_270034" src="http://www.ostro.org/var/image/okkupaciya.png" style="border:none"  /></a-->
+</noidex>
+<!--COVID19-->
+<div style="background-color: #e8e8e8; padding: 5px; border-radius: 5px;">
+	<div style="text-align: center; font-size: 18px; font-weight: bold; padding: 5px; text-transform: uppercase;">
+		<a href="/covid19/?utm_source=ostro_site&utm_medium=click&utm_campaign=covid19" style="color: #000000 !important;">Спецтема: COVID-19 в Украине</a>
+	</div>
+
+</div>
+</div>
+ <section class="today"> 	 	<figure>		 
+      <h2>ТЕМА ДНЯ</h2>
+	
+<div id="slides">
+	<div class="slides_container">
+
+	<div class="slide">
+	<a class="preview" href="/general/society/news/599030/"><img src="/upload/iblock/b6f/200.jpg" alt="">
+</a>
+        <div class="caption">
+	<div style="padding: 5px 0 0 5px;">
+		<a href="/general/society/news/599030/">День защитниц Отечества: в Вооруженных силах Украины служит и работает 55 тысяч женщин</a>
+	</div>
+        </div>
+        </div>
+
+	<div class="slide">
+	<a class="preview" href="/general/society/news/599026/"><img src="/upload/iblock/096/330.jpg" alt="">
+</a>
+        <div class="caption">
+	<div style="padding: 5px 0 0 5px;">
+		<a href="/general/society/news/599026/">В День защитника Украины умер защитник Украины, совершивший самосожжение на Майдане</a>
+	</div>
+        </div>
+        </div>
+
+	<div class="slide">
+	<a class="preview" href="/general/society/news/599021/"><img src="/upload/iblock/e36/p0.jpg" alt="">
+</a>
+        <div class="caption">
+	<div style="padding: 5px 0 0 5px;">
+		<a href="/general/society/news/599021/">В Украине число больных COVID-19 за сутки выросло на 5590 человек. Умерли 107 пациентов</a>
+	</div>
+        </div>
+        </div>
+
+</div>
+<a href="#" class="prev"><img src="/bitrix/js/slider/left.png"  height="219" alt="Arrow Prev"></a>
+				<a href="#" class="next"><img src="/bitrix/js/slider/right.png" height="219" alt="Arrow Next"></a>
+</div>
+<script>
+		$('#slides').slides({
+			preload: true,
+			play: 5000,
+			pause: 500,
+			hoverPause: true,
+			animationStart: function(current){
+				$('.caption').animate({
+					bottom:-35
+				},100);
+				if (window.console && console.log) {
+					// example return of current slide number
+					console.log('animationStart on slide: ', current);
+				};
+			},
+			animationComplete: function(current){
+				$('.caption').animate({
+					bottom:0
+				},200);
+				if (window.console && console.log) {
+					// example return of current slide number
+					console.log('animationComplete on slide: ', current);
+				};
+			},
+			slidesLoaded: function() {
+				$('.caption').animate({
+					bottom:0
+				},200);
+			}
+		});
+</script><h2>ГЛАВНЫЕ НОВОСТИ</h2>
+<section class="latest-news"> 
+    <div class="news-list">
+			<div class="latest-news-item">			
+			<a href="/general/society/news/599026/">В День защитника Украины умер защитник Украины, совершивший самосожжение на Майдане</a>		
+			<span class="datetime">
+			<span class="time nofloat">12:54</span>
+			<span class="company-news-date">14.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/general/society/news/599023/">Оккупанты &quot;ДНР&quot; признали 86 новых случаев COVID-19. Коэффициент смертности приблизился к 6,5%</a>		
+			<span class="datetime">
+			<span class="time nofloat">10:25</span>
+			<span class="company-news-date">14.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/general/society/news/599021/">В Украине число больных COVID-19 за сутки выросло на 5590 человек. Умерли 107 пациентов</a>		
+			<span class="datetime">
+			<span class="time nofloat">09:27</span>
+			<span class="company-news-date">14.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/society/news/598996/">Каникулы для школьников в Донецкой области начнутся в разное время</a>		
+			<span class="datetime">
+			<span class="time nofloat">17:44</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/general/society/news/599000/">Кабмин продлил и ужесточил карантин в Украине</a>		
+			<span class="datetime">
+			<span class="time nofloat">17:07</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+	</div>
+</section> 
+</figure>	 </section>
+
+
+<section class="latest-news">
+<div id="voting_current_2653_form"><div class="voting-form-box">
+<form action="/" method="post" class="vote-form">
+	<input type="hidden" name="vote" value="Y">
+	<input type="hidden" name="PUBLIC_VOTE_ID" value="178">
+	<input type="hidden" name="VOTE_ID" value="178">
+	<input type="hidden" name="sessid" id="sessid" value="396e446a2d7b915916de71e64b293b75" />	
+<ol class="vote-items-list vote-question-list">
+	<li class="vote-item-vote vote-item-vote-first vote-item-vote-last vote-item-vote-odd ">
+
+		<div class="vote-item-header">
+
+	<div class="vote-item-title vote-item-question"><p> </p>
+ 
+<p class="MsoNormal"> </p>
+ 
+<p>Что должна предпринять Украина в случае ухудшения ситуации с КОВИД в ОРДЛО? </p>
+ 
+<p></p></div>
+			<div class="vote-clear-float"></div>
+		</div>
+		
+		<ol class="vote-items-list vote-answers-list">
+			<li class="vote-item-vote vote-item-vote-first vote-item-vote-odd ">
+						<span class="vote-answer-item vote-answer-item-radio">
+						<input type="radio"  name="vote_radio_180" id="vote_radio_180_1045" value="1045"  />
+							<label for="vote_radio_180_1045">выразить обеспокоенность</label>
+						</span>
+			</li>
+			<li class="vote-item-vote vote-item-vote-even ">
+						<span class="vote-answer-item vote-answer-item-radio">
+						<input type="radio"  name="vote_radio_180" id="vote_radio_180_1046" value="1046"  />
+							<label for="vote_radio_180_1046">ничего</label>
+						</span>
+			</li>
+			<li class="vote-item-vote vote-item-vote-odd ">
+						<span class="vote-answer-item vote-answer-item-radio">
+						<input type="radio"  name="vote_radio_180" id="vote_radio_180_1047" value="1047"  />
+							<label for="vote_radio_180_1047">начать операцию по освобождению соотечественников</label>
+						</span>
+			</li>
+			<li class="vote-item-vote vote-item-vote-even ">
+						<span class="vote-answer-item vote-answer-item-radio">
+						<input type="radio"  name="vote_radio_180" id="vote_radio_180_1048" value="1048"  />
+							<label for="vote_radio_180_1048">потребовать от России открытия КПВВ</label>
+						</span>
+			</li>
+			<li class="vote-item-vote vote-item-vote-last vote-item-vote-odd ">
+						<span class="vote-answer-item vote-answer-item-radio">
+						<input type="radio"  name="vote_radio_180" id="vote_radio_180_1049" value="1049"  />
+							<label for="vote_radio_180_1049">другое</label>
+						</span>
+			</li>
+		</ol>
+	</li>
+</ol>
+
+
+<div class="vote-form-box-buttons vote-vote-footer">
+	<span class="vote-form-box-button vote-form-box-button-first"><input type="submit" name="vote" value="Голосовать" /></span>
+	<span class="vote-form-box-button vote-form-box-button-last">
+	<input type="button" onclick="location.href='/?VOTE_ID=178&view_result=Y'" value="Результат" />
+	</span>
+</div>
+</form>
+</div>
+</div> </section> 
+<section class="latest-news">
+ 	
+<div class="news-list editor">
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/economics/articles/599025/">
+									<img src="/upload/iblock/8db/330.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/economics/articles/599025/">
+					<span>Как олигархи откупаются от государства за наш счет</span>
+				</a><nobr><br /><span class="date">12:32 14.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>666</span></span></nobr>
+				<a class="announce" href="/general/economics/articles/599025/">
+					<span class="publications-item-announce-text">Что заставляет президента В.Зеленского подобным образом строить отношения с крупным бизнесом – большой вопрос. Ведь на самом деле государству не нужны от олигархов &quot;широкие жесты&quot;. Достаточно, чтобы они в полном объеме платили налоги и не получали сверхприбыли за счет преференций от государства...</span>
+				</a>
+			</div>
+		</div>
+		
+<div class="clear"></div>
+ <section id="lb1" class="leaderboard"> </section> 
+
+
+</div>
+</section> 
+
+
+<div class="clear"></div>
+
+ <section id="lb1" class="leaderboard"> </section>  
+
+<section class="video-news"> 	 
+    <div class="title"> 
+      <h2>ВИДЕО</h2>
+     </div>
+   	 	 
+    <div class="slider-btn"> 		<a href="#" class="prev" ></a> 		<a href="#" class="next ajax" ></a> 	 	</div>
+   	 
+    <div class="video-news-slider-container"> 		 
+      <div id="video-news" class="video-news-slider-line"> 			 	 	
+
+
+
+<div class="video-news-slider-item" id="599011" d_activ="13.10.2020 19:20:01">
+	<a href="/video/599011/">
+		<img src="/upload/iblock/e00/255.jpg" />
+		<span class="cufon">Выстрелы на Крещатике: полиция задержала грабителей "валютчиков"</span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="599005" d_activ="13.10.2020 17:37:33">
+	<a href="/video/599005/">
+		<img src="/upload/iblock/8c4/255.jpg" />
+		<span class="cufon">"Порошенко до сих пор думает, что он президент" - Зеленский дал интервью BBC</span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="598879" d_activ="12.10.2020 09:32:37">
+	<a href="/video/598879/">
+		<img src="/upload/iblock/df4/255.jpg" />
+		<span class="cufon">Очередь из скорых возле донецкого роддома, перепрофилированного под COVID-19</span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="598804" d_activ="09.10.2020 14:27:10">
+	<a href="/video/598804/">
+		<img src="/upload/iblock/e21/255.jpg" />
+		<span class="cufon">В Южной Корее сгорел 33-этажный жилой дом</span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="598720" d_activ="08.10.2020 13:25:28">
+	<a href="/video/598720/">
+		<img src="/upload/iblock/43f/255.jpg" />
+		<span class="cufon">В Киеве возле инфекционного отделения выстроилась очередь из карет "Скорой помощи" </span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="598699" d_activ="08.10.2020 10:24:01">
+	<a href="/video/598699/">
+		<img src="/upload/iblock/8f8/255.jpg" />
+		<span class="cufon">Водитель Volkswagen на светофоре не справилась с управлением и сбила женщину</span>
+	</a>
+</div>
+<div class="video-news-slider-item" id="598645" d_activ="07.10.2020 13:47:37">
+	<a href="/video/598645/">
+		<img src="/upload/iblock/bab/255.jpg" />
+		<span class="cufon">Киевский ТРЦ "Гулливер" засветился цветами радужного флага</span>
+	</a>
+</div>
+ 		</div>
+     		 
+     
+     	 	 
+    <div class="all-btn"> 		
+    <a href="/video/" class="all" id="video-btn" >ВСЕ ВИДЕО</a> 		 	</div>
+    </div>
+    </section>
+
+ <section class="publications"> 	
+  <div class="title"> 		
+    <h2>СТАТЬИ</h2>
+   		</div>
+ 	
+<div class="news-list">
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/economics/articles/599025/">
+									<img src="/upload/iblock/8db/330.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/economics/articles/599025/">
+					<span>Как олигархи откупаются от государства за наш счет</span>
+				</a><nobr><br /><span class="date">12:32 14.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>666</span></span></nobr>
+				<a class="announce" href="/general/economics/articles/599025/">
+					<span class="publications-item-announce-text">Что заставляет президента В.Зеленского подобным образом строить отношения с крупным бизнесом – большой вопрос. Ведь на самом деле государству не нужны от олигархов &quot;широкие жесты&quot;. Достаточ...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/lugansk/society/articles/598977/">
+									<img src="/upload/iblock/68c/330_131020.jpg" alt="" />
+								<span class="publications-item-badage">Луганск</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/lugansk/society/articles/598977/">
+					<span>Правда о пневмонии в &quot;республике&quot;. Луганский дневник</span>
+				</a><nobr><br /><span class="date">14:52 13.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>1439</span></span></nobr>
+				<a class="announce" href="/lugansk/society/articles/598977/">
+					<span class="publications-item-announce-text">Сумма на лечение вирусной пневмонии выливается от 10000 до 15000 рублей &#40;3759 – 5639 грн&#41;. Это если речь идет о так называемой легкой форме. И здесь как раз нужна поддержка семьи, потому что собрать по сп...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/donetsk/politics/articles/598912/">
+									<img src="/upload/iblock/b87/IMG-3dd4279e13efa286bafdb092cc4f6ca8-V.jpg" alt="" />
+								<span class="publications-item-badage">Донецк</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/donetsk/politics/articles/598912/">
+					<span>&quot;Идёт плановая программа по разорению Донбасса&quot;. Донецкий дневник</span>
+				</a><nobr><br /><span class="date">16:28 12.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>4003</span></span></nobr>
+				<a class="announce" href="/donetsk/politics/articles/598912/">
+					<span class="publications-item-announce-text">С проблемой задержки денежного довольствия столкнулись даже &quot;военные&quot;. Разумеется, не старший офицерский состав, а те, кто от безысходности пошёл служить по контракту, чтобы иметь более-менее...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/donetsk/politics/articles/598865/">
+									<img src="/upload/iblock/700/7.jpg" alt="" />
+								<span class="publications-item-badage">Донецк</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/donetsk/politics/articles/598865/">
+					<span>&quot;Бесит отсутствие информации. Почему нам никто ничего не объясняет?&quot; Обзор сепаратистских публикаций</span>
+				</a><nobr><br /><span class="date">11:07 11.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>3285</span></span></nobr>
+				<a class="announce" href="/donetsk/politics/articles/598865/">
+					<span class="publications-item-announce-text">Все сферы жизнедеятельности &quot;республики&quot; находятся в ужасном состоянии, отовсюду бардак и разруха. Паралич в коммунальной сфере, ужасное состояние медицины… О критической ситуации с пневом...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/economics/articles/598790/">
+									<img src="/upload/iblock/c80/330_091020.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/economics/articles/598790/">
+					<span>Женщины и бизнес в Украине: Путь к сверхбогатству</span>
+				</a><nobr><br /><span class="date">16:45 09.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>2443</span></span></nobr>
+				<a class="announce" href="/general/economics/articles/598790/">
+					<span class="publications-item-announce-text">Впечатляющее доминирование мужчин в данном случае имеет простое объяснение: чем крупнее бизнес, тем большей отдачи времени и внимания требует он от своего владельца. По крайней мере, на этапе стан...</span>
+				</a>
+			</div>
+		</div>
+	
+<div class="clear"></div>
+	 <section id="lb1" class="leaderboard"> <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fi-3u+cu-2d-lp"
+     data-ad-client="ca-pub-4709105346903522"
+     data-ad-slot="7643758404"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></section> 
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/lugansk/society/articles/598730/">
+									<img src="/upload/iblock/c10/330.jpg" alt="" />
+								<span class="publications-item-badage">Луганск</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/lugansk/society/articles/598730/">
+					<span>Ну руинах бывшего аэропорта. Луганский дневник</span>
+				</a><nobr><br /><span class="date">10:25 09.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>10975</span></span></nobr>
+				<a class="announce" href="/lugansk/society/articles/598730/">
+					<span class="publications-item-announce-text">Я спрашиваю у пожилого человека в форме, где же все постройки аэропорта? И он разводит руками, показывая на руины – все, что осталось. Мой ребенок знает, что до войны в городе был вокзал и ходили поез...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/politics/articles/598693/">
+									<img src="/upload/iblock/550/630_360_1554213703-634.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/politics/articles/598693/">
+					<span>Крым без воды: решит ли Киев проблему оккупанта?</span>
+				</a><nobr><br /><span class="date">10:02 08.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>2997</span></span></nobr>
+				<a class="announce" href="/general/politics/articles/598693/">
+					<span class="publications-item-announce-text">Это не обсуждается на широких совещаниях. Вопрос подачи воды в Крым выносится исключительно в частных и неформальных беседах. РФ несколько месяцев &quot;забрасывает удочку&quot; через неофициальные к...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/world/articles/598606/">
+									<img src="/upload/iblock/e46/196153.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/world/articles/598606/">
+					<span>“Выгоревшая территория получилась в 40 раз больше, чем годом ранее”. Западные медиа об Украине</span>
+				</a><nobr><br /><span class="date">9:26 07.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>1866</span></span></nobr>
+				<a class="announce" href="/general/world/articles/598606/">
+					<span class="publications-item-announce-text">Взрывы у линии фронта, о которых сообщают пожарные и военные обозреватели, накладывают одну проблему на другую, затрудняя меры по борьбе с огнем. “Мы не можем добраться до него из-за мин и не можем...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/general/world/articles/598519/">
+									<img src="/upload/iblock/85e/330.jpg" alt="" />
+								<span class="publications-item-badage">Страна</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/general/world/articles/598519/">
+					<span>&quot;Зеленский готовится к роли националиста&quot;. Российские СМИ об Украине</span>
+				</a><nobr><br /><span class="date">9:00 06.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>3105</span></span></nobr>
+				<a class="announce" href="/general/world/articles/598519/">
+					<span class="publications-item-announce-text">Базовая проблема – воссоединение Украины с Донбассом по Минским соглашениям – решаемой не выглядит в принципе. Политическая система страны находится в заложниках у националистического меньшин...</span>
+				</a>
+			</div>
+		</div>
+	
+	
+			<div class="publications-item">
+			<a class="publications-item-img" href="/donetsk/politics/articles/598435/">
+									<img src="/upload/iblock/5c9/330.jpg" alt="" />
+								<span class="publications-item-badage">Донецк</span>
+			</a>
+			<div class="publications-item-announce">
+
+
+
+				<a class="item-name" href="/donetsk/politics/articles/598435/">
+					<span>Буквально на днях саперы &quot;ДНР&quot; устанавливали мины перед своими позициями. Обзор сепаратистских СМИ</span>
+				</a><nobr><br /><span class="date">18:47 04.10.2020<i class="icon-social icon-social-eye">&nbsp;</i><span>2980</span></span></nobr>
+				<a class="announce" href="/donetsk/politics/articles/598435/">
+					<span class="publications-item-announce-text">Один из саперов наступил на противопехотную мину, которая оторвала ему ногу. Когда его доставили в госпиталь, га**он в погонах потребовал оформить его как гражданское лицо...</span>
+				</a>
+			</div>
+		</div>
+	
+<div class="clear"></div>
+	 <section id="lb1" class="leaderboard"> </section> 
+
+
+</div>
+<a href="/articles" class="all" >ВСЕ СТАТЬИ</a> 	 
+<div class="clear"></div>
+
+</section>
+<!-- Banner Kandidati --
+<a id="bxid_221778" href="/project/1006/sylnigromady/" ><img id="bxid_270034" src="/files_dn/2017/04/12/kandidati_na_vilit.jpg" style="border:none"  /></a-->
+<div class="events"> 	<section class="events-list"> 		 
+      <div class="events-title"> 			 
+        <h2><a href="/donetsk" style="color:#263400" >СОБЫТИЯ В ДОНЕЦКЕ</a></h2>
+       		 
+<!--select onchange="redirect(this);" id="all-events-select">
+			<option value="/" <img id="bxid_437011" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_454599" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Страна</option>
+			<option value="?events=donetsk" <img id="bxid_592058" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_61986" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Донецк</option>
+			<option value="?events=lugansk" <img id="bxid_771718" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_225968" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Луганск</option>
+		</select-->
+ 		</div>
+     		<div class="news-list">
+
+			<div class="latest-news-item">			
+			<a href="/donetsk/society/news/599029/">В Краматорске открыли памятный знак защитникам Украины (ФОТО)</a>		
+			<span class="datetime">
+			<span class="time nofloat">13:42</span>
+			<span class="company-news-date">14.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/society/news/599020/">От COVID-19 в Донецкой области умерли уже 70 человек</a>		
+			<span class="datetime">
+			<span class="time nofloat">09:08</span>
+			<span class="company-news-date">14.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/society/news/599007/">COVID-19: в Донецкой ОГА рассказали, будут ли разворачивать мобильные госпитали</a>		
+			<span class="datetime">
+			<span class="time nofloat">18:14</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/society/news/598996/">Каникулы для школьников в Донецкой области начнутся в разное время</a>		
+			<span class="datetime">
+			<span class="time nofloat">17:44</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/criminal/news/599001/">Боевику &quot;ДНР&quot;, который подвергал жестоким пыткам воинов ВСУ, сообщено о подозрении</a>		
+			<span class="datetime">
+			<span class="time nofloat">17:01</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/donetsk/society/news/598999/">В Донецкой области 33 школы полностью перешли на &quot;дистанционку&quot;</a>		
+			<span class="datetime">
+			<span class="time nofloat">16:48</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+	</div>
+ 	 </section> <section class="events-preview"> 	 
+      <div class="events-title"></div>
+     		 <div class="news-list">
+
+
+	<div class="events-preview-item">
+		<a class="link" href="/donetsk/politics/articles/598912/">
+							<img src="/upload/croppedImg/iblock/b87/IMG-3dd4279e13efa286bafdb092cc4f6ca8-V.jpg" alt=""/>
+						
+			<span>
+				<span class="title">&quot;Идёт плановая программа по разорению Донбасса&quot;. Донецкий дневник</span>
+				<span class="date">16:28 12.10.2020</span>
+			</span>			
+		</a>
+		<div class="clear"></div>
+		<span class="events-preview-announce">С проблемой задержки денежного довольствия столкнулись даже &quot;военные&quot;. Разумеется, не ста...</span>
+	</div>
+	<div class="events-preview-item">
+		<a class="link" href="/donetsk/politics/articles/598865/">
+							<img src="/upload/croppedImg/iblock/700/7.jpg" alt=""/>
+						
+			<span>
+				<span class="title">&quot;Бесит отсутствие информации. Почему нам никто ничего не объясняет?&quot; Обзор сепаратистских</span>
+				<span class="date">11:07 11.10.2020</span>
+			</span>			
+		</a>
+		<div class="clear"></div>
+		<span class="events-preview-announce">Все сферы жизнедеятельности &quot;республики&quot; находятся в ужасном состоянии, отовсюду бардак...</span>
+	</div>
+
+
+</div>
+ 	 </section> <span class="all-events"> <a class="all" href="/donetsk/" >ВСЕ СОБЫТИЯ РЕГИОНА</a></span> </div>
+ 
+  <div class="clear"></div>
+ 
+  <div class="events1"> 	<section class="events-list"> 		 
+      <div class="events-title"> 			 
+        <h2><a href="/lugansk/" style="color:#263400" >СОБЫТИЯ В ЛУГАНСКЕ</a></h2>
+       		 
+<!--select onchange="redirect(this);" id="all-events-select">
+			<option value="/" <img id="bxid_38776" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_484762" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Страна</option>
+			<option value="?events=donetsk" <img id="bxid_809622" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_151459" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Донецк</option>
+			<option value="?events=lugansk" <img id="bxid_716031" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />selected="selected"<img id="bxid_3025" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />>Луганск</option>
+		</select-->
+ 		</div>
+     		<div class="news-list">
+
+			<div class="latest-news-item">			
+			<a href="/lugansk/society/news/599003/">Северодонецк выделит погорельцам из окрестных сел почти три миллиона гривен помощи</a>		
+			<span class="datetime">
+			<span class="time nofloat">17:28</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/lugansk/society/news/598991/">В Луганской области зарегистрированы 65 новых случаев СОVID-19 за прошедшие сутки</a>		
+			<span class="datetime">
+			<span class="time nofloat">15:39</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/lugansk/society/news/598981/">КПВВ &quot;Станица Луганская&quot; закрыт до конца октября, но Командующий ОС может сделать исключения</a>		
+			<span class="datetime">
+			<span class="time nofloat">14:03</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/lugansk/society/news/598976/">В Лисичанске пройдут антитеррористические учения. Жителей города просят без паспортов на улицу не ходить</a>		
+			<span class="datetime">
+			<span class="time nofloat">13:05</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/lugansk/society/news/598969/">В Станично-Луганской больнице умер 67-летний мужчина, которому стало плохо в КПВВ</a>		
+			<span class="datetime">
+			<span class="time nofloat">12:04</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+				<div class="latest-news-item">			
+			<a href="/lugansk/society/news/598964/">Семеро из восьми людей, пересекающих КПВВ в Станице с оккупированной территории, больны COVID-19 - Гайдай</a>		
+			<span class="datetime">
+			<span class="time nofloat">11:39</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+		</div>
+	</div>
+ 	 </section> <section class="events-preview"> 	 
+      <div class="events-title"></div>
+     		 <div class="news-list">
+
+
+	<div class="events-preview-item">
+		<a class="link" href="/lugansk/society/articles/598977/">
+							<img src="/upload/croppedImg/iblock/68c/330_131020.jpg" alt=""/>
+						
+			<span>
+				<span class="title">Правда о пневмонии в &quot;республике&quot;. Луганский дневник</span>
+				<span class="date">14:52 13.10.2020</span>
+			</span>			
+		</a>
+		<div class="clear"></div>
+		<span class="events-preview-announce">Сумма на лечение вирусной пневмонии выливается от 10000 до 15000 рублей &#40;3759 – 5639 грн&#41;. Это если р...</span>
+	</div>
+	<div class="events-preview-item">
+		<a class="link" href="/lugansk/society/articles/598730/">
+							<img src="/upload/croppedImg/iblock/c10/330.jpg" alt=""/>
+						
+			<span>
+				<span class="title">Ну руинах бывшего аэропорта. Луганский дневник</span>
+				<span class="date">10:25 09.10.2020</span>
+			</span>			
+		</a>
+		<div class="clear"></div>
+		<span class="events-preview-announce">Я спрашиваю у пожилого человека в форме, где же все постройки аэропорта? И он разводит руками, п...</span>
+	</div>
+
+
+</div>
+ 	 </section> <span class="all-events"> <a class="all" href="/lugansk/" >ВСЕ СОБЫТИЯ РЕГИОНА</a></span> </div> 
+
+ <!--section class="heading"> 	 
+    <div class="title"> 		 
+      <h2>БЛОГИ</h2>
+     		 	</div>
+   	<a class="blog-slider-prev" href="#" ></a> 	<a class="blog-slider-next" href="#" ></a> 	 
+    <div class="blog-slider-container"> 		 
+      <div class="blog-slider-line" style="left: 0px;"> 			
+		
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162309/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Что не стыкуется в Керчи, или Криптии русского мира</span>
+						<br />
+						<span class="date">15:08 18.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162308/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Об общенациональной шизе и церковной франшизе. Или передел свечного рынка с помощью технологий франчайзинга</span>
+						<br />
+						<span class="date">9:02 17.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162307/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Томосеки</span>
+						<br />
+						<span class="date">19:17 16.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162306/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Шимпанзе лучше властей Украины. Гуманнее...</span>
+						<br />
+						<span class="date">15:54 16.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162305/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Болтовня украинских «политиков» под черниговский аккомпанемент, или к вопросу об атомном оружии Украины</span>
+						<br />
+						<span class="date">15:26 16.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/a_kalinin/162304/">
+										<img src="/upload/blog/avatar/5f8/kalinin.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Александр Калинин</span>
+						<br />
+						<span class="title cufon">«Халява». Как способ держать людей на кратком поводке</span>
+						<br />
+						<span class="date">14:10 16.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/a_kalinin/162303/">
+										<img src="/upload/blog/avatar/5f8/kalinin.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Александр Калинин</span>
+						<br />
+						<span class="title cufon">Кремлёвские марионетки издеваются над собственными подданными</span>
+						<br />
+						<span class="date">15:35 06.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162302/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Импотент на фригидной женщине, или ситуация в России</span>
+						<br />
+						<span class="date">13:43 06.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/a_kalinin/162301/">
+										<img src="/upload/blog/avatar/5f8/kalinin.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Александр Калинин</span>
+						<br />
+						<span class="title cufon">Кому в Счастье счастливо живётся?</span>
+						<br />
+						<span class="date">15:21 05.10.2018</span>
+					</span>
+				</a>
+			</div>
+			
+			<div class="blog-slider-item"> 
+				<a href="/blogs/sitnik/162300/">
+										<img src="/upload/blog/avatar/1d5/sitnik.jpg" alt="" width="64" />
+					<span>
+						<span class="name cufon">Евгений Сытник</span>
+						<br />
+						<span class="title cufon">Джеймс Бондширов</span>
+						<br />
+						<span class="date">7:37 05.10.2018</span>
+					</span>
+				</a>
+			</div>
+		
+ 		</div>
+     	</div>
+   <a href="/blogs/" class="all" >ВСЕ БЛОГИ</a> </section--> 
+
+<!--section class="online-conference"> 	 
+    <div class="title"> 		 
+
+      <h2>ОНЛАЙН-КОНФЕРЕНЦИИ</h2>
+     		 	</div>
+   	 	<div class="news-list">
+	<a href="/conferences/conference-528088/"><img src="/upload/iblock/814/kalinin2.jpg" alt=""></a>
+	<div class="online-conference-announce">
+		<a href="/conferences/conference-528088/" class="link">«Новые возможности приобретения жилья для переселенцев». Видео онлайн-конференция с главой «Всеукраинской Ассоциации переселенцев» Русланом Калининым</a>
+		<br />
+		<span class="date">22:16 03.07.2017</span>
+		<br />
+		<span class="announce">Президент подписал закон &laquo;О предоставлении жилья переселенцам и воинам АТО&raquo;. Но будет ли он реально работать?
+ 
+Условия, порядок получения и какие категории переселенцев имеют право на льготное жилье - об этом читатели «ОстроВа» смогут поговорить с главой ОО «Всеукраинская Ассоциация переселенцев» Русланом Калининым в пятницу, 7 июля с 14.30 до 15.00</span>
+	</div>
+</div>
+<a href="/conferences/" class="all online-conf" >ВСЕ ОНЛАЙН-КОНФЕРЕНЦИИ</a></section-->
+
+<style>
+   .hrefPop{
+      color: #333333;
+      cursor: pointer;
+      text-decoration: underline;
+   }
+   .popTitle{
+      border-bottom:1px solid #CCCCCC; 
+      margin:0 0 5px;
+
+   }
+</style>
+<script type="text/javascript">
+   jQuery(document).ready(function() {
+      function setActiveBlock(id) {
+         jQuery("#hrefToday").addClass("hrefPop");
+         jQuery("#hrefWeek").addClass("hrefPop");
+         jQuery("#hrefMonth").addClass("hrefPop");
+         jQuery("#divToday").hide();
+         jQuery("#divWeek").hide();
+         jQuery("#divMonth").hide();
+         switch (id) {
+            case "hrefToday":
+               jQuery("#hrefToday").removeClass("hrefPop");
+               jQuery("#divToday").show();
+               break;
+            case "hrefWeek":
+               jQuery("#hrefWeek").removeClass("hrefPop");
+               jQuery("#divWeek").show();
+               break;
+            case "hrefMonth":
+               jQuery("#hrefMonth").removeClass("hrefPop");
+               jQuery("#divMonth").show();
+               break;
+         }
+      }
+      ;
+      jQuery("#hrefToday").click(function() {
+         setActiveBlock(this.id);
+      });
+      jQuery("#hrefWeek").click(function() {
+         setActiveBlock(this.id);
+      });
+      jQuery("#hrefMonth").click(function() {
+         setActiveBlock(this.id);
+      });
+   });
+</script>
+<div class="">
+	<div class="popTitle">
+		<h2>
+			ПОПУЛЯРНОЕ ЗА <span id="hrefToday">СЕГОДНЯ</span> 
+						<span id="hrefWeek" class="hrefPop">НЕДЕЛЮ</span>
+						<span id="hrefMonth" class="hrefPop">МЕСЯЦ</span>
+		</h2>
+	</div>
+	
+	<div id="divToday">
+		<section class="events-list">
+			
+					
+			<div class="latest-news-item">			
+				<a href="/general/politics/news/599024/">Зеленский едет в Анкару: правительство одобрило проект договора с Турцией о военном сотрудничестве</a>		
+				<span class="datetime">
+					<span class="time nofloat">11:20</span>					
+					<span class="company-news-date">14.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/world/news/599036/">Россия с благословения Путина отменяет санкции против трех украинских предприятий и ждет ответного шага от Украины </a>		
+				<span class="datetime">
+					<span class="time nofloat">17:21</span>					
+					<span class="company-news-date">14.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/599027/">В оккупированной Макеевке Донецкой области пьяный девятиклассник забил до смерти пенсионера</a>		
+				<span class="datetime">
+					<span class="time nofloat">13:26</span>					
+					<span class="company-news-date">14.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/599026/">В День защитника Украины умер защитник Украины, совершивший самосожжение на Майдане</a>		
+				<span class="datetime">
+					<span class="time nofloat">12:54</span>					
+					<span class="company-news-date">14.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/599016/">Оккупанты проводят в ОРДЛО массовые сборы «резервистов» – разведка</a>		
+				<span class="datetime">
+					<span class="time nofloat">21:59</span>					
+					<span class="company-news-date">13.10</span>
+				</span>
+			</div>
+			 
+		</section>
+		
+		<section class="events-preview" style="margin-top: 3px;">
+			
+			<div class="news-list">
+				
+				<div class="events-preview-item">
+					<a class="link" href="/donetsk/politics/articles/598912/">
+						<img src="/upload/iblock/b87/IMG-3dd4279e13efa286bafdb092cc4f6ca8-V.jpg" width="170" alt="">						
+						<span>
+							<span class="title">&quot;Идёт плановая программа по разорению Донбасса&quot;. Донецкий дневник</span>
+							<span class="date">12.10.2020 16:28:00</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						С проблемой задержки денежного довольствия столкнулись даже &quot;военные&quot;. Разумеется, не ста...					</span>
+				</div>
+				
+				<div class="events-preview-item">
+					<a class="link" href="/general/economics/articles/599025/">
+						<img src="/upload/iblock/8db/330.jpg" width="170" alt="">						
+						<span>
+							<span class="title">Как олигархи откупаются от государства за наш счет</span>
+							<span class="date">14.10.2020 12:32:45</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						Что заставляет президента В.Зеленского подобным образом строить отношения с крупным бизнесом...					</span>
+				</div>
+						
+		</div>
+	 
+	
+		</section>
+	</div>
+
+	<div id="divWeek" style="display:none;">
+		<section class="events-list">
+		    
+					
+			<div class="latest-news-item">			
+				<a href="/general/society/news/598930/">Казанский: Мы теряли Донбасс не в 2014-м году, когда начались столкновения</a>		
+				<span class="datetime">
+					<span class="time nofloat">18:46</span>					
+					<span class="company-news-date">12.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/598962/">Опрос в день выборов не предусмотрен действующим законодательством - КИУ</a>		
+				<span class="datetime">
+					<span class="time nofloat">11:42</span>					
+					<span class="company-news-date">13.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/599000/">Кабмин продлил и ужесточил карантин в Украине</a>		
+				<span class="datetime">
+					<span class="time nofloat">17:07</span>					
+					<span class="company-news-date">13.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/world/news/598933/">В Кремле ответили Зеленскому: Проблемы Крыма не существует, главное - урегулировать проблему Донбасса</a>		
+				<span class="datetime">
+					<span class="time nofloat">19:36</span>					
+					<span class="company-news-date">12.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/598935/">В роддоме, который в оккупированном Донецке отдали для пациентов с COVID-19, уволились 23 медработника</a>		
+				<span class="datetime">
+					<span class="time nofloat">20:39</span>					
+					<span class="company-news-date">12.10</span>
+				</span>
+			</div>
+			 
+     	
+		</section>
+		<section class="events-preview" style="margin-top: 3px;">
+			
+			<div class="news-list">
+				
+				<div class="events-preview-item">
+					<a class="link" href="/donetsk/politics/articles/598912/">
+						<img src="/upload/iblock/b87/IMG-3dd4279e13efa286bafdb092cc4f6ca8-V.jpg" width="170" alt="">						
+						<span>
+							<span class="title">&quot;Идёт плановая программа по разорению Донбасса&quot;. Донецкий дневник</span>
+							<span class="date">12.10.2020 16:28:00</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						С проблемой задержки денежного довольствия столкнулись даже &quot;военные&quot;. Разумеется, не ста...					</span>
+				</div>
+				
+				<div class="events-preview-item">
+					<a class="link" href="/donetsk/politics/articles/598865/">
+						<img src="/upload/iblock/700/7.jpg" width="170" alt="">						
+						<span>
+							<span class="title">&quot;Бесит отсутствие информации. Почему нам никто ничего не объясняет?&quot; Обзор сепаратистских</span>
+							<span class="date">11.10.2020 11:07:22</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						Все сферы жизнедеятельности &quot;республики&quot; находятся в ужасном состоянии, отовсюду бардак...					</span>
+				</div>
+						
+		</div>
+	 
+		</section>
+	</div>
+
+	<div id="divMonth" style="display:none;">
+		<section class="events-list">
+		    
+					
+			<div class="latest-news-item">			
+				<a href="/general/economics/news/598621/">ДМЗ умирает. В Донецке могут остаться без отопления три района (ФОТО)</a>		
+				<span class="datetime">
+					<span class="time nofloat">10:33</span>					
+					<span class="company-news-date">07.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/598286/">ФОТОФАКТ. На КПВВ &quot;Станица Луганская&quot; огонь уничтожил часть инфраструктуры</a>		
+				<span class="datetime">
+					<span class="time nofloat">15:25</span>					
+					<span class="company-news-date">01.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/society/news/598462/">В оккупированном Енакиево работники ЕМЗ требовали зарплату - им предложили  &quot;потерпеть&quot; (ФОТО)</a>		
+				<span class="datetime">
+					<span class="time nofloat">11:59</span>					
+					<span class="company-news-date">05.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/general/proisshestviya/news/598742/">Автобус из оккупированного Донецка, который вез артистов &quot;Донбасс-Опера&quot; в Москву, попал в ДТП (ФОТО)</a>		
+				<span class="datetime">
+					<span class="time nofloat">17:40</span>					
+					<span class="company-news-date">08.10</span>
+				</span>
+			</div>
+				
+			<div class="latest-news-item">			
+				<a href="/donetsk/proisshestviya/news/598246/">Пыльные бури накрыли оккупированный Донецк (ФОТО)</a>		
+				<span class="datetime">
+					<span class="time nofloat">09:16</span>					
+					<span class="company-news-date">01.10</span>
+				</span>
+			</div>
+			 
+  
+		</section>
+		<section class="events-preview" style="margin-top: 3px;">
+			
+			<div class="news-list">
+				
+				<div class="events-preview-item">
+					<a class="link" href="/donetsk/politics/articles/598118/">
+						<img src="/upload/iblock/a92/330.jpg" width="170" alt="">						
+						<span>
+							<span class="title">Пирамида Пушилина: закрытые границы, перевозчики, обнальщики, таможенные пошлины и сертификаты</span>
+							<span class="date">29.09.2020 16:04:00</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						Глядя на все эти &quot;заботы&quot; о жителях &quot;республики&quot; у многих дончан создаётся впечатлени...					</span>
+				</div>
+				
+				<div class="events-preview-item">
+					<a class="link" href="/lugansk/society/articles/598730/">
+						<img src="/upload/iblock/c10/330.jpg" width="170" alt="">						
+						<span>
+							<span class="title">Ну руинах бывшего аэропорта. Луганский дневник</span>
+							<span class="date">09.10.2020 10:25:00</span>
+						</span>			
+					</a>
+					<div class="clear"></div>
+					<span class="events-preview-announce">
+						Я спрашиваю у пожилого человека в форме, где же все постройки аэропорта? И он разводит руками, п...					</span>
+				</div>
+						
+		</div>
+	 
+		</section>
+	</div>
+</div>
+<div class="clear"></div>
+
+  <div class="title"> 
+    <h2>НОВОСТИ ПАРТНЕРОВ</h2>
+   </div>
+ 
+  <br />
+
+
+  <div id="partners"> 	 
+
+ 	 </div>
+  
+			</div>
+						<aside>
+				
+				<section class="banner240x350">
+				<div id='div-gpt-ad-1507810414004-0' style='height:400px; width:240px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1507810414004-0'); });
+</script>
+</div>				</section>
+				
+								<section class="importantly">
+					<div class="title">
+						<h2>НОВОСТИ</h2>
+					</div>
+					<nav class="rightmenu">
+						<div class="top-right-news">
+							<span class="topmenu-left"></span>
+															<a href="" id="aside_news_toggle_country" class="active" onclick="aside_news.toggle('country');return false;">
+									<span class="topmenu-link-left"></span>
+									<span class="topmenu-link-center">СТРАНА</span>
+									<span class="topmenu-link-right"></span>
+									<span class="topmenu-link-arrow"></span>
+								</a>
+								<span class="topsep"></span>
+								<a href="" id="aside_news_toggle_donetsk"  onclick="aside_news.toggle('donetsk');return false;">
+									<span class="topmenu-link-left"></span>
+									<span class="topmenu-link-center">ДОНЕЦК</span>
+									<span class="topmenu-link-right"></span>
+									<span class="topmenu-link-arrow"></span>
+								</a>
+								<span class="topsep"></span>
+								<a href="" id="aside_news_toggle_lugansk"  onclick="aside_news.toggle('lugansk');return false;">
+									<span class="topmenu-link-left"></span>
+									<span class="topmenu-link-center">ЛУГАНСК</span>
+									<span class="topmenu-link-right"></span>
+									<span class="topmenu-link-arrow"></span>
+								</a>
+							<span class="topmenu-right"></span>
+						</div>
+					</nav>
+										<span id="aside_news_country" >
+					<div id="comp_6fe3e27a1ca97e2452c5a2c340ae4cda">			<div class="clear"></div>
+			<div class="title">
+				<span><b>Среда 14 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/general/world/news/599036/">Россия с благословения Путина отменяет санкции против трех украинских предприятий и ждет ответного шага от Украины </a>
+			<span class="time">17:21</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599035/">Зеленский пообщался с защитниками Украины в зоне проведения ООС и пообещал их поддержать </a>
+			<span class="time">16:57</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599034/">Зеленский отправился на Донбасс: на передовой вручит награды защитникам Украины</a>
+			<span class="time">15:40</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599033/">В Киеве начался патриотический марш ко Дню защитника Украины</a>
+			<span class="time">14:58</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599031/">Зеленский интересуется, хотят ли украинцы пожизненной тюрьмы для коррупционеров  (ВИДЕО)</a>
+			<span class="time">14:15</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599030/">День защитниц Отечества: в Вооруженных силах Украины служит и работает 55 тысяч женщин</a>
+			<span class="time">13:47</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599028/">Бюджетные деньги на &quot;пять вопросов от Зеленского&quot; не выделялись – Разумков </a>
+			<span class="time">13:39</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599027/">В оккупированной Макеевке Донецкой области пьяный девятиклассник забил до смерти пенсионера</a>
+			<span class="time">13:26</span>
+		</div>
+		<div class="important-news-item important">
+			<a href="/general/society/news/599026/">В День защитника Украины умер защитник Украины, совершивший самосожжение на Майдане</a>
+			<span class="time">12:54</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/politics/news/599024/">Зеленский едет в Анкару: правительство одобрило проект договора с Турцией о военном сотрудничестве</a>
+			<span class="time">11:20</span>
+		</div>
+		<div class="important-news-item important">
+			<a href="/general/society/news/599023/">Оккупанты &quot;ДНР&quot; признали 86 новых случаев COVID-19. Коэффициент смертности приблизился к 6,5%</a>
+			<span class="time">10:25</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599022/">Оккупационные войска РФ шесть раз нарушили режим прекращения огня на Донбассе</a>
+			<span class="time">10:13</span>
+		</div>
+		<div class="important-news-item important">
+			<a href="/general/society/news/599021/">В Украине число больных COVID-19 за сутки выросло на 5590 человек. Умерли 107 пациентов</a>
+			<span class="time">09:27</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/598973/">В Украине сегодня будет солнечно и сухо (КАРТА)</a>
+			<span class="time">08:04</span>
+		</div>
+			<div class="clear"></div>
+			<div class="title">
+				<span><b>Вторник 13 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/general/society/news/599019/">ПРООН и Минцифры объявили конкурс грантов на ІТ-проекты для громад Донбасса</a>
+			<span class="time">23:35</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599018/">В Кривом Роге больше месяца продолжается подземный протест шахтеров</a>
+			<span class="time">22:52</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/criminal/news/599017/">В центре Киева со стрельбой и погоней задержали грабителей клиентов обменников</a>
+			<span class="time">22:25</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599016/">Оккупанты проводят в ОРДЛО массовые сборы «резервистов» – разведка</a>
+			<span class="time">21:59</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599015/">Музей Майдана в Киеве проведет бесплатные экскурсии в октябре</a>
+			<span class="time">21:25</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/criminal/news/599014/">ГБР расследует наезд сотрудницы прокуратуры на девочку-пешехода под Киевом</a>
+			<span class="time">20:59</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599013/">Педагога одесской гимназии уволили после травли ученицы за украинский язык</a>
+			<span class="time">20:23</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599012/">Минздрав получит почти 3 млрд гривен из фонда борьбы с COVID-19</a>
+			<span class="time">19:53</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599010/">Границы для украинских туристов открыли уже 58 стран - МИД</a>
+			<span class="time">19:28</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599009/">СБУ проводит обыски в сети заправок «БРСМ-Нафта»</a>
+			<span class="time">18:55</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/general/society/news/599008/">На Донбассе боевики шесть раз нарушили «тишину» из гранатометов и стрелкового оружия</a>
+			<span class="time">18:31</span>
+		</div>
+</div><a href="/news/" class="all">ВСЕ НОВОСТИ</a>
+					</span>
+					<span id="aside_news_donetsk" style="display:none">
+					<div id="comp_44e515a4e61190693256c740ec4754bc">			<div class="clear"></div>
+			<div class="title">
+				<span><b>Среда 14 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/599029/">В Краматорске открыли памятный знак защитникам Украины (ФОТО)</a>
+			<span class="time">13:42</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/599020/">От COVID-19 в Донецкой области умерли уже 70 человек</a>
+			<span class="time">09:08</span>
+		</div>
+			<div class="clear"></div>
+			<div class="title">
+				<span><b>Вторник 13 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/599007/">COVID-19: в Донецкой ОГА рассказали, будут ли разворачивать мобильные госпитали</a>
+			<span class="time">18:14</span>
+		</div>
+		<div class="important-news-item important">
+			<a href="/donetsk/society/news/598996/">Каникулы для школьников в Донецкой области начнутся в разное время</a>
+			<span class="time">17:44</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/criminal/news/599001/">Боевику &quot;ДНР&quot;, который подвергал жестоким пыткам воинов ВСУ, сообщено о подозрении</a>
+			<span class="time">17:01</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598999/">В Донецкой области 33 школы полностью перешли на &quot;дистанционку&quot;</a>
+			<span class="time">16:48</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598993/">В Донецкой области для лечения больных с COVID-19 опеределено уже 25 больниц</a>
+			<span class="time">16:11</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/sport/news/598990/">В Волновахе построили стадион за 27 миллионов гривен (ФОТО)</a>
+			<span class="time">15:53</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598989/">Нейтрализация «диверсантов»: СБУ провела учения в Славянске (ФОТО)</a>
+			<span class="time">14:55</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598987/">Деньги на покупку жилья  выделят четырем выдающимся спортсменам в Донецкой области</a>
+			<span class="time">14:12</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598984/">Пиротехники за сутки нашли в Донецкой области 35 взрывоопасных предметов</a>
+			<span class="time">13:42</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/criminal/news/598979/">В Донецкой области обнаружен тайник с гранатами (ФОТО)</a>
+			<span class="time">13:31</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598978/">Отопительный сезон на оккупированной Донетчине начнется позже 15 октября</a>
+			<span class="time">13:20</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598974/">Оккупанты в &quot;ДНР&quot; не выплатили зарплату работникам ЕМЗ</a>
+			<span class="time">12:54</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/politics/news/598972/">Экс-футболист ФК &quot;Шахтер&quot; баллотируется в депутаты в Донецкой области</a>
+			<span class="time">12:32</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/criminal/news/598966/">Подкуп избирателей и хулиганство: на Донетчине полиция начала 17 производств по нарушениям, связанным с выборами</a>
+			<span class="time">11:41</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/proisshestviya/news/598963/">В оккупированной Макеевке автомобиль сбил скутериста (ФОТО)</a>
+			<span class="time">11:27</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/proisshestviya/news/598960/">В Мариуполе мужчина застрял в решетке ливневой канализации (ФОТО)</a>
+			<span class="time">11:02</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/proisshestviya/news/598958/">Четыре смерти и 110 новых случаев за сутки - статистика по COVID-19 в &quot;ДНР&quot;</a>
+			<span class="time">10:52</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/politics/news/598955/">Кандидаты от &quot;Слуги Народа&quot; подписывают меморандумы с избирателями Донецкой области</a>
+			<span class="time">10:35</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/proisshestviya/news/598957/">В оккупированной Горловке горит полигон ТБО «Стирола»</a>
+			<span class="time">10:33</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/proisshestviya/news/598952/">Один погибший и четыре травмированных: в &quot;ДНР&quot; на выходных произошло 16 ДТП</a>
+			<span class="time">09:56</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598950/">В двух районах оккупированного Донецка отключили воду</a>
+			<span class="time">09:45</span>
+		</div>
+		<div class="important-news-item important">
+			<a href="/donetsk/society/news/598945/">В Донецкой области выявили 262 новых случая COVID-19, в том числе у 15 детей</a>
+			<span class="time">09:10</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/donetsk/society/news/598944/">С начала суток оккупанты на Донбассе нарушили режим прекращения огня возле Зайцево</a>
+			<span class="time">09:09</span>
+		</div>
+</div><a href="/donetsk/news/" class="all">ВСЕ НОВОСТИ</a>
+					</span>
+					<span id="aside_news_lugansk" style="display:none">
+					<div id="comp_e24fba7f090c0e5157357e1d419f453b">			<div class="clear"></div>
+			<div class="title">
+				<span><b>Вторник 13 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/599003/">Северодонецк выделит погорельцам из окрестных сел почти три миллиона гривен помощи</a>
+			<span class="time">17:28</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598991/">В Луганской области зарегистрированы 65 новых случаев СОVID-19 за прошедшие сутки</a>
+			<span class="time">15:39</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598981/">КПВВ &quot;Станица Луганская&quot; закрыт до конца октября, но Командующий ОС может сделать исключения</a>
+			<span class="time">14:03</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598976/">В Лисичанске пройдут антитеррористические учения. Жителей города просят без паспортов на улицу не ходить</a>
+			<span class="time">13:05</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598969/">В Станично-Луганской больнице умер 67-летний мужчина, которому стало плохо в КПВВ</a>
+			<span class="time">12:04</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598964/">Семеро из восьми людей, пересекающих КПВВ в Станице с оккупированной территории, больны COVID-19 - Гайдай</a>
+			<span class="time">11:39</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598959/">В Северодонецке ночью поймали пьяного водителя с превышением нормы алкоголя в крови почти в семь раз</a>
+			<span class="time">10:57</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598947/">Полиция открыла 13 уголовных производств с начала избирательного процесса в Луганской области</a>
+			<span class="time">09:22</span>
+		</div>
+			<div class="clear"></div>
+			<div class="title">
+				<span><b>Понедельник 12 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598927/">Северодончанин получил пять лет тюрьмы за кражу 400 тысяч и хранение амфетамина</a>
+			<span class="time">17:59</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598924/">Завтра оккупированные Ровеньки и села Должанского района оставят без воды из-за утечек</a>
+			<span class="time">16:44</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598923/">За выходные в Луганской области подтвердили 239 новых случаев СОVID-19</a>
+			<span class="time">15:31</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598922/">Под Боровским и в Станично-Луганском районе нашли 17 артиллерийских снарядов и 16 мин</a>
+			<span class="time">14:38</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598919/">На оккупированной Луганщине заявили о 1225 случаях инфицирования COVID-19</a>
+			<span class="time">13:17</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598896/">Клиника из Рубежного вместе с биотехнологами из Польши ведет проект по борьбе с распространением COVID-19</a>
+			<span class="time">12:45</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598894/">На Луганщине экс-полицейского обвиняют в превышении полномочий и грозят тюрьмой</a>
+			<span class="time">12:33</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598890/">В Луганской области три города и 12 районов попали в &quot;оранжевую&quot; зону опасности COVID-19</a>
+			<span class="time">11:50</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598884/">В Северодонецке за одну ночь на улице обнаружили тела убитых 68-летней женщины и 24-летнего парня </a>
+			<span class="time">10:55</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598877/">В Луганской области не хватает врачей, к борьбе с COVID-19 собираются подключить интернов</a>
+			<span class="time">09:21</span>
+		</div>
+			<div class="clear"></div>
+			<div class="title">
+				<span><b>Пятница 9 октября</b></span>
+			</div>	
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598816/">Житель Лисичанска получил 5 лет тюрьмы за ДТП с погибшим пешеходом</a>
+			<span class="time">16:28</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598810/">Фармкомпания из Рубежного ввела плановое тестирование работников на COVID-19 за счет фирмы</a>
+			<span class="time">15:33</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/criminal/news/598807/">Пожилая северодончанка отдала мошеннику 36 тысяч долларов, чтобы &quot;спасти&quot; сына</a>
+			<span class="time">14:52</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598799/">В Луганской области зарегистрировали 133 новых случая COVID-19</a>
+			<span class="time">13:59</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/proisshestviya/news/598785/">В Станично-Луганском районе подорвался автомобиль с лесниками и спасателем</a>
+			<span class="time">12:22</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/society/news/598783/">На оккупированной Луганщине подтвердили 1153 случая инфицирования COVID-19</a>
+			<span class="time">11:33</span>
+		</div>
+		<div class="important-news-item">
+			<a href="/lugansk/politics/news/598778/">Полиция зарегистрировала 92 сообщения о нарушении избирательного законодательства на Луганщине</a>
+			<span class="time">10:46</span>
+		</div>
+</div><a href="/lugansk/news/" class="all">ВСЕ НОВОСТИ</a>
+					</span>
+					
+					<!--<a href="/news/" class="all">Все новости »</a>-->
+					<div class="clear"></div>					
+				</section>
+	
+	<section class="company-news">
+		<a class="twitter-timeline" data-lang="ru" data-width="241" data-height="370" data-dnt="true" data-link-color="#999999" href="https://twitter.com/ostro_v">Твиты от ostro_v</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</section>	
+	
+	<section class="banner240x350">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- All_pages_240_400_bottom -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:240px;height:400px"
+     data-ad-client="ca-pub-4709105346903522"
+     data-ad-slot="9142323973"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</section>
+
+	<section class="company-news">
+<div class="title">
+	<h2>ПРЕСС-РЕЛИЗЫ</h2>
+</div>
+	<div class="company-news-item">
+		<a href="/company_news/599002/">Какие бывают виды кальянов</a>
+		<span class="datetime">
+			<span class="time nofloat">17:13</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+	</div>
+	<div class="company-news-item">
+		<a href="/company_news/598983/">Оптический прицел Discovery VT-1 3-9X40 AO - &quot;приличный китаец&quot;</a>
+		<span class="datetime">
+			<span class="time nofloat">14:11</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+	</div>
+	<div class="company-news-item">
+		<a href="/company_news/598982/">Выбирайте мягкую кровать для комфортного сна</a>
+		<span class="datetime">
+			<span class="time nofloat">14:05</span>
+			<span class="company-news-date">13.10</span>
+		</span>
+	</div>
+	<div class="company-news-item">
+		<a href="/company_news/598914/">Способы привлечения клиентов в строительные компании</a>
+		<span class="datetime">
+			<span class="time nofloat">15:33</span>
+			<span class="company-news-date">12.10</span>
+		</span>
+	</div>
+	<div class="company-news-item">
+		<a href="/company_news/598913/">Как правильно выбрать шторы: 5 полезных рекомендаций</a>
+		<span class="datetime">
+			<span class="time nofloat">15:31</span>
+			<span class="company-news-date">12.10</span>
+		</span>
+	</div>
+<a href="/company_news/" class="all">ВСЕ ПРЕСС-РЕЛИЗЫ</a>
+<div class="clear"></div>				</section>
+						
+
+				
+				<span id="partners_aside"></span>
+
+				
+			</aside>
+					</div>			
+		<footer>
+
+
+
+<table class="bottommenu">
+	<tr>
+					<td>
+				<div class="bottommenu-item">
+					<a href="/" class="cufon">ГЛАВНАЯ</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/donetsk/" class="cufon">ДОНЕЦК</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/lugansk/" class="cufon">ЛУГАНСК</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/video/" class="cufon">ВИДЕО</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/pereselentsam/" class="cufon">ДЛЯ ПЕРЕСЕЛЕНЦЕВ</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/eu4east/" class="cufon">ЕС ДЛЯ ВОСТОКА</a>
+				</div>
+									
+			</td>
+								<td>
+				<div class="bottommenu-item">
+					<a href="/archive/" class="cufon">АРХИВ</a>
+				</div>
+									
+			</td>
+			<!--/tr><tr-->							<!--td></td-->
+					<!--td></td-->
+					<!--td></td-->
+					<!--td></td-->
+					<!--td></td-->
+					<!--td></td-->
+					<!--td></td-->
+			</tr>
+</table>
+			
+
+			
+			<div class="footer">
+				<div class="copyright">
+					<div style="float:left; width:400px;">
+						© 2002-2020 «<a href="http://www.ostro.org">ОстроВ</a>»<br />Любое использование материалов сайта «<a href="http://www.ostro.org">ОстроВ</a>» разрешается при условии активной ссылки на <u><a href="http://www.ostro.org">www.ostro.org</a></u> и указания названия сайта.
+<br /><br />
+ОО Центр исследований социальных перспектив Донбасса;<br>
+Информационное агентство «ОстроВ»
+<br /><br />
+Проект осуществляется при содействии:<br/>
+<u><noindex><a href="http://www.ned.org/languages/ru" rel="nofollow">Национального Фонда Поддержки Демократии</a></u> (Мнения авторов не обязательно совпадают с официальной позицией Фонда);</noindex><br />
+<!--u><noindex><a href="https://ua.usembassy.gov/uk/" rel="nofollow">Фонда развития СМИ Посольства США в Украине</a></noindex></u> (Мнения авторов не обязательно совпадают с официальной позицией Фонда);<br /-->
+<!--u><noindex><a href="http://www.irf.ua" rel="nofollow">Міжнародного фонду "Відродження"</a></noindex></u> (Мнения авторов не обязательно совпадают с официальной позицией Фонда);<br /-->
+<!--u><noindex><a href="http://www.frittord.no/en/" rel="nofollow">Норвежского фонда Fritt Ord Foundation</a></u> (Мнения авторов не обязательно совпадают с официальной позицией Фонда)</noindex><br /-->
+<!--noindex>Проект реалізується у рамках Польсько-Канадської Програми Підтримки Демократії співфінансованої з програми польської співпраці на користь розвитку Міністерства закордонних справ РП та канадського Міністерства закордонних справ, торгівлі та розвитку (DFATD)</noindex><br /-->
+<!--div>
+<style>
+img {
+	border: none;
+}
+</style>
+<img src="/var/image/irf.png" width="100%"><br />
+</div-->					</div>
+					<div style="float:left; margin:0 0 0 80px;">
+						Связаться с редакцией:<br />
+E-mail редакции –  <u><a href="/cdn-cgi/l/email-protection#543d3a323b143b2720263b7a3b2633"><span class="__cf_email__" data-cfemail="50393e363f103f2324223f7e3f2237">[email&#160;protected]</span></a></u><br />
+<!--Луганск – <u><a href="mailto:lg@ostro.org">lug@ostro.org</a></u><br />-->
+<!--Ивано-Франковск – <u><a href="mailto:lg@ostro.org">if@ostro.org</a></u>-->
+<br />
+
+<!--<a onclick="img=new Image();img.src=&quot;http://www.bigmir.net/?cl=66879&quot;;" target="_blank" href="http://www.bigmir.net/" rel="nofollow"><img height="31" border="0" title="bigmir)net TOP 100" alt="bigmir)net TOP 100"  width="88" src="http://c.bigmir.net/?v65620&amp;s66879&amp;t8&amp;c1&amp;n135880&amp;w0&amp;m11&amp;y1&amp;d24&amp;r1366"></a>-->
+
+<!--bigmir)net TOP 100--
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={v:66879,s:66879,t:8,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[vstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<a href="http://www.bigmir.net/" target="_blank" onClick="img=new Image();img.src="http://www.bigmir.net/?cl=66879";"><img src="http://c.bigmir.net/?'+bs.join('&')+'"  width="88" height="31" border="0" alt="bigmir)net TOP 100" title="bigmir)net TOP 100"></a>');
+//--
+</script>
+<--noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v66879&s66879&t8" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100-->
+
+<!-- Yandex.Metrika informer --
+<a href="//metrika.yandex.ru/stat/?id=10095436&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/10095436/3_1_FFFFFFFF_EEEEEEFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:10095436,type:0,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- I.UA counter --<a href="http://www.i.ua/" target="_blank" onclick="this.href='http://i.ua/r.php?869';" title="Rated by I.UA">
+<script type="text/javascript" language="javascript"><!--
+iS='<img src="http://r.i.ua/s?u869&p62&n'+Math.random();
+iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';
+iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
++"&w"+screen.width+'&h'+screen.height;
+iT=iD.referrer.slice(7);iH=window.location.href.slice(7);
+((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+if(iT!=iH.substring(0,iI))iS+='&f'+escape(iD.referrer.slice(7));
+iS+='&r'+escape(iH);
+iD.write(iS+'" border="0" width="88" height="31" />');
+//--</script></a><!-- End of I.UA counter -->
+<!--LiveInternet counter--><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t14.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>")</script><!--/LiveInternet--><br>
+<!--bigmir)net TOP 100 Part 2-->
+<script type="text/javascript" language="javascript">
+function BM_Draw(oBM_STAT){
+document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+}
+</script>
+<script type="text/javascript" language="javascript" src="//c.bigmir.net/?s66879&t0&l1&o1"></script>
+<noscript>
+<a href="http://www.bigmir.net/" target="_blank"><img src="//c.bigmir.net/?v66879&s66879&t2&l1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+</noscript>
+<!--bigmir)net TOP 100 Part 2-->
+<br><br><br><br><br>
+
+<noindex>Поддержка сайта <a href="http://www.aniart.com.ua" rel="nofollow">Aniart</a></noindex>
+<br /><br />
+<noindex>Редизайн сайта выполнен при <br> содействии <a href="http://www.demcouncil.org/" rel="nofollow">Democracy Council</a></noindex>
+					</div>
+										
+					<div class="social-icon-footer">
+						Присоединяйтесь к нам: <br /> <br />
+                        <a href="//www.facebook.com/iaostro" class="icon-social-footer icon-social-facebook"></a>
+						<a href="//twitter.com/ostro_v" class="icon-social-footer icon-social-twitter"></a>
+						<!--a href="//vk.com/ostro_org" class="icon-social-footer icon-social-vk"></a-->
+						<a href="//www.youtube.com/user/ostroorg/" class="icon-social-footer icon-social-youtube"></a>
+						<a href="/rss/" class="icon-social-footer icon-social-rss"></a>
+					</div>				
+					
+				</div>				
+			</div>
+			
+			<!--addcpm-->
+			<!--- 10101319 -->
+			<iframe name="n10101319" style="display:none"></iframe><script>(function(){(function(l,d,A){"use strict";var t,o,e,i,z,r,n,S,T,a,c,f,s,p,h,u,b,D,k,v,g,x,m,E,y,M,C,O,L,N,w,_,H,I,R,q,P,$,j,F,J=300,W="/z",X="0x04",B="http",G="substr",K="host",Q=J,U="argon_"+"debug"+"=1",V="prototype",Y="createElement",Z="appendChild",tt="setTimeout",ot="querySelectorAll",et="getOwnPropertyDescriptor",rt="Object",nt="charCodeAt",it="fromCharCode",at="zmctrack"+".net",ct="bind",ft="call",lt="script",dt="head",st="get",pt="set",ht="indexOf",ut="s."+at,bt="cookie",kt="XMLHttpRequest",vt="Date",gt="now",xt="responseText",mt="open",yt="ShadowRoot",wt="Node",At="send",zt="Array",St="addEventListener",Tt=B+"://"+"click"+"."+at+"/c/"+"redirect"+"?"+"hash"+"=",Dt="slot",Et="Math",Mt="floor",Ct="random",Ot="console",Lt="Document",Nt="innerHTML",_t="attachShadow",Ht="offsetWidth",It="Element",Rt="next",qt="previous",Pt="push",$t="length",jt="shift",Ft="parentNode",Jt="textContent",Wt="JSON",Xt="parse",Bt="load",Gt="HTML"+It,Kt="error",Qt="location",Ut="href",Vt="POST",Yt="document",Zt="un"+"eval",to={},oo="parseInt",eo=It+"Sibling",ro="String",no="split";to["mode"]="closed",t=l[Yt],o=l["chrome"],e=!0,i=0;try{e=!!l[Zt]}catch(t){}function io(t,o){return q[ft](t,o||"|")}!o&&!e||(z=l["n10101319"],r=z[Yt],n=z[rt][et],S=r[ot][ct](t),T=z[tt][ct](l),a=n(z[Lt][V],dt)[st][ft](t),c=r[Y][ct](t),f=r[dt][Z][ct](a),s=z[vt][gt],p=-1<r[bt][ht](U),h=z[kt],u=h[V],b=n(u,xt)[st],D=z[oo],k=u[mt],v=u[At],g=z[St],z[Wt][Xt],x=z[wt][V],m=n(x,Jt)[pt],E=n(x,Ft)[st],y=z[It][V],M=n(y,qt+eo)[st],C=n(y,Rt+eo)[st],O=n(z[Gt][V],Ht)[st],L=y[_t],N=n(z[yt][V],Nt)[pt],w=z[zt][V],_=w[ht],H=w[Pt],I=w[jt],R=z[ro][V],q=R[no],P=R[nt],$=R[G],j=z[ro][it],F=function(){},io(d[0]),p&&(F=z[Ot][Kt][ct](z[Ot])),function t(){function e(){s()-n>Q?i++<3&&T(t,Q*i):function(){function t(t){var o,e,r="";for(o=0;o<t[$t];o++)r+=1==(e=a[P[ft](t,o)-32])[$t]?e:j(X+e);return r}var f,o,e,r,n,i=io("5d0a0a|fcc|"+"06522b|cdffd6|"+"06526d|b7d5e6|"+"a4510b|ffdfcc|"+"500a5d|fcc"),b=".sl{z-index:99;all:initial;}.i,.sl{overflow:hidden;}.i{font-family:sans-serif;float:left;border:1px solid rgba(0,0,0,0);border-left:none;border-top:none;background-clip:padding-box;box-sizing:border-box;text-decoration:none;display:block;color:#fff;padding:4px}.i:hover kt{text-decoration:underline}kt,kd,kp{margin:1%;text-overflow:ellipsis;font-weight:700;font-size:15px;display:block}kt{font-size:17px}kd{font-weight:400;white-space:normal}#clear{clear:both}slot{display:block;}",k=io("top|right|bottom|left"),v=io("absolute|static|relative"),g=function(){var t,o,e,r,n,i=[],a=l[Qt][K],c=a[$t];for(f=0;f<d[0][$t];f++)for(t=io(d[0][f][0]),e=0;e<t[$t];e++)if(n=(r=t[e])[$t],H[ft](i,r),r==a||$[ft](a,c-n)==r&&"."==a[c-n-1])return d[0][f][1];o||F("no",i)}(),x=[],m=d[1],y=d[2],a=io(I[ft](A),"~"),w=t(' !"#$%');if(g){for(f=0;f<5;f++)b+=".c"+f+"{background-color: #"+i[2*f]+"}"+".c"+f+" kd{color: #"+i[2*f+1]+"}",f<3&&(A[f]=io(t(A[f])));for(A[3]=io(A[3]),f=0;f<y[$t];f++){for(o=io(y[f]),e=I[ft](o),r=io(m[e]),b+=".z"+f+">.i{width:"+100/r[2]+"%;"+"height:"+100/r[3]+"%}"+".z"+f+"{width:"+r[0]+"px;"+"height:"+r[1]+"px;",n=0;n<4;n++)o[n]&&(b+="margin-"+k[n]+":"+(" "==o[n]?"auto":o[n]+"px")+";");o[4]?b+="float:"+k[o[4]]:b+="clear:both",b+="}",y[f]=[e,r[2]*r[3]]}!function t(){function o(t,o,e){var r,n,i,a,c='<div class="sl'+e+'"><div class="sl">',f=io(o[3]),l=io(o[1]),d=io(o[0]);for(r=0;r<f[$t];r++)n=f[r],io(m[y[n][0]]),c+=s(n,y[n][1]);for(i={},r=0;r<4;r++)i[k[r]]=d[r];for(r in l[2]&&(i[k[3]]=D(i[k[3]])+O[ft](p[t])),a="<style>.sl"+e+"{",i)i[r]&&(a+="margin-"+r+":"+(" "==i[r]?"auto":i[r]+"px")+";");a+="position:"+v[l[0]]+"}</style>",h[t][l[3]?1:0]+=c+"</div></div>"+a}function s(t,o){var e,r,n=z[Et][Mt](z[Et][Ct]()*J),i='<div class="z'+t+'">';for(e=0;e<o;e++)i+=(r=(n+e)%A[0][$t],'<a class="i c'+(n+e)%5+'" href="'+Tt+A[3][r]+'">'+"<kt>"+A[0][r]+"</kt>"+"<kd>"+A[1][r]+"</kd>"+"<kp>"+(A[2][r]||w)+"</kp></a>");return i+"</div>"}var p,h,e,r,n,i,a,c,f,l,d,u;for(T(t,J),p=[],h=[],e=0;e<g[$t];e++)for(n=io((r=g[e])[2],"$"),x[e]=x[e]||[],i=S(n[0]),a=0;a<i[$t];a++){if(c=i[a],f=n[1],l=n[2],f)for(;E[ft](c)&&f--;)c=E[ft](c);if(l)for(d=C,l<0&&(d=M,l=0-l);d[ft](c)&&l--;)c=d[ft](c);if(_[ft](x[e],c)<0){H[ft](x[e],c),_[ft](p,c)<0&&(H[ft](h,["",""]),H[ft](p,c)),o(_[ft](p,c),r,e);break}}for(e=0;e<p[$t];e++)try{u=L[ft](p[e],to),N[ft](u,h[e][0]+"<"+Dt+"></"+Dt+">"+h[e][1]+"<style>"+b+"</style>")}catch(t){F(t)}}()}}()}var r=new h,n=s();k[ft](r,Vt,B+"s://"+ut+W),g[ft](r,Bt,function(){var t,o=b[ft](r);if(o[$t]>3*J)return t=c(lt),m[ft](t,o),f(t);n=s(),e()}),g[ft](r,Kt,e),v[ft](r,l[Qt][Ut])}())})(this,[[["ostro.org",[["0||0|250","0|||",".header-middle$","0"],["9||10|","2|||",".content aside$","1"],["10||10|","2|||",".content aside .banner240x350 ins[data-ad-slot=\"9142323973\"]$1$1","2"],["0||20|","2|||","#partners$","6"],["0||20|","2|||",".publication div[id^=\"yandex_rtb\"]$1$2","6"],["20||0|","2|1||1","section+section ins[data-ad-slot=\"5585782062\"]$1$-1","4"],["0||0|0","1|1||1","#partners$1","3|5"]]]],["728|90|2|1","240|400|1|3","300|250|1|2","650|250|3|2","680|500|2|5"],["0|| || ","1|| || ","1|| || ","2|||||3","3|| || ","2|||||1","4|10| || "]],["1a~43~3f~38~42~4c~1f~40~3e~32~35~3a~30~ ~3d~|~21~34~-~8~0~%~11~3b~41~36~4b~37~31~!~23~39~33~N~i~k~o~n~1d~51~3c~14~48~X~a~m~M~L~t~e~4~G~l~47~4f~16~1~20~u~B~W~?~46~12~4e~3~.~45~18~,~+~1c~44~=~22~49~5~10","&'()*'+,-(+(.\/0+#1+#-1(-2345\/6*7(8.*9.:*-;!<:=\/>'(9,?-+'!@7:?-@(1\/6#.(+7%-ABCDE\/F,1G9.:?-H!7%$#$!7\/I'*7#-#-J!'!\"()G'$:\/KBLDMB-NB-3-OBPQ-R\/SBTTQPPQ-\"(U$#-1,'(H\/0*@(1.V-8+#1+,-345\/WX-17V-\"(1,'+,-H!9!\/Y,8\"'(1,9,-YZML-[N\\=","F*-;.,*$*-H*.V$%-7#-(+.,]-&'()*'%$*-;,-X-H#.!$!-<*8\"7,$.(=\/W*.8$)*..:*-\"7,$%V-\"(-8!\"*'-^*.,H=\/_-8$',.*-H,88()(-',8+!\",`$-+,U*8$)*..:*-)#.#':\/ '!\".,V-+7!<.#+,-\"'VH(-!-_,8-1(H,=-I(-a-+@-8-(1.(@(-+!8$,bbb\/ (H\",+$.(*-8.,'V9*.#*-17V-\"(c(1()-#-('#*.$#'(),.#V=\/d.8$'!H*.$e-+($(':?-)8*@1,-\"(1-'!+(?-f-\"(1,'+#=\/_:<',$%-#-;,+,;,$%-\"(-7!UJ*?-^*.*\/g*91!.,'(1.,V-)*'8#V-\"(-7!UJ*?-^*.*=\/Y,8\"'(1,9,-('#@#.,7%.:c-+,88*$=-I*J*)7*-.*-.,?1*$*b\/_,J#-7`<#H:*-\",'h`H:=-&(1,'+#-\"(-,+^##-XfXiab\/0\",8*$-\"'#-7`<(H-Ij&b-F*(<c(1#H,V-)*k%-)-7`<(H-,)$(H(<#7*\/g!98+#*-+'(88()+#-YZML-[N\\-#;-.,$!',7%.(?-$*7VU%*?-+(9#b","\/\/\/\/0+#1+#-1(-l45\/m+^#V=\/m+^#V=\/\/0+#1+,-l45\/\/\/0+#1+,-R45","affa4b3d41779bb4|9b0576a60c6587ad|26f6b95402785470|d1a9ab3b599035bc|5c9bf6424852e152|42447bc9b7456278|a3af0d6a958fa06f|2fc34196c7c65748|64ba33b9d04168d4|cc5fb24cbe58ebb0|5be9fd78b7d0aeec|f2e2158c01747714"]);})();</script>
+
+
+		</footer>
+	</div>
+        
+</body>
+</html>
+
+	<noindex>
+		<!-- партнёрские новости в правой колонке -->
+		<div id="partners_aside_async" style="display:none;">
+						<br>
+		</div>
+		
+		<script type="text/javascript">
+			$( document ).ready(function() {
+				display_async_script('partners_aside_async', 'partners_aside'); 	
+			});		
+		</script>
+	</noindex>
+	
+			<!-- партнёрские новости для главной -->
+		<div id="partners_async" style="display:none;">
+			<noindex>
+			<!--Sinoptik Informer New-->
+			<div id="SinoptikInformer" style="width:720px;" class="SinoptikInformer type4 hti"><div class="siHeader"><div class="siLh"><div class="siMh"><a onmousedown="siClickCount();" class="siLogo" href="https://sinoptik.ua/" target="_blank" title="Погода"> </a>Погода <span id="siHeader"></span></div></div></div><div class="siBody"><table><tbody><tr><td class="siCityV" style="width:25%;"><div class="siCityName">Погода в <span>Киеве</span><td class="siCityV" style="width:25%;"><div class="siCityName">Погода в <span>Донецке</span><td class="siCityV" style="width:25%;"><div class="siCityName">Погода во <span>Львове</span><td class="siCityV" style="width:25%;"><div class="siCityName">Погода в <span>Симферополе</span></div></tr><tr><td style="width:25%;"><div class="siCityV2"><div id="siCont0" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT0"></div><div id="weatherIco0"></div></div><div class="siInf"><p>влажность: <span id="vl0"></span></p><p>давл.: <span id="dav0"></span></p><p>ветер: <span id="wind0"></span></p></div></div></div></td><td style="width:25%;"><div class="siCityV2"><div id="siCont1" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT1"></div><div id="weatherIco1"></div></div><div class="siInf"><p>влажность: <span id="vl1"></span></p><p>давл.: <span id="dav1"></span></p><p>ветер: <span id="wind1"></span></p></div></div></div></td><td style="width:25%;"><div class="siCityV2"><div id="siCont2" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT2"></div><div id="weatherIco2"></div></div><div class="siInf"><p>влажность: <span id="vl2"></span></p><p>давл.: <span id="dav2"></span></p><p>ветер: <span id="wind2"></span></p></div></div></div></td><td style="width:25%;"><div class="siCityV2"><div id="siCont3" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT3"></div><div id="weatherIco3"></div></div><div class="siInf"><p>влажность: <span id="vl3"></span></p><p>давл.: <span id="dav3"></span></p><p>ветер: <span id="wind3"></span></p></div></div></div></td></tr></tbody></table><div class="siLinks">Погода на <a href="https://sinoptik.ua/погода-одесса/10-дней/" title="Погода в Одессе на 10 дней" target="_blank">sinoptik.ua</a>  в Одессе</div></div><div class="siFooter"><div class="siLf"><div class="siMf"></div></div></div></div><script type="text/javascript" charset="UTF-8" src="//sinoptik.ua/informers_js.php?title=1&amp;wind=1&amp;cities=303010783,303007405,303014487,303024302&amp;lang=ru"></script>
+			<!--Sinoptik Informer New-->
+			</noindex>
+		</div>
+		
+		<script type="text/javascript">
+			$( document ).ready(function() {
+				display_async_script('partners_async', 'partners');
+			});		
+		</script>
+	<script>
+/*ANIART-fix bug async load ccs kernel file*/
+try{
+if(typeof(arKernelCSS) == 'object'){
+    $.each(arKernelCSS, function(i, e){
+        $("head").append("<link rel='stylesheet' type='text/css' href='"+e+"' />");
+    });
+}
+} catch(e){console.log('Error: '+e.name);}
+</script>

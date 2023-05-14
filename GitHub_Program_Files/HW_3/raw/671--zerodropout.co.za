@@ -1,0 +1,403 @@
+ 
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html" />
+
+<title> | DGMT Zero Dropout</title>
+
+<link rel="stylesheet" href="https://zerodropout.co.za/wp-content/themes/zerodropout/style.css" media="screen" />
+<link rel="shortcut icon" type="image/x-icon" href="https://zerodropout.co.za/wp-content/themes/zerodropout/img/fav.png"/>
+<script src="https://zerodropout.co.za/wp-content/themes/ao-master/js/vendor/modernizr.js"></script>
+<link rel="stylesheet" href="https://zerodropout.co.za/wp-content/themes/ao-master/fonts/css/font-awesome.min.css">
+<link rel='dns-prefetch' href='//s.w.org' />
+<meta property="fb:admins" content="107916190781903"/><meta property="og:title" content="Home"/><meta property="og:description" content="A national campaign focused on halving the rate of school dropout by 2030"/><meta property="og:type" content="article"/><meta property="og:url" content="https://zerodropout.co.za/"/><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@ZeroXdropout" /><meta name="twitter:creator" content="@ZeroXdropout" /><meta property="og:site_name" content="Zero Dropout Campaign by DGMT"/><meta property="og:image" content="https://zerodropout.co.za/wp-content/themes/zerodropout/img/zd-social.png"/>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zerodropout.co.za\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='mci-footnotes-css-public-css'  href='https://zerodropout.co.za/wp-content/plugins/footnotes/class/../css/public.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://zerodropout.co.za/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ao-master-css'  href='https://zerodropout.co.za/wp-content/themes/ao-master/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='zerodropout-css'  href='https://zerodropout.co.za/wp-content/themes/zerodropout/style.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://zerodropout.co.za/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://zerodropout.co.za/wp-content/plugins/footnotes/class/../js/jquery.tools.min.js?ver=5.5.1' id='mci-footnotes-js-jquery-tools-js'></script>
+<link rel="https://api.w.org/" href="https://zerodropout.co.za/wp-json/" /><link rel="alternate" type="application/json" href="https://zerodropout.co.za/wp-json/wp/v2/pages/264" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zerodropout.co.za/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://zerodropout.co.za/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://zerodropout.co.za/" />
+<link rel='shortlink' href='https://zerodropout.co.za/' />
+<link rel="alternate" type="application/json+oembed" href="https://zerodropout.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzerodropout.co.za%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://zerodropout.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzerodropout.co.za%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://zerodropout.co.za/wp-content/uploads/2020/09/fav-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://zerodropout.co.za/wp-content/uploads/2020/09/fav.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://zerodropout.co.za/wp-content/uploads/2020/09/fav.png" />
+<meta name="msapplication-TileImage" content="https://zerodropout.co.za/wp-content/uploads/2020/09/fav.png" />
+		<style type="text/css" media="screen">
+            .footnote_tooltip { display: none; padding: 12px; font-size: 13px; background-color: #fff7a7; border-width: 1px; border-style: solid; border-color: #cccc99; border-radius: 3px; -webkit-box-shadow: 2px 2px 11px #666666; -moz-box-shadow: 2px 2px 11px #666666; box-shadow: 2px 2px 11px #666666;}        </style>
+		
+</head>
+<body data-rsssl=1 id="post-264">
+
+    
+	<div class="sticky">
+         <nav class="top-bar" data-topbar role="navigation">
+        	<ul class="title-area">
+                <li class="name"><h1><a href="https://zerodropout.co.za/"><img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/zero-dropout-2.png" width="180" alt="DGMT Zero Dropout"></a></h1></li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>&nbsp;</span></a></li>
+            </ul>
+            
+       <section class="top-bar-section">
+            <ul id="menu-primary" class="top-bar-menu left"><!--li class="divider"></li--><li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-264 current_page_item active menu-item-590"><a href="https://zerodropout.co.za/" aria-current="page">Home</a></li>
+<!--li class="divider"></li--><li id="menu-item-607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-607"><a href="https://zerodropout.co.za/our-campaign/">Our Campaign</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="https://zerodropout.co.za/our-campaign/">Who we are</a></li>
+	<li id="menu-item-617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-617"><a href="https://zerodropout.co.za/category/team/">Meet the Team</a></li>
+</ul>
+</li>
+<!--li class="divider"></li--><li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-592"><a href="#">Programmes</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="https://zerodropout.co.za/reading-for-meaning/">Reading for Meaning</a></li>
+	<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="https://zerodropout.co.za/network-of-schools/">Network of Schools</a></li>
+</ul>
+</li>
+<!--li class="divider"></li--><li id="menu-item-600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-600"><a href="#">Advocacy</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-601" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-601"><a href="https://zerodropout.co.za/category/advocacy/using-data-to-reduce-dropout/">Using data to reduce dropout</a></li>
+	<li id="menu-item-606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-606"><a href="https://zerodropout.co.za/category/advocacy/why-school-culture-matters/">Why school culture matters</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-604"><a href="https://zerodropout.co.za/category/advocacy/dropout-prevention-strategies/">Dropout prevention strategies</a></li>
+</ul>
+</li>
+<!--li class="divider"></li--><li id="menu-item-610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-610"><a href="#">Resources</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-922"><a href="https://zerodropout.co.za/category/publications/">Publications</a></li>
+	<li id="menu-item-611" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-611"><a href="https://zerodropout.co.za/category/resources/decision-makers/">Decision-makers</a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-612"><a href="https://zerodropout.co.za/category/resources/educators/">Educators</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-613"><a href="https://zerodropout.co.za/category/resources/learners/">Learners</a></li>
+	<li id="menu-item-614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-614"><a href="https://zerodropout.co.za/category/resources/parents/">Parents</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-615"><a href="https://zerodropout.co.za/category/resources/think-tanks-ngos/">Think tanks &#038; NGOs</a></li>
+</ul>
+</li>
+<!--li class="divider"></li--><li id="menu-item-616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-616"><a href="#">Press Room</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-618"><a href="https://zerodropout.co.za/category/press-releases/">Press releases</a></li>
+	<li id="menu-item-619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-619"><a href="https://zerodropout.co.za/category/zero-dropout-in-the-news/">Zero Dropout in the News</a></li>
+</ul>
+</li>
+<!--li class="divider"></li--><li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://zerodropout.co.za/contact-us/">Contact</a></li>
+</ul>            <ul class="right text-center">
+                <li><a href="#" data-reveal-id="mySearch"><i class="fa fa-search fa-2x"></i></a></li>
+            </ul>
+  		</section>
+         </nav>
+     </div>
+
+        <div id="mySearch" class="reveal-modal tiny" data-reveal aria-labelledby="mySearch" aria-hidden="true" role="dialog">
+                  <p>&nbsp;</p>
+                  <form method="get" id="searchform" action="https://zerodropout.co.za/">
+                  <div class="row collapse">
+                    <div class="small-12 large-9 columns">
+                      <input type="text" value="" name="s" placeholder="Search">
+                    </div>
+                    <div class="large-3 columns hide-for-medium-down">
+                      <input type="submit" class="button postfix" value="GO">
+                    </div>
+                  </div>
+                  &nbsp;
+                    </form>
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+        </div>
+<script type="text/javascript">
+  var imageURLs = [
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/1.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/2.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/3.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/4.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/5.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/girl.png",
+"https://zerodropout.co.za/wp-content/themes/zerodropout/portraits/two-guys.png"
+  ];
+  function getImageTag() {
+    var img = '<img src=\"';
+    var randomIndex = Math.floor(Math.random() * imageURLs.length);
+    img += imageURLs[randomIndex];
+    img += '\" alt=\"Some alt text\"/>';
+    return img;
+  }
+</script>
+
+  <link rel="stylesheet" href="https://zerodropout.co.za/wp-content/themes/zerodropout/animate.css">
+  <style>
+    .wow:first-child {
+      visibility: hidden;
+    }
+  </style>
+  <!--[if IE]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+	<div class="row100 bg-burgandy">
+    	<div class="medium-6 large-7 columns text-white bg-contain bg-circle1">
+        	<div class="zd-title">
+            <p class="text-center"><img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/zero-dropout-campaign.png" alt="Zero Dropout Campaign"></p>
+            <div class="zd-tagline">
+            	<p class="text-right text-large"><strong>A national campaign focused on halving the rate of school dropout by 2030</strong></p>
+            </div>
+            </div>
+        </div>
+        <div class="medium-6 large-5 columns small-text-center medium-text-left portrait" style="overflow: hidden;">
+			<div class="wow slideInRight" data-wow-duration="2s" data-wow-delay="1s" data-wow-iteration="1">
+			<script type="text/javascript">
+              document.write(getImageTag());
+            </script></div>
+        </div>
+	</div>
+
+<div class="segment bg-white">
+	<div class="row">
+    	<div class="large-12 columns text large-text-justify">
+        	
+<p><strong>The Zero Dropout Campaign</strong> wants to change the perception that school dropout is a normal occurrence by demonstrating what it takes to help learners complete Grade 12. Despite South Africa’s large investment in basic education, around 40% of Grade 1 learners will exit the schooling system before finishing matric. Many will remain stuck in poverty and unemployment for life. As a knowledge hub, we’ve collaborated with a number of non-profit organisations (NPOs) to test models of intervention to prevent dropout. <a href="https://zerodropout.co.za/our-campaign/">Read more</a></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="segment bg-white">
+	<div class="row">
+    	<div class="small-12 columns text-center">
+        	<h3 class="text-burgandy uppercase">The True Matric Pass Rate of the 2008 Cohort</h3>
+            <p class="text-red uppercase">(% of Grade 1 Learners who make it to Grade 12 and beyond)</p>
+        </div>
+    </div>
+	<div class="row gap-btm text-center text-burgandy">
+    	<div class="small-6 medium-3 columns">
+        	<img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/pass-rate-burgandy1.png" alt="100% starts school" width="300" class="wow fadeIn" data-wow-duration="1s" data-wow-delay="1s" data-wow-iteration="1">
+            <p><strong>START SCHOOL</strong></p>
+        </div>
+    	<div class="small-6 medium-3 columns">
+        	<img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/pass-rate-burgandy2.png" alt="60% write matric" width="300" class="wow fadeIn" data-wow-duration="s" data-wow-delay="2s" data-wow-iteration="1">
+            <p><strong>WRITE MATRIC</strong></p>
+        </div>
+    	<div class="small-6 medium-3 columns">
+        	<img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/pass-rate-burgandy3.png" alt="37% pass matric" width="300" class="wow fadeIn" data-wow-duration="1s" data-wow-delay="3s" data-wow-iteration="1">
+            <p><strong>PASS MATRIC</strong></p>
+        </div>
+    	<div class="small-6 medium-3 columns">
+        	<img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/pass-rate-burgandy4.png" alt="13% go to university" width="300" class="wow fadeIn" data-wow-duration="1s" data-wow-delay="4s" data-wow-iteration="1">
+            <p><strong>GO TO UNIVERSITY</strong></p>
+        </div>
+    </div>
+</div>
+
+<div class="container bg-white">
+
+	<div class="hd-bar bg-burgandy"><h1>Our Programmes</h1></div>
+
+    <div class="row100 display-flex text-white gap-both">
+    	<div class="large-6 columns text-center">
+        	<div class="zd-programmes bg-burgandy">
+            <img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/reading-for-meaning2.png" alt="Reading for Meaning Programme" width="500">
+            <div class="zd-programmes-text">Reading for Meaning is an accelerated catch-up programme for learners using Pratham’s principle of Teaching at the Right Level. This approach focuses on a child’s learning needs rather than their age or what grade they’re in.</div>
+            <a href="https://zerodropout.co.za/reading-for-meaning/" class="button alert">READ MORE</a>
+            </div>
+        </div>
+    	<div class="large-6 columns text-center">
+        	<div class="zd-programmes bg-red">
+            <img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/network-of-schools2.png" alt="Network of Schools Programme" width="500">
+            <div class="zd-programmes-text">We want to energize and empower parents, learners and educators to work together to reduce dropout. This is no easy task because school dropout has been normalised in far too many communities.</div>
+            <a href="https://zerodropout.co.za/network-of-schools" class="button">READ MORE</a>
+            </div>
+        </div>
+    </div>
+
+	<div class="hd-bar bg-burgandy"><h1>Advocacy Focus Areas</h1></div>
+
+    <div class="row100 display-flex gap-both">
+    	<div class="medium-4 columns text-center">
+        	<div class="zd-advocacy">
+            <img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/i-data.png" alt="Using data to reduce dropout" width="200">
+            <div class="zd-advocacy-text">
+				<h3>Using data to <br class="show-for-large-up" />reduce dropout</h3>
+				Our education system would benefit hugely from collecting accurate, detailed and regular information about schools and learners.            </div>
+            <a href="https://zerodropout.co.za/category/using-data-to-reduce-dropout/" class="button">READ MORE</a>
+            </div>
+        </div>
+    	<div class="medium-4 columns text-center">
+        	<div class="zd-advocacy">
+            <img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/i-school-culture.png" alt="Why school culture matters" width="200">
+            <div class="zd-advocacy-text">
+				<h3>Why school <br class="show-for-large-up" />culture matters</h3>
+				School culture in which there is bullying or physical punishment, or teachers are absent from class, can push learners away from school.            </div>
+            <a href="https://zerodropout.co.za/category/why-school-culture-matters/" class="button">READ MORE</a>
+            </div>
+        </div>
+    	<div class="medium-4 columns text-center">
+        	<div class="zd-advocacy">
+            <img src="https://zerodropout.co.za/wp-content/themes/zerodropout/img/i-seesaw.png" alt="Anti-dropout strategies" width="200">
+            <div class="zd-advocacy-text">
+				<h3>Dropout prevention <br class="show-for-large-up" />strategies</h3>
+				Some learners stay in and do well at school, despite challenging circumstances. Why?            </div>
+            <a href="https://zerodropout.co.za/category/dropout-prevention-strategies/" class="button">READ MORE</a>
+            </div>
+        </div>
+    </div>
+
+	<div class="hd-bar bg-burgandy"><h1>Publications</h1></div>
+    <div class="row100 gap-both bg-burgandy">
+    	<div class="large-10 large-centered columns text-center">
+        	
+<div class="pricingdiv">
+					            <ul class="theplan cat-pub" style="max-width: 340px;">
+               	<li>
+                    <a href="https://zerodropout.co.za/learning-brief-school-dropout-prevention-strategies/" title="Learning Brief: School Dropout Prevention Strategies"><img width="500" height="705" src="https://zerodropout.co.za/wp-content/uploads/2020/07/Zero-Dropout-LB-July-2020-500x705.png" class="th wp-post-image" alt="" loading="lazy" /></a>
+                </li> 
+			</ul>
+                                <ul class="theplan cat-pub" style="max-width: 340px;">
+               	<li>
+                    <a href="https://zerodropout.co.za/zero-dropout-policy-brief-2020/" title="Policy Brief"><img width="500" height="705" src="https://zerodropout.co.za/wp-content/uploads/2020/07/ZERO-DROPOUT-POLICY-BRIEF-500x705.png" class="th wp-post-image" alt="" loading="lazy" /></a>
+                </li> 
+			</ul>
+                                <ul class="theplan cat-pub" style="max-width: 340px;">
+               	<li>
+                    <a href="https://zerodropout.co.za/the-campaign-against-school-dropout/" title="School Dropout. What&#8217;s the Catch?"><img width="500" height="705" src="https://zerodropout.co.za/wp-content/uploads/2020/07/ZERO-DROPOUT-PUBLICATION-500x705.png" class="th wp-post-image" alt="" loading="lazy" /></a>
+                </li> 
+			</ul>
+                    </div>        </div>
+    </div>
+
+</div>
+
+<div class="row100">
+<a href="https://sacoronavirus.co.za/" target="_blank" class="button alert expand" style="margin-bottom: 0;">COVID-19 Corona Virus South African Government Official Website</a>
+</div>
+
+  <!--https://wowjs.uk/docs.html-->
+  <script src="https://zerodropout.co.za/wp-content/themes/zerodropout/js/wow.js"></script>
+  <script>
+	wow = new WOW(
+	{
+	boxClass:     'wow',      // default
+	animateClass: 'animated', // default
+	offset:       0,          // default
+	mobile:       false,       // default
+	live:         true        // default
+	}
+	)
+	wow.init();
+  </script>
+
+
+<div class="large-12 footer">
+	<div class="row100">
+        <div class="large-8 columns small-text-center large-text-left social">
+           <p><a href="https://wa.me/27600548676" title="WhatsApp our Bot"><i class="fa fa-whatsapp fa-3x"></i></a> 
+           <a href="https://soundcloud.com/zeroxdropout" target="_blank" title="Listen on Soundcloud"><i class="fa fa-soundcloud fa-3x"></i></a> 
+           <a href="https://www.youtube.com/channel/UCNd7JDLJd6FrqmWpIvIgwPA" target="_blank" title="Watch on YouTube"><i class="fa fa-youtube-play fa-3x"></i></a> 
+           <a href="https://facebook.com/zerodropoutcampaign/" target="_blank" title="Like our Facebook page"><i class="fa fa-facebook fa-3x"></i></a> 
+           <a href="https://twitter.com/ZeroXdropout" target="_blank" title="Follow on twitter"><i class="fa fa-twitter fa-3x"></i></a> 
+           <a href="mailto:info@zerodropout.co.za" title="Email us"><i class="fa fa-envelope fa-3x"></i></a></p>
+        </div>
+        <div class="large-4 columns text-center text-white subscibe-form">
+            <h4>Sign up to receive news and updates.</h4>
+			<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1426" method="post" data-id="1426" data-name="Subscribe" ><div class="mc4wp-form-fields"><p>
+    <input type="text" name="FNAME" placeholder="First Name">
+</p>
+<p>
+    <input type="text" name="LNAME" placeholder="Last Name">
+</p>
+<p>
+		<input type="email" name="EMAIL" placeholder="Your email address*" required />
+</p>
+
+<p>
+	<input type="submit" value="Sign up" />
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1602700776" /><input type="hidden" name="_mc4wp_form_id" value="1426" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->        </div>
+     </div>
+	<div class="row100">
+    	<div class="large-12 columns small-text-center large-text-left">
+                <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a></p>
+                <p>2020. <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.dgmt.co.za/" property="cc:attributionName" rel="cc:attributionURL">DGMT</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a></p>
+                <p><a href="https://aodesign.co.za/" target="_blank">Website by AO Design</a></p>
+            </div>
+    </div>
+</div>
+
+    <script src="https://zerodropout.co.za/wp-content/themes/ao-master/js/vendor/jquery.js"></script>
+    <script src="https://zerodropout.co.za/wp-content/themes/ao-master/js/foundation.min.js"></script>
+
+<script>
+   (function($) {
+   $(document).foundation();
+   })(jQuery);
+</script>
+
+     <script>
+        (function($) {
+            $(document).ready(function(){
+ 
+                $(window).scroll(function(){
+                    if ($(this).scrollTop() > 250) {
+                        $('#scrollup').fadeIn(300);
+                    } else {
+                        $('#scrollup').fadeOut(300);
+                    }
+                });
+ 
+                $('#scrollup').click(function(){
+                    $("html, body").animate({ scrollTop: 0 }, 1000);
+                    return false;
+                });
+ 
+            });
+        })(jQuery);
+    </script>
+    <a href="javascript:void(0)" id="scrollup">Scroll</a>
+
+<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><script type='text/javascript' src='https://zerodropout.co.za/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://zerodropout.co.za/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1' id='mc4wp-forms-api-js'></script>
+</body>
+</html>

@@ -1,0 +1,369 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Gaelcholáiste Reachrann
+</title>
+  <script>
+
+  
+  </script>
+  <!-- Mobile viewport optimisation -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /><meta name="owner" content="oifig@gcreachrann.ie" /><meta name="author" content="Gaelcholáiste Reachrann" /><meta http-equiv="content-language" content="Irish" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="rating" content="General" /><meta name="description" /><meta name="news_keywords" content=", " /><meta name="google-site-verification" /><meta property="og:site_name" content="Gaelcholáiste Reachrann" /><meta property="og:url" content="https://gcreachrann.ie/default.aspx" /><meta property="og:type" content="article" /><meta property="og:title" /><meta property="og:image" /><meta property="og:description" /><meta property="fb:admins" /><meta property="fb:app_id" content="0" /><meta name="twitter:card" content="photo" /><meta name="twitter:image" /><meta name="twitter:creator" content="@GCReachrann" /><meta name="twitter:site" content="@GCReachrann" /><meta name="twitter:url" content="https://gcreachrann.ie/default.aspx" /><meta name="twitter:description" /><meta name="twitter:title" /><link rel="shortlink" /><link rel="icon" type="image/png" sizes="32x32" href="/Images/Site/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="96x96" href="/Images/Site/favicon-96x96.png" /><link rel="icon" type="image/png" sizes="16x16" href="/Images/Site/favicon-16x16.png" /><meta name="application-name" content="GCReachrann.ie" /><meta name="msapplication-tooltip" content="GCReachrann.ie" /><meta name="msapplication-starturl" content="./" /><meta name="robots" content="index,follow" /><meta name="revisit-after" content="1 days" /><meta http-equiv="X-UA-Compatible" content="IE=9" /><link href="//fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,600,600italic&amp;amp;lang=en" type="text/css" rel="stylesheet" /><link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;amp;lang=en" type="text/css" rel="stylesheet" /><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" rel="stylesheet" /><link href="https://gcreachrann.ie/Inc/Styles/Style1.css?d=637383009991160899" type="text/css" rel="stylesheet" /><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="https://gcreachrann.ie/Inc/Scripts/Script1.js?d=637383009991160899" async=""></script><script type="text/javascript" src="https://gcreachrann.ie/Inc/Scripts/responsiveslides.min.js"></script>
+    <style type="text/css">
+        #MainWrapper { padding:0 !important; }
+    </style>
+<link href="/WebResource.axd?d=hcXDZhXiidgsQUtEo5iT34HegGj8ouxACJMcbHL3sOhC-_StDBr6brHHaNxTWYvFLX5HwkQUB5aeaeY5tE0WF0usFvDF4oXUUSIZz5c-E01HDqEPC9i_HR_kIZ2U7MzVGNy6RfORGJr-490mTS7x9zTdxo0Nev2oxu4LAsUMPYc1&amp;t=636650966996479050" type="text/css" rel="stylesheet" /><style type="text/css">
+	/* <![CDATA[ */
+	#mnuMainMenu img.icon { border-style:none;vertical-align:middle; }
+	#mnuMainMenu img.separator { border-style:none;display:block; }
+	#mnuMainMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#mnuMainMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#mnuMainMenu ul.dynamic { z-index:1; }
+	#mnuMainMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#mnuMainMenu a.static { padding-left:0.15em;padding-right:0.15em; }
+	#mnuMainMenu a.popout { background-image:url("/WebResource.axd?d=YAYach_zykzn7tRotFpEUqauVtfZqzN0QraXVvx4rkaqGIt73Z3TuPfK01dGQTKO-EYVjsGTQsDQAvOsJQnn1EsTGCWIwT3ghS1At2ZC2Q41&t=637043983277269094");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	#mnuMainMenu a.level1 { text-decoration:none;border-style:none; }
+	#mnuMainMenu a.level2 { text-decoration:none;border-style:none; }
+	/* ]]> */
+</style></head>
+<body>
+    <div id="fb-root"></div>
+    <form method="post" action="/" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/ScriptResource.axd?d=YJCxcK2hI-bLBJXUFvzl142B1xR-oFJPW5NhLuPkCo8JjyLAXvYprIgjiivCFTD_ttdJcA8VCAm27Jg7BlgV38MQr62FViTDvog2GKqLvyzbrYguyczzvVT6a5scZq8DApZLhMW2gd7UUrXlbvagRw2&amp;t=33e90bc4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yHZbRRdC1CWgMq9sqkLW5cTlgL80Z0KWfiio82YbAbbcXKOBLlA2678sai_caP7Btci_cVWFiyh4IwYty9oFqDIEms3s3paLiN1XTJfmMLf2Ovapi1eeY4OfN9lGRYdsVgnIPQB3aD0Djih0oAun3RM1&amp;t=10c151ff" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Y3m6UrVMbqJVE-kQ9gioH-L5V9aF8FvaWbsrBGUpNMs8pC0JBWWee8tEyWceRABdiHJwNG16hf71tdgFCBBG9Us-0SSPc2atuZVe3r0ZX7EbDXSBYqnP6EVhIn4iK0Oi0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YGQkKErHFDdGeCMY44uk_vhRvn0jXu6svEcYnBZT4wY5PsNvZnBHDwrazTbiymhh8Ik3ERK-qsqLWeKOvGvEUj-k5vnL6VN5K3akuDtaZK5fTr2A3bJG-hGom6-wWFsS0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gWcrHB-EGC1p4LtZa-lbjw3rjuSWN6Q1rcoALz2VwCqOrBjZ1AVXff2Lpnuq-Ht7Ylxo4A96yn5-2C7e8XjntycBMBzO2yY7J-fxNx1y9vI1&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_sGp8_9bNHYNyQqxdvQRqdasT-EqlLhd_ejHsdP60tgnqKdFbmcI1oEUWTjFt5D2KUrsM6qdayJom26GhD_-Ay1fQvwepHxZHeQFXA43ng7HyFYIyJejfnQLnav4lpB80&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0ZrMKVP2U7wQDZQ-62KUNayV_LHT2AfgfZ4YbouRmVTQgVn2mSqS8L3jhj1vojauRq9v6tPS0jkFDPbcs11FhCG1AaqU1zD9LPbut4UMIwjkGPejHSnw5n2J9Me6-J640&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zhB4TnNg5SCnTud0nPZV0PFhzqwTfLmF17QS7IWb2zzZPlKwZUJBVFRb6cxoDeebXoueIK-dVuG9Ga4wXk6AGvvH_wN4OCNPHOiNSxOaYhhYoEdqIorauGn_V4wIU8i60&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=SbtnVWs8LtdvW3GxieYZlQahnbeirfvOYxA1Yb3pXSArUP8fbU_QDNbKzotD1KCDAxwCWqPbOlYK4lDUs8a0jZK-I_xDRmWU9aYx6lnM40zDnmyyUr0RmiaP2ClDwDUr0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cIIHhetD0FO8FyFjoi6ghUAfubpXQR1fgsAYyO9Ouwqi5TN1011ZE1AzbCGDx8ynBQ_KqVlCCY_pG4jFOgULdfAAMevTJNdKlaP0fMqUATNEm8_jA0T1uEapLhyIQuAF0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=leIq-rn6Nim8cPSe84CIAjfCz0xFP7Kr81bl_M1-W7ZfEEL-2qJCx1ZefnBMYztntFZXHqN1b7dgrv3QpuL2LzqhsBI9vpvQz66-lpNoo6uZ8wkIARJ14-n6dLr7IhU90&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6T0HpFRcmR5soosVgefabbf_kBRNycUgeEBP_pfHqH1QFE6P_PeFiWWZKtHJO1q8BXKgueJ_PIvzJ__SWe7oRCdX-keFQKwYckYZdaGs9YlpmrqwrnqqdAmzF12zgtYU0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=I7Upt9kFVtBZiqZm-4CpKqpGCYWjndpSCF3TIJR6w-9UU9hnADTDXYT6Zw-qLXyghuDe383MQk4RBTPgZUUEXTBx6lpLeMcBnMupSxlQOc_YEU4f-_FgHT-w3PgZwVZn0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2GkmNxDF8rvhdbEDDwPqmqSD8ZL55sXIQZuk4dQf-t3pOLyXOMKF1IK0hlcfthnLl7-1-eKdxOXD0k3jP0z-OLUzbJiv8OlN5J01xqblTd6c7Xlv6Z4iz5MeTLO93PlW0&amp;t=ac64ff3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=IfGYeQzgq1x-pZCFZaGdA5AYTRuteHsntuCfwqO-944Xibwa5X5-k74cWLGgq-PvTZdPhw-C_ZzvWfqlx85AoBAAZX50DMqKRvpbyKqg2kzOg7sOBmqyUTr-dZ4X8PRh0&amp;t=ac64ff3" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="VXn/QFX6LqearzI8Xyz8VOcrMSKW8TUuWNJpi28UQTbKtqBvlrjEtRvdy8dJF+cE+3Rgqhjvrh6Mt59zgHO6DFbs7xKnWPneIuuyyy6KTXFQUufgtQ/AgH0GJ/Yb26aVJeBw7vdPBIBAstHRYIIUtstWK9c67mZFIzvD+fi1LKdOi+sfQ+8lID1WRwWpBqHnNNQZ3XKid+CjfGIc+6OvUiHaEEW93810zthBLkovGGYqSDa/atJ2vQEU+t6VuW1hYOHuqf72zPmS5aHonaixU8hCymv9WBhNKgd0xKT15zeyPdhkG4bdoM6BKe9u0yDyiL0He2CPZRc7t/baKwGKqg==" />
+
+        
+        <div id="ucProcessing_UpdateProgress1" style="display:none;">
+	
+        <div class="AjaxProcessingContainer">
+            <div class="AjaxProcesingShadow">
+                <table class="AjaxProcesing">
+                    <tr><td class="AjaxProcesingImage"><br /><img src="https://gcreachrann.ie/Images/Site/Loading.gif" alt="Processing..." /><br /></td></tr>
+                    <tr><td class="AjaxProcesingText">Processing...<br /><br /></td></tr>
+                </table>
+            </div>
+        </div>
+    
+</div>
+
+        
+
+<div class="HeaderBar">
+
+    <div class="TopBar1">
+        <div class="Wrapper">
+            <div class="SiteLogo"><a href="/" title="Home"><div class="logo"><img src="/Images/Site/HeaderLogo.png" alt="Gaelcholáiste Reachrann" /></div></a></div>
+            <div class="SchoolName">Gaelcholáiste Reachrann</div>
+            <div class="TopBarLinks">
+                <div class="SearchBox">
+                    <input name="ctl00$ctlHeader$txtSearch" type="text" id="ctlHeader_txtSearch" class="text" Placeholder="Search" onkeydown="return forceClick(event, &#39;ctlHeader_lnkSearch&#39;);" />
+                    <a onclick="javascript:return noPostDefault(&#39;ctlHeader_txtSearch&#39;);" id="ctlHeader_lnkSearch" title="Search" class="fa fa-search" href="javascript:__doPostBack(&#39;ctl00$ctlHeader$lnkSearch&#39;,&#39;&#39;)"></a>
+                </div>
+                <div class="ExternalLink CallUs"><i class="fa fa-phone"></i>01 877 0935</div>
+                <div class="ExternalLink Email"><i class="fa fa-envelope"></i><a href="mailto:oifig@gcreachrann.ie">oifig@gcreachrann.ie</a></div>
+            </div>
+
+            <div class="ExternalLinks">
+                <div><a href="https://gcreachrann.vsware.ie" target="_blank" rel="nofollow"><img src="https://gcreachrann.ie/Images/Site/Buttons/VSWare.png" title="VSWare" height="30" /></a></div>
+                <div><a href="http://365.ddletb.ie" target="_blank" rel="nofollow"><img src="https://gcreachrann.ie/Images/Site/Buttons/Office.png" title="Office 365" height="30" /></a></div>
+                <div><a href="https://eps.enrol.ie/gcreachrann/index.aspx" target="_blank" rel="nofollow"><img src="https://gcreachrann.ie/Images/Site/Buttons/Payment.png" title="Make a Payment" height="30" /></a></div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="TopBar2">
+        <div class="Wrapper">
+            <div class="TopBarMenu MainNav">
+                <div class="resp-menu Hidden"><a class="MobileMenuButton" id="nav-open-btn" href="#nav">Menu<i class="fa fa-reorder"></i></a></div>
+                <div class="MobileNav"><a href="#mnuMainMenu_SkipLink">Skip Navigation Links</a><div class="MainMenu Hidden" id="mnuMainMenu">
+	<ul class="level1">
+		<li><a title="About Us" class="popout level1 main_menu">Fúinn</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /><ul class="level2 TopLevelMenu">
+			<li><a title="Principal&#39;s Welcome" class="level2 level_menu" href="https://gcreachrann.ie/page/Focal-on-bPriomhoide-Principals-Welcome/51208/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Focal ón bPríomhoide</a></li><li><a title="Mission Statement" class="level2 level_menu" href="https://gcreachrann.ie/page/Raiteas-Fise-Mission-Statement/43697/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Ráiteas Físe</a></li><li><a title="Policies" class="level2 level_menu" href="https://gcreachrann.ie/page/Polasaithe-Policies/43698/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Polasaithe</a></li><li><a title="Board of Management" class="level2 level_menu" href="https://gcreachrann.ie/page/Bord-Bainistiochta-Board-of-Management/44371/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bord Bainistíochta</a></li><li><a title="School Staff" class="level2 level_menu" href="https://gcreachrann.ie/page/Foireann-Staff/44242/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Foireann na Scoile</a></li><li><a title="Student Council" class="level2 level_menu" href="https://gcreachrann.ie/page/Comhairle-na-nDaltai-Student-Council/44500/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Comhairle na nDaltaí</a></li><li><a title="Parents&#39; Council" class="level2 level_menu" href="https://gcreachrann.ie/page/Coiste-na-dTuisti-Parents-Council/45016/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Coiste na dTuistí</a></li><li><a title="Droichead" class="level2 level_menu" href="https://gcreachrann.ie/page/Droichead/44113/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Droichead</a></li><li><a title="School Newsletter" class="level2 level_menu" href="https://gcreachrann.ie/page/Nuachtlitir-na-Scoile-School-Newsletter/46435/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Nuachtlitir na Scoile</a></li><li><a title="Gallery" class="level2 level_menu" href="https://gcreachrann.ie/page/Gailearai/43712/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Gailearaí</a></li><li><a title="Archive" class="level2 level_menu" href="https://gcreachrann.ie/page/Cartlann-Archive/51079/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Cartlann</a></li>
+		</ul></li><li><a title="Open Evening" class="level1 main_menu" href="https://gcreachrann.ie/page/Oiche-Oscailte/54562/Index.html" target="_self">Oíche Oscailte</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /></li><li><a title="Covid-19" class="popout level1 main_menu">Covid-19</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /><ul class="level2 TopLevelMenu">
+			<li><a title="Information - Students (Covid 19)" class="level2 level_menu" href="https://gcreachrann.ie/page/Eolas--Daltai-(Covid19)/52111/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Eolas - Daltaí (Covid 19)</a></li><li><a title="Information - Parents (Covid 19)" class="level2 level_menu" href="https://gcreachrann.ie/page/Eolas--Tuismitheoiri-(Covid-19)/52885/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Eolas - Tuismitheoirí (Covid 19)</a></li><li><a title="Information - Teachers (Covid 19)" class="level2 level_menu" href="https://gcreachrann.ie/page/Eolas--Muinteoiri-(Covid19)/57013/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Eolas - Múinteoirí (Covid 19)</a></li><li><a title="Maps" class="level2 level_menu" href="https://gcreachrann.ie/page/Learscaileanna/53014/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Léarscáileanna</a></li>
+		</ul></li><li><a title="Programmes" class="popout level1 main_menu">Clár an Choláiste</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /><ul class="level2 TopLevelMenu">
+			<li><a title="Junior Cycle" class="level2 level_menu" href="https://gcreachrann.ie/page/An-tSraith-Shoisearach-Junior-Cycle/43699/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> An tSraith Shóisearach</a></li><li><a title="Transition Year" class="level2 level_menu" href="https://gcreachrann.ie/page/An-Idirbhliain-Transition-Year/43700/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> An Idirbhliain</a></li><li><a title="Leaving Certificate" class="level2 level_menu" href="https://gcreachrann.ie/page/Ardteistimeireacht-Leaving-Certificate/43701/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Ardteistiméireacht</a></li><li><a title="Supervised Study" class="level2 level_menu" href="https://gcreachrann.ie/page/Staidear-Stiurtha-Supervised-Study/45919/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Staidéar Stiúrtha</a></li><li><a title="Homework Club" class="level2 level_menu" href="https://gcreachrann.ie/page/Club-Obair-Bhaile/45790/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Club Obair Bhaile</a></li><li><a title="Sports" class="level2 level_menu" href="https://gcreachrann.ie/page/Spoirt-Sports/43702/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Spóirt</a></li><li><a title="Music" class="level2 level_menu" href="https://gcreachrann.ie/page/Ceol-Music/44887/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Ceol</a></li><li><a title="Clubs" class="level2 level_menu" href="https://gcreachrann.ie/page/Clubanna-Clubs/44629/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Clubanna</a></li><li><a title="Tours" class="level2 level_menu" href="https://gcreachrann.ie/page/Turais-Tours/43703/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Turais</a></li>
+		</ul></li><li><a title="Groups" class="popout level1 main_menu">Grúpaí</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /><ul class="level2 TopLevelMenu">
+			<li><a title="1st Years 2021/22" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-1-202122/57400/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 1 2021/22</a></li><li><a title="1st Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-1/43715/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 1</a></li><li><a title="2nd Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-2/43716/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 2</a></li><li><a title="3rd Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-3/43717/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 3</a></li><li><a title="4th Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-4/43718/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 4</a></li><li><a title="5th Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-5/43719/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 5</a></li><li><a title="6th Year" class="level2 level_menu" href="https://gcreachrann.ie/page/Bliain-6/43720/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Bliain 6</a></li><li><a title="Timetables" class="level2 level_menu" href="https://gcreachrann.ie/page/Amchlair-Timetables/44758/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Amchláir</a></li><li><a title="Online Support" class="level2 level_menu" href="https://gcreachrann.ie/page/Tacaiocht-Ar-Line-Online-Support/48499/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Tacaíocht ar Líne</a></li><li><a title="Teachers ONLY" class="level2 level_menu" href="https://gcreachrann.ie/page/Muinteoiri-Teachers/53917/Index.html" target="_self"><i class=" fa fa-angle-right menu-icon"></i> Múinteoirí</a></li>
+		</ul></li><li><a title="Calendar" class="level1 main_menu" href="/Calendar" target="_self">Féilire</a><img src="https://gcreachrann.ie/Images/Site/MenuSeperator.png" alt="" class="horizontal-separator" /></li><li><a title="News" class="level1 main_menu" href="/Nuacht/Index.html" target="_self">Nuacht</a></li>
+	</ul>
+</div><a id="mnuMainMenu_SkipLink"></a>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("div.IsMobile ul.level1 a.popout").mouseover(function (e) {
+            e.stopPropagation();
+        })
+    })
+</script>
+
+
+</div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+    
+
+
+        <div id="updatePnlError">
+	
+                
+            
+</div>
+
+        
+    <div class="banner-slider">
+        <div class="banner-slider-inner">
+            <div class="slider">
+                <div class="callbacks_container">
+                    <ul class="rslides" id="slider4">
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen1.jpg" alt="" /></div></li>
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen2.jpg" alt="" /></div></li>
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen3.jpg" alt="" /></div></li>
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen4.jpg" alt="" /></div></li>
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen5.jpg" alt="" /></div></li>
+                        <li><div class="SliderHolder"><img src="https://gcreachrann.ie/Images/Site/MediaPanel/Screen6.jpg" alt="" /></div></li>
+                    </ul>
+                </div>
+                <div class="clear">
+                </div>
+            </div>                
+        </div>
+    </div>
+    <div class="WelcomeMsg">
+        <div class="Info Row2"><h2>Gaelcholáiste Reachrann</h2></div>
+    </div>
+    <!-- banner-slider -->
+
+    <div class="HomePageImage Hidden"></div>
+    <div class="HomePageCarousel"></div>
+
+    <div class="HP_Panel2">
+        <div id="BannerContent_pnlHomepageMedia" class="Wrapper">
+	
+            <div class="QuarterWidget HomeWidget">
+                <div class="WidgetHeader"><a href="https://gcreachrann.ie/COVID-19-Information/Index.html">Covid-19</a></div>
+            </div>
+            <div class="QuarterWidget HomeWidget">
+                <div class="WidgetHeader"><a href="https://gcreachrann.ie/Nuacht/Index.html">Nuacht</a></div>
+            </div>
+            <div class="QuarterWidget HomeWidget">
+                <div class="WidgetHeader"><a href="https://gcreachrann.ie/Oiche-Oscailte/Index.html">Oíche Oscailte</a></div>
+            </div>
+            <div class="QuarterWidget HomeWidget">
+                <div class="WidgetHeader"><a href="https://gcreachrann.ie/Calendar">Féilire</a></div>
+            </div>
+        
+</div>
+    </div>
+
+    <div class="HP_Panel1">
+        <div class="Wrapper">
+            <div class="FullWidget" style="margin-bottom:0 !important;">
+                <div class="PrincipalMessage">
+                    <div class="HeaderText">Fáilte go suíomh idirlín Gaelcholáiste Reachrann</div>
+                    <div class="Message">
+
+                    </div>
+                    <div class="PrincipalName"><span class="Title">Príomhoide:</span> Eimer Nic an Rí</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+        <div id="MainWrapper">
+            <div class="Wrapper">
+                <div id="ContentWrapper">
+                    
+
+                    <div id="pnlMainWidget" class="DefaultWidget">
+	
+                        
+
+
+                    
+</div>
+
+                    
+
+                </div>
+            </div>
+        </div>
+
+        
+
+<a name="ContactUs"></a>
+<div class="FooterBar Footer1">
+    <div class="Wrapper">
+        <div id="ctlFooter_updEnquiry">
+	
+                <div class="GetInTouch">
+                    <div class="Title">Teagmháil linn</div>
+                    <div class="Name"><input name="ctl00$ctlFooter$txtName" type="text" value="Ainm / Name" id="txtName" class="ContactInput" />
+                        </div>
+                    <div class="Email"><input name="ctl00$ctlFooter$txtEmail" type="text" value="R-phost / Email" id="txtEmail" class="ContactInput" />
+                        
+                        
+                    </div>
+                    <div class="PhoneNo"><input name="ctl00$ctlFooter$txtPhoneNo" type="text" value="Uimh. Guth. / Phone No." id="txtPhoneNo" class="ContactInput" />
+                        </div>
+                    <div class="Message"><textarea name="ctl00$ctlFooter$txtMessage" rows="4" cols="20" id="txtMessage" class="ContactInput">
+Teachtaireacht / Message</textarea>
+                        </div>
+                    <div class="Save"><input type="submit" name="ctl00$ctlFooter$cmdSubmit" value=" Seol " onclick="return validatePage(&#39;FooterContact&#39;);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctlFooter$cmdSubmit&quot;, &quot;&quot;, true, &quot;FooterContact&quot;, &quot;&quot;, false, false))" id="ctlFooter_cmdSubmit" title="Seol" class="btn btn-default btn-block" /></div>
+                </div>
+            
+</div>
+        <div class="ContactUs">
+            <div class="Title">Teagmháil / Contact</div>
+            <div class="Address"><i class="fa fa-map-marker"></i>Gaelcholáiste Reachrann,</div>
+            <div class="Address"><span>Bóthar Mhainistir na Gráinsí,</span></div>
+            <div class="Address"><span>Domhnach Míde,</span></div>
+            <div class="Address"><span>Baile Átha Cliath 13,</span></div>
+            <div class="Address"><span>Eire</span></div>
+            <hr />
+            <div class="Phone"><i class="fa fa-phone"></i>01 877 0935</div>
+            <hr />
+            <div class="Email"><i class="fa fa-envelope"></i><a href="mailto:oifig@gcreachrann.ie">oifig@gcreachrann.ie</a></div>
+            <hr />
+            <div class="TermsLinks">
+                <div class="Terms"><i class="fa fa-link"></i><a href="https://gcreachrann.ie/Page/Terms/43696/Index.html">Terms and Privacy</a></div>
+            </div>
+        </div>
+        <div class="Location">
+            <div class="Title">Suíomh / Location</div>
+            <div class="Map">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2378.86727954608!2d-6.156184!3d53.399314!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x29a09921cbda928!2sGaelchol%C3%A1iste+Reachrann!5e0!3m2!1sen!2sie!4v1529489519821" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="FooterBar Footer2">
+    <div class="Wrapper">
+        <div class="CopyrightInfo">© 2020 Gaelcholáiste Reachrann</div>
+        <div class="PoweredBy"><a href="http://www.iClassCMS.com" target="_blank">Powered by <img src="/Images/Site/iClassLogo.png" alt="iClassCMS.com" /></a></div>
+    </div>
+</div>
+
+<div class="cookie-policy-banner" id="policyBar">
+    <p>By using the Gaelcholáiste Reachrann website you agree to our use of cookies as described in our cookie policy.</p>
+    <section>
+        <span id="PolicyBanner_Ok" class="small-button confirm" onclick="setCookie('_acceptCookie18', true, 365); $('#policyBar').hide(); return false;" >I agree</span>
+        <a href="https://gcreachrann.ie/Page/Cookies/43695/Index.html?&Wide=1&Footer=1&Header=1" id="ctl00_PolicyBanner2_policyLink" class="arrow-link" onclick="window.open(this.href, 'popup', 'location=no, titlebar=no, width=980, height=600, status=1, scrollbars=yes, menubar=no, resizable=yes');return false;">Learn more</a> 
+    </section>   
+</div>
+
+
+        <input type="submit" name="ctl00$btnPageMessage" value="pg msg" id="btnPageMessage" class="Hidden" />
+        
+        <div id="pnlPageMessage" class="AjaxModalBox" style="display: none;">
+	
+            <div class="CloseAjaxModalBox"><input type="image" name="ctl00$cmdCancel9" id="cmdCancel9" src="https://gcreachrann.ie/Images/Site/Buttons/Close.gif" alt="close" /></div>
+            <br />
+            <div class="Container">
+                <div id="mstrUpdatePanel1">
+		
+                        <span id="lblPageMessage" class="PageMessage"></span>
+                    
+	</div>
+            </div>
+        
+</div>
+
+        <input type="submit" name="ctl00$cmdErrorSummary" value="Err" id="cmdErrorSummary" class="Hidden" />
+        
+        <div id="pnlErrorMsg" class="AjaxModalBox" style="display:none;">
+	
+            <div class="CloseAjaxModalBox"><input type="image" name="ctl00$cmdCancelES" id="cmdCancelES" src="https://gcreachrann.ie/Images/Site/Buttons/Close.gif" alt="close" /></div>
+            <div class="Container">
+                
+
+
+            </div>
+        
+</div>
+
+        <script type="text/javascript">
+            $(function () { $("#slider4").responsiveSlides({ auto: true, speed: 500, timeout: 5000, pager: true, nav: true, pause: false, Namespace:  "callbacks", }); });
+        </script>
+        
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    
+                });
+        
+ 	            function getViewPort() {
+                    var screenWidth, screenHeight;
+                    if (typeof window.innerWidth == 'number') {
+                        screenWidth = window.innerWidth;
+                        screenHeight = window.innerHeight;
+                    } else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+                        screenWidth = document.documentElement.clientWidth;
+                        screenHeight = document.documentElement.clientHeight;
+                    } else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+                        screenWidth = document.body.clientWidth;
+                        screenHeight = document.body.clientHeight;
+                    }
+                    return { width: screenWidth, height: screenHeight };
+                }
+
+                function adaptMenu() {
+                    var viewPort = getViewPort();
+                    if (viewPort.width <= 990) {
+                        $('.MainNav').each(function () {
+                            $('.resp-menu').removeClass('Hidden');
+                            $('.MobileNav').removeClass('NotMobile').addClass('IsMobile');
+                            });
+                    } 
+                else { $('.resp-menu').addClass('Hidden');$('.MobileNav').addClass('NotMobile').removeClass('IsMobile');}
+                }
+
+            </script>
+
+        
+
+    
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'mnuMainMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","cancelControlID":"cmdCancel9","dynamicServicePath":"/default.aspx","id":"popPageMessage","popupControlID":"pnlPageMessage"}, null, null, $get("btnPageMessage"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"backgroundCssClass":"modalBackground","cancelControlID":"cmdCancelES","dynamicServicePath":"/default.aspx","id":"popErrorSummary","popupControlID":"pnlErrorMsg"}, null, null, $get("cmdErrorSummary"));
+});
+//]]>
+</script>
+</form>
+    
+</body>
+
+</html>

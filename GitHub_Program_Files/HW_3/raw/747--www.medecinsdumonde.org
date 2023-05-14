@@ -1,0 +1,733 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en-US" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="NUKD4K6kbTI5EYqGtOU58v53ePTMtxVbID8ru0K115o" />
+  <!--[if IE]><![endif]-->
+<link rel="preconnect" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<link rel="preconnect" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="twitter:image" content="https://www.medecinsdumonde.org/sites/default/files/styles/meta_image/public/LOGO-MdM_FR_RVB_GRAND-MARGE.png?itok=4GILZeYy" />
+<meta property="og:image" content="https://www.medecinsdumonde.org/sites/default/files/styles/meta_image/public/LOGO-MdM_FR_RVB_GRAND-MARGE.png?itok=4GILZeYy" />
+<link rel="shortcut icon" href="https://www.medecinsdumonde.org/sites/all/themes/mdm2/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:title" content="Home" />
+<meta property="twitter:title" content="Home" />
+<meta property="twitter:site" content="@MdM_France" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta name="description" content="Médecins du Monde, association médicale militante de solidarité internationale, s&#039;engage depuis plus de 30 ans à soigner les populations les plus vulnérables ici et là-bas, à témoigner des entraves constatées quant à l’accès aux soins, à obtenir des améliorations durables des politiques de santé pour tous." />
+<meta name="abstract" content="Médecins du Monde, association médicale militante de solidarité internationale, s&#039;engage depuis plus de 30 ans à soigner les populations les plus vulnérables ici et là-bas, à témoigner des entraves constatées quant à l’accès aux soins, à obtenir des améliorations durables des politiques de santé pour tous. Association indépendante nous agissons au-delà du soin en dénonçant les atteintes à la dignité et aux droits humains et en nous battant pour améliorer la situation des populations précaires. En France, les actions de Médecins du Monde ont pour but de faciliter l’accès au système de santé pour les plus précaires (SDF, migrants, usagers de drogue, personnes se prostituant, etc.). A l’international, MdM travaille dans 40 pays sur tous les continents et sur 4 thématiques prioritaires (soins aux migrants et aux déplacés, promotion de la santé sexuelle et reproductive, lutte contre le VIH et réduction des risques liés à l’usage de drogue, crises et conflits)." />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.medecinsdumonde.org/en" />
+<link rel="shortlink" href="https://www.medecinsdumonde.org/en" />
+  <title>Médecins du Monde</title>
+  <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__hhA10sVkX-hNBCd806yPqs88QNyps0UJI1Akcb2ZiaQ__DG8NDNF6aJU6aJa5ZchyIBGm88a2QJgloUBFKp2Osjw__VDzIpazM9xQ7s3_9DzR2wzT3S1kC82zpmNSk8PEOQAQ.css" media="all" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/mdm2/css/ie.css?qi7902" media="all" />
+<![endif]-->
+    <script src="/sites/all/themes/mdm2/js/cookie.min.js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      var data = loadMdmData('mdm_cookies');
+      if (data) {
+        dataLayer.push(getMdmDataProperties(data));
+      }
+      else {
+        dataLayer.push({ });
+      }
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NMLPSZ');</script>
+    <!-- End Google Tag Manager -->
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/2.1/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__RoBnEOrslB7n2bBmfW-9B4DIcczx4uPxFUGkt4dLc3U__H9OJ-5J6I3qTtUc3ME7xRM24qsjZkEe5PejkFj_BNyI__VDzIpazM9xQ7s3_9DzR2wzT3S1kC82zpmNSk8PEOQAQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__hMcdIu0PeYJ_YMkWoWRVcdFIAv_qlTqsGk48Kg7I1mI__v4e4HS8T56yiKfhYwmn9CzcSJ7M3r73fbfxEDeW5QDY__VDzIpazM9xQ7s3_9DzR2wzT3S1kC82zpmNSk8PEOQAQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"en\/","path_to_images":"\/sites\/all\/themes\/mdm2\/image","ajaxPageState":{"theme":"mdm2","theme_token":"TMfrIzFByXfVBs7eJsYmBxwJzGWs2j2AqWxglsWyd-U","jquery_version":"2.1","css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/facebook_pull\/facebook_pull.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow_controls_text.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/default\/files\/honeypot\/honeypot.css":1,"sites\/all\/themes\/mdm2\/font\/fontello\/css\/ico_mdm.css":1,"sites\/all\/themes\/mdm2\/css\/style-blessed1.css":1,"sites\/all\/themes\/mdm2\/css\/print.css":1,"sites\/all\/themes\/mdm2\/css\/style.css":1,"sites\/all\/themes\/mdm2\/css\/ie.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"https:\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.1.4\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form\/3\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"misc\/states.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/views_load_more\/views_load_more.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/custom\/ft_common\/js\/ft_common.layer-dons.js":1,"sites\/all\/modules\/custom\/mdm_newsletter\/js\/mdm-newsletter.js":1,"sites\/all\/modules\/custom\/mdm_petition\/js\/mdm-petition.js":1,"sites\/all\/modules\/custom\/new_splashify\/js\/splashify.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.gofurther.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.gofurther.counter.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.all.reading.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.all.social.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.all.slideshows.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.emailAlert.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.splashify.js":1,"sites\/all\/modules\/custom\/mdm_cookie\/js\/mdm_cookie.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mdm2\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mdm2\/js\/sprite.min.js":1,"sites\/all\/themes\/mdm2\/js\/jquery.visible.min.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.blockquote.js":1,"sites\/all\/themes\/mdm2\/js\/mdm2.gtm.js":1,"sites\/all\/themes\/mdm2\/js\/minimalect\/jquery.minimalect.min.js":1,"sites\/all\/themes\/mdm2\/js\/jquery.sticky.js":1,"sites\/all\/themes\/mdm2\/js\/jquery.truncate.min.js":1,"sites\/all\/themes\/mdm2\/js\/hammer.js":1,"sites\/all\/themes\/mdm2\/js\/scripts.js":1,"sites\/all\/themes\/mdm2\/js\/movie.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/states.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":false,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":false,"mobiledetect":true,"mobiledevicewidth":"480px"},"field_group":{"div":"home_slider_mini"},"views":{"ajax_path":"\/en\/views\/ajax","ajaxViews":{"views_dom_id:0922d307729671f073e1c772728ecb3f":{"view_name":"homepage_a_la_une","view_display_id":"block_1","view_args":"","view_path":"home","view_base_path":null,"view_dom_id":"0922d307729671f073e1c772728ecb3f","pager_element":0},"views_dom_id:f022081561be2504065cd85a394e1622":{"view_name":"homepage_slider_big","view_display_id":"block_home_slider_small_en","view_args":"","view_path":"home","view_base_path":null,"view_dom_id":"f022081561be2504065cd85a394e1622","pager_element":0},"views_dom_id:2dc5e45f2d99177279d0858db23c3591":{"view_name":"homepage_slider_big","view_display_id":"block_home_slider_en","view_args":"","view_path":"home","view_base_path":null,"view_dom_id":"2dc5e45f2d99177279d0858db23c3591","pager_element":0}}},"urlIsAjaxTrusted":{"\/en\/views\/ajax":true,"\/en":true},"viewsSlideshow":{"homepage_slider_big-block_home_slider_en":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"homepage_slider_big-block_home_slider_small_en":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"homepage_slider_big-block_home_slider_en":{"bottom":{"type":"0"}}},"viewsSlideshowControls":{"homepage_slider_big-block_home_slider_en":{"bottom":{"type":"viewsSlideshowControlsText"}},"homepage_slider_big-block_home_slider_small_en":{"bottom":{"type":"viewsSlideshowControlsText"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_homepage_slider_big-block_home_slider_en":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"homepage_slider_big-block_home_slider_en","effect":"scrollHorz","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"},"#views_slideshow_cycle_main_homepage_slider_big-block_home_slider_small_en":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"homepage_slider_big-block_home_slider_small_en","effect":"scrollRight","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"new_splashify":{"content_url":"https:\/\/prehome.medecinsdumonde.org\/prehome2020octobre\/"},"mdm_cookie_silent":true,"states":{"#edit-all":{"unchecked":[{":input[name=\u0022type[CookieMarketing]\u0022]":{"checked":true}},{":input[name=\u0022type[CookiePublicite]\u0022]":{"checked":true}},{":input[name=\u0022type[CookieTiers]\u0022]":{"checked":true}},{":input[name=\u0022type[CookieStats]\u0022]":{"checked":true}}]}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-home i18n-en-US" >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMLPSZ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top">
+    <form id="wrapper-popin-cookie" style="display:none" action="/en" method="post" accept-charset="UTF-8"><div><div class="overflow form-wrapper form-group" id="edit-overflow"></div><div class="content-popin-cookie form-wrapper form-group" id="edit-content"><a href="/en" class="close" id="edit-close">X</a><h3>Le respect de votre vie privée est notre priorité</h3>
+<p>Nous utilisons différentes technologies, telles 
+        que les cookies, pour analyser le trafic et personnaliser nos contenus 
+        d'information ou d'appel à la générosité sur Internet. Merci de cliquer 
+        sur le bouton ci-dessous pour donner votre accord.</p>
+<a href="/en/legal-notices">Vous pouvez changer votre choix à tout moment.</a><div class="button form-wrapper form-group" id="edit-buttons"><div class="accept"><a href="/en" class="accept btn" id="edit-accept">J&#039;accepte</a></div><div class="lighter"><a href="/en" class="preference" id="edit-param">Je gère mes préférences</a></div><div class="lighter"><a href="/en" class="refuse" id="edit-refuse">Je refuse</a></div></div></div><div class="content-popin-cookie-pref hidden form-wrapper form-group" id="edit-content-pref"><a href="/en" class="close" id="edit-close--2">X</a><h3>Gestion de vos préférences</h3>
+<div class="form-item form-item-all form-type-checkbox checkbox"> <label class="control-label" for="edit-all"><input type="checkbox" id="edit-all" name="all" value="1" class="form-checkbox" />J'accepte tout</label>
+</div><div id="edit-type" class="form-checkboxes"><div class="form-item form-item-type-cookiemarketing form-type-checkbox checkbox"> <label class="control-label" for="edit-type-cookiemarketing"><input type="checkbox" id="edit-type-cookiemarketing" name="type[CookieMarketing]" value="CookieMarketing" class="form-checkbox" />Cookies liés aux préférences, aux centres d’intérêt</label>
+</div><div class="form-item form-item-type-cookiepublicite form-type-checkbox checkbox"> <label class="control-label" for="edit-type-cookiepublicite"><input type="checkbox" id="edit-type-cookiepublicite" name="type[CookiePublicite]" value="CookiePublicite" class="form-checkbox" />Cookies publicitaires</label>
+</div><div class="form-item form-item-type-cookietiers form-type-checkbox checkbox"> <label class="control-label" for="edit-type-cookietiers"><input type="checkbox" id="edit-type-cookietiers" name="type[CookieTiers]" value="CookieTiers" class="form-checkbox" />Cookies d’applications tierces</label>
+</div><div class="form-item form-item-type-cookiestats form-type-checkbox checkbox"> <label class="control-label" for="edit-type-cookiestats"><input type="checkbox" id="edit-type-cookiestats" name="type[CookieStats]" value="CookieStats" class="form-checkbox" />Statistiques de visites</label>
+</div></div><div class="button form-wrapper form-group" id="edit-buttons--2"><a href="/en" class="accept btn" id="edit-accept--2">J&#039;accepte</a><a href="/en" class="back btn" id="edit-back">Retour</a></div></div><input type="hidden" name="form_build_id" value="form-HzhwM1_COgvcSXtEmn-5zhDbR9LrMBoh2tZR9DoJKiU" />
+<input type="hidden" name="form_id" value="mdm_cookie_popin_form" />
+<input type="hidden" name="honeypot_time" value="1602700859|17eY2nwtVfDSBunkPFPglrJVS_bgbaEiQRY4PcoWAlI" />
+<div class="url-textfield"><div class="form-item form-item-url form-type-textfield form-group"> <label class="control-label" for="edit-url">Leave this field blank</label>
+<input autocomplete="off" class="form-control form-text" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" /></div></div></div></form>  </div>
+  
+  <div class="alert-home">
+  <a href="https://tousinegaux.medecinsdumonde.org/" target="_blank">Aidez-nous à défendre l'accès aux soins des plus vulnérables</a>
+</div>
+
+<div class="alerte">
+  </div>
+
+    <header class="head">
+        <div class="container">
+            <div class="row desktop">
+                <div class="part1">
+                    <a class="logo" href="/en" title="Home">
+                        <img src="https://www.medecinsdumonde.org/sites/all/themes/mdm2/logo.png" alt="MDM France : association humanitaire de solidarité internationale accompagnant le changement social" />
+                    </a>
+                </div>
+                <div class="part2">
+
+                    <div class="menu">
+                        <ul class="nav navbar-nav">
+                            <li class="first expanded menu-lvl0 "><span>Discover<span>MDM</span></span><dl><ul><li class="first leaf "><a href="/en/about-us">Our campaigns</a></li><li class="leaf "><a href="/en/our-history">Our history</a></li><li class="leaf "><a href="/en/about-us#our-organisation-">Our organisation</a></li><li class="last leaf "><a href="/en/come-meet-us">Meet us</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our<span>beneficiaries</span></span><dl><ul><li class="first leaf "><a href="/en/populations/deprived-healthcare">Healthcare outcasts</a></li><li class="leaf "><a href="/en/populations/victims-crises-and-conflicts">Victims of crises</a></li><li class="leaf "><a href="/en/populations/women-and-children">Women and children</a></li><li class="leaf "><a href="/en/populations/migrants-and-displaced-persons">Migrants and displaced persons</a></li><li class="leaf "><a href="/en/populations/risk-populations">At risk populations</a></li><li class="leaf "><a href="/en/for-them/women-and-children/operation-sourire">Operation Sourire</a></li><li class="last leaf "><a href="/en/for-them/women-and-children/buddy-programme-for-hospitalised-children">Buddy program</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our<span>countries</span></span><dl><ul><li class="first leaf "><a href="/en/countries/europe/france">France</a></li><li class="leaf "><a href="/en/countries/middle-east">Middle East</a></li><li class="leaf "><a href="/en/countries/europe">Europe</a></li><li class="leaf "><a href="/en/countries/americas">Americas</a></li><li class="leaf "><a href="/en/countries/asia">Asia</a></li><li class="last leaf "><a href="/en/countries/africa">Africa</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Get<span>involved</span></span><dl><ul><li class="first leaf "><a href="/en/get-involved">Why supporting MDM ?</a></li><li class="leaf "><a href="/en/get-involved#titre-persons">Testimonials</a></li><li class="leaf "><a href="/en/get-involved#bloc-content-11">Private individual</a></li><li class="leaf "><a href="/en/get-involved#bloc-content-12">Companies and foundations</a></li><li class="last leaf "><a href="/en/get-involved#bloc-content-12">Institutions</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our<span>news</span></span><dl><ul><li class="first leaf "><a href="/en/news">Headline</a></li><li class="leaf "><a href="/en/news/articles">Articles</a></li><li class="leaf "><a href="/en/news/publications">Publications</a></li><li class="leaf "><a href="/en/actualites/portrait">Portraits</a></li><li class="last leaf "><a href="/en/news/press-releases">Press releases</a></li></ul></dl></li><li class="last expanded menu-lvl0 small"><span>Join<span>us </span></span><dl><ul><li class="first leaf "><a href="/en/join-us">Recruitment</a></li><li class="leaf "><a href="/en/recrutement/volunteer">Become a volunteer</a></li><li class="leaf "><a href="/en/recrutement/work-france">Work in France</a></li><li class="leaf "><a href="/en/recrutement/work-abroad">Work abroad</a></li><li class="last leaf "><a href="/en/recrutement/look-internship">Internship</a></li></ul></dl></li>                        </ul>
+                    </div>
+                    <div class="cta">
+                        <div class="tools">
+                            <a href="https://donateur.medecinsdumonde.org" class=""><span>Donator account</span></a>                        </div>
+                        <div class="donate">
+                            <a href="https://dons.medecinsdumonde.org/b/my-donation?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMsYcAmLtp8pY8ZBKftOtYbCNtRAlPtmj6tMFTPu3b04Qb%2Bs6xf1e%2F6ejM7hNoNQCBybms1NW5R%2F8jtZf0thni5&amp;cid=62&amp;_cv=1">Donate</a><div class="choice">
+    <span>I make a donation</span>
+    <div class="grp">
+        <a href="#" class="btn" data-value="90">90<sup>€</sup></a>
+        <a href="#" class="btn" data-value="150">150<sup>€</sup></a>
+        <a href="#" class="btn" data-value="200">200<sup>€</sup></a>
+    </div>
+    <input type="text" name="montant" value="Amount of my choice">
+    <span class="error">The amount must be at least 5€</span>
+    <p class="hide">
+      Let's say a donation of <span class="calc">xx</span><sup>€</sup><br/>After tax reduction.    </p>
+    <a href="#" data-don="" class="btn disabled">Donate</a>
+    <a href="#" class="close-layer">&shy;</a>
+</div>
+                        </div>
+                          <div class="region region-search">
+    
+
+    <form class="form-search content-search" action="/en" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-jcRy11CTXZs_HFKAOdBFvQ9Fh2gLZxnsf0XmJ8d1mnI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+  </div>
+                    </div>
+                      <div class="region region-navigation">
+    
+
+    <section id="block-ft-common-language-switcher" class="block block-ft-common clearfix">
+
+                        
+        <ul class="language-switcher-locale-url">
+            <li class="fr">
+            <a href="/fr" class="language-link active" xml:lang="fr" title=""><span>fr</span><em>Français</em></a>
+        </li>
+            <li class="en-US active">
+            <a href="/en" class="language-link active" xml:lang="en-US" title=""><span>en</span><em>English</em></a>
+        </li>
+    </ul>
+    </section>
+
+  </div>
+                </div>
+            </div>
+            <div class="row mobil">
+                <div class="col-xs-3">
+                    <a class="logo" href="/en" title="Home">
+                        <img src="https://www.medecinsdumonde.org/sites/all/themes/mdm2/logo.png" alt="MDM France : association humanitaire de solidarité internationale accompagnant le changement social" class="img-responsive" />
+                    </a>
+                </div>
+                <div class="donate col-xs-6 text-center">
+                    <a href="https://dons.medecinsdumonde.org/b/my-donation?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMsYcAmLtp8pY8ZBKftOtYbCNtRAlPtmj6tMFTPu3b04Qb%2Bs6xf1e%2F6ejM7hNoNQCBybms1NW5R%2F8jtZf0thni5&amp;cid=62&amp;_cv=1">Donate</a><div class="choice">
+    <span>I make a donation</span>
+    <div class="grp">
+        <a href="#" class="btn" data-value="90">90<sup>€</sup></a>
+        <a href="#" class="btn" data-value="150">150<sup>€</sup></a>
+        <a href="#" class="btn" data-value="200">200<sup>€</sup></a>
+    </div>
+    <input type="text" name="montant" value="Amount of my choice">
+    <span class="error">The amount must be at least 5€</span>
+    <p class="hide">
+      Let's say a donation of <span class="calc">xx</span><sup>€</sup><br/>After tax reduction.    </p>
+    <a href="#" data-don="" class="btn disabled">Donate</a>
+    <a href="#" class="close-layer">&shy;</a>
+</div>
+                </div>
+                <div class="col-xs-3 text-right">
+                    <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                    <button type="button" class="navbar-toggle"  data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="navbar-collapse">
+            <nav role="navigation">
+                <div class="tools">
+                    <a href="https://donateur.medecinsdumonde.org" class="">Donator account</a>                </div>
+
+                <ul class="menu nav navbar-nav">
+                    <li class="first expanded menu-lvl0 "><span>Discover MDM</span><dl><ul><li class="first leaf "><a href="/en/about-us">Our campaigns</a></li><li class="leaf "><a href="/en/our-history">Our history</a></li><li class="leaf "><a href="/en/about-us#our-organisation-">Our organisation</a></li><li class="last leaf "><a href="/en/come-meet-us">Meet us</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our beneficiaries</span><dl><ul><li class="first leaf "><a href="/en/populations/deprived-healthcare">Healthcare outcasts</a></li><li class="leaf "><a href="/en/populations/victims-crises-and-conflicts">Victims of crises</a></li><li class="leaf "><a href="/en/populations/women-and-children">Women and children</a></li><li class="leaf "><a href="/en/populations/migrants-and-displaced-persons">Migrants and displaced persons</a></li><li class="leaf "><a href="/en/populations/risk-populations">At risk populations</a></li><li class="leaf "><a href="/en/for-them/women-and-children/operation-sourire">Operation Sourire</a></li><li class="last leaf "><a href="/en/for-them/women-and-children/buddy-programme-for-hospitalised-children">Buddy program</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our countries</span><dl><ul><li class="first leaf "><a href="/en/countries/europe/france">France</a></li><li class="leaf "><a href="/en/countries/middle-east">Middle East</a></li><li class="leaf "><a href="/en/countries/europe">Europe</a></li><li class="leaf "><a href="/en/countries/americas">Americas</a></li><li class="leaf "><a href="/en/countries/asia">Asia</a></li><li class="last leaf "><a href="/en/countries/africa">Africa</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Get involved</span><dl><ul><li class="first leaf "><a href="/en/get-involved">Why supporting MDM ?</a></li><li class="leaf "><a href="/en/get-involved#titre-persons">Testimonials</a></li><li class="leaf "><a href="/en/get-involved#bloc-content-11">Private individual</a></li><li class="leaf "><a href="/en/get-involved#bloc-content-12">Companies and foundations</a></li><li class="last leaf "><a href="/en/get-involved#bloc-content-12">Institutions</a></li></ul></dl></li><li class="expanded menu-lvl0 "><span>Our news</span><dl><ul><li class="first leaf "><a href="/en/news">Headline</a></li><li class="leaf "><a href="/en/news/articles">Articles</a></li><li class="leaf "><a href="/en/news/publications">Publications</a></li><li class="leaf "><a href="/en/actualites/portrait">Portraits</a></li><li class="last leaf "><a href="/en/news/press-releases">Press releases</a></li></ul></dl></li><li class="last expanded menu-lvl0 small"><span>Join us </span><dl><ul><li class="first leaf "><a href="/en/join-us">Recruitment</a></li><li class="leaf "><a href="/en/recrutement/volunteer">Become a volunteer</a></li><li class="leaf "><a href="/en/recrutement/work-france">Work in France</a></li><li class="leaf "><a href="/en/recrutement/work-abroad">Work abroad</a></li><li class="last leaf "><a href="/en/recrutement/look-internship">Internship</a></li></ul></dl></li>                </ul>
+
+                  <div class="region region-search">
+    
+
+    <form class="form-search content-search" action="/en" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+  <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-jcRy11CTXZs_HFKAOdBFvQ9Fh2gLZxnsf0XmJ8d1mnI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+  </div>
+                  <div class="region region-navigation">
+    
+
+    <section id="block-ft-common-language-switcher" class="block block-ft-common clearfix">
+
+                        
+        <ul class="language-switcher-locale-url">
+            <li class="fr">
+            <a href="/fr" class="language-link active" xml:lang="fr" title=""><span>fr</span><em>Français</em></a>
+        </li>
+            <li class="en-US active">
+            <a href="/en" class="language-link active" xml:lang="en-US" title=""><span>en</span><em>English</em></a>
+        </li>
+    </ul>
+    </section>
+
+  </div>
+            </nav>
+        </div>
+    </header>
+<div class="main-container container ">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                                                          <div class="breadcrumb-container">
+          <div class="breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList"><span class="inline odd first" property="itemListElement" typeof="ListItem"><a href="/en" class="active" property="item"  typeof="WebPage"><span property="name">Home</span></a><meta property="position" content="1"></span><span class="delimiter">&gt;</span><span class="inline even last" property="itemListElement" typeof="ListItem"><strong property="name">Home</strong><meta property="position" content="2"></span></div>        </div>
+                    <div class="slider">  <div class="region region-slider">
+    
+
+    <section id="block-views-95025311d3841402af244b21003334b8" class="block block-views clearfix">
+
+                            <h2 class="block-title">Home page slider EN</h2>
+                
+        <div class="view view-homepage-slider-big view-id-homepage_slider_big view-display-id-block_home_slider_en view-dom-id-2dc5e45f2d99177279d0858db23c3591">
+        
+  
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_homepage_slider_big-block_home_slider_en" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_homepage_slider_big-block_home_slider_en" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_en_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+  <div  about="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider clearfix">
+
+  
+  <div class="group-slider-div field-group-div"><div class="field"><a href="/en/en/taxonomy/term/1296">Nos combats</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86086"><div class="field-item even" property="dc:title"><h2><a href="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe">Ensuring Access to Safe Abortion across Europe</a></h2></div></div></div><div class="group-read-more field"><span class="field field-name-node-link field-type-ds field-label-hidden" ><a href="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe" class="">See also</a></span></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_big_768x1024/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=wIanaMWN&amp;timestamp=1600847952 1x" media="screen and (max-width: 767px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tablette_1x/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=VOXLQZar&amp;timestamp=1600847952 1x" media="screen and (min-width: 768px) and (max-width: 992px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=Qvv_jMmB&amp;timestamp=1600847952 1x" media="screen and (min-width: 993px) and (max-width: 1900px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=Qvv_jMmB&amp;timestamp=1600847952 1x" media="only screen and (min-width: 1900px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://www.medecinsdumonde.org/sites/default/files/styles/full_desktop/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=cGmB-oQw&amp;timestamp=1600847952" alt="© Elisabeth Rull" title="" />
+</picture></a></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_en_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+  <div  about="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider clearfix">
+
+  
+  <div class="group-slider-div field-group-div"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86046"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza">Covid-19: a potential disaster in Gaza</a></h2></div></div></div><div class="group-read-more field"><span class="field field-name-node-link field-type-ds field-label-hidden" ><a href="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza" class="">See also</a></span></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_big_768x1024/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=SHIxPm3I&amp;timestamp=1598969591 1x" media="screen and (max-width: 767px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tablette_1x/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=CbDYlYhR&amp;timestamp=1598969591 1x" media="screen and (min-width: 768px) and (max-width: 992px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=jkN1idoK&amp;timestamp=1598969591 1x" media="screen and (min-width: 993px) and (max-width: 1900px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=jkN1idoK&amp;timestamp=1598969591 1x" media="only screen and (min-width: 1900px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://www.medecinsdumonde.org/sites/default/files/styles/full_desktop/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=vG01jt_Z&amp;timestamp=1598969591" alt="© Olivier Papegnies" title="" />
+</picture></a></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_en_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+  <div  about="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider clearfix">
+
+  
+  <div class="group-slider-div field-group-div"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86000"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council">Stop the war in Yemen : our intervention at the UN Security Council</a></h2></div></div></div><div class="group-read-more field"><span class="field field-name-node-link field-type-ds field-label-hidden" ><a href="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council" class="">See also</a></span></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_big_768x1024/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=TL2PboYK&amp;timestamp=1585212161 1x" media="screen and (max-width: 767px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tablette_1x/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=MR28DzPo&amp;timestamp=1585212161 1x" media="screen and (min-width: 768px) and (max-width: 992px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=De1UFSFB&amp;timestamp=1585212161 1x" media="screen and (min-width: 993px) and (max-width: 1900px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=De1UFSFB&amp;timestamp=1585212161 1x" media="only screen and (min-width: 1900px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://www.medecinsdumonde.org/sites/default/files/styles/full_desktop/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=4ZYRBpEU&amp;timestamp=1585212161" alt="SANAA, YEMEN - Trois enfants devant les immeubles détruits du centre ville. La guerre au Yémen a causé la mort de milliers de civils et le déplacement interne de plus de 3 millions de personnes. @Reuters " title="" />
+</picture></a></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_en_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even views-row-last">
+  <div  about="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider clearfix">
+
+  
+  <div class="group-slider-div field-group-div"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="85551"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water">Over 5 million yemenis at risk of losing access to food and clean water</a></h2></div></div></div><div class="group-read-more field"><span class="field field-name-node-link field-type-ds field-label-hidden" ><a href="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water" class="">See also</a></span></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_big_768x1024/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=WX9Tb83j&amp;timestamp=1591103817 1x" media="screen and (max-width: 767px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tablette_1x/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=zZo3kIeX&amp;timestamp=1591103817 1x" media="screen and (min-width: 768px) and (max-width: 992px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=S-9Rb2or&amp;timestamp=1591103817 1x" media="screen and (min-width: 993px) and (max-width: 1900px)" />
+<source srcset="https://www.medecinsdumonde.org/sites/default/files/styles/slider_picture_breakpoints_theme_mdm_tv_1x/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=S-9Rb2or&amp;timestamp=1591103817 1x" media="only screen and (min-width: 1900px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://www.medecinsdumonde.org/sites/default/files/styles/full_desktop/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=SvHfQADd&amp;timestamp=1591103817" alt="© Reuters" title="" />
+</picture></a></div></div></div></div>
+
+</div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="views_slideshow_controls_text_homepage_slider_big-block_home_slider_en" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_homepage_slider_big-block_home_slider_en" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Previous</a></span>
+  <span id="views_slideshow_controls_text_pause_homepage_slider_big-block_home_slider_en" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_homepage_slider_big-block_home_slider_en" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Next</a></span>
+</div>
+      </div>
+      </div>
+    </div>
+          
+  
+  
+      <div class="view-footer">
+      <div class="view view-homepage-slider-big view-id-homepage_slider_big view-display-id-block_home_slider_small_en view-dom-id-f022081561be2504065cd85a394e1622">
+        
+  
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_homepage_slider_big-block_home_slider_small_en" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_small_en_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+  <div  about="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider_mini clearfix">
+
+  
+  <div class="col-md-6 hidden-xs field field-name-field-slider-image field-type-image field-label-hidden" ><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/slider_mini/public/CASOlyon-2010_ElisabethRull_BD.jpg?itok=OL0bj0Hd" width="117" height="84" alt="© Elisabeth Rull" /></div><div class="hidden-xs col-md-6 group-txt-slider-mini field-group-html-element"><div class="field"><a href="/en/en/taxonomy/term/1296">Nos combats</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86086--2"><div class="field-item even" property="dc:title"><h2><a href="/en/news/nos-combats/2020/09/22/ensuring-access-safe-abortion-across-europe">Ensuring Access to Safe Abortion across Europe</a></h2></div></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_small_en_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-1 views-row-even">
+  <div  about="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider_mini clearfix">
+
+  
+  <div class="col-md-6 hidden-xs field field-name-field-slider-image field-type-image field-label-hidden" ><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/slider_mini/public/20191108_Human-Rights-Watch_%C2%A9OlivierPapegnies_1.jpg?itok=dTtMTy1M" width="117" height="84" alt="© Olivier Papegnies" /></div><div class="hidden-xs col-md-6 group-txt-slider-mini field-group-html-element"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86046--2"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/09/01/covid-19-potential-disaster-gaza">Covid-19: a potential disaster in Gaza</a></h2></div></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_small_en_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-2 views-row-odd">
+  <div  about="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider_mini clearfix">
+
+  
+  <div class="col-md-6 hidden-xs field field-name-field-slider-image field-type-image field-label-hidden" ><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/slider_mini/public/2020-02-14T000000Z_895927353_MT1LTANA0007D9FP6_RTRMADP_3_ASIA_0.jpg?itok=e1rDyqn4" width="117" height="84" alt="SANAA, YEMEN - Trois enfants devant les immeubles détruits du centre ville. La guerre au Yémen a causé la mort de milliers de civils et le déplacement interne de plus de 3 millions de personnes. @Reuters " /></div><div class="hidden-xs col-md-6 group-txt-slider-mini field-group-html-element"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="86000--2"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/07/29/stop-war-yemen-our-intervention-un-security-council">Stop the war in Yemen : our intervention at the UN Security Council</a></h2></div></div></div></div></div>
+
+</div>
+</div>
+<div id="views_slideshow_cycle_div_homepage_slider_big-block_home_slider_small_en_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-3 views-row-even views-row-last">
+  <div  about="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-home_slider_mini clearfix">
+
+  
+  <div class="col-md-6 hidden-xs field field-name-field-slider-image field-type-image field-label-hidden" ><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/slider_mini/public/2020-06-02_StatementdonorscovidYemen_Reuters_0.jpg?itok=fGaXMZyb" width="117" height="84" alt="© Reuters" /></div><div class="hidden-xs col-md-6 group-txt-slider-mini field-group-html-element"><div class="field"><a href="/en/en/taxonomy/term/1356">Middle-East</a></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="85551--2"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/06/02/over-5-million-yemenis-risk-losing-access-food-and-clean-water">Over 5 million yemenis at risk of losing access to food and clean water</a></h2></div></div></div></div></div>
+
+</div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="views_slideshow_controls_text_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous"><a href="#">Previous</a></span>
+  <span id="views_slideshow_controls_text_pause_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-controls-text-next views_slideshow_controls_text_next"><a href="#">Next</a></span>
+</div>
+<div id="views_slideshow_slide_counter_homepage_slider_big-block_home_slider_small_en" class="views-slideshow-slide-counter views_slideshow_slide_counter">
+  <span class="num">1</span> of <span class="total">4</span>
+</div>
+      </div>
+      </div>
+    </div>
+          
+  
+  
+  
+  
+</div>    </div>
+  
+  
+</div>
+    </section>
+
+  </div>
+</div>
+            <a id="main-content"></a>
+                    <h1 class="page-header">Home                  </h1>
+                    <div class="region region-content">
+    
+
+    <section id="block-system-main" class="block block-system clearfix">
+
+                        
+        <div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-ft-homepage-agir-donner-en"  >
+  
+      
+  
+  <div class="pane-content">
+    <section class="section homepage-agirdonner">
+    <div class="bkg" style="background-image:url('https://www.medecinsdumonde.org/sites/default/files/pictures/bandeau_agir_26donner.jpg');">
+        <div class="gradient">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-6 mask">
+                        <h2>Support us</h2>
+                        <div class="citation">
+                            <span class="icon-citation-l"></span>In the face of the coronavirus epidemic, our teams need your support to protect the most vulnerable in France and in 38 countries.<span class="icon-citation-r"></span>
+                        </div>
+                        <div class="author">
+                            Dr Philippe de Botton                            <span>President of Médecins du Monde</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cta">
+        <div class="container">
+            <div class="row">
+                <h3>Vous êtes</h3>
+                <div class="link">
+                                        <a href="/en/get-involved#bloc-content-11" class="icon-toolbar_readspeacker_play">Individual</a>
+                    <a href="/en/get-involved#bloc-content-12" class="icon-toolbar_readspeacker_play">Institutionnal</a>
+                    <a href="/en/get-involved#bloc-content-12" class="icon-toolbar_readspeacker_play">Company or foundation</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-homepage-a-la-une pane-homepage-a-la-une"  >
+  
+        <h2 class="pane-title">
+      top stories    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-homepage-a-la-une view-id-homepage_a_la_une view-display-id-block_1 view-dom-id-0922d307729671f073e1c772728ecb3f">
+        
+  
+            <ul class="pager"><li class="pager-previous start">&nbsp;</li>
+<li class="pager-current"><span>01</span> / 04</li>
+<li class="pager-next"><a href="/en/home?page=1">suivant ›</a></li>
+</ul>      <!-- This needs for displaying correct design when we have stores less then 6. I know this is no perfect, but quick and works. -->
+        
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/en/news/moyen-orient/2020/05/19/covid-19-medecins-du-monde-chapters-operating-occupied-palestinian-territory" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-view_item_even clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-field-cathegory field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/moyen-orient-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Moyen-Orient</a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="81978"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/05/19/covid-19-medecins-du-monde-chapters-operating-occupied-palestinian-territory">Covid-19: Médecins du Monde Chapters operating in the occupied Palestinian territory</a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/05/19/covid-19-medecins-du-monde-chapters-operating-occupied-palestinian-territory" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/05/19/covid-19-medecins-du-monde-chapters-operating-occupied-palestinian-territory"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_big/public/Slider-Palestine.jpg?itok=RK2f263S" width="295" height="308" alt="© MdM" /></a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  about="/en/actualites/tribunes/2020/03/06/listen-silent-voices" typeof="sioc:Item foaf:Document" class="ds-1col node node-tribunes view-mode-views_item clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Tribune</div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="62164"><div class="field-item even" property="dc:title"><h2><a href="/en/actualites/tribunes/2020/03/06/listen-silent-voices">Listen to the silent voices ...</a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/tribunes/2020/03/06/listen-silent-voices" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/tribunes/2020/03/06/listen-silent-voices"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_mini/public/Entendre-la-voix-des-sans-voix---%C2%A9Reuters_0.jpg?itok=yYB5V8QJ" width="148" height="146" /></a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  about="/en/news/europe/2020/03/06/where-humanity" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-view_item_even clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-field-cathegory field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/europe-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Europe</a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="62160"><div class="field-item even" property="dc:title"><h2><a href="/en/news/europe/2020/03/06/where-humanity">Where is humanity ?</a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/europe/2020/03/06/where-humanity" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/europe/2020/03/06/where-humanity"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_big/public/tensions-frontieres-grece-turquie-%C2%A9Reuters.jpg?itok=zdVz_9_Z" width="295" height="308" /></a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div  about="/en/news/moyen-orient/2020/02/17/aid-organisations-yemen-are-extremely-concerned-about-high-numbers-civilian-casualties-recent" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-views_item clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-field-cathegory field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/moyen-orient-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Moyen-Orient</a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="57992"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/02/17/aid-organisations-yemen-are-extremely-concerned-about-high-numbers-civilian-casualties-recent">Aid organisations in Yemen are extremely concerned about high numbers of civilian casualties in recent military escalation </a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/02/17/aid-organisations-yemen-are-extremely-concerned-about-high-numbers-civilian-casualties-recent" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/02/17/aid-organisations-yemen-are-extremely-concerned-about-high-numbers-civilian-casualties-recent"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_mini/public/20190918_YEMEN_%C2%A9Reuters.jpg?itok=vgyJFBxf" width="148" height="146" alt="Plus de 85 000 enfants de moins de 5 ans seraient morts de faim ou de maladie entre 2016 et 2018 au Yémen. © Reuters" /></a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div  about="/en/news/moyen-orient/2020/01/31/aida-calls-international-community-reject-us-plan-and-demand-accountability" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-view_item_even clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-field-cathegory field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/moyen-orient-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Moyen-Orient</a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="53354"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/01/31/aida-calls-international-community-reject-us-plan-and-demand-accountability">AIDA calls on international community to reject US plan and demand accountability</a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/01/31/aida-calls-international-community-reject-us-plan-and-demand-accountability" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/01/31/aida-calls-international-community-reject-us-plan-and-demand-accountability"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_big/public/20180905-Palestine-Fille-%C2%A9Olivier-Papegnies.jpg?itok=ya2poiMA" width="295" height="308" alt="© Olivier Papegnies" /></a></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+    <div  about="/en/news/moyen-orient/2020/02/05/arms-sales-saudi-cargo-ship-arrive-france" typeof="sioc:Item foaf:Document" class="ds-1col node node-article view-mode-views_item clearfix">
+
+  
+  <div class="group-title-div field-group-div"><div class="field field-name-field-cathegory field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/actualites/moyen-orient-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Moyen-Orient</a></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items" id="54836"><div class="field-item even" property="dc:title"><h2><a href="/en/news/moyen-orient/2020/02/05/arms-sales-saudi-cargo-ship-arrive-france"> Arms sales: a Saudi cargo ship arrive in France</a></h2></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/02/05/arms-sales-saudi-cargo-ship-arrive-france" class="">-&gt;</a></div></div></div></div><div class="field field-name-field-slider-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/moyen-orient/2020/02/05/arms-sales-saudi-cargo-ship-arrive-france"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/views_item_mini/public/2019-05-20T065430Z_1104583567_RC123C207C40_RTRMADP_3_YEMEN-SECURITY-ITALY-ARMS%20-%20Copie.JPG?itok=bOdfQqPm" width="148" height="146" alt="© Reuters" /></a></div></div></div></div>
+
+  </div>
+    </div>
+    
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+    </section>
+
+
+
+    <section id="block-ft-homepage-newsletter" class="block block-ft-homepage clearfix">
+
+                        
+        &nbsp;
+    </section>
+
+
+
+    <section id="block-ft-homepage-home-map-en" class="block block-ft-homepage clearfix">
+
+                            <h2 class="block-title">At home and abroad</h2>
+                
+        <div class="homepage-map-title"><h2>Our countries</h2><a href="/en/countries">All our actions in the world</a></div><div class="homepage-map"><a href="en/countries"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/pictures/ici-et-la-bas_carte_transparente_EN_Nico2.png" alt="homepage worldmap"></a></div>
+    </section>
+
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<div class="footer-top">
+    <div class="region region-footer-top">
+    <section id="block-ft-jobs-job-stat" class="block block-ft-jobs clearfix">
+
+        <div class="block-title">Let&#039;s work together</div>
+      <div class="job-stat-boxs">
+  <div class="job-stat-box" onclick="location.href='/en/join-us/offers?tid=All&tid_2=1'"><div class="job-stat">16</div><div class="job-stat-text">French jobs</div><a href="/en/join-us/offers?tid=All&amp;tid_2=1">link</a></div><div class="job-stat-box" onclick="location.href='/en/join-us/offers?tid=All&tid_2=2'"><div class="job-stat">18</div><div class="job-stat-text">Woldwide jobs</div><a href="/en/join-us/offers?tid=All&amp;tid_2=2">link</a></div><div class="job-stat-box" onclick="location.href='/en/join-us/offers?qt-jobs=1#qt-jobs'"><div class="job-stat">10</div><div class="job-stat-text">Volunteer positions</div><a href="/en/join-us/offers?qt-jobs=1#qt-jobs">link</a></div><div class="job-stat-box" onclick="location.href='/en/join-us/offers?qt-jobs=2#qt-jobs'"><div class="job-stat">0</div><div class="job-stat-text">Internship positions</div><a href="/en/join-us/offers?qt-jobs=2#qt-jobs">link</a></div>  </div>
+</section> <!-- /.block -->
+<div id="block-menu-menu-menus-job-offer" class="clearfix block block-menu">
+
+        <span class="block-title">See all our opportunities at</span>
+    
+  <div class="content">
+    <nav>
+      <ul class="menu list-inline">
+        <li><a class="twitter" href="https://twitter.com/MdMFrance_Jobs" target="_blank"><i class="icon-twitter-1"></i></a></li><li><a class="linkedin" href="https://www.linkedin.com/company/medecins-du-monde" target="_blank"><i class="icon-linkedin"></i></a></li><li><a class="yupeek" href="https://my.yupeek.com/entreprises/3597/medecins-du-monde/" target="_blank">
+              <i class="icon-yp">
+                <img src="/sites/all/themes/mdm2/image/yupeek.png" alt="Yupeek">
+              </i></a></li>      </ul>
+    </nav>
+  </div>
+</div>
+  </div>
+</div>
+
+<footer class="footer container">
+    <div class="region region-footer">
+    <div id="block-block-8" class="block block-block">
+
+        <div class="block-title">Contact us</div>
+    
+  <div class="content">
+    <address><span class="block_title">Médecins du Monde</span><p>62 rue Marcadet - 75018 Paris</p><p>Tél : 01 44 92 15 15 </p><p>Fax : 01 54 87 98 65</p><a class="link" href="https://www.medecinsdumonde.org/en/contact">Contact form</a></address><address><a class="link" href="https://www.medecinsdumonde.org/en/come-meet-us">Meet us</a></address>  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+      
+  <div class="content">
+    <p><img alt="62 rue Marcadet - 75018 Paris" height="281" width="415" style="width: 240px; height: 163px;" class="media-element file-default" typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/mdm-contact.jpg" /></p>  </div>
+</div>
+<div id="block-menu-menu-follow-us" class="block block-menu">
+
+        <div class="block-title">Follow us</div>
+    
+  <div class="content">
+    <nav>
+      <ul class="menu list-inline">
+        <li><a class="twitter" href="https://twitter.com/mdm_france" target="_blank" onclick="dataLayer.push({'event': 'clic', 'eventCategory': 'Footer', 'eventAction': 'clic_bouton_reseaux_sociaux', 'eventLabel': 'Twitter'});"><i class="icon-twitter"></i></a></li><li><a class="facebook" href="https://www.facebook.com/fr.mdm" target="_blank" onclick="dataLayer.push({'event': 'clic', 'eventCategory': 'Footer', 'eventAction': 'clic_bouton_reseaux_sociaux', 'eventLabel': 'Facebook'});"><i class="icon-facebook"></i></a></li><li><a class="youtube" href="https://www.youtube.com/user/medecinsdumonde/videos" target="_blank" onclick="dataLayer.push({'event': 'clic', 'eventCategory': 'Footer', 'eventAction': 'clic_bouton_reseaux_sociaux', 'eventLabel': 'Youtube'});"><i class="icon-youtube"></i></a></li><li><a class="instagram" href="https://www.instagram.com/medecinsdumonde/" target="_blank" onclick="dataLayer.push({'event': 'clic', 'eventCategory': 'Footer', 'eventAction': 'clic_bouton_reseaux_sociaux', 'eventLabel': 'Instagram'});"><i class="icon-instagram"></i></a></li><li><a class="rss" href="https://www.medecinsdumonde.org/fr/rss.xml" target="_blank" onclick="dataLayer.push({'event': 'clic', 'eventCategory': 'Footer', 'eventAction': 'clic_bouton_reseaux_sociaux', 'eventLabel': 'Rss'});"><i class="icon-rss"></i></a></li>      </ul>
+    </nav>
+  </div>
+</div>
+<div id="block-views-footer-content-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-footer-content view-id-footer_content view-display-id-block view-dom-id-3fb018cb15ae46d36d91f46c3eed7a9a">
+        
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-slider-image col-md-3">        <a href="/en/annual-report-2018"><img typeof="foaf:Image" src="https://www.medecinsdumonde.org/sites/default/files/styles/picture_footer/public/Couv%20rapport%20moral.JPG?itok=Ov0nF87r" width="63" height="93" / alt="Annual report 2018"></a>  </div>  
+  <div class="views-field views-field-title col-md-9">        <a href="/en/annual-report-2018">Annual report 2018</a>  </div>  
+  <div class="views-field views-field-body col-md-9">        <p> </p><p>In 2019, faced with health issues that are constantly increasing and becoming more complex in the world, Médecins du Monde is evolving, reorganizing and stubbornly carrying on its struggles.</p>  </div>  
+  <div class="views-field views-field-field-link pull-right">        <a href="https://www.medecinsdumonde.org/en/actualites/publications/2019/09/05/annual-report-2018">Read more</a>  </div>  </div>
+    </div>
+          
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-menu-menu-mdm-in-the-world"
+     class="block block-menu">
+
+        <a class="block-title collapsed" data-toggle="collapse" href="#mdm_in_the_world">Doctors of the World international chapters</a>
+    
+  <div id="mdm_in_the_world" class="content collapse">
+    <ul class="menu nav"><li class="first leaf"><a href="http://www.mdm.org.ar" title="Argentina" target="_blank">Argentina</a></li>
+<li class="leaf"><a href="https://medecinsdumonde.be/" title="Belgium" target="_blank">Belgium</a></li>
+<li class="leaf"><a href="https://www.medecinsdumonde.ca" title="Canada" target="_blank">Canada</a></li>
+<li class="leaf"><a href="https://www.aerztederwelt.org" title="Germany" target="_blank">Germany</a></li>
+<li class="leaf"><a href="https://mdmgreece.gr/" title="Greece" target="_blank">Greece</a></li>
+<li class="leaf"><a href="https://www.mdm.or.jp" title="Japan" target="_blank">Japan</a></li>
+<li class="leaf"><a href="https://medecinsdumonde.lu" title="Luxembourg" target="_blank">Luxembourg</a></li>
+<li class="leaf"><a href="https://doktersvandewereld.org/" title="Netherlands" target="_blank">Netherlands</a></li>
+<li class="leaf"><a href="https://www.medicosdomundo.pt" title="Portugal" target="_blank">Portugal</a></li>
+<li class="leaf"><a href="https://www.medicosdelmundo.org" title="Spain" target="_blank">Spain</a></li>
+<li class="leaf"><a href="https://lakareivarlden.se/" title="Sweden" target="_blank">Sweden</a></li>
+<li class="leaf"><a href="https://medecinsdumonde.ch" title="Switzerland" target="_blank">Switzerland</a></li>
+<li class="leaf"><a href="https://dunyadoktorlari.org.tr/en/" title="Turkey" target="_blank">Turkey</a></li>
+<li class="leaf"><a href="https://www.doctorsoftheworld.org.uk" title="United Kingdom" target="_blank">United Kingdom</a></li>
+<li class="last leaf"><a href="https://doctorsoftheworld.org/" title="United States" target="_blank">United States</a></li>
+</ul>  </div>
+</div>
+  </div>
+</footer>
+
+<div class="footer-bas">
+    <div class="region region-footer-bas">
+    
+
+    <section id="block-ft-common-ft-common-partnership" class="block block-ft-common clearfix">
+
+                        
+        
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 first">
+              <p class="mtop">
+                Médecins du Monde<br/>
+                est membre de<br/>
+                l’<a href="https://www.allianceurgences.org/" target="_blank">Alliance Urgences</a>
+              </p>
+            </div>
+            <div class="col-sm-6 second">
+              <p>
+                <a href="https://www.allianceurgences.org/" target="_blank">
+                  <img src="/sites/all/themes/mdm2/image/Alliance-Urgences_Logo.png" alt="Alliance Urgences">
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      
+    </section>
+
+
+
+    <section id="block-menu-menu-footer" class="block block-menu clearfix">
+
+                        
+        <ul class="menu nav"><li class="first leaf"><a href="/en/accessibility">Accessibility</a></li>
+<li class="leaf"><a href="/en/join-us">Recrutement</a></li>
+<li class="leaf"><a href="/en/plan-du-site" title="Site map">Site map</a></li>
+<li class="leaf"><a href="/en/news" title="Press">Press</a></li>
+<li class="leaf"><a href="https://fondation-medecinsdumonde.org/" target="_blank">Foundation</a></li>
+<li class="leaf"><a href="https://www.journeedonateursmdm.org/" target="_blank">Donors committee</a></li>
+<li class="last leaf active"><a href="/en" class="tarteaucitron active">Cookies</a></li>
+</ul>
+    </section>
+
+
+
+    <section id="block-block-10" class="block block-block clearfix">
+
+                        
+        <p>Si vous êtes imposable sur le revenu, vous bénéficiez d'une réduction d'impôt de 75% du montant de votre don dans la limite de 1000 euros. Au-delà, la réduction est de 66%, dans la limite de 20% de votre revenu imposable.<br />Association Loi 1901<br />Numéro d’enregistrement et SIREN : FR 04 321 018 749 - 321 018 749</p>
+
+    </section>
+
+  </div>
+</div>
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js__uO5UEPHmZbx4i9KsgOh09BLZJsg5iE8QrsL1eekl4Bs__y3uJNjMrk-UUz9riUnY4jl6wIVGTcQKJb32xDfioJfc__VDzIpazM9xQ7s3_9DzR2wzT3S1kC82zpmNSk8PEOQAQ.js" async="async"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__5pWByCSRwqbOBJaMPsumH-tFSQOAyWkJ9hD4ugidjsY__VDzIpazM9xQ7s3_9DzR2wzT3S1kC82zpmNSk8PEOQAQ.js"></script>
+</body>
+</html>

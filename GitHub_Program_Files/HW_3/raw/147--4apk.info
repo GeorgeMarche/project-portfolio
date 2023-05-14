@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<meta name="keywords" content="приложение, COVID, -, 19!, -, Текущая, информация, о, болезни, APK, приложение, Android, скачать APK" />
+<meta name="description" content="Скачать APK приложение COVID - 19! - Текущая информация о болезни для Android бесплатно / Nemocnice Milosrdnych bratri, p.o." />
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="cAbftnkSQdv3qk1eqcUjDn1eBjZtpcrU2UPE7q53zMo" name="csrf-token" />
+<meta name="yandex-verification" content="9a86d16f75c554d2" />
+<link rel="preconnect" href="//cdn.4apk.info">
+<link rel="dns-prefetch" href="//cdn.4apk.info">
+<link rel="preconnect" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="preconnect" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="preconnect" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="preconnect" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="//mc.yandex.ru">
+<link rel="dns-prefetch" href="//mc.yandex.ru">
+<link rel="preconnect" href="//counter.yadro.ru">
+<link rel="dns-prefetch" href="//counter.yadro.ru">
+<title>COVID - 19! - Текущая информация о болезни приложение v.0.9.5 скачать APK для Android (Nemocnice Milosrdnych bratri, p.o.)</title>
+<link rel="manifest" href="/site/jq/manifest.json?2.3.6">
+<link rel="shortcut  icon" type="image/x-icon" href="/favicon.ico?2.3.6" />
+<link rel="preload" href="/fonts/fa-light-300.woff2" as="font" type="font/woff2" crossorigin />
+<style>
+@font-face {
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: normal;
+font-display: swap;
+src: url("/fonts/fa-brands-400.eot");
+src:
+url("/fonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+url("/fonts/fa-brands-400.woff2") format("woff2"),
+url("/fonts/fa-brands-400.woff") format("woff"),
+url("/fonts/fa-brands-400.ttf") format("truetype"),
+url("/fonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+@font-face {
+font-family: 'Font Awesome 5 Pro';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url("/fonts/fa-light-300.eot");
+src:
+url("/fonts/fa-light-300.eot?#iefix") format("embedded-opentype"),
+url("/fonts/fa-light-300.woff2") format("woff2"),
+url("/fonts/fa-light-300.woff") format("woff"),
+url("/fonts/fa-light-300.ttf") format("truetype"),
+url("/fonts/fa-light-300.svg#fontawesome") format("svg");
+}
+</style>	<link rel="stylesheet" property=stylesheet href="/site/jq/app.css?2.3.6">
+<script defer src="/site/jq/app.js?2.3.6"></script>
+<link rel="canonical" href="https://4apk.info/apk/cz.nmbbrno.covid"/>
+<script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "4apk",
+"url": "https://4apk.info",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://4apk.info/search?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+"@type": "MobileApplication",
+"name": "COVID - 19! - Текущая информация о болезни v. 0.9.5 android apk",
+"image": "https://cdn.4apk.info/img/apk/309.09/icon.png?c=130",
+"fileSize": "21 Mb",
+"applicationCategory": "Application, GameApplication",
+"applicationSubCategory": "Медицина",
+"version": "0.9.5",
+"softwareVersion": "0.9.5",
+"datePublished": "2020-10-08T17:57:09+03:00",
+"dateModified": "2020-10-14T07:05:29+03:00",
+"interactionCount": "UserDownloads:100000",
+"downloadUrl": "https://4apk.info/apk/cz.nmbbrno.covid/download",
+"description": "Скачать APK приложение COVID - 19! - Текущая информация о болезни для Android бесплатно / Nemocnice Milosrdnych bratri, p.o.",
+"operatingSystem": "Android",
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency": "RUB"
+},
+"publisher": {
+"@type": "Thing",
+"name": "Nemocnice Milosrdnych bratri, p.o."
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingCount": "427",
+"bestRating": "5",
+"worstRating": "1",
+"ratingValue": "4"
+}
+}
+</script>
+<meta property="og:title" content="COVID - 19! - Текущая информация о болезни приложение v.0.9.5 скачать APK для Android (Nemocnice Milosrdnych bratri, p.o.)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://4apk.info/apk/cz.nmbbrno.covid" />
+<meta property="og:image" content="https://cdn.4apk.info/img/apk/309.09/icon.png?c=130" />
+<meta property="og:description" content="Скачать APK приложение COVID - 19! - Текущая информация о болезни для Android бесплатно / Nemocnice Milosrdnych bratri, p.o." />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="4apk приложения" />
+<meta property="og:tag" content="android">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:description" content="Скачать APK приложение COVID - 19! - Текущая информация о болезни для Android бесплатно / Nemocnice Milosrdnych bratri, p.o.">
+<meta property="twitter:site" content="@4apkInfo">
+<meta property="twitter:creator" content="@4apk">
+<meta property="twitter:image:src" content="https://cdn.4apk.info/img/apk/309.09/icon.png?c=130">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111253583-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-111253583-1');
+</script>
+<script type="text/javascript" >
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter49085617 = new Ya.Metrika2({
+id:49085617,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/tag.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49085617" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</head>
+<body class=" nav-menu-hide">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="toggle navbar-burger" >
+<span><i class="fa" aria-hidden="true"></i></span>
+</button>
+<a class="navbar-slogan" href="/">Android apk</a>
+</div>
+<ul class="nav navbar-nav toolbar pull-right">
+<li class="dropdown toolbar-icon-bg">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+<span class="icon-bg"><i class="fa fa-fw fa-search"></i></span>
+</a>
+<div class="dropdown-menu arrow search dropdown-menu-form">
+<form action="/search" method="get" id="search">
+<div class="dd-header">
+<span>Поиск по сайту</span>
+</div>
+<div class="input-group">
+<input class="form-control" placeholder="" type="text" name="q" value="">
+<span class="input-group-btn">
+<button type="submit" class="btn btn-inverse" form="search" value="Искать">Искать</button>
+</span>
+</div>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</nav>	<div class="container">
+<div class="speedbar">
+<ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+<li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >
+<a itemprop="item" href="https://4apk.info/" >
+<span itemprop="name">App home</span>
+</a>
+<meta itemprop="position" content="1" />
+</li>
+<li class="" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >
+<a itemprop="item" href="https://4apk.info/medical" >
+<span itemprop="name">Медицина</span>
+</a>
+<meta itemprop="position" content="2" />
+</li>
+<li class=" active " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" >
+<a class="hide" itemprop="item" href="https://4apk.info/apk/cz.nmbbrno.covid" >
+<span itemprop="name">COVID - 19! - Текущая информация о болезни</span>
+</a>
+<span >COVID - 19! - Текущая информация о болезни</span>
+<meta itemprop="position" content="3" />
+</li>
+</ol>
+</div>
+</div>	<div class="container">
+<section class="container-fluid p0 body">	<div class="row apk-show">
+<div class="col-sm-12 col-md-8 col-lg-9">
+<section class="panel detail panel-main">
+<div class="panel-body">
+<div class="block-header">
+<h1 class="m0 mb10">Приложение -  COVID - 19! - Текущая информация о болезни <span>Бесплатное приложение -  COVID-19! - The current spread of disease v.0.9.5 android apk</span></h1>
+</div>
+<div class="block-header">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-2473749113182255"
+data-ad-slot="9659410280"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</div>
+<div class="apk-info">
+<div class="short">
+<div class="s-in s-new">
+<div class="s-rate-app">
+<span>4</span>
+</div>
+<div class="s-img">
+<img src="https://cdn.4apk.info/img/apk/309.09/icon.png?c=100" alt="COVID - 19! - Текущая информация о болезни 0.9.5" >
+</div>
+</div>
+</div>
+<div class="apk-btn">
+<a class="btn btn-orange btn-block "
+href="/apk/cz.nmbbrno.covid/download">
+<i class="fa fa-download mr10"></i>Скачать бесплатно
+</a>
+<a class="btn btn-green btn-block " href="/apk/cz.nmbbrno.covid/version">
+<i class="fa fa-history mr10"></i>Последняя версия
+</a>
+<a class="btn btn-inverse btn-block "
+href="https://play.google.com/store/apps/details?id=cz.nmbbrno.covid"
+target="_blank" rel="nofollow">
+<img src="/img/google-play.png" alt="google-play"> Google Play
+</a>
+</div>
+<div class="info">
+<dl class="dl-horizontal">
+<dt class="ver">Версия APK:</dt>
+<dd>v.0.9.5 для Android 4 и выше
+</dd>
+<dt class="date">Дата обновления:</dt>
+<dd>14.10.2020</dd>
+<dt class="dev">Разработчик:</dt>
+<dd ><a href="/developer/nemocnice-milosrdnych-bratri-p-o" ><span>Nemocnice Milosrdnych bratri, p.o.</span></a></dd>
+<dt class="cat">Раздел:</dt>
+<dd><a href="/medical">Медицина</a></dd>
+<dt class="rate">Рейтинг</dt>
+<dd class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 80%"></div>
+</div>
+<span class="rates">
+(<span>4 из 5</span>) <span>427 голосов</span>
+</span>
+</dd>
+</dl>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="block-header">
+<h2 class="">Скриншоты <span>COVID - 19! - Текущая информация о болезни v. 0.9.5 под андройд</span></h2>
+</div>
+<div class="screens thumbs">
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_0.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_0.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_0.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_1.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_1.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_1.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_2.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_2.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_2.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_3.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_3.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_3.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_4.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_4.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_4.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_5.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_5.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_5.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_6.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_6.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_6.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_7.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_7.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_7.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_8.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_8.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_8.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_9.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_9.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_9.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_10.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_10.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_10.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_11.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_11.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_11.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_12.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_12.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_12.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_13.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_13.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_13.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_14.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_14.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_14.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_15.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_15.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_15.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_16.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_16.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_16.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+<a href="https://cdn.4apk.info/img/apk/309.09/screen_17.jpg?r=1700" >
+<img class="lazyScreen" style="height: 100%;" src="https://cdn.4apk.info/img/apk/309.09/screen_17.jpg?r=20"
+data-src="https://cdn.4apk.info/img/apk/309.09/screen_17.jpg?r=500"
+alt="COVID - 19! - Текущая информация о болезни screenshot">
+</a>
+</div>
+<div class="clearfix"></div>
+<div class="block-header">
+<h3>
+Скачать приложение бесплатно
+<span>
+Приложение COVID-19! - The current spread of disease
+доступно  для скачивания под android от 4
+</span>
+</h3>
+</div>
+<a class="btn btn-green btn-block download-block" href="/apk/cz.nmbbrno.covid/version">
+<i class="fa fa-download fa-2x"></i>
+<h6>
+Скачать COVID - 19! - Текущая информация о болезни на андроид v.0.9.5
+<span>размер 21 Mb | v.0.9.5 | скачали: ~ 100 тысяч</span>
+</h6>
+</a>
+<div class="clearfix"></div>
+<div class="block-header">
+<h4>
+Последняя 1 версия приложения
+<span>
+Мы нашли еще 1 прошлую версию для COVID - 19! - Текущая информация о болезни
+<a href="/apk/cz.nmbbrno.covid/version" class="pull-right">История версий</a>
+</span>
+</h4>
+</div>
+<ul class="list-version">
+<li>
+<div class="item-left">
+<a href="/apk/cz.nmbbrno.covid/version/305648" class="item-link">
+v. 0.9.4 APK  от 29.06.2020
+</a>
+<span class="item-time"><i class="fab fa-android"></i> 20.8 Mb</span>
+</div>
+<div class="item-right">
+<span class="label-group">
+<span class="label label-green">APP</span>
+</span>
+</div>
+</li>
+</ul>
+<div class="block-header">
+<h5>Особенности приложения
+<span>описание особенностей приложения COVID - 19! - Текущая информация о болезни</span>
+</h5>
+</div>
+<div class="show-more-content">
+<div class="story"><p>Приложение для получения информации об одном из самых распространённых вирусов нашего времени создано! COVID-19 уверенно шагает по планете, забирая всё больше жизней ни в чём не повинных людей.  Программисты всего мира стоят на страже человеческого здоровья, потому оперативно было разработано приложение для <b>андроида</b>.</p>
+<h3>Приложение поможет с информацией о ковид<br></h3>
+<p>Приложение <b>COVID-19</b>  поможет получить данные относительно превентивных мер в период разгула острых респираторных вирусных инфекций. Как уберечь себя от коронавируса  и его собратьев, какие профилактические меры являются эффективными, симптомы инфекции и многое другое вы найдёте в приложении.</p>
+<p>Новости  со всех уголков мира в вашем телефоне. Пару кликов и вы в курсе основных актуальных событий в области здравоохранения. Больница Милосердных братьев в Брно. Под эгидой данного учреждения пользователи получают свежую информацию, изложенную доступным и простым для понимания  языком. Как распознать инфекцию, как бороться с ней при появлении в организме. Симптомы болезни, первые признаки, профилактика, мировая статистика заболеваемости. </p>
+<p>Пользователям доступна карта вхождения <b>COVID-19</b>  и на ней возможно отображение актуальных данных в любом интересующем вас месте. Выбирайте интересующее место расположение населённого пункта,  смотрите цифры и аналитику. </p>
+<p>Установите приложение для <b>андроида</b>  уже сейчас, чтобы быть в курсе последних событий. Уберегите себя и членов своей семьи от возможного заражения коронавирусом, следуйте медицинским советам прямо в приложении!</p></div>
+<div class="show-more-end"></div>
+</div>
+<a class="btn btn-default btn-block show-more" href="" data-hide="Скрыть" data-show="Подробнее">Подробнее</a>
+</div>
+</section>
+</div>
+<div class="col-sm-12 col-md-4 col-lg-3">
+<section class="detail-files p0">
+<div class="block-header">
+<h5 class="mt0">Похожие приложения
+<span>приложения похожие на COVID - 19! - Текущая информация о болезни</span>
+</h5>
+</div>
+<ul class="stikers related">
+<li>
+<div class="stiker">
+<dl>
+<dt>
+<a href="/apk/com.atomic.apps.medical.disease.condition.dictionary">
+<div class="icon lazyimg" data-src="https://cdn.4apk.info/img/apk/521.2/icon.png?c=100"></div>
+</a>
+</dt>
+<dd class="title">
+<a href="/apk/com.atomic.apps.medical.disease.condition.dictionary" >Diseases Dictionary ✪ Medical v. 2.1</a>
+</dd>
+<dd>Atomic Infoapps</dd>
+<dd>Медицина</dd>
+<dd>
+<div class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 90%"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+<li>
+<div class="stiker">
+<dl>
+<dt>
+<a href="/apk/com.soft24hours.directorys.medical.diseasemulti.free">
+<div class="icon lazyimg" data-src="https://cdn.4apk.info/img/apk/213.22/icon.png?c=100"></div>
+</a>
+</dt>
+<dd class="title">
+<a href="/apk/com.soft24hours.directorys.medical.diseasemulti.free" >Все заболевания FREE v. 2.2.17</a>
+</dd>
+<dd>24Hours</dd>
+<dd>Медицина</dd>
+<dd>
+<div class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 90%"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+<li>
+<div class="stiker">
+<dl>
+<dt>
+<a href="/apk/com.ufo.disease">
+<div class="icon lazyimg" data-src="https://cdn.4apk.info/img/apk/236.09/icon.png?c=100"></div>
+</a>
+</dt>
+<dd class="title">
+<a href="/apk/com.ufo.disease" >Все заболевания Offline v. 3.7</a>
+</dd>
+<dd>ufostudio</dd>
+<dd>Медицина</dd>
+<dd>
+<div class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 94%"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+<li>
+<div class="stiker">
+<dl>
+<dt>
+<a href="/apk/com.medicalgroupsoft.medical.refdiseases.eng.free">
+<div class="icon lazyimg" data-src="https://cdn.4apk.info/img/apk/159.63/icon.png?c=100"></div>
+</a>
+</dt>
+<dd class="title">
+<a href="/apk/com.medicalgroupsoft.medical.refdiseases.eng.free" >Diseases Dictionary (FREE) v. 3.6.11</a>
+</dd>
+<dd>Medical Group Soft</dd>
+<dd>Медицина</dd>
+<dd>
+<div class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 92%"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+<li>
+<div class="stiker">
+<dl>
+<dt>
+<a href="/apk/ae.gov.dha.covid19">
+<div class="icon lazyimg" data-src="https://cdn.4apk.info/img/apk/309.10/icon.png?c=100"></div>
+</a>
+</dt>
+<dd class="title">
+<a href="/apk/ae.gov.dha.covid19" >COVID 19 - DXB Smart App v. 2.9</a>
+</dd>
+<dd>Dubai Health Authority - DHA</dd>
+<dd>Медицина</dd>
+<dd>
+<div class="rating">
+<div class="rating-box">
+<div class="rating-current" style="width: 72%"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</dd>
+</dl>
+</div>
+</li>
+</ul>
+</section>
+</div>
+</div>
+</section>
+</div>
+<nav class="nav-menu"></nav>
+<div class="mask-content"></div>
+<div class="container mt10">
+<script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+</script>
+</div>
+</body>
+</html>

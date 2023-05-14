@@ -1,0 +1,1657 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.pharmaindustrie-online.de/sites/default/files/favicon1_1.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="https://www.pharmaindustrie-online.de/rss.xml" />
+<meta name="description" content="B2B Prozesstechnik Portal für Pharmaherstellung und Pharmalogistik mit aktuellen Nachrichten der Zulieferer und aus der Pharmaindustrie." />
+<meta name="keywords" content="Pharmaindustrie,Pharmaproduktion,Pharmaherstellung,Pharmatechnik, GMP,Hygenic Design,Hygiene,Produktion,Technik" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.pharmaindustrie-online.de/" />
+<link rel="shortlink" href="https://www.pharmaindustrie-online.de/" />
+<meta property="og:site_name" content="Das Informationsportal für die Pharmaproduktion, Management &amp; Technik" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.pharmaindustrie-online.de/frontpage" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/plain" data-consent="marketing"></script>
+<script type="text/plain" data-consent="marketing">
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2564967439006183",
+    enable_page_level_ads: true
+  });
+</script>  <title>Das Informationsportal für die Pharmaproduktion</title>
+  <link type="text/css" rel="stylesheet" href="https://www.pharmaindustrie-online.de/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pharmaindustrie-online.de/sites/default/files/css/css_4R3m4pznkp8f-0_8KH1lqPQyJ1NEhABrKE4YbaOKrxc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pharmaindustrie-online.de/sites/default/files/css/css_K6RBu0xjh6I_h9_4ssWZazWJImaSxK0k19yg3GDuc5E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pharmaindustrie-online.de/sites/default/files/css/css_YnyAZ6Jw4TroqdzEHjEkYHzDwabIOF2WQbz5p31nzTs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,500,700" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.pharmaindustrie-online.de/sites/default/files/js/js_uvkeAZ2BFib7WxcPbFsLZ15zzDdra1ASMkwv9zijgFg.js"></script>
+<script src="https://www.pharmaindustrie-online.de/sites/default/files/js/js_MGE8gX7juJkQrMJy8inmbIR_SDvf5CE-kOnoCe-NkT4.js"></script>
+<script src="https://www.pharmaindustrie-online.de/sites/default/files/js/js_dsPs10VWyoKKPdBflwAF8ZPU5a1Ir6bC2HvHHtmE9F0.js"></script>
+<script type="text/plain" data-consent="analytics">(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-42298375-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.pharmaindustrie-online.de/sites/default/files/js/js_i9-mZxF1wrIj_pHo8CcygMfG3cz35Mlm6odAjzL19fk.js"></script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://lebensmittelverarbeitungonline.matomo.cloud/" : "http://lebensmittelverarbeitungonline.matomo.cloud/");_paq.push(["setSiteId", "2"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(['disableCookies']);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
+<script src="https://www.pharmaindustrie-online.de/sites/default/files/js/js_es2DUT3wt6qdJzC0ysUwYkpvOOX5B3n0IPYsu611cuI.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"xi_pharma","theme_token":"qiGvKECnptuiYXmxGbaC7bMDJgkeMIyQ-Ep--2xf0qo","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/scroll_to_destination_anchors\/scroll_to_destination_anchors.js":1,"sites\/all\/modules\/contrib\/simpleads\/simpleads.js":1,"public:\/\/languages\/de_WHMWc3CUfAxBaZFY3lnxi2pRqFhlOhpMMo7youRiAqA.js":1,"sites\/all\/modules\/contrib\/adsense\/contrib\/adsense_click\/adsense_click.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/popup_onload\/popup_onload.js":1,"sites\/all\/modules\/contrib\/popup_onload\/popup_onload_statistics\/popup_onload_statistics.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/contrib\/views_bootstrap\/js\/views-bootstrap-carousel.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/matomo\/matomo.js":1,"1":1,"sites\/default\/themes\/xi_pharma\/src\/js\/_lib.js":1,"sites\/all\/themes\/xi_tropal\/src\/js\/_plugins.js":1,"sites\/all\/themes\/xi_tropal\/src\/js\/_lib.js":1,"sites\/all\/themes\/xi_tropal\/src\/js\/main.js":1,"sites\/default\/themes\/xi_pharma\/src\/js\/_plugins.js":1,"sites\/default\/themes\/xi_pharma\/src\/js\/subtheme.js":1,"sites\/default\/themes\/xi_pharma\/src\/js\/cookiehub.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/simpleads\/simpleads.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/popup_onload\/popup_onload-colorbox.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/themes\/xi_tropal\/src\/css\/bootstrap.css":1,"sites\/all\/themes\/xi_tropal\/bower_components\/jquery-flipster\/dist\/jquery.flipster.min.css":1,"sites\/all\/themes\/xi_tropal\/src\/css\/style.css":1,"sites\/default\/themes\/xi_pharma\/src\/css\/bootstrap.css":1,"sites\/default\/themes\/xi_pharma\/bower_components\/jquery-flipster\/dist\/jquery.flipster.min.css":1,"\/\/netdna.bootstrapcdn.com\/font-awesome\/4.3.0\/css\/font-awesome.css":1,"sites\/default\/themes\/xi_pharma\/src\/css\/style.css":1,"https:\/\/fonts.googleapis.com\/css?family=Roboto:400,300,500,700":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko\/20100101 Firefox\/73.0"},"popup_onload":{"html":"\u003Cdiv class=\u0022entity entity-popup-onload popup-onload-popup-onload-basic clearfix\u0022\u003E\n\n  \n  \u003Cdiv class=\u0022content\u0022\u003E\n    \u003Cdiv class=\u0022field field-name-field-fake-body field-type-text field-label-hidden\u0022\u003E\u003Cdiv class=\u0022field-items\u0022\u003E\u003Cdiv class=\u0022field-item even\u0022\u003E\u003C!--smart_paging_filter--\u003E\u003Cscript\u003E\n\u003C!--\/\/--\u003E\u003C![CDATA[\/\/ \u003E\u003C!--\n\nfunction loadjQuery(e,t){var n=document.createElement(\u0022script\u0022);n.setAttribute(\u0022src\u0022,e);n.onload=t;n.onreadystatechange=function(){if(this.readyState==\u0022complete\u0022||this.readyState==\u0022loaded\u0022)t()};document.getElementsByTagName(\u0022head\u0022)[0].appendChild(n)}function main(){\nvar $cr=jQuery.noConflict();var old_src;$cr(document).ready(function(){$cr(\u0022.cr_form\u0022).submit(function(){$cr(this).find(\u0027.clever_form_error\u0027).removeClass(\u0027clever_form_error\u0027);$cr(this).find(\u0027.clever_form_note\u0027).remove();$cr(this).find(\u0022.musthave\u0022).find(\u0027input, textarea\u0027).each(function(){if(jQuery.trim($cr(this).val())==\u0022\u0022||($cr(this).is(\u0027:checkbox\u0027))||($cr(this).is(\u0027:radio\u0027))){if($cr(this).is(\u0027:checkbox\u0027)||($cr(this).is(\u0027:radio\u0027))){if(!$cr(this).parent().find(\u0022:checked\u0022).is(\u0022:checked\u0022)){$cr(this).parent().addClass(\u0027clever_form_error\u0027)}}else{$cr(this).addClass(\u0027clever_form_error\u0027)}}});if($cr(this).attr(\u0022action\u0022).search(document.domain)\u003E0\u0026\u0026$cr(\u0022.cr_form\u0022).attr(\u0022action\u0022).search(\u0022wcs\u0022)\u003E0){var cr_email=$cr(this).find(\u0027input[name=email]\u0027);var unsub=false;if($cr(\u0022input[\u0027name=cr_subunsubscribe\u0027][value=\u0027false\u0027]\u0022).length){if($cr(\u0022input[\u0027name=cr_subunsubscribe\u0027][value=\u0027false\u0027]\u0022).is(\u0022:checked\u0022)){unsub=true}}if(cr_email.val()\u0026\u0026!unsub){$cr.ajax({type:\u0022GET\u0022,url:$cr(\u0022.cr_form\u0022).attr(\u0022action\u0022).replace(\u0022wcs\u0022,\u0022check_email\u0022)+$cr(this).find(\u0027input[name=email]\u0027).val(),success:function(data){if(data){cr_email.addClass(\u0027clever_form_error\u0027).before(\u0022\u003Cdiv class=\u0027clever_form_note cr_font\u0027\u003E\u0022+data+\u0022\u0022);return false}},async:false})}var cr_captcha=$cr(this).find(\u0027input[name=captcha]\u0027);if(cr_captcha.val()){$cr.ajax({type:\u0022GET\u0022,url:$cr(\u0022.cr_form\u0022).attr(\u0022action\u0022).replace(\u0022wcs\u0022,\u0022check_captcha\u0022)+$cr(this).find(\u0027input[name=captcha]\u0027).val(),success:function(data){if(data){cr_captcha.addClass(\u0027clever_form_error\u0027).after(\u0022\u003Cdiv style=\u0027display:block\u0027 class=\u0027clever_form_note cr_font\u0027\u003E\u0022+data+\u0022\u0022);return false}},async:false})}}if($cr(this).find(\u0027.clever_form_error\u0027).length){return false}return true});$cr(\u0027input[class*=\u0022cr_number\u0022]\u0027).change(function(){if(isNaN($cr(this).val())){$cr(this).val(1)}if($cr(this).attr(\u0022min\u0022)){if(($cr(this).val()*1)\u003C($cr(this).attr(\u0022min\u0022)*1)){$cr(this).val($cr(this).attr(\u0022min\u0022))}}if($cr(this).attr(\u0022max\u0022)){if(($cr(this).val()*1)\u003E($cr(this).attr(\u0022max\u0022)*1)){$cr(this).val($cr(this).attr(\u0022max\u0022))}}});old_src=$cr(\u0022div[rel=\u0027captcha\u0027] img:not(.captcha2_reload)\u0022).attr(\u0022src\u0022);if($cr(\u0022div[rel=\u0027captcha\u0027] img:not(.captcha2_reload)\u0022).length!=0){captcha_reload()}});function captcha_reload(){var timestamp=new Date().getTime();$cr(\u0022div[rel=\u0027captcha\u0027] img:not(.captcha2_reload)\u0022).attr(\u0022src\u0022,\u0022\u0022);$cr(\u0022div[rel=\u0027captcha\u0027] img:not(.captcha2_reload)\u0022).attr(\u0022src\u0022,old_src+\u0022?t=\u0022+timestamp);return false}\n\n}\nif(typeof jQuery===\u0022undefined\u0022){loadjQuery(\u0022\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.4.2\/jquery.min.js\u0022,main)}else{main()}\n\n\n\/\/--\u003E\u003C!]]\u003E\n\u003C\/script\u003E\u003Cstyle type=\u0022text\/css\u0022\u003E\n\u003C!--\/*--\u003E\u003C![CDATA[\/* \u003E\u003C!--*\/\n\n.cr_site{margin:0;padding:75px 0 0 0;text-align:center;background-color:#eeeeee;}\n.cr_font{font-size: 14px;font-family: Arial;}\n.cr_body h2, .cr_header h2{color:#851607;font-size:22px;line-height:28px;margin:0 0 10px 0;}\n.cr_body h1, .cr_header h2{font-size:28px;margin-bottom:15px;padding:0;margin-top:0;}\n.wrapper, .cr_page{margin:0 auto 10px auto;text-align:left;border-radius:4px;}\n.cr_header{text-align:center;background: transparent !Important;}\n.cr_body label{float:none;clear:both;display:block;width:auto;margin-top:8px;text-align:left;font-weight:bold;position:relative;}\n.cr_button{display:inline-block;font-family:\u0027Helvetica\u0027, Arial, sans-serif;width:auto;white-space:nowrap;height:32px;margin:5px 5px 0 0;padding:0 22px;text-decoration:none;text-align:center;font-weight:bold;font-style:normal;font-size:15px;line-height:32px;cursor:pointer;border:0;-moz-border-radius:4px;border-radius:4px;-webkit-border-radius:4px;vertical-align:top;}\n.cr_button{background-color:#851607;color:#ffffff;}\n.cr_button:hover,.cr_button-small:hover{opacity:0.7;filter:alpha(opacity=70);}\n.powered{padding:20px 0;width:560px;margin:0 auto;}\n.formbox{line-height:150%;font-family:Helvetica;font-size:12px;color:#333333;padding:20px;background-color:#ffffff;border-radius: 6px 6px 6px 6px;}\n.cr_ipe_item label{line-height:150%;font-size:14px;}\n.cr_ipe_item textarea {background: none repeat scroll 0 0 #eeeeee;border: 1px solid #aaa;font-family: Helvetica;font-size: 16px;}\n.cr_ipe_item input {background: none repeat scroll 0 0 #eeeeee;border: 1px solid #aaa;padding: 5px;font-family: Helvetica;font-size: 16px;}\n.cr_ipe_item select {background: none repeat scroll 0 0 #eeeeee;border: 1px solid #aaa;display: block;margin: 0;padding: 5px;width: 100%;font-family: Helvetica;font-size: 16px;}\n.cr_ipe_item input.cr_ipe_radio, input.cr_ipe_checkbox {-moz-binding: none;-moz-box-sizing: border-box;background-color: -moz-field !important;border: 2px inset threedface !important;color: -moz-fieldtext !important;cursor: default;height: 13px;padding: 0 !important;width: 13px;}\n.cr_ipe_item input.cr_ipe_radio{-moz-appearance: radio;border-radius: 100% 100% 100% 100% !important;margin: 3px 3px 0 5px;}\n.submit_container{text-align:center}\n.cr_ipe_item{ padding:1px 10px; margin:1px 10px; }\n.cr_ipe_item.inactive {display:none;}\n.imprint{font-size:0.8em;}\n.cr_captcha{padding-left:130px;}\n.cr_error{font-size:1.1em;padding:10px;}\n.clever_form_error{background-color:#f99; color:#000; border:1px solid #f22 !important}\n.clever_form_note {margin:26px 0 0 3px;position:absolute;display:inline; padding: 2px 4px; font-weight:bold;background-color:#f2ecb5; color:#000; font-size:12px !important;  }\n.cr_site {background-color:#eee;}\n.cr_header {color:#000000;}\n.cr_body {background-color:#ffffff;font-size:12px;color:#000000;}\n.cr_hr {background-color:#ccc;}\n.cr_site a {color:#0084ff;}\n.imprint{color:#000;}\n\/*--\u003E\u003C!]]\u003E*\/\n\u003C\/style\u003E\u003Cstyle id=\u0022style\u0022 type=\u0022text\/css\u0022\u003E\n\u003C!--\/*--\u003E\u003C![CDATA[\/* \u003E\u003C!--*\/\n\n.cr_site {background-color:#eee;}\n.cr_header {color:#000000;}\n.cr_body {background-color:#ffffff;font-size:12px;color:#000000;}\n.cr_hr {background-color:#ccc;}\n.cr_site a {color:#0084ff;}\n.imprint {color:#000;}\n.cr_page {width:410px;}\n\/*--\u003E\u003C!]]\u003E*\/\n\u003C\/style\u003E\u003Cform action=\u0022https:\/\/seu2.cleverreach.com\/f\/130671-151895\/wcs\/\u0022 class=\u0022layout_form cr_form cr_font\u0022 method=\u0022post\u0022 target=\u0022_blank\u0022\u003E\n\u003Cdiv class=\u0022cr_body cr_page cr_font formbox\u0022\u003E\n\u003Cdiv class=\u0022non_sortable\u0022 style=\u0022text-align:left;\u0022\u003E\u00a0\u003C\/div\u003E\n\u003Cdiv class=\u0022editable_content\u0022 style=\u0022text-align:left;\u0022\u003E\n\u003Cdiv class=\u0022cr_ipe_item ui-sortable\u0022 id=\u00223160712\u0022 rel=\u0022mce_text\u0022\u003E\n\u003Cdiv class=\u0022mce_text\u0022\u003E\n\u003Cp style=\u0022font-size: 12px;\u0022\u003EJetzt verpassen Sie nichts mehr: Der pharmaindustrie-online.de Newsletter pr\u00e4sentiert Ihnen alle vier Wochen die Highlights aus der Welt der Pharmaproduktion, immer auf dem neuesten Stand der Erkenntnisse. Jetzt einfach anmelden und die Newsletteranmeldung in der eMail, die Sie von uns in K\u00fcrze erhalten, best\u00e4tigen.\u003C\/p\u003E\n\u003Cp style=\u0022font-size: 12px;\u0022\u003ESelbstverst\u00e4ndlich gew\u00e4hrleisten wir die Sicherheit Ihrer Daten nach den \u003Cstrong\u003E\u003Cu\u003E\u003Ca href=\u0022https:\/\/www.pharmaindustrie-online.de\/content\/datenschutz\u0022 title=\u0022Datenschutzerkl\u00e4rung nach der DSGVO\u0022\u003EDatenschutzgesetzen\u003C\/a\u003E\u003C\/u\u003E\u003C\/strong\u003E. Den Newsletter k\u00f6nnen Sie jederzeit mit einem Mausklick wieder abbestellen (= Widerruf der Einwilligung). Bitte best\u00e4tigen Sie die Newsletteranmeldung in der Email, die Sie von uns in K\u00fcrze erhalten.\u003C\/p\u003E\n\u003Cp style=\u0022font-size: 12px;\u0022\u003EJa, ich m\u00f6chte den pharmaindustrie-online.de-Newsletter \u2013 widerruflich \u2013 abonnieren:\u003C\/p\u003E\n\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cdiv class=\u0022cr_ipe_item ui-sortable musthave\u0022 id=\u00223160680\u0022 rel=\u0022email\u0022 style=\u0022margin-bottom:15px;\u0022\u003E\u003Clabel class=\u0022itemname\u0022 for=\u0022text3160680\u0022\u003EE-Mail*\u003C\/label\u003E \u003Cinput id=\u0022text3160680\u0022 name=\u0022email\u0022 style=\u0022width:100%;\u0022 type=\u0022text\u0022 value=\u0022\u0022 \/\u003E\u003C\/div\u003E\n\u003Cdiv class=\u0022cr_ipe_item ui-sortable submit_container\u0022 id=\u00223160682\u0022 rel=\u0022button\u0022 style=\u0022text-align:center; margin-bottom:px;\u0022\u003E\u003Cbutton class=\u0022cr_button\u0022 type=\u0022submit\u0022\u003EAnmelden\u003C\/button\u003E\u003C\/div\u003E\n\u003C\/div\u003E\n\u003Cp\u003E\t\t\u003C\/p\u003E\u003Cnoscript\u003E\u003Ca href=\u0022http:\/\/www.cleverreach.de\u0022\u003Ewww.CleverReach.de\u003C\/a\u003E\u003C\/noscript\u003E\u003C\/div\u003E\n\u003C\/form\u003E\n\u003Cp\u003E\u00a0\u003C\/p\u003E\n\u003C\/div\u003E\u003C\/div\u003E\u003C\/div\u003E  \u003C\/div\u003E\n\u003C\/div\u003E\n","delay":"10000","fixed":false,"popup_id":"1","className":"popup_onload","close":"","innerWidth":"410","innerHeight":"530"},"viewsBootstrap":{"carousel":{"1":{"id":1,"name":"front_page_slider","attributes":{"interval":6000,"pause":"hover"}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"matomo":{"trackMailto":1},"urlIsAjaxTrusted":{"\/":true,"\/tags\/whitepaper":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"},"fixednavEnabled":null,"fixednavStyle":null,"fixednavOffset":null,"fixednavTolerance":null}});</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-frontpage">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Direkt zum Inhalt</a>
+  </div>
+    <div class="menu_header">
+  <div class="container">
+            <ul class="menu nav navbar-nav secondary"><li class="first last leaf"><a href="/newsletter/anmeldung" class="fa fa-envelope-o">Newsletter</a></li>
+</ul>          <div class="region region-header-nav">
+    <section id="block-menu-menu-social" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="https://www.facebook.com/pharmaindustrieonline.de" class="fa fa-facebook">Facebook</a></li>
+<li class="leaf"><a href="https://www.linkedin.com/showcase/pharmaindustrie-online-de" class="fa fa-linkedin">LinkedIn</a></li>
+<li class="leaf"><a href="/rss.xml" class="fa fa-rss">RSS-Feed</a></li>
+<li class="leaf"><a href="https://twitter.com/PIO_online" class="fa fa-twitter">Twitter</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/c/pharmaindustrieonline" class="fa fa-youtube">YouTube</a></li>
+</ul>
+</section>
+  </div>
+  </div>
+</div>
+<div class="logo_header">
+  <div class="container">
+           <a class="logo navbar-btn pull-left" href="/" title="Startseite">
+
+        <img src="https://www.pharmaindustrie-online.de/sites/default/files/pharmaindustrie-online-logo-website.jpg" alt="Startseite" class="hidden-xs" />
+                      <h1>Das Informationsportal für die Pharmaproduktion, Management &amp; Technik</h1>
+                </a>
+          <div class="region region-banner-header">
+    <section id="block-simpleads-ad-groups-4183" class="block block-simpleads header-ad superbanner clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-4183', 4183, 1);
+  </script>
+    <div class="simpleads-4183"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=9&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=9&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=9&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="728" height="90" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+  </div>
+  </div>
+</div>
+<div id="main_menu" class="hidden-xs">
+  <div class="container ">
+    <div class="navbar-collapse collapse row">
+      <nav role="navigation">
+                  <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/management">Management</a></li>
+<li class="leaf"><a href="/produktion">Produktion</a></li>
+<li class="leaf"><a href="/case-studies">Case Studies</a></li>
+<li class="leaf"><a href="/whitepaper">Whitepaper</a></li>
+<li class="leaf"><a href="/jobs">Jobs</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="last leaf"><a href="/marktplatz" title="">Marktplatz</a></li>
+</ul>              </nav>
+
+    </div>
+    <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="sr-only">Toggle navigation</span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+          </button>
+       </div>
+      <div class="region region-search">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Suchformular</h2>
+    <div class="input-group"><input title="Geben Sie die Begriffe ein, nach denen Sie suchen." placeholder="Suche" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary">Suche</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Suche">Suche</button>
+</div><input type="hidden" name="form_build_id" value="form-6d4iQVOlWAFj0oaqnQfLTD_JhMGyv5PyTcIQU0jXQls" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+  </div>
+  </div>
+</div>
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-9">
+                  <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-simpleads-ad-groups-4179" class="block block-simpleads billboard clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-4179', 4179, 1);
+  </script>
+    <div class="simpleads-4179"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=15&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=15&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=15&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="845" height="250" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+<section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-ef9980c133b76cdb587ee31c22ede511">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-views-front-page-slider-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-front-page-slider view-id-front_page_slider view-display-id-block_1 view-dom-id-8a88c549b430b51d68221574caa80f2b">
+        
+  
+  
+      <div class="view-content">
+      <div id="views-bootstrap-carousel-1" class="views-bootstrap-carousel-plugin-style carousel slide" >
+      <!-- Carousel indicators -->
+    <ol class="carousel-indicators">
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="0" class="active"></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="1" class=""></li>
+              <li data-target="#views-bootstrap-carousel-1" data-slide-to="2" class=""></li>
+          </ol>
+  
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+          <div class="item active">
+        
+
+<div  onclick="location.href='/produktion/digitalisierung-smarte-tools-fuer-tabletten-und-kapselproduktion'" class="node node-article node-promoted view-mode-slider anzeige anzeige">
+        <div class="row">
+      <div class="col-sm-12 ">
+        <div class="field-anzeige">Anzeige</div><div class="top-story">TOP NEW STORY</div><div class="top">1</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/digitalisierung-smarte-tools-fuer-tabletten-und-kapselproduktion">Digitalisierung: Smarte Tools für Tabletten- und Kapselproduktion</a></h2></div></div></div>      </div>
+    </div>
+        <div class="row">
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/slider/public/field/image/fette-osdi-agile-methoden.jpg?itok=5RsiMC85" width="442" height="285" alt="Der neue Geschäftsbereich OSDi von Fette Compacting entwickelt mit agilen Methoden smarte Lösungen für die Produktion von Tabletten und Kapseln." title="Der neue Geschäftsbereich OSDi von Fette Compacting entwickelt mit agilen Methoden smarte Lösungen für die Produktion von Tabletten und Kapseln, Bilder: Fette Compacting" /></div></div></div>      </div>
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Die Corona-Krise hat gezeigt, wie schnell Pharmahersteller heute auf neue Produktionsbedingungen reagieren müssen. Plötzlich ändern sich Verfügbarkeiten und Parameter, Maschinen müssen umgerüstet und Bediener umgeschult werden. All das macht agile Methoden und digitale Werkzeuge zu wichtigen Erfolgsfaktoren. Schon vor der Krise hat Fette Compacting an Digitaltools für...</p></div></div></div><ul class="links list-inline"><li class="comment_forbidden first last"><span>Zum Verfassen von Kommentaren bitte <a href="/user/login?destination=node/2831%23comment-form">Anmelden</a>.</span></li>
+</ul><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/produktion/digitalisierung-smarte-tools-fuer-tabletten-und-kapselproduktion" class="">Weiter</a></div></div></div>      </div>
+    </div>
+    </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+      </div>
+          <div class="item ">
+        
+
+<div  onclick="location.href='/management/analytica-conference-2020-wird-virtuell-stattfinden'" class="node node-article node-promoted view-mode-slider">
+        <div class="row">
+      <div class="col-sm-12 ">
+        <div class="top-story">TOP NEW STORY</div><div class="top">1</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/analytica-conference-2020-wird-virtuell-stattfinden">Analytica Conference 2020 wird virtuell stattfinden</a></h2></div></div></div>      </div>
+    </div>
+        <div class="row">
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/slider/public/field/image/podest_15.jpg?itok=MCoVrmxr" width="442" height="285" alt="Analytica Conference 2020 erstmals virtuell: Neue Ansätze im Kampf gegen Antibiotikaresistenzen" title="Analytica Conference 2020 erstmals virtuell: Neue Ansätze im Kampf gegen Antibiotikaresistenzen, Bild: © razihusin - Fotolia.com" /></div></div></div>      </div>
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Aktuelle Fragestellungen und Lösungsansätze der Analytik stehen im Fokus der Analytica Conference, die vom 19. bis 23. Oktober 2020 im Rahmen der Analytica Virtual rein digital stattfindet. In 31 Sessions, die wiederholt übertragen werden, um eine Teilnahme in allen Zeitzonen zu ermöglichen, berichten führende Fachleute anwendungsbezogen von ihrem Forschungsgebiet -...</p></div></div></div><ul class="links list-inline"><li class="comment_forbidden first last"><span>Zum Verfassen von Kommentaren bitte <a href="/user/login?destination=node/2835%23comment-form">Anmelden</a>.</span></li>
+</ul><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/management/analytica-conference-2020-wird-virtuell-stattfinden" class="">Weiter</a></div></div></div>      </div>
+    </div>
+    </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+      </div>
+          <div class="item ">
+        
+
+<div  onclick="location.href='/management/abb-uebernimmt-codian-und-baut-portfolio-fuer-hochgeschwindigkeits-industrieroboter-aus'" class="node node-article node-promoted view-mode-slider">
+        <div class="row">
+      <div class="col-sm-12 ">
+        <div class="top-story">TOP NEW STORY</div><div class="top">1</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/abb-uebernimmt-codian-und-baut-portfolio-fuer-hochgeschwindigkeits-industrieroboter-aus">ABB übernimmt Codian und baut Portfolio für Hochgeschwindigkeits-Industrieroboter aus</a></h2></div></div></div>      </div>
+    </div>
+        <div class="row">
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/slider/public/field/image/abb_codian_robotics.jpg?itok=qD6DtvYx" width="442" height="285" alt="Mit der Übernahme wird das Portfolio an Hochgeschwindigkeits-Industrierobotern  für die Lebensmittel-, Pharma- und Logistikbranche ergänzt" title="Mit der Übernahme wird das Portfolio an Hochgeschwindigkeits-Industrierobotern  für die Lebensmittel-, Pharma- und Logistikbranche ergänzt, Bild: ABB" /></div></div></div>      </div>
+      <div class="col-sm-6 ">
+        <div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>ABB hat Codian Robotics übernommen, einen Anbieter von Deltarobotern, die vor allem in hochpräzisen Pick-&amp;-Place-Anwendungen zum Einsatz kommen. Das Angebot von Codian Robotics umfasst eine Produktserie für Anwendungen mit hohen Hygieneanforderungen, die sich insbesondere für die Lebensmittel-, Getränke- und Pharmaindustrie eignet. Mit der Übernahme intensiviert...</p></div></div></div><ul class="links list-inline"><li class="comment_forbidden first last"><span>Zum Verfassen von Kommentaren bitte <a href="/user/login?destination=node/2830%23comment-form">Anmelden</a>.</span></li>
+</ul><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/management/abb-uebernimmt-codian-und-baut-portfolio-fuer-hochgeschwindigkeits-industrieroboter-aus" class="">Weiter</a></div></div></div>      </div>
+    </div>
+    </div>
+
+
+<!-- Needed to activate display suite support on forms -->
+      </div>
+      </div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-menu-menu-front-page-menu" class="block block-menu col-md-12 clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/pharmatalk" style="color: purple">Pharma-Talk</a></li>
+<li class="leaf"><a href="/tags/industrie-40" style="color: black">Industrie 4.0</a></li>
+<li class="leaf"><a href="/tags/faelschungssicherheit" style="color: blue">Fälschungssicherheit</a></li>
+<li class="leaf"><a href="/tags/vfa">VfA</a></li>
+<li class="leaf"><a href="/special-achema-2021" style="color: black">Achema 2021</a></li>
+<li class="leaf"><a href="/special-interpack-2021" style="color: black">Interpack 2021</a></li>
+<li class="last leaf"><a href="/special-schuettguttechnik" style="color: red">Schüttguttechnik</a></li>
+</ul>
+</section>
+<section id="block-views-world-topic-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Management</h2>
+    
+  <div class="view view-world-topic view-id-world_topic view-display-id-block view-list-articles front-page view-dom-id-1a6aeb182a49356a0acdeefc8cbba350">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/management/emerson-und-integra-cms-kooperieren-bei-kontinuierlichen-fertigungsprozessen-in-der-pharmaindustrie'" class="node node-article node-promoted view-mode-front_page_teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/emerson-und-integra-cms-arbeiten-zusammen.jpg?itok=FB0tOowY" width="220" height="168" alt="Emerson und Integra CMS arbeiten zusammen" title="Emerson und Integra CMS arbeiten zusammen, um Kunden in der Life-Science-Industrie umfassende Unterstützung für kontinuierliche Fertigungsprozesse zu bieten. Kontinuierliche Fertigung reduziert die Kosten und verbessert den Durchsatz, die Qualität und die Zuverlässigkeit der pharmazeutischen Herstellung, Bild: Emerson" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/emerson-und-integra-cms-kooperieren-bei-kontinuierlichen-fertigungsprozessen-in-der-pharmaindustrie">Emerson und Integra CMS kooperieren bei kontinuierlichen Fertigungsprozessen in der Pharmaindustrie</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Emerson, ein weltweit führendes Unternehmen für Fertigungssoftware und -technologie, hat ein gemeinsames Kommerzialisierungsabkommen mit Integra CMS unterzeichnet, einem auf die Spezifikation und Implementierung von Systemen zur kontinuierlichen pharmazeutischen Produktion spezialisierten Beratungsunternehmen, um umfassende Technologien und Dienstleistungen für kontinuierliche Prozesse bereitzustellen. Beide Unternehmen verfolgen die beschleunigte Einführung kontinuierlicher Fertigungsverfahren in der gesamten Branche.</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/management/emerson-und-integra-cms-kooperieren-bei-kontinuierlichen-fertigungsprozessen-in-der-pharmaindustrie" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/coveris-rohrdorf.jpg?itok=zhC3a_sP" width="81" height="49" alt="Coveris bezieht neuen Standort für moderne Medizinverpackung" title="Coveris bezieht neuen Standort für moderne Medizinverpackung, Bild: Coveris" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/coveris-bezieht-neuen-standort-fuer-moderne-medizinverpackung">Coveris bezieht neuen Standort für moderne Medizinverpackung</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/unitax_spatenstich_brandenburg.jpg?itok=0mB5tW_S" width="81" height="49" alt="Unitax: Freuen sich auf das neue Lager für Betäubungsmittel" title="Freuen sich auf das neue Lager für Betäubungsmittel (v.l.n.r.): André Reich, Unitax CEO; Grit Jedamzik, Unitax COO und Fabian Lüderitz, Leiter Pharmalager, Bild: Unitax-Pharmalogistik" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/spatenstich-in-brandenburg-unitax-baut-betaeubungsmittellogistik-aus">Spatenstich in Brandenburg: Unitax baut Betäubungsmittellogistik aus</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/messtechnik.jpg?itok=xKiqwjOU" width="81" height="49" alt="Testen, messen, prüfen - essenziell für alle Branchen, nicht nur in der Corona-Pandemie" title="Testen, messen, prüfen - essenziell für alle Branchen, nicht nur in der Corona-Pandemie, Bild: fotolia.com - CrazyCloud" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/szenario-studie-vom-vdma-mess-und-prueftechnik-ist-fortschrittsmotor-fuer-den-maschinenbau">Szenario-Studie vom VDMA: Mess- und Prüftechnik ist Fortschrittsmotor für den Maschinenbau</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/kuenstliche-intelligenz-sartorius-erwirbt-gesellschafter-anteil-am-dfki">Künstliche Intelligenz: Sartorius erwirbt Gesellschafter-Anteil am DFKI</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/roechling-gruppe-investiert-50-millionen-euro-in-unternehmensbereich-medical">Röchling-Gruppe investiert 50 Millionen Euro in Unternehmensbereich Medical</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/siegfried-uebernimmt-zwei-pharmazeutische-produktionsstaetten-von-novartis-in-spanien">Siegfried übernimmt zwei pharmazeutische Produktionsstätten von Novartis in Spanien</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/management">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-3485" class="block block-simpleads two-banner-middle highlight-blocks clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-3485', 3485, 2);
+  </script>
+    <div class="simpleads-3485"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=14&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=14&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=14&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="300" height="100" /&gt;<br /></a><br /></noscript>
+</div>                        <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=16&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=16&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=16&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="300" height="100" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+<section id="block-views-sport-topic-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Produktion</h2>
+    
+  <div class="view view-sport-topic view-id-sport_topic view-display-id-block view-list-articles front-page view-dom-id-418a4ea4753066d8da3d9d3543fc5893">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/produktion/abb-roboter-beschleunigen-covid-19-tests-in-singapur'" class="node node-article node-promoted view-mode-front_page_teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/abb_covid19_testing_singapur.jpg?itok=h6y7zkGK" width="220" height="168" alt="Zwei Rave-Einheiten mitsamt zugehöriger Ausrüstung können annähernd 4.000 Proben am Tag verarbeiten" title="Zwei Rave-Einheiten mitsamt zugehöriger Ausrüstung können annähernd 4.000 Proben am Tag verarbeiten. Nachdem Rave im Juli 2020 erstmals präsentiert wurde, hat ABB bereits einen Auftrag für 14 weitere Roboter erhalten, Bild: ABB" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/abb-roboter-beschleunigen-covid-19-tests-in-singapur">ABB-Roboter beschleunigen Covid-19-Tests in Singapur</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">In Singapur kommen hochpräzise Roboter von ABB in einem neuartigen automatisierten Laborsystem - dem Rapid Automated Volume Enhancer (Rave) - zum Einsatz, um die Kapazitäten des Landes für Covid-19-Tests zu steigern. Das System automatisiert eine Reihe manueller Tätigkeiten, die bei der Bearbeitung der Proben herkömmlicherweise anfallen. Zwei Rave-Einheiten mitsamt zugehöriger Ausrüstung können annähernd 4.000 Proben am Tag verarbeiten und sind damit führend in diesem Bereich. Darüber hinaus mindert Rave das Risiko einer Infektion beim Test...</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/produktion/abb-roboter-beschleunigen-covid-19-tests-in-singapur" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/coherent-sapphire-laser.jpg?itok=EXD-D9YB" width="81" height="49" alt="Alle Laser haben die gleiche Form und Strahllage und sind identisch anzusteuern" title="Alle Laser haben die gleiche Form und Strahllage und sind identisch anzusteuern, Bild: Coherent" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/meilenstein-coherent-liefert-50000sten-coherent-sapphire-laser-aus">Meilenstein: Coherent liefert 50.000sten Coherent Sapphire Laser aus</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines anzeige anzeige">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/rembe-signalisierungssystem-nimu.jpg?itok=eN8k51wS" width="81" height="49" alt="Signalisierung NIMU (nicht invasive Berstscheiben-Überwachung) von Rembe" title="Signalisierung NIMU (nicht invasive Berstscheiben-Überwachung), Bild: REMBE" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field-anzeige">Anzeige</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/mit-non-invasiver-signalisierung-ueberfluessige-stillstandzeiten-vermeiden">Mit non-invasiver Signalisierung überflüssige Stillstandzeiten vermeiden</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/smp_flexi-cap_cts_csl-behring.jpg?itok=zXHuNpDd" width="81" height="49" alt="Die Kombination aus Flexi-Cap und Booklet-Label verblindet das Vial und bietet ausreichend Platz für Produktinformationen in mehreren Sprachen" title="Die Kombination aus Flexi-Cap und Booklet-Label verblindet das Vial und bietet ausreichend Platz für Produktinformationen in mehreren Sprachen, Bild: Schreiner Medipharm" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/speziallabel-verblindet-vials-fuer-klinische-studie-von-csl-behring">Speziallabel verblindet Vials für klinische Studie von CSL Behring</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/loesung-zur-etiketteninspektion-minimiert-nacharbeiten">Lösung zur Etiketteninspektion minimiert Nacharbeiten</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/gepruefte-human-machine-interfaces-fuer-reinraumumgebungen">Geprüfte Human Machine Interfaces für Reinraumumgebungen</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/edelstahl-stehlager-fuer-food-und-pharma-anwendungen">Edelstahl-Stehlager für Food- und Pharma-Anwendungen</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/produktion">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-views-special-tag-view1-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Special: Industrie 4.0</h2>
+    
+  <div class="view view-special-tag-view1 view-id-special_tag_view1 view-display-id-block view-list-articles front-page view-dom-id-3f748149b7727cf3eccd65cd3a75029d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/management/szenario-studie-vom-vdma-mess-und-prueftechnik-ist-fortschrittsmotor-fuer-den-maschinenbau'" class="node node-article node-promoted view-mode-front_page_teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/messtechnik.jpg?itok=VplY8cZA" width="220" height="168" alt="Testen, messen, prüfen - essenziell für alle Branchen, nicht nur in der Corona-Pandemie" title="Testen, messen, prüfen - essenziell für alle Branchen, nicht nur in der Corona-Pandemie, Bild: fotolia.com - CrazyCloud" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/szenario-studie-vom-vdma-mess-und-prueftechnik-ist-fortschrittsmotor-fuer-den-maschinenbau">Szenario-Studie vom VDMA: Mess- und Prüftechnik ist Fortschrittsmotor für den Maschinenbau</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Die neue Zukunftsstudie „Progressive Mess- und Prüftechnik 2030“ des VDMA Competence Center Future Business zeigt Trends und Disruptionen, die sich auf die Fähigkeit auswirken, weiterhin anwendungsorientiert Spitzenqualität in der Mess- und Prüftechnik anzubieten. Ohne zuverlässige Messdaten kann eine Gesellschaft nicht in Sicherheit leben, sind faktenbasierte Entscheidungen nicht möglich. Die Qualität von Alltagsprodukten und industrieller Produktion, die Sicherheit beim Autofahren und Fliegen, gesunde Ernährung, Medizin und Umweltschutz -...</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/management/szenario-studie-vom-vdma-mess-und-prueftechnik-ist-fortschrittsmotor-fuer-den-maschinenbau" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/johan_nilsson_syntegon.jpg?itok=B0P5TvDJ" width="81" height="49" alt="Johan Nilsson, Geschäftsführer Service &amp; Digital Solutions bei Syntegon Technology" title="Johan Nilsson, Geschäftsführer Service &amp; Digital Solutions bei Syntegon Technology, Bild: Syntegon" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/syntegon-mit-neuem-geschaeftsfuehrer-fuer-service-digital-solutions">Syntegon mit neuem Geschäftsführer für Service &amp; Digital Solutions</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/miysis_3d_korsch_2020.jpg?itok=ez8ENBil" width="81" height="49" alt="Die neue X3 bietet einen hohen Grad an Flexibilität und Produktionskapazitäten, die traditionell auf große Tablettieranlagen beschränkt sind" title="Die neue X3 bietet einen hohen Grad an Flexibilität und Produktionskapazitäten, die traditionell auf große Tablettieranlagen beschränkt sind, Bild: Korsch" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/tablettiertechnologie-im-medium-size-segment-mit-integriertem-schaltschrank-und-geschlossenem-design">Tablettiertechnologie im Medium-Size-Segment mit integriertem Schaltschrank und geschlossenem Design</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/achema_2018.jpg?itok=HNvj2qP_" width="81" height="49" alt="Impression von der Achema 2018 in Halle 8" title="Impression von der Achema 2018 in Halle 8, Bild: Dechema e.V. / Helmut Stettin" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/special-achema-2021/achema-2021-bereits-85-prozent-der-ausstellungsflaechen-vermietet">Achema 2021: Bereits 85 Prozent der Ausstellungsflächen vermietet</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/geplanter-spectaris-standard-fuer-laborgeraetekommunikation-wird-international">Geplanter Spectaris-Standard für Laborgerätekommunikation wird international</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/pepperlfuchs-schliesst-umwandlung-zur-se-erfolgreich-ab">Pepperl+Fuchs schließt Umwandlung zur SE erfolgreich ab</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/sitrans-sam-iq-app-verbessert-nutzung-von-feldgeraete-daten">Sitrans SAM IQ-App verbessert Nutzung von Feldgeräte-Daten</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/special-industrie-40">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-views-special-tag-view2-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Special: Schüttguttechnik</h2>
+    
+  <div class="view view-special-tag-view2 view-id-special_tag_view2 view-display-id-block view-list-articles front-page view-dom-id-ca1c7a7ccc50983b4233adf445c04e81">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/management/powtech-2020-nun-auch-als-special-edition-abgesagt'" class="node node-article node-promoted view-mode-front_page_teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/powtech-messevorschau-2020.gif?itok=Gye1uoq1" width="220" height="168" alt="Powtech 2020 in Nürnberg abgesagt" title="Die Powtech 2020 Special Edition wird wegen fehlender Nachfrage abgesagt, Bild: Nürnberg Messe / Thomas Geiger" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/powtech-2020-nun-auch-als-special-edition-abgesagt">Powtech 2020 nun auch als Special Edition abgesagt</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Die für Ende September 2020 als Special Edition umgeplante Powtech 2020 findet nicht statt. Aufgrund der zu geringen Ausstellerbuchungen hat der Ausrichter Nürnberg Messe nun auch das Ersatz-Konzept abgesagt. Angedacht war mit Rücksicht auf die Covid-19-Krise ein reduziertes Veranstaltungsformat für die Schüttgutveranstaltung mit einem festen Messestand-Konzept und Fachforen in zwei Messehallen sowie mehr digitalen Angeboten. Die Veranstalter der Fachmesse für mechanische Verfahrenstechnik, Analyse und Handling von Pulver und Schüttgütern...</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/management/powtech-2020-nun-auch-als-special-edition-abgesagt" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/powtech_2020.jpg?itok=JqP6JKHX" width="81" height="49" alt="Die Fachmesse Powtech 2020 findet als Special Edition statt" title="Die Fachmesse Powtech 2020 findet als Special Edition statt, Bild: Nürnberg Messe" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/neues-format-powtech-2020-findet-als-special-edition-in-nuernberg-statt">Neues Format: Powtech 2020 findet als &quot;Special Edition&quot; in Nürnberg statt</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/easyfairs_solids_2020_2021.jpg?itok=F7zZ6qMX" width="81" height="49" alt="Die Fachmessen Solids &amp; Recycling-Technik Dortmund werden auf 17. Und 18. März 2021" title="Die Fachmessen Solids &amp; Recycling-Technik Dortmund werden auf 17. Und 18. März 2021 verlegt, Bild: Easyfairs" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/management/solids-recycling-technik-dortmund-wird-auf-maerz-2021-verschoben">Solids &amp; Recycling-Technik Dortmund wird auf März 2021 verschoben</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/ystral-prozessanlage-tablettenlack.jpg?itok=9XD_y41Y" width="81" height="49" alt="Mobile Ystral Prozessanlage zur Herstellung von Tablettenlack" title="Mobile Ystral Prozessanlage zur Herstellung von Tablettenlack, Bild: Ystral" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/produktion/pulver-und-pulvergemische-in-der-pharmaproduktion-effizient-verarbeiten">Pulver und Pulvergemische in der Pharmaproduktion effizient verarbeiten</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/pharma-extruder-jetzt-in-baugroesse-26-und-mit-neuem-pharma-dosierer">Pharma-Extruder jetzt in Baugröße 26 und mit neuem Pharma-Dosierer</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/special-powtech-2020/powtech-2020-schrittmacher-fuer-verfahrenstechnik-und-nachhaltige-produktion">Powtech 2020: Schrittmacher für Verfahrenstechnik und nachhaltige Produktion</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/generationswechsel-j-engelsmann-mit-neuem-vorstand">Generationswechsel: J. Engelsmann mit neuem Vorstand</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/special-schuettguttechnik">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-4184" class="block block-simpleads superbanner-b clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-4184', 4184, 1);
+  </script>
+    <div class="simpleads-4184"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=17&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=17&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=17&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="728" height="90" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+<section id="block-block-8" class="block block-block col-md-5 clearfix">
+
+      
+  <!--smart_paging_filter--><p class="rtecenter">
+<iframe width="300" height="250" src="https://www.youtube-nocookie.com/embed/pfDJ_s1D25Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+</section>
+<section id="block-views-bild-slider-block" class="block block-views col-md-6 clearfix">
+
+        <h2 class="block-title">MARKTPLATZ</h2>
+    
+  <div class="view view-bild-slider view-id-bild_slider view-display-id-block view-dom-id-e5323338dfc3481ea574a6bb4b8889aa">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  onclick="location.href='/marktplatz/group7-ag-international-logistics'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/group7-ag-international-logistics"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/group-7-logo-marktplatz.gif" width="150" height="100" alt="Group7 Logo" title="Logo, Bild: Group7 AG International Logistics" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/group7-ag-international-logistics">GROUP7 AG International Logistics</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  onclick="location.href='/marktplatz/copa-data-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/copa-data-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/copadata-logo.gif" width="150" height="75" alt="Copa-Data Logo" title="Logo, Bild: COPA-Data GmbH" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/copa-data-gmbh">COPA-DATA GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  onclick="location.href='/marktplatz/unitax-pharmalogistik-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/unitax-pharmalogistik-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/unitax-logo-quer.gif" width="150" height="70" alt="Unitax Pharmalogistik Logo" title="Logo, Bild: UNITAX-Pharmalogistik GmbH" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/unitax-pharmalogistik-gmbh">UNITAX-Pharmalogistik GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div  onclick="location.href='/marktplatz/emerson-process-management-gmbh-co-ohg'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/emerson-process-management-gmbh-co-ohg"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/emerson-logo.gif" width="150" height="94" alt="Emerson Logo" title="Logo, Bild: Emerson Process Management " /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/emerson-process-management-gmbh-co-ohg">Emerson Process Management GmbH &amp; Co. OHG</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div  onclick="location.href='/marktplatz/gerresheimer-ag'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/gerresheimer-ag"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/gerresheimer-logo.gif" width="205" height="45" alt="Gerresheimer AG Logo" title="Logo, Bild: Gerresheimer AG" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/gerresheimer-ag">Gerresheimer AG</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div  onclick="location.href='/marktplatz/verder-deutschland-gmbh-co-kg'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/verder-deutschland-gmbh-co-kg"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/verder-pumpen.logo_.gif" width="151" height="52" alt="Verder Pumpen" title="Logo, Bild: Verder Deutschland" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/verder-deutschland-gmbh-co-kg">Verder Deutschland GmbH &amp; Co. KG</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div  onclick="location.href='/marktplatz/gebr-loedige-maschinenbau-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/gebr-loedige-maschinenbau-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/loedige-logo.jpg" width="150" height="75" alt="Gebrüder Lödige Maschinenbau Logo" title="Gebrüder Lödige Maschinenbau Logo" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/gebr-loedige-maschinenbau-gmbh">Gebr. Lödige Maschinenbau GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div  onclick="location.href='/marktplatz/rembe-gmbh-safety-control'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/rembe-gmbh-safety-control"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/rembe-logo-mit-claim.gif" width="200" height="68" alt="Rembe Logo" title="Rembe Logo" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/rembe-gmbh-safety-control">REMBE® GmbH Safety + Control</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div  onclick="location.href='/marktplatz/eurogard-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/eurogard-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/eurogard-logo_0.gif" width="150" height="106" alt="Eurogard Logo" title="Logo, Bild: eurogard GmbH" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/eurogard-gmbh">eurogard GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+    <div  onclick="location.href='/marktplatz/transco-berlin-brandenburg-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/transco-berlin-brandenburg-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/marktplatz-transco-berlin-logo.jpg" width="150" height="60" alt="Transco Berlin Brandenburg" title="Transco Berlin Brandenburg" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/transco-berlin-brandenburg-gmbh">Transco Berlin Brandenburg GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+    <div  onclick="location.href='/marktplatz/ruland-engineering-consulting-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/ruland-engineering-consulting-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/ruland_logo_2017.jpg" width="118" height="60" alt="Ruland Logo" title="Logo Ruland" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/ruland-engineering-consulting-gmbh">Ruland Engineering &amp; Consulting GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+    <div  onclick="location.href='/marktplatz/bluhm-systeme-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/bluhm-systeme-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/logo_bluhm_kennzeichnungstechnik.jpg" width="150" height="90" alt="Logo Bluhm Systeme" title="Bluhm Systeme Kennzeichnungstechnik" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/bluhm-systeme-gmbh">Bluhm Systeme GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+    <div  onclick="location.href='/marktplatz/domino-deutschland-gmbh'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/domino-deutschland-gmbh"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/domino_logo_marktplatz.jpg" width="150" height="90" alt="" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/domino-deutschland-gmbh">Domino Deutschland GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+    <div  onclick="location.href='/marktplatz/infraserv-gmbh-co-hoechst-kg'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/infraserv-gmbh-co-hoechst-kg"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/infraserv-hoechst-logo-marktplatz.gif" width="150" height="80" alt="Logo Infraserv Höchst" title="Logo Infraserv Höchst" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/infraserv-gmbh-co-hoechst-kg">Infraserv GmbH &amp; Co. Höchst KG</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-15 views-row-odd">
+    <div  onclick="location.href='/marktplatz/pharmaserv-gmbh-co-kg'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/pharmaserv-gmbh-co-kg"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/pharmaserv-logo.jpg" width="150" height="90" alt="Pharmaserv Logo" title="Pharmaserv Logo" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/pharmaserv-gmbh-co-kg">Pharmaserv GmbH</a></h4></div></div></div></div>
+
+  </div>
+  <div class="views-row views-row-16 views-row-even views-row-last">
+    <div  onclick="location.href='/marktplatz/tropal-media-ug-haftungsbeschraenkt'" class="ds-1col node node-marktplatz view-mode-image clearfix">
+
+  
+  <a href="/marktplatz/tropal-media-ug-haftungsbeschraenkt"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/marktplatz/tropal_media_logo-marktplatz.jpg" width="150" height="75" alt="Logo Tropal Media" title="Tropal Media Logo" /></a><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h4><a href="/marktplatz/tropal-media-ug-haftungsbeschraenkt">Tropal Media GmbH</a></h4></div></div></div></div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-4185" class="block block-simpleads superbanner-a clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-4185', 4185, 1);
+  </script>
+    <div class="simpleads-4185"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=22&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=22&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=22&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="728" height="90" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+<section id="block-views-technology-topic-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Case Studies</h2>
+    
+  <div class="view view-technology-topic view-id-technology_topic view-display-id-block view-list-articles front-page view-dom-id-44368c1ce45467b081aae796843d3d82">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/case-studies/boehringer-ingelheim-beauftragt-gehaeusebaugruppe-der-neuen-generation-von-respimat-inhalatoren'" class="node node-article node-promoted view-mode-front_page_teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/gerresheimer_respimat.jpg?itok=8psj_bg9" width="220" height="168" alt="Montageanlage für die Gehäusebaugruppe des wiederverwendbaren Respimat" title="Montageanlage für die Gehäusebaugruppe des wiederverwendbaren Respimat, Bild: Gerresheimer" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/case-studies/boehringer-ingelheim-beauftragt-gehaeusebaugruppe-der-neuen-generation-von-respimat-inhalatoren">Boehringer Ingelheim beauftragt Gehäusebaugruppe der neuen Generation von Respimat-Inhalatoren</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Gerresheimer ist von Boehringer Ingelheim mit der Entwicklung und Großserienfertigung der Gehäusebaugruppe der neuen Generation von Respimat-Inhalatoren beauftragt worden. Das umweltfreundliche Nachfolgemodell des etablierten Inhalators Respimat kann nacheinander mit bis zu sechs Wirkstoffpatronen bestückt werden und sorgt so für weniger Abfall und einen deutlich verringerten CO2-Fußabdruck im Laufe des Produktlebenszyklus. Gerresheimer hat die Gehäusebaugruppe für den neuen Inhalator entwickelt und die Vorserien- und Serienwerkzeuge sowie die...</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/case-studies/boehringer-ingelheim-beauftragt-gehaeusebaugruppe-der-neuen-generation-von-respimat-inhalatoren" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/syntegon_flk_klosterfrau.jpg?itok=xVnhJ4Ae" width="81" height="49" alt="Die neue Linie von Syntegon Technology entspricht den notwendigen Atex-Standards" title="Durch den hohen Alkoholanteil sind viele Produkte von Klosterfrau leichtentzündlich und können explosionsfähige Gas/Luft-Gemische bilden. Die neue Linie von Syntegon Technology entspricht den notwendigen Atex-Standards. Das geschlossene System bietet Sicherheit für Mitarbeiter und Produkte, Bild: Syntegon" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/case-studies/flexible-abfuellung-klosterfrau-setzt-auf-atex-zertifizierte-fuell-und-verschliesslinie">Flexible Abfüllung: Klosterfrau setzt auf Atex-zertifizierte Füll- und Verschließlinie</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/gerresheimer_behaelter_pharma.jpg?itok=Lcp2Jsu_" width="81" height="49" alt="Kunststoffdose DB39 von Gerresheimer, in der Dexamethason-Tabletten abgefüllt werden" title="Kunststoffdose DB39 von Gerresheimer, in der die Dexamethason-Tabletten für die Behandlung schwerkranker Covid 19-Patienten abgefüllt werden, Bild: Gerresheimer" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/case-studies/gerresheimer-liefert-primaerpackmittel-fuer-verpackung-von-dexamethason">Gerresheimer liefert Primärpackmittel für Verpackung von Dexamethason</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/alliance-healthcare-emslicht.jpg?itok=xz8KTZVJ" width="81" height="49" alt="Aufgrund der deutlich geringeren Wärmeabstrahlung der LEDs gegenüber den zuvor eingebauten konventionellen Leuchtstofflampen wird die Klimatechnik erheblich entlastet" title="Aufgrund der deutlich geringeren Wärmeabstrahlung der LEDs gegenüber den zuvor eingebauten konventionellen Leuchtstofflampen wird die Klimatechnik erheblich entlastet, Bild: Emslicht" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/case-studies/energieeffizienz-durch-leds-im-lager-des-pharmazie-grosshaendlers-alliance-healthcare">Energieeffizienz durch LEDs im Lager des Pharmazie-Großhändlers Alliance Healthcare</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/case-studies/standardkonforme-dichtung-fuer-hygienisches-hochdruckventil">Standardkonforme Dichtung für hygienisches Hochdruckventil</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title anzeige anzeige">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field-anzeige">Anzeige</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/case-studies/eson-pac-ag-serialisiert-pharmaetiketten-mit-bluhm-systeme">Eson Pac AG serialisiert Pharmaetiketten mit Bluhm Systeme</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/case-studies/waegeloesungen-fuer-die-covid-19-impfstoffproduktion">Wägelösungen für die Covid-19 Impfstoffproduktion</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/case-studies">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-views-whitepaper-topic-block" class="block block-views view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Whitepaper</h2>
+    
+  <div class="view view-whitepaper-topic view-id-whitepaper_topic view-display-id-block view-list-articles front-page view-dom-id-25832d3f6a24b63a5e4b4f0fbbf2379b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-5">
+    
+
+<div  onclick="location.href='/whitepaper/tinte-oder-laser-produkt-und-verpackungskennzeichnung-im-vergleich'" class="node node-article node-promoted view-mode-front_page_teaser anzeige anzeige">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field-anzeige">Anzeige</div><div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/article_detail/public/field/image/bluhm-kennzeichnung-medikamente.jpg?itok=sRtBjC6D" width="220" height="168" alt="Bluhm Systeme Chargenkennzeichnung Medikamente " title="Die EU-Fälschungsschutzrichtlinie sieht den Aufdruck der Seriennummer in Klarschrift und verschlüsselt als Datamatrix-Code vor, Bilder: Bluhm Systeme" /></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/whitepaper/tinte-oder-laser-produkt-und-verpackungskennzeichnung-im-vergleich">Tinte oder Laser? Produkt- und Verpackungskennzeichnung im Vergleich</a></h2></div></div></div><div class="field field-name-field-introtext field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Nicht nur zur Realisierung des Fälschungsschutzes stellen Arzneimittelhersteller höchste Anforderungen an die Pharma-Kennzeichnung. Neben Druckgeschwindigkeit und -qualität zählt dazu vor allem auch die hohe Verfügbarkeit. Direkte Kennzeichnung von Pharmaverpackungen mittels Tinte oder Laser schafft jedoch nicht nur Fälschungssicherheit, sondern ermöglicht zudem die Verbraucherinformation sowie die Automatisierung von Produktions- und Logistikprozessen. Neben Chargennummern und Haltbarkeitsdaten werden daher auch verschiedene maschinell...</div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/whitepaper/tinte-oder-laser-produkt-und-verpackungskennzeichnung-im-vergleich" class="">Weiter</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines anzeige anzeige">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/atlas-copco-kompressorstation.jpg?itok=lPMDGee0" width="81" height="49" alt="Atlas Copco Kompressorstation" title="Wie sich mit effizienten Kompressoren, mit Aufbereitungstechnik und modernen Steuerungen die Druckluftversorgung energetisch auf Vordermann bringen lässt, beschreibt Atlas Copco in einem Whitepaper, das kostenlos erhältlich ist, Bild: Atlas Copco" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field-anzeige">Anzeige</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/whitepaper/einsparpotenziale-in-der-druckluftversorgung-heben">Einsparpotenziale in der Druckluftversorgung heben</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/august-faller-whitepaper-etiketten.jpg?itok=BOqshcJE" width="81" height="49" alt="Der Verpackungsspezialist August Faller veröffentlicht ein Whitepaper zum Thema Pharma-Etiketten zum kostenlosen Download" title="Der Verpackungsspezialist August Faller veröffentlicht ein Whitepaper zum Thema Pharma-Etiketten zum kostenlosen Download, Bild: August Faller Group" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/whitepaper/whitepaper-zum-thema-pharma-etiketten">Whitepaper zum Thema Pharma-Etiketten</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title_and_two_lines anzeige anzeige">
+
+
+<div class="row">
+<div class="col-sm-3 ">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/styles/small_81x49/public/field/image/beko-druckluft-pharmaindustrie-whitepaper.jpg?itok=BkxM302f" width="81" height="49" alt="Druckluft Pharmaindustrie" title="Whitepaper zur Druckluft in der Pharmaindustrie, Bild: BEKO TECHNOLOGIES GmbH" /></div></div></div></div>
+
+<div class="col-sm-9 ">
+<div class="field-anzeige">Anzeige</div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2><a href="/whitepaper/whitepaper-druckluft-in-der-pharmaindustrie">Whitepaper: Druckluft in der Pharmaindustrie</a></h2></div></div></div></div>
+
+</div>
+</div>
+
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/whitepaper/whitepaper-wirtschaftliches-containment-im-pharma-packaging">Whitepaper: Wirtschaftliches Containment im Pharma Packaging</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-6 views-row-even col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/whitepaper/whitepaper-zum-thema-pat-in-der-biopharmabranche">Whitepaper zum Thema „PAT in der Biopharmabranche“</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last col-md-5">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/whitepaper/whitepaper-loesungen-an-pharmazeutischen-verpackungen-mit-erweiterten-kommunikationsflaechen">Whitepaper: Lösungen an pharmazeutischen Verpackungen mit erweiterten Kommunikationsflächen</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/whitepaper">
+    Mehr  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-views-entertainment-topic-block" class="block block-views col-xs-12 col-md-6 col-lg-8 view-list-articles-container front-page-container view-list-articles-container front-page-container clearfix">
+
+        <h2 class="block-title">Events</h2>
+    
+  <div class="view view-entertainment-topic view-id-entertainment_topic view-display-id-block view-list-articles front-page view-dom-id-9714cdbd2a2ec050cb57c6fa1d1c1c4c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-md-12">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/events/abgesagt-parts-2-clean-stuttgart-27-29102020">ABGESAGT: Parts-2-Clean, Stuttgart (27.-29.10.2020)</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-md-12">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/events/msr-spezialmesse-rhein-ruhr-bochum-04112020">MSR-Spezialmesse Rhein-Ruhr, Bochum (04.11.2020)</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd col-md-12">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/events/cleanzone-frankfurt-am-main-10-11112020">ABGESAGT: Cleanzone, Frankfurt am Main (18.-19.11.2020)</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-4 views-row-even col-md-12">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/events/sps-smart-production-solutions-nuernberg-24-26112020">ABGESAGT: SPS Smart Production Solutions, Nürnberg (24.-26.11.2020)</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last col-md-12">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/events/interpack-duesseldorf-2502-03032021">Interpack, Düsseldorf (25.02.-03.03.2021)</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/events">
+    Alle  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-3487" class="block block-simpleads ad-front-rectangle clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-3487', 3487, 1);
+  </script>
+    <div class="simpleads-3487"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="250" src="https://www.youtube-nocookie.com/embed/Be1LTbGYsow" width="300"></iframe></p>
+</div>            
+</div>
+
+</section>
+  </div>
+    </section>
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-second">
+    <section id="block-views-latest-news-block" class="block block-views view-list-articles-container view-list-articles-container clearfix">
+
+        <h2 class="block-title">Latest News</h2>
+    
+  <div class="view view-latest-news view-id-latest_news view-display-id-block view-list-articles view-dom-id-3c7993ae4d2cc79bf61f4ac413248936">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/emerson-und-integra-cms-kooperieren-bei-kontinuierlichen-fertigungsprozessen-in-der-pharmaindustrie">Emerson und Integra CMS kooperieren bei kontinuierlichen Fertigungsprozessen in der Pharmaindustrie</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/coveris-bezieht-neuen-standort-fuer-moderne-medizinverpackung">Coveris bezieht neuen Standort für moderne Medizinverpackung</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/produktion/abb-roboter-beschleunigen-covid-19-tests-in-singapur">ABB-Roboter beschleunigen Covid-19-Tests in Singapur</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/spatenstich-in-brandenburg-unitax-baut-betaeubungsmittellogistik-aus">Spatenstich in Brandenburg: Unitax baut Betäubungsmittellogistik aus</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    
+
+<div  class="node node-article node-promoted view-mode-title">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p class="small_title"><a href="/management/szenario-studie-vom-vdma-mess-und-prueftechnik-ist-fortschrittsmotor-fuer-den-maschinenbau">Szenario-Studie vom VDMA: Mess- und Prüftechnik ist Fortschrittsmotor für den Maschinenbau</a></p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-simpleads-ad-groups-4186" class="block block-simpleads image-ad wide-skyscraper clearfix">
+
+      
+  <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    //_simpelads_load('.simpleads-4186', 4186, 1);
+  </script>
+    <div class="simpleads-4186"></div>
+
+                      <div class="simplead-container text-ad ">
+  <!--smart_paging_filter--><p></p>
+<script src="https://tropal-media.adspirit.de/adscript.php?pid=10&amp;ord=[timestamp]" type="text/javascript"></script><p></p><noscript><br /><a href="https://tropal-media.adspirit.de/adnoclick.php?pid=10&amp;ord=[timestamp]" target="_top"><br /><img src="https://tropal-media.adspirit.de/adnoscript.php?pid=10&amp;ord=[timestamp]" />
+       alt="Hier klicken!" border="0" width="160" height="600" /&gt;<br /></a><br /></noscript>
+</div>            
+</div>
+
+</section>
+<section id="block-cleverreach-pio-nl-cleverreach" class="block block-cleverreach clearfix">
+
+        <h2 class="block-title">Newsletter</h2>
+    
+  <form action="/" method="post" id="cleverreach-subscribe-form-pio-nl-cleverreach" accept-charset="UTF-8"><div><div class="form-item form-item-email form-type-textfield form-group"> <label class="control-label" for="edit-email">E-Mail: <span class="form-required" title="Diese Angabe wird benötigt.">*</span></label>
+<input class="form-control form-text required" type="text" id="edit-email" name="email" value="" size="25" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-XZDQ3GAu7jFTezYZio1RMiPTDmiHzTQn8fANuHEr6U4" />
+<input type="hidden" name="form_id" value="cleverreach_subscribe_form_pio_nl_cleverreach" />
+<button type="submit" id="edit-submit--2" name="op" value="abonnieren" class="btn btn-default form-submit">abonnieren</button>
+</div></form>
+</section>
+<section id="block-poll-recent" class="block block-poll clearfix">
+
+        <h2 class="block-title">Umfrage</h2>
+    
+  <form action="/tags/whitepaper" method="post" id="poll-view-voting" accept-charset="UTF-8"><div><div class="poll">
+  <div class="vote-form">
+    <div class="choices">
+              <div class="title">Welche Informationskanäle bevorzugen Sie in Bezug auf Aktualität im Berufsalltag?</div>
+            <div class="form-item form-item-choice form-type-radios form-group"><div id="edit-choice" class="form-radios"><div class="form-item form-item-choice form-type-radio radio"> <label class="control-label" for="edit-choice-2"><input type="radio" id="edit-choice-2" name="choice" value="2" class="form-radio" />Fachzeitschriften</label>
+</div><div class="form-item form-item-choice form-type-radio radio"> <label class="control-label" for="edit-choice-3"><input type="radio" id="edit-choice-3" name="choice" value="3" class="form-radio" />Wirtschaftspresse</label>
+</div><div class="form-item form-item-choice form-type-radio radio"> <label class="control-label" for="edit-choice-4"><input type="radio" id="edit-choice-4" name="choice" value="4" class="form-radio" />Online-Branchenportale</label>
+</div><div class="form-item form-item-choice form-type-radio radio"> <label class="control-label" for="edit-choice-5"><input type="radio" id="edit-choice-5" name="choice" value="5" class="form-radio" />Hersteller-Webseiten</label>
+</div><div class="form-item form-item-choice form-type-radio radio"> <label class="control-label" for="edit-choice-6"><input type="radio" id="edit-choice-6" name="choice" value="6" class="form-radio" />Hersteller-Kundenmagazine</label>
+</div></div> <label class="control-label element-invisible" for="edit-choice">Auswahlmöglichkeiten</label>
+</div>    </div>
+    <button type="submit" id="edit-vote" name="op" value="Abstimmen" class="btn btn-default form-submit">Abstimmen</button>
+  </div>
+    <input type="hidden" name="form_build_id" value="form-d226Cv_-WUmFys707Y5pD4cf4_MgNH2gx1G-CIGtQJY" />
+<input type="hidden" name="form_id" value="poll_view_voting" />
+</div>
+</div></form><ul class="links"><li class="0 first"><a href="/poll" title="Umfragen dieser Website anzeigen.">Ältere Umfragen</a></li>
+<li class="1 last"><a href="/node/892/results" title="Aktuelle Umfrageergebnisse anzeigen.">Resultate</a></li>
+</ul>
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+  <div class='prefooter'>
+      <div class="region region-prefooter">
+    <section id="block-nodesinblock-0" class="block block-nodesinblock clearfix">
+
+        <h2 class="block-title">Surftipps</h2>
+    
+  <div class="nodesinblock first odd" id="nodesinblock-1102">
+
+<div  class="node node-surftipp view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/surftipps/pharma2025.png" width="220" height="66" alt="World of Pharmaceutical Knowledge, preparing Pharma 2025" title="World of Pharmaceutical Knowledge, preparing Pharma 2025" /></div></div></div><div class="field field-name-field-webadresse field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://ispe-dach.org/" target="_blank">World of Pharmaceutical Knowledge, preparing Pharma 2025</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div><div class="nodesinblock even" id="nodesinblock-1101">
+
+<div  class="node node-surftipp view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/surftipps/pio-mediadaten.jpg" width="220" height="66" alt="Mediadaten – Informationen für Entscheider" /></div></div></div><div class="field field-name-field-webadresse field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.pharmaindustrie-online.de/content/mediadaten" target="_blank">Mediadaten – Informationen für Entscheider</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div><div class="nodesinblock odd" id="nodesinblock-1100">
+
+<div  class="node node-surftipp view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/surftipps/pio-twitter.jpg" width="220" height="66" alt="Aktuelle Branchen- und Produktnews" /></div></div></div><div class="field field-name-field-webadresse field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://twitter.com/PIO_online" target="_blank">Aktuelle Branchen- und Produktnews</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div><div class="nodesinblock last even" id="nodesinblock-2409">
+
+<div  class="node node-surftipp view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img class="img-responsive" src="https://www.pharmaindustrie-online.de/sites/default/files/surftipps/lmv-surftipp.jpg" width="220" height="66" alt="LMV-online.de" title="LMV-online.de" /></div></div></div><div class="field field-name-field-webadresse field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.lebensmittelverarbeitung-online.de/" title="LMV-online.de" target="_blank">LMV-online.de – Informationen für die Lebensmittelindustrie</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div>
+</section>
+  </div>
+  </div>
+</div>
+<footer class="footer ">
+  <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <!--smart_paging_filter--><p>© pharmaindustrie-online.de 2020, Alle Rechte vorbehalten</p>
+
+</section>
+<section id="block-menu-menu-footer-menu" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf active"><a href="/" title="" class="active">Home</a></li>
+<li class="leaf"><a href="/content/agb" title="">AGB</a></li>
+<li class="leaf"><a href="/content/mediadaten" title="">Mediadaten</a></li>
+<li class="leaf"><a href="http://www.tropal-media.de/content/presse" target="_blank">Presse</a></li>
+<li class="leaf"><a href="/content/kontakt" title="">Kontakt</a></li>
+<li class="leaf"><a href="/content/impressum" title="">Impressum</a></li>
+<li class="last leaf"><a href="/content/datenschutz">Datenschutz</a></li>
+</ul>
+</section>
+  </div>
+  </div>
+</footer>
+
+
+<div id="mobile-menu" class="mobile-menu hidden-sm hidden-md hidden-lg">
+
+
+  <div class="mobile-expander-area">
+    <div class="container">
+        <div class="mobile-menu-collapse collapse col-xs-12">
+          <nav role="navigation">
+                          <ul class="menu nav navbar-nav"><ul class="menu nav navbar-nav"><li class="first leaf"><a href="/management">Management</a></li>
+<li class="leaf"><a href="/produktion">Produktion</a></li>
+<li class="leaf"><a href="/case-studies">Case Studies</a></li>
+<li class="leaf"><a href="/whitepaper">Whitepaper</a></li>
+<li class="leaf"><a href="/jobs">Jobs</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="last leaf"><a href="/marktplatz" title="">Marktplatz</a></li>
+</ul></ul>                      </nav>
+        </div>
+
+        <div class="mobile-search-collapse collapse">
+            <div class="region region-search">
+      <div class="region region-search">
+    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Suchformular</h2>
+    <div class="input-group"><input title="Geben Sie die Begriffe ein, nach denen Sie suchen." placeholder="Suche" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary">Suche</button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Suche">Suche</button>
+</div><input type="hidden" name="form_build_id" value="form-6d4iQVOlWAFj0oaqnQfLTD_JhMGyv5PyTcIQU0jXQls" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+  </div>
+  </div>
+        </div>
+    </div>
+  </div>
+  <div class="mobile-navbar">
+    <div class="container ">
+      <div class="row">
+        <div class="col-xs-3">
+          <button type="button" class="btn navbar-btn pull-left" data-toggle="collapse" data-target=".mobile-search-collapse">
+            <span class="sr-only">Toggle search</span>
+            <span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+          </button>
+        </div>
+
+        <div class="col-xs-6">
+          <a href="/" title="Startseite">
+            <img class="logo img-responsive" src="/sites/default/themes/xi_pharma/src/img/logo-inversed.png" alt="Startseite">
+          </a>
+        </div>
+        <div class="col-xs-3">
+          <button type="button" class="btn navbar-btn pull-right" data-toggle="collapse" data-target=".mobile-menu-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>  </body>
+</html>

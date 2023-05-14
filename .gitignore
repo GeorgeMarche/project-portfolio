@@ -1,0 +1,19 @@
+##############################################
+# Ignore All .txt file versions of programs. #
+##############################################
+
+/Data_Cleansing_&_Unifying/data_unifier.txt
+
+/Data_Projects/Economic_Indicators/Marche_CS620_DataProject.txt
+/Data_Projects/NBA_Games_Prediction/CS722_-_Course_Project.pptx
+/Data_Projects/NBA_Games_Prediction/games_learning.txt
+/Data_Projects/PolitiTwitter_Scraper/George_Marché_-_Analysis_of_NLP_Feature_Correlation_in_Economic_Tweets
+/Data_Projects/PolitiTwitter_Scraper/PolitiTwitterScraper.txt
+
+/Machine_Learning_Programs/k-Means/kMeans_Plus_Viz.txt
+/Machine_Learning_Programs/ROC_Curve_&_Gradient_Descent/CS722-HW3.txt
+
+/Picrypt_-_Image_Encryption_Application/picrypt.txt
+/Picrypt_-_Image_Encryption_Application/(George_Marché)_Course_Project_(Picrypt)_-_CS_563
+
+/Queryish,_SQL,_&_RDBMS/Assignment_3/report_gr.txt

@@ -1,0 +1,1 @@
+b'Error 406 - Not AcceptableError 406 - Not AcceptableGenerally a 406 error is caused because a request has been blocked by Mod Security. If you believe that your request has been blocked by mistake please contact the web site owner.'

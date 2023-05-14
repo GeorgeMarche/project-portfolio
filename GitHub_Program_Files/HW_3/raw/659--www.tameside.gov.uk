@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	Tameside Metropolitan Borough Council
+</title><meta name="description" content="Do business with Tameside Metropolitan Borough Council online, including paying your Council Tax, renewing your library books and many others." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="tameside, metropolitan, borough, council, tameside metropolitan borough council, tameside council, tameside mbc, ashton, ashton-under-lyne, ashton-u-lyne, denton, mossley, droylsden, longdendale, hyde, stalybridge, dukinfield, mottram, audenshaw, tmbc, mbc, hollingworth" /> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=bootstrap" rel="stylesheet" />
+<link href="/CMSPages/GetCSS.aspx?stylesheetname=NewHome" rel="stylesheet" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="/WebChat/WebChatStyles.css" rel="stylesheet" media="screen" type="text/css" /> 
+<style>
+.can_gdpr_fixed_banner{
+ bottom: 0px !important; 
+top: inherit !important;  
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5751125-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5751125-1');
+</script>
+<script>
+    var serviceUrl = "//api.reciteme.com/asset/js?key=";
+    var serviceKey = "2116bcbe2eeb91a7a94835b992ddc24ba3fb557a";
+    var options = {};  // Options can be added as needed
+    var autoLoad = false;
+    var enableFragment = "#reciteEnable";
+
+    var loaded=[],frag=!1;window.location.hash===enableFragment&&(frag=!0);function loadScript(c,b){var a=document.createElement("script");a.type="text/javascript";a.readyState?a.onreadystatechange=function(){if("loaded"==a.readyState||"complete"==a.readyState)a.onreadystatechange=null,void 0!=b&&b()}:void 0!=b&&(a.onload=function(){b()});a.src=c;document.getElementsByTagName("head")[0].appendChild(a)}function _rc(c){c+="=";for(var b=document.cookie.split(";"),a=0;a<b.length;a++){for(var d=b[a];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(c))return d.substring(c.length,d.length)}return null}function loadService(c){for(var b=serviceUrl+serviceKey,a=0;a<loaded.length;a++)if(loaded[a]==b)return;loaded.push(b);loadScript(serviceUrl+serviceKey,function(){"function"===typeof _reciteLoaded&&_reciteLoaded();"function"==typeof c&&c();Recite.load(options);Recite.Event.subscribe("Recite:load",function(){Recite.enable()})})}"true"==_rc("Recite.Persist")&&loadService();if(autoLoad&&"false"!=_rc("Recite.Persist")||frag)document.addEventListener?document.addEventListener("DOMContentLoaded",function(c){loadService()}):loadService();
+</script><link href="/CMSStyles/Custom/ENewsStylesDefault.css" rel="stylesheet" />
+<style>
+  .modal-backdrop.in {
+	opacity: 0.9;
+}
+#searchArea{
+  width: 90%;
+  display: inline-block;
+  padding: 5px 0 0 5px;
+}
+#___gcse_0{
+    margin-top: 5px;
+}
+</style> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon"/>
+</head>
+<body class="LTR Unknown ENGB ContentBody" >
+    
+    <form method="post" action="/" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="87oOA7N0cgyktTA9IJ4TpthU9AvHuUGP/rwQCMhT5mEhZ27fpv37J6QEcsNdiR4YQpdMMfUrwPX1e8W3ng2rBxqx/0lDMLCs43N0jv1U6LY=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="lng" id="lng" value="en-GB" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yDnLqre9qwePChZiO6B2DO8m4Z2LC5pnBXnT9uDi0Gs_AOaybgPsAG4Ke-KtZtwb4F4asoFF9hoA-AO757hgb2Wpz6T7ckJNBUbiCvyifpQ9kcRS9Wl0RuAvUtLZZ5IFabrwphvTnlJW8lyeb4EhkSg1&amp;t=545ba255" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<div class="headerTop">
+<span style="text-decoration: underline; cursor: pointer;" class="reciteme">Accessibility Toolbar</span>
+<small>•</small>
+<a href="/AccessibilityStatement">Accessibility Statement</a>
+</div>
+<div class="profile">
+    <div id="logo">
+        <a href="https://www.tameside.gov.uk/">
+          <img src="/include/global/headerlg.png" alt="Tameside Metropolitan Borough Council" title="Tameside Metropolitan Borough Council" />
+        </a>
+    </div>            
+    <div id ="advertcontainer">
+      <div id="leaderboard" style="position: absolute; top: 5px; right: 5px;">
+        <script async src="//ads.counciladvertising.net/code/tamesidec/leaderboard/public" data-can-ad></script>
+      </div>
+    </div>
+    <div style="clear:both; "></div>
+</div>
+<div id="toparea">
+    <div class="container" id="stickycontainer">
+            <div class="row customcol">
+                  <div id="atoz">A-Z</div>
+                    <div id ="largesearchcontainer">
+                        <div id="atozlist" style="display: none;">
+                            <a href="/a-z/a">A</a>
+                            <a href="/a-z/b">B</a>
+                            <a href="/a-z/c">C</a>
+                            <a href="/a-z/d">D</a>
+                            <a href="/a-z/e">E</a>
+                            <a href="/a-z/f">F</a>
+                            <a href="/a-z/g">G</a>
+                            <a href="/a-z/h">H</a>
+                            <a href="/a-z/i">I</a>
+                            <a href="/a-z/j">J</a>
+                            <a href="/a-z/k">K</a>
+                            <a href="/a-z/l">L</a>
+                            <a href="/a-z/m">M</a>
+                            <a href="/a-z/n">N</a>
+                            <a href="/a-z/o">O</a>
+                            <a href="/a-z/p">P</a>
+                            <a href="/a-z/q">Q</a>
+                            <a href="/a-z/r">R</a>
+                            <a href="/a-z/s">S</a>
+                            <a href="/a-z/t">T</a>
+                            <a href="/a-z/u">U</a>
+                            <a href="/a-z/v">V</a>
+                            <a href="/a-z/w">W</a>
+                            <a href="/a-z/x">X</a>
+                            <a href="/a-z/y">Y</a>
+                            <a href="/a-z/z">Z</a>
+                        </div>
+                    </div>
+                    <div id="searchArea">
+                            <gcse:searchbox-only newwindow="false" resultsurl="/Search.aspx"></gcse:searchbox-only>
+                        </div>
+            </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="topmenubutton green">
+                  <a href="/payit">Pay it</a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="topmenubutton pink">
+                  <a href="https://lite.tameside.gov.uk/ReportIt/">Report it</a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="topmenubutton blue">
+                  <a href = "/applyforit">Apply for it</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="jumbotron feature">
+  <i class="fa fa-plus" id = "plus" ></i>
+    <div id = "alertcontainer"><!--FF7011-->
+        <i class="fa fa-times fa-1x" id="ex"></i>
+        <div class="container" id = "alert ">
+  
+<p style = "font-size:1.4em; font-weight:bold;">
+  <div style="text-align: center;"><a href="https://www.tameside.gov.uk/coronavirus"><img alt="Covid Information" src="/TamesideMBC/media/PressReleases/coronavirus.png" style="border-color: rgb(255, 255, 255);" /></a><a href="https://www.tameside.gov.uk/coronavirus"><img alt="" src="/TamesideMBC/media/PressReleases/spacer_7.png" /></a><a href="http://www.tameside.gov.uk/itworks"><img alt="Avoid a local lockdown" src="/TamesideMBC/media/PressReleases/Comms-Covid-Assets-Web-Button-HIGH-(002).jpg" style="border-color: rgb(255, 255, 255);" /></a><a href="http://www.tameside.gov.uk/itworks"><img alt="" src="/TamesideMBC/media/PressReleases/spacer_8.png" /></a><a href="https://www.tameside.gov.uk/domesticabuse"><img alt="Domestic Abuse Support" src="/TamesideMBC/media/PressReleases/domestic-abuse.png" style="border-color: rgb(255, 255, 255);" /></a></div>
+
+</p>
+
+</div>
+</div>
+        
+    <div class="container pad20">
+    
+        <div class="row is-visible-desk textcentre">
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/refuseandrecycling" class="menua">
+                          <span>Refuse &#38; Recycling</span>
+                          <img src="/tmbc_images/icons/black/bin.png" alt="Refuse and Recycling" title="Refuse and Recycling" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/librariesandleisure" class="menua">
+                          <span class="pink">Libraries &#38; Leisure</span>
+                          <img src="/tmbc_images/icons/black/bookopen2.png" alt="Libraries and Leisure" title="Libraries and Leisure" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/Education" class="menua">
+                          <span class="green">Schools &#38; Education</span>
+                          <img src="/tmbc_images/icons/black/teacher.png" alt="Schools and Education" title="Schools and Education" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/planningandbuildingcontrol" class="menua">
+                          <span class="yellow">Planning</span>
+                          <img src="/tmbc_images/icons/black/map.png" alt="Planning" title="Planning" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+        </div>
+        <div class="row is-visible-desk textcentre">
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton ">
+                        <a href="/counciltaxandbenefits" class="menua">
+                          <span class ="green">Council Tax &#38; Benefits</span>
+                          <img src="/tmbc_images/icons/black/home.png" alt="Council Tax and Benefits" title="Council Tax and Benefits" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton ">
+                        <a href="/councillorsanddemocracy" class="menua">
+                          <span >Councillors &#38; Democracy</span>
+                          <img src="/tmbc_images/icons/black/portrait.png" alt="Councillors and Democracy" title="Councillors and Democracy" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/socialcare" class="menua">
+                          <span class ="yellow">Health &#38; Social Care</span>
+                          <img src="/tmbc_images/icons/black/manandchild.png" alt="Health and Social Care" title="Health and Social Care" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+          
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/streetsandtransport" class="menua">
+                          <span class ="pink">Highways &#38; Licensing</span>
+                          <img src="/tmbc_images/icons/black/car.png" alt="Highways and Licensing" title="Streets and Transport" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+          
+            <div class="step col-xs-12 col-sm-6 col-md-3">    
+                    <div class="outerbutton">
+                        <a href="/registrars" class="menua">
+                          <span class="yellow">Registrars</span>
+                          <img src="/tmbc_images/icons/black/pencilpad.png" alt="Registrars" title="Registrars" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+
+            <div class="step col-xs-12 col-sm-6 col-md-3">
+                    <div class="outerbutton">
+                        <a href="/newsroom" class="menua" id="newsmenubutton">
+                          <span class="pink">News</span>
+                          <img src="/tmbc_images/icons/black/newspaper.png" alt="News" title="News" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+          
+          <div class="step col-xs-12 col-sm-6 col-md-3">      
+                    <div class="outerbutton">
+                        <a href="/directions " class="menua">
+                            <span class="green">Contact Us</span>
+                            <img src="/tmbc_images/icons/black/phone2.png" alt="Contact Us" title="Contact Us" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+          
+          <div class="step col-xs-12 col-sm-6 col-md-3">      
+                    <div class="outerbutton">
+                        <a href="/LeadersBlog" class="menua">
+                          <span>Leader's Blog</span>
+                          <img src="/tmbc_images/icons/black/laptop.png" alt="Leader's Blog" title="Leader's Blog" />
+                        </a>
+                    </div>
+                <p></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="fullwhite">
+  <div class="container">
+    
+    <div class="col-md-12" id="leftnews">
+
+              <h1 style="font-weight:bold;" id="latestnewstitle">LATEST NEWS   </h1>
+              
+<a class="newsitem" href="/Newsroom/Coronavirus-(COVID-19)-Services-changes,-support-a" >
+              <span class="row">
+                  
+                  <span class="col-xs-9 col-md-10">
+                        Coronavirus (COVID-19) Services changes, support and guidance<br/>
+                        <span class="smallnounderline">
+                          Coronavirus (COVID-19) Services changes, support and guidance
+                        </span>
+                  </span>
+                  <span class="col-xs-3 col-md-2">
+                        <img class="newsimage" alt="Coronavirus (COVID-19) Services changes, support and guidance" src="/getattachment/58537c11-9147-4d71-8c69-d5c508c7b03f/Coronavirus-(COVID-19)-Services-changes,-support-a" />
+                  </span>
+                  
+              </span>
+              </a><a class="newsitem" href="/Newsroom/Test-and-Trace-support-payment-scheme-announced" >
+              <span class="row">
+                  
+                  <span class="col-xs-9 col-md-10">
+                        Test and Trace support payment scheme announced<br/>
+                        <span class="smallnounderline">
+                          A NEW support package has been announced to support and enforce self-isolation.
+                        </span>
+                  </span>
+                  <span class="col-xs-3 col-md-2">
+                        <img class="newsimage" alt="Test and Trace support payment scheme announced" src="/getattachment/08c93e63-6c67-4f66-8aa1-d1bff2d94f33/Test-and-Trace-support-payment-scheme-announced" />
+                  </span>
+                  
+              </span>
+              </a><a class="newsitem" href="/Newsroom/£100k-grant-to-food-charity-to-support-Tameside-fa" >
+              <span class="row">
+                  
+                  <span class="col-xs-9 col-md-10">
+                        &#163;100k grant to food charity to support Tameside families<br/>
+                        <span class="smallnounderline">
+                          HUNDREDS more Tameside families in need will soon be able to benefit from an innovative lower cost food scheme to help make life more affordable.
+                        </span>
+                  </span>
+                  <span class="col-xs-3 col-md-2">
+                        <img class="newsimage" alt="&#163;100k grant to food charity to support Tameside families" src="/getattachment/ce2b2810-c159-4c4e-978c-2dd0c6cb7646/£100k-grant-to-food-charity-to-support-Tameside-fa" />
+                  </span>
+                  
+              </span>
+              </a><a class="newsitem" href="/Newsroom/Sons-Daughters-Month-Celebrating-Tameside-s-Foster" >
+              <span class="row">
+                  
+                  <span class="col-xs-9 col-md-10">
+                        Sons &amp; Daughters Month: Celebrating Tameside&#39;s Foster Siblings<br/>
+                        <span class="smallnounderline">
+                          It may be a year of uncertainty for lots of families but one thing is for sure &ndash; Tameside&rsquo;s foster families are as amazing as ever.
+                        </span>
+                  </span>
+                  <span class="col-xs-3 col-md-2">
+                        <img class="newsimage" alt="Sons &amp; Daughters Month: Celebrating Tameside&#39;s Foster Siblings" src="/getattachment/4dc4fe35-c00b-4a09-816a-62ab8b3731ba/Sons-Daughters-Month-Celebrating-Tameside-s-Foster" />
+                  </span>
+                  
+              </span>
+              </a><a class="newsitem" href="/Newsroom/New-Tameside-COVID-19-testing-site" >
+              <span class="row">
+                  
+                  <span class="col-xs-9 col-md-10">
+                        New Tameside COVID-19 testing site <br/>
+                        <span class="smallnounderline">
+                          People in Tameside are alerted to a new, semi-permanent Covid-19 Local Testing Site which has been built on the council car park on Darnton Road in Ashton-under-Lyne.
+                        </span>
+                  </span>
+                  <span class="col-xs-3 col-md-2">
+                        <img class="newsimage" alt="New Tameside COVID-19 testing site " src="/getattachment/59d3977b-ae4b-4c1b-9c6e-d278a96d3edc/New-Tameside-COVID-19-testing-site" />
+                  </span>
+                  
+              </span>
+              </a>
+ 
+
+            <div class="pad40">
+                <a class="button" href="/Newsroom">
+                <span class="redbutton">
+                    READ MORE NEWS
+                    <img src="/tmbc_images/icons/black/newspaper.png" alt="Read More News" title="Read More News" />
+                    
+                </span>
+                </a>
+                <a class="button" href="https://www.greater.jobs/towns-organisations/tameside/" target="self" id="jobsbutton" >
+                  <span class="redbutton">
+                     VIEW ALL JOBS
+                     <img src="/tmbc_images/icons/black/bookquery.png" alt="jobs" title="jobs" />
+                  </span>
+                </a>
+                <a class="socialmedia" href="https://www.facebook.com/TamesideCouncil/" target ="_blank" style="text-decoration: none;">
+                  <img src="/include/global/Facebook.png" alt="Facebook" title="Facebook" />
+                </a>
+                <a class="socialmedia" href="https://www.twitter.com/TamesideCouncil" target="_blank" style="text-decoration: none;">
+                  <img src="/include/global/Twitter.png" alt="Twitter" title="Twitter" />
+                </a>
+                <div class="clearfix"></div>
+             </div>
+             <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+
+<div class="footer-blurb">
+    <div class="container">
+        <div class="row">
+                <div class="col-md-2 " id="topfooterleft">
+                    A to Z of services
+                </div>
+                <div class="col-md-10 ">
+                    <div id="bottomlist">
+                        <a href="https://www.tameside.gov.uk/a-z/a">A</a>
+                        <a href="https://www.tameside.gov.uk/a-z/b">B</a>
+                        <a href="https://www.tameside.gov.uk/a-z/c">C</a>
+                        <a href="https://www.tameside.gov.uk/a-z/d">D</a>
+                        <a href="https://www.tameside.gov.uk/a-z/e">E</a>
+                        <a href="https://www.tameside.gov.uk/a-z/f">F</a>
+                        <a href="https://www.tameside.gov.uk/a-z/g">G</a>
+                        <a href="https://www.tameside.gov.uk/a-z/h">H</a>
+                        <a href="https://www.tameside.gov.uk/a-z/i">I</a>
+                        <a href="https://www.tameside.gov.uk/a-z/j">J</a>
+                        <a href="https://www.tameside.gov.uk/a-z/k">K</a>
+                        <a href="https://www.tameside.gov.uk/a-z/l">L</a>
+                        <a href="https://www.tameside.gov.uk/a-z/m">M</a>
+                        <a href="https://www.tameside.gov.uk/a-z/n">N</a>
+                        <a href="https://www.tameside.gov.uk/a-z/o">O</a>
+                        <a href="https://www.tameside.gov.uk/a-z/p">P</a>
+                        <a href="https://www.tameside.gov.uk/a-z/q">Q</a>
+                        <a href="https://www.tameside.gov.uk/a-z/r">R</a>
+                        <a href="https://www.tameside.gov.uk/a-z/s">S</a>
+                        <a href="https://www.tameside.gov.uk/a-z/t">T</a>
+                        <a href="https://www.tameside.gov.uk/a-z/u">U</a>
+                        <a href="https://www.tameside.gov.uk/a-z/v">V</a>
+                        <a href="https://www.tameside.gov.uk/a-z/w">W</a>
+                        <a href="https://www.tameside.gov.uk/a-z/x">X</a>
+                        <a href="https://www.tameside.gov.uk/a-z/y">Y</a>
+                        <a href="https://www.tameside.gov.uk/a-z/z">Z</a>
+                    </div>
+               </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="small-print">
+        <div class="container">
+            <p><a href="https://www.tameside.gov.uk/termsandconditions">Terms &amp; Conditions</a> | <a href="https://www.tameside.gov.uk/privacypolicy">Privacy Policy</a> | <a href="https://www.tameside.gov.uk/cookies">Cookies</a> | <a href="https://www.tameside.gov.uk/directions">Contact</a></p>
+            <p style="color: #ffffff;">&copy; <script type="text/javascript"> document.write(new Date().getFullYear()); </script> Tameside Metropolitan Borough Council</p>
+        </div>
+    </div>
+</footer>
+
+<a href="https://www.tameside.gov.uk/WebChat/tcDefault.aspx" rel="1" class="newWindow webchat">
+    <div id="c_status_container">
+      <div class="cross"><img src="/tmbc_images/icons/white/cross.png" alt="Minimise webchat tab" /></div>
+      <img src="/WebChat/ChatIcon.png" alt="Customer Services Live Web Chat" title="Customer Services Live Web Chat" />
+      <div class="status-icon">Customer Services Live Web Chat</div>
+  </div>
+</a>
+
+<style>  
+  a.webchat {
+    display: none;
+  }
+  #c_status_container div.cross {    
+    background: #FF69B4;
+    border-bottom-left-radius: 20px;
+    padding: 3px 0 0 3px;
+    float: left;    
+  }
+  #c_status_container > img {
+    padding-left: 20px;
+  }
+</style>
+<noscript>
+  <style>
+    a.webchat {
+      display: block;
+    }
+    #c_status_container div.cross { 
+       display: none;
+     }
+  </style>
+</noscript>
+
+<script>
+  $(document).ready(function () {   
+    // Current date variables
+    var currentDate = new Date();
+    var currentDay = currentDate.getDay();
+    var currentHours = currentDate.getHours();
+    var currentMins = currentDate.getMinutes();
+    
+    // Chat operation date variables
+    var dayMin = 1;
+    var dayMax = 5;
+    
+    var hourMin = 8;
+    var hourMax = currentDay < 5 ? 16 : 15;  
+    
+    var minsMin = 29;
+    var minsMax = currentDay != 4 ? 45 : 15;
+    
+    // Check is in operation
+    if (currentDay >= dayMin && currentDay <= dayMax &&
+        (currentHours > hourMin || (currentHours == hourMin && currentMins > minsMin)) &&
+        (currentHours < hourMax || (currentHours == hourMax && currentMins < minsMax))) {
+        
+        // If it is, show the window
+        $(".webchat").show();
+      
+        $(".webchat .cross").click(function(e) {
+          e.preventDefault();
+          e.stopPropagation();
+          
+          $("#c_status_container").animate({
+                "height" : "53px",
+                "width" : "68px"        
+                }, 300);
+          $(".webchat .cross").animate({ "width" : 0, "opacity" : 0 }, 500, function() { $(this).hide() });
+          $("#c_status_container img").animate({ "padding-left" : 0 }, 500, function() {            
+            $("#c_status_container .status-icon").hide();
+         });
+        });
+      
+        $(".webchat").click(function(e) {
+          e.preventDefault();
+          
+          var windowSizeArray = [ "width=200,height=200","width=485,height=700,scrollbars=no" ];
+          var url = "https://www.tameside.gov.uk/WebChat/tcDefault.aspx";
+          var windowName = "popUp";
+          var windowSize = windowSizeArray[$(this).attr("rel")];          
+          window.open(url, windowName, windowSize);          
+        });      
+    }
+  });
+</script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="/CMSScripts/Custom/smoothscroll.js" type="text/javascript"></script>
+<script src="/CMSScripts/Custom/newsPopup.min.js" type="text/javascript"></script>
+<!--<script src="/CMSScripts/Custom/tmbcSearch.js" type="text/javascript"></script>-->
+<!--<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script>-->
+<script async="" src="https://cse.google.com/cse.js?cx=001985625690149421327:8osnammskws"></script>
+<script>
+  (function() {
+    var cx = '001985625690149421327:8osnammskws';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+  window.onload = function(){
+  document.getElementById('gsc-i-id1').placeholder = 'What would you like to do?';
+  };
+</script>
+<div id="script"></div>
+<script type="text/javascript">
+ if ($("#enews").attr('data-enewsimage')) {
+  var s = document.createElement("script");
+  s.type = "text/javascript";
+  s.src = "/CMSScripts/Custom/newsPopup.min.js";
+  $("#script").append(s);
+ }      
+ var id = $("#enews").attr("data-enewsimage");
+ $("#enewsimage").attr("src",id);
+ 
+ 
+ $('#enewsimageclose').click(function(e){
+       // e.preventDefault();
+        $('#p_lt_ctl00_EmergencyMessageRepeater_repItems_ctl00_ctl00_widget1_ctl00_ENewsModal').modal('hide');  
+  });
+ 
+ $('#enewsimage').click(function(e){
+        //e.preventDefault();
+        $('#p_lt_ctl00_EmergencyMessageRepeater_repItems_ctl00_ctl00_widget1_ctl00_ENewsModal').modal('hide');  
+  });
+    jQuery(".reciteme").click(function(i,e){
+        loadService();
+        return false;
+    });
+</script>
+<script>
+    $( "#atoz" ).click(function() {
+        $( "#querybox" ).toggle();
+        $( "#atozlist" ).toggle();
+        $( "#searchArea" ).toggle();
+        if($("#atoz").html() == "A-Z")
+            $("#atoz").html("<i class='fa fa-arrow-left'></i>");
+        else
+            $("#atoz").html("A-Z");
+    });
+  
+</script>
+<script src="//ads.counciladvertising.net/code/tamesidec/media/public"></script> 
+    
+    </form>
+</body>
+</html>

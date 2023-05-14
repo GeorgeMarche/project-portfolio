@@ -1,0 +1,614 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Etablissement de santé mentale de la Marne</title>
+<meta name="description" content="L’Etablissement Public de Santé Mentale de la Marne porte 7 pôles de psychiatrie adulte, 2 pôles de psychiatrie infanto-juvénile et 1 pôle (...)" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="SPIP 3.2.4" />
+
+
+
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin="anonymous">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">
+
+
+<link rel="preload" as="font" type="font/woff2" href="/squelettes/fonts/play-v10-latin-regular.woff2" crossorigin>
+
+
+
+<link rel="stylesheet" href="prive/spip_style.css?1554727694" type="text/css" media="all" />
+<script type="text/javascript">/* <![CDATA[ */
+var box_settings = {tt_img:true,sel_g:"#documents_portfolio a[type='image/jpeg'],#documents_portfolio a[type='image/png'],#documents_portfolio a[type='image/gif']",sel_c:".mediabox",trans:"elastic",speed:"200",ssSpeed:"2500",maxW:"90%",maxH:"90%",minW:"400px",minH:"",opa:"0.9",str_ssStart:"Diaporama",str_ssStop:"Arrêter",str_cur:"{current}/{total}",str_prev:"Précédent",str_next:"Suivant",str_close:"Fermer",splash_url:""};
+var box_settings_splash_width = "600px";
+var box_settings_splash_height = "90%";
+var box_settings_iframe = true;
+/* ]]> */</script>
+<!-- insert_head_css --><link rel="stylesheet" href="plugins-dist/mediabox/colorbox/black-striped/colorbox.css" type="text/css" media="all" /><link rel='stylesheet' type='text/css' media='all' href='plugins-dist/porte_plume/css/barre_outils.css?1554728308' />
+<link rel='stylesheet' type='text/css' media='all' href='local/cache-css/cssdyn-css_barre_outils_icones_css-722ce29f.css?1568120709' />
+<link rel="stylesheet" href="/privacy/tac/am/styles.css" type="text/css">
+<link rel="stylesheet" href="squelettes/habillage.css?1589273888" type="text/css" media="projection, screen, tv" />
+
+<script src="prive/javascript/jquery.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery-migrate-3.0.1.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.form.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.autosave.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.placeholder-label.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/ajaxCallback.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/js.cookie.js?1554727694" type="text/javascript"></script>
+
+<script src="prive/javascript/jquery.cookie.js?1554727694" type="text/javascript"></script>
+<!-- insert_head -->
+	<script src="plugins-dist/mediabox/javascript/jquery.colorbox.js?1554728304" type="text/javascript"></script>
+	<script src="plugins-dist/mediabox/javascript/spip.mediabox.js?1554728304" type="text/javascript"></script><script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.markitup_pour_spip.js?1554728308'></script>
+<script type='text/javascript' src='plugins-dist/porte_plume/javascript/jquery.previsu_spip.js?1554728308'></script>
+<script type='text/javascript' src='local/cache-js/jsdyn-javascript_porte_plume_start_js-156ba7e9.js?1568120709'></script>
+<script src="/privacy/tac/am/scripts.basic.js?v=1.0.9" type="text/javascript"></script><script type="text/javascript">
+		tarteaucitron.init({
+			"hashtag": "#tarteaucitron",
+			"highPrivacy": true,
+			"orientation": "bottom",
+			"showAlertSmall": false,
+			"removeCredit": false,
+		});
+		</script>
+
+
+
+<script defer type="text/javascript" src="squelettes/javascript/jScrollPane/jScrollPane.js?1557145493"></script>
+<script defer type="text/javascript" src="squelettes/javascript/home.js?1557145491"></script>
+<script defer type="text/javascript" src="squelettes/javascript/jquery.collapse.js?1557145491"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {	
+
+	// liens externes : blank
+	$("a.spip_out").click(function() {
+		window.open(this.href);
+		return false;
+	});
+	
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
+
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 250 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){
+		$(this).addClass('hover');
+		}, function() {
+		$(this).removeClass('hover');
+	});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+	
+	// font size +
+	$('a.increasefontsize').click(function() 
+	{
+		var max=24;
+		var arr = [ ".article p", ".rubrique p", "ul.spip li", ".changeablefontsize", "h3.spip", ".descriptif h3.spip"];
+
+		jQuery.each(arr, function() {
+		
+			if($(""+this).css('font-size')) {
+				var s = parseInt($(""+this).css('font-size').replace("px",""));
+			} else {
+				var s = 12;
+			}
+			if(s!=max) {
+				s += 2;
+				$(""+this).css('font-size', s+"px");
+			}
+	
+		});
+		return false;
+	});
+	
+	// font size -
+	$('a.decreasefontsize').click(function() 
+	{
+		var min=8;
+		var arr = [ ".article p", ".rubrique p", "ul.spip li", ".changeablefontsize", "h3.spip", ".descriptif h3.spip"];
+
+		jQuery.each(arr, function() {
+		
+			if($(""+this).css('font-size')) {
+				var s = parseInt($(""+this).css('font-size').replace("px",""));
+			} else {
+				var s = 12;
+			}
+			if(s!=min) {
+				s -= 2;
+				$(""+this).css('font-size', s+"px");
+			}
+		});
+		return false;
+	});
+
+	// jquery collapse
+    new jQueryCollapse($(".collapse"), {
+      open: function() {
+        this.slideDown(220);
+      },
+      close: function() {
+        this.slideUp(220);
+      }
+    });
+	
+});//Close Function
+</script>
+<script type="text/javascript">
+
+var show_map_timer = [];
+
+$(document).ready(function()
+	{
+	$('map[name="carteinfantocacee0c2"] area').bind('mouseover', function()
+		{
+		if (show_map_timer['carteinfantocacee0c2']) clearTimeout(show_map_timer['carteinfantocacee0c2']);
+		show_map_timer['carteinfantocacee0c2'] = window.setTimeout("showMap('"+$(this).attr('ref')+"')", 100);		
+		});
+	$('map[name="carteinfantocacee0c2"] area').bind('mouseout', function()
+		{
+		if (show_map_timer['carteinfantocacee0c2']) clearTimeout(show_map_timer['carteinfantocacee0c2']);
+		show_map_timer['carteinfantocacee0c2'] = window.setTimeout("showMap('global_carteinfantocacee0c2'); ", 100);		
+		});
+	
+	$('map[name="bkg-cartegeneralecaf576a3"] area').bind('mouseover', function()
+		{
+		if (show_map_timer['bkg-cartegeneralecaf576a3']) clearTimeout(show_map_timer['bkg-cartegeneralecaf576a3']);
+		show_map_timer['bkg-cartegeneralecaf576a3'] = window.setTimeout("showMap('"+$(this).attr('ref')+"')", 100);		
+		});
+	$('map[name="bkg-cartegeneralecaf576a3"] area').bind('mouseout', function()
+		{
+		if (show_map_timer['bkg-cartegeneralecaf576a3']) clearTimeout(show_map_timer['bkg-cartegeneralecaf576a3']);
+		show_map_timer['bkg-cartegeneralecaf576a3'] = window.setTimeout("showMap('global_bkg-cartegeneralecaf576a3'); ", 100);		
+		});
+
+	$('map[name="carteaddiction343434"] area').bind('mouseover', function()
+		{
+		if (show_map_timer['carteaddiction343434']) clearTimeout(show_map_timer['carteaddiction343434']);
+		show_map_timer['carteaddiction343434'] = window.setTimeout("showMap('"+$(this).attr('ref')+"')", 100);		
+		});
+	$('map[name="carteaddiction343434"] area').bind('mouseout', function()
+		{
+		if (show_map_timer['carteaddiction343434']) clearTimeout(show_map_timer['carteaddiction343434']);
+		show_map_timer['carteaddiction343434'] = window.setTimeout("showMap('global_carteaddiction343434'); ", 100);		
+		});
+	
+	});
+
+var zindex = 1;
+
+function showMap(map_id)
+	{
+	zindex++;
+	map_id 			= 'map_'+map_id;
+	var new_map 	= $('#'+map_id);
+	new_map.hide();
+	new_map.css('z-index', zindex);
+	new_map.fadeIn(500);
+	}
+
+</script>
+
+<meta name="google-site-verification" content="mh7ZX6HbClyfyZRzdmI9ked_-k-SPeOqgCA8rWQwsLs"></head>
+
+<body class="page_sommaire">
+<div id="page">
+
+	
+	<a href="https://www.epsm-marne.fr/">
+	<div id="header">
+		<div id="logo"></div>
+		<div id="banner">
+		<img src="/images/imgs/titre.gif" alt="établissement public de santé mentale de la Marne" height="72" width="845" border="0" />
+		</div>
+		
+	</div>
+</a>
+<div id="bingBar"> 
+	<div class="wrapper">
+		<div id="primary_nav_wrap">
+			<ul>
+			<li  class="on"><a href="https://www.epsm-marne.fr" class="accueil"><img src="/images/icon-accueil.jpg" alt="accueil"></a></li>
+			
+
+				<li class="">
+				
+
+					
+
+						
+
+
+							
+							<a href="l-etablissement/presentation">L&#8217;établissement</a>
+							
+
+						
+					
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+					<a href="#">Toute notre offre</a>
+					<ul>
+						
+						<li><a href="toute-notre-offre-2/psychiatrie-adultes/">Psychiatrie adultes</a></li>
+						
+						<li><a href="toute-notre-offre-2/psychiatrie-de-l-enfant-et-de-l-adolescent/">Psychiatrie de l&#8217;enfant et de l&#8217;adolescent</a></li>
+						
+						<li><a href="toute-notre-offre-2/addictologie/">Addictologie</a></li>
+						
+						<li><a href="toute-notre-offre-2/electro-convulsivotherapie-e-c-t/">Electro-convulsivothérapie (E.C.T.)</a></li>
+						
+						<li><a href="toute-notre-offre-2/electroencephalographie-e-e-g/">Electroencéphalographie (E.E.G.)</a></li>
+						
+						<li><a href="toute-notre-offre-2/unite-pour-malades-difficiles-u-m-d/">Unité pour Malades Difficiles (U.M.D.)</a></li>
+						
+						<li><a href="toute-notre-offre-2/service-mpr/">Service Médico-Psychologique Régional (S.M.P.R.) et la consultation post-pénale</a></li>
+						
+						<li><a href="toute-notre-offre-2/structure-medico-sociale/">Structure médico-sociale</a></li>
+						
+						<li><a href="toute-notre-offre-2/sante-et-precarite/">Santé et précarité</a></li>
+						
+						<li><a href="toute-notre-offre-2/prevention-et-orientation-des/">Prévention et orientation des jeunes</a></li>
+						
+						<li><a href="toute-notre-offre-2/le-centre-ressources-pour-les-intervenants-aupres-des-auteurs-de-violences/">Le Centre Ressources pour les Intervenants auprès des Auteurs de Violences Sexuelles de Champagne-Ardenne (CRIAVS-CA)</a></li>
+						
+						<li><a href="toute-notre-offre-2/psychiatrie-de-la-personne-agee/">Psychiatrie de la personne âgée</a></li>
+						
+						<li><a href="toute-notre-offre-2/pole-de-psychiatrie-universitaire-reims/">Pôle de psychiatrie universitaire - Reims</a></li>
+						
+						<li><a href="toute-notre-offre-2/medecine-generale/">Médecine générale</a></li>
+						
+					</ul>
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+
+					
+
+						
+
+
+							
+							<a href="patient/article/patient">Patient</a>
+							
+
+						
+					
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+
+					
+
+						
+
+
+							
+							<a href="offres-d-emploi-3/Offres-d-emploi">Offres d&#8217;emploi</a>
+							
+
+						
+					
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+
+					
+
+						
+							<a href="nos-evenements/">Nos événements</a>
+						
+					
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+
+					
+						<a href="actualites/">Actualités</a>
+					
+				
+				</li>
+			
+			
+
+				<li class="">
+				
+
+					
+
+						
+
+
+							
+							<a href="contacts/article/vous-cherchez-le-moyen-le-plus">Contacts</a>
+							
+
+						
+					
+				
+				</li>
+			
+			
+				<li><a href="https://twitter.com/EpsmMarne" class="menu-linkedin"><img src="/images/icon-twitter.png" alt="" target="_blank"></a></li>
+				<li><a href="https://fr.linkedin.com/company/epsm-marne" class="menu-linkedin"><img src="/images/icon-linkedin.png" alt="" target="_blank"></a></li>
+			</ul>
+		</div>
+		
+	</div>
+</div>
+	
+	<div class="hfeed" id="conteneur">
+	<div id="contenu">
+	
+
+		<!-- 
+		<table border="0" cellspacing="10" cellpadding="0" width="100%">
+			<tbody>
+				<tr>
+					<td valign="top">
+						<a href="https://colloque.epsm-marne.fr"><img src="images/bandeausite_colloque2019.png" alt="colloque 2019 - journée d'addicologie" width="946" height="483" /></a>
+					</td>
+				</tr>
+			</tbody>
+		</table> -->
+
+
+		
+		<div id="bandeauhome">
+
+			
+		
+			
+			<div class="main_image"  style="height:340px">
+				
+				
+				 
+					<img class='spip_logo spip_logos' alt="" src="local/cache-gd2/a2/a25f91cc768299ceb8b7d749f99626.jpg?1594107907" width='680' height='340' />
+				
+			
+				<div class="desc">
+					<a href="#" class="collapse">Patient</a>
+					<div class="block">
+						<h2>Patient</h2>
+						<p>Vous souhaitez mieux connaître notre offre de soins en psychiatrie, les possibilités de consultations.<br /><a href="focus/article/patient">Lire +</a> </p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="image_thumb">
+				<ul>
+					
+					
+					<li>
+					
+						<a href="local/cache-gd2/df/ba7df7b45781b6991aab9e626a006d.jpg?1583768193"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/3b/4cb718f5ca4e590f5ecf6b082fc547.jpg?1489655361" width='60' height='48' /></a>
+						
+						<div class="block">
+							<h2>Patient</h2>
+							<p>Vous souhaitez mieux connaître notre offre de soins en psychiatrie, les possibilités de consultations.<br /><a href="focus/article/patient">Lire +</a>  </p>
+						</div>
+					</li>
+					
+					<li>
+					
+						<a href="local/cache-gd2/2b/373ceda38599552200ae51825d2cb0.jpg?1583768193"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/ef/4d9c05b484b60d7b99608dee9f5174.jpg?1518085931" width='60' height='48' /></a>
+						
+						<div class="block">
+							<h2>Famille</h2>
+							<p>
+Un proche est hospitalisé dans notre établissement, et vous souhaitez le contacter&nbsp;? 
+
+Merci de vous adresser en&nbsp;(...)
+<br /><a href="focus/article/famille">Lire +</a>  </p>
+						</div>
+					</li>
+					
+					<li>
+					
+						<a href="local/cache-gd2/41/46f6c4189c971569e28cb838b635eb.jpg?1583768193"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/be/b85b066a5e407e56fa4362e68423e9.jpg?1489655361" width='60' height='48' /></a>
+						
+						<div class="block">
+							<h2>Professionnels de santé</h2>
+							<p>
+Vous chercher à rejoindre l’établissement, en tant que médecin, infirmier, cadre de santé, cadre supérieur de santé,&nbsp;(...)
+<br /><a href="focus/article/professionnels-de-sante">Lire +</a>  </p>
+						</div>
+					</li>
+					
+					<li>
+					
+						<a href="local/cache-gd2/0b/6206acd8a34fb043e513eb17547545.png?1594104524"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/66/722131827e2bcaa65fac5d73b7d870.png?1594104524" width='60' height='48' /></a>
+						
+						<div class="block">
+							<h2>Toutes nos vidéos</h2>
+							<p>
+Vous retrouverez sur cette page les vidéos réalisées par l’EPSM de la Marne. 
+
+Vidéo Conférence Dr Ihuel PSICOCAP 
+
+L’EPSM&nbsp;(...)
+<br /><a href="focus/videos">Lire +</a>  </p>
+						</div>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+		
+	<br>
+	
+    <table border="0" cellspacing="10" cellpadding="0" width="100%">
+			<tr>
+			
+				<td valign="top">
+					<div class="box" id="news">
+						
+						<a href="actualites/" class="morenews">Toutes les actualités<img src="images/plusactu.gif" alt="plusactu" width="15" height="15" /></a>
+							<span class="newstitre">Nos actualités</span><br />
+							<br>
+							
+								<div class="actuhome">
+								    <a href="actualites/#art398"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/26/dce0a9fdb9a488b2c9c5b53f78f7f0.jpg?1601906516" width='210' height='120' /></a>
+								    <a href="actualites/#art398"><span class="actutitle">Vers la création d’un observatoire sur le handicap<br /></span>
+									<p>Trente-cinq personnes ont assisté le 18 septembre 2020 au lancement officiel de PSICOCAP (Pratiques et Statistiques Intégrées et Comparées sur le Handicap et le Handicap Psychique), en visioconférence à l’Hôtel de Région de Châlons-en-Champagne. PSICOCAP vise à créer notamment un observatoire franco-belge qui recueillera des données chiffrées sur le handicap et le handicap psychique, et qui analysera les pratiques de prise en charge.</p></a>
+									<a href="actualites/#art398" class="ensavoirplus">En savoir plus</a><br>
+									<br>
+								</div>
+						
+								<div class="actuhome">
+								    <a href="actualites/#art397"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/63/ce846dd5ed5d2805918a1a1679344c.jpg?1601306223" width='210' height='120' /></a>
+								    <a href="actualites/#art397"><span class="actutitle">L’unité d’hospitalisation en addictologie a rouvert ses portes à Reims<br /></span>
+									<p>Après quatre mois de fermeture, l’Unité de Soins Complexes en Addictologie de Reims (USCAR) a réintégré ses locaux au 3e étage du CHU de Reims. Avec ses 10 chambres individuelles, le service affiche déjà complet.</p></a>
+									<a href="actualites/#art397" class="ensavoirplus">En savoir plus</a><br>
+									<br>
+								</div>
+						
+								<div class="actuhome">
+								    <a href="actualites/#art395"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/b1/3f087b7e9a8c469227322fa5791d06.jpg?1598624728" width='210' height='120' /></a>
+								    <a href="actualites/#art395"><span class="actutitle">COVID-19&nbsp;: une campagne massive de dépistage sérologique est lancée<br /></span>
+									<p>Depuis le 21 juillet 2020, l’ensemble des professionnels de l’Établissement Public de Santé Mentale (EPSM) de la Marne et du Groupement d’Intérêt Public (GIP) Logistique Sud-Marne sont invités à effectuer un test sérologique du COVID-19. La campagne de prélèvements devrait durer jusqu’à la fin du mois d’octobre.</p></a>
+									<a href="actualites/#art395" class="ensavoirplus">En savoir plus</a><br>
+									<br>
+								</div>
+						
+								<div class="actuhome">
+								    <a href="actualites/#art394"><img class='spip_logo spip_logos' alt="" src="local/cache-gd2/07/99ae110a0b175fc137fafe10ee2f14.jpg?1594802983" width='210' height='120' /></a>
+								    <a href="actualites/#art394"><span class="actutitle">L&#8217;EPSM de la Marne relance la prise en charge ambulatoire<br /></span>
+									<p>Après la crise sanitaire, l’Établissement Public de Santé Mentale (EPSM) de la Marne veut développer les soins ambulatoires sur le territoire marnais. Deux dossiers ont été déposés en juin auprès de l’Agence régionale de santé du Grand Est.</p></a>
+									<a href="actualites/#art394" class="ensavoirplus">En savoir plus</a><br>
+									<br>
+								</div>
+						
+						<div class="nettoyeur"></div>
+						
+						
+					</div>
+				</td>
+			</tr>
+		
+			
+		</table>
+		
+		<br />
+	
+	
+	</div><!--#contenu-->
+	</div><!--#conteneur-->
+	
+	
+	
+	<div id="footer">
+	<table  width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td bgcolor="#d7d4cc">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td style="padding:5px;">
+						<table  border="0" cellspacing="5px" cellpadding="0" style="margin: 0 auto;">
+								<tr>
+									
+										
+										<td><a href="partenaires/Unafam-51" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L55xH55/arton45-67ec5.png?1437122343" width='55' height='55' /></a></td>
+										
+										<td><a href="partenaires/CHU-de-Reims" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L45xH55/arton50-2d86b.png?1437122343" width='45' height='55' /></a></td>
+										
+										<td><a href="partenaires/article/conseil-departemental-de-la-marne" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L132xH55/arton43-3a49f.jpg?1551963465" width='132' height='55' /></a></td>
+										
+										<td><a href="partenaires/article/guc-groupement-universitaire-de-champagne" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L92xH55/arton314-94c9e.jpg?1536936770" width='92' height='55' /></a></td>
+										
+										<td><a href="partenaires/article/ght-groupement-hospitalier-de-territoire" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L88xH55/arton293-e585b.jpg?1518079155" width='88' height='55' /></a></td>
+										
+										<td><a href="partenaires/Agence-Regionale-de-Sante" target="_blank"><img class='spip_logo spip_logos' alt="" src="local/cache-vignettes/L83xH55/arton41-89b8f.jpg?1518017040" width='83' height='55' /></a></td>
+										
+										<td><a href="partenaires/"><img src="images/partenaires/3points.gif" alt="Partenaires de santé" height="71" width="27" border="0" /></a></td>
+									
+								</tr>
+						</table>
+						</td>
+					</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#c7c4bb">
+				<a href="https://fr.linkedin.com/company/epsm-marne"><img src="/images/icon-linkedin.png" alt="" class="footer-linkedin" target="_blank"></a>
+				<a href="https://twitter.com/EpsmMarne"><img src="/images/icon-twitter.png" alt="" class="footer-twitter" target="_blank"></a>
+				<p><b>Châlons-en-Champagne</b><br />
+				<a href="https://goo.gl/maps/xCwLmyTfTB72">Hôpital Pierre Briquet - 1 Chemin de Bouy - BP 70555 - 51022 Châlons-en-Champagne cedex</a> - Tél : 03 26 70 37 37<br />
+				<br />
+				<b>Reims</b><br />
+				<a href="https://goo.gl/maps/dYLoTEHRSwL2">Clinique Henri-Ey 8 rue Roger Aubry - 51100 Reims</a> - Tél : 03 26 61 16 00<br /></p>
+			</td>
+		</tr>
+		<tr class="subfooter">
+			<td height="30px" style="padding-right:20px; color:#fff; text-align:right;"><a href="spip.php?page=plan">plan du site</a> - <a href="autres/protection-des-donnees">protection des données</a> - <a href="autres/article/politique-de-confidentialite">politique de confidentialité</a> - <a href="autres/article/mentions-legales">mentions légales</a> - <a href="javascript:tarteaucitron.userInterface.openPanel();">gestion des cookies</a> - <a href="https://alphamosa.fr" target="_blank">alphamosa</a></td>
+		</tr>
+	</table>
+</div>
+
+<script type="text/javascript">
+(tarteaucitron.job = tarteaucitron.job || []);
+tarteaucitron.user.gtagUa = 'UA-4040974-79';
+(tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+</script>	
+</div><!--#page-->
+</body>
+</html>

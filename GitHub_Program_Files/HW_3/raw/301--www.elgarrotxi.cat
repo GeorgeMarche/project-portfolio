@@ -1,0 +1,1540 @@
+<!DOCTYPE html>
+<html class="no-js" lang="ca">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<title>elgarrotxi.cat &#8211; elgarrotxi.cat Diari digital d&#039;actualitat de la Garrotxa i de les comarques gironines #Garrotxa #Olot #Girona</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="elgarrotxi.cat &raquo; canal d&#039;informació" href="https://www.elgarrotxi.cat/feed/" />
+<link rel="alternate" type="application/rss+xml" title="elgarrotxi.cat &raquo; Canal dels comentaris" href="https://www.elgarrotxi.cat/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.elgarrotxi.cat\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.elgarrotxi.cat/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://www.elgarrotxi.cat/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.95' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='mh-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,600' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-magazine-lite-css'  href='https://www.elgarrotxi.cat/wp-content/themes/mh-magazine-lite/style.css?ver=2.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-font-awesome-css'  href='https://www.elgarrotxi.cat/wp-content/themes/mh-magazine-lite/includes/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://www.elgarrotxi.cat/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Tanca","currentText":"Avui","monthNames":["Gener","Febrer","Mar\u00e7","Abril","Maig","Juny","Juliol","Agost","Setembre","Octubre","Novembre","Desembre"],"monthNamesShort":["Gen","Feb","Mar","Abr","Mai","Jun","Jul","Ago","Set","Oct","Nov","Des"],"nextText":"Seg\u00fcent","prevText":"Anterior","dayNames":["Diumenge","Dilluns","Dimarts","Dimecres","Dijous","Divendres","Dissabte"],"dayNamesShort":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dayNamesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dateFormat":"d \\dd\\e MM \\dd\\e yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/wp-a11y.min.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No s'ha trobat cap resultat.","oneResult":"S'ha trobat un resultat. Utilitzeu les tecles \u00abamunt\u00bb i \u00abavall\u00bb per navegar.","manyResults":"S'han trobat %d resultats. Utilitzeu les tecles de fletxa per navegar.","itemSelected":"S'ha seleccionat l'element."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/www.elgarrotxi.cat\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.elgarrotxi.cat\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"ca","dateFormat":"dd\/mm\/yy","ui_css":"https:\/\/www.elgarrotxi.cat\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"1","is_ssl":"1","txt_search":"Cerca activitat","txt_searching":"Cercant...","txt_loading":"Carregant..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.95'></script>
+<script type='text/javascript'>
+		function shouldTrack(){
+		var trackLoggedIn = false;
+		var loggedIn = false;
+		if(!loggedIn){
+		return true;
+		} else if( trackLoggedIn ) {
+		return true;
+		}
+		return false;
+		}
+				function hasWKGoogleAnalyticsCookie() {
+		return (new RegExp('wp_wk_ga_untrack_' + document.location.hostname)).test(document.cookie);
+		}
+		
+		if (!hasWKGoogleAnalyticsCookie() && shouldTrack()) {
+		//Google Analytics
+		(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+		(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+		m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-55282364-1', 'auto');
+
+		
+		ga('send', 'pageview');
+		}
+
+		
+</script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-content/themes/mh-magazine-lite/js/scripts.js?ver=2.8.6'></script>
+<link rel='https://api.w.org/' href='https://www.elgarrotxi.cat/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.elgarrotxi.cat/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.elgarrotxi.cat/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.1" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Comparteix",
+	Save: "Desa",
+	Subscribe: "Subscriure's",
+	Email: "Correu electrònic",
+	Bookmark: "Preferit",
+	ShowAll: "Mostra tots",
+	ShowLess: "Mostra menys",
+	FindServices: "Cerca servei(s)",
+	FindAnyServiceToAddTo: "Troba instantàniament qualsevol servei per a afegir a",
+	PoweredBy: "Potenciat per",
+	ShareViaEmail: "Comparteix per correu electrònic",
+	SubscribeViaEmail: "Subscriu-me per correu electrònic",
+	BookmarkInYourBrowser: "Afegiu l'adreça d'interès al vostre navegador",
+	BookmarkInstructions: "Premeu Ctrl+D o \u2318+D per afegir als preferits aquesta pàgina",
+	AddToYourFavorites: "Afegiu als vostres favorits",
+	SendFromWebOrProgram: "Envia des de qualsevol adreça o programa de correu electrònic",
+	EmailProgram: "Programa de correu electrònic",
+	More: "Més&#8230;",
+	ThanksForSharing: "Gràcies per compartir!",
+	ThanksForFollowing: "Gràcies per seguir!"
+};
+
+a2a_config.templates.twitter = "${title} ${link} COMPARTEIX!!! #Garrotxa #Olot #Girona Telegram: https://t.me/elgarrotxicat #Catalunya";
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.elgarrotxi.cat/wp-content/themes/mh-magazine-lite/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://www.elgarrotxi.cat/wp-content/uploads/2019/10/cropped-12108946_505251782989538_1281702346792871602_n-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.elgarrotxi.cat/wp-content/uploads/2019/10/cropped-12108946_505251782989538_1281702346792871602_n-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.elgarrotxi.cat/wp-content/uploads/2019/10/cropped-12108946_505251782989538_1281702346792871602_n-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.elgarrotxi.cat/wp-content/uploads/2019/10/cropped-12108946_505251782989538_1281702346792871602_n-270x270.jpg" />
+</head>
+<body id="mh-mobile" class="home blog wp-custom-logo mh-right-sb" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="mh-container mh-container-outer">
+<div class="mh-header-mobile-nav mh-clearfix"></div>
+<header class="mh-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+	<div class="mh-container mh-container-inner mh-row mh-clearfix">
+		<div class="mh-custom-header mh-clearfix">
+<div class="mh-site-identity">
+<div class="mh-site-logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+<a href="https://www.elgarrotxi.cat/" class="custom-logo-link" rel="home" itemprop="url"><img width="436" height="109" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/cropped-Logo-Maestro-de-elgarrotxi-2.jpg" class="custom-logo" alt="elgarrotxi.cat" itemprop="logo" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/cropped-Logo-Maestro-de-elgarrotxi-2.jpg 436w, https://www.elgarrotxi.cat/wp-content/uploads/2020/04/cropped-Logo-Maestro-de-elgarrotxi-2-350x88.jpg 350w" sizes="(max-width: 436px) 100vw, 436px" /></a></div>
+</div>
+</div>
+	</div>
+	<div class="mh-main-nav-wrap">
+		<nav class="mh-navigation mh-main-nav mh-container mh-container-inner mh-clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+			<div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li id="menu-item-93159" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-93159"><a href="https://www.elgarrotxi.cat/" aria-current="page">INICI</a></li>
+<li id="menu-item-93162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93162"><a href="https://www.elgarrotxi.cat/category/garrotxa/">GARROTXA</a></li>
+<li id="menu-item-136351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136351"><a href="https://www.elgarrotxi.cat/category/comarques/">COMARQUES</a></li>
+<li id="menu-item-174519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174519"><a href="https://www.elgarrotxi.cat/agenda/">AGENDA</a></li>
+<li id="menu-item-93161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-93161"><a href="https://www.elgarrotxi.cat/category/multimedia/">MULTIMÈDIA</a></li>
+<li id="menu-item-93173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93173"><a href="https://www.elgarrotxi.cat/serveis/">SERVEIS</a></li>
+<li id="menu-item-142057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142057"><a href="https://www.elgarrotxi.cat/contacte/">CONTACTE</a></li>
+</ul></div>		</nav>
+	</div>
+</header><div class="mh-wrapper mh-clearfix">
+	<div id="main-content" class="mh-loop mh-content" role="main"><article class="mh-loop-item mh-clearfix post-179978 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/la-garrotxa-present-per-partida-doble-als-premis-mosques-de-la-informacio-2020-del-collegi-de-periodistes/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Cerimonia_Mosques_gironina_2020-01-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Cerimonia_Mosques_gironina_2020-01-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Cerimonia_Mosques_gironina_2020-01-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/la-garrotxa-present-per-partida-doble-als-premis-mosques-de-la-informacio-2020-del-collegi-de-periodistes/" rel="bookmark">
+					La Garrotxa present per partida doble als Premis Mosques de la Informació 2020 del Col·legi de Periodistes				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/la-garrotxa-present-per-partida-doble-als-premis-mosques-de-la-informacio-2020-del-collegi-de-periodistes/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest dimarts, han tingut lloc els Premis Mosques de la Informació 2020 a l&#8217;aula magna de la Casa de Cultura de la Diputació de Girona, <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/la-garrotxa-present-per-partida-doble-als-premis-mosques-de-la-informacio-2020-del-collegi-de-periodistes/" title="La Garrotxa present per partida doble als Premis Mosques de la Informació 2020 del Col·legi de Periodistes">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179974 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/arrenca-un-tastet-de-tallers-a-can-trona/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/tallers-can-trona-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/tallers-can-trona-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/tallers-can-trona-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/arrenca-un-tastet-de-tallers-a-can-trona/" rel="bookmark">
+					Arrenca un tastet de tallers a Can Trona				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/arrenca-un-tastet-de-tallers-a-can-trona/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Arrenca un tastet de tallers a Can Trona Dins la programació d’activitats de tardor, Can Trona inicia un tastet de tres tallers de temàtiques ben <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/arrenca-un-tastet-de-tallers-a-can-trona/" title="Arrenca un tastet de tallers a Can Trona">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179969 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/familiars-i-voluntaris-continuen-la-recerca-del-vei-dolot-pere-busquets-capdevila-desaparegut-fa-una-setmana/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-Pere-Busquets-Capdevila-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-Pere-Busquets-Capdevila-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-Pere-Busquets-Capdevila-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/familiars-i-voluntaris-continuen-la-recerca-del-vei-dolot-pere-busquets-capdevila-desaparegut-fa-una-setmana/" rel="bookmark">
+					Familiars i voluntaris continuen la recerca del veí d&#8217;Olot, Pere Busquets Capdevila, desaparegut fa una setmana				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/familiars-i-voluntaris-continuen-la-recerca-del-vei-dolot-pere-busquets-capdevila-desaparegut-fa-una-setmana/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Familiars i voluntaris continuen la recerca del veí d&#8217;Olot, Pere Busquets Capdevila, desaparegut fa una setmana Familiars i voluntaris continuen la recerca del veí d&#8217;Olot, <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/familiars-i-voluntaris-continuen-la-recerca-del-vei-dolot-pere-busquets-capdevila-desaparegut-fa-una-setmana/" title="Familiars i voluntaris continuen la recerca del veí d&#8217;Olot, Pere Busquets Capdevila, desaparegut fa una setmana">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179966 post type-post status-publish format-standard has-post-thumbnail hentry category-comarques">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/un-home-encasta-el-seu-vehicle-a-lentrada-duna-comissaria-dels-mossos-desquadra/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkRZrDLXgAcYchA-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkRZrDLXgAcYchA-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkRZrDLXgAcYchA-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/un-home-encasta-el-seu-vehicle-a-lentrada-duna-comissaria-dels-mossos-desquadra/" rel="bookmark">
+					Un home encasta el seu vehicle a l&#8217;entrada d&#8217;una comissaria dels Mossos d&#8217;Esquadra				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/un-home-encasta-el-seu-vehicle-a-lentrada-duna-comissaria-dels-mossos-desquadra/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Un home encasta el seu vehicle a l&#8217;entrada d&#8217;una comissaria dels Mossos d&#8217;Esquadra Els Mossos d’Esquadra han detingut avui un home, de 45 anys, de <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/un-home-encasta-el-seu-vehicle-a-lentrada-duna-comissaria-dels-mossos-desquadra/" title="Un home encasta el seu vehicle a l&#8217;entrada d&#8217;una comissaria dels Mossos d&#8217;Esquadra">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179963 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/aquest-divendres-sinicia-la-fira-del-dibuix-que-aquest-any-a-causa-de-la-covid-sera-telematica/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-14-10-40-33-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-14-10-40-33-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-14-10-40-33-450x340.jpg 450w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-14-10-40-33-80x60.jpg 80w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-14-10-40-33.jpg 500w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/aquest-divendres-sinicia-la-fira-del-dibuix-que-aquest-any-a-causa-de-la-covid-sera-telematica/" rel="bookmark">
+					Aquest divendres s’inicia la Fira del Dibuix que aquest any a causa de la COVID serà telemàtica				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/aquest-divendres-sinicia-la-fira-del-dibuix-que-aquest-any-a-causa-de-la-covid-sera-telematica/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest divendres s’inicia la Fira del Dibuix que aquest any a causa de la COVID serà telemàtica. Una 40a d’artistes exposaran les seves obres en <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/aquest-divendres-sinicia-la-fira-del-dibuix-que-aquest-any-a-causa-de-la-covid-sera-telematica/" title="Aquest divendres s’inicia la Fira del Dibuix que aquest any a causa de la COVID serà telemàtica">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179960 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lesport-catala-aturara-les-competicions-no-professionals-durant-15-dies-pels-brots-de-coronavirus/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/esport-coronavirus-covid-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/esport-coronavirus-covid-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/esport-coronavirus-covid-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lesport-catala-aturara-les-competicions-no-professionals-durant-15-dies-pels-brots-de-coronavirus/" rel="bookmark">
+					L&#8217;esport català aturarà les competicions no professionals durant 15 dies pels brots de coronavirus				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lesport-catala-aturara-les-competicions-no-professionals-durant-15-dies-pels-brots-de-coronavirus/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L&#8217;esport català aturarà les competicions no professionals durant 15 dies pels brots de coronavirus La Unió de Federacions Esportives Catalanes (UFEC) a fet públic l&#8217;anunci <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lesport-catala-aturara-les-competicions-no-professionals-durant-15-dies-pels-brots-de-coronavirus/" title="L&#8217;esport català aturarà les competicions no professionals durant 15 dies pels brots de coronavirus">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179955 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/els-grans-interrogants-de-la-ciencia-tractaran-temes-com-la-covid-19/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/interrogants-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/interrogants-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/interrogants-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/els-grans-interrogants-de-la-ciencia-tractaran-temes-com-la-covid-19/" rel="bookmark">
+					Els grans interrogants de la ciència tractaran temes com la COVID-19				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/els-grans-interrogants-de-la-ciencia-tractaran-temes-com-la-covid-19/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Comença la catorzena edició del cicle de conferències Els grans interrogants de la ciència, en el qual experts en diferents matèries parlaran de manera clara, <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/els-grans-interrogants-de-la-ciencia-tractaran-temes-com-la-covid-19/" title="Els grans interrogants de la ciència tractaran temes com la COVID-19">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179289 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/entranyes-festival-de-teatre-social-2020-es-realitzara/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/bor-ENTRANYES2020_DORS_XARXES_150ppp_RGB-copia-3-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/bor-ENTRANYES2020_DORS_XARXES_150ppp_RGB-copia-3-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/bor-ENTRANYES2020_DORS_XARXES_150ppp_RGB-copia-3-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/entranyes-festival-de-teatre-social-2020-es-realitzara/" rel="bookmark">
+					Entranyes FESTIVAL de Teatre Social 2020 es realitzarà!				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/entranyes-festival-de-teatre-social-2020-es-realitzara/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Entranyes FESTIVAL de Teatre Social 2020 es realitzarà! Perquè davant la incertesa i els canvis constants que vivim aquest any, també hi ha propostes per <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/entranyes-festival-de-teatre-social-2020-es-realitzara/" title="Entranyes FESTIVAL de Teatre Social 2020 es realitzarà!">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179941 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/alumnes-de-fotografia-de-lescola-municipal-dexpressio-dolot-exposen-a-la-sala-15-del-museu/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EME2-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EME2-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EME2-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/alumnes-de-fotografia-de-lescola-municipal-dexpressio-dolot-exposen-a-la-sala-15-del-museu/" rel="bookmark">
+					Alumnes de fotografia de l’Escola Municipal d’Expressió d’Olot exposen a la sala 15 del Museu				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/alumnes-de-fotografia-de-lescola-municipal-dexpressio-dolot-exposen-a-la-sala-15-del-museu/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Alumnes de fotografia de l’Escola Municipal d’Expressió d’Olot exposen a la sala 15 del Museu. Les seves obres fetes durant la COVID-19 es podran veure <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/alumnes-de-fotografia-de-lescola-municipal-dexpressio-dolot-exposen-a-la-sala-15-del-museu/" title="Alumnes de fotografia de l’Escola Municipal d’Expressió d’Olot exposen a la sala 15 del Museu">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179938 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lajuntament-de-les-preses-collabora-amb-karaama/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/IMG_20201010_125837-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/IMG_20201010_125837-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/IMG_20201010_125837-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lajuntament-de-les-preses-collabora-amb-karaama/" rel="bookmark">
+					L’Ajuntament de les Preses col·labora amb Karaama				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>14 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lajuntament-de-les-preses-collabora-amb-karaama/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’Ajuntament de les Preses col·labora amb Karaama L’Ajuntament de les Preses durant aquests dies va col·laborar amb l’Associació Karaama, una associació que hi estan involucrats <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lajuntament-de-les-preses-collabora-amb-karaama/" title="L’Ajuntament de les Preses col·labora amb Karaama">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179152 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/dades-actuals-estat-actual-de-grups-confinats-i-positius-per-covid-19-dels-centres-educatius-de-la-garrotxa/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castanyer-sant-joan-les-fonts-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castanyer-sant-joan-les-fonts-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castanyer-sant-joan-les-fonts-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/dades-actuals-estat-actual-de-grups-confinats-i-positius-per-covid-19-dels-centres-educatius-de-la-garrotxa/" rel="bookmark">
+					Gairebé es triplica les persones confinades dels centres educatius de la Garrotxa en pocs dies				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/dades-actuals-estat-actual-de-grups-confinats-i-positius-per-covid-19-dels-centres-educatius-de-la-garrotxa/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Gairebé es triplica les persones confinades dels centres educatius de la Garrotxa en pocs dies Ja són 367 persones confinades dels centres educatius de la <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/dades-actuals-estat-actual-de-grups-confinats-i-positius-per-covid-19-dels-centres-educatius-de-la-garrotxa/" title="Gairebé es triplica les persones confinades dels centres educatius de la Garrotxa en pocs dies">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179931 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/pacificacio-del-transit-lenderrocament-de-tres-cases-i-una-nova-edicio-del-festival-de-teatre-social-entranyes-prioritats-dels-veins-i-veines-de-sant-miquel/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/PIAMSantMiquel_-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/PIAMSantMiquel_-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/PIAMSantMiquel_-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/pacificacio-del-transit-lenderrocament-de-tres-cases-i-una-nova-edicio-del-festival-de-teatre-social-entranyes-prioritats-dels-veins-i-veines-de-sant-miquel/" rel="bookmark">
+					Pacificació del trànsit, l’enderrocament de tres cases i una nova edició del festival de teatre social Entranyes, prioritats dels veïns i veïnes de Sant Miquel				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/pacificacio-del-transit-lenderrocament-de-tres-cases-i-una-nova-edicio-del-festival-de-teatre-social-entranyes-prioritats-dels-veins-i-veines-de-sant-miquel/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquestes són tres de les principals accions que formen part del programa d’actuacions que ha escollit el Consell de Barri de Sant Miquel per aquest <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/pacificacio-del-transit-lenderrocament-de-tres-cases-i-una-nova-edicio-del-festival-de-teatre-social-entranyes-prioritats-dels-veins-i-veines-de-sant-miquel/" title="Pacificació del trànsit, l’enderrocament de tres cases i una nova edició del festival de teatre social Entranyes, prioritats dels veïns i veïnes de Sant Miquel">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179928 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/fotos-i-video-les-preses-viu-la-seva-gala-amb-poques-activitats-pero-totes-de-molta-qualitat/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/comissió-de-fetes-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/comissió-de-fetes-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/comissió-de-fetes-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/fotos-i-video-les-preses-viu-la-seva-gala-amb-poques-activitats-pero-totes-de-molta-qualitat/" rel="bookmark">
+					FOTOS i VÍDEO: Les Preses viu la seva Gala amb poques activitats però totes de molta qualitat				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/fotos-i-video-les-preses-viu-la-seva-gala-amb-poques-activitats-pero-totes-de-molta-qualitat/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Les Preses viu la seva Gala amb poques activitats però totes de molta qualitat Enguany la Comissió de festes amb la col·laboració de l’Ajuntament es <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/fotos-i-video-les-preses-viu-la-seva-gala-amb-poques-activitats-pero-totes-de-molta-qualitat/" title="FOTOS i VÍDEO: Les Preses viu la seva Gala amb poques activitats però totes de molta qualitat">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179925 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/totes-les-places-esgotades-en-les-5-sessions-de-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120910904_1362309467440667_1435349164092029293_o-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120910904_1362309467440667_1435349164092029293_o-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120910904_1362309467440667_1435349164092029293_o-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/totes-les-places-esgotades-en-les-5-sessions-de-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/" rel="bookmark">
+					Totes les places esgotades en les 5 sessions de la Bianyal d’art i patrimoni de la Vall de Bianya				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/totes-les-places-esgotades-en-les-5-sessions-de-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest passat cap de setmana va tenir lloc la 7a edició de la Bianyal de la Vall de Bianya amb totes les places esgotades en <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/totes-les-places-esgotades-en-les-5-sessions-de-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/" title="Totes les places esgotades en les 5 sessions de la Bianyal d’art i patrimoni de la Vall de Bianya">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179922 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/aforament-complet-per-lactivitat-sobre-el-pont-medieval-de-sant-joan-les-fonts-en-el-marc-de-les-jornades-europees-de-patrimoni/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-13-09-50-47-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-13-09-50-47-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-13-09-50-47-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/aforament-complet-per-lactivitat-sobre-el-pont-medieval-de-sant-joan-les-fonts-en-el-marc-de-les-jornades-europees-de-patrimoni/" rel="bookmark">
+					Aforament complet per l’activitat sobre el Pont Medieval de Sant Joan les Fonts en el marc de les Jornades Europees de Patrimoni				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/aforament-complet-per-lactivitat-sobre-el-pont-medieval-de-sant-joan-les-fonts-en-el-marc-de-les-jornades-europees-de-patrimoni/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aforament complet per l’activitat sobre el Pont Medieval de Sant Joan les Fonts en el marc de les Jornades Europees de Patrimoni Sant Joan les <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/aforament-complet-per-lactivitat-sobre-el-pont-medieval-de-sant-joan-les-fonts-en-el-marc-de-les-jornades-europees-de-patrimoni/" title="Aforament complet per l’activitat sobre el Pont Medieval de Sant Joan les Fonts en el marc de les Jornades Europees de Patrimoni">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179918 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lescriptor-guionista-i-periodista-gabi-martinez-visitara-can-trona-en-una-trobada-molt-especial/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/9l3WLFoV-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/9l3WLFoV-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/9l3WLFoV-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lescriptor-guionista-i-periodista-gabi-martinez-visitara-can-trona-en-una-trobada-molt-especial/" rel="bookmark">
+					L’escriptor, guionista i periodista Gabi Martínez visitarà Can Trona en una trobada molt especial				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>13 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lescriptor-guionista-i-periodista-gabi-martinez-visitara-can-trona-en-una-trobada-molt-especial/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’escriptor, guionista i periodista Gabi Martínez visitarà Can Trona en una trobada molt especial D’una banda, vindrà a presentar el seu darrer llibre titulat ‘Un <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lescriptor-guionista-i-periodista-gabi-martinez-visitara-can-trona-en-una-trobada-molt-especial/" title="L’escriptor, guionista i periodista Gabi Martínez visitarà Can Trona en una trobada molt especial">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179914 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/les-xarxes-van-plenes-de-falsos-rumors-i-estafes-dona-li-una-ullada-al-nostre-recull-dels-mes-habituals/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/rumors-estafes-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/rumors-estafes-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/rumors-estafes-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/les-xarxes-van-plenes-de-falsos-rumors-i-estafes-dona-li-una-ullada-al-nostre-recull-dels-mes-habituals/" rel="bookmark">
+					Les xarxes van plenes de falsos rumors i estafes. Dóna-li una ullada al nostre recull dels més habituals				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>12 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/les-xarxes-van-plenes-de-falsos-rumors-i-estafes-dona-li-una-ullada-al-nostre-recull-dels-mes-habituals/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Les xarxes van plenes de falsos rumors i estafes. Dóna-li una ullada al nostre recull dels més habituals. Fals rumor sobre lliurament de paquets a <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/les-xarxes-van-plenes-de-falsos-rumors-i-estafes-dona-li-una-ullada-al-nostre-recull-dels-mes-habituals/" title="Les xarxes van plenes de falsos rumors i estafes. Dóna-li una ullada al nostre recull dels més habituals">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179910 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/pedagogiques-i-idilliques-jornades-europees-de-patrimoni-2020-a-la-vall-den-bas/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkCF2WaWsAEfvOC-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkCF2WaWsAEfvOC-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EkCF2WaWsAEfvOC-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/pedagogiques-i-idilliques-jornades-europees-de-patrimoni-2020-a-la-vall-den-bas/" rel="bookmark">
+					Pedagògiques i idíl·liques Jornades Europees de Patrimoni 2020 a la Vall d&#8217;en Bas				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>12 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/pedagogiques-i-idilliques-jornades-europees-de-patrimoni-2020-a-la-vall-den-bas/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Pedagògiques i idíl·liques Jornades Europees de Patrimoni 2020 a la Vall d&#8217;en Bas En un 2020 convuls com feia anys que no es recordava, aquest <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/pedagogiques-i-idilliques-jornades-europees-de-patrimoni-2020-a-la-vall-den-bas/" title="Pedagògiques i idíl·liques Jornades Europees de Patrimoni 2020 a la Vall d&#8217;en Bas">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-172796 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/casos-positius-de-covid-19-a-la-garrotxa/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/corona-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/corona-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/04/corona-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/casos-positius-de-covid-19-a-la-garrotxa/" rel="bookmark">
+					ÍNDEX DE RISC ALT A LA GARROTXA: Últimes dades actualitzades de casos positius, sospitosos i defuncions de COVID-19 a la Garrotxa (12/10/2020)				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>12 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/casos-positius-de-covid-19-a-la-garrotxa/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Consulta les dades actualitzades de casos positius, sospitosos i defuncions de COVID-19 a la Garrotxa. POSITIUS, SOSPITOSOS I MORTALITAT PER LA COVID-19 Dades del 12/10/2020 <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/casos-positius-de-covid-19-a-la-garrotxa/" title="ÍNDEX DE RISC ALT A LA GARROTXA: Últimes dades actualitzades de casos positius, sospitosos i defuncions de COVID-19 a la Garrotxa (12/10/2020)">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179904 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/es-prorroga-la-prohibicio-de-les-trobades-i-reunions-de-mes-de-6-persones-tant-en-lambit-privat-com-en-lambit-public/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/reunions-gent-celebracions-sopars-dinars-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/reunions-gent-celebracions-sopars-dinars-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/reunions-gent-celebracions-sopars-dinars-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/es-prorroga-la-prohibicio-de-les-trobades-i-reunions-de-mes-de-6-persones-tant-en-lambit-privat-com-en-lambit-public/" rel="bookmark">
+					Es prorroga la prohibició de les trobades i reunions de més de 6 persones tant en l’àmbit privat com en l’àmbit públic				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/es-prorroga-la-prohibicio-de-les-trobades-i-reunions-de-mes-de-6-persones-tant-en-lambit-privat-com-en-lambit-public/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Del 8 d&#8217;octubre fins al 23 d&#8217;octubre, es prorroga la prohibició de les trobades i reunions de més de 6 persones tant en l’àmbit privat com <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/es-prorroga-la-prohibicio-de-les-trobades-i-reunions-de-mes-de-6-persones-tant-en-lambit-privat-com-en-lambit-public/" title="Es prorroga la prohibició de les trobades i reunions de més de 6 persones tant en l’àmbit privat com en l’àmbit públic">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179902 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/un-home-es-agredit-amb-una-arma-blanca-a-plena-llum-del-dia-a-la-carretera-de-les-tries-dolot/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2019/07/sem-326x245.jpeg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2019/07/sem-326x245.jpeg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2019/07/sem-80x60.jpeg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/un-home-es-agredit-amb-una-arma-blanca-a-plena-llum-del-dia-a-la-carretera-de-les-tries-dolot/" rel="bookmark">
+					Un home és agredit amb una arma blanca a plena llum del dia a la carretera de les Tries d&#8217;Olot				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/un-home-es-agredit-amb-una-arma-blanca-a-plena-llum-del-dia-a-la-carretera-de-les-tries-dolot/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Un home és agredit amb una arma blanca a plena llum del dia a la carretera de les Tries d&#8217;Olot Els Mossos d&#8217;Esquadra busquen a <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/un-home-es-agredit-amb-una-arma-blanca-a-plena-llum-del-dia-a-la-carretera-de-les-tries-dolot/" title="Un home és agredit amb una arma blanca a plena llum del dia a la carretera de les Tries d&#8217;Olot">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179900 post type-post status-publish format-standard has-post-thumbnail hentry category-comarques category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/detingut-un-vei-dolot-per-provocar-cinc-incendis-i-danyar-les-portes-duna-esglesia-de-vic/"><img width="326" height="235" src="https://www.elgarrotxi.cat/wp-content/uploads/2016/01/002200420151.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2016/01/002200420151.jpg 400w, https://www.elgarrotxi.cat/wp-content/uploads/2016/01/002200420151-300x216.jpg 300w, https://www.elgarrotxi.cat/wp-content/uploads/2016/01/002200420151-325x234.jpg 325w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/detingut-un-vei-dolot-per-provocar-cinc-incendis-i-danyar-les-portes-duna-esglesia-de-vic/" rel="bookmark">
+					Detingut un veí d’Olot per provocar cinc incendis i danyar les portes d&#8217;una església de Vic				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/detingut-un-vei-dolot-per-provocar-cinc-incendis-i-danyar-les-portes-duna-esglesia-de-vic/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Detingut un veí d’Olot per provocar cinc incendis i danyar les portes d&#8217;una església de Vic Els Mossos d’Esquadra de la comissaria de Vic van <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/detingut-un-vei-dolot-per-provocar-cinc-incendis-i-danyar-les-portes-duna-esglesia-de-vic/" title="Detingut un veí d’Olot per provocar cinc incendis i danyar les portes d&#8217;una església de Vic">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179896 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/a-partir-del-proper-dissabte-comenca-el-festival-lluernia-consulta-tota-la-programacio-els-espais-dies-i-horaris-de-les-installacions/"><img width="326" height="225" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/CAP-00001-copia-326x225.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/a-partir-del-proper-dissabte-comenca-el-festival-lluernia-consulta-tota-la-programacio-els-espais-dies-i-horaris-de-les-installacions/" rel="bookmark">
+					Aquest dissabte comença el Festival Lluèrnia. Consulta tota la programació, els espais, dies i horaris de les instal·lacions				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/a-partir-del-proper-dissabte-comenca-el-festival-lluernia-consulta-tota-la-programacio-els-espais-dies-i-horaris-de-les-installacions/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Un any més Lluèrnia, festival del foc i de la llum, omplirà el paisatge urbà i natural amb la màgia de la creació per fer-nos <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/a-partir-del-proper-dissabte-comenca-el-festival-lluernia-consulta-tota-la-programacio-els-espais-dies-i-horaris-de-les-installacions/" title="Aquest dissabte comença el Festival Lluèrnia. Consulta tota la programació, els espais, dies i horaris de les instal·lacions">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179887 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa category-multimedia">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/video-emotiu-homenatge-a-gabriel-alcalde-fundador-i-primer-director-del-museu-comarcal-de-la-garrotxa-mort-en-2019/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-11-09-43-23-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-11-09-43-23-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-11-09-43-23-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/video-emotiu-homenatge-a-gabriel-alcalde-fundador-i-primer-director-del-museu-comarcal-de-la-garrotxa-mort-en-2019/" rel="bookmark">
+					VÍDEO: Emotiu homenatge a Gabriel Alcalde, fundador i primer director del Museu Comarcal de la Garrotxa, mort en 2019				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/video-emotiu-homenatge-a-gabriel-alcalde-fundador-i-primer-director-del-museu-comarcal-de-la-garrotxa-mort-en-2019/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest dissabte va tenir lloc un emotiu homenatge a Gabriel Alcalde, fundador i primer director del Museu Comarcal de la Garrotxa, mort en 2019 Veure vídeo de tot <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/video-emotiu-homenatge-a-gabriel-alcalde-fundador-i-primer-director-del-museu-comarcal-de-la-garrotxa-mort-en-2019/" title="VÍDEO: Emotiu homenatge a Gabriel Alcalde, fundador i primer director del Museu Comarcal de la Garrotxa, mort en 2019">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179881 post type-post status-publish format-standard has-post-thumbnail hentry category-comarques">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/la-gerunda-la-proposta-cervesera-de-lequip-de-la-universitat-de-girona-guanyador-de-la-primera-edicio-de-moritz-university/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Equip-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Equip-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Equip-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/la-gerunda-la-proposta-cervesera-de-lequip-de-la-universitat-de-girona-guanyador-de-la-primera-edicio-de-moritz-university/" rel="bookmark">
+					&#8220;La Gerunda”, la proposta cervesera de l&#8217;equip de la Universitat de Girona guanyador de la primera edició de “Moritz University”				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/la-gerunda-la-proposta-cervesera-de-lequip-de-la-universitat-de-girona-guanyador-de-la-primera-edicio-de-moritz-university/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>“Moritz University” és un projecte pioner dirigit als estudiants de les universitats catalanes que té per objectiu impulsar la cultura i el talent cerveser. Els <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/la-gerunda-la-proposta-cervesera-de-lequip-de-la-universitat-de-girona-guanyador-de-la-primera-edicio-de-moritz-university/" title="&#8220;La Gerunda”, la proposta cervesera de l&#8217;equip de la Universitat de Girona guanyador de la primera edició de “Moritz University”">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179877 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/ja-pots-fer-arribar-els-teus-desitjos-per-al-projecte-estratosferic-que-senlairara-el-proper-14-de-novembre/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EiDMh-2WAAEmpGx-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EiDMh-2WAAEmpGx-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/EiDMh-2WAAEmpGx-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/ja-pots-fer-arribar-els-teus-desitjos-per-al-projecte-estratosferic-que-senlairara-el-proper-14-de-novembre/" rel="bookmark">
+					Ja pots fer arribar els teus desitjos per al projecte &#8220;Estratosfèric&#8221; que s&#8217;enlairarà el proper 14 de novembre				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>11 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/ja-pots-fer-arribar-els-teus-desitjos-per-al-projecte-estratosferic-que-senlairara-el-proper-14-de-novembre/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Ja pots fer arribar els teus desitjos per al projecte &#8220;Estratosfèric&#8221; que s&#8217;enlairarà el proper 14 de novembre La sonda s&#8217;enlairarà el matí del 14 <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/ja-pots-fer-arribar-els-teus-desitjos-per-al-projecte-estratosferic-que-senlairara-el-proper-14-de-novembre/" title="Ja pots fer arribar els teus desitjos per al projecte &#8220;Estratosfèric&#8221; que s&#8217;enlairarà el proper 14 de novembre">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179864 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa category-multimedia">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/video-i-fotos-saturen-per-avui-divendres-les-tasques-de-recerca-den-pere-busquets-capdevila-de-82-anys-desaparegut-a-olot/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-10-17-58-56-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-10-17-58-56-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-10-17-58-56-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/video-i-fotos-saturen-per-avui-divendres-les-tasques-de-recerca-den-pere-busquets-capdevila-de-82-anys-desaparegut-a-olot/" rel="bookmark">
+					VÍDEO i FOTOS: Suspenen la recerca de l&#8217;home desaparegut a Olot fins a tenir nous indicis d&#8217;on podria ser				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>10 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/video-i-fotos-saturen-per-avui-divendres-les-tasques-de-recerca-den-pere-busquets-capdevila-de-82-anys-desaparegut-a-olot/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Suspenen la recerca de l&#8217;home desaparegut a Olot fins a tenir nous indicis d&#8217;on podria ser 10/10/2020 16.00: Els Bombers han suspès la recerca de <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/video-i-fotos-saturen-per-avui-divendres-les-tasques-de-recerca-den-pere-busquets-capdevila-de-82-anys-desaparegut-a-olot/" title="VÍDEO i FOTOS: Suspenen la recerca de l&#8217;home desaparegut a Olot fins a tenir nous indicis d&#8217;on podria ser">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179857 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/recomanacions-de-proteccio-civil-per-a-la-celebracio-de-tots-sants/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2018/11/castanyada-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2018/11/castanyada-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2018/11/castanyada-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/recomanacions-de-proteccio-civil-per-a-la-celebracio-de-tots-sants/" rel="bookmark">
+					Recomanacions de Protecció Civil per a la celebració de Tots Sants				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/recomanacions-de-proteccio-civil-per-a-la-celebracio-de-tots-sants/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Els consells es basen principalment en la celebració de la castanyada i la visita als cementiris Cal recordar que estan prohibides les reunions i/o trobades <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/recomanacions-de-proteccio-civil-per-a-la-celebracio-de-tots-sants/" title="Recomanacions de Protecció Civil per a la celebració de Tots Sants">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179853 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/retalla-les-violencies-enganxa-les-cures-nova-campanya-a-la-garrotxa-per-lerradicacio-de-la-violencia-de-genere-i-qualsevol-mena-de-discriminacio/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-2-roda-de-premsa-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-2-roda-de-premsa-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto-2-roda-de-premsa-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/retalla-les-violencies-enganxa-les-cures-nova-campanya-a-la-garrotxa-per-lerradicacio-de-la-violencia-de-genere-i-qualsevol-mena-de-discriminacio/" rel="bookmark">
+					&#8220;Retalla les violències, enganxa les cures&#8221;, nova campanya a la Garrotxa per l’erradicació de la violència de gènere i qualsevol mena de discriminació				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/retalla-les-violencies-enganxa-les-cures-nova-campanya-a-la-garrotxa-per-lerradicacio-de-la-violencia-de-genere-i-qualsevol-mena-de-discriminacio/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>La sensibilització i el treball per l’erradicació de la violència de gènere i qualsevol mena de discriminació ha estat, des de la seva creació, un <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/retalla-les-violencies-enganxa-les-cures-nova-campanya-a-la-garrotxa-per-lerradicacio-de-la-violencia-de-genere-i-qualsevol-mena-de-discriminacio/" title="&#8220;Retalla les violències, enganxa les cures&#8221;, nova campanya a la Garrotxa per l’erradicació de la violència de gènere i qualsevol mena de discriminació">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179849 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lajuntament-de-sant-joan-les-fonts-contractara-un-agent-civic-per-garantir-la-convivencia/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/agent-civic-agents-cvivics-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/agent-civic-agents-cvivics-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/08/agent-civic-agents-cvivics-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lajuntament-de-sant-joan-les-fonts-contractara-un-agent-civic-per-garantir-la-convivencia/" rel="bookmark">
+					L’Ajuntament de Sant Joan les Fonts contractarà un Agent Cívic per garantir la convivència				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lajuntament-de-sant-joan-les-fonts-contractara-un-agent-civic-per-garantir-la-convivencia/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’Ajuntament de Sant Joan les Fonts contractarà un Agent Cívic per garantir la convivència Donat l’èxit que ha tingut el vigilant que es va incorporar <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lajuntament-de-sant-joan-les-fonts-contractara-un-agent-civic-per-garantir-la-convivencia/" title="L’Ajuntament de Sant Joan les Fonts contractarà un Agent Cívic per garantir la convivència">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179845 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/nous-tallers-per-a-la-millora-de-les-competencies-i-per-ajudar-a-trobar-feina-a-les-persones-de-mes-de-50-anys/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ocupació_Formacions_2020-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ocupació_Formacions_2020-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ocupació_Formacions_2020-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/nous-tallers-per-a-la-millora-de-les-competencies-i-per-ajudar-a-trobar-feina-a-les-persones-de-mes-de-50-anys/" rel="bookmark">
+					Nous tallers per a la millora de les competències i per ajudar a trobar feina a les persones de més de 50 anys				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/nous-tallers-per-a-la-millora-de-les-competencies-i-per-ajudar-a-trobar-feina-a-les-persones-de-mes-de-50-anys/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Estudiants que volen compaginar les classes amb una feina o persones que han perdut la feina arran de la COVID són els col·lectius que s’han <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/nous-tallers-per-a-la-millora-de-les-competencies-i-per-ajudar-a-trobar-feina-a-les-persones-de-mes-de-50-anys/" title="Nous tallers per a la millora de les competències i per ajudar a trobar feina a les persones de més de 50 anys">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179834 post type-post status-publish format-standard has-post-thumbnail hentry category-comarques category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/mesures-i-restriccions-generals-evitem-la-propagacio-del-coronavirus/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/covid-mesures-coronavirus-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/covid-mesures-coronavirus-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/covid-mesures-coronavirus-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/mesures-i-restriccions-generals-evitem-la-propagacio-del-coronavirus/" rel="bookmark">
+					Mesures i restriccions generals: Evitem la propagació del coronavirus				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/mesures-i-restriccions-generals-evitem-la-propagacio-del-coronavirus/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Consulta les infografies oficials sobre les mesures i restriccions actuals per evitar la propagació del coronavirus en activitats d&#8217;hostaleria, restauració i activitats recreatives, parcs i <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/mesures-i-restriccions-generals-evitem-la-propagacio-del-coronavirus/" title="Mesures i restriccions generals: Evitem la propagació del coronavirus">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179831 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/aquest-diumenge-tindra-lloc-a-besalu-la-botiga-al-carrer-organitzada-pel-comerc-local/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ej0-J1iWoAATQgS-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ej0-J1iWoAATQgS-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Ej0-J1iWoAATQgS-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/aquest-diumenge-tindra-lloc-a-besalu-la-botiga-al-carrer-organitzada-pel-comerc-local/" rel="bookmark">
+					Aquest diumenge tindrà lloc a Besalú “La Botiga al Carrer”, organitzada pel comerç local				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/aquest-diumenge-tindra-lloc-a-besalu-la-botiga-al-carrer-organitzada-pel-comerc-local/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest diumenge 11 d&#8217;octubre tindrà lloc a Besalú “La Botiga al Carrer” al Prat de Sant Pere a partir de les 10 del matí. #jocomproabesalu</p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179826 post type-post status-publish format-standard has-post-thumbnail hentry category-comarques category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/gairebe-un-77-dels-alumnes-presentats-supera-les-proves-dacces-a-la-universitat-pau-de-setembre/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/estudiants-escola-pau-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/estudiants-escola-pau-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/estudiants-escola-pau-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/gairebe-un-77-dels-alumnes-presentats-supera-les-proves-dacces-a-la-universitat-pau-de-setembre/" rel="bookmark">
+					Gairebé un 77% dels alumnes presentats supera les proves d&#8217;accés a la universitat (PAU) de setembre				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>9 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/gairebe-un-77-dels-alumnes-presentats-supera-les-proves-dacces-a-la-universitat-pau-de-setembre/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>La nota mitjana dels estudiants ha estat de 5,484 Pel que fa a la convocatòria extraordinària de la PAP per accedir als estudis d’Educació infantil <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/gairebe-un-77-dels-alumnes-presentats-supera-les-proves-dacces-a-la-universitat-pau-de-setembre/" title="Gairebé un 77% dels alumnes presentats supera les proves d&#8217;accés a la universitat (PAU) de setembre">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179814 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/aquest-cap-de-setmana-tornara-a-funcionar-el-bus-ruta-dels-volcans-entre-olot-i-santa-pau/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/volcans-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/volcans-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/volcans-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/aquest-cap-de-setmana-tornara-a-funcionar-el-bus-ruta-dels-volcans-entre-olot-i-santa-pau/" rel="bookmark">
+					Aquest cap de setmana tornarà a funcionar el bus Ruta dels Volcans entre Olot i Santa Pau				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/aquest-cap-de-setmana-tornara-a-funcionar-el-bus-ruta-dels-volcans-entre-olot-i-santa-pau/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest cap de setmana tornarà a funcionar el bus Ruta dels Volcans entre Olot i Santa Pau Aquest cap de setmana torna a funcionar el <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/aquest-cap-de-setmana-tornara-a-funcionar-el-bus-ruta-dels-volcans-entre-olot-i-santa-pau/" title="Aquest cap de setmana tornarà a funcionar el bus Ruta dels Volcans entre Olot i Santa Pau">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179811 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/olot-inicia-el-proces-de-revisio-de-la-zonificacio-escolar/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Zonificació_2020-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Zonificació_2020-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Zonificació_2020-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/olot-inicia-el-proces-de-revisio-de-la-zonificacio-escolar/" rel="bookmark">
+					Olot inicia el procés de revisió de la zonificació escolar 				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/olot-inicia-el-proces-de-revisio-de-la-zonificacio-escolar/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>La revisió afecta a les àrees de les escoles que ofereixen el segon cicle d’educació infantil i educació primària de la ciutat. Comptarà amb la <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/olot-inicia-el-proces-de-revisio-de-la-zonificacio-escolar/" title="Olot inicia el procés de revisió de la zonificació escolar ">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179808 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lhospital-dolot-ofereix-allotjament-als-estudiants-de-medicina-que-fan-les-seves-practiques-curriculars-al-centre/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Estudiants_allotjament1-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Estudiants_allotjament1-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Estudiants_allotjament1-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lhospital-dolot-ofereix-allotjament-als-estudiants-de-medicina-que-fan-les-seves-practiques-curriculars-al-centre/" rel="bookmark">
+					L’Hospital d’Olot ofereix allotjament als estudiants de Medicina que fan les seves pràctiques curriculars al centre				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lhospital-dolot-ofereix-allotjament-als-estudiants-de-medicina-que-fan-les-seves-practiques-curriculars-al-centre/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Amb el conveni signat amb la Facultat de Medicina de la UVic-UCC, l’Hospital d’Olot ofereix allotjament als estudiants que fan les seves pràctiques curriculars al <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lhospital-dolot-ofereix-allotjament-als-estudiants-de-medicina-que-fan-les-seves-practiques-curriculars-al-centre/" title="L’Hospital d’Olot ofereix allotjament als estudiants de Medicina que fan les seves pràctiques curriculars al centre">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179802 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/treballs-deliminacio-de-plantes-invasores-a-la-llera-del-brugent-a-les-planes-dhostoles/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120813614_3709572922394847_8192023097978282622_n-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120813614_3709572922394847_8192023097978282622_n-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120813614_3709572922394847_8192023097978282622_n-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/treballs-deliminacio-de-plantes-invasores-a-la-llera-del-brugent-a-les-planes-dhostoles/" rel="bookmark">
+					Treballs d’eliminació de plantes invasores a la llera del Brugent a les Planes d&#8217;Hostoles				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/treballs-deliminacio-de-plantes-invasores-a-la-llera-del-brugent-a-les-planes-dhostoles/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Treballs d’eliminació de plantes invasores a la llera del Brugent a les Planes d&#8217;Hostoles S’han iniciat aquesta setmana els treballs d’eliminació de plantes invasores a <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/treballs-deliminacio-de-plantes-invasores-a-la-llera-del-brugent-a-les-planes-dhostoles/" title="Treballs d’eliminació de plantes invasores a la llera del Brugent a les Planes d&#8217;Hostoles">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179799 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/continuen-els-problemes-daparcament-i-circulacio-al-nucli-de-montagut/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120716805_3648258411899733_7861305780888475449_o-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120716805_3648258411899733_7861305780888475449_o-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/120716805_3648258411899733_7861305780888475449_o-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/continuen-els-problemes-daparcament-i-circulacio-al-nucli-de-montagut/" rel="bookmark">
+					Continuen els problemes d&#8217;aparcament i circulació al nucli de Montagut				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/continuen-els-problemes-daparcament-i-circulacio-al-nucli-de-montagut/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Continuen els problemes d&#8217;aparcament i circulació al nucli de Montagut L&#8217;Ajuntament de Montagut és conscient que les obres del carrer Olot, afecta la circulació i <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/continuen-els-problemes-daparcament-i-circulacio-al-nucli-de-montagut/" title="Continuen els problemes d&#8217;aparcament i circulació al nucli de Montagut">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179792 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/portes-obertes-per-descobrir-la-proposta-esportiva-del-cem-vall-bas/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2018/11/773644_279462478845808_898017223_o-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2018/11/773644_279462478845808_898017223_o-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2018/11/773644_279462478845808_898017223_o-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/portes-obertes-per-descobrir-la-proposta-esportiva-del-cem-vall-bas/" rel="bookmark">
+					Portes Obertes per descobrir la proposta esportiva del CEM Vall Bas				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/portes-obertes-per-descobrir-la-proposta-esportiva-del-cem-vall-bas/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Portes Obertes per descobrir la proposta esportiva del CEM Vall Bas Ja falta poc! el proper 13 d’octubre comença la nova temporada d’activitats esportives al <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/portes-obertes-per-descobrir-la-proposta-esportiva-del-cem-vall-bas/" title="Portes Obertes per descobrir la proposta esportiva del CEM Vall Bas">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179784 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/sadapten-les-sessions-de-preparacio-al-naixement-i-postpart-a-partir-del-dimarts-13-doctubre/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/embaràs-part-326x245.png" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/embaràs-part-326x245.png 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/embaràs-part-80x60.png 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/sadapten-les-sessions-de-preparacio-al-naixement-i-postpart-a-partir-del-dimarts-13-doctubre/" rel="bookmark">
+					S’adapten les sessions de preparació al naixement i postpart a partir del dimarts 13 d’octubre				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/sadapten-les-sessions-de-preparacio-al-naixement-i-postpart-a-partir-del-dimarts-13-doctubre/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Les classes de preparació al naixement es faran de manera virtual a causa de la prohibició de reunions de més de 6 persones. Pel que <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/sadapten-les-sessions-de-preparacio-al-naixement-i-postpart-a-partir-del-dimarts-13-doctubre/" title="S’adapten les sessions de preparació al naixement i postpart a partir del dimarts 13 d’octubre">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-165002 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/alerten-de-la-presencia-dun-insecte-procedent-dasia-al-nostre-territori/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2019/05/NOU-INSECTE-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2019/05/NOU-INSECTE-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2019/05/NOU-INSECTE-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/alerten-de-la-presencia-dun-insecte-procedent-dasia-al-nostre-territori/" rel="bookmark">
+					Alerten de la presència d’un insecte procedent d’Àsia a la Garrotxa				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/alerten-de-la-presencia-dun-insecte-procedent-dasia-al-nostre-territori/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>S&#8217;ha elaborat un protocol per a fer el seguiment i, així, poder seguir l’arribada i l’establiment de la plaga als cultius Es tracta d’un insecte <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/alerten-de-la-presencia-dun-insecte-procedent-dasia-al-nostre-territori/" title="Alerten de la presència d’un insecte procedent d’Àsia a la Garrotxa">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179730 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/llum-verda-a-loci-nocturn-controlat-i-segur/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/06/discoteca-begudes-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/06/discoteca-begudes-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/06/discoteca-begudes-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/llum-verda-a-loci-nocturn-controlat-i-segur/" rel="bookmark">
+					Marxa enrere en la reobertura de discoteques i locals d&#8217;oci nocturn				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/llum-verda-a-loci-nocturn-controlat-i-segur/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Marxa enrere en la reobertura de discoteques i locals d&#8217;oci nocturn Marxa enrere en la decisió anunciada aquest dimarts de reobrir discoteques i locals d&#8217;oci <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/llum-verda-a-loci-nocturn-controlat-i-segur/" title="Marxa enrere en la reobertura de discoteques i locals d&#8217;oci nocturn">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179754 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/presentacio-dels-treballs-de-restauracio-de-la-facana-de-lesglesia-de-sant-esteve-dolot/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/02/sant-esteve-obres-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/02/sant-esteve-obres-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/02/sant-esteve-obres-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/presentacio-dels-treballs-de-restauracio-de-la-facana-de-lesglesia-de-sant-esteve-dolot/" rel="bookmark">
+					Presentació dels treballs de restauració de la façana de l’església de Sant Esteve d’Olot				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>8 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/presentacio-dels-treballs-de-restauracio-de-la-facana-de-lesglesia-de-sant-esteve-dolot/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Aquest dissabte 10 d&#8217;octubre, es farà la presentació dels treballs de restauració de la façana de l’església de Sant Esteve d’Olot Es començarà amb un <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/presentacio-dels-treballs-de-restauracio-de-la-facana-de-lesglesia-de-sant-esteve-dolot/" title="Presentació dels treballs de restauració de la façana de l’església de Sant Esteve d’Olot">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179750 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/video-concert-gratuit-aquest-diumenge-de-guillem-roma-a-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/"><img width="326" height="238" src="https://www.elgarrotxi.cat/wp-content/uploads/2015/06/F-00220.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2015/06/F-00220.jpg 450w, https://www.elgarrotxi.cat/wp-content/uploads/2015/06/F-00220-316x231.jpg 316w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/video-concert-gratuit-aquest-diumenge-de-guillem-roma-a-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/" rel="bookmark">
+					VÍDEO: Concert gratuït aquest diumenge de Guillem Roma, a la Bianyal d&#8217;Art i Patrimoni de la Vall de Bianya				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/video-concert-gratuit-aquest-diumenge-de-guillem-roma-a-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Concert gratuït de Guillem Roma, a la Bianyal d&#8217;Art i Patrimoni de la Vall de Bianya, del proper 11 d&#8217;octubre a les 5 de la <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/video-concert-gratuit-aquest-diumenge-de-guillem-roma-a-la-bianyal-dart-i-patrimoni-de-la-vall-de-bianya/" title="VÍDEO: Concert gratuït aquest diumenge de Guillem Roma, a la Bianyal d&#8217;Art i Patrimoni de la Vall de Bianya">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179743 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/tot-a-punt-per-al-vi-golden-river-blues-festival-memorial-toni-gaspar-a-riudaura/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/VI-Golden-River-2-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/VI-Golden-River-2-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/VI-Golden-River-2-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/tot-a-punt-per-al-vi-golden-river-blues-festival-memorial-toni-gaspar-a-riudaura/" rel="bookmark">
+					Tot a punt per al VI Golden River Blues Festival (Memorial Toni Gaspar) a Riudaura				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/tot-a-punt-per-al-vi-golden-river-blues-festival-memorial-toni-gaspar-a-riudaura/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Tot a punt per al VI Golden River Blues Festival (Memorial Toni Gaspar) a Riudaura El dissabte, 24 d’octubre, al Parc del Centre Cívic de Riudaura, celebrarem el VI Golden <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/tot-a-punt-per-al-vi-golden-river-blues-festival-memorial-toni-gaspar-a-riudaura/" title="Tot a punt per al VI Golden River Blues Festival (Memorial Toni Gaspar) a Riudaura">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179739 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/campanya-contra-les-violencies-de-genere-a-sant-feliu-de-pallerols/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-07-10-54-17-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-07-10-54-17-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/2020-10-07-10-54-17-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/campanya-contra-les-violencies-de-genere-a-sant-feliu-de-pallerols/" rel="bookmark">
+					Campanya contra les violències de gènere que s&#8217;estendra per tota la Garrotxa				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/campanya-contra-les-violencies-de-genere-a-sant-feliu-de-pallerols/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Campanya contra les violències de gènere aquest dissabte a  Sant Feliu de Pallerols Les activitats s&#8217;estendran per tota la comarca, en municipis com Argelaguer, Beuda, <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/campanya-contra-les-violencies-de-genere-a-sant-feliu-de-pallerols/" title="Campanya contra les violències de gènere que s&#8217;estendra per tota la Garrotxa">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179735 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/el-nedador-del-club-natacio-castellfollit-mahamadou-dambelleh-sera-el-protagonista-del-programa-de-tv3-els-meus-fills/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/1600769572635-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/1600769572635-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/1600769572635-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/el-nedador-del-club-natacio-castellfollit-mahamadou-dambelleh-sera-el-protagonista-del-programa-de-tv3-els-meus-fills/" rel="bookmark">
+					El nedador del Club Natació Castellfollit, Mahamadou Dambelleh serà el protagonista del programa de TV3 Els Meus Fills				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/el-nedador-del-club-natacio-castellfollit-mahamadou-dambelleh-sera-el-protagonista-del-programa-de-tv3-els-meus-fills/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>El nedador del Club Natació Castellfollit, Mahamadou Dambelleh serà el protagonista del programa de TV3 Els Meus Fills Aquest diumenge 11 d&#8217;octubre el nedador del <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/el-nedador-del-club-natacio-castellfollit-mahamadou-dambelleh-sera-el-protagonista-del-programa-de-tv3-els-meus-fills/" title="El nedador del Club Natació Castellfollit, Mahamadou Dambelleh serà el protagonista del programa de TV3 Els Meus Fills">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179726 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/mes-cribratges-a-les-escoles/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/pcr-covid-coronavirus-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/pcr-covid-coronavirus-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/pcr-covid-coronavirus-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/mes-cribratges-a-les-escoles/" rel="bookmark">
+					Més cribratges a les escoles				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/mes-cribratges-a-les-escoles/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Més cribratges a les escoles D’altra banda, Argimon també ha explicat que en les 3 setmanes de curs escolar s’han fet pràcticament 100.000 PCR a <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/mes-cribratges-a-les-escoles/" title="Més cribratges a les escoles">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179724 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/obertes-les-inscripcions-pel-club-de-lectura-de-la-biblioteca/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/07/biblioteca-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/07/biblioteca-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/07/biblioteca-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/obertes-les-inscripcions-pel-club-de-lectura-de-la-biblioteca/" rel="bookmark">
+					Obertes les inscripcions pel Club de Lectura de la Biblioteca				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/obertes-les-inscripcions-pel-club-de-lectura-de-la-biblioteca/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Obertes les inscripcions pel Club de Lectura de la Biblioteca Un cop al mes, Albert Grabulosa moderarà un club de lectura sobre un llibre en <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/obertes-les-inscripcions-pel-club-de-lectura-de-la-biblioteca/" title="Obertes les inscripcions pel Club de Lectura de la Biblioteca">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179722 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lorfeo-obre-el-telo-amb-totes-les-mesures-de-seguretat/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2014/11/orfeoteatreolot-206x197-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2014/11/orfeoteatreolot-206x197-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2014/11/orfeoteatreolot-206x197-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lorfeo-obre-el-telo-amb-totes-les-mesures-de-seguretat/" rel="bookmark">
+					L’Orfeó obre el teló amb totes les mesures de seguretat				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lorfeo-obre-el-telo-amb-totes-les-mesures-de-seguretat/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’Orfeó obre el teló amb totes les mesures de seguretat Els darrers mesos l’Orfeó Popular Olotí ha estat treballant per tornar a obrir el teló <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lorfeo-obre-el-telo-amb-totes-les-mesures-de-seguretat/" title="L’Orfeó obre el teló amb totes les mesures de seguretat">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179719 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lalacanti-joaquim-cano-guanyador-del-v-premi-francesc-garriga-de-poesia-a-liberisliber/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/CANO-Joaquim-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/CANO-Joaquim-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/CANO-Joaquim-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lalacanti-joaquim-cano-guanyador-del-v-premi-francesc-garriga-de-poesia-a-liberisliber/" rel="bookmark">
+					L’alacantí Joaquim Cano,  guanyador del V Premi Francesc Garriga de Poesia a LIBERISLIBER				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lalacanti-joaquim-cano-guanyador-del-v-premi-francesc-garriga-de-poesia-a-liberisliber/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’alacantí Joaquim Cano,  guanyador del V Premi Francesc Garriga de Poesia a LIBERISLIBER Ja es coneix el nou guanyador del Premi Francesc Garriga de Poesia <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lalacanti-joaquim-cano-guanyador-del-v-premi-francesc-garriga-de-poesia-a-liberisliber/" title="L’alacantí Joaquim Cano,  guanyador del V Premi Francesc Garriga de Poesia a LIBERISLIBER">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179716 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/mes-dun-centenar-de-participats-a-la-segona-edicio-del-garrotxa-volcanic-walking/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castellfollit-2-326x245.jpeg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castellfollit-2-326x245.jpeg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/castellfollit-2-80x60.jpeg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/mes-dun-centenar-de-participats-a-la-segona-edicio-del-garrotxa-volcanic-walking/" rel="bookmark">
+					Més d&#8217;un centenar de participats a la segona edició del “Garrotxa Volcanic Walking”				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>7 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/mes-dun-centenar-de-participats-a-la-segona-edicio-del-garrotxa-volcanic-walking/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Més d&#8217;un centenar de participats a la segona edició del “Garrotxa Volcanic Walking” Aquest cap de setmana s’ha celebrat amb èxit la segona edició del <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/mes-dun-centenar-de-participats-a-la-segona-edicio-del-garrotxa-volcanic-walking/" title="Més d&#8217;un centenar de participats a la segona edició del “Garrotxa Volcanic Walking”">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179714 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/detenen-un-vei-dolot-al-pla-de-lestany-amb-el-permis-suspes-que-va-donar-una-taxa-dalcohol-cinc-vegades-superior-a-la-permesa/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/03/mossos-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/03/mossos-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/03/mossos-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/detenen-un-vei-dolot-al-pla-de-lestany-amb-el-permis-suspes-que-va-donar-una-taxa-dalcohol-cinc-vegades-superior-a-la-permesa/" rel="bookmark">
+					Detenen un veí d&#8217;Olot al Pla de l&#8217;Estany amb el permís suspès que va donar una taxa d&#8217;alcohol cinc vegades superior a la permesa				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/detenen-un-vei-dolot-al-pla-de-lestany-amb-el-permis-suspes-que-va-donar-una-taxa-dalcohol-cinc-vegades-superior-a-la-permesa/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Va deixar el cotxe al mig de la carretera amb la porta oberta i el motor engegat Els Mossos d’Esquadra, juntament amb agents de la <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/detenen-un-vei-dolot-al-pla-de-lestany-amb-el-permis-suspes-que-va-donar-una-taxa-dalcohol-cinc-vegades-superior-a-la-permesa/" title="Detenen un veí d&#8217;Olot al Pla de l&#8217;Estany amb el permís suspès que va donar una taxa d&#8217;alcohol cinc vegades superior a la permesa">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179711 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/noves-propostes-del-pla-de-reactivacio-economica-municipal-de-sant-joan-les-fonts/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2016/05/F-004-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2016/05/F-004-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2016/05/F-004-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/noves-propostes-del-pla-de-reactivacio-economica-municipal-de-sant-joan-les-fonts/" rel="bookmark">
+					Noves propostes del Pla de Reactivació Econòmica Municipal de Sant Joan les Fonts				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/noves-propostes-del-pla-de-reactivacio-economica-municipal-de-sant-joan-les-fonts/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>300€ per autònoms i establiments turístics i 20€ per família per comprar al comerç local: les propostes del Pla de Reactivació Econòmica Municipal de Sant <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/noves-propostes-del-pla-de-reactivacio-economica-municipal-de-sant-joan-les-fonts/" title="Noves propostes del Pla de Reactivació Econòmica Municipal de Sant Joan les Fonts">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179705 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/es-crea-un-nou-grup-de-rock-dur-musuan-banda-de-girona-de-projeccio-estatal-amb-exmembres-daspid-rockzilla/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto_Jordi_Renart_JRR6408-bn-b-r-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto_Jordi_Renart_JRR6408-bn-b-r-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Foto_Jordi_Renart_JRR6408-bn-b-r-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/es-crea-un-nou-grup-de-rock-dur-musuan-banda-de-girona-de-projeccio-estatal-amb-exmembres-daspid-rockzilla/" rel="bookmark">
+					Es crea un nou grup de Rock dur, MUSUAN, banda de Girona de projecció estatal amb exmembres d&#8217;Aspid, Rockzilla&#8230;				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/es-crea-un-nou-grup-de-rock-dur-musuan-banda-de-girona-de-projeccio-estatal-amb-exmembres-daspid-rockzilla/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Es crea un nou grup de Rock dur, MUSUAN, banda de Girona de projecció estatal amb exmembres d&#8217;Aspid, Rockzilla&#8230; La nova banda és el punt <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/es-crea-un-nou-grup-de-rock-dur-musuan-banda-de-girona-de-projeccio-estatal-amb-exmembres-daspid-rockzilla/" title="Es crea un nou grup de Rock dur, MUSUAN, banda de Girona de projecció estatal amb exmembres d&#8217;Aspid, Rockzilla&#8230;">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179701 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/experiencies-de-renovacio-academica-a-les-jornades-de-la-catedra-a-can-trona/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/jornades-catedra-octubre-2020-1-326x245.jpeg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/jornades-catedra-octubre-2020-1-326x245.jpeg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/jornades-catedra-octubre-2020-1-80x60.jpeg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/experiencies-de-renovacio-academica-a-les-jornades-de-la-catedra-a-can-trona/" rel="bookmark">
+					Experiències de renovació acadèmica a les jornades de la Càtedra a Can Trona				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/experiencies-de-renovacio-academica-a-les-jornades-de-la-catedra-a-can-trona/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>Experiències de renovació acadèmica a les jornades de la Càtedra a Can Trona Els dies 2 i 3 d’octubre es van celebrar a Can Trona <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/experiencies-de-renovacio-academica-a-les-jornades-de-la-catedra-a-can-trona/" title="Experiències de renovació acadèmica a les jornades de la Càtedra a Can Trona">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179698 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/la-companyia-trickster-versiona-el-conte-de-la-blancaneu-amb-diverses-sessions-per-a-molt-pocs-espectadors/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/a537db7a-98f4-41eb-9bdb-fa74c508ad5c-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/a537db7a-98f4-41eb-9bdb-fa74c508ad5c-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/a537db7a-98f4-41eb-9bdb-fa74c508ad5c-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/la-companyia-trickster-versiona-el-conte-de-la-blancaneu-amb-diverses-sessions-per-a-molt-pocs-espectadors/" rel="bookmark">
+					La companyia Trickster versiona el conte de la Blancaneu, amb diverses sessions per a molt pocs espectadors				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/la-companyia-trickster-versiona-el-conte-de-la-blancaneu-amb-diverses-sessions-per-a-molt-pocs-espectadors/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>B. és el segon episodi d’una trilogia dedicada als contes de fades i ha estat creat com una relectura de Blancaneu. Els espectadors es mouen sols <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/la-companyia-trickster-versiona-el-conte-de-la-blancaneu-amb-diverses-sessions-per-a-molt-pocs-espectadors/" title="La companyia Trickster versiona el conte de la Blancaneu, amb diverses sessions per a molt pocs espectadors">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179690 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/saproven-mesures-per-a-la-realitzacio-dactivitats-extraescolars-colonies-i-sortides-escolars/"><img width="326" height="217" src="https://www.elgarrotxi.cat/wp-content/uploads/2017/03/Educación-integrada.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2017/03/Educación-integrada.jpg 450w, https://www.elgarrotxi.cat/wp-content/uploads/2017/03/Educación-integrada-300x200.jpg 300w, https://www.elgarrotxi.cat/wp-content/uploads/2017/03/Educación-integrada-325x217.jpg 325w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/saproven-mesures-per-a-la-realitzacio-dactivitats-extraescolars-colonies-i-sortides-escolars/" rel="bookmark">
+					S&#8217;aproven mesures per a la realització d&#8217;activitats extraescolars, colònies i sortides escolars				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/saproven-mesures-per-a-la-realitzacio-dactivitats-extraescolars-colonies-i-sortides-escolars/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>El PROCICAT ha aprovat avui el document d’Especificacions sobre el Pla d’actuació per al curs 2020-2021 per a centres educatius en el marc de la <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/saproven-mesures-per-a-la-realitzacio-dactivitats-extraescolars-colonies-i-sortides-escolars/" title="S&#8217;aproven mesures per a la realització d&#8217;activitats extraescolars, colònies i sortides escolars">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><article class="mh-loop-item mh-clearfix post-179632 post type-post status-publish format-standard has-post-thumbnail hentry category-garrotxa">
+	<figure class="mh-loop-thumb">
+		<a href="https://www.elgarrotxi.cat/lenllac-de-carreteres-dolot-dos-reportatges-fotografics-1926-2009/"><img width="326" height="245" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Expo_Enllaç-de-carreteres_imatge_-326x245.jpg" class="attachment-mh-magazine-lite-medium size-mh-magazine-lite-medium wp-post-image" alt="" srcset="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Expo_Enllaç-de-carreteres_imatge_-326x245.jpg 326w, https://www.elgarrotxi.cat/wp-content/uploads/2020/10/Expo_Enllaç-de-carreteres_imatge_-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" />		</a>
+	</figure>
+	<div class="mh-loop-content mh-clearfix">
+		<header class="mh-loop-header">
+			<h3 class="entry-title mh-loop-title">
+				<a href="https://www.elgarrotxi.cat/lenllac-de-carreteres-dolot-dos-reportatges-fotografics-1926-2009/" rel="bookmark">
+					L’enllaç de carreteres d’Olot. Dos reportatges fotogràfics 1926/2009				</a>
+			</h3>
+			<div class="mh-meta mh-loop-meta">
+				<span class="mh-meta-date updated"><i class="fa fa-clock-o"></i>6 d'Octubre de 2020</span>
+<span class="mh-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://www.elgarrotxi.cat/author/redaccio/">Redacció</a></span>
+<span class="mh-meta-comments"><i class="fa fa-comment-o"></i><a class="mh-comment-count-link" href="https://www.elgarrotxi.cat/lenllac-de-carreteres-dolot-dos-reportatges-fotografics-1926-2009/#mh-comments">0</a></span>
+			</div>
+		</header>
+		<div class="mh-loop-excerpt">
+			<div class="mh-excerpt"><p>L’enllaç de carreteres d’Olot. Dos reportatges fotogràfics 1926/2009 Des del 5 d’octubre fins al 26 de novembre, a la Sala d’actes de l’Arxiu Comarcal de <a class="mh-excerpt-more" href="https://www.elgarrotxi.cat/lenllac-de-carreteres-dolot-dos-reportatges-fotografics-1926-2009/" title="L’enllaç de carreteres d’Olot. Dos reportatges fotogràfics 1926/2009">[&#8230;]</a></p>
+</div>		</div>
+	</div>
+</article><div class="mh-loop-pagination mh-clearfix">
+	<nav class="navigation pagination" role="navigation">
+		<h2 class="screen-reader-text">Navegació d&#039;entrades</h2>
+		<div class="nav-links"><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://www.elgarrotxi.cat/page/2/'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.elgarrotxi.cat/page/366/'>366</a>
+<a class="next page-numbers" href="https://www.elgarrotxi.cat/page/2/">&raquo;</a></div>
+	</nav></div>	</div>
+	<aside class="mh-widget-col-1 mh-sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><div id="search-4" class="mh-widget widget_search"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Cercador</span></h4><form role="search" method="get" class="search-form" action="https://www.elgarrotxi.cat/">
+				<label>
+					<span class="screen-reader-text">Cerca:</span>
+					<input type="search" class="search-field" placeholder="Cerca &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Cerca" />
+			</form></div><div id="a2a_follow_widget-7" class="mh-widget widget_a2a_follow_widget"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">SEGUEIX-NOS</span></h4><div class="a2a_kit a2a_kit_size_38 a2a_follow addtoany_list"><a class="a2a_button_facebook" href="http://www.facebook.com/elgarrotxi.cat/" title="Facebook" rel="noopener" target="_blank"></a><a class="a2a_button_twitter" href="http://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=elgarrotxi_cat" title="Twitter" rel="noopener" target="_blank"></a><a class="a2a_button_instagram" href="http://instagram.com/elgarrotxi.cat/" title="Instagram" rel="noopener" target="_blank"></a><a class="a2a_button_youtube" href="http://www.youtube.com/user/elgarrotxicat/videos?sub_confirmation=1" title="YouTube" rel="noopener" target="_blank"></a></div></div><div id="wp_bannerize-9" class="mh-widget WPBannerizeWidget"><div class="wp_bannerize SUPERIOR">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(449)"  href="https://www.elgarrotxi.cat/inaugurat-un-nou-canal-dinformacio-per-al-teu-mobil-dedicat-a-la-cultura-i-la-informacio-general-de-la-garrotxa/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2019/10/telegram-copia.jpg" alt="" width="400" height="274"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(565)"  href="https://www.elgarrotxi.cat/a-partir-del-proper-dissabte-comenca-el-festival-lluernia-consulta-tota-la-programacio-els-espais-dies-i-horaris-de-les-installacions/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/10/baner-lluernia-2020.jpg" alt="" width="400" height="247"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(561)"  href="https://www.elgarrotxi.cat/cursa-virtual-contra-el-cancer-de-mama/" rel="nofollow" target="_blank">
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/09/banner_cursa_per_les_mames_2020_1.jpg" alt="" width="400" height="138"/>
+</a>
+</div></div>
+</div><div id="wp_bannerize-3" class="mh-widget WPBannerizeWidget"><div class="wp_bannerize INFERIOR">
+<div><a  onclick="WPBannerizeJavascript.incrementClickCount(553)"  href="http://www.terraderemences.com/" rel="nofollow" target="_blank">
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/marxa-terra-remences.gif" alt="" width="400" height="133"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(519)"  href="https://www.elgarrotxi.cat/serveis/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/farmacia.jpg" alt="" width="400" height="138"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(559)"  href="https://www.elgarrotxi.cat/caritas-garrotxa/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/09/xarxes-1.jpg" alt="" width="400" height="366"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(552)"  href="https://www.residuonvas.cat/" rel="nofollow" target="_blank">
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/banner-residu-a-on-vas.jpg" alt="" width="400" height="98"/>
+</a>
+</div><div><img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/wassap-elgarrotxi.gif" alt="" width="400" height="133"/>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(541)"  href="https://www.elgarrotxi.cat/ofertes-de-feina-vigents-a-la-garrotxa/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/06/oferta-de-feina-copia.jpg" alt="" width="400" height="212"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(551)"  href="http://www.cantrona.cat/" rel="nofollow" target="_blank">
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/can-trona.gif" alt="" width="400" height="133"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(517)"  href="https://www.elgarrotxi.cat/el-servei-datencio-permanent-del-900-900-120-contra-la-violencia-masclista/" rel="nofollow" >
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/03/1270320201585263824.jpg" alt="" width="400" height="264"/>
+</a>
+</div><div><a  onclick="WPBannerizeJavascript.incrementClickCount(554)"  href="http://politssucarrats.com/" rel="nofollow" target="_blank">
+<img src="https://www.elgarrotxi.cat/wp-content/uploads/2020/08/polits-sucarrats.gif" alt="" width="400" height="225"/>
+</a>
+</div></div>
+</div></aside></div>
+<footer class="mh-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+<div class="mh-container mh-container-inner mh-footer-widgets mh-row mh-clearfix">
+<div class="mh-col-1-4 mh-widget-col-1 mh-footer-4-cols  mh-footer-area mh-footer-1">
+<div id="search-3" class="mh-footer-widget widget_search"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">Cercador</span></h6><form role="search" method="get" class="search-form" action="https://www.elgarrotxi.cat/">
+				<label>
+					<span class="screen-reader-text">Cerca:</span>
+					<input type="search" class="search-field" placeholder="Cerca &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Cerca" />
+			</form></div><div id="custom_html-6" class="widget_text mh-footer-widget widget_custom_html"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">SECCIONS DE LA WEB</span></h6><div class="textwidget custom-html-widget"><div>
+	<a href="http://www.elgarrotxi.cat/category/garrotxa/">Garrotxa</a></div>
+<div>
+	<a href="http://www.elgarrotxi.cat/category/comarques/">Comarques</a></div>
+<div>
+	<a href="http://www.elgarrotxi.cat/agenda/">Agenda</a></div>
+<div>
+	<a href="http://www.elgarrotxi.cat/category/multimedia/">Multim&egrave;dia</a></div>
+<div>
+	<a href="http://www.elgarrotxi.cat/serveis/">Serveis</a></div>
+<div>
+	<a href="http://www.elgarrotxi.cat/promocio-web/">Anuncia&#39;t</a></div></div></div><div id="media_image-2" class="mh-footer-widget widget_media_image"><img width="75" height="113" src="https://www.elgarrotxi.cat/wp-content/uploads/2020/04/llaç-groc.png" class="image wp-image-172352  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div>
+<div class="mh-col-1-4 mh-widget-col-1 mh-footer-4-cols  mh-footer-area mh-footer-2">
+<div id="custom_html-7" class="widget_text mh-footer-widget widget_custom_html"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">DADES D’INTERÈS</span></h6><div class="textwidget custom-html-widget"><div>
+<span style="color:#ffffff;">Web:</span></div>
+<div>
+<a href="http://www.elgarrotxi.cat/";>www.elgarrotxi.cat</a></div>
+<div>
+&nbsp;</div>
+<div>
+<span style="color:#ffffff;">Adre&ccedil;a electr&ograve;nica:</span></div>
+<div>
+<a href="mailto:elgarrotxi.cat@gmail.com">elgarrotxi.cat@gmail.com</a></div>
+<div>
+&nbsp;</div>
+<div>
+<span style="color:#ffffff;">Tel&egrave;fon contacta:</span></div>
+<div>
+<span style="color:#ffffff;">648 696 451 (Tamb&eacute; Whatsapp)</span></div>
+<div>
+&nbsp;</div>
+<div>
+<span style="color:#ffffff;">La Vall d&#39;en Bas (Girona)</span></div></div></div><div id="custom_html-5" class="widget_text mh-footer-widget widget_custom_html"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">ACCÉS USUARIS REGISTRATS</span></h6><div class="textwidget custom-html-widget"><div>
+<a href="http://www.elgarrotxi.cat/wp-login.php";>Usuaris registrats</a></div>
+<div>
+&nbsp;</div>
+<div>
+<a href="http://www.elgarrotxi.cat/contacte/";>Contacte</a></div></div></div></div>
+<div class="mh-col-1-4 mh-widget-col-1 mh-footer-4-cols  mh-footer-area mh-footer-3">
+<div id="custom_html-4" class="widget_text mh-footer-widget widget_custom_html"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">AJUNTAMENTS</span></h6><div class="textwidget custom-html-widget"><div>
+<a href="http://www.argelaguer.cat/";>Argelaguer</a></div>
+<div>
+<a href="http://www.besalu.cat/";>Besal&uacute;</a></div>
+<div>
+<a href="http://www.beuda.cat/";>Beuda</a></div>
+<div>
+<a href="http://www.castellfollitdelaroca.org/";>Castellfollit de la Roca</a></div>
+<div>
+<a href="http://www.maia.cat/";>Mai&agrave; de Montcal</a></div>
+<div>
+<a href="http://www.mieres.cat/";>Mieres</a></div>
+<div>
+<a href="http://webspobles2.ddgi.cat/montagutioix/";>Montagut i Oix</a></div>
+<div>
+<a href="http://www.olot.cat/skin/default.aspx";>Olot</a></div>
+<div>
+<a href="http://www.lesplanes.cat/";>Les Planes d&#39;Hostoles</a></div>
+<div>
+<a href="http://www.lespreses.cat/index2.php";>Les Preses</a></div>
+<div>
+<a href="http://www.riudaura.cat/";>Riudaura</a></div>
+<div>
+<a href="http://www.salesdellierca.cat/";>Sales de Llierca</a></div>
+<div>
+<a href="http://www.santaniol.cat/";>Sant Aniol de Finestres</a></div>
+<div>
+<a href="http://www.santfeliudepallerols.cat/";>Sant Feliu de Pallerols</a></div>
+<div>
+<a href="http://www.santferriol.cat/";>Sant Ferriol</a></div>
+<div>
+<a href="http://www.santjaumedellierca.cat/";>Sant Jaume de Llierca</a></div>
+<div>
+<a href="http://www.santjoanlesfonts.cat/";>Sant Joan les Fonts</a></div>
+<div>
+<a href="http://www.santapau.cat/";>Santa Pau</a></div>
+<div>
+<a href="http://www.tortella.cat/";>Tortell&agrave;</a></div>
+<div>
+<a href="http://www.ajuntament.valldebianya.org/ca/tramits-urbanisme-noticies.aspx";>La Vall de Bianya</a></div>
+<div>
+<a href="http://www.vallbas.cat/";>La Vall d&#39;en Bas</a></div></div></div></div>
+<div class="mh-col-1-4 mh-widget-col-1 mh-footer-4-cols  mh-footer-area mh-footer-4">
+<div id="custom_html-14" class="widget_text mh-footer-widget widget_custom_html"><div class="textwidget custom-html-widget"><p>
+	<a href="http://www.olot.cat/skin/default.aspx?ACCIO=PORTAL&amp;NIVELL0=1493&amp;NIVELL1=25050&amp;NIVELL2=183&amp;NIVELL3=8456&amp;NIVELL4=8469&amp;NIVELL5=38699" target="_blank"><img alt="100% Olot" src="https://www.elgarrotxi.cat/wp-content/uploads/2015/12/logo-1.png" /></a></p>
+<p>
+	<a href="http://web.gencat.cat/ca/inici/" target="_blank"><img alt="Generalitat de Catalunya" src="https://www.elgarrotxi.cat/wp-content/uploads/2016/10/Generalitat-presidencia.jpg" style="width: 250px; height: 66px;" /></a></p>
+<p>
+	<a href="http://imatgesgarrotxa.olot.cat/" target="_blank"><img alt="Arxiu Comarcal Garrotxa" src="https://www.elgarrotxi.cat/wp-content/uploads/2016/10/acgax.jpg" style="width: 100px; height: 100px;" /></a></p></div></div><div id="custom_html-3" class="widget_text mh-footer-widget widget_custom_html"><h6 class="mh-widget-title mh-footer-widget-title"><span class="mh-widget-title-inner mh-footer-widget-title-inner">CODI QR DE LA WEB:</span></h6><div class="textwidget custom-html-widget"><img style="width: 150px; height: 150px;" src="https://www.elgarrotxi.cat/wp-content/uploads/2016/10/QR-elgarrotxi.cat_.png" alt="" /></div></div></div>
+</div>
+</footer>
+<div class="mh-copyright-wrap">
+	<div class="mh-container mh-container-inner mh-clearfix">
+		<p class="mh-copyright">Copyright &copy; 2020 | <a href="http://www.elgarrotxi.cat/" rel="nofollow">www.elgarrotxi.cat</a></p>
+	</div>
+</div>
+</div><!-- .mh-container-outer -->
+<link rel='stylesheet' id='wpBannerizeStyleDefault.css-css'  href='https://www.elgarrotxi.cat/wp-content/plugins/wp-bannerize/css/wpBannerizeStyleInline.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpBannerizeJavascriptLocalization = {"ajaxURL":"https:\/\/www.elgarrotxi.cat\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.elgarrotxi.cat/wp-content/plugins/wp-bannerize/js/wpBannerizeFrontend.min.js?ver=3.1.6'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 1.959 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-10-14 20:26:29 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

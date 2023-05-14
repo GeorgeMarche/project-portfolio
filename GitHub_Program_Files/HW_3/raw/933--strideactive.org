@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en-GB">
+	<head>
+	<meta charset="UTF-8" />
+<title>Stride Active - leading provider of  P.E. and School Sport  in Herefordshire</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="Stride Active 1.0.0" />
+
+<!-- This site is optimized with the Yoast SEO plugin v12.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Supporting schools  to deliver high-quality PE, address the health and wellbeing of young people and provide memorable active experiences."/>
+<link rel="canonical" href="https://strideactive.org/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Stride Active - leading provider of  P.E. and School Sport  in Herefordshire" />
+<meta property="og:description" content="Supporting schools  to deliver high-quality PE, address the health and wellbeing of young people and provide memorable active experiences." />
+<meta property="og:url" content="https://strideactive.org/" />
+<meta property="og:site_name" content="Stride Active" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Supporting schools  to deliver high-quality PE, address the health and wellbeing of young people and provide memorable active experiences." />
+<meta name="twitter:title" content="Stride Active - leading provider of  P.E. and School Sport  in Herefordshire" />
+<meta name="twitter:site" content="@stride_active" />
+<meta name="twitter:creator" content="@stride_active" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://strideactive.org/#website","url":"https://strideactive.org/","name":"Stride Active","potentialAction":{"@type":"SearchAction","target":"https://strideactive.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://strideactive.org/#webpage","url":"https://strideactive.org/","inLanguage":"en-GB","name":"Stride Active - leading provider of \u2028P.E. and School Sport \u2028in Herefordshire","isPartOf":{"@id":"https://strideactive.org/#website"},"datePublished":"2019-08-13T13:59:34+00:00","dateModified":"2020-09-09T16:31:05+00:00","description":"Supporting schools \u2028to deliver high-quality PE, address the health and wellbeing of young people and provide memorable active experiences."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Stride Active &raquo; Feed" href="https://strideactive.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Stride Active &raquo; Comments Feed" href="https://strideactive.org/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://strideactive.org/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://strideactive.org/app/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://strideactive.org/app/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=2.1.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='stride-active-screen-css'  href='https://strideactive.org/app/themes/stride-active/public/css/screen.css?id=8d7a27f53fbfad0283703c89e922703b' type='text/css' media='all' />
+<link rel='stylesheet' id='stride-active-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat:400,600&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='luxe-woocommerce-css'  href='https://strideactive.org/app/themes/stride-active/public/css/woocommerce.css?id=5a7632eb137d6949946dbbbcdcb87e3f' type='text/css' media='all' />
+<script type='text/javascript' src='https://strideactive.org/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://strideactive.org/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/strideactive.org\/wp\/wp-admin\/admin-ajax.php","nonce":"4b9cdc6b09"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/responsive-lightbox/js/front.js?ver=2.1.0'></script>
+<link rel='https://api.w.org/' href='https://strideactive.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strideactive.org/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://strideactive.org/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+<meta name="generator" content="WooCommerce 3.7.0" />
+<link rel='shortlink' href='https://strideactive.org/' />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.app-header__title, .app-header__description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+		<link rel="alternate" type="application/json+oembed" href="https://strideactive.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrideactive.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://strideactive.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrideactive.org%2F&#038;format=xml" />
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-148355007-1', 'auto');
+			
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+
+	<style type="text/css">/* Mailchimp for WP - Checkbox Styles */
+.mc4wp-checkbox-wp-registration-form {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-wp-registration-form input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-wp-registration-form label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style><style type="text/css">/* Mailchimp for WP - Checkbox Styles */
+.mc4wp-checkbox-woocommerce {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-woocommerce input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-woocommerce label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://strideactive.org/app/uploads/2019/09/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://strideactive.org/app/uploads/2019/09/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://strideactive.org/app/uploads/2019/09/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://strideactive.org/app/uploads/2019/09/cropped-favicon-1-270x270.png" />
+</head>
+
+	<body class="ltr en en-gb home single single-page single-page-2 page-template-default logged-out wp-custom-logo theme-stride-active woocommerce-no-js" dir="ltr">
+		
+		<div class="app">
+			<header class="app-header">
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+	<div class="app-header__wrapper wrapper wrapper--wide">
+		<div class="app-header__branding">
+			<a href="https://strideactive.org/" class="app-header__logo-link custom-logo-link" rel="home"><img src="https://strideactive.org/app/uploads/2019/08/logo.svg" data-no-lazy="1" class="app-header__logo custom-logo" alt="Stride Active" height="292" width="1082" /></a>			<h1 class="app-header__title"><a class="app-header__title-link" href="https://strideactive.org" rel="home">Stride Active</a></h1>			<div class="app-header__description">Inspiring Active Futures</div>		</div>
+
+		
+<nav id="js-menu" class="menu menu--primary">
+
+	<button id="menu-open" class="menu__button menu__button--open" aria-expanded="false" aria-controls="js-menu-wrap">
+		<svg class="svg svg--bars " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focusable="false" role="img"><path d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"/></svg>		<span class="menu__label screen-reader-text">Open Menu</span>
+	</button>
+
+	<div id="js-menu-wrap" class="menu__wrap">
+		<button id="menu-close" class="menu__button menu__button--close" aria-controls="js-menu-wrap">
+			<svg class="svg svg--close " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true" focusable="false" role="img"><path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"/></svg>			<span class="menu__label screen-reader-text">Close Menu</span>
+		</button>
+
+		<div class="menu__content">
+			<ul class="menu__items menu__items--secondary"><li id="menu-item-35" class="menu__item "><a href="https://strideactive.org/contact/" class="menu__link">Contact</a></li><li id="menu-item-348" class="menu__item "><a href="https://strideactive.org/account/" class="menu__link">Login/Register</a></li></ul>
+			<ul class="menu__items menu__items--primary"><li id="menu-item-30" class="menu__item menu__item--current "><a href="https://strideactive.org/" aria-current="page" class="menu__link">Home</a></li><li id="menu-item-31" class="menu__item has-children "><a href="https://strideactive.org/about-us/" class="menu__link">About Us</a><ul class="menu__sub-menu"><li id="menu-item-71" class="menu__item "><a href="https://strideactive.org/about-us/what-we-do/" class="menu__link">What We Do</a></li><li id="menu-item-70" class="menu__item "><a href="https://strideactive.org/about-us/meet-the-team/" class="menu__link">Meet The Team</a></li><li id="menu-item-3676" class="menu__item "><a href="https://strideactive.org/about-us/our-case-studies/" class="menu__link">Our Case Studies</a></li><li id="menu-item-9651" class="menu__item "><a href="https://strideactive.org/about-us/governance/" class="menu__link">Governance</a></li></ul></li><li id="menu-item-32" class="menu__item has-children "><a href="https://strideactive.org/education/" class="menu__link">Education</a><ul class="menu__sub-menu"><li id="menu-item-74" class="menu__item "><a href="https://strideactive.org/education/primary/" class="menu__link">Primary School Support</a></li><li id="menu-item-75" class="menu__item "><a href="https://strideactive.org/education/high-school-support/" class="menu__link">High School Support</a></li><li id="menu-item-73" class="menu__item "><a href="https://strideactive.org/education/pe-apprenticeship/" class="menu__link">PE Apprenticeship</a></li><li id="menu-item-72" class="menu__item "><a href="https://strideactive.org/education/professional-development/" class="menu__link">Professional Development</a></li><li id="menu-item-256" class="menu__item "><a href="https://strideactive.org/education/school-games/" class="menu__link">School Games</a></li><li id="menu-item-4475" class="menu__item "><a href="https://strideactive.org/education/recognition-awards/" class="menu__link">Recognition Awards</a></li><li id="menu-item-7444" class="menu__item "><a href="https://strideactive.org/education/socially-distanced-pe/" class="menu__link">Socially Distanced PE</a></li></ul></li><li id="menu-item-33" class="menu__item has-children "><a href="https://strideactive.org/health/" class="menu__link">Health</a><ul class="menu__sub-menu"><li id="menu-item-77" class="menu__item "><a href="https://strideactive.org/health/physical-activity/" class="menu__link">Physical Activity</a></li><li id="menu-item-78" class="menu__item "><a href="https://strideactive.org/health/school-support/" class="menu__link">School Support</a></li><li id="menu-item-8787" class="menu__item "><a href="https://strideactive.org/health/mental-wellbeing-programmes/" class="menu__link">Mental Wellbeing Programmes</a></li><li id="menu-item-6441" class="menu__item "><a href="https://strideactive.org/health/wellbeing-resources/" class="menu__link">Wellbeing Resources</a></li></ul></li><li id="menu-item-34" class="menu__item has-children "><a href="https://strideactive.org/community/" class="menu__link">Community</a><ul class="menu__sub-menu"><li id="menu-item-9662" class="menu__item "><a href="https://strideactive.org/cic/" class="menu__link">CIC</a></li><li id="menu-item-9851" class="menu__item "><a href="https://strideactive.org/community/apprenticeship/" class="menu__link">Community Apprenticeships</a></li><li id="menu-item-80" class="menu__item "><a href="https://strideactive.org/community/working-in-partnership/" class="menu__link">Partnerships</a></li><li id="menu-item-5433" class="menu__item "><a href="https://strideactive.org/community/stride-away/" class="menu__link">Stride-Away</a></li><li id="menu-item-81" class="menu__item "><a href="https://strideactive.org/community/support-us/" class="menu__link">Support Us</a></li></ul></li><li id="menu-item-327" class="menu__item "><a href="https://strideactive.org/events/" class="menu__link">Events</a></li></ul>		</div>
+	</div>
+</nav>
+	</div>
+</header>
+
+			<div class="app-content">
+				<main id="main" class="app-main">
+					
+	
+		<article class="entry entry--2 entry--type-page entry--status-publish entry--author-brettmason" id="post-2">
+	<header class="entry__header screen-reader-text">
+		<h1 class="entry__title">Home</h1>	</header>
+
+	<div class="entry__content">
+		<div class="slider">
+    <div class="slider__track">
+                    <div class="slider__slide" style="background-image: url( https://strideactive.org/app/uploads/2019/08/Herefordshire-School-Games-2018-015-1920x600.jpg );">
+                <div class="slider__overlay">
+                    <div class="slider__content wrapper wrapper--wide">
+                        <p class="slider__caption">Physical activity specialists, supporting Herefordshire schools and communities</p>
+                        <a class="button button--white" href="http://strideactive.org/about-us/">Find out more</a>
+                    </div>
+                </div>
+            </div>
+            </div>
+</div>
+
+<div class="bg-gradient u-text-center text-white uppercase u-h2 font-light tracking-wide py-half px-1">
+    Inspiring Active Futures</div>
+		
+<div class="about section">
+    <div class="wrapper wrapper--wide grid grid--auto">
+        <div class="icon-block">
+            <div class="icon-block__icon has-primary-color">
+                <svg class="svg svg--stride-icon " xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 292 292" aria-hidden="true" focusable="false" role="img"><path d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>            </div>
+
+            <div class="icon-block__content">
+                <h2 class="icon-block__title has-primary-color">Welcome back!</h2>
+                <p class="icon-block__text">We're so thrilled that schools are back, but we know there are many challenges ahead. During lockdown, children's physical activity levels dropped significantly - we now have more to do now than ever to restore and continue to increase activity levels. We've developed new ways of supporting schools and new interventions that use physical activity to support children's resilience and readiness to learn. If you'd like to find out about the ways we can support you, please get in touch with a member of the team.</p>
+            </div>
+        </div>
+
+        <div class="icon-block">
+            <div class="icon-block__icon has-secondary-color">
+                <svg class="svg svg--stride-icon " xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 292 292" aria-hidden="true" focusable="false" role="img"><path d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>            </div>
+
+            <div class="icon-block__content">
+                <h2 class="icon-block__title has-secondary-color">What We Do</h2>
+                <p class="icon-block__text">We work with a range of schools and organisations to demonstrate how physical activity can be used to achieve wider health and social outcomes for young people, such as improved mental wellbeing, better physical health or key life skills. We support schools in Herefordshire and beyond that would like to raise the profile of PE, sport and physical activity, whilst also working with local community organisations to raise the profile of physical activity.
+</p>
+            </div>
+        </div>
+    </div>
+</div>		
+<div class="featured section has-grey-background-color bg-icon">
+    <div class="wrapper wrapper--wide grid grid--auto">
+        <div class="featured__column" tabindex="0">
+            <div class="featured__image"><img width="739" height="493" src="https://strideactive.org/app/uploads/2019/12/IMG_20191129_105630-e1575907871345-739x493.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" /></div>
+            <div class="featured__overlay featured__overlay--secondary">
+                <h2 class="featured__title u-h3">Wellbeing programmes for schools</h2>
+                <p class="featured__text">We've been working with partners to develop two interventions, unique to Herefordshire, to support young people's wellbeing and respond to their needs following Covid-19 - all using physical activity of course!</p>
+                <a tabindex="0" class="featured__button button button--white" href="https://strideactive.org/health/mental-wellbeing-programmes/">Find out more</a>
+            </div>
+        </div>
+
+        <div class="featured__column" tabindex="0">
+            <div class="featured__image"><img width="739" height="493" src="https://strideactive.org/app/uploads/2020/02/boy-playing-frisbee-739x493.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="" /></div>
+            <div class="featured__overlay featured__overlay--primary">
+                <h2 class="featured__title u-h3">Stride Away</h2>
+                <p class="featured__text">Whilst children are away from school, we've got a whole range of ideas, resources and links for physical activity, PE and School Games at home!</p>
+                <a tabindex="0" class="featured__button button button--white" href="https://strideactive.org/community/stride-away/%20">Ideas here!</a>
+            </div>
+        </div>
+    </div>
+</div>
+		<div class="events section">
+    <div class="wrapper">
+        <h2 class="u-text-center mb-1 lg:mb-2">Upcoming Events</h2>
+
+        <div class="grid grid--auto">
+
+            <div class="stride-card">
+	<a class="stride-card__link" href="https://strideactive.org/events/covid-19-active-learning-within-government-guidelines/">
+	<div class="stride-card__image">
+		<img width="739" height="493" src="https://strideactive.org/app/uploads/2020/03/Walford-Primary-School-739x493.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />	</div>
+
+	<div class="stride-card__content">
+		<div class="stride-card__icon"><svg class="svg svg--event " width="100%" height="100%" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" aria-hidden="true" focusable="false" role="img"><path d="M84.3 7.3H70.4v-4c0-1.8-1.5-3.3-3.3-3.3-1.8 0-3.3 1.5-3.3 3.3v4H31.3v-4C31.3 1.5 29.8 0 28 0c-1.8 0-3.3 1.5-3.3 3.3v4h-14C4.8 7.3 0 12.1 0 18v62.6c0 5.9 4.8 10.7 10.7 10.7h73.6c5.9 0 10.7-4.8 10.7-10.7V17.9c0-5.8-4.8-10.6-10.7-10.6zm4.1 73.2c0 2.2-1.8 4-4.1 4H10.7c-2.2 0-4.1-1.8-4.1-4V38.1h81.7v42.4h.1zm0-49.1H6.6V17.9c0-2.2 1.8-4 4.1-4h13.9v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h32.5v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h13.9c2.2 0 4.1 1.8 4.1 4v13.5h.1zM41.8 73.8c.6.7 1.5 1.1 2.4 1.1.9 0 1.8-.4 2.4-1.1l18-19.2c1.3-1.3 1.2-3.4-.2-4.7-1.3-1.2-3.4-1.2-4.7.2L44.2 66.7l-8.3-8.9c-1.3-1.3-3.3-1.4-4.7-.2-1.3 1.3-1.4 3.4-.2 4.7l10.8 11.5z" fill-rule="nonzero"/></svg></div>
+		<h3 class="stride-card__title">Covid-19 &#8211; Active Learning within government guidelines</h3>
+		<p class="stride-card__subtitle">10-11-2020</p>
+		<p class="stride-card__text">A webinar looking at how physically active learning (PAL) can continue, and thrive, within the current climate</p>
+		<p class="stride-card__link">Read more</p>
+	</div>
+	</a>
+</div>
+<div class="stride-card">
+	<a class="stride-card__link" href="https://strideactive.org/events/low-mood-in-children-and-young-people/">
+	<div class="stride-card__image">
+		<img width="739" height="493" src="https://strideactive.org/app/uploads/2020/09/Children-walking-739x493.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />	</div>
+
+	<div class="stride-card__content">
+		<div class="stride-card__icon"><svg class="svg svg--event " width="100%" height="100%" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" aria-hidden="true" focusable="false" role="img"><path d="M84.3 7.3H70.4v-4c0-1.8-1.5-3.3-3.3-3.3-1.8 0-3.3 1.5-3.3 3.3v4H31.3v-4C31.3 1.5 29.8 0 28 0c-1.8 0-3.3 1.5-3.3 3.3v4h-14C4.8 7.3 0 12.1 0 18v62.6c0 5.9 4.8 10.7 10.7 10.7h73.6c5.9 0 10.7-4.8 10.7-10.7V17.9c0-5.8-4.8-10.6-10.7-10.6zm4.1 73.2c0 2.2-1.8 4-4.1 4H10.7c-2.2 0-4.1-1.8-4.1-4V38.1h81.7v42.4h.1zm0-49.1H6.6V17.9c0-2.2 1.8-4 4.1-4h13.9v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h32.5v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h13.9c2.2 0 4.1 1.8 4.1 4v13.5h.1zM41.8 73.8c.6.7 1.5 1.1 2.4 1.1.9 0 1.8-.4 2.4-1.1l18-19.2c1.3-1.3 1.2-3.4-.2-4.7-1.3-1.2-3.4-1.2-4.7.2L44.2 66.7l-8.3-8.9c-1.3-1.3-3.3-1.4-4.7-.2-1.3 1.3-1.4 3.4-.2 4.7l10.8 11.5z" fill-rule="nonzero"/></svg></div>
+		<h3 class="stride-card__title">Low mood in Children and Young People</h3>
+		<p class="stride-card__subtitle">18-11-2020</p>
+		<p class="stride-card__text">A webinar focussed on low mood, what to look out for, how to help and what not to say.</p>
+		<p class="stride-card__link">Read more</p>
+	</div>
+	</a>
+</div>
+<div class="stride-card">
+	<a class="stride-card__link" href="https://strideactive.org/events/pe-coordinators-meeting-november-2020/">
+	<div class="stride-card__image">
+		<img width="739" height="493" src="https://strideactive.org/app/uploads/2020/07/webinar-739x493.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://strideactive.org/app/uploads/2020/07/webinar-739x493.jpg 739w, https://strideactive.org/app/uploads/2020/07/webinar-300x200.jpg 300w, https://strideactive.org/app/uploads/2020/07/webinar-768x512.jpg 768w, https://strideactive.org/app/uploads/2020/07/webinar-1200x800.jpg 1200w" sizes="(max-width: 739px) 100vw, 739px" />	</div>
+
+	<div class="stride-card__content">
+		<div class="stride-card__icon"><svg class="svg svg--event " width="100%" height="100%" viewBox="0 0 95 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" aria-hidden="true" focusable="false" role="img"><path d="M84.3 7.3H70.4v-4c0-1.8-1.5-3.3-3.3-3.3-1.8 0-3.3 1.5-3.3 3.3v4H31.3v-4C31.3 1.5 29.8 0 28 0c-1.8 0-3.3 1.5-3.3 3.3v4h-14C4.8 7.3 0 12.1 0 18v62.6c0 5.9 4.8 10.7 10.7 10.7h73.6c5.9 0 10.7-4.8 10.7-10.7V17.9c0-5.8-4.8-10.6-10.7-10.6zm4.1 73.2c0 2.2-1.8 4-4.1 4H10.7c-2.2 0-4.1-1.8-4.1-4V38.1h81.7v42.4h.1zm0-49.1H6.6V17.9c0-2.2 1.8-4 4.1-4h13.9v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h32.5v4c0 1.8 1.5 3.3 3.3 3.3 1.8 0 3.3-1.5 3.3-3.3v-4h13.9c2.2 0 4.1 1.8 4.1 4v13.5h.1zM41.8 73.8c.6.7 1.5 1.1 2.4 1.1.9 0 1.8-.4 2.4-1.1l18-19.2c1.3-1.3 1.2-3.4-.2-4.7-1.3-1.2-3.4-1.2-4.7.2L44.2 66.7l-8.3-8.9c-1.3-1.3-3.3-1.4-4.7-.2-1.3 1.3-1.4 3.4-.2 4.7l10.8 11.5z" fill-rule="nonzero"/></svg></div>
+		<h3 class="stride-card__title">PE Coordinators Meeting November</h3>
+		<p class="stride-card__subtitle">24-11-2020</p>
+		<p class="stride-card__text">A half termly meeting for Primary PE coordinators</p>
+		<p class="stride-card__link">Read more</p>
+	</div>
+	</a>
+</div>
+        </div>
+
+        <div class="u-text-center mt-1 lg:mt-2">
+            <a class="button button--primary" href="https://strideactive.org/events/">See All Events</a>
+        </div>
+    </div>
+</div>
+		<div class="social section bg-gradient">
+    <div class="wrapper wrapper--wide">
+        <h2 class="u-text-center text-white mb-1">Stay social with Stride Active</h2>
+
+        <div id="social-posts">
+			
+		<div class="grid grid--tweets">
+			
+				<div class="tweet">
+					<svg class="svg svg--stride-icon tweet__icon" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 292 292" aria-hidden="true" focusable="false" role="img"><path d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>					<a class="tweet__link" target="_blank" href="https://t.co/ABmtysgvjP"">
+						Live or work in Herefordshire? 
+To develop a clear approach to physical activity within the county, Herefordshire Council is producing a Physical Activity Strategy, informed by local priorities &amp; consultation. 
+📢Have your say by completing the survey 👉 https://t.co/ABmtysgvjP https://t.co/clIPotkP83					</a>
+				</div>
+			
+				<div class="tweet">
+					<svg class="svg svg--stride-icon tweet__icon" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 292 292" aria-hidden="true" focusable="false" role="img"><path d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>					<a class="tweet__link" target="_blank" href="https://t.co/XfUgiPSX4M"">
+						There is lots of current research discussing how important play and being active is for children post covid. Thank you for sharing @CradleyCEPri - it’s great to see it being used! https://t.co/XfUgiPSX4M					</a>
+				</div>
+			
+				<div class="tweet">
+					<svg class="svg svg--stride-icon tweet__icon" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 292 292" aria-hidden="true" focusable="false" role="img"><path d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>					<a class="tweet__link" target="_blank" href="https://t.co/8UJxfut9bW"">
+						This looks like lots of fun and a great way to be creative with shapes and movement too! https://t.co/8UJxfut9bW					</a>
+				</div>
+					</div>
+	        </div>
+    </div>
+</div>
+	</div>
+</article>
+
+	
+	
+				</main>
+			</div>
+
+			
+			<footer class="app-footer">
+	<div class="app-footer__wrapper wrapper wrapper--wide">
+		
+<nav id="js-menu" class="menu menu--footer-left app-footer__menu-left">
+	<h2 class="menu__label">Quick Links</h2>
+
+	<ul class="menu__items menu__items--footer-left"><li id="menu-item-85" class="menu__item "><a href="https://strideactive.org/community/support-us/" class="menu__link">Support Us</a></li><li id="menu-item-84" class="menu__item "><a href="https://strideactive.org/about-us/meet-the-team/" class="menu__link">Meet The Team</a></li></ul></nav>
+		<svg class="svg svg--logo-white app-footer__logo" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 1082 292" aria-hidden="true" focusable="false" role="img"><path fill="#fff" fill-rule="nonzero" d="M396.069 124.298l4.702-8.099c1.045-1.829 3.266-1.829 4.443-.914.651.389 11.235 8.099 19.728 8.099 6.795 0 11.89-4.443 11.89-10.059 0-6.664-5.62-11.235-16.592-15.678-12.284-4.968-24.564-12.805-24.564-28.22 0-11.628 8.624-25.085 29.396-25.085 13.326 0 23.515 6.792 26.13 8.751 1.308.787 1.698 3.008.783 4.312l-4.964 7.448c-1.044 1.57-3.004 2.614-4.574 1.57-1.045-.656-10.972-7.189-18.158-7.189-7.447 0-11.497 4.967-11.497 9.147 0 6.14 4.833 10.322 15.416 14.633 12.673 5.095 27.306 12.674 27.306 29.528 0 13.456-11.628 25.868-30.048 25.868-16.465 0-26.13-7.71-28.745-10.193-1.176-1.173-1.828-1.829-.652-3.919zm140.673-62.974h-19.99a2.478 2.478 0 0 1-2.483-2.48V48.13a2.477 2.477 0 0 1 2.483-2.48h57.092a2.478 2.478 0 0 1 2.484 2.48v10.714a2.479 2.479 0 0 1-2.484 2.48h-19.986v73.294c0 1.308-1.176 2.484-2.483 2.484h-12.15c-1.307 0-2.483-1.176-2.483-2.484V61.324zM642.141 48.13c0-1.308 1.048-2.48 2.479-2.48h37.372c15.675 0 28.48 12.542 28.48 28.089 0 12.018-7.972 21.818-19.339 26.388l17.9 33.187c.914 1.698 0 3.788-2.218 3.788h-13.719c-1.176 0-1.828-.652-2.09-1.176l-17.375-34.623h-14.506v33.315c0 1.308-1.176 2.484-2.479 2.484H644.62c-1.431 0-2.479-1.176-2.479-2.484V48.13zm38.413 39.196c6.923 0 12.932-6.013 12.932-13.329 0-6.923-6.009-12.673-12.932-12.673h-21.301v26.002h21.301zM781.375 48.13c0-1.308 1.176-2.48 2.48-2.48h12.153c1.304 0 2.48 1.172 2.48 2.48v86.488c0 1.308-1.176 2.484-2.48 2.484h-12.153c-1.304 0-2.48-1.176-2.48-2.484V48.13zm93.118 0c0-1.308 1.049-2.48 2.353-2.48h30.966c25.212 0 45.855 20.51 45.855 45.595 0 25.347-20.643 45.857-45.855 45.857h-30.966c-1.304 0-2.353-1.176-2.353-2.484V48.13zm31.745 73.032c16.986 0 29.401-12.801 29.401-29.917 0-16.986-12.415-29.79-29.401-29.79h-14.887v59.707h14.887zm116.889-73.032c0-1.308 1.05-2.48 2.48-2.48h53.18c1.44 0 2.48 1.172 2.48 2.48v10.714c0 1.307-1.04 2.48-2.48 2.48h-38.68v21.428h32.28c1.3 0 2.48 1.176 2.48 2.484v10.842c0 1.438-1.18 2.483-2.48 2.483h-32.28v22.864h38.68c1.44 0 2.48 1.176 2.48 2.483v10.71c0 1.308-1.04 2.484-2.48 2.484h-53.18c-1.43 0-2.48-1.176-2.48-2.484V48.13zM390.056 243.681l26.456-58.567c.263-.524.698-.956 1.482-.956h.871c.783 0 1.216.432 1.478.956l26.281 58.567c.522 1.133-.173 2.263-1.48 2.263h-3.479c-.784 0-1.304-.52-1.482-.956l-6.437-14.36H402.85l-6.352 14.36a1.596 1.596 0 0 1-1.481.956h-3.479c-1.304 0-2.002-1.13-1.482-2.263zm41.34-18.45c-4.265-9.484-8.443-19.057-12.708-28.542h-.694l-12.706 28.542h26.108zm86.207-41.073c8.79 0 15.143 3.043 21.059 8.092.695.695.784 1.739.085 2.437l-2.348 2.349c-.695.872-1.393.784-2.261-.089-4.528-3.914-10.708-6.525-16.624-6.525-13.751 0-24.28 11.575-24.28 25.063 0 13.404 10.529 24.98 24.28 24.98 7.571 0 12.01-3.049 16.624-6.531.868-.695 1.566-.61 2.086-.259l2.612 2.349c.694.521.521 1.74-.089 2.349-5.917 5.743-13.4 8.443-21.144 8.443-17.407 0-31.417-13.839-31.417-31.242a31.345 31.345 0 0 1 31.417-31.416zm78.028 6.699h-15.143a1.651 1.651 0 0 1-1.651-1.654v-2.523a1.65 1.65 0 0 1 1.651-1.654h36.9a1.65 1.65 0 0 1 1.652 1.654v2.523c0 .871-.695 1.654-1.652 1.654h-15.142v53.433c0 .871-.78 1.654-1.651 1.654h-3.309c-.872 0-1.655-.783-1.655-1.654v-53.433zm67.831-4.177c0-.872.787-1.654 1.658-1.654h3.48c.871 0 1.651.782 1.651 1.654v57.61c0 .871-.78 1.654-1.651 1.654h-3.48c-.871 0-1.658-.783-1.658-1.654v-57.61zm51.12.61c-.518-1.131.176-2.264 1.48-2.264h3.479c.787 0 1.304.524 1.482.957l21.668 48.733h.348l21.669-48.733c.178-.433.787-.957 1.481-.957h3.48c1.303 0 2.005 1.133 1.481 2.264l-26.453 58.566c-.262.524-.786.96-1.481.96h-.872c-.609 0-1.218-.436-1.481-.96l-26.281-58.566zm100.912-.61a1.65 1.65 0 0 1 1.651-1.654h34.29a1.65 1.65 0 0 1 1.651 1.654v2.523c0 .871-.695 1.654-1.651 1.654h-29.237v21.234h24.971c.871 0 1.658.783 1.658 1.655v2.522c0 .957-.787 1.655-1.658 1.655h-24.971v22.19h29.237c.956 0 1.651.784 1.651 1.654v2.523c0 .871-.695 1.654-1.651 1.654h-34.29a1.651 1.651 0 0 1-1.651-1.654v-57.61z"/><path fill="#fff" d="M291.158 145.58C291.158 65.179 225.979 0 145.579 0 65.178 0 0 65.179 0 145.58c0 80.401 65.178 145.578 145.579 145.578 80.4 0 145.579-65.177 145.579-145.578zm-59.624-17.664a12.43 12.43 0 0 1-5.292 3.149l-29.16 9.719c-6.663 1.786-13.511-2.169-15.297-8.831-1.785-6.663 2.169-13.511 8.832-15.297l8.996-2.998-29.899-29.898c-9.754-9.755-25.57-9.755-35.325 0-9.754 9.755-9.754 25.571 0 35.325l35.325 35.325c19.51 19.51 19.51 51.141 0 70.651-19.509 19.51-51.14 19.511-70.65 0l-44.156-44.156c-4.878-4.877-4.878-12.786 0-17.663a12.426 12.426 0 0 1 5.724-3.254l27.446-9.148c6.663-1.785 13.511 2.169 15.297 8.831 1.785 6.663-2.169 13.512-8.832 15.297l-7.686 2.562 29.87 29.869c9.755 9.755 25.57 9.755 35.325 0 9.755-9.755 9.755-25.571 0-35.326l-35.325-35.325c-19.51-19.51-19.51-51.141 0-70.65 19.509-19.51 51.141-19.51 70.651 0l44.156 44.156c4.877 4.877 4.877 12.785 0 17.662z"/></svg>		
+<nav id="js-menu" class="menu menu--footer-right app-footer__menu-right">
+	<ul class="menu__items menu__items--footer-right"><li id="menu-item-39" class="menu__item "><a href="https://strideactive.org/privacy-cookies/" class="menu__link">Privacy &#038; Cookies</a></li><li id="menu-item-89" class="menu__item "><a href="https://strideactive.org/terms-conditions/" class="menu__link">Terms &#038; Conditions</a></li><li id="menu-item-41" class="menu__item "><a href="https://strideactive.org/contact/" class="menu__link">Contact</a></li></ul>
+	<ul class="menu__items menu__items--social"><li id="menu-item-87" class="menu__item "><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/stride_active" class="menu__link"><span class="screen-reader-text">Twitter</span><svg class="svg svg--twitter menu__icon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1000 1000" xml:space="preserve" aria-hidden="true" focusable="false" role="img"><path d="M500.1 0C224 0 .1 223.9.1 500s223.9 500 500 500 500-223.9 500-500S776.2 0 500.1 0zm248.5 372.5c.4 5.5.4 11.1.4 16.6C749 558.6 619.9 754 384.1 754c-69.6 0-137.9-20-196.3-57.7 10.1 1.3 20.3 1.9 30.5 1.9 57.7.1 113.8-19.3 159.2-55-54.9-1.1-103-36.9-119.8-89.1 19.2 3.7 39 2.9 57.9-2.2-59.9-12.1-102.9-64.7-102.9-125.7v-1.6c17.8 9.9 37.8 15.4 58.2 16-56.4-37.7-73.7-112.6-39.7-171.2 65.1 80.1 161.2 128.8 264.3 134-10.3-44.5 3.8-91.2 37.1-122.5 51.6-48.5 132.8-46 181.4 5.6 28.7-5.6 56.2-16.2 81.4-31.1-9.6 29.7-29.6 54.9-56.4 70.9 25.4-3 50.2-9.8 73.6-20.2-17.2 25.8-38.9 48.2-64 66.4z"/><path d="M500 0c276.1 0 500 223.9 500 500s-223.9 500-500 500S0 776.1 0 500 223.9 0 500 0z" fill="none"/></svg></a></li><li id="menu-item-606" class="menu__item "><a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/company/strideactive" class="menu__link"><span class="screen-reader-text">Linkedin</span><svg class="svg svg--linkedin menu__icon" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 60 60" aria-hidden="true" focusable="false" role="img"><path d="M46.837 44.137V32.425c0-6.275-3.35-9.195-7.816-9.195-3.604 0-5.219 1.983-6.119 3.374V23.71h-6.79c.09 1.917 0 20.427 0 20.427h6.79V32.729c0-.609.044-1.219.224-1.655.49-1.22 1.607-2.483 3.482-2.483 2.458 0 3.44 1.873 3.44 4.618v10.929h6.789v-.001zM18.959 20.922c2.367 0 3.842-1.57 3.842-3.531-.044-2.003-1.475-3.528-3.797-3.528s-3.841 1.524-3.841 3.528c0 1.961 1.474 3.531 3.753 3.531h.043zM30 60C13.432 60 0 46.568 0 30 0 13.431 13.432 0 30 0c16.568 0 30 13.431 30 30 0 16.568-13.432 30-30 30zm-7.646-15.863V23.71h-6.789v20.427h6.789z"/></svg></a></li></ul></nav>
+	</div>
+
+	<p class="app-footer__author u-text-center">
+		<a href="https://orphans.co.uk/websites/" target="_blank">Website design & built by Orphans</a>
+	</p>
+</footer>
+		</div>
+
+			<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+			var wc_product_block_data = JSON.parse( decodeURIComponent( '%7B%22min_columns%22%3A1%2C%22max_columns%22%3A6%2C%22default_columns%22%3A3%2C%22min_rows%22%3A1%2C%22max_rows%22%3A6%2C%22default_rows%22%3A1%2C%22thumbnail_size%22%3A600%2C%22placeholderImgSrc%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2Fapp%5C%2Fuploads%5C%2Fwoocommerce-placeholder-600x652.png%22%2C%22min_height%22%3A500%2C%22default_height%22%3A500%2C%22isLargeCatalog%22%3Afalse%2C%22limitTags%22%3Afalse%2C%22hasTags%22%3Afalse%2C%22productCategories%22%3A%5B%7B%22term_id%22%3A30%2C%22name%22%3A%22CPD%20%26amp%3B%20Courses%22%2C%22slug%22%3A%22cpd-courses%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A30%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A32%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2Fevents%5C%2Ftype%5C%2Fcpd-courses%5C%2F%22%7D%2C%7B%22term_id%22%3A31%2C%22name%22%3A%22Meetings%22%2C%22slug%22%3A%22meetings%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A31%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A11%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2Fevents%5C%2Ftype%5C%2Fmeetings%5C%2F%22%7D%2C%7B%22term_id%22%3A28%2C%22name%22%3A%22Primary%20Events%20%26amp%3B%20Competitions%22%2C%22slug%22%3A%22primary-events-competitions%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A28%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A29%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2Fevents%5C%2Ftype%5C%2Fprimary-events-competitions%5C%2F%22%7D%2C%7B%22term_id%22%3A29%2C%22name%22%3A%22Secondary%20Events%20%26amp%3B%20Competitions%22%2C%22slug%22%3A%22secondary-events-competitions%22%2C%22term_group%22%3A0%2C%22term_taxonomy_id%22%3A29%2C%22taxonomy%22%3A%22product_cat%22%2C%22description%22%3A%22%22%2C%22parent%22%3A0%2C%22count%22%3A12%2C%22filter%22%3A%22raw%22%2C%22link%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2Fevents%5C%2Ftype%5C%2Fsecondary-events-competitions%5C%2F%22%7D%5D%2C%22homeUrl%22%3A%22https%3A%5C%2F%5C%2Fstrideactive.org%5C%2F%22%7D' ) );
+		</script>
+		<script type='text/javascript' src='https://strideactive.org/app/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_afa3caa3e5c31d2e6b08edbc316f242c","fragment_name":"wc_fragments_afa3caa3e5c31d2e6b08edbc316f242c","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://strideactive.org/app/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.7.0'></script>
+<script type='text/javascript' src='https://strideactive.org/app/themes/stride-active/public/js/app.js?id=e5d4321824bbb5fecbace5657dab21dd&#038;ver=5.2.3'></script>
+<script type='text/javascript' src='https://strideactive.org/wp/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+	</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1602690126 -->

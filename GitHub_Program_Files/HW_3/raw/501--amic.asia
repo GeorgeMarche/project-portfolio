@@ -1,0 +1,838 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://amic.asia/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://amic.asia';var et_post_id='454';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Asian Media Information and Communication Centre | Official Website of Asian Media Information and Communication Centre</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Asian Media Information and Communication Centre &raquo; Feed" href="https://amic.asia/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Asian Media Information and Communication Centre &raquo; Comments Feed" href="https://amic.asia/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/amic.asia\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.4.6.5" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://amic.asia/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='activecampaign-form-block-css'  href='https://amic.asia/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1601183118' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='https://amic.asia/wp-content/plugins/monarch/css/style.css?ver=1.4.13' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://amic.asia/wp-content/themes/Divi/style.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Merriweather:300,300italic,regular,italic,700,700italic,900,900italic|Oswald:200,300,regular,500,600,700|Abhaya+Libre:regular,500,600,700,800|Nunito:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;subset=latin-ext,vietnamese,cyrillic,latin,cyrillic-ext,sinhala&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://amic.asia/wp-includes/css/dashicons.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://amic.asia/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://amic.asia/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.5.1' id='es6-promise-js'></script>
+<script type='text/javascript' id='et-core-api-spam-recaptcha-js-extra'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"amic_asia"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.5.1' id='et-core-api-spam-recaptcha-js'></script>
+<link rel="https://api.w.org/" href="https://amic.asia/wp-json/" /><link rel="alternate" type="application/json" href="https://amic.asia/wp-json/wp/v2/pages/454" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://amic.asia/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://amic.asia/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://amic.asia/" />
+<link rel='shortlink' href='https://amic.asia/' />
+<link rel="alternate" type="application/json+oembed" href="https://amic.asia/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famic.asia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://amic.asia/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famic.asia%2F&#038;format=xml" />
+<style type="text/css" id="et-social-custom-css">
+				 
+			</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0b4b7f; }
+</style>
+	<link rel="icon" href="https://amic.asia/wp-content/uploads/2018/01/web_amic_logo-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://amic.asia/wp-content/uploads/2018/01/web_amic_logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://amic.asia/wp-content/uploads/2018/01/web_amic_logo.png" />
+<meta name="msapplication-TileImage" content="https://amic.asia/wp-content/uploads/2018/01/web_amic_logo.png" />
+<link rel="stylesheet" id="et-core-unified-454-cached-inline-styles" href="https://amic.asia/wp-content/et-cache/454/et-core-unified-454-16011832517046.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-454 custom-background et-tb-has-template et_bloom et_monarch et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_slide et_header_style_left et_pb_footer_columns3 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="49">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://amic.asia/">
+						<img src="https://amic.asia/wp-content/uploads/2019/11/AMIC-Website-Logo-e1577942702828.png" alt="Asian Media Information and Communication Centre" id="logo" data-height-percentage="35" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="49" data-fixed-height="36">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100"><a href="https://amic.asia/about-us/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-98"><a href="https://amic.asia/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-452"><a href="https://amic.asia/our-team-d1/">Our Team</a></li>
+	<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-396"><a href="https://amic.asia/profile/">Profile</a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-96"><a href="https://amic.asia/partners-and-networks/">Partners and Networks</a></li>
+	<li id="menu-item-212640" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-212640"><a href="https://amic.asia/annual-report/">Annual Report</a>
+	<ul class="sub-menu">
+		<li id="menu-item-212643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212643"><a href="https://amic.asia/wp-content/uploads/2013/02/images_documents_AMIC-2017-Annual-Report.pdf">2017 Annual Report</a></li>
+		<li id="menu-item-212642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212642"><a href="https://amic.asia/wp-content/uploads/2013/02/images_documents_AMIC-2016-Annual-Report.pdf">2016 Annual Report</a></li>
+		<li id="menu-item-212641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212641"><a href="https://amic.asia/wp-content/uploads/2013/02/images_AMIC_2014-2015_Report.pdf">2014-2015 Annual Report</a></li>
+		<li id="menu-item-212650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212650"><a href="http://amic.asia/AMICAnnual_Report_2013.pdf">2013 Annual Report</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-213393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213393"><a href="https://amic.asia/list-of-call-for-papers/">Call for Papers</a></li>
+<li id="menu-item-213368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-213368"><a href="https://amic.asia/category/publications/">Research and Publication</a>
+<ul class="sub-menu">
+	<li id="menu-item-211374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211374"><a href="https://www.tandfonline.com/page/amic-journals">Media Asia</a></li>
+	<li id="menu-item-211375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211375"><a href="https://www.tandfonline.com/page/amic-journals">Asian Journal of Communication</a></li>
+</ul>
+</li>
+<li id="menu-item-212540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-212540"><a href="https://amic.asia/amic-annual-conference/">AMIC Annual Conference</a>
+<ul class="sub-menu">
+	<li id="menu-item-212559" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-212559"><a href="https://amic.asia/2015-dubai/">24th AMIC Annual Conference 2015 &#8211; Dubai</a></li>
+	<li id="menu-item-212541" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-212541"><a href="https://amic.asia/2017-amic-annual-conference/">25th AMIC Annual Conference 2017 &#8211; Philippines</a></li>
+	<li id="menu-item-211355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-211355"><a href="https://amic.asia/amic-annual-conference/26th-amic-annual-conference-india-2018/">26th AMIC Annual Conference 2018 &#8211; India</a></li>
+	<li id="menu-item-213409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213409"><a href="https://thailand2019.amic.asia/">27th AMIC Annual Conference &#8211; Thailand</a></li>
+</ul>
+</li>
+<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89"><a href="https://amic.asia/newsletter-archive/">Newsletter Archive</a>
+<ul class="sub-menu">
+	<li id="menu-item-213108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213108"><a href="https://amic.asia/amic-newsletter-november-2012">November 2012</a></li>
+	<li id="menu-item-213109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213109"><a href="https://amic.asia/amic-newsletter-december-2012">December 2012</a></li>
+	<li id="menu-item-213112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213112"><a href="https://amic.asia/amic-newsletter-january-2013">January 2013</a></li>
+	<li id="menu-item-213114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213114"><a href="https://amic.asia/amic-newsletter-february-2013">February 2013</a></li>
+	<li id="menu-item-213115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213115"><a href="https://amic.asia/amic-newsletter-march-2013">March 2013</a></li>
+	<li id="menu-item-213116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213116"><a href="https://amic.asia/amic-newsletter-april-2013">April 2013</a></li>
+	<li id="menu-item-213117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213117"><a href="https://amic.asia/amic-newsletter-may-2013">May 2013</a></li>
+	<li id="menu-item-213118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213118"><a href="https://amic.asia/amic-newsletter-june-2013">June 2013</a></li>
+	<li id="menu-item-213119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213119"><a href="https://amic.asia/amic-newsletter-july-2013">July 2013</a></li>
+	<li id="menu-item-213120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213120"><a href="https://amic.asia/amic-newsletter-august-2013">August 2013</a></li>
+	<li id="menu-item-213122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213122"><a href="https://amic.asia/amic-newsletter-september-2013">September 2013</a></li>
+	<li id="menu-item-213123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213123"><a href="https://amic.asia/amic-newsletter-october-2013">October 2013</a></li>
+	<li id="menu-item-213124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213124"><a href="https://amic.asia/amic-newsletter-november-2013">November 2013</a></li>
+	<li id="menu-item-213125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213125"><a href="https://amic.asia/amic-newsletter-december-2013">December 2013</a></li>
+	<li id="menu-item-213127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213127"><a href="https://amic.asia/amic-newsletter-january-2014">January 2014</a></li>
+	<li id="menu-item-213129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213129"><a href="https://amic.asia/amic-newsletter-february-2014">February 2014</a></li>
+	<li id="menu-item-213130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213130"><a href="https://amic.asia/amic-newsletter-march-2014">March 2014</a></li>
+	<li id="menu-item-213131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213131"><a href="https://amic.asia/amic-newsletter-may-2014">May 2014</a></li>
+</ul>
+</li>
+<li id="menu-item-213209" class="ds-custom-link menu-item menu-item-type-custom menu-item-object-custom menu-item-213209"><a href="https://mms.amic.asia/register.php">Be an AMIC Member</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://amic.asia/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-454" class="post-454 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_slider_0 et_animated et_pb_slider">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<div class="et_pb_slide_content"><p style="text-align: left;"><span style="font-size: small;"></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><span style="font-size: small; color: #ffffff;"><a href="https://amic.asia/call-for-papers-media-asia-2020/" style="color: #ffffff;">Faculty, students, media practitioners and researchers are invited to send their articles to <em>Media Asia</em>. It is a peer-reviewed quarterly journal published by the Asian Media and Information Communication Centre (AMIC) and Routledge Taylor &amp; Francis Group. Published since 1974, <em>Media Asia</em> is in its 46th year. (READ MORE)</a></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://think.taylorandfrancis.com/ah-rmea-2020/">CLICK HERE FOR FREE ACCESS</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_1 et_clickable et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_1">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="http://bit.ly/MA-InterviewsbyCG">CLICK HERE FOR FREE ACCESS</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_2 et_clickable et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slider_with_overlay" data-slide-id="et_pb_slide_2">
+				
+				<div class="et_pb_slide_overlay_container"></div>
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<div class="et_pb_slide_content"><h4>Reorganizing Media Asia</h4></div>
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://amic.asia/reorganizing-media-asia/">Read more</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_3 et_pb_bg_layout_dark" data-slide-id="et_pb_slide_3">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_custom_button_icon et_pb_more_button" href="https://www.youtube.com/watch?v=5DMLPR3Pxsk" target="_blank" data-icon="&#x49;">Play</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			
+				</div> <!-- .et_pb_slides -->
+				
+			</div> <!-- .et_pb_slider -->
+			
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular section_has_divider et_pb_top_divider" >
+				<div class="et_pb_top_inside_divider et-no-transition"></div>
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3 style="text-align: left;"><span style="color: #0c3860;"><span color="#ffffff"><b>Upcoming Events</b></span></span></h3></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1 et_pb_equal_columns et_pb_gutters4">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure-724x1024.jpg" alt="" title="" height="auto" width="auto" srcset="https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure-724x1024.jpg 724w, https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure-212x300.jpg 212w, https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure-768x1086.jpg 768w, https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure-1080x1527.jpg 1080w, https://amic.asia/wp-content/uploads/2019/07/ON-CSJ-conference-brochure.jpg 1240w" sizes="(max-width: 724px) 100vw, 724px" class="wp-image-213082" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_1 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h6><span>February </span><span>10-11, 2020</span><br /><span style="color: #000000; font-size: medium;"><strong>INTERNATIONAL ACADEMIC CONFERENCE ON CONFLICT-SENSITIVE JOURNALISM</strong></span></h6></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_0 et_animated et_pb_bg_layout_light" href="https://www.forumzfd.de/en/conflict-sensitive-journalism-international-academic-conference" data-icon="&#x45;">Know more</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://amic.asia/wp-content/uploads/2020/02/call-for-paper-v3.1.png" alt="" title="" height="auto" width="auto" srcset="https://amic.asia/wp-content/uploads/2020/02/call-for-paper-v3.1.png 1240w, https://amic.asia/wp-content/uploads/2020/02/call-for-paper-v3.1-980x1381.png 980w, https://amic.asia/wp-content/uploads/2020/02/call-for-paper-v3.1-480x677.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-213987" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h6>April 23-25, 2020<br /><span style="color: #000000; font-size: medium;"><strong>Kolkata Media Summit 2020</strong></span></h6></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_1 et_animated et_pb_bg_layout_light" href="http://nshm.com/kms2020/call-for-papers.php" data-icon="&#x45;">Know More</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_2 et_animated et_pb_bg_layout_light" href="https://amic.activehosted.com/f/5" data-icon="&#x45;">Sign up for email updates</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://amic.asia/wp-content/uploads/2020/01/Coming-Soon.jpg" alt="" title="" height="auto" width="auto" srcset="https://amic.asia/wp-content/uploads/2020/01/Coming-Soon.jpg 1240w, https://amic.asia/wp-content/uploads/2020/01/Coming-Soon-980x1381.jpg 980w, https://amic.asia/wp-content/uploads/2020/01/Coming-Soon-480x677.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1240px, 100vw" class="wp-image-213437" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h6>FEBRUARY 17, 2020<br /><span style="color: #000000; font-size: medium;"><strong>KNOWLEDGE MANAGEMENT PRACTITIONER CERTIFICATION COURSE</strong></span></h6></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_3 et_animated et_pb_bg_layout_light" href="https://amic.asia/knowledge-management-practitioner-certification-course/" data-icon="&#x45;">Know more</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://amic.asia/wp-content/uploads/2020/01/Poster-722x1024.jpg" alt="" title="" height="auto" width="auto" class="wp-image-213463" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_4 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h6>September 25-27, 2020<br /><span style="color: #000000; font-size: medium;"><strong>28th AMIC Annual Conference 2020 Beijing, China</strong></span></h6>
+<p><span style="color: #000000; font-size: medium;"><strong></strong></span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_4 et_animated et_pb_bg_layout_light" href="#" data-icon="&#x45;">Know more</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_5 et_animated et_pb_bg_layout_light" href="#" target="_blank" data-icon="&#x68;">Call for Papers</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_6 et_animated et_pb_bg_layout_light" href="https://amic2020.abstractcentral.com/" target="_blank" data-icon="&#x68;">Submit an Abstract</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2 et_pb_row_fullwidth et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3 style="text-align: center;"><span style="color: #ffffff;"><strong>Call for Papers</strong></span></h3></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_top_divider" >
+				<div class="et_pb_top_inside_divider et-no-transition"></div>
+				
+				
+				
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_blog_0 et_pb_posts et_pb_bg_layout_light ">
+				
+				
+				<div class="et_pb_ajax_pagination_container">
+					
+			<article id="post-214062" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_0 post-214062 post type-post status-publish format-standard hentry category-announcements category-call-for-papers category-media-asia category-news category-publications">
+
+				
+														<h2 class="entry-title"><a href="https://amic.asia/media-asia-special-call-for-papers-media-and-the-pandemic/">Media Asia Special Call for Papers: Media and the Pandemic</a></h2>
+				
+					<p class="post-meta"><span class="published">May 20, 2020</span> | <a href="https://amic.asia/category/news/announcements/" rel="tag">Announcements</a>, <a href="https://amic.asia/category/publications/call-for-papers/" rel="tag">Call for Papers</a>, <a href="https://amic.asia/category/publications/media-asia/" rel="tag">Media Asia</a>, <a href="https://amic.asia/category/news/" rel="tag">News</a>, <a href="https://amic.asia/category/publications/" rel="tag">Publications</a></p><div class="post-content"><div class="post-content-inner"><p>Media Asia published by AMIC and Routledge Taylor &amp; Francis Group Media and the Pandemic SPECIAL CALL FOR PAPERSHave you recently conducted research on media and the COVID-19 pandemic in Asia? If your findings are interesting, we’re interested! Media Asia is a...</p>
+</div><a href="https://amic.asia/media-asia-special-call-for-papers-media-and-the-pandemic/" class="more-link">read more</a></div>			
+			</article> <!-- .et_pb_post -->
+				
+			<article id="post-213844" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_1 post-213844 post type-post status-publish format-standard hentry category-call-for-papers category-media-asia category-news category-publications">
+
+				
+														<h2 class="entry-title"><a href="https://amic.asia/call-for-papers-media-asia-2020/">Call for Papers: MEDIA ASIA 2020</a></h2>
+				
+					<p class="post-meta"><span class="published">Feb 7, 2020</span> | <a href="https://amic.asia/category/publications/call-for-papers/" rel="tag">Call for Papers</a>, <a href="https://amic.asia/category/publications/media-asia/" rel="tag">Media Asia</a>, <a href="https://amic.asia/category/news/" rel="tag">News</a>, <a href="https://amic.asia/category/publications/" rel="tag">Publications</a></p><div class="post-content"><div class="post-content-inner"><p>Faculty, students, media practitioners and researchers are invited to send their articles to Media Asia. It is a peer-reviewed quarterly journal published by the Asian Media and Information Communication Centre (AMIC) and Routledge Taylor &#038; Francis Group. Published since 1974, Media Asia is in its 46th year.</p>
+</div><a href="https://amic.asia/call-for-papers-media-asia-2020/" class="more-link">read more</a></div>			
+			</article> <!-- .et_pb_post -->
+				
+			<article id="post-213379" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_2 post-213379 post type-post status-publish format-standard hentry category-asian-journal-of-communication category-call-for-papers category-news">
+
+				
+														<h2 class="entry-title"><a href="https://amic.asia/call-for-papers-asian-journal-of-communication/">Call for Papers &#8211; ‘Living with Digital Platforms in Asia-Pacific: Everyday Life, Participation, Policy, and Rights’</a></h2>
+				
+					<p class="post-meta"><span class="published">Dec 15, 2019</span> | <a href="https://amic.asia/category/publications/asian-journal-of-communication/" rel="tag">Asian Journal of Communication</a>, <a href="https://amic.asia/category/publications/call-for-papers/" rel="tag">Call for Papers</a>, <a href="https://amic.asia/category/news/" rel="tag">News</a></p><div class="post-content"><div class="post-content-inner"><p>Internationally, the rise of digital platforms is a highly visible phenomenon in contemporary media and communications and social life. This special issue puts the spotlight on the prefiguring, incubation, and emergence of, and contests over, digital platforms in the Asia Pacific region.</p>
+</div><a href="https://amic.asia/call-for-papers-asian-journal-of-communication/" class="more-link">read more</a></div>			
+			</article> <!-- .et_pb_post -->
+				
+			<article id="post-213267" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_0_3 post-213267 post type-post status-publish format-standard hentry category-call-for-papers category-member-updates category-partners">
+
+				
+														<h2 class="entry-title"><a href="https://amic.asia/the-26th-international-conference-of-the-international-association-for-intercultural-communication-studies-iaics/">The 26th International Conference of the International Association for Intercultural Communication Studies (IAICS)</a></h2>
+				
+					<p class="post-meta"><span class="published">Nov 26, 2019</span> | <a href="https://amic.asia/category/publications/call-for-papers/" rel="tag">Call for Papers</a>, <a href="https://amic.asia/category/news/member-updates/" rel="tag">Member Updates</a>, <a href="https://amic.asia/category/consortium-and-partners/partners/" rel="tag">Partners</a></p><div class="post-content"><div class="post-content-inner"><p>The 26th International Conference of the International Association for Intercultural Communication Studies (IAICS) Call for Papers Conference Time: May 28-31, 2020Conference Venue: Manipal Academy of Higher Education (MAHE), Manipal, Karnataka, India Conference Hosts:...</p>
+</div><a href="https://amic.asia/the-26th-international-conference-of-the-international-association-for-intercultural-communication-studies-iaics/" class="more-link">read more</a></div>			
+			</article> <!-- .et_pb_post -->
+				<div><div class="pagination clearfix">
+	<div class="alignleft"></div>
+	<div class="alignright"></div>
+</div></div></div> <!-- .et_pb_posts -->
+				</div>
+				 
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_section_parallax et_pb_with_background et_section_regular" >
+				
+				<div class="et_parallax_bg_wrap"><div
+						class="et_parallax_bg et_pb_parallax_css"
+						style="background-image: url(https://amic.asia/wp-content/uploads/2018/02/bg_asia_night.jpg);"
+					></div></div>
+				
+				
+					<div class="et_pb_with_border et_pb_row et_pb_row_4 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://amic.asia/wp-content/uploads/2018/01/amic_logowhite.png" alt="" title="" height="auto" width="auto" class="wp-image-210758" /></span>
+			</div><div class="et_pb_module et_pb_cta_0 et_pb_promo  et_pb_text_align_center et_pb_bg_layout_dark et_pb_no_bg">
+				
+				
+				<div class="et_pb_promo_description"><h1 class="et_pb_module_header">What is AMIC?</h1><div><p style="text-align: justify;"><span lang="EN-PH">The Asian Media Information and Communication Centre (AMIC)</span><span class="apple-converted-space"><span lang="EN-PH"> </span></span><span lang="EN-PH">is an international, non-profit, non-government organization that serves as a regional research hub for media and communication issues. </span><span lang="EN-PH">Based in Manila, Philippines, it was established in 1971 to encourage ethical and social responsibility of the media to support democratic access and participation in media development and production. </span><span lang="EN-PH">AMIC also works to provide opportunities for empowerment of disadvantaged sectors in the communication/media environments in developing countries in Asia.</span></p></div></div>
+				
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_7 et_pb_bg_layout_dark" href="http://amic.asia/profile">Read More</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_8_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_8 et_pb_bg_layout_dark" href="https://amic.asia/membership-options/">Become an AMIC Member</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_9_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_9 et_pb_bg_layout_dark" href="http://amic.asia/profile">Join the AMIC Consortium</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="https://www.pwu.edu.ph/img/pwu-logo.png" alt="" title="" height="auto" width="auto" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_6">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTA4MCIgaGVpZ2h0PSI1NDAiIHZpZXdCb3g9IjAgMCAxMDgwIDU0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTAgMGgxMDgwdjU0MEgweiIvPgogICAgICAgIDxwYXRoIGQ9Ik00NDUuNjQ5IDU0MGgtOTguOTk1TDE0NC42NDkgMzM3Ljk5NSAwIDQ4Mi42NDR2LTk4Ljk5NWwxMTYuMzY1LTExNi4zNjVjMTUuNjItMTUuNjIgNDAuOTQ3LTE1LjYyIDU2LjU2OCAwTDQ0NS42NSA1NDB6IiBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz4KICAgICAgICA8Y2lyY2xlIGZpbGwtb3BhY2l0eT0iLjA1IiBmaWxsPSIjMDAwIiBjeD0iMzMxIiBjeT0iMTQ4IiByPSI3MCIvPgogICAgICAgIDxwYXRoIGQ9Ik0xMDgwIDM3OXYxMTMuMTM3TDcyOC4xNjIgMTQwLjMgMzI4LjQ2MiA1NDBIMjE1LjMyNEw2OTkuODc4IDU1LjQ0NmMxNS42Mi0xNS42MiA0MC45NDgtMTUuNjIgNTYuNTY4IDBMMTA4MCAzNzl6IiBmaWxsLW9wYWNpdHk9Ii4yIiBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz4KICAgIDwvZz4KPC9zdmc+Cg==" alt="" title="" height="auto" width="auto" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_7">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTA4MCIgaGVpZ2h0PSI1NDAiIHZpZXdCb3g9IjAgMCAxMDgwIDU0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTAgMGgxMDgwdjU0MEgweiIvPgogICAgICAgIDxwYXRoIGQ9Ik00NDUuNjQ5IDU0MGgtOTguOTk1TDE0NC42NDkgMzM3Ljk5NSAwIDQ4Mi42NDR2LTk4Ljk5NWwxMTYuMzY1LTExNi4zNjVjMTUuNjItMTUuNjIgNDAuOTQ3LTE1LjYyIDU2LjU2OCAwTDQ0NS42NSA1NDB6IiBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz4KICAgICAgICA8Y2lyY2xlIGZpbGwtb3BhY2l0eT0iLjA1IiBmaWxsPSIjMDAwIiBjeD0iMzMxIiBjeT0iMTQ4IiByPSI3MCIvPgogICAgICAgIDxwYXRoIGQ9Ik0xMDgwIDM3OXYxMTMuMTM3TDcyOC4xNjIgMTQwLjMgMzI4LjQ2MiA1NDBIMjE1LjMyNEw2OTkuODc4IDU1LjQ0NmMxNS42Mi0xNS42MiA0MC45NDgtMTUuNjIgNTYuNTY4IDBMMTA4MCAzNzl6IiBmaWxsLW9wYWNpdHk9Ii4yIiBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz4KICAgIDwvZz4KPC9zdmc+Cg==" alt="" title="" height="auto" width="auto" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_7 et_pb_row_fullwidth et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><strong>List of Institutional Members</strong></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_8 et_pb_row_fullwidth et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_accordion et_pb_accordion_0">
+				
+				
+				<div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_0  et_pb_toggle_open">
+				
+				
+				<h5 class="et_pb_toggle_title">University of Pennsylvania</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.upenn.edu/about">About University of Pennsylvania</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_1  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">De la Salle University Dasmarinas (DLSD) - Communication and Journalism Department</h5>
+				<div class="et_pb_toggle_content clearfix"><p><a href="http://www.dlsud.edu.ph/">About De la Salle University Dasmarinas (DLSD) </a></p></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_2  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">University of Santo Tomas (UST) - Department of Communication</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="http://www.ust.edu.ph/">About University of Santo Tomas (UST)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_3  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">University of the Philippines @ LOS BANOS - College of Development Communication (UPLB-CDC)</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="http://uplb.edu.ph/">About University of the Philippines Los Baños</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_4  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title"> Holy Angel University (HAU) - Department of Communication</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.hau.edu.ph/">About Holy Angel University (HAU)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_5  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Gruppo Agatep, Inc.</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="http://www.grupoagatep.com/">About Gruppo Agatep, Inc.)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_6  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">University of Liberal Arts Bangladesh (ULAB)</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://ulab.edu.bd/">About University of Liberal Arts Bangladesh (ULAB)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_7  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Sukhothai Thammathirat Open University (STOU)</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="www.stou.ac.th/eng">About Sukhothai Thammathirat Open University (STOU)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_accordion --><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>&nbsp;</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_accordion et_pb_accordion_1">
+				
+				
+				<div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_8  et_pb_toggle_open">
+				
+				
+				<h5 class="et_pb_toggle_title">Polytechnic University of the Philippines (PUP) - College of Communication</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.pup.edu.ph">About Polytechnic University of the Philippines (PUP)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_9  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Far Eastern University (FEU) - Department of Communication</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.feu.edu.ph">About Far Eastern University (FEU)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_10  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Manipal Academy of Higher Education</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://manipal.edu/mu"> Manipal Academy of Higher Education (Deemed to be University)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_11  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Manipal University, Dubai</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.manipaldubai.com/">About Manipal University, Dubai</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_12  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Philippine Women’s University (PWU) - College of Arts and Sciences</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.pwu.edu.ph">About Philippine Women’s University (PWU)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_13  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Centro Escolar University (CEU)</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.ceu.edu.ph/">About Centro Escolar University (CEU)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_14  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Bicol State University - College of Arts and Letters</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="www.bicol-u.edu.ph">About Bicol State University</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_15  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">Mudhra Institute of Communication Ahmedabad (MICA)</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="https://www.mica.ac.in">Mudhra Institute of Communication Ahmedabad (MICA)</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_toggle et_pb_module et_pb_accordion_item et_pb_accordion_item_16  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">University of Macau</h5>
+				<div class="et_pb_toggle_content clearfix"><a href="www.umac.mo">About University of Macau</a></div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_accordion -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_with_border et_pb_row et_pb_row_9 et_animated">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><h3 style="text-align: center;"><span style="font-family: inherit; font-weight: normal; font-size: xx-large;">AMIC Journals</span></h3></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_10 et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_8 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img loading="lazy" src="https://amic.asia/wp-content/uploads/2018/08/AJC.png" alt="" title="" height="auto" width="auto" srcset="https://amic.asia/wp-content/uploads/2018/08/AJC.png 442w, https://amic.asia/wp-content/uploads/2018/08/AJC-230x300.png 230w" sizes="(max-width: 442px) 100vw, 442px" class="wp-image-212563" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span style="font-size: x-large;"><span style="font-family: Georgia;"><strong>Asian Journal of Communication</strong><br /></span></span><span class="serial-title">Print ISSN:</span> 0129-2986<span style="font-size: 16px;"> </span><span class="serial-item serialDetailsEissn" style="font-size: 16px;"><span class="serial-title">Online ISSN:</span> 1742-0911</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_10 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: justify;">Launched in 1990, Asian Journal of Communication (AJC) is a refereed international publication that provides a venue for high-quality communication scholarship with an Asian focus and perspectives from the region. We aim to highlight research on the systems and processes of communication in the Asia-Pacific region and among Asian communities around the world to a wide international audience. It publishes articles that report empirical studies, develop communication theory, and enhance research methodology.</p>
+<p style="text-align: justify;">AJC is accepted by and listed in the Social Science Citation Index (SSCI) published by Clarivate Analytics. The journal is housed editorially at the <a href="http://www.ntu.edu.sg/sci">Wee Kim Wee School of Communication and Information</a> at Nanyang Technological University in Singapore, jointly with the <strong>AMIC</strong></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_11 et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11 et_animated  et_pb_text_align_right et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span class="serial-item serialDetailsIssn"><span class="serial-title"><span style="font-family: Georgia; font-size: x-large;">Media Asia<br /></span>Print ISSN:</span> 0129-6612</span> <span class="serial-item serialDetailsEissn"><span class="serial-title">Online ISSN:</span> 2377-6277</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_12 et_animated  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: justify;">Published since 1974, <i><b>Media Asia</b> </i>is a scholarly journal that shares research-based findings and critical insights addressing contemporary media issues and communication challenges in Asia. The journal welcomes articles in either the social scientific or humanistic tradition and in any disciplinary orientation. Research articles are double-blind reviewed. In addition to publishing completed research, <i>Media Asia</i> also includes essays and opinion pieces for academics and practitioners to share ideas and help shape the agenda for communication scholarship, practice and policy.</p>
+<p style="text-align: justify;"><i>Media Asia</i> is a journal of the  <a href="http://www.amic.org.sg/">Asian Media Information and Communication Centre (AMIC)</a>. It is housed editorially at Hong Kong Baptist University’s <a href="http://www.comm.hkbu.edu.hk/cmcr/">Centre for Media and Communication Research</a>.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_9 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img loading="lazy" src="https://amic.asia/wp-content/uploads/2018/08/MA.png" alt="" title="" height="auto" width="auto" srcset="https://amic.asia/wp-content/uploads/2018/08/MA.png 388w, https://amic.asia/wp-content/uploads/2018/08/MA-220x300.png 220w" sizes="(max-width: 388px) 100vw, 388px" class="wp-image-212564" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_12 et_pb_row_fullwidth et_pb_equal_columns et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: center;">AMIC Socials</h1></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_code et_pb_code_0 et_animated">
+				
+				
+				<div class="et_pb_code_inner"><div id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag" rel="noopener noreferrer">Powered by Curator.io</a></div><p>
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+// curator-feed
+(function(){
+ var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+ i.src = "https://cdn.curator.io/published/5c2b5da4-87ec-40bd-b74a-e46c1a1e.js";
+ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
+</script></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+	
+			
+		</div><!-- #et-boc -->
+							</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer-menu" class="bottom-nav"><li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-386"><a href="https://amic.asia/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-387"><a href="https://amic.asia/terms-and-conditions-d1/">Disclaimer</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://web.facebook.com/amicglobal" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="https://twitter.com/amic_asia" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="https://www.instagram.com/amic1971/" class="icon">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="#" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul><p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_fullwidth_slider_0","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_1","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_0","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_1","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_2","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_1","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_2","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_2","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_3","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_3","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_3","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_4","style":"slideTop","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_4","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_5","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_6","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"10%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_row_9","style":"slideLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"2%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_8","style":"slideLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_text_9","style":"slideRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_text_10","style":"slideRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_text_11","style":"slideRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_text_12","style":"slideRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_image_9","style":"slideLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"5%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_code_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+					var et_link_options_data = [{"class":"et_pb_slide_1","url":"http:\/\/bit.ly\/MA-InterviewsbyCG","target":"_self"},{"class":"et_pb_slide_2","url":"https:\/\/amic.asia\/reorganizing-media-asia\/","target":"_self"}];
+			</script>
+	<link rel='stylesheet' id='mediaelement-css'  href='https://amic.asia/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://amic.asia/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' id='site_tracking-js-extra'>
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":252468199,"site_tracking_default":1,"site_tracking":1},"user_email":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=5.5.1' id='site_tracking-js'></script>
+<script type='text/javascript' src='https://amic.asia/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.4.13' id='et_monarch-idle-js'></script>
+<script type='text/javascript' id='et_monarch-custom-js-js-extra'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/amic.asia\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/amic.asia\/","stats_nonce":"f536d0fad0","share_counts":"f5bb595665","follow_counts":"8e626c0d33","total_counts":"763971a862","media_single":"0330aac576","media_total":"8700daa012","generate_all_window_nonce":"aaf74fcaec","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-content/plugins/monarch/js/custom.js?ver=1.4.13' id='et_monarch-custom-js-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/amic.asia\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/amic.asia\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/amic.asia\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"639007edde","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"15f47ec024","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"454","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.5' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://amic.asia/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.5' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://amic.asia/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://amic.asia/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.1' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amic.asia/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.1' id='wp-mediaelement-js'></script>
+</body>
+</html>

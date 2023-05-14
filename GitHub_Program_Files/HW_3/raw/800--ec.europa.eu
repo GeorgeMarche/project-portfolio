@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/know4pol_ec_europa/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/knowledge4policy/migration-demography_en" rel="shortlink">
+<link href="/knowledge4policy/migration-demography_en" rel="canonical">
+<meta content="Drupal 7 (http://drupal.org)" name="Generator">
+<meta content="Migration and Demography" name="description"></meta>
+<meta content="follow, index" name="robots"></meta>
+<meta content="Drupal 7 (https://drupal.org)" name="generator"></meta>
+<link href="https://ec.europa.eu/knowledge4policy/migration-demography_en" rel="canonical"></link>
+<link href="https://ec.europa.eu/knowledge4policy/migration-demography_en" rel="shortlink"></link>
+<meta content="en" http-equiv="content-language"></meta>
+<meta content="15 days" name="revisit-after"></meta>
+<meta content="Knowledge service" property="og:type"></meta>
+<meta content="Knowledge for policy - European Commission" property="og:site_name"></meta>
+<meta content="Migration and Demography - Knowledge for policy European Commission" property="og:title"></meta>
+<meta content="https://ec.europa.eu/knowledge4policy/migration-demography_en" property="og:url"></meta>
+<meta content="Migration and Demography" property="og:description"></meta>
+<meta content="2019-11-28T17:04:48+01:00" property="og:updated_time"></meta>
+<meta content="2018-10-22T18:27:00+02:00" property="article:published_time"></meta>
+<meta content="2019-11-28T17:04:48+01:00" property="article:modified_time"></meta>
+<meta content="Migration and Demography" name="dcterms.title"></meta>
+<meta content="Ahmad MIRI" name="dcterms.creator"></meta>
+<meta content="2018-10-22T18:27+02:00" name="dcterms.date"></meta>
+<meta content="Text" name="dcterms.type"></meta>
+<meta content="text/html" name="dcterms.format"></meta>
+<meta content="https://ec.europa.eu/knowledge4policy/migration-demography_en" name="dcterms.identifier"></meta>
+<meta content="en" name="dcterms.language"></meta>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+<meta content="COMM/DG/UNIT" name="creator"></meta>
+<meta content="Knowledge for policy" name="reference"></meta>
+<meta content="IE=edge" name="X-UA-Compatible"></meta>
+<meta content="14/10/2020 - 17:49" name="date"></meta>
+<meta content="25000" name="classification"></meta>
+  <title>Migration and Demography | Knowledge for policy</title>
+  <style media="all" type="text/css">
+@import url("https://ec.europa.eu/knowledge4policy/modules/system/system.base.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/system/system.menus.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/system/system.messages.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/system/system.theme.css?qi3ner");
+</style>
+<style media="all" type="text/css">
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/features/cce_basic_config/cce_basic_config.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/comment/comment.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/custom/ecas/ecas_import_users/css/ecas_import_users.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/field/theme/field.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/modules/custom/know4pol_search/css/know4pol_search.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/node/node.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/om_maximenu/css/om_maximenu.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/search/search.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/modules/user/user.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/modules/contrib/views/css/views.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/modules/features/know4pol_core/css/know4pol_core.css?qi3ner");
+</style>
+<style media="all" type="text/css">
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/colorbox/styles/default/colorbox_style.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/ctools/css/ctools.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/rate/rate.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/tagclouds/tagclouds.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/video/css/video.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/custom/nexteuropa_newsroom/styles/nexteuropa_newsroom.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/custom/multisite_drupal_toolbox/icons/style.css?qi3ner");
+</style>
+<style media="all" type="text/css">
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/styles/europa.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/know4pol_ec_europa/assets/styles/know4pol_ec_europa.css?qi3ner");
+@import url("https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/textarea/textarea.css?qi3ner");
+</style>
+  <script src="//ec.europa.eu/wel/cookie-consent/consent.js" type="text/javascript"></script>
+<script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script type="text/javascript">window.jQuery || document.write("<script src='/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script type="text/javascript">window.jQuery || document.write("<script src='/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/jquery-extend-3.4.0.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/jquery.once.js?v=1.2" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/drupal.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/form.js?v=7.73" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/modules/contrib/apachesolr_sort/apachesolr_sort.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/om_maximenu/js/om_maximenu.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/table/table.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/status_messages/status_messages.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/vertical_tabs/vertical_tabs.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/menu_tree/menu_tree.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/templates/lang_select_site/lang_select_site.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/libraries/colorbox/jquery.colorbox-min.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/colorbox/js/colorbox.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/colorbox/styles/default/colorbox_style.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/colorbox/js/colorbox_load.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/colorbox/js/colorbox_inline.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/contrib/video/js/video.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/misc/collapse.js?v=7.73" type="text/javascript"></script>
+<script src="https://visualise.jrc.ec.europa.eu/javascripts/api/viz_v1.js" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/profiles/multisite_drupal_standard/modules/custom/language_selector_page/js/language_selector_page.js?qi3ner" type="text/javascript"></script>
+<script defer="defer" src="//europa.eu/webtools/load.js?globan=1110" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/scripts/misc/ajax.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/scripts/europa.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/scripts/init.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/scripts/europa_tabs.js?qi3ner" type="text/javascript"></script>
+<script src="https://ec.europa.eu/knowledge4policy/sites/know4pol/themes/custom/ec_europa/assets/scripts/components/table-responsive.js?qi3ner" type="text/javascript"></script>
+<script type="text/javascript">jQuery.extend(Drupal.settings, {"basePath":"\/knowledge4policy\/","pathPrefix":"","ajaxPageState":{"theme":"know4pol_ec_europa","theme_token":"F3sf7BZhvwVdTinKab_qxsMnK1GTlcJhftBehT4tfCY","js":{"\/\/ec.europa.eu\/wel\/cookie-consent\/consent.js":1,"\/\/code.jquery.com\/jquery-1.10.2.min.js":1,"0":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"sites\/know4pol\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/table\/table.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/status_messages\/status_messages.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/vertical_tabs\/vertical_tabs.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/menu_tree\/menu_tree.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/lang_select_site\/lang_select_site.js":1,"profiles\/multisite_drupal_standard\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/video\/js\/video.js":1,"misc\/collapse.js":1,"https:\/\/visualise.jrc.ec.europa.eu\/javascripts\/api\/viz_v1.js":1,"profiles\/multisite_drupal_standard\/modules\/custom\/language_selector_page\/js\/language_selector_page.js":1,"\/\/europa.eu\/webtools\/load.js?globan=1110":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/scripts\/misc\/ajax.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/scripts\/europa.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/scripts\/init.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/scripts\/europa_tabs.js":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/scripts\/components\/table-responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/multisite_drupal_standard\/modules\/features\/cce_basic_config\/cce_basic_config.css":1,"modules\/comment\/comment.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/ecas\/ecas_import_users\/css\/ecas_import_users.css":1,"modules\/field\/theme\/field.css":1,"sites\/know4pol\/modules\/custom\/know4pol_search\/css\/know4pol_search.css":1,"modules\/node\/node.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/know4pol\/modules\/contrib\/views\/css\/views.css":1,"sites\/know4pol\/modules\/features\/know4pol_core\/css\/know4pol_core.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/rate\/rate.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/tagclouds\/tagclouds.css":1,"profiles\/multisite_drupal_standard\/modules\/contrib\/video\/css\/video.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/nexteuropa_newsroom\/styles\/nexteuropa_newsroom.css":1,"profiles\/multisite_drupal_standard\/modules\/custom\/multisite_drupal_toolbox\/icons\/style.css":1,"sites\/know4pol\/themes\/custom\/ec_europa\/assets\/styles\/europa.css":1,"sites\/know4pol\/themes\/know4pol_ec_europa\/assets\/styles\/know4pol_ec_europa.css":1,"sites\/know4pol\/themes\/custom\/ec_europa\/templates\/textarea\/textarea.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/knowledge4policy\/migration-demography_en":true,"https:\/\/ec.europa.eu\/search":true},"better_exposed_filters":{"views":{"ks_browse_by":{"displays":{"browse_by_topic":{"filters":[]},"browse_by_tool":{"filters":[]},"browse_by_country":{"filters":[]}}},"kc_homepage":{"displays":{"ks_highlights":{"filters":[]}}},"ks_latest_content":{"displays":{"latest_news":{"filters":[]},"next_events":{"filters":[]},"latest_resources":{"filters":[]}}}}},"ogContext":{"groupType":"node","gid":"6"}});</script>
+</head>
+<body class="html i18n-en language-en node-type-knowledge-centre not-front not-logged-in og-context og-context-node og-context-node-6 page-node page-node- page-node-6 section-migration-demography">
+<div class="ecl-skip-link__wrapper" id="skip-link">
+  <a href="#main-content" class="ecl-skip-link">Skip to main content</a>
+</div>
+
+<header class="ecl-site-header" role="banner">
+  <div class="ecl-container">
+      </div>
+    <div class="ecl-container ecl-site-header__banner">
+    <a class="ecl-logo ecl-logo--logotype ecl-site-header__logo" href="https://ec.europa.eu/info/index" title="Home - European Commission">
+    <span class="ecl-u-sr-only">Home - European Commission</span>
+</a>
+    <div class="ecl-lang-select-sites ecl-site-header__lang-select-sites">
+
+  <div id="ecl-overlay-language-list" class="ecl-dialog__overlay ecl-dialog__overlay--blue" aria-hidden="true"></div>
+
+  <div class="ecl-lang-select-sites ecl-link" data-ecl-dialog="ecl-dialog" id="ecl-lang-select-sites__overlay">
+    <a href="/knowledge4policy/language-selector/site-language_en?destination=node/6" class="ecl-lang-select-sites__link">
+      <span class="ecl-lang-select-sites__label">English</span>
+      <span class="ecl-lang-select-sites__code">
+      <span class="ecl-icon ecl-icon--language ecl-lang-select-sites__icon"></span>
+      <span class="ecl-lang-select-sites__code-text">en</span>
+    </span>
+    </a>
+  </div>
+
+  <div class="ecl-dialog ecl-dialog--transparent ecl-dialog--wide" id="ecl-dialog" aria-labelledby="ecl-dialog-title" aria-describedby="ecl-dialog-description" aria-hidden="true" role="dialog">
+    <h3 id="ecl-dialog-title" class="ecl-heading ecl-heading--h3 ecl-u-sr-only">Dialog</h3>
+    <div class="ecl-dialog__body">
+      <section>
+        <div class="">
+          <div class="ecl-container">
+            <div class="ecl-row">
+              <div class="ecl-col-lg-8 ecl-offset-lg-2">
+                <h2 lang="en" class="ecl-heading ecl-heading--h2 ecl-dialog__title">
+                  <span class="ecl-icon ecl-icon--generic-lang"></span> Select your language
+                </h2>
+                <div class="ecl-row">
+                  <div class="column-0 ecl-col-md-6"><a class="ecl-button ecl-button--block ecl-button--default ecl-icon ecl-icon--icon-check ecl-language-list__button ecl-language-list__button--active ecl-link" href="/knowledge4policy/migration-demography_en" hreflang="en" lang="en" rel="alternate"><span class="ecl-icon ecl-icon--check ecl-u-f-r"></span>
+English</a>
+</div>
+<div class="column-1 ecl-col-md-6"></div>
+                  <button class="ecl-message__dismiss ecl-message__dismiss--inverted">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+  </div>
+</div>
+    
+<form accept-charset="UTF-8" action="https://ec.europa.eu/search" class="ecl-search-form ecl-site-header__search search-form" id="nexteuropa-europa-search-search-form" method="get">
+  <label class="ecl-search-form__textfield-wrapper">
+  <span class="ecl-u-sr-only">Search this website</span>
+  <input class="ecl-search-form__textfield ecl-text-input form-text" id="edit-querytext" maxlength="128" name="QueryText" placeholder="Search" size="30" type="text" value=""/></label>
+<button class="btn-search ecl-button ecl-button--primary form-button-submit" id="edit-europa-search-submit" name="op" tabindex="-1" type="submit" value="Search">
+  Search</button>
+<input class="form-hidden" id="edit-swlang" name="swlang" type="hidden" value="en"/>
+<input class="form-hidden" id="form-1-5pxTXFYMTPlXNrDcFQEU3a3h8Xz65_fRdh9fBoGWI" name="form_build_id" type="hidden" value="form-1-5pxTXFYMTPlXNrDcFQEU3a3h8Xz65_fRdh9fBoGWI"/>
+<input class="form-hidden" id="edit-nexteuropa-europa-search-search-form" name="form_id" type="hidden" value="nexteuropa_europa_search_search_form"/>
+</form>
+  </div>
+</header>
+
+<div class="ecl-page-header
+  "
+      >
+  <nav aria-label="breadcrumbs" class="ecl-breadcrumbs ecl-container">
+  <span class="ecl-u-sr-only">You are here</span>
+  <ol class="ecl-breadcrumbs__segments-wrapper">
+    <li class="ecl-breadcrumbs__segment ecl-breadcrumbs__segment--first"><a class="ecl-breadcrumbs__link ecl-link is-internal" href="http://ec.europa.eu/index_en.htm" rel="home">European Commission</a>
+</li><li class="easy-breadcrumb_segment easy-breadcrumb_segment-front ecl-breadcrumbs__segment"><a class="ecl-breadcrumbs__link ecl-link" href="/knowledge4policy/home_en">Knowledge for policy</a>
+</li><li class="easy-breadcrumb_segment easy-breadcrumb_segment-title ecl-breadcrumbs__segment ecl-breadcrumbs__segment--last">Migration and Demography</li>  </ol>
+</nav>
+  <div class="ecl-page-header__body">
+      <div class="ecl-container">
+                    <div class="ecl-page-header__identity">
+              Knowledge for policy            </div>
+                          <div class="ecl-page-header__meta">
+            
+<div class="ecl-meta ecl-meta--header">
+      </div>
+          </div>
+                          <div class="ecl-page-header__title">
+            <h1 class="ecl-heading ecl-heading--h1 ecl-u-color-white">
+                Knowledge Centre on Migration and Demography            </h1>
+          </div>
+                      <div class="ecl-page-header__intro">
+              <p class="ecl-paragraph ecl-paragraph--l">
+                We provide independent scientific evidence for EU policymaking in migration and demography related fields.              </p>
+            </div>
+                        </div>
+  </div>
+</div>
+
+
+<main>
+  <a id="main-content" tabindex="-1"></a>
+  <div class="ecl-container ecl-u-mv-l">
+    
+                </div>
+
+  <!-- Utility sections -->
+  
+  <div class="page-content">
+    <div class="ecl-container ecl-u-mv-l">
+            <a id="main-content" tabindex="-1"></a>
+
+      <!-- Generic sections -->
+      <div class="ecl-row">
+        <div class="ecl-col">
+                                
+          
+                  </div>
+      </div>
+
+      <div class="ecl-row">
+        
+        <section class="section ecl-col-12">
+          
+<div class="ecl-row ecl-u-z-navigation">
+  <a id="main-content" tabindex="-1"></a>
+    <div class="ecl-col-md-3 ecl-u-z-navigation js-stickybit-parent">
+    <nav class="ecl-navigation-inpage">
+          <div class="ecl-navigation-inpage__title">Page Contents</div>
+        <div class="ecl-navigation-inpage__body">
+      <div class="ecl-navigation-inpage__trigger" aria-controls="ecl-navigation-inpage-list" aria-expanded="false" id="ecl-navigation-inpage-trigger">&nbsp;</div>
+      <ul class="ecl-navigation-inpage__list" aria-hidden="true" aria-labelledby="ecl-navigation-inpage-trigger" id="ecl-navigation-inpage-list">        
+                      <li class="ecl-navigation-inpage__item">
+              <a class="ecl-link ecl-link--standalone ecl-navigation-inpage__link" href="#searchkb">Search KnowledgeBase</a>
+            </li>
+                      <li class="ecl-navigation-inpage__item">
+              <a class="ecl-link ecl-link--standalone ecl-navigation-inpage__link" href="#latest">Latest Knowledge</a>
+            </li>
+                </ul>
+    </div>
+  </nav>
+  </div>
+  <section class="section ecl-col-md-9">
+    
+<div  about="/knowledge4policy/migration-demography_en" typeof="sioc:Item foaf:Document" class="node node-knowledge-centre node__preview view-mode-featured node-6 ">
+
+  <div class="group-header">
+      </div>
+
+  <div class="ecl-row ecl-u-z-navigation">
+    <a id="main-content" tabindex="-1"></a>
+          <section class="section ecl-col-md-12 ">
+              </section>
+      </div>
+  <div class="group-footer">
+              </div>
+
+</div>
+
+<section class="block-know4pol-search block-know4pol-search-know4pol-search ecl-clearfix odd" id="block-know4pol-search-know4pol-search">
+              <h2 class="ecl-heading ecl-heading--h2" id="searchkb" anchor="Search KnowledgeBase">Search our KnowledgeBase</h2>
+        
+    <div class="block__content">
+    <form accept-charset="UTF-8" action="/knowledge4policy/migration-demography_en" class="ecl-form ecl-search-form--internal" id="know4pol-search-form" method="post">
+  <input class="form-hidden" id="edit-knowledge-centre-nid" name="knowledge_centre_nid" type="hidden" value="6"/>
+<label id="know4pol-form-label" class="ecl-search-form__textfield-wrapper"><div class="ecl-u-mt-m form-item form-item-keyword form-type-textfield">
+  
+  
+            <input class="ecl-search-form__textfield ecl-text-input form-text" id="edit-keyword" maxlength="128" name="keyword" size="60" type="text" value=""/>      
+  </div>
+</label><button class="ecl-button ecl-button--form-primary ecl-button--primary ecl-search-form__button form-button-submit" id="edit-submit" name="op" type="submit" value="Search">
+  Search</button>
+<input class="form-hidden" id="form-wsFlgfFeQMQKmXJwwyJR9xQdxp5WSL4Dbw45XO2_s_U" name="form_build_id" type="hidden" value="form-wsFlgfFeQMQKmXJwwyJR9xQdxp5WSL4Dbw45XO2_s_U"/>
+<input class="form-hidden" id="edit-know4pol-search-form" name="form_id" type="hidden" value="know4pol_search_form"/>
+
+<div class="container-inline ecl-radio-group form-radios" id="edit-type" role="radiogroup">
+    <div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-all"><input checked class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-all" name="type" type="radio" value="all"/>
+<span class="ecl-form-label ecl-radio__label option">
+  All  </span>
+</label>
+  </div>
+<div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-dataset"><input class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-dataset" name="type" type="radio" value="dataset"/>
+<span class="ecl-form-label ecl-radio__label option">
+  Dataset  </span>
+</label>
+  </div>
+<div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-online-resource"><input class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-online-resource" name="type" type="radio" value="online_resource"/>
+<span class="ecl-form-label ecl-radio__label option">
+  Online Resource  </span>
+</label>
+  </div>
+<div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-organisation"><input class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-organisation" name="type" type="radio" value="organisation"/>
+<span class="ecl-form-label ecl-radio__label option">
+  Organisation  </span>
+</label>
+  </div>
+<div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-projects-activities"><input class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-projects-activities" name="type" type="radio" value="projects_activities"/>
+<span class="ecl-form-label ecl-radio__label option">
+  Projects and activities  </span>
+</label>
+  </div>
+<div class="form-item form-item-type form-type-radio">
+    <label class="ecl-form-label ecl-radio" for="edit-type-publication"><input class="container-inline ecl-radio-group ecl-radio__input ecl-u-sr-only form-radio" id="edit-type-publication" name="type" type="radio" value="publication"/>
+<span class="ecl-form-label ecl-radio__label option">
+  Publication  </span>
+</label>
+  </div>
+</div>
+</form>
+  </div>
+  </section>
+<section class="block-views block-views-kc-homepage-ks-highlights ecl-clearfix even" id="block-views-kc-homepage-ks-highlights">
+              <h3 class="block__title">
+        <h2 class="ecl-heading ecl-heading--h2" id="latest" anchor="Latest Knowledge">Latest in the KnowledgeBase</h2>      </h3>
+        
+    <div class="block__content">
+    <div class="view view-kc-homepage view-id-kc_homepage view-display-id-ks_highlights view-dom-id-33498de9711897ccc80e5427d3e0e8a8">
+            
+    
+      <div class="view-content">
+          <ul class="ecl-listing ecl-listing--three-columns">          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://ec.europa.eu/knowledge4policy/atlas-migration_en"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/atlas_2019_featured.png?itok=LbJkrKyK" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Atlas of Migration</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://ec.europa.eu/knowledge4policy/migration-demography/data-integration-d4i_en"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/d4i.png?itok=ByUM2wSX" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Data for Integration (D4I)</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://ec.europa.eu/knowledge4policy/migration-demography/international-migration-drivers_en"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/header_migration-drivers.png?itok=OPufTHO8" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">International Migration Drivers</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://ec.europa.eu/knowledge4policy/migration-demography/migration-profiles_en"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/algeria-mp_0.png?itok=63aqnKaC" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Migration Profiles</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://bluehub.jrc.ec.europa.eu/portal/"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/ddh-unacc-migration-children-germany2016_1.png?itok=xv3qiLcU" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Data Hub &amp; Tools</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+          <li class="ecl-list-item ecl-list-item--highlight">  
+          <a class="ecl-link ecl-list-item__link" href="https://ec.europa.eu/knowledge4policy/migration-demography/kcmd-partnerships_en"><div class="ecl-list-item__primary"><img alt="" height="325" src="https://ec.europa.eu/knowledge4policy/sites/know4pol/files/styles/highlights/public/partnership_square.png?itok=RJFbtN6o" typeof="foaf:Image" width="325"/>
+</div><div class="ecl-list-item__body"><div class="ecl-list-item__meta"><div class="ecl-meta ecl-meta--highlight"></div></div><h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Partnerships</h3><p class="ecl-list-item__detail ecl-paragraph"></p><div class="ecl-list-item__action"></div></div></a>  </li>
+      </ul>    </div>
+    
+  
+  
+  
+  
+</div>  </div>
+  </section>
+<section class="block-know4pol-core block-know4pol-core-know4pol-ks-latest-content ecl-clearfix odd" id="block-know4pol-core-know4pol-ks-latest-content">
+      
+    <div class="block__content">
+    
+  <ul class="ecl-listing ecl-listing--three-columns">
+        <li class="ecl-list-item ecl-list-item--three-columns">
+          <div class="ecl-list-item__body">
+              <h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Latest news</h3>
+              <div class="view view-ks-latest-content view-id-ks_latest_content view-display-id-latest_news view-dom-id-bbaaa71b582595afef36db34bb06646b">
+            
+    
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div>        <div><div class="ecl-meta">
+<span class="ecl-meta__item">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-09-30T16:51:47+02:00">30 September 2020</span>
+</span>
+</div></div>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/news/involving-africa%E2%80%99s-young-people-building-better-future_en">Involving Africa’s young people in building a better future</a>
+</h4>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div>        <div><div class="ecl-meta">
+<span class="ecl-meta__item">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-09-21T00:00:00+02:00">21 September 2020</span>
+</span>
+</div></div>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/news/unemployment-economic-issues-are-main-concerns-african-youth_en">Unemployment and economic issues are the main concerns of African youth</a>
+</h4>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div>        <div><div class="ecl-meta">
+<span class="ecl-meta__item">
+<span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-07-24T12:05:31+02:00">24 July 2020</span>
+</span>
+</div></div>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/news/coronavirus-mobility-data-provides-insights-virus-spread-containment-help-inform-future_en">Coronavirus: Mobility data provides insights into virus spread and containment to help inform future responses</a>
+</h4>  </div>  </div>
+    </div>
+    
+  
+  
+      <div class="view-footer">
+      <p><a class="ecl-button ecl-button--primary" href="https://ec.europa.eu/knowledge4policy/news?f%5B0%5D=sm_og_group_ref%3Anode%3A6">More news</a></p>
+    </div>
+  
+  
+</div>          </div>
+      </li>
+        <li class="ecl-list-item ecl-list-item--three-columns">
+          <div class="ecl-list-item__body">
+              <h3 class="ecl-list-item__title ecl-heading ecl-heading--h3">Latest resources</h3>
+              <div class="view view-ks-latest-content view-id-ks_latest_content view-display-id-latest_resources view-dom-id-75c65b4cc44effb7dfd42c3fcc0dc9c3">
+            
+    
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-type">        <span class="field-content"><div class="ecl-meta">
+<span class="ecl-meta__item">
+Publication
+</span>
+</div></span>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/publication/european-commission-knowledge-centres-factsheet_en">European Commission Knowledge Centres: factsheet </a>
+</h4>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-type">        <span class="field-content"><div class="ecl-meta">
+<span class="ecl-meta__item">
+Publication
+</span>
+</div></span>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/publication/youth-perspectives-africa-how-young-people-view-politics-society-environment_en">Youth Perspectives in Africa: how young people view politics, society and the environment</a>
+</h4>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-type">        <span class="field-content"><div class="ecl-meta">
+<span class="ecl-meta__item">
+Publication
+</span>
+</div></span>  </div>  
+  <div>        <h4 class="ecl-heading ecl-heading--h4 ecl-u-mt-xxs ecl-u-mb-xxxs"><a class="ecl-link" href="/knowledge4policy/publication/measuring-impact-covid-19-confinement-measures-human-mobility-using-mobile-positioning-0_en">Measuring the impact of COVID-19 confinement measures on human mobility using mobile positioning data. A European regional analysis</a>
+</h4>  </div>  </div>
+    </div>
+    
+  
+  
+      <div class="view-footer">
+      <p><a class="ecl-button ecl-button--primary" href="https://ec.europa.eu/knowledge4policy/resources?f%5B0%5D=sm_og_group_ref%3Anode%3A6">More resources</a></p>
+    </div>
+  
+  
+</div>          </div>
+      </li>
+   </ul>
+  </div>
+  </section>
+  </section>
+</div>
+          <aside class="region-content-bottom" role="complementary"><section class="block-bean block-bean-share-buttons ecl-clearfix odd" id="block-bean-share-buttons">
+      
+    <div class="block__content">
+    <div class="entity entity-bean bean-webtools clearfix" about="/knowledge4policy/block/share-buttons_en" typeof="">
+        <div class="content">
+    
+<div class="field field-label-hidden field-name-field-json-object field-type-json-settings">
+    <div class="ecl-field__label"></div>
+    <div class="ecl-field__body">
+                <div class="first last"><script type="application/json"><script type="application/json">
+{
+	"service": "sbkm",
+	"popup": false,
+	"to": [
+		"more",
+		"twitter",
+		"facebook",
+		"linkedin",
+		"googleplus",
+		"e-mail"
+	],
+	"selection": false
+}
+</script></script></div>
+          </div>
+</div>
+  </div>
+</div>
+  </div>
+  </section>
+</aside>
+        </section>
+
+              </div>
+    </div>
+  </div>
+</main>
+
+<footer class="ecl-footer">
+    <div class="ecl-footer__site-identity">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-sm ecl-footer__column">
+          <h4 class="ecl-h4 ecl-heading ecl-heading--h4"><a class="ecl-footer__link ecl-link" href="/knowledge4policy/migration-demography_en">Migration and Demography</a>
+</h4>
+        </div>
+        <div class="ecl-col-sm ecl-footer__column">
+                  </div>
+        <div class="ecl-col-sm ecl-footer__column">
+          <section class="block-menu block-menu-menu-footer-right ecl-clearfix odd" id="block-menu-menu-footer-right" role="navigation">
+      
+    <div class="block__content">
+    <ul class="ecl-footer__menu menu_tree-level-"><li class="ecl-footer__list-item first last"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="/knowledge4policy/migration-demography/about_en">About</a>
+</li>
+<li class="ecl-footer__list-item last"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="/knowledge4policy/give-us-feedback_en?reported_page=migration-demography&amp;destination=migration-demography&amp;related_knowledge_service=6">Give us feedback</a>
+</li>
+</ul>
+  </div>
+  </section>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="ecl-footer__site-corporate">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-sm ecl-footer__column">
+          <section class="block-menu block-menu-menu-nexteuropa-site-links ecl-clearfix even" id="block-menu-menu-nexteuropa-site-links" role="navigation">
+        <h4 class="block__title ecl-footer__title ecl-h4">European Commission</h4>
+      <ul class="ecl-footer__list ecl-footer__menu ecl-list ecl-list--unstyled menu_tree-level-1"><li class="ecl-footer__list-item first"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/commission/index">Commission and its priorities</a>
+</li>
+<li class="ecl-footer__list-item last"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/info/index">Policies, information and services</a>
+</li>
+</ul>
+</section>
+        </div>
+        <div class="ecl-col-sm ecl-footer__column">
+          <section class="block-menu block-menu-menu-nexteuropa-social-media ecl-clearfix odd" id="block-menu-menu-nexteuropa-social-media" role="navigation">
+        <h4 class="block__title ecl-footer__title ecl-h4">Follow the European Commission</h4>
+      <ul class="ecl-footer__list ecl-footer__list--inline ecl-footer__menu ecl-footer__social-links ecl-list ecl-list--inline ecl-list--unstyled menu_tree-level-1"><li class="ecl-footer__list-item ecl-list-inline__item first"><a class="ecl-footer__link ecl-icon ecl-icon--facebook ecl-link ecl-link--inverted" href="https://www.facebook.com/EuropeanCommission">Facebook</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item"><a class="ecl-footer__link ecl-icon ecl-icon--twitter ecl-link ecl-link--inverted" href="https://twitter.com/eu_commission">Twitter</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item last" data-display-title="1"><a class="ecl-footer__link ecl-link ecl-link--external ecl-link--inverted" data-display-title="1" data-hide-children="0" data-remove-class="0" href="http://ec.europa.eu/dgs/communication/services/journalist/social-media_en.htm">Other social media</a>
+</li>
+</ul>
+</section>
+        </div>
+        <div class="ecl-col-sm ecl-footer__column">
+          <section class="block-menu block-menu-menu-nexteuropa-inst-links ecl-clearfix even" id="block-menu-menu-nexteuropa-inst-links" role="navigation">
+        <h4 class="block__title ecl-footer__title ecl-h4">European Union</h4>
+      <ul class="ecl-footer__list ecl-footer__menu ecl-list ecl-list--unstyled menu_tree-level-1"><li class="ecl-footer__list-item first"><a class="ecl-footer__link ecl-link ecl-link--external ecl-link--inverted" href="https://europa.eu/european-union/about-eu/institutions-bodies">EU institutions</a>
+</li>
+<li class="ecl-footer__list-item last"><a class="ecl-footer__link ecl-link ecl-link--external ecl-link--inverted" href="https://europa.eu/european-union/index">European Union</a>
+</li>
+</ul>
+</section>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ecl-footer__ec">
+    <div class="ecl-container">
+      <div class="ecl-row">
+        <div class="ecl-col-sm">
+          <section class="block-menu block-menu-menu-nexteuropa-service-links ecl-clearfix odd" id="block-menu-menu-nexteuropa-service-links" role="navigation">
+      <ul class="ecl-footer__list ecl-footer__list--inline ecl-footer__menu ecl-list ecl-list--inline ecl-list--unstyled menu_tree-level-1"><li class="ecl-footer__list-item ecl-list-inline__item first"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/info/about-commissions-new-web-presence">About the Commission's new web presence</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="http://ec.europa.eu/info/resources-partners">Resources for partners</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/info/cookies">Cookies</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/info/legal-notice">Legal notice</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item"><a class="ecl-footer__link ecl-link ecl-link--inverted" href="https://ec.europa.eu/info/contact">Contact</a>
+</li>
+<li class="ecl-footer__list-item ecl-list-inline__item last" data-display-title="1"><a class="ecl-footer__link ecl-link ecl-link--inverted" data-display-title="1" data-hide-children="0" data-remove-class="0" href="https://ec.europa.eu/info/brexit-content-disclaimer">Brexit Content Disclaimer</a>
+</li>
+</ul>
+</section>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<script>document.addEventListener('DOMContentLoaded', function () { 
+    ECL.initExpandables(); 
+    ECL.navigationInpages();
+    ECL.tabs();
+ });</script>
+<script type="application/json">{"utility":"piwik","siteID":"507","sitePath":["ec.europa.eu\/knowledge4policy"],"is404":false,"is403":false,"instance":"ec.europa.eu","siteSection":"migrationDemography"}</script>
+</body>
+</html>

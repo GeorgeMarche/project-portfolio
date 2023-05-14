@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2015 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+
+<link rel="shortcut icon" href="http://www.fao.org/fileadmin/templates/faoweb/images/icons/favicon.ico" type="image/x-icon; charset=binary">
+<link rel="icon" href="http://www.fao.org/fileadmin/templates/faoweb/images/icons/favicon.ico" type="image/x-icon; charset=binary">
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/jfmulticontent/res/tx_jfmulticontent_pi1.css?1361539097" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/stylesheet_5d370599a3.css?1460386828" media="all">
+
+
+
+
+
+
+<title>Statistics&nbsp;&#124;&nbsp;Food and Agriculture Organization of the United Nations</title>   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
+   <link href="/fileadmin/templates/faoboot/css/index.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/header.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/footer.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/navigation.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/search.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/bootstrap.3x.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/css/ie11fixes.css" rel="stylesheet">
+   <link href="/fileadmin/templates/faohome/fao2019/src/js/bootstrap-select/bootstrap-select.css" rel="stylesheet">  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="/fileadmin/templates/faoboot/js/conf.js"></script>
+  <script src="/fileadmin/scripts/jquery/plugin/packery/packery.pkgd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>   
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js" integrity="sha256-FiZMk1zgTeujzf/+vomWZGZ9r00+xnGvOgXoj0Jo1jA=" crossorigin="anonymous"></script>
+  <script src="/fileadmin/templates/faoboot/js/typedarray.min.js"></script>   
+  <script src="/fileadmin/templates/faohome/fao2019/src/js/bootstrap-select/bootstrap-select.min.js"></script>  <script src="/fileadmin/templates/faohome/fao2019/src/js/form-style.js"></script><meta name="internet:breadcrumb" content="Statistics"><meta name="language" content="en"><meta property="og:site_name" content="Food and Agriculture Organization of the United Nations">		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@FAO">
+		<meta name="twitter:creator" content="@FAO"><meta name="twitter:title" content="Statistics"><meta property="og:title" content="Statistics"><meta property="og:url" content="http://www.fao.org/statistics/en/"><meta name="google-site-verification" content="FbeHqFX1RBLY6srQObwAl6FDhorAKzZq21MeOB62p4Q" /><meta property="fb:admins" content="100008875892400" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PH6V33');</script>
+<!-- End Google Tag Manager -->
+
+
+<script async src='/cdn-cgi/bm/cv/2172558837/api.js'></script></head>
+<body>
+
+
+
+    <!-- Header -->
+
+    <header class="fao-header">
+
+        <div class="container">
+          
+            <div class="row">
+                <div class="flex-column flex-md-row fao-header-content">
+                  
+                    <div class="logo col-xs-12 col-sm-6">
+                        <a href="/home/en/">
+                            <img src="/fileadmin/templates/faohome/fao2019/src/images/FAO_logo_White_2lines_en.svg" alt="Food and Agriculture Organization of the United Nations" title="Food and Agriculture Organization of the United Nations" class="ds-fao-logo">
+                        </a>
+
+                    </div>
+                                  
+                    <div class="fao-header-right col-xs-12 col-sm-6">  
+                    <div class="language-switcher visible-md visible-lg text-right"><ul class="list-inline"><li class="list-inline-item"><a href="/statistics/ar/"  >العربية</a></li><li class="list-inline-item"><a href="/statistics/zh/"  >﻿中文</a></li><li class="list-inline-item active"><a href="/statistics/en/"  >English</a></li><li class="list-inline-item"><a href="/statistics/fr/"  >Français</a></li><li class="list-inline-item"><a href="/statistics/ru/"  >Русский</a></li><li class="list-inline-item"><a href="/statistics/es/"  >Español</a></li></ul></div><div class="language-switcher hidden-md hidden-lg text-right"><ul class="list-inline"><li class="list-inline-item"><a href="/statistics/ar/"  >العربية</a></li><li class="list-inline-item"><a href="/statistics/zh/"  >﻿中文</a></li><li class="list-inline-item active"><a href="/statistics/en/"  >English</a></li><li class="list-inline-item"><a href="/statistics/fr/"  >Français</a></li><li class="list-inline-item"><a href="/statistics/ru/"  >Русский</a></li><li class="list-inline-item"><a href="/statistics/es/"  >Español</a></li></ul></div>
+
+                    <div class="fao-header-search pull-right"><div id="c717131" class="csc-default" ><html class="gr__jqueryui_com"><head></head>
+  <body data-gr-c-s-loaded="true">
+      <script async src="https://cse.google.com/cse.js?cx=018170620143701104933:qq82jsfba7w"></script>
+      <div class="search-container search-results-container"><div class="gcse-searchbox-only" data-resultsUrl="http://www.fao.org/home/search/en/"></div></div>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'5e2375f19c0b9f4c',m:'8ec012a0e678be011cfe05d6bea0bce201cfa010-1602701162-1800-AfUSLcarYWw4etqEemUp+R2xokriVAGziaSwP/BHy+/ZfHo5sPh7CTBM87zKQ2zuBCjfAaKvgJC4iHetfOCWUjc3ADyZi5bsXgBSAy2YnEbyeC3JuJlDdNTxjCq8jKBDTw==',s:[0x58a62b829c,0xcf119154ca],}})();</script></body>
+</html></div></div>
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <!-- Navigation -->
+
+<nav class="navbar navbar-expand-lg navbar-default" data-spy="affix" data-offset-top="100" data-offset-bottom="0">
+    <div class="container">
+        <div class="navbar-header">
+          
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarSupportedContent">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <div class="collapse navbar-collapse mobile-menu" id="navbarSupportedContent"><ul class="navbar-nav"><li class="nav-item dropdown dropdown-expanded-menu" id="m_85380"><a href="/about/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">About FAO</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/about/en/"  class="dropdown-item" id="m_85948">About us</a><a href="/director-general/en/"  class="dropdown-item" id="m_101046">Director-General</a><a href="/about/leadership/en/"  class="dropdown-item" id="m_100864">Leadership</a><a href="/about/org-chart/en/"  class="dropdown-item" id="m_105942">Organizational chart</a><a href="/about/who-we-are/worldwide-offices/en/"  class="dropdown-item" id="m_101044">Worldwide offices</a><a href="/about/governing-body-docs/en/"  class="dropdown-item" id="m_46923">Governing Body documents</a><a href="/about/oversight-advisory-committee/en/"  class="dropdown-item" id="m_106547">Oversight Advisory Committee</a><a href="/about/fao-and-the-un/en/"  class="dropdown-item" id="m_100300">FAO and the UN</a><a href="/about/meetings/en/"  class="dropdown-item" id="m_39134">Meetings</a><a href="/about/visit-us/en/"  class="dropdown-item" id="m_101043">Visit us</a></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_85671"><a href="/in-action/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">In action</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/in-action/en/"  class="dropdown-item" id="m_85381">FAO at work</a><a href="/in-action/fao-projects/en/"  class="dropdown-item" id="m_57037">Projects</a><a href="/in-action/standards-and-policies/en/"  class="dropdown-item" id="m_100304">Standards and policies</a><a href="/sustainable-development-goals/en/"  class="dropdown-item" id="m_101047">Sustainable Development Goals</a></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_85759"><a href="/news/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Media</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/news/en/"  class="dropdown-item" id="m_85760">News releases</a><a href="/home/stories-archive/en/"  class="dropdown-item" id="m_101048">Stories</a><a href="/news/video-at-fao/en/"  class="dropdown-item" id="m_87729">Video</a><a href="/news/photography-at-fao/en/"  class="dropdown-item" id="m_87657">Photo</a><a href="/news/audio-at-fao/en/"  class="dropdown-item" id="m_87665">Audio</a><a href="/news/news-webcasting/en/"  class="dropdown-item" id="m_41375">Webcast</a><a href="/news/contacts/en/"  class="dropdown-item" id="m_37614">Contacts</a></div></div></li><li class="nav-item" id="m_101037"><a href="/themes/en/"  class="nav-link">Main topics</a></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_101038"><a href="/publications/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Resources</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/statistics/en/"  class="dropdown-item" id="m_101052">Data</a><a href="/home/digital-reports/en/"  class="dropdown-item" id="m_101051">Digital reports</a><a href="/resources/infographics/en/"  class="dropdown-item" id="m_40245">Infographics</a><a href="/publications/en/"  class="dropdown-item" id="m_101049">Publications</a></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_101039"><a href="/countryprofiles/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Member countries</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/countryprofiles/en/"  class="dropdown-item" id="m_101055">Country Profiles</a><a href="/members-gateway/home/en/"  class="dropdown-item" id="m_101054">FAO Members Gateway</a><a href="/countryprofiles/lifdc/en/"  class="dropdown-item" id="m_101053">Low-Income Food-Deficit countries</a></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_101033"><a href="/get-involved/ask-fao/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Get involved</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div id="dropdown-mobile-menu-navigation"><a href="/partnerships/en/"  class="dropdown-item" id="m_101058">Partnerships</a><a href="/employment/home/en/"  class="dropdown-item" id="m_101057">Work with us</a><a href="/get-involved/ask-fao/en/"  class="dropdown-item" id="m_100327">Ask FAO</a><a href="/get-involved/fao-on-social-media/en/"  class="dropdown-item" id="m_100966">FAO on social media</a><a href="/support-to-investment/en/"  class="dropdown-item" id="m_101056">Invest</a></div></div></li></li></ul></div> 
+      
+        <div class="collapse navbar-collapse desktop-menu" id="navbarSupportedContent"><ul class="navbar-nav"><li class="nav-item dropdown dropdown-expanded-menu" id="m_100605"><a href="/home/common-elements/top-navigation-content/about/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">About FAO</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/about/en/"  class="dropdown-item" id="m_100612">About us</a><a href="/director-general/en/"  class="dropdown-item" id="m_100613">Director-General</a><a href="/about/leadership/en/"  class="dropdown-item" id="m_100874">Leadership</a><a href="/about/org-chart/en/"  class="dropdown-item" id="m_106164">Organizational chart</a><a href="/about/who-we-are/worldwide-offices/en/"  class="dropdown-item" id="m_100615">Worldwide offices</a><a href="/unfao/govbodies/home/en/"  class="dropdown-item" id="m_100616">Governing Bodies</a><a href="/about/fao-and-the-un/en/"  class="dropdown-item" id="m_100617">FAO and the UN</a><a href="/about/meetings/en/"  class="dropdown-item" id="m_100624">Meetings</a><a href="/about/visit-us/en/"  class="dropdown-item" id="m_100618">Visit us</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100607"><a href="/home/common-elements/top-navigation-content/in-action/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">In action</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/in-action/en/"  class="dropdown-item" id="m_100619">FAO at work</a><a href="/in-action/fao-projects/en/"  class="dropdown-item" id="m_100620">Projects</a><a href="/in-action/standards-and-policies/en/"  class="dropdown-item" id="m_100621">Standards and Policies</a><a href="/sustainable-development-goals/en/"  class="dropdown-item" id="m_100623">Sustainable Development Goals</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100608"><a href="/home/common-elements/top-navigation-content/media/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Media</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/news/en/"  class="dropdown-item" id="m_100625">News</a><a href="/home/stories-archive/en/"  class="dropdown-item" id="m_100626">Stories</a><a href="/news/video-at-fao/en/"  class="dropdown-item" id="m_100627">Video</a><a href="/news/photography-at-fao/en/"  class="dropdown-item" id="m_100628">Photos</a><a href="/news/audio-at-fao/en/"  class="dropdown-item" id="m_100629">Audio</a><a href="/webcast/home/en/"  class="dropdown-item" id="m_100630">Webcast</a><a href="/news/contacts/en/"  class="dropdown-item" id="m_100631">Media contacts</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100695"><a href="/home/common-elements/top-navigation-content/main-topics/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Main topics</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/home/common-elements/top-navigation-content/main-topics/main-topics-content/en/"  class="dropdown-item" id="m_100875">Main topics content</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100574"><a href="/home/common-elements/top-navigation-content/resources/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Resources</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/statistics/en/"  class="dropdown-item" id="m_100575">Data</a><a href="/home/digital-reports/en/"  class="dropdown-item" id="m_100576">Interactive stories</a><a href="/resources/infographics/en/"  class="dropdown-item" id="m_100579">Infographics</a><a href="/publications/en/"  class="dropdown-item" id="m_100580">Publications</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100609"><a href="/home/common-elements/top-navigation-content/member-countries/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Member countries</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/countryprofiles/en/"  class="dropdown-item" id="m_100973">Country Profiles</a><a href="/members-gateway/home/en/"  class="dropdown-item" id="m_100974">FAO Members Gateway</a><a href="/countryprofiles/lifdc/en/"  class="dropdown-item" id="m_100975">Low-Income Food-Deficit countries</a></div></div></div></div></li><li class="nav-item dropdown dropdown-expanded-menu" id="m_100611"><a href="/home/common-elements/top-navigation-content/get-involved/en/"  aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="/statistics/en/#" id="navbarDropdown" role="button">Get involved</a><div aria-labelledby="navbarDropdown" class="dropdown-menu"><div class="row"><div id="dropdown-menu-navigation" class="col-3"><div class="dropdown-navigation-container"><a href="/partnerships/en/"  class="dropdown-item" id="m_100641">Partnerships</a><a href="/employment/home/en/"  class="dropdown-item" id="m_100638">Work with us</a><a href="/get-involved/ask-fao/en/"  class="dropdown-item" id="m_100639">Ask FAO</a><a href="/get-involved/fao-on-social-media/en/"  class="dropdown-item" id="m_100913">FAO on social media</a><a href="/support-to-investment/en/"  class="dropdown-item" id="m_100640">Invest</a></div></div></div></div></li></li></ul></div>
+                   
+    </div>
+</nav>
+  
+  
+<!-- ###BREADCRUMBS### start --> <!-- ###BREADCRUMBS### end -->
+  
+<div class="floating-icons"><div id="c716902" class="csc-default" ><script>
+
+$( document ).ready(function() {
+  $('[data-toggle="popover"]').popover(); 
+
+  $('.share-bubble').click(function(){
+      fb_share.href = 'http://www.facebook.com/share.php?u=' + encodeURIComponent(location.href); 
+      in_share.href = 'http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(location.href); 
+      twitter.href = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(location.href); 
+      tiktok.href = 'https://www.tiktok.com/@fao';
+
+      $('#wechat'). attr("data-toggle", "modal");
+      $('#wechat'). attr("data-target", "#wechat-modal");
+  
+});
+
+  $('body').on('click', function (e) {
+    $('[data-toggle=popover]').each(function () {
+       // hide any open popovers when the anywhere else in the body is clicked
+       if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+            $(this).popover('hide');
+        }
+   });
+});
+
+});
+
+</script> 
+
+<div class="share-bubble">
+<i href="#" class="material-icons" data-html="true" data-toggle="popover" data-container=".floating-icons" data-placement="left" data-content="
+<a alt='facebook' title='facebook' href=''id='fb_share' target='_blank'><i class='fa fa-facebook' aria-hidden='true'></i></a> 
+<a alt='LinkedIn' title='LinkedIn' href=''id='in_share' target='_blank'><i class='fa fa-linkedin'  aria-hidden='true'></i></a> 
+<a alt='Twitter' title='Twitter' href=''id='twitter' target='_blank'><i class='fa fa-twitter'  aria-hidden='true'></i></a>
+<a alt='WeChat' title='WeChat' id='wechat' data-toggle='modal' data-target='#wechat-modal'><i class='fa fa-weixin' aria-hidden='true'></i></a> 
+<a alt='TikTok' title='TikTok' href=''id='tiktok' target='_blank'></a> 
+<a href='/get-involved/fao-on-social-media/en/' id='plus'><i class='fa fa-plus'  aria-hidden='true'></i></a>
+">share</i>
+</div></div><div id="c716903" class="csc-default" ><script>
+function myURL() {
+   var str = "mailto:?subject=Look at this interesting website from FAO of the UN &body=" + location.href; 
+   location.href = str;
+}
+</script>
+
+<div class="email-bubble"><p><i class="material-icons-outlined"><a href="javascript:myURL();">mail</a></i></p></div></div><div id="c716904" class="csc-default" ><div class="qa-bubble"><p class="bodytext"><i class="material-icons"><a href="/get-involved/ask-fao/en/" title="Ask FAO" class="internal-link" >live_help</a></i></p></div></div></div>  
+
+<div class="container"><div class="row"><div id="c690888" class="csc-default" ><div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Statistics</h1></div></div><div id="c690882" class="csc-default" ><div class="tx-dynalist-pi1">
+		<div class="swiper-container" style="height: 400px;">
+    <div class="swiper-wrapper"><div class="swiper-slide swiper-lazy" style="background-image: url(/uploads/pics/2018-Yearbook-Fishery-Aquaculture-Statistics.jpg);">
+    <div class="swiper-caption">
+        <div class="item-title"><h2><a href="http://www.fao.org/documents/card/en/c/cb1213t">FAO launches its 2018 Yearbook of Fishery and Aquaculture Statistics</a></h2></div>
+        <div class="item-text text-abstract">The publication presents comprehensive and detailed fishery and aquaculture statistics, covering production, utilization, consumption, trade, employment and fishing fleet. </div>
+    </div>
+</div>
+
+<div class="swiper-slide swiper-lazy" style="background-image: url(/uploads/pics/Pulpandpaper_02.jpg);">
+    <div class="swiper-caption">
+        <div class="item-title"><h2><a href="http://www.fao.org/3/cb1212t/CB1212T.pdf">Pulp and paper capacities (2019–2024)</a></h2></div>
+        <div class="item-text text-abstract">The 2020 FAO Survey of Pulp and Paper Capacities presents statistics on pulp and paper production capacity and short-term forecast estimates from main producing countries, data on pulp and paper production, and information about utilization of recovered paper.</div>
+    </div>
+</div>
+
+<div class="swiper-slide swiper-lazy" style="background-image: url(/uploads/pics/SOCO_BANNER_EN.jpg);">
+    <div class="swiper-caption">
+        <div class="item-title"><h2><a href="https://doi.org/10.4060/cb0665en">Launch of The State of Agricultural Commodity Markets (SOCO) 2020 Edition</a></h2></div>
+        <div class="item-text text-abstract">Agricultural Markets and Sustainable Development: Global value chains, smallholder farmers and digital innovations.</div>
+    </div>
+</div>
+
+<div class="swiper-slide swiper-lazy" style="background-image: url(/uploads/pics/SDG-progress-report-statistics-landing.png);">
+    <div class="swiper-caption">
+        <div class="item-title"><h2><a href="http://www.fao.org/sdg-progress-report/en/">FAO launches its 2020 report “Tracking progress on food and agriculture-related SDG indicators”</a></h2></div>
+        <div class="item-text text-abstract">It offers detailed analysis and trends on 22 indicators under 6 SDGs (2, 5, 6, 12, 14 and 15) under its custodianship.</div>
+    </div>
+</div>
+
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>  
+    <div class="swiper-pagination"></div>
+  </div>
+<script>
+$(function(){
+    var swiper = new Swiper('.swiper-container', {
+      autoplay: 5000,
+      speed: 400,
+      nextButton: '.swiper-button-next',
+      prevButton: '.swiper-button-prev',
+      pagination: '.swiper-pagination',
+      paginationClickable: true,
+      preloadImages: false,
+      lazy: true,
+      loop: true,
+    });
+console.log(swiper );
+})
+</script>
+	</div>
+	</div><div id="c771454" class="csc-default" ><p class="bodytext">Visit <a href="http://www.fao.org/2019-ncov/en/">FAO’s COVID-19 Portal</a> for an overview of FAO’s action in regard to the outbreak. For more resources, please refer to this <a href="https://covid-19-response.unstatshub.org/useful-links/international-organisations-resources/">page</a>.</p></div><div id="c691080" class="csc-default" >  <div class="row">
+  	<div class="col-md-9"><h2>Data centers</h2></div>
+	<div class="col-md-3"><a href="http://www.fao.org/statistics/highlights-archive/en/"type="button" class="btn btn-primary section-button hidden-xs hidden-sm" style="margin-top:15px;">Highlights <span class="ico-holder"><i class="material-icons">chevron_right</i></span></a></div>
+  </div>
+</div><div id="c691081" class="csc-default" ><div class="tx-dynalist-pi1">
+		<style>
+#c691081 h4 {margin-top: 0px;}
+</style>
+<div class="media-feature-wrapper">
+<div class="row"><div class="col-md-3 card-box video">
+    <a href="http://www.fao.org/faostat/en/#home">
+        <div class="white-box wb-media-feature datacenter">
+            
+            <div class="white-box-phot">
+                <img src="http://www.fao.org/uploads/pics/FAOSTAT_06.jpg" alt="Photo-alt" class="img-responsive">
+            </div>
+
+            <div class="white-box-text">
+                <h4>FAOSTAT</h4>
+                <p>FAOSTAT provides free access to food and agriculture statistics (including crop, livestock, and forestry sub-sectors) for over 245 countries and territories and covers all FAO regional groupings from 1961 to the most recent year available. 
+
+</p>
+            </div>
+
+        </div>
+    </a>
+</div><div class="col-md-3 card-box video">
+    <a href="http://www.fao.org/sustainable-development-goals/indicators/en/">
+        <div class="white-box wb-media-feature datacenter">
+            
+            <div class="white-box-phot">
+                <img src="http://www.fao.org/uploads/pics/SDG_11.jpg" alt="Photo-alt" class="img-responsive">
+            </div>
+
+            <div class="white-box-text">
+                <h4>SDG Indicators</h4>
+                <p>FAO’s Sustainable Development Goals (SDG) Data Portal provides access to the 21 SDG indicators under FAO custodianship as well as key information to support countries in tracking progress towards SDGs. </p>
+            </div>
+
+        </div>
+    </a>
+</div><div class="col-md-3 card-box video">
+    <a href="http://www.amis-outlook.org/">
+        <div class="white-box wb-media-feature datacenter">
+            
+            <div class="white-box-phot">
+                <img src="http://www.fao.org/uploads/pics/03_Amis_06.jpg" alt="Photo-alt" class="img-responsive">
+            </div>
+
+            <div class="white-box-text">
+                <h4>AMIS</h4>
+                <p>The Agricultural Market Information System (AMIS) is an inter-agency platform to enhance food market transparency and policy response for food security. It provides market information on four grains particularly important in international food markets: wheat, maize, rice and soybeans.</p>
+            </div>
+
+        </div>
+    </a>
+</div><div class="col-md-3 card-box video">
+    <a href="http://www.fao.org/food-agriculture-microdata/en/">
+        <div class="white-box wb-media-feature datacenter">
+            
+            <div class="white-box-phot">
+                <img src="http://www.fao.org/uploads/pics/fam_07.jpg" alt="Photo-alt" class="img-responsive">
+            </div>
+
+            <div class="white-box-text">
+                <h4>Food and Agriculture Microdata Catalogue (FAM)</h4>
+                <p>The Food and Agriculture Microdata (FAM) Catalogue provides access to micro datasets collected through farm and household surveys which contain information related to agriculture, food security and nutrition.</p>
+            </div>
+
+        </div>
+    </a>
+</div></div>
+</div>
+<script>
+$(function(){
+   $("div.card-box a").each(function(){
+     if($(this).attr("href").indexOf("youtu")>0){
+       $(this).find(".white-box-text").before('<button type="button" class="btn btn-primary btn-floating"><i class="material-icons">play_arrow</i></button>');
+     }
+   })
+});
+</script>
+	</div>
+	</div><div id="c699280" class="csc-default" ><link rel="stylesheet" href="/fileadmin/scripts/OwlCarousel2-2.2.1/Owl-statistics/threeitem-owl.carousel.css">
+<link rel="stylesheet" href="/fileadmin/scripts/OwlCarousel2-2.2.1/Owl-statistics/threeitem-owl.theme.default.css">
+<style>
+.cardbox {
+	position: relative;
+	border: 1px solid #e8e9ea;
+	background-color: white;
+	margin-bottom: 30px;
+	min-height: 350px;
+}
+.cardbox a:hover{ text-decoration:none;}
+.cardbox .white-box-text {
+	padding: 30px;
+}
+.cardbox .white-box-text h4 {
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 18px;
+	margin-bottom: 10px;
+	color: #0d6cac;
+}
+.cardbox .white-box-text p {
+	color: #545454;
+	line-height: 1.5;
+}
+.owl-theme .owl-nav [class*='owl-'] {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 0px;
+    position: absolute;
+    top: 32%;
+    font-size: 47px;
+    color: #6c757d;
+    border: none;
+    text-align: center;
+    margin: 3px;
+    background: none;
+}
+ .owl-theme .owl-nav [class*='owl-']:hover {
+      background: none;
+      color: #6c757d;
+      text-decoration: none; }
+.owl-theme .owl-next {
+    right: -50px;
+}
+.owl-theme .owl-prev {
+    left: -50px;
+}
+</style>
+
+
+
+
+<div class="col-md-12">
+    <div class="col-md-12">
+      <div class="Featured-Documents">
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/fishery/statistics/en" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/FISHSTAT.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>Fishstat</h4>
+                  <p>Fishery and Aquaculture</p>
+                </div>
+              </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/aquastat/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/AQUASTAT.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>Aquastat</h4>
+                  <p>Water resources and management</p>
+                </div>
+              </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/giews/food-prices/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/FPMA.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>FPMA</h4>
+                  <p>Food prices</p>
+                </div>
+              </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/dad-is/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/DAD-IS.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>DAD-IS</h4>
+                  <p>Domestic Animal Diversity</p>
+                </div>
+              </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/wiews/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/WIEWS.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>WIEWS</h4>
+                  <p>Plant Genetic Resources</p>
+                </div>
+              </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/infoods/infoods/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/INFOODS.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>INFOODS</h4>
+                  <p>Food Composition</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/gift-individual-food-consumption/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/FAO-WHO-GIFT.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>FAO/WHO GIFT</h4>
+                  <p>Individual food consumption</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+  <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/food-loss-and-food-waste/flw-data/en/" target="_top">
+                <div class="white-box-phot"> <img src="http://www.fao.org/fileadmin/user_upload/faoweb/2019/statistics-page/flw.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>Food Loss and Food Waste database</h4>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/aid-monitor/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/AIDMONITOR.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>AIDmonitor</h4>
+                  <p>Official Development Assistance</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/gender-landrights-database/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/GLRD.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>GLRD</h4>
+                  <p>Gender and Land Rights Database</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="http://www.fao.org/in-action/rural-livelihoods-dataset-rulis/en/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/RULIS.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>RuLIS</h4>
+                  <p>Rural livelihoods</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="https://data.apps.fao.org/" target="_top">
+                <div class="white-box-phot"> <img src="/fileadmin/user_upload/statistics/FRA.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>FRA</h4>
+                  <p>Global Forest Resources</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+<div class="item">
+            <div class="item-internal">
+              <div class="cardbox">
+              <a href="https://data.apps.fao.org/" target="_top">
+                <div class="white-box-phot"> <img src="http://www.fao.org/fileadmin/user_upload/faoweb/statistics/images/HiH.jpg" alt="Photo-alt" class="img-responsive"> </div>
+                <div class="white-box-text">
+                  <h4>HiH</h4>
+                  <p>Hand-in-Hand Initiative</p>
+                </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<script type="text/javascript" src="/fileadmin/scripts/OwlCarousel2-2.2.1/Owl-statistics/three-image-owl.carousel.js"></script>
+<script>
+
+            jQuery(document).ready(function($) {
+              var owl = $('.owl-carousel');
+              owl.on('initialize.owl.carousel initialized.owl.carousel ' +
+                'initialize.owl.carousel initialize.owl.carousel ' +
+                'resize.owl.carousel resized.owl.carousel ' +
+                'refresh.owl.carousel refreshed.owl.carousel ' +
+                'update.owl.carousel updated.owl.carousel ' +
+                'drag.owl.carousel dragged.owl.carousel ' +
+                'translate.owl.carousel translated.owl.carousel ' +
+                'to.owl.carousel changed.owl.carousel',
+                function(e) {
+                  $('.' + e.type)
+                    .removeClass('secondary')
+                    .addClass('success');
+                  window.setTimeout(function() {
+                    $('.' + e.type)
+                      .removeClass('success')
+                      .addClass('secondary');
+                  }, 500);
+                });
+              owl.owlCarousel({
+                loop: true,
+                nav: true,
+                 navText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
+                lazyLoad: true,
+				items: 4,
+				margin: 25,
+				autoplay: true,
+				dots:true,
+				nav:true,
+				autoplayTimeout: 8500,
+				smartSpeed: 450,
+				video: true,
+                responsive: {
+                  0: {
+                      items: 1
+                  },
+                  600: {
+                      items: 2
+                  },
+                  960: {
+                      items: 3
+                  },
+                  1200: {
+                      items: 4
+                  }
+                }
+              });
+            });
+</script>
+</div></div></div>
+
+<div class="container"><div class="row"><div class="col-md-9 c-col"><div id="c690881" class="csc-default" ><button style="margin-bottom: 30px;" type="button" class="btn btn-primary section-button btn-normal-col visible-xs visible-sm">Highlights<span class="ico-holder"><i class="material-icons">chevron_right</i></span></button></div><div class="csc-default white-bg" id="c690872"><div class="csc-header csc-header-n2"><h2>FAO’s statistical work</h2></div><p class="bodytext"><strong>Sound and timely statistics are key to inform decisions, policies and investments</strong> that tackle issues related to food and agriculture, from hunger and malnutrition to rural poverty, from food systems productivity to the sustainable use of natural resources or to climate change.</p>
+<p class="bodytext"><strong>FAO is dedicated to collecting, analysing, interpreting and disseminating</strong> food and agriculture statistics that are relevant for decision-making. </p>
+<p class="bodytext">It is for this reason that developing and implementing methodologies and standards to assist countries in generating sound data and information is <strong>at the core of FAO’s statistical work</strong>. </p>
+<p class="bodytext"><strong>FAO also supports member countries</strong> in the collection, dissemination and uptake of data to formulate policies and plans or to better orient investments.</p></div><div class="csc-default white-bg" id="c690850"><div class="csc-header csc-header-n3"><h2>Major areas of FAO’s statistical work</h2></div><p class="bodytext">A comprehensive list of FAO Statistical activities is included in the <a href="https://doi.org/10.4060/ca9734en" target="_blank" class="external-link-new-window" ><b>Statistical Programme of Work</b></a>.</p></div><div class="csc-default white-bg" id="c690844"><div class="activity"><p class="bodytext"><img height="53" width="53" src="/fileadmin/user_upload/faoweb/statistics/images/collecting.jpg" alt="" /></p>
+<p class="bodytext">Data Collection<br /> </p>
+<p class="bodytext"><a href="http://www.fao.org/statistics/data-collection/en/" target="_blank" class="external-link-new-window" >Learn more</a></p></div><div class="activity"><p class="bodytext"><img height="53" width="53" src="/fileadmin/user_upload/faoweb/statistics/images/disseminating.jpg" alt="" /></p>
+<p class="bodytext">Data dissemination</p>
+<p class="bodytext"><a href="http://www.fao.org/statistics/databases/en/" target="_blank" >Learn more</a></p></div><div class="activity"><p class="bodytext"><img height="53" width="53" src="/fileadmin/user_upload/faoweb/statistics/images/methods.jpg" alt="" /></p>
+<p class="bodytext">Methods and Standards</p>
+<p class="bodytext"><a href="http://www.fao.org/statistics/standards/en/" target="_blank" class="external-link-new-window" >Learn more</a></p></div><div class="activity"><p class="bodytext"><img height="53" width="53" src="/fileadmin/user_upload/faoweb/statistics/images/capacity.jpg" alt="" /></p>
+<p class="bodytext">Statistical Capacity development</p>
+<p class="bodytext"><a href="http://www.fao.org/statistics/statistical-capacity-development/en/" target="_blank" class="external-link-new-window" >Learn more</a></p></div></div><div class="csc-default white-bg" id="c690843"><div class="csc-header csc-header-n5"><h2>How we work</h2></div><p class="bodytext"> The FAO’s statistical system operates under the oversight of the Office of Chief statistician and it consists of a statistics division and statistics units embedded in technical departments. </p></div><div class="csc-default white-bg" id="c690833"><div class="csc-header csc-header-n6"><h4>Divisional Pages</h4></div><ul><li><a href="/about/who-we-are/departments/office-of-chief-statistician/en/" >Office of Chief Statistician (OCS)</a></li><li><a href="/about/who-we-are/departments/statistics-division/en/" >Statistics Division (ESS)</a></li><li><a href="/economic/agricultural-development-economics/en/" >Agrifood Economics Division (ESA)</a></li><li><a href="/economic/nutrition/en/" >Food and Nutrition Division (ESN)</a></li><li><a href="/economic/social-policies-rural-institutions/en/" >Inclusive Rural Transformation and Gender Equity Division (ESP)</a></li><li><a href="/economic/est/trade-and-markets-home/en/" >Markets and Trade Division (EST)</a></li><li><a href="/fishery/en" >Fisheries Division (NFI)</a></li><li><a href="/forestry/95632/en/" >Forestry Division (NFO)</a></li><li><a href="/agriculture/animal-production-and-health/en/" >Animal Production and Health Division (NSA)</a></li><li><a href="/land-water/home/en/" >Land and Water Division (NSL)</a></li><li><a href="/agriculture/plant-production-and-protection/en/" >Plant Production and Protection Division (NSP)</a></li></ul></div><div id="c690811" class="csc-default" ><style>
+
+.c-col .white-bg {
+  border: none;
+}
+.media-feature-wrapper .datacenter {
+    min-height: 500px !important;
+}
+[lang="es"] .media-feature-wrapper .datacenter {
+    min-height: 570px !important;
+}
+[lang="ru"] .media-feature-wrapper .datacenter {
+    min-height: 690px !important;
+}
+[lang="fr"] .media-feature-wrapper .datacenter {
+    min-height: 590px !important;
+}
+.card-box {
+    margin-top: 0px;
+}
+
+div#c694839 {
+    border: 1px solid #e8e9ea;
+    padding: 2.18em;
+    margin-top: 2.18em;
+    background-color: #fff;
+}
+
+#c690882 .swiper-container .swiper-button-prev {
+   background-image:url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 20 48' enable-background='new 0 0 20 48' xml:space='preserve'%3E%3Cpath fill='white' d='M16.2,47.8c0.4,0,0.9-0.1,1.3-0.4c1.2-0.7,1.7-2.3,0.9-3.6L6.9,24L18.5,4.2c0.7-1.3,0.3-2.9-0.9-3.6 c-1.3-0.7-2.9-0.3-3.6,0.9L1.6,22.7c-0.5,0.8-0.5,1.8,0,2.7l12.4,21.1C14.4,47.3,15.3,47.8,16.2,47.8z'/%3E%3C/svg%3E");
+}
+
+#c690882 .swiper-container .swiper-button-next {
+   background-image:url("data:image/svg+xml,%3Csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 20 48' enable-background='new 0 0 20 48' xml:space='preserve'%3E%3Cpath fill='white' d='M3.8,47.8c-0.4,0-0.9-0.1-1.3-0.4c-1.2-0.7-1.7-2.3-0.9-3.6L13.1,24L1.5,4.2C0.8,2.9,1.2,1.3,2.5,0.6 c1.3-0.7,2.9-0.3,3.6,0.9l12.4,21.1c0.5,0.8,0.5,1.8,0,2.7L6.1,46.5C5.6,47.3,4.7,47.8,3.8,47.8z'/%3E%3C/svg%3E%0A");
+}
+
+#c690882 .swiper-button-next.swiper-button-disabled,
+#c690882 .swiper-button-prev.swiper-button-disabled {
+    opacity: .35;
+    cursor: auto;
+    pointer-events: none;
+}
+
+#c690882 .swiper-container .swiper-slide .swiper-caption .item-title,
+#c690882 .swiper-container .swiper-slide .swiper-caption .text-abstract {
+    padding: 0 30px;
+}
+
+#c690882 .swiper-container .swiper-slide .swiper-caption a {
+    color:#fff;
+}
+
+div#c690879 .row,
+div#c690878 .row,
+div#c690877 .row {
+   display:flex;
+}
+
+div#c690879 .row .col-md-4,
+div#c690878 .row .col-md-2,
+div#c690877 .row .col-md-2  {
+   flex:1;
+   background:#fff;
+   padding:0;
+   margin:0 15px 30px 15px;
+   border: 1px solid #e8e9ea;
+}
+
+div#c690879 .row .col-md-4 .white-box,
+div#c690878 .row .col-md-2 .white-box,
+div#c690877 .row .col-md-2 .white-box {
+   border:0;
+}
+
+div#c690879 .row .col-md-4 .white-box-text,
+div#c690878 .row .col-md-2 .white-box-text,
+div#c690877 .row .col-md-2 .white-box-text {
+   padding-bottom:0;
+}
+
+div#c690878 .row .col-md-2 .wb-media-feature {
+   min-height:0 !important;
+}
+
+.c-col #c690843 {
+   margin-top:30px;
+}
+
+#c659674 table.contenttable td {
+   text-align:center;
+   width:25%;
+   vertical-align:top;
+}
+
+#c659674 {
+   border-bottom:0 !important;
+}
+
+#c659674 table.contenttable p {
+   color:#0262a2;
+   margin:1.5em 2em;
+}
+
+.c-col .white-bg#c690844 {
+   display:flex;
+   border-top:0 !important;
+   padding:30px 2.18em;
+   width:100%;
+}
+
+div.activity {
+    text-align:center;
+    width:25%;
+    font-size:13px;
+}
+
+div.activity a {
+    background-color: #0d6cac;
+    border-color: #0d6cac;
+    color:#fff;
+    padding: 6px 15px;
+    font-size: 13px;
+    border-radius:25px;
+    margin-top:10px;
+    display:inline-block;
+}
+
+div.activity p {
+    font-size:12px;
+}
+
+#c690843 {
+   clear:both;
+}
+
+.white-box {
+    margin-top:0;
+}
+
+#c690812 {
+    padding: 20px 30px;
+    margin-top: 30px;
+    background-color: #d5e4ea;
+}
+
+#c690882 .swiper-container {
+    position: relative;
+    margin-bottom: 30px !important;
+}
+
+#c690882 .swiper-container .swiper-slide:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.7;
+    background: -moz-linear-gradient(left, black 0%, rgba(0, 0, 0, 0) 99%);
+    background: -webkit-linear-gradient(left, black 0%, rgba(0, 0, 0, 0) 99%);
+    background: linear-gradient(to right, black 0%, rgba(0, 0, 0, 0) 99%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=1 );
+}
+
+#c690882 .swiper-container .swiper-slide .swiper-caption {
+    position: relative;
+}
+
+#c690882 .swiper-container .swiper-slide .swiper-caption .item-text {
+    color:#fff;
+}
+
+#c690882 .swiper-container .swiper-slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+}
+
+#c659656 ul {
+    columns:2;
+}
+
+#c659656 ul li {
+    margin-bottom:1em;
+    margin-right:1em;
+}
+
+@media (max-width: 1200px) {
+div#c690878 .col-md-2,
+div#c690877 .col-md-2 {
+width:15%;
+}
+
+div#c690878 .col-md-2 .white-box-text,
+div#c690877 .col-md-2 .white-box-text {
+padding:10px;
+}
+
+.media-feature-wrapper .wb-media-feature {
+min-height:0 !important;
+}
+}
+
+@media (min-width: 768px) {
+
+#c690882 .swiper-container .swiper-slide .swiper-caption {
+    text-align: left;
+    width: calc(50% - 100px);
+    margin-left: 100px;
+}
+
+#c690882 .swiper-container .swiper-slide .swiper-caption .item-title h2 {
+    font-size: 28px;
+}
+
+}
+
+@media (max-width: 768px) {
+div#c690879 .row, 
+div#c690878 .row, 
+div#c690877 .row {
+        display:inline;
+        margin:0;
+}
+
+div.activity { 
+     width:50%;
+     padding-top:30px;
+     float:left;
+}
+
+.c-col .white-bg#c690844 {
+     padding-top:0;
+     display:inline-block;
+}
+
+div#c690879 .row .col-md-4, 
+div#c690878 .row .col-md-2, 
+div#c690877 .row .col-md-2 {
+    width:auto;
+    margin:0 0 30px 0;
+    padding:0 2.18em;
+}
+
+.row .col-md-2 .white-box-phot {
+display:none;
+}
+
+#c690882 .swiper-container .swiper-slide {
+text-align:center;
+}
+
+div#c690879 .row .col-md-4 .white-box-text, div#c690878 .row .col-md-2 .white-box-text, div#c690877 .row .col-md-2 .white-box-text {
+    padding: 30px 0 0 0;;
+}
+}
+
+@media (max-width: 500px) {
+#c659656 ul {
+    columns:1;
+}
+}
+
+@media (max-width: 576px) {
+.media-feature-wrapper .col-md-3  {
+   padding:0
+}
+
+.container .row {
+  margin:0;
+}
+
+header .container .row {
+  margin:0 -15px;
+}
+
+.col-md-9.c-col {
+  padding:0;
+}
+
+.col-md-3.r-col {
+  padding:0;
+}
+}
+
+</style></div></div><div class="col-md-3 r-col"><div id="c690822" class="csc-default" ><script>
+var videoUrl = "https://www.youtube.com/watch?v=cKL6Q0y3Cvc&feature=emb_title";
+var videoTitle = "Tracking progress on food and agriculture-related SDG indicators 2020";
+</script>
+
+<div class="card-box video">
+    <a class="video-link" href=""  target="_blank">
+        <div class="white-box wb-media-feature">
+            
+            <div class="white-box-photo hidden-xs hidden-sm">
+                
+            </div>
+            <button type="button" class="btn btn-primary btn-floating"><i class="material-icons">play_arrow</i></button>
+            <div class="white-box-text">
+                <h4>Video</h4>
+                <p class="video-title"></p>
+            </div>
+
+        </div>
+    </a>
+</div>
+
+<script>
+$(function(){
+    youTubeThumbnails(videoUrl);
+    $(".video-title").append(videoTitle);
+});
+function youTubeThumbnails(videoUrl) {
+    var youtubeVideoId = videoUrl.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
+    
+    if (youtubeVideoId.length == 11) {
+        // Video img
+        var video_thumbnail = $('<img src="//img.youtube.com/vi/'+youtubeVideoId+'/0.jpg" class="img-responsive video-img" />');
+        $(".white-box-photo").append(video_thumbnail);
+        
+        // Video URL
+        var videoUrl = "https://www.youtube.com/watch?v="+youtubeVideoId;
+        $(".video-link").attr("href", videoUrl);
+    } 
+}
+
+</script></div><div id="c694839" class="csc-default" ><div class="csc-header csc-header-n2"><h2>Meetings and Events</h2></div><p class="bodytext"><a href="https://fao.zoom.us/meeting/register/tJYtdOGgqjosG9ZIg8--ZjhqU5Dbn0Q4V6rd" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">How can we improve data gathering on antimicrobial usage at national level? Lessons from Uganda</a><br />Thursday 15 October 2020 | 11:00–12:00 Rome time</p></div><div class="csc-default white-bg" id="c690813"><a class="twitter-timeline" data-width="280" data-height="400" href="https://twitter.com/FAOstatistics?ref_src=twsrc%5Etfw">Tweets by FAOstatistics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><div id="c690812" class="csc-default" ><div class="csc-header csc-header-n4"><h2>Contacts</h2></div><p class="bodytext"><a href="/cdn-cgi/l/email-protection#7d3b3c32502e091c09140e09141e0e3d1b1c1253120f1a" class="mail"><span class="__cf_email__" data-cfemail="5315121c7e002732273a20273a30201335323c7d3c2134">[email&#160;protected]</span></a></p></div></div></div></div>
+
+<div id="c718359" class="csc-default" ><div id="wechat-modal" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="true" data-backdrop="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span aria-hidden="true">x</span></button>
+            <div class="modal-body"><img src="/fileadmin/templates/faohome/fao2019/src/images/Wechat_QR.jpg" alt=""></div>
+       </div>
+     </div>
+</div></div>
+
+    <!-- Footer -->
+
+    <footer>
+      <div class="container">
+         <div class="row">
+          <div class="col-xs-12 col-sm-7 d-block logo"><a href="/home/en/" ><img alt="Food and Agriculture Organization of the United Nations" title="Food and Agriculture Organization of the United Nations" src="/fileadmin/templates/faohome/fao2019/src/images/FAOSDG_white_EN.png" /></a></div>
+          <div class="col-xs-12 col-sm-5 join-us d-block"><div id="c710344" class="csc-default" ><h4 class="section-title">FOLLOW US ON</h4>
+
+<ul class="list-inline social-icons"> 
+<li class="list-inline-item"><a alt="facebook" title="facebook" target="_blank" href="http://www.facebook.com/pages/Food-and-Agriculture-Organization-of-the-United-Nations-FAO/46370758585?ref=mf"><i class="fa fa-facebook-square"></i></a> </li>
+<li class="list-inline-item"><a alt="Flickr" title="Flickr" target="_blank" href="https://www.flickr.com/photos/faonews/albums/"><i class="fa fa-flickr"></i></a> </li> 
+<li class="list-inline-item"><a alt="Instagram" title="Instagram" target="_blank" href="https://instagram.com/fao"><i class="fa fa-instagram"></i></a> </li> 
+<li class="list-inline-item"><a alt="LinkedIn" title="LinkedIn" target="_blank" href="http://www.linkedin.com/company/fao"><i class="fa fa-linkedin-square"></i></a> </li> 
+<li class="list-inline-item"><a alt="RSS" title="RSS" target="_blank" href="news/rss/en/"><i class="fa fa-rss-square"></i></a> </li> 
+<li class="list-inline-item"><a alt="SlideShare" title="SlideShare" target="_blank" href="http://www.slideshare.net/FAOoftheUN"><i class="fa fa-slideshare"></i></a> </li> 
+<li class="list-inline-item"><a alt="SoundCloud" title="SoundCloud" target="_blank" href="https://soundcloud.com/unfao"><i class="fa fa-soundcloud"></i></a> </li> 
+<li class="list-inline-item"><a class="tiktok" alt="TikTok" title="TikTok" target="_blank" href="https://www.tiktok.com/@fao"></a> </li> 
+<li class="list-inline-item"><a alt="Twitter" title="Twitter" target="_blank" href="https://twitter.com/FAO"><i class="fa fa-twitter-square"></i></a> </li> 
+<li class="list-inline-item"><span style="cursor:pointer;"><a alt="WeChat" title="WeChat" data-toggle="modal" data-target="#wechat-modal"> <i class="fa fa-wechat"></i> </a></span></li> 
+<li class="list-inline-item"><a alt="Weibo" title="Weibo" target="_blank" href="http://www.weibo.com/unfao?from=myfollow_all"> <i class="fa fa-weibo"></i></a></li> 
+<li class="list-inline-item"><a alt="YouTube" title="YouTube" target="_blank" href="http://www.youtube.com/user/FAOoftheUN"><i class="fa fa-youtube-play"></i></a></li>
+</ul></div></div>
+        </div>
+
+         <div class="row">
+           <div class="col-xs-12 col-sm-7 links"><div id="c715343" class="csc-default" ><div class="tx-jfmulticontent-pi1">
+		
+<div class="subcolumns equalize">
+	
+	<div class="c50l"><div class="subcl"><div id="c765609" class="csc-default" ><div class="csc-header csc-header-n1"><h5 class="csc-firstHeader"><a href="http://www.fao.org/about/org-chart/en/" target="_top" >FAO organizational chart</a></h5></div></div></div></div>
+	
+	<div class="c50l"><div class="subc"><div id="c715342" class="csc-default" ><div class="tx-dynalist-pi1">
+		<div class="btn-group dropup">
+<button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Worldwide Offices</button>
+<div class="dropdown-menu"><a href="http://www.fao.org/africa/en/" class="dropdown-item" id="m_100835">Regional Office for Africa</a><a href="http://www.fao.org/asiapacific/en/" class="dropdown-item" id="m_100837">Regional Office for Asia and the Pacific</a><a href="http://www.fao.org/europe/en/" class="dropdown-item" id="m_100838">Regional Office for Europe and Central Asia</a><a href="http://www.fao.org/americas/en/" class="dropdown-item" id="m_100839">Regional Office for Latin America and the Caribbean</a><a href="http://www.fao.org/neareast/en/" class="dropdown-item" id="m_100840">Regional Office for the Near East and North Africa</a><a href="http://www.fao.org/about/who-we-are/worldwide-offices/en/#c207632" class="dropdown-item" id="m_100841">Country Offices</a></div>
+</div>
+	</div>
+	</div></div></div>
+	
+	<div ><div class="subcr"></div></div>
+	
+</div>
+
+	</div>
+	</div><div id="c711176" class="csc-default" ><ul><li><a href="/employment/home/en/" target="_top" >Jobs</a></li><li><a href="http://fao.org/contact-us/en/" target="_top" >Contact us</a></li><li><a href="http://fao.org/contact-us/terms/en/" target="_top" >Terms and Conditions</a></li><li><a href="http://fao.org/contact-us/scam-alert/en/" target="_top" >Scam Alert</a></li><li><a href="http://fao.org/contact-us/report-fraud/en/" target="_top" >Report Misconduct</a></li></ul></div></div>
+           <div class="col-xs-12 col-sm-5 d-block store-box-container"><div id="c711175" class="csc-default" ><h4 class="section-title">Download our App</h4>
+
+<ul class="list-inline">
+    <li class="list-inline-item">
+        <a href="http://itunes.apple.com/us/app/faonow/id877618174?ls=1&amp;mt=8" target="_blank">
+            <div class="store-box apple"></div>
+        </a>
+    </li>
+    <li class="list-inline-item">
+        <a href="https://play.google.com/store/apps/details?id=org.fao.mobile" target="_blank">
+            <div class="store-box google"></div>
+        </a>
+    </li>
+</ul></div><a href="/contact-us/terms/en/" ><div class="copyright">© FAO&nbsp;2020</div></a></div>
+        </div> 
+      </div>
+    </footer>
+  
+<div id="c245966" class="csc-default" ><!-- Google Analytics -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
+
+  _gaTracker('create', 'UA-5482767-1', 'fao.org');
+  _gaTracker('send', 'pageview');
+
+  _gaTracker('create', 'UA-16796074-1', {'name':'allTracker'});
+  _gaTracker('allTracker.send', 'pageview');
+
+  _gaTracker('create', 'UA-16957552-1', {'name':'allSites'});
+  _gaTracker('allSites.send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+<!-- Google Events Trackers -->
+  <script>
+    $(document).ready(function() {
+      $('.carousel-caption').on('click', function() { 
+        var title='Main Slider - '+$(this).find('h3').text();
+        var href=$(this).find('a').attr('href');
+       // console.log(href);
+        _gaTracker('send', 'event', {
+          eventCategory: title,
+          eventAction: 'click',
+          eventLabel: href,
+          transport: 'beacon'
+        });
+      }); 
+     
+    
+      $('a').not('[href$=".pdf"]').on('click', function() { 
+        _gaTracker('send', 'event', this.href, 'click', $(this).text());  
+        _gaTracker('allTracker.send', 'event', this.href, 'click', $(this).text()); 
+        _gaTracker('allSites.send', 'event', this.href, 'click', $(this).text());         
+      });    
+      $('a[href$=".pdf"]').on('click', function() { 
+        _gaTracker('send', 'event', this.href, 'pdf', $(this).text());  
+        _gaTracker('allTracker.send', 'event', this.href, 'pdf', $(this).text()); 
+        _gaTracker('allSites.send', 'event', this.href, 'pdf', $(this).text());         
+      }); 
+      $('.social-column').find('a').each(function(){
+        $(this).on('click', function() { 
+          _gaTracker('send', 'event', this.href, 'click-social', 'social-footer');  
+          _gaTracker('allTracker.send', 'event', this.href, 'click-social', 'social-footer'); 
+          _gaTracker('allSites.send', 'event', this.href, 'click-social', 'social-footer');   
+        });  
+      });  
+    
+      //*****************************************************************
+      //     This script is used and customized to measure the page scroll / interaction with Google Universal Analytics.
+      //*****************************************************************
+      /** Predefined variables **/
+      EventNONInteraction = false; // This variable determines the event will be a noninertact event or not
+      Frequency = 10; // This variable determines the Frequency the event will be fired, MAKE SURE THE NUMBER ENTERED CAN BE DIVIDED BY 100 (10 means each 10 precent the event will fire)
+      
+      GA_EventCategory = 'Page Interaction'; // Google Analytics event category
+      GA_EventAction = 'Scroll Down'; // Google Analytics event action.
+      
+      /************ DON'T EDIT BELOW THIS PART ************/
+      _frequency = Frequency;
+      _repentance = 100 / Frequency;
+      var _scrollMatrix = new Array();
+      for (ix = 0; ix < _repentance; ix++) {
+        _scrollMatrix[ix] = [_frequency, 'false'];
+        _frequency = Frequency + _frequency;
+      }
+      $(document).scroll(function (e) {
+        for (iz = 0; iz < _scrollMatrix.length; iz++) {
+          if (($(window).scrollTop() + $(window).height() >= $(document).height() * _scrollMatrix[iz][0] / 100) && (_scrollMatrix[iz][1] == 'false')) {
+            _scrollMatrix[iz][1] = 'true';
+            _gaTracker('send', 'event', GA_EventCategory, GA_EventAction, _scrollMatrix[iz][0] + '%', {'nonInteraction': 1});
+          }
+        }
+      });
+
+    });
+  </script>
+ <!-- Google Events Trackers -->
+
+</div>
+
+<!-- End Google Analytics -->
+
+
+
+<script>
+  $(function(){
+    $("#c659693").addClass("col-md-12");
+    $("#c659687").addClass("col-md-12");
+  });
+  </script>  <script src="/fileadmin/templates/faohome/fao2019/src/js/topmenu-navigation.js"></script>
+
+</body>
+</html>

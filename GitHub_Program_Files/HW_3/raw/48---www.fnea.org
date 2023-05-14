@@ -1,0 +1,1910 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+		
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Accueil - FNEA</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.fnea.org/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Accueil - FNEA" />
+	<meta property="og:description" content="Accueil Qui sommes-nous ? LA FNEA Les membres BN 2020-2021 Formation Les Guides Métier et Formation Les Ecoles Bordeaux Cahors Evreux Fougères Lille Lyon Montpellier Nancy Paris Événement Les Évènements Étudiants Les Évènements Professionnels Le Congrès Enseignement Post-Universitaire Les Assises de Nice Colloque AFREPA Congrès SFA Prévention PAAIG L’Audition au Cœur de la Prévention Mobilisation [&hellip;]" />
+	<meta property="og:url" content="https://www.fnea.org/" />
+	<meta property="og:site_name" content="FNEA" />
+	<meta property="article:publisher" content="https://fr-fr.facebook.com/fneaaudio/" />
+	<meta property="article:modified_time" content="2020-10-13T14:55:36+00:00" />
+	<meta property="og:image" content="https://www.fnea.org/wp-content/uploads/2020/05/Bande.gif" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.fnea.org/#organization","name":"F\u00e9d\u00e9ration Nationale des \u00e9tudiants en \u00e9cole d'audioproth\u00e8se","url":"https://www.fnea.org/","sameAs":["https://fr-fr.facebook.com/fneaaudio/","https://www.instagram.com/fnea_audio/"],"logo":{"@type":"ImageObject","@id":"https://www.fnea.org/#logo","inLanguage":"fr-FR","url":"https://www.fnea.org/wp-content/uploads/2020/05/FNEA-Logo-rond.png","width":1501,"height":2100,"caption":"F\u00e9d\u00e9ration Nationale des \u00e9tudiants en \u00e9cole d'audioproth\u00e8se"},"image":{"@id":"https://www.fnea.org/#logo"}},{"@type":"WebSite","@id":"https://www.fnea.org/#website","url":"https://www.fnea.org/","name":"FNEA","description":"L&#039;Entente \u00c9tudiante !","publisher":{"@id":"https://www.fnea.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.fnea.org/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"ImageObject","@id":"https://www.fnea.org/#primaryimage","inLanguage":"fr-FR","url":"https://www.fnea.org/wp-content/uploads/2020/05/Bande.gif","width":2200,"height":400},{"@type":"WebPage","@id":"https://www.fnea.org/#webpage","url":"https://www.fnea.org/","name":"Accueil - FNEA","isPartOf":{"@id":"https://www.fnea.org/#website"},"about":{"@id":"https://www.fnea.org/#organization"},"primaryImageOfPage":{"@id":"https://www.fnea.org/#primaryimage"},"datePublished":"2020-05-09T14:55:44+00:00","dateModified":"2020-10-13T14:55:36+00:00","inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.fnea.org/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fnea.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="FNEA &raquo; Flux" href="https://www.fnea.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FNEA &raquo; Flux des commentaires" href="https://www.fnea.org/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.fnea.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//fnea.org/wp-content/plugins/all-in-one-event-calendar/public/themes-ai1ec/gamma/css/ai1ec_parsed_css.css?ver=2.6.7' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.fnea.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-fileuploader-animation-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/css/loading-animation.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-fileuploader-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/css/fileuploader.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-jquery-ui-style-css'  href='//ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-tagit-styles-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/css/jquery.tagit.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-tagit-ui-styles-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/css/tagit.ui-zendesk.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='ap-front-styles-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/css/frontend-style.css?ver=3.2.8' media='all' />
+<link rel='stylesheet' id='ap-lightbox-css-css'  href='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/lightbox/css/lightbox.css?ver=3.2.8' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.fnea.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' media='all' />
+<link rel='stylesheet' id='wonderplugin-carousel-engine-css-css'  href='https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselengine.css?ver=17.5C' media='all' />
+<link rel='stylesheet' id='wpmfAddonFrontStyle-css'  href='https://www.fnea.org/wp-content/plugins/wp-media-folder-addon//assets/css/front.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='cb70d11b8-css'  href='https://www.fnea.org/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1602700046' media='all' />
+<link rel='stylesheet' id='happy-icons-css'  href='https://www.fnea.org/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=2.13.3' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.6' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.6' media='all' />
+<link rel='stylesheet' id='happy-elementor-addons-5783-css'  href='https://www.fnea.org/wp-content/uploads/happyaddons/cache/happy-5783.css?ver=2.13.3.1602608136' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css'  href='https://www.fnea.org/wp-content/themes/twentytwenty/style.css?ver=1.5' media='all' />
+<style id='twentytwenty-style-inline-css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #cd2653; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #cd2653; }button,.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #cd2653; }.fill-children-accent,.fill-children-accent * { fill: #cd2653; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dcd7ca; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dcd7ca; }.wp-block-table.is-style-stripes { border-bottom-color: #dcd7ca; }.wp-block-latest-posts.is-grid li { border-top-color: #dcd7ca; }:root .has-subtle-background-color { color: #dcd7ca; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #cd2653; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #cd2653; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dcd7ca; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dcd7ca; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css'  href='https://www.fnea.org/wp-content/themes/twentytwenty/print.css?ver=1.5' media='print' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.6' media='all' />
+<link rel='stylesheet' id='elementor-post-5793-css'  href='https://www.fnea.org/wp-content/uploads/elementor/css/post-5793.css?ver=1600187741' media='all' />
+<link rel='stylesheet' id='happy-elementor-addons-5793-css'  href='https://www.fnea.org/wp-content/uploads/happyaddons/cache/happy-5793.css?ver=2.13.3.1602608136' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://www.fnea.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.4' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1602700046' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1602700046' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.fnea.org/wp-content/uploads/elementor/css/global.css?ver=1600187742' media='all' />
+<link rel='stylesheet' id='elementor-post-5783-css'  href='https://www.fnea.org/wp-content/uploads/elementor/css/post-5783.css?ver=1602601053' media='all' />
+<link rel='stylesheet' id='elementor-post-6339-css'  href='https://www.fnea.org/wp-content/uploads/elementor/css/post-6339.css?ver=1600187742' media='all' />
+<link rel='stylesheet' id='happy-elementor-addons-6339-css'  href='https://www.fnea.org/wp-content/uploads/happyaddons/cache/happy-6339.css?ver=2.13.3.1602608136' media='all' />
+<link rel='stylesheet' id='elementor-post-6335-css'  href='https://www.fnea.org/wp-content/uploads/elementor/css/post-6335.css?ver=1600187742' media='all' />
+<link rel='stylesheet' id='happy-elementor-addons-6335-css'  href='https://www.fnea.org/wp-content/uploads/happyaddons/cache/happy-6335.css?ver=2.13.3.1602608136' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.1.9' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDidact+Gothic%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<script src='https://www.fnea.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script src='//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=5.5.1' id='ap-jquery-ui-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/js/tag-it.js?ver=3.2.8' id='ap-tagit-js-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/js/tag-it-custom.js?ver=3.2.8' id='ap-tagit-custom-js-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/js/fileuploader.js?ver=5.5.1' id='ap-fileuploader-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/lightbox/js/lightbox.js?ver=3.2.8' id='ap-lightbox-js-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"dd\/mm\/yy","firstDay":1,"isRTL":false});});
+</script>
+<script id='ap-frontend-js-js-extra'>
+var ap_fileuploader = {"upload_url":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"fc04e58f26"};
+var ap_form_required_message = "This field is required";
+var ap_captcha_error_message = "Sum is not correct.";
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/accesspress-anonymous-post-pro/js/frontend.js?ver=3.2.8' id='ap-frontend-js-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js?ver=17.5C' id='wonderplugin-carousel-skins-script-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js?ver=17.5C' id='wonderplugin-carousel-script-js'></script>
+<script src='https://www.fnea.org/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.5' id='twentytwenty-js-js' async></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1602700046' id='font-awesome-4-shim-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.1.9' id='um-gdpr-js'></script>
+<link rel="https://api.w.org/" href="https://www.fnea.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.fnea.org/wp-json/wp/v2/pages/5783" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fnea.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fnea.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://www.fnea.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.fnea.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fnea.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.fnea.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fnea.org%2F&#038;format=xml" />
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+		<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://www.fnea.org/wp-content/uploads/2018/11/cropped-Icone-FNEA-Carre-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.fnea.org/wp-content/uploads/2018/11/cropped-Icone-FNEA-Carre-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.fnea.org/wp-content/uploads/2018/11/cropped-Icone-FNEA-Carre-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.fnea.org/wp-content/uploads/2018/11/cropped-Icone-FNEA-Carre-270x270.png" />
+<style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+</style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body data-rsssl=1 class="home page-template page-template-elementor_canvas page page-id-5783 wp-embed-responsive singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars elementor_canvas footer-top-visible elementor-default elementor-template-canvas elementor-kit-5793 elementor-page elementor-page-5783">
+	<a class="skip-link screen-reader-text" href="#site-content">Aller au contenu</a>		<div data-elementor-type="wp-page" data-elementor-id="5783" class="elementor elementor-5783" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-122cb0ac elementor-section-full_width elementor-hidden-phone elementor-section-height-default elementor-section-height-default" data-id="122cb0ac" data-element_type="section" id="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-66834a0a" data-id="66834a0a" data-element_type="column" id="nav-sidebar" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-31f58f2e elementor-search-form--skin-minimal elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-search-form" data-id="31f58f2e" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;minimal&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://www.fnea.org" method="get">
+									<div class="elementor-search-form__container">
+									<div class="elementor-search-form__icon">
+						<i class="fa fa-search" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Rechercher </span>
+					</div>
+								<input placeholder="Rechercher ..." class="elementor-search-form__input" type="search" name="s" title="Rechercher " value="">
+															</div>
+		</form>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5db65c04 elementor-widget elementor-widget-eael-advanced-menu" data-id="5db65c04" data-element_type="widget" id="menu" data-widget_type="eael-advanced-menu.skin-three">
+				<div class="elementor-widget-container">
+			<div class="eael-advanced-menu-container eael-advanced-menu-align-left eael-advanced-menu-dropdown-align-left" data-indicator-class="fas fa-angle-down fa-solid" data-dropdown-indicator-class="fas fa-angle-down fa-solid"><ul id="menu-menu-nv-site" class="eael-advanced-menu eael-advanced-menu-dropdown-animate-to-top eael-advanced-menu-indicator eael-advanced-menu-vertical"><li id="menu-item-5602" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-5602"><a href="https://www.fnea.org" aria-current="page">Accueil</a></li>
+<li id="menu-item-5603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5603"><a href="#">Qui sommes-nous ?</a>
+<ul class="sub-menu">
+	<li id="menu-item-5604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5604"><a href="https://www.fnea.org/fnea/">LA FNEA</a></li>
+	<li id="menu-item-7957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7957"><a href="#">Les membres</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7740"><a href="https://www.fnea.org/bn-2020-2021/">BN 2020-2021</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5612"><a href="#">Formation</a>
+<ul class="sub-menu">
+	<li id="menu-item-5654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="https://www.fnea.org/guides/">Les Guides</a></li>
+	<li id="menu-item-5631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5631"><a href="https://www.fnea.org/formation/">Métier et Formation</a></li>
+	<li id="menu-item-5632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5632"><a href="https://www.fnea.org/les-associations/">Les Ecoles</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5633"><a href="https://www.fnea.org/abea-bordeaux/">Bordeaux</a></li>
+		<li id="menu-item-6973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6973"><a href="https://www.fnea.org/cahors/">Cahors</a></li>
+		<li id="menu-item-5646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5646"><a href="https://www.fnea.org/evreux/">Evreux</a></li>
+		<li id="menu-item-5635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5635"><a href="https://www.fnea.org/adeaf-fougeres/">Fougères</a></li>
+		<li id="menu-item-5645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5645"><a href="https://www.fnea.org/lille/">Lille</a></li>
+		<li id="menu-item-5636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5636"><a href="https://www.fnea.org/ageal-lyon/">Lyon</a></li>
+		<li id="menu-item-5637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5637"><a href="https://www.fnea.org/louis-fine-et-daisy-bel-montpellier/">Montpellier</a></li>
+		<li id="menu-item-5638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5638"><a href="https://www.fnea.org/adena-nancy/">Nancy</a></li>
+		<li id="menu-item-5639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5639"><a href="https://www.fnea.org/aeap-paris/">Paris</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5611"><a href="#">Événement</a>
+<ul class="sub-menu">
+	<li id="menu-item-5624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5624"><a href="https://www.fnea.org/les-evenements/">Les Évènements Étudiants</a></li>
+	<li id="menu-item-5625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5625"><a href="https://www.fnea.org/les-congres/">Les Évènements Professionnels</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5626"><a href="https://www.fnea.org/le-congres/">Le Congrès</a></li>
+		<li id="menu-item-5627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5627"><a href="https://www.fnea.org/enseignements-post-universitaires/">Enseignement Post-Universitaire</a></li>
+		<li id="menu-item-5628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5628"><a href="https://www.fnea.org/les-assises-de-nice/">Les Assises de Nice</a></li>
+		<li id="menu-item-5629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629"><a href="https://www.fnea.org/colloque-afrepa/">Colloque AFREPA</a></li>
+		<li id="menu-item-5630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5630"><a href="https://www.fnea.org/congres-sfa/">Congrès SFA</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5610"><a href="#">Prévention</a>
+<ul class="sub-menu">
+	<li id="menu-item-5619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5619"><a href="https://www.fnea.org/paaig/">PAAIG</a></li>
+	<li id="menu-item-5622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5622"><a href="https://www.fnea.org/prevention-auditive/">L’Audition au Cœur de la Prévention</a></li>
+	<li id="menu-item-5623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5623"><a href="https://www.fnea.org/associations/">Mobilisation pour la Santé</a></li>
+</ul>
+</li>
+<li id="menu-item-5613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5613"><a href="#">Organisations</a>
+<ul class="sub-menu">
+	<li id="menu-item-5647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5647"><a href="https://www.fnea.org/unsaf/">SDA</a></li>
+	<li id="menu-item-5648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5648"><a href="https://www.fnea.org/synea/">SYNEA</a></li>
+	<li id="menu-item-5649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5649"><a href="https://www.fnea.org/cna/">CNA</a></li>
+	<li id="menu-item-5652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5652"><a href="https://www.fnea.org/fage/">FAGE</a></li>
+	<li id="menu-item-5653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5653"><a href="https://www.fnea.org/snitem/">SNITEM</a></li>
+</ul>
+</li>
+<li id="menu-item-5609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5609"><a href="#">Presse</a>
+<ul class="sub-menu">
+	<li id="menu-item-7619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7619"><a href="https://www.fnea.org/cdp-fnea/">Communiqués De Presse FNEA</a></li>
+	<li id="menu-item-5617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5617"><a href="https://www.fnea.org/larsen/">Le LARSEN</a></li>
+</ul>
+</li>
+<li id="menu-item-5614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5614"><a href="https://www.fnea.org/partenaires-3/">Partenaires</a></li>
+<li id="menu-item-6515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6515"><a href="https://www.fnea.org/annonces/">Annonces</a></li>
+</ul></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9476db2 elementor-widget elementor-widget-text-editor" data-id="9476db2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><table class="wp-list-table widefat fixed striped posts"><tbody id="the-list"><tr id="post-6167" class="iedit author-self level-0 post-6167 type-um_form status-publish hentry"><td class="shortcode column-shortcode" data-colname="Shortcode">
+<div class="um um-login um-6167">
+
+	<div class="um-form">
+
+		<form method="post" action="" autocomplete="off">
+
+			<div class="um-row _um_row_1 " style="margin: 0 0 30px 0;"><div class="um-col-1"><div  id="um_field_6167_username" class="um-field um-field-text  um-field-username um-field-text um-field-type_text" data-key="username"><div class="um-field-area"><input  autocomplete="off" class="um-form-field valid " type="text" name="username-6167" id="username-6167" value="" placeholder="Identifiant ou e-mail" data-validate="unique_username_or_email" data-key="username" />
+
+						</div></div><div  id="um_field_6167_user_password" class="um-field um-field-password  um-field-user_password um-field-password um-field-type_password" data-key="user_password"><div class="um-field-area"><input class="um-form-field valid " type="password" name="user_password-6167" id="user_password-6167" value="" placeholder="Mot de passe" data-validate="" data-key="user_password" />
+
+						</div></div></div></div>		<input type="hidden" name="form_id" id="form_id_6167" value="6167" />
+	
+	<input type="hidden" name="timestamp" class="um_timestamp" value="1602707247" />
+
+	<p class="um_request_name">
+		<label for="um_request_6167">Only fill in if you are not human</label>
+		<input type="hidden" name="um_request" id="um_request_6167" class="input" value="" size="25" autocomplete="off" />
+	</p>
+
+	<input type="hidden" id="_wpnonce" name="_wpnonce" value="2460772388" /><input type="hidden" name="_wp_http_referer" value="/" />
+	<div class="um-col-alt">
+
+		
+
+			<div class="um-field um-field-c">
+				<div class="um-field-area">
+					<label class="um-field-checkbox ">
+						<input type="checkbox" name="rememberme" value="1"  />
+						<span class="um-field-checkbox-state"><i class="um-icon-android-checkbox-outline-blank"></i></span>
+						<span class="um-field-checkbox-option"> Se souvenir de moi</span>
+					</label>
+				</div>
+			</div>
+
+						<div class="um-clear"></div>
+		
+			<div class="um-left um-half">
+				<input type="submit" value="Connexion" class="um-button" id="um-submit-btn" />
+			</div>
+			<div class="um-right um-half">
+				<a href="https://www.fnea.org/register-3/" class="um-button um-alt">
+					Inscription				</a>
+			</div>
+
+		
+		<div class="um-clear"></div>
+
+	</div>
+
+	
+	<div class="um-col-alt-b">
+		<a href="https://www.fnea.org/password-reset/" class="um-link-alt">
+			Mot de passe oublié ?		</a>
+	</div>
+
+	
+		</form>
+
+	</div>
+
+</div><style type="text/css">
+.um-6167.um {
+	max-width: 450px;
+}</style>
+</td></tr></tbody></table></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-26c42f1f elementor-hidden-phone" data-id="26c42f1f" data-element_type="column" id="content">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-747f5b3c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="747f5b3c" data-element_type="section" data-settings="{&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;,&quot;shape_divider_bottom&quot;:&quot;triangle-asymmetrical&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M737.9,94.7L0,0v100h1000V0L737.9,94.7z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1174e57d" data-id="1174e57d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-58b6ef95 elementor-widget elementor-widget-image" data-id="58b6ef95" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="2200" height="400" src="https://www.fnea.org/wp-content/uploads/2020/05/Bande.gif" class="attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-521b50f7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="521b50f7" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;triangle-asymmetrical&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M737.9,94.7L0,0v100h1000V0L737.9,94.7z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3bc8595b" data-id="3bc8595b" data-element_type="column" id="fnea" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3c50ee7f elementor-widget elementor-widget-eael-fancy-text" data-id="3c50ee7f" data-element_type="widget" data-widget_type="eael-fancy-text.default">
+				<div class="elementor-widget-container">
+			
+	<div  class="eael-fancy-text-container style-1" data-fancy-text-id="3c50ee7f" data-fancy-text="|c&#039;est quoi ?" data-fancy-text-transition-type="typing" data-fancy-text-speed="50" data-fancy-text-delay="2500" data-fancy-text-cursor="yes" data-fancy-text-loop="yes" >
+					<span class="eael-fancy-text-prefix">La FNEA  </span>
+		
+		
+					<span id="eael-fancy-text-3c50ee7f" class="eael-fancy-text-strings">
+				<noscript>
+					c'est quoi ?				</noscript>
+			</span>
+		
+			</div><!-- close .eael-fancy-text-container -->
+
+	<div class="clearfix"></div>
+
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5edd6413" data-id="5edd6413" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6e2a3d54 elementor-widget elementor-widget-text-editor" data-id="6e2a3d54" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><span style="font-size: 0.7vw;">La <strong>F</strong>édération <strong>N</strong>ationale des <strong>E</strong>tudiants en <strong>A</strong>udioprothèse <em><strong>(FNEA)</strong></em> est une <strong>Association Etudiante</strong> de Loi 1901 rassemblant <strong>l’ensemble des étudiants de France en préparation au Diplôme d’Etat d’Audioprothésiste</strong>.</span></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-49a1a56d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="49a1a56d" data-element_type="section" id="corps">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-76706ba" data-id="76706ba" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-29ac923a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="29ac923a" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-446665f1" data-id="446665f1" data-element_type="column" id="colonne-article1">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-50b71f3f" data-id="50b71f3f" data-element_type="column" id="article" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6b49a73 elementor-widget elementor-widget-text-editor" data-id="6b49a73" data-element_type="widget" id="article" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><div class="wondercarousellightbox_options" data-skinsfoldername=""  data-jsfolder="https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/" style="display:none;"></div>
+<div class="wonderplugincarousel-container" id="wonderplugincarousel-container-1" style="padding: 20px 0px 0px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-1" data-carouselid="1" data-width="450" data-height="225" data-skin="tworows" data-donotzoomin="true" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="false" data-fixaspectratio="true" data-autoplay="false" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="true" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="true" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="true" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="10" data-rownumber="2" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-48-48-1.png" data-arrowwidth="48" data-arrowheight="48" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="2000" data-sameheightmediumheight="100" data-sameheightsmallscreen="415" data-sameheightsmallheight="50" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1350px;" ><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/09/journee-mondiale-lsf/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/09/Capture-decran-2020-09-23-a-19.26.44.png" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/contournement-du-numerus-clausus-la-fnea-et-les-autres-formations-paramedicales-salarment/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/Contournement-du-numerus-clausus-la-FNEA-et-les-autres-formations-paramedicales-salarment.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/contribution-grand-age-et-perte-dautonomie-noublions-pas-le-deficit-auditif/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/Contribution-grand-age-et-perte-dautonomie-noublions-pas-le-deficit-auditif.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/cout-de-la-rentree-2019/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/cout-de-la-rentrée-2019.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/nouveau-bureau-pour-lannee-2020-2021/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/bn-2020-2021-4-scaled-e1599326927973.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/05/information-sur-le-site/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/05/under-maintenance-scaled.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/02/communique-de-presse/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/02/CDP-FNEA-1-copie.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/01/devenir-audioprothesiste-par-thotis-sante/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/01/tanguy-thotis.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2019/11/larsen-13/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2019/11/larsen-13.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2019/11/resume-du-week-end-de-formation/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2019/11/wef2019resume.png" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div></div></div><script>function wondercarousel_1_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_1_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-1 .amazingcarousel-image {	 	position: relative; 	padding: 0px; 	background-color: #000000; 	-moz-box-shadow:  0 0px 0px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 px 0px rgba(0, 0, 0, 0.2); 	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-1 .amazingcarousel-image img { 	display: block; 	width: 50%; 	max-width: 50%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-1 .amazingcarousel-title { 	position:relative; 	font: bold 15px \"Open Sans\", sans-serif; 	color:#AB0C0C; 	margin:10px; 	text-align:left; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-1 .amazingcarousel-description { 	position:relative; 	font: 12px \"Open Sans\", sans-serif; 	color:#333333; 	margin:6px; 	text-align:left; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-1 .amazingcarousel-list-container {  	padding: 4px 0; }  #wonderplugincarousel-1 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-1 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-1 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-1 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-1 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-1 .star-rating { 	display: inline-block; }");</script></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4b9f7f99" data-id="4b9f7f99" data-element_type="column" id="colonne-article1">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-3faf9e3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3faf9e3" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f885fa9" data-id="f885fa9" data-element_type="column" id="colonne-article1">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1c52abb" data-id="1c52abb" data-element_type="column" id="article" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-022079b elementor-widget elementor-widget-heading" data-id="022079b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos derniers articles</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f3a85bd" data-id="f3a85bd" data-element_type="column" id="colonne-article1">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-6de37a72 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6de37a72" data-element_type="section" id="corps">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-22e3e1f7" data-id="22e3e1f7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6c54d54e elementor-widget elementor-widget-spacer" data-id="6c54d54e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-1f27aec2 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1f27aec2" data-element_type="section" id="corps">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3665a1f" data-id="3665a1f" data-element_type="column" id="colonne-article">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a413a62" data-id="a413a62" data-element_type="column" id="article2">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-3814c680 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3814c680" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-25555904" data-id="25555904" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8d051f1 eael-post-list-col-1 elementor-widget elementor-widget-eael-post-list" data-id="8d051f1" data-element_type="widget" id="post" data-widget_type="eael-post-list.default">
+				<div class="elementor-widget-container">
+			<div class="eael-post-list-container layout-default"><div class="eael-post-list-wrap eael-post-appender eael-post-appender-8d051f1">
+                <div class="eael-post-list-posts-wrap"><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/10/week-end-de-formation-2019/">Week-End de Formation 2019</a></h2><div class="meta">
+                                        <span>21/10/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/04/resultats-de-lenquete-demographique/">Résultats de l&#8217;Enquête Démographique</a></h2><div class="meta">
+                                        <span>11/04/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/03/la-douzieme-edition-du-larsen/">La douzième édition du Larsen !</a></h2><div class="meta">
+                                        <span>22/03/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/12/la-deuxieme-enquete-demographique-de-la-fnea-presentee-a-lepu/">La deuxième enquête démographique de la FNEA présentée à l&#8217;EPU</a></h2><div class="meta">
+                                        <span>01/12/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/le-larsen-11-enfin-disponible/">Le Larsen #11 enfin disponible</a></h2><div class="meta">
+                                        <span>30/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/soiree-epu-2018/">Soirée EPU 2018</a></h2><div class="meta">
+                                        <span>16/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/congres-hope-reporte-en-2019-rebondir-pour-aller-plus-haut/">Congrès HOPE reporté en 2019 : Rebondir pour aller plus haut</a></h2><div class="meta">
+                                        <span>15/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/la-deuxieme-enquete-demographique/">La deuxième enquête démographique de la FNEA est lancée</a></h2><div class="meta">
+                                        <span>12/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/la-fnea-met-en-place-une-enquete-demographique/">La FNEA met en place une enquête démographique. Ne remettons pas à demain ce qui doit être fait aujourd&#8217;hui.</a></h2><div class="meta">
+                                        <span>05/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/08/la-passation-2018/">La Passation 2018</a></h2><div class="meta">
+                                        <span>29/08/2018</span>
+                                    </div></div></div></div>
+            </div>
+		</div><div class="post-list-pagination" data-widget="8d051f1" data-class="Essential_Addons_Elementor\Pro\Elements\Post_List" data-args="orderby=date&order=desc&ignore_sticky_posts=1&post_status=publish&posts_per_page=10&offset=10&post_type=post" data-settings="eael_post_list_post_feature_image=&eael_post_list_post_meta=yes&eael_post_list_post_title=yes&eael_post_list_post_excerpt=&eael_post_list_featured_area=&eael_post_list_pagination=yes&eael_post_list_layout_type=default&eael_post_list_title_tag=h2" data-page="1">
+                <button class="btn btn-prev-post" id="post-nav-prev-8d051f1" disabled="true">
+                    <span class="fas fa-chevron-left"></span>
+                </button>
+                <button class="btn btn-next-post" id="post-nav-next-8d051f1">
+                    <span class="fas fa-chevron-right"></span>
+                </button>
+			</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-45efa4b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45efa4b6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-717ea06c" data-id="717ea06c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-84f3e8e elementor-widget elementor-widget-heading" data-id="84f3e8e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos anciennes parutions</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-460e2a8c" data-id="460e2a8c" data-element_type="column" id="article3" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-df63977 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df63977" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-228692a" data-id="228692a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f9308e7 elementor-widget elementor-widget-heading" data-id="f9308e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Médias</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-a38f0e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a38f0e6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-769eb98" data-id="769eb98" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1239ea25 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="1239ea25" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/92VMHDFaD4I?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-0496e74 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0496e74" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-940eba1" data-id="940eba1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-341cc1a2 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="341cc1a2" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/ZZQj_h_1xTM?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f35e52 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="1f35e52" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://www.fnea.org/wp-content/uploads/2020/09/Journee-Mondiale-LS-2.mp4" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2dba3cf" data-id="2dba3cf" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7eeb35c7 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="7eeb35c7" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/V4xxEeHK3ho?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a1b9190" data-id="a1b9190" data-element_type="column" id="colonne-article2" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-b873c00 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b873c00" data-element_type="section" id="corps">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-56fcece5" data-id="56fcece5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1c595db elementor-widget elementor-widget-spacer" data-id="1c595db" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-2ce8664 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2ce8664" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-d12ae7e" data-id="d12ae7e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-1fd5a95" data-id="1fd5a95" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-b7694a8" data-id="b7694a8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7079044 elementor-widget elementor-widget-heading" data-id="7079044" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos réseaux</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-71407f1" data-id="71407f1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-d6e222e" data-id="d6e222e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-861ed94 elementor-widget elementor-widget-heading" data-id="861ed94" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos partenaires</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-7c69954" data-id="7c69954" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-5d9b0bc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5d9b0bc" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-bef03bf" data-id="bef03bf" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-3256f28" data-id="3256f28" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-1757e52" data-id="1757e52" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-936b82c" data-id="936b82c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-241dde6" data-id="241dde6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-032907c" data-id="032907c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-ec74624 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default" data-id="ec74624" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-f3c9835" data-id="f3c9835" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-b30001b" data-id="b30001b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-08f7cdc" data-id="08f7cdc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-080367b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="080367b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-10d900d" data-id="10d900d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2fedfb4 elementor-view-default elementor-widget elementor-widget-icon" data-id="2fedfb4" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-grow" href="https://www.facebook.com/fneaaudio/">
+			<i aria-hidden="true" class="fab fa-facebook"></i>			</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-04da8aa" data-id="04da8aa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-84f43f3 elementor-view-default elementor-widget elementor-widget-icon" data-id="84f43f3" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-grow" href="https://twitter.com/fnea_audio?lang=fr">
+			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3bc5131" data-id="3bc5131" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d61e0d5 elementor-view-default elementor-widget elementor-widget-icon" data-id="d61e0d5" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-grow" href="https://www.instagram.com/fnea_audio/?hl=fr">
+			<i aria-hidden="true" class="fab fa-instagram"></i>			</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-4d514e1" data-id="4d514e1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-d567141" data-id="d567141" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3712441 elementor-widget elementor-widget-image-carousel" data-id="3712441" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay_speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/sonance-audition-logo-150x150.png" alt="Sonance Audition Logo" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Otometrics-150x150.png" alt="Otometrics" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/MED-EL_Logo-150x150.png" alt="MED EL Logo" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Markassur-150x150.png" alt="Mark&#039;assur" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Logo-audio2000-2-150x150.png" alt="Logo Audio2000" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Entendre-150x150.png" alt="Entendre" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/ipa-2-150x150.png" alt="Ipa" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/KRYS_AUDITION-2-150x150.jpg" alt="KRYS AUDITION" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/logo_hearfit-01-2-150x150.png" alt="Logo Hearfit 01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/logo-ampli-2-150x150.png" alt="Logo Ampli" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/biotone-2-150x150.png" alt="Biotone" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/audition-cons-1-150x150.png" alt="Audition Cons" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/amplifon-2-150x150.png" alt="Amplifon" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Acuitis-Logo-2-150x150.png" alt="Acuitis Logo" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.fnea.org/wp-content/uploads/2020/08/Sonova_Tagline_RGB-2-150x150.png" alt="Sonova Tagline RGB" /></figure></div>			</div>
+																</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-37b15f1" data-id="37b15f1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-5eaa353 elementor-section-full_width elementor-section-height-min-height elementor-section-content-top elementor-section-height-default" data-id="5eaa353" data-element_type="section" id="corps" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c02a340" data-id="c02a340" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6389f3a" data-id="6389f3a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bfb64df elementor-invisible elementor-widget elementor-widget-text-editor" data-id="bfb64df" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li><a href="https://www.fnea.org/formation/">Entrer en audioprothèse</a></li><li><a href="https://www.fnea.org/les-membres/">Les membres</a></li><li><a href="https://www.fnea.org/politique-de-publication/">Politique de confidentialité</a></li><li>Politique de publication</li><li><a href="https://www.cnil.fr/fr/comprendre-le-rgpd">RGPD</a></li><li><a href="https://www.fnea.org/partenaires-3/">Partenaires</a></li><li><a href="https://www.fnea.org/contact/">Contact</a></li></ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3d3c5c8" data-id="3d3c5c8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-cd9fd2c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd9fd2c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8fb3000" data-id="8fb3000" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c754784 elementor-widget elementor-widget-spacer" data-id="c754784" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-d8fa9e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d8fa9e7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-93bb860" data-id="93bb860" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-feb7a73 elementor-widget elementor-widget-text-editor" data-id="feb7a73" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>À ne pas manquer</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-a334455 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a334455" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4723495" data-id="4723495" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-edd370f elementor-posts--thumbnail-none elementor-grid-1 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="edd370f" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;1&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid">
+				<article class="elementor-post elementor-grid-item post-8343 annonce_recrutement type-annonce_recrutement status-publish hentry region-normandie">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-laigle-et-mortagne-61/" >
+				Amplifon-audioprothésiste-L&#8217;Aigle et Mortagne (61)			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-laigle-et-mortagne-61/" >
+				Lire plus »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-8342 annonce_recrutement type-annonce_recrutement status-publish hentry region-normandie">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-vernon-et-les-andelys-27/" >
+				Amplifon-audioprothésiste-Vernon et Les Andelys (27)			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-vernon-et-les-andelys-27/" >
+				Lire plus »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-8341 annonce_recrutement type-annonce_recrutement status-publish hentry region-normandie">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.fnea.org/annonce_recrutement/amplifon-audiopothesiste-louviers-et-verneuil-s-avre-27/" >
+				Amplifon-audiopothésiste-Louviers et Verneuil s/ Avre (27)			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://www.fnea.org/annonce_recrutement/amplifon-audiopothesiste-louviers-et-verneuil-s-avre-27/" >
+				Lire plus »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-8340 annonce_recrutement type-annonce_recrutement status-publish hentry region-normandie">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-flers61/" >
+				Amplifon-audioprothésiste-Flers(61)			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://www.fnea.org/annonce_recrutement/amplifon-audioprothesiste-flers61/" >
+				Lire plus »			</a>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-7941 annonce_recrutement type-annonce_recrutement status-publish hentry region-normandie">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.fnea.org/annonce_recrutement/dyapason-le-havre/" >
+				Dyapason Le Havre			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://www.fnea.org/annonce_recrutement/dyapason-le-havre/" >
+				Lire plus »			</a>
+				</div>
+					</div>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-05f2e04" data-id="05f2e04" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c60477d elementor-widget elementor-widget-image" data-id="c60477d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://drive.google.com/file/d/1Nno7IFvSdIYq0obUICikCutzwAtcmK2h/view">
+							<img width="580" height="303" src="https://www.fnea.org/wp-content/uploads/2019/11/larsen-13-1024x535.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://www.fnea.org/wp-content/uploads/2019/11/larsen-13-1024x535.jpg 1024w, https://www.fnea.org/wp-content/uploads/2019/11/larsen-13-300x157.jpg 300w, https://www.fnea.org/wp-content/uploads/2019/11/larsen-13-768x401.jpg 768w, https://www.fnea.org/wp-content/uploads/2019/11/larsen-13.jpg 1062w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-872a524" data-id="872a524" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-93e467a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="93e467a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c6f52c2" data-id="c6f52c2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a94f314 elementor-widget elementor-widget-text-editor" data-id="a94f314" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Besoin d&#8217;informations sur le site, donner votre avis ou pour un problème technique, compléter ce formulaire :</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-e871910 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e871910" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6e5d60b" data-id="6e5d60b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8cc8ca5 elementor-widget elementor-widget-text-editor" data-id="8cc8ca5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><div role="form" class="wpcf7" id="wpcf7-f5576-p5783-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response" role="alert" aria-live="polite"></div>
+<form action="/#wpcf7-f5576-p5783-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5576" />
+<input type="hidden" name="_wpcf7_version" value="5.2.2" />
+<input type="hidden" name="_wpcf7_locale" value="fr_FR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5576-p5783-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="5783" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p><label> Votre nom<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Votre adresse de messagerie<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Objet<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Votre message<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="Envoyer" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output" role="alert" aria-hidden="true"></div></form></div></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-7805a5e" data-id="7805a5e" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-c9449d2 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c9449d2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e225195" data-id="e225195" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-7fc80d2 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7fc80d2" data-element_type="section" data-settings="{&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;,&quot;shape_divider_bottom&quot;:&quot;triangle-asymmetrical&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M737.9,94.7L0,0v100h1000V0L737.9,94.7z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-73ddc70" data-id="73ddc70" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-79bb670 elementor-widget elementor-widget-image" data-id="79bb670" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="2200" height="400" src="https://www.fnea.org/wp-content/uploads/2020/05/Bande.gif" class="attachment-full size-full" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-97e84c5 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="97e84c5" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;triangle-asymmetrical&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M737.9,94.7L0,0v100h1000V0L737.9,94.7z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-63ad3ed" data-id="63ad3ed" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8333c93 elementor-widget elementor-widget-eael-fancy-text" data-id="8333c93" data-element_type="widget" data-widget_type="eael-fancy-text.default">
+				<div class="elementor-widget-container">
+			
+	<div  class="eael-fancy-text-container style-1" data-fancy-text-id="8333c93" data-fancy-text="|C&#039;est quoi?" data-fancy-text-transition-type="typing" data-fancy-text-speed="50" data-fancy-text-delay="2500" data-fancy-text-cursor="yes" data-fancy-text-loop="yes" >
+					<span class="eael-fancy-text-prefix">La FNEA  </span>
+		
+		
+					<span id="eael-fancy-text-8333c93" class="eael-fancy-text-strings">
+				<noscript>
+					C'est quoi?				</noscript>
+			</span>
+		
+			</div><!-- close .eael-fancy-text-container -->
+
+	<div class="clearfix"></div>
+
+			</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-81cafa4" data-id="81cafa4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8e85e7c elementor-widget elementor-widget-text-editor" data-id="8e85e7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>La <strong>F</strong>édération <strong>N</strong>ationale des <strong>E</strong>tudiants en <strong>A</strong>udioprothèse (<strong>FNEA</strong>) est une <strong>Association Etudiante</strong> de loi 1901 rassemblant <strong>l&#8217;ensemble des étudiants de France en préparation au Diplôme d&#8217;Etat d&#8217;audioprothésiste. </strong></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-0e6cbc9 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e6cbc9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aaff628" data-id="aaff628" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-7657762 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7657762" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a2b1ae1" data-id="a2b1ae1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-03c731f elementor-nav-menu--indicator-chevron elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="03c731f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Permuter le menu" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-03c731f" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-5602"><a href="https://www.fnea.org" aria-current="page" class="elementor-item elementor-item-active">Accueil</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5603"><a href="#" class="elementor-item elementor-item-anchor">Qui sommes-nous ?</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5604"><a href="https://www.fnea.org/fnea/" class="elementor-sub-item">LA FNEA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7957"><a href="#" class="elementor-sub-item elementor-item-anchor">Les membres</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7740"><a href="https://www.fnea.org/bn-2020-2021/" class="elementor-sub-item">BN 2020-2021</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5612"><a href="#" class="elementor-item elementor-item-anchor">Formation</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="https://www.fnea.org/guides/" class="elementor-sub-item">Les Guides</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5631"><a href="https://www.fnea.org/formation/" class="elementor-sub-item">Métier et Formation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5632"><a href="https://www.fnea.org/les-associations/" class="elementor-sub-item">Les Ecoles</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5633"><a href="https://www.fnea.org/abea-bordeaux/" class="elementor-sub-item">Bordeaux</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6973"><a href="https://www.fnea.org/cahors/" class="elementor-sub-item">Cahors</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5646"><a href="https://www.fnea.org/evreux/" class="elementor-sub-item">Evreux</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5635"><a href="https://www.fnea.org/adeaf-fougeres/" class="elementor-sub-item">Fougères</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5645"><a href="https://www.fnea.org/lille/" class="elementor-sub-item">Lille</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5636"><a href="https://www.fnea.org/ageal-lyon/" class="elementor-sub-item">Lyon</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5637"><a href="https://www.fnea.org/louis-fine-et-daisy-bel-montpellier/" class="elementor-sub-item">Montpellier</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5638"><a href="https://www.fnea.org/adena-nancy/" class="elementor-sub-item">Nancy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5639"><a href="https://www.fnea.org/aeap-paris/" class="elementor-sub-item">Paris</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5611"><a href="#" class="elementor-item elementor-item-anchor">Événement</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5624"><a href="https://www.fnea.org/les-evenements/" class="elementor-sub-item">Les Évènements Étudiants</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5625"><a href="https://www.fnea.org/les-congres/" class="elementor-sub-item">Les Évènements Professionnels</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5626"><a href="https://www.fnea.org/le-congres/" class="elementor-sub-item">Le Congrès</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5627"><a href="https://www.fnea.org/enseignements-post-universitaires/" class="elementor-sub-item">Enseignement Post-Universitaire</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5628"><a href="https://www.fnea.org/les-assises-de-nice/" class="elementor-sub-item">Les Assises de Nice</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629"><a href="https://www.fnea.org/colloque-afrepa/" class="elementor-sub-item">Colloque AFREPA</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5630"><a href="https://www.fnea.org/congres-sfa/" class="elementor-sub-item">Congrès SFA</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5610"><a href="#" class="elementor-item elementor-item-anchor">Prévention</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5619"><a href="https://www.fnea.org/paaig/" class="elementor-sub-item">PAAIG</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5622"><a href="https://www.fnea.org/prevention-auditive/" class="elementor-sub-item">L’Audition au Cœur de la Prévention</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5623"><a href="https://www.fnea.org/associations/" class="elementor-sub-item">Mobilisation pour la Santé</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5613"><a href="#" class="elementor-item elementor-item-anchor">Organisations</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5647"><a href="https://www.fnea.org/unsaf/" class="elementor-sub-item">SDA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5648"><a href="https://www.fnea.org/synea/" class="elementor-sub-item">SYNEA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5649"><a href="https://www.fnea.org/cna/" class="elementor-sub-item">CNA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5652"><a href="https://www.fnea.org/fage/" class="elementor-sub-item">FAGE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5653"><a href="https://www.fnea.org/snitem/" class="elementor-sub-item">SNITEM</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5609"><a href="#" class="elementor-item elementor-item-anchor">Presse</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7619"><a href="https://www.fnea.org/cdp-fnea/" class="elementor-sub-item">Communiqués De Presse FNEA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5617"><a href="https://www.fnea.org/larsen/" class="elementor-sub-item">Le LARSEN</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5614"><a href="https://www.fnea.org/partenaires-3/" class="elementor-item">Partenaires</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6515"><a href="https://www.fnea.org/annonces/" class="elementor-item">Annonces</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-7b9541f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7b9541f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-78644af" data-id="78644af" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fbbdd8f" data-id="fbbdd8f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-00df358 elementor-widget elementor-widget-heading" data-id="00df358" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos derniers articles</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6d03f16" data-id="6d03f16" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-af842c4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="af842c4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5d4529f" data-id="5d4529f" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cde3d67" data-id="cde3d67" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6f9d73d elementor-widget elementor-widget-text-editor" data-id="6f9d73d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><div class="wondercarousellightbox_options" data-skinsfoldername=""  data-jsfolder="https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/" style="display:none;"></div>
+<div class="wonderplugincarousel-container" id="wonderplugincarousel-container-1" style="padding: 20px 0px 0px 0px;"><div class="wonderplugincarousel" id="wonderplugincarousel-1" data-carouselid="1" data-width="450" data-height="225" data-skin="tworows" data-donotzoomin="true" data-addpreloading="false" data-multiplebyrow="false" data-showimgtitle="false" data-sameheight="false" data-sameheightresponsive="false" data-fullwidth="false" data-centerimage="true" data-fitimage="false" data-fitcenterimage="false" data-fixaspectratio="true" data-autoplay="false" data-random="false" data-circular="true" data-pauseonmouseover="true" data-continuous="false" data-responsive="true" data-showhoveroverlay="true" data-showhoveroverlayalways="false" data-hidehoveroverlayontouch="false" data-lightboxresponsive="true" data-lightboxshownavigation="false" data-lightboxnogroup="false" data-lightboxshowtitle="true" data-lightboxshowdescription="false" data-lightboxaddsocialmedia="false" data-usescreenquery="true" data-donotinit="false" data-addinitscript="false" data-doshortcodeontext="false" data-lightboxshowsocial="false" data-lightboxshowemail="true" data-lightboxshowfacebook="true" data-lightboxshowtwitter="true" data-lightboxshowpinterest="true" data-lightboxsocialrotateeffect="true" data-donotcircularforless="false" data-deferloading="false" data-enablelazyload="true" data-usebase64="true" data-limitvisibleitemstolength="true" data-hidearrowsandbulletsforonepage="true" data-showfirstlasthalf="false" data-verticalflexheight="false" data-hidebulletssmallscreen="false" data-removeinlinecss="true" data-hidecontainerbeforeloaded="false" data-hidecontaineroninit="true" data-lightboximagekeepratio="true" data-showplayvideo="true" data-triggerresize="false" data-lightboxfullscreenmode="false" data-lightboxcloseonoverlay="true" data-lightboxvideohidecontrols="false" data-lightboxautoslide="false" data-lightboxshowtimer="true" data-lightboxshowplaybutton="false" data-lightboxalwaysshownavarrows="false" data-lightboxshowtitleprefix="false" data-preloadingimage="loading-0.gif" data-spacing="10" data-rownumber="2" data-visibleitems="3" data-arrowstyle="always" data-arrowimage="arrows-48-48-1.png" data-arrowwidth="48" data-arrowheight="48" data-navstyle="none" data-navimage="bullet-16-16-0.png" data-navwidth="16" data-navheight="16" data-navspacing="8" data-hoveroverlayimage="hoveroverlay-64-64-5.png" data-lightboxthumbwidth="90" data-lightboxthumbheight="60" data-lightboxthumbtopmargin="12" data-lightboxthumbbottommargin="4" data-lightboxbarheight="64" data-lightboxtitlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" data-lightboxdescriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-continuousduration="5000" data-autoplaydir="left" data-scrollmode="page" data-interval="3000" data-transitionduration="1000" data-lightboxtitlestyle="bottom" data-lightboximagepercentage="75" data-lightboxdefaultvideovolume="1" data-lightboxoverlaybgcolor="#000" data-lightboxoverlayopacity="0.9" data-lightboxbgcolor="#fff" data-lightboxtitleprefix="%NUM / %TOTAL" data-lightboxtitleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-lightboxdescriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-playvideoimage="playvideo-64-64-0.png" data-playvideoimagepos="center" data-imgtitle="title" data-circularlimit="3" data-deferloadingdelay="0" data-firstlasthalfsmallscreen="640" data-hidebulletssmallscreensize="480" data-movemode="carousel" data-moveduration="500" data-lightboxsocialposition="position:absolute;top:100%;right:0;" data-lightboxsocialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-lightboxsocialdirection="horizontal" data-lightboxsocialbuttonsize="32" data-lightboxsocialbuttonfontsize="18" data-sameheightmediumscreen="2000" data-sameheightmediumheight="100" data-sameheightsmallscreen="415" data-sameheightsmallheight="50" data-triggerresizedelay="100" data-lightboxslideinterval="5000" data-lightboxtimerposition="bottom" data-lightboxtimercolor="#dc572e" data-lightboxtimeropacity="1" data-lightboxbordersize="8" data-lightboxborderradius="0" data-screenquery='{ "tablet": { "screenwidth": 800, "visibleitems": 2 }, "mobile": { "screenwidth": 480, "visibleitems": 1 } }' data-jsfolder="https://www.fnea.org/wp-content/plugins/wonderplugin-carousel/engine/" style="display:none;position:relative;margin:0 auto;width:100%;max-width:1350px;" ><div class="amazingcarousel-list-container" style="overflow:hidden;"><ul class="amazingcarousel-list"><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/09/journee-mondiale-lsf/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/09/Capture-decran-2020-09-23-a-19.26.44.png" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/contournement-du-numerus-clausus-la-fnea-et-les-autres-formations-paramedicales-salarment/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/Contournement-du-numerus-clausus-la-FNEA-et-les-autres-formations-paramedicales-salarment.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/contribution-grand-age-et-perte-dautonomie-noublions-pas-le-deficit-auditif/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/Contribution-grand-age-et-perte-dautonomie-noublions-pas-le-deficit-auditif.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/cout-de-la-rentree-2019/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/cout-de-la-rentrée-2019.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/08/nouveau-bureau-pour-lannee-2020-2021/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/08/bn-2020-2021-4-scaled-e1599326927973.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/05/information-sur-le-site/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/05/under-maintenance-scaled.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/02/communique-de-presse/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/02/CDP-FNEA-1-copie.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2020/01/devenir-audioprothesiste-par-thotis-sante/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2020/01/tanguy-thotis.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li><li class="amazingcarousel-item"><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2019/11/larsen-13/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2019/11/larsen-13.jpg" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div><div class="amazingcarousel-item-container"><div class="amazingcarousel-image"><a href="https://www.fnea.org/2019/11/resume-du-week-end-de-formation/"><img class="amazingcarousel-image-img" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-aclazysrc="https://www.fnea.org/wp-content/uploads/2019/11/wef2019resume.png" alt="" data-description="" /></a></div>
+<div class="amazingcarousel-title"></div>
+<div class="amazingcarousel-button"></div></div></li></ul><div class="amazingcarousel-prev"></div><div class="amazingcarousel-next"></div></div><div class="amazingcarousel-nav"></div></div></div><script>function wondercarousel_1_appendcss(csscode) {var head=document.head || document.getElementsByTagName("head")[0];var style=document.createElement("style");head.appendChild(style);style.type="text/css";if (style.styleSheet){style.styleSheet.cssText=csscode;} else {style.appendChild(document.createTextNode(csscode));}};wondercarousel_1_appendcss("@import url(https://fonts.googleapis.com/css?family=Open+Sans);  #wonderplugincarousel-1 .amazingcarousel-image {	 	position: relative; 	padding: 0px; 	background-color: #000000; 	-moz-box-shadow:  0 0px 0px rgba(0, 0, 0, 0.2); 	-webkit-box-shadow: 0 px 0px rgba(0, 0, 0, 0.2); 	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); }  #wonderplugincarousel-1 .amazingcarousel-image img { 	display: block; 	width: 50%; 	max-width: 50%; 	border: 0; 	margin: 0; 	padding: 0; 	-moz-border-radius: 0px; 	-webkit-border-radius: 0px; 	border-radius: 0px; }  #wonderplugincarousel-1 .amazingcarousel-title { 	position:relative; 	font: bold 15px \"Open Sans\", sans-serif; 	color:#AB0C0C; 	margin:10px; 	text-align:left; 	line-height: 14px; 	overflow: hidden; }  #wonderplugincarousel-1 .amazingcarousel-description { 	position:relative; 	font: 12px \"Open Sans\", sans-serif; 	color:#333333; 	margin:6px; 	text-align:left; 	line-height: 14px;		 	overflow: hidden; }  #wonderplugincarousel-1 .amazingcarousel-list-container {  	padding: 4px 0; }  #wonderplugincarousel-1 .amazingcarousel-item-container { 	text-align: center; 	padding: 4px; }  #wonderplugincarousel-1 .amazingcarousel-prev { 	left: 0%; 	top: 50%; 	margin-left: -60px; 	margin-top: -24px; }  #wonderplugincarousel-1 .amazingcarousel-next { 	right: 0%; 	top: 50%; 	margin-right: -60px; 	margin-top: -24px; }  #wonderplugincarousel-1 .amazingcarousel-nav { 	position: absolute; 	width: 100%; 	top: 100%; }  #wonderplugincarousel-1 .amazingcarousel-bullet-wrapper { 	margin: 4px auto; }  .amazingcarousel-socialmedia-button { 	display: inline-block; 	margin: 4px; }  .amazingcarousel-socialmedia-button a { 	box-shadow: none; }  .amazingcarousel-socialmedia-icon { 	display:table-cell; 	width:32px; 	height:32px; 	font-size:18px; 	border-radius:50%; 	color:#fff; 	vertical-align:middle; 	text-align:center; 	cursor:pointer; 	padding:0; }  .amazingcarousel-socialmedia-rotate { 	transition: transform .4s ease-in;  }   .amazingcarousel-socialmedia-rotate:hover {  	transform: rotate(360deg);  } #wonderplugincarousel-1 .star-rating { 	display: inline-block; }");</script></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-286cc52" data-id="286cc52" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-06c8a73 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="06c8a73" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4561e6f" data-id="4561e6f" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a5aed48" data-id="a5aed48" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-deff4c7 elementor-widget elementor-widget-heading" data-id="deff4c7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos parutions</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f9489f0" data-id="f9489f0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-d3e49dd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d3e49dd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5be35ea" data-id="5be35ea" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7245e76 eael-post-list-col-1 elementor-widget elementor-widget-eael-post-list" data-id="7245e76" data-element_type="widget" data-widget_type="eael-post-list.default">
+				<div class="elementor-widget-container">
+			<div class="eael-post-list-container layout-default"><div class="eael-post-list-wrap eael-post-appender eael-post-appender-7245e76">
+                <div class="eael-post-list-posts-wrap"><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/10/week-end-de-formation-2019/">Week-End de Formation 2019</a></h2><div class="meta">
+                                        <span>21/10/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/04/resultats-de-lenquete-demographique/">Résultats de l&#8217;Enquête Démographique</a></h2><div class="meta">
+                                        <span>11/04/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2019/03/la-douzieme-edition-du-larsen/">La douzième édition du Larsen !</a></h2><div class="meta">
+                                        <span>22/03/2019</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/12/la-deuxieme-enquete-demographique-de-la-fnea-presentee-a-lepu/">La deuxième enquête démographique de la FNEA présentée à l&#8217;EPU</a></h2><div class="meta">
+                                        <span>01/12/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/le-larsen-11-enfin-disponible/">Le Larsen #11 enfin disponible</a></h2><div class="meta">
+                                        <span>30/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/soiree-epu-2018/">Soirée EPU 2018</a></h2><div class="meta">
+                                        <span>16/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/congres-hope-reporte-en-2019-rebondir-pour-aller-plus-haut/">Congrès HOPE reporté en 2019 : Rebondir pour aller plus haut</a></h2><div class="meta">
+                                        <span>15/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/la-deuxieme-enquete-demographique/">La deuxième enquête démographique de la FNEA est lancée</a></h2><div class="meta">
+                                        <span>12/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/11/la-fnea-met-en-place-une-enquete-demographique/">La FNEA met en place une enquête démographique. Ne remettons pas à demain ce qui doit être fait aujourd&#8217;hui.</a></h2><div class="meta">
+                                        <span>05/11/2018</span>
+                                    </div></div></div><div class="eael-post-list-post "><div class="eael-post-list-content"><h2 class="eael-post-list-title"><a href="https://www.fnea.org/2018/08/la-passation-2018/">La Passation 2018</a></h2><div class="meta">
+                                        <span>29/08/2018</span>
+                                    </div></div></div></div>
+            </div>
+		</div><div class="post-list-pagination" data-widget="7245e76" data-class="Essential_Addons_Elementor\Pro\Elements\Post_List" data-args="orderby=date&order=desc&ignore_sticky_posts=1&post_status=publish&posts_per_page=10&offset=10&post_type=post" data-settings="eael_post_list_post_feature_image=&eael_post_list_post_meta=yes&eael_post_list_post_title=yes&eael_post_list_post_excerpt=&eael_post_list_featured_area=&eael_post_list_pagination=yes&eael_post_list_layout_type=default&eael_post_list_title_tag=h2" data-page="1">
+                <button class="btn btn-prev-post" id="post-nav-prev-7245e76" disabled="true">
+                    <span class="fas fa-chevron-left"></span>
+                </button>
+                <button class="btn btn-next-post" id="post-nav-next-7245e76">
+                    <span class="fas fa-chevron-right"></span>
+                </button>
+			</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-bd09e24 elementor-widget elementor-widget-text-editor" data-id="bd09e24" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></div>
+				</div>
+				</div>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-0958916 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0958916" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+									</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3456ddb" data-id="3456ddb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_mobile&quot;:&quot;none&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-e23a269 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e23a269" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-92417c0" data-id="92417c0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9104308 elementor-widget elementor-widget-heading" data-id="9104308" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Médias</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-0564ae8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0564ae8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-be6fe8a" data-id="be6fe8a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f443534 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="f443534" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/92VMHDFaD4I?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-fc51247 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc51247" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9d9157e" data-id="9d9157e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7a981ce elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="7a981ce" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://www.fnea.org/wp-content/uploads/2020/09/Journee-Mondiale-LS-2.mp4" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c9cc3c2 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="c9cc3c2" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/ZZQj_h_1xTM?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-498be3c" data-id="498be3c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-31e080a elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="31e080a" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Lecteur vidéo youtube" src="https://www.youtube.com/embed/V4xxEeHK3ho?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f114ebe" data-id="f114ebe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-ba6df80 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ba6df80" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-dda71c6" data-id="dda71c6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d32ec38 elementor-widget elementor-widget-spacer" data-id="d32ec38" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-025e068 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="025e068" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5f2a6dd" data-id="5f2a6dd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-cc5018f" data-id="cc5018f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6ae0626 elementor-widget elementor-widget-heading" data-id="6ae0626" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos réseaux</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-90f04d3 elementor-shape-circle elementor-grid-mobile-3 elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="90f04d3" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pop elementor-repeater-item-3991912" href="https://www.facebook.com/fneaaudio/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-pop elementor-repeater-item-792e4d3" href="https://twitter.com/fnea_audio?lang=fr" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pop elementor-repeater-item-113eace" href="https://www.instagram.com/fnea_audio/?hl=fr" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-16a4738" data-id="16a4738" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ceae5b9" data-id="ceae5b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e4d6f1e elementor-widget elementor-widget-heading" data-id="e4d6f1e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nos partenaires</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c227458" data-id="c227458" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-45a7b74 elementor-skin-carousel elementor-widget elementor-widget-media-carousel" data-id="45a7b74" data-element_type="widget" data-settings="{&quot;slides_per_view_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;speed&quot;:1000,&quot;autoplay_speed&quot;:1000,&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:11,&quot;sizes&quot;:[]},&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+							<a href="https://sonance-audition.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/sonance-audition-logo.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://hearing-balance.natus.com/fr-fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Otometrics.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.medel.com/fr/">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/MED-EL_Logo.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.markassur.com">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Markassur.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.audio2000.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Logo-audio2000-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.ampli.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/logo-ampli-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://hearfit.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/logo_hearfit-01-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.krys.com/sante/sante-auditive/la-gamme-krys-audition">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/KRYS_AUDITION-2.jpg)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="http://www.ipa-technologies.fr/ipa.html">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/ipa-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.entendre.com">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Entendre.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="http://biotone.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/biotone-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.auditionconseil.fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/audition-cons-1.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.amplifon.com/fr/">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/amplifon-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.acuitis.com/fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Acuitis-Logo-2.png)">
+					</div>
+		</a>						</div>
+											<div class="swiper-slide">
+							<a href="https://www.sonova.com/france/fr">		<div class="elementor-carousel-image" style="background-image: url(https://www.fnea.org/wp-content/uploads/2020/08/Sonova_Tagline_RGB-2.png)">
+					</div>
+		</a>						</div>
+									</div>
+																					</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9c766a3 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="9c766a3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li><a href="https://www.fnea.org/formation/">Entrer en audioprothèse</a></li><li><a href="https://www.fnea.org/les-membres/">Les membres</a></li><li><a href="https://www.fnea.org/politique-de-publication/">Politique de confidentialité</a></li><li>Politique de publication</li><li><a href="https://www.cnil.fr/fr/comprendre-le-rgpd">RGPD</a></li><li><a href="https://www.fnea.org/partenaires-3/">Partenaires</a></li><li><a href="https://www.fnea.org/contact/">Contact</a></li></ul></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"
+	   aria-label="Fermer la fenêtre modale">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div>
+        <div id='fb-root'></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js#xfbml=1&version=v6.0&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
+          <div class='fb-customerchat'
+            attribution='wordpress'
+            attribution_version='1.7'
+            page_id=198413476980957
+          >
+        </div>
+        		<span id="tipfr"></span>
+		<div class="eael-reading-progress-wrap eael-reading-progress-wrap-local">
+                            <div class="eael-reading-progress eael-reading-progress-local eael-reading-progress-top">
+                                <div class="eael-reading-progress-fill"></div>
+                            </div>
+                            <div class="eael-reading-progress eael-reading-progress-global eael-reading-progress-" style="height: px;background-color: ;">
+                                <div class="eael-reading-progress-fill" style="height: px;background-color: ;transition: width ms ease;"></div>
+                            </div>
+                        </div>		<div data-elementor-type="popup" data-elementor-id="6339" class="elementor elementor-6339 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-4e9a76e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4e9a76e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c967aa7" data-id="c967aa7" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-990533d" data-id="990533d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-396e5d8 elementor-widget elementor-widget-text-editor" data-id="396e5d8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><div class="ap-login-form">
+                      <h2>Login</h2><form method="post" action="">
+                         <div class="ap-login-field-wrapper">
+                           <label>Email</label>
+                           <div class="ap-login-field">
+                             <input type="text" name="login_username" required/>
+                           </div>
+                         </div>
+                         <div class="ap-login-field-wrapper">
+                           <label>Mot de passe</label>
+                           <div class="ap-login-field">
+                             <input type="password" name="login_password" required/>
+                           </div>
+                         </div>
+
+                         <div class="ap-login-field-wrapper">
+                           <div class="ap-login-field">
+                             <input type="submit" name="ap_login_submit" value="Connexion">
+                           </div>
+                         </div>
+                         <input type="hidden" name="redirect_url" value="https://www.fnea.org:443/"/><input type="hidden" id="ap_form_nonce" name="ap_form_nonce" value="7f16836a5f" /><input type="hidden" name="_wp_http_referer" value="/" /></form>
+            </div></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c0e4432" data-id="c0e4432" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				<div data-elementor-type="popup" data-elementor-id="6335" class="elementor elementor-6335 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-bc179e4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="bc179e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5fe242e" data-id="5fe242e" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3a2c2be" data-id="3a2c2be" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-be488fa elementor-widget elementor-widget-text-editor" data-id="be488fa" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><div class="ap-login-form">
+                      <h2>Login</h2><form method="post" action="">
+                         <div class="ap-login-field-wrapper">
+                           <label>Email</label>
+                           <div class="ap-login-field">
+                             <input type="text" name="login_username" required/>
+                           </div>
+                         </div>
+                         <div class="ap-login-field-wrapper">
+                           <label>Mot de passe</label>
+                           <div class="ap-login-field">
+                             <input type="password" name="login_password" required/>
+                           </div>
+                         </div>
+
+                         <div class="ap-login-field-wrapper">
+                           <div class="ap-login-field">
+                             <input type="submit" name="ap_login_submit" value="Connexion">
+                           </div>
+                         </div>
+                         <input type="hidden" name="redirect_url" value="https://www.fnea.org:443/"/><input type="hidden" id="ap_form_nonce" name="ap_form_nonce" value="7f16836a5f" /><input type="hidden" name="_wp_http_referer" value="/" /></form>
+            </div></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-76b7e3d" data-id="76b7e3d" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		<script id='contact-form-7-js-extra'>
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.fnea.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/happy-elementor-addons/assets/vendor/anime/lib/anime.min.js?ver=2.13.3' id='anime-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script id='happy-elementor-addons-js-extra'>
+var HappyLocalize = {"ajax_url":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"329aea4bcf"};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=2.13.3' id='happy-elementor-addons-js'></script>
+<script id='happy-addons-pro-js-extra'>
+var HappyProLocalize = {"ajax_url":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"3709625ea5"};
+var HappyProLocalize = {"ajax_url":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"3709625ea5"};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/happy-elementor-addons-pro/assets/js/happy-addons-pro.js?ver=1.9.0' id='happy-addons-pro-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=2.1.9' id='select2-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://www.fnea.org/wp-includes/js/wp-util.min.js?ver=5.5.1' id='wp-util-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.1.9' id='um_crop-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.1.9' id='um_modal-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.1.9' id='um_jquery_form-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=2.1.9' id='um_fileupload-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.1.9' id='um_datetime-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.1.9' id='um_datetime_date-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.1.9' id='um_datetime_time-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=2.1.9' id='um_datetime_legacy-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/fr_FR.js?ver=2.1.9' id='um_datetime_locale-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.fnea.org/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src='https://www.fnea.org/wp-includes/js/dist/i18n.min.js?ver=bb7c3c45d012206bfcd73d6a31f84d9e' id='wp-i18n-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.1.9' id='um_raty-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.1.9' id='um_tipsy-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.1.9' id='um_scrollbar-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.1.9' id='um_functions-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.1.9' id='um_responsive-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/dist/hooks.min.js?ver=b4778690e29d8a2b7518413652ba30c4' id='wp-hooks-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.1.9' id='um_conditional-js'></script>
+<script id='um_scripts-js-extra'>
+var um_scripts = {"nonce":"752e778c31"};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.1.9' id='um_scripts-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.1.9' id='um_profile-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.1.9' id='um_account-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script id='cb70d11b8-js-extra'>
+var localize = {"ajaxurl":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"f100985752","ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"}};
+</script>
+<script src='https://www.fnea.org/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1602700047' id='cb70d11b8-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.6' id='elementor-frontend-modules-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.4' id='elementor-sticky-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.fnea.org\/wp-admin\/admin-ajax.php","nonce":"fdbf7b6496","i18n":{"toc_no_headings_found":"Aucun titre n\u2019a \u00e9t\u00e9 trouv\u00e9 sur cette page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.fnea.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.4' id='elementor-pro-frontend-js'></script>
+<script src='https://www.fnea.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.6' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.6","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/www.fnea.org\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[],"general":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":5783,"title":"Accueil%20-%20FNEA","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://www.fnea.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.6' id='elementor-frontend-js'></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+			<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+		</body>
+</html>

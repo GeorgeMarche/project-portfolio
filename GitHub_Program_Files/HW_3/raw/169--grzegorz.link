@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<title>ArXiv Art - Grzegorz Link</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- social media
+<meta property="og:title" content="ArXiv Art - Grzegorz Link" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://grzegorz.link/arxivart" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Grzegorz Link's repository" /> -->
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div id="menu">
+    Grzegorz Link
+    <ul>
+        <li><a href="about">About</a></li>
+        <li><a href="arxivart">ArXiv Art</a></li>
+        <li><a href="investing">Investing</a></li>
+        <li><a href="links">Links</a></li>
+        <li><a href="sentiment">Sentiment</a></li>
+    </ul>
+</div>
+<div class="presText" id="presText" style="display:block">
+    <p><b>It's hard to call scientific images art.</b> But sometimes they're <a href="https://www.ligo.org/detections/images/GWTC1-poster.png" title="LIGO Gravitational-Wave Transient Catalog Poster">simply beautiful</a>.<sup>[2]</sup></p>
+    <p>While still in my university days, I had a problem regarding new scientific articles: the sheer amount of new ones committed daily was hard to monitor, and harder still to find among them the ones which might be interesting or useful for whatever I was working on.</p>
+    <p>I came up with a simple heuritstic: not always - but usually - the most important scientific articles had very carefully crafted, often aesthetically pleasing images inside. Usually an important part of the discovery was communicated through the graphic, and often as the first or the last image of the article. I don't know if it was because the people making important discoveries where simply more dedicated to their work (and therefore better at documenting it), or was it just a simple case of incentives: whenever a group of researchers discover something interesting, they may be more inclined to prepare a better image, expecting to get the work published in a better journal.</p>
+    <p>Whatever the reason, I often read through the abstract, the conclusions, and skimmed through the graphics to sift through academic papers and find the ones I was interested in. It is, of course, a subjective decision. To aid this task, I came up with an automated solution -- I found out that <a href="https://arxiv.org" title="arXiv.org main page">arXiv</a>, one of the most important archive of interesting preprints in my field (physics), provided not only the PDF versions of each submitted article, but oftentimes also the .tex and the media files. All of these files were openly accessible. So I wrote a simple script that:</p><p><b>1.</b> scrapes, once daily, the data of the newly sent article preprints,<br><b>2.</b> finds images among those works, and finds their descriptions in the .tex file and<br><b>3.</b> sends those media files, along with the paper title and authors, to a twitter account.</p><p>In these days twitter had a 140-character limit, so I've decided to drop the descriptions from the images, limiting the usefulness slightly. I've also only concentrated on the subset of quantitative finance, q-fin, of arXiv, to limit the volume of uploads. Back then there have been, on average, around 10 new articles uploaded daily.</p>
+    <p>I would then sift through the images once in a while, usually once a week, and just click on the papers who's images I found interesting and had caught my attention. It ought to be a useful tool if expanded not only for arXiv, but also other repositories, preferably the best scientific journals the world has to offer. Unfortunately that would be hard regarding rights and payment issues.</p>
+    <p>Due to some other responsibilites, I've stopped updating after June 2016, but recently revisited and, as of January 2020, it's operational again. You can view both the previous and current articles' graphics at <a href="https://twitter.com/arxiv_art" title="arXiv_art twitter page">twitter.com/arXiv_art</a>.</p><br>
+    <p>Please remember, that I claim no rights to these works, they are the copyright of the listed authors of the preprints. Their use in any commercial projects must be discussed with the authors, and even private use must always be properly cited. </p>
+</div>
+<div class="footer">
+    <p>[2] <a href="https://www.ligo.org/detections/images/GWTC1-poster.png" title="LIGO Gravitational-Wave Transient Catalog Poster">Spectrograms and waveforms for the gravitational-wave transient catalog</a>, a current [as of 2018] catalog of detected gravitational wave signals, Credit: LIGO Scientific Collaboration and Virgo Collaboration/Georgia Tech/S. Ghonge & K. Jani, <a href="https://www.ligo.org/detections/O1O2catalog.php" title="LIGO Scientific Collaboration O1/O2 Catalog (Summary of detections during first and second observing runs)">available here</a>.</p>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143784188-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-143784188-2');
+</script>
+<script>
+    function showText() {
+        var x = document.getElementById("presText");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
+<div class="footer">
+<center>
+</center>
+</div>
+
+</body>
+</html>

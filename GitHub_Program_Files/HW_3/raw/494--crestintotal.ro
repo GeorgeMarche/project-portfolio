@@ -1,0 +1,1526 @@
+<!DOCTYPE html>
+<html class="no-js mh-large mh-one-sb wt-layout2" lang="ro-RO">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://crestintotal.ro/xmlrpc.php" />
+<title>Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această generație &#8211; CrestinTotal.ro</title>
+<!--[if lt IE 9]>
+<script src="https://s0.wp.com/wp-content/themes/premium/mh-magazine/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9jcmVzdGludG90YWwucm8%3D"
+		+ "&wpcomid=5061069"
+		+ "&time=1602700565";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//crestintotal.wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link rel="alternate" type="application/rss+xml" title="Flux CrestinTotal.ro &raquo;" href="https://crestintotal.ro/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Flux comentarii CrestinTotal.ro &raquo;" href="https://crestintotal.ro/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Flux comentarii CrestinTotal.ro &raquo; Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această&nbsp;generație" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1596548281h&ver=5.5-wpcom-48929"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/wpcom-smileys.css?m=1459241938h&cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='mh-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,800,700' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/_static/??-eJydketqwzAMhV9oipcUSvdj7FnkWLhufcOSl2VPPyd0pawjHcNgfOTzSbKlpgxjikJRlPbJQvbVushqSsWgYWV90ui7kflJPfKGIwS0+Okiwftwx4R6JQp5FDKQE8sPtYV5dyZWJ5KM4xlWdWf/9trapKZi200h9dL1Xa90dd4sza+4LlhmxTJ7+kOalbqpjnOqArY4898UBcVFyw/wMV2woWtLGcdyjcHv6M2XLY9v8ZBRFkcg45A8hWbbwiZnLLXRNMvlDEIf20huZUDrXIgZ2h5cDSDHVmud0lt47ffP/W5/2B2G0xdcsu0V?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:13;--wp--preset--font-size--normal:16;--wp--preset--font-size--medium:20;--wp--preset--font-size--large:36;--wp--preset--font-size--huge:42;}
+</style>
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJyVjkEOwjAMBD+EMSAVlQPiLaaYYIiTqHFV4PWYE+WCym1W3lkZxwJdTsbJ0C6sXLH0rDIo6gWUAj0lMVZ7RF52tS5wIugAJQ5BUsVRToGtouUCJVen2QoPfs03YYg0orGWSMZ/DJyp46MvQJSbw32+6WwUetIPzdGq+I8MhR7qjRmfBs4Qc0cmOX0FOEeS/pfa8zHm4BjQW5P4lg66Xze71XrbbNr2+gJGjK34?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-5-1' href='https://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?m=1560469195h&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/_static/??-eJxti8sKgCAQAH8oW6KHdoi+xcTUWF1pjX4/OnSIOg0DM3BmYSgVmwrEQ2Q8XEgMmbiIFXXYgb3eQ3IPa8Ncwf/FZIJGgeToLZ+peBstg+/AIS0a72COU9OPUg69atV2AWWKN+I=?cssminify=yes' type='text/css' media='all' />
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script id='scripts-js-extra'>
+var ajaxurl = "https:\/\/crestintotal.wordpress.com\/wp-admin\/admin-ajax.php";
+var mh_magazine_js_strings = {"mobile_nav":"Navigare"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJydkG0KwjAMhi9kLRMd7od4Ba9Qt2zLaNLapup2eqvu1wRBIRDy8eRNom9eIdc2NRD1kO2SIIyzWw9xpXND7ViA5Vknd0YLKkUIpsu5DLdu2UdJeZs65KgDWCPQKO+iLKIlJT1QXsIHIEykqVdkOjMhw1u4gcA4hd+w+ZDWwj1azCN+wwV5ZHP9SzNXRcZT7+TjQd/5WAf0r/8c6VDsqqLclPtqOzwALzihDg=='></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://crestintotal.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Cuvantul Lui Dumnezeu pentru Astazi &#8211;&nbsp;09.10.2020' href='https://crestintotal.ro/2020/10/09/cuvantul-lui-dumnezeu-pentru-astazi-09-10-2020/' />
+<link rel='next' title='Donald Trump &#8211; Faptul că m-am infectat îl consider o binecuvântare de la Dumnezeu &#8211; Washington&nbsp;DC' href='https://crestintotal.ro/2020/10/09/donald-trump-faptul-ca-m-am-infectat-il-consider-o-binecuvantare-de-la-dumnezeu-washington-dc/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" />
+<link rel='shortlink' href='https://wp.me/pleC9-CSa' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fcrestintotal.ro%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fcrestintotal.ro%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această generație" />
+<meta property="og:url" content="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" />
+<meta property="og:description" content="Pandemia de Covid 19 pune la grea încercare bisericile și conducerea acestora. Unele biserici au înțeles provocarea și merg înainte prin noua realitate, altele s-au blocat, iar unele au găsit rezol…" />
+<meta property="article:published_time" content="2020-10-09T07:00:00+00:00" />
+<meta property="article:modified_time" content="2020-10-09T07:00:00+00:00" />
+<meta property="og:site_name" content="CrestinTotal.ro" />
+<meta property="og:image" content="https://crestintotal.files.wordpress.com/2020/10/img_0353.jpg" />
+<meta property="og:image:width" content="638" />
+<meta property="og:image:height" content="960" />
+<meta property="og:locale" content="ro_RO" />
+<meta name="twitter:creator" content="@crestintotal" />
+<meta name="twitter:site" content="@crestintotal" />
+<meta name="twitter:text:title" content="Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această&nbsp;generație" />
+<meta name="twitter:image" content="https://crestintotal.files.wordpress.com/2020/10/img_0353.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/69aa8802ea215de17ccf363b0f5fcddf?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/69aa8802ea215de17ccf363b0f5fcddf?s=32" sizes="16x16" />
+<link rel="apple-touch-icon" href="https://secure.gravatar.com/blavatar/69aa8802ea215de17ccf363b0f5fcddf?s=114" />
+<link rel='openid.server' href='https://crestintotal.ro/?openidserver=1' />
+<link rel='openid.delegate' href='https://crestintotal.ro/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://crestintotal.ro/osd.xml" title="CrestinTotal.ro" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="CrestinTotal.ro" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Traiesc pentru Cristos" /><meta name="msapplication-task" content="name=Abonează-te;action-uri=https://crestintotal.ro/feed/;icon-uri=https://secure.gravatar.com/blavatar/69aa8802ea215de17ccf363b0f5fcddf?s=16" /><meta name="msapplication-task" content="name=Înregistrează-te pentru un blog gratuit;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Suport WordPress.com;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Forumuri WordPress.com;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico" /><meta name="description" content="Pandemia de Covid 19 pune la grea încercare bisericile și conducerea acestora. Unele biserici au înțeles provocarea și merg înainte prin noua realitate, altele s-au blocat, iar unele au găsit rezolvarea, dau vina pe Covid 19. Cum să dai vina pe Covid 19 când în cele mai multe biserici se practica și înainte distanțarea fizică&hellip;" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://crestintotal.files.wordpress.com/2019/11/117777sky-universe-nstars-planet-light-satellite-orbit.jpg"); background-position: center top; background-size: auto; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+			<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { pt: 1, ht: 1, tn: 'mh-magazine', amp: false, siteid: 5061069, consent: __ATA_CC() };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><link rel="amphtml" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/amp/"></head>
+<body id="mh-mobile" class="post-template-default single single-post postid-149430 single-format-standard custom-background customizer-styles-applied highlander-enabled highlander-light">
+	<aside class="header-widget">
+		<div id="text-418586071" class="sb-widget widget_text">			<div class="textwidget"><p><a title="https://crestintotal.ro/librarie/" href="https://heartbeats.events/event/concert-heartbeats/" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignleft" src="https://crestintotal.files.wordpress.com/2020/09/thumbnail-1-1.jpg?w=2000&amp;h=" alt="Banner http://librariact.ro " width="640" height="69" /></a></p>
+<p><a title="https://crestintotal.ro/librarie/" href="http://librariact.ro/index.php?route=product/category&amp;path=67_27" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="alignleft" src="https://crestintotal.files.wordpress.com/2019/12/harfa.jpg" alt="Banner http://librariact.ro " width="640" height="69" /></a></p>
+</div>
+		</div>	</aside>
+<div class="container mh-mobile">
+			<div id="atatags-50610692-5f87451536617"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-50610692-5f87451536617',
+						location: 110,
+						formFactor: '002',
+						label: {
+							text: 'Reclame',
+						},
+						creative: {
+							reportAd: {
+								text: 'Raportează această reclamă',
+							},
+							privacySettings: {
+								text: 'Setări confidențialitate',
+							}
+						}
+					});
+				});
+			</script><header class="header-wrap">
+		<a href="https://crestintotal.ro/" title="CrestinTotal.ro" rel="home">
+<div class="logo-wrap" role="banner">
+<img src="https://crestintotal.files.wordpress.com/2018/03/cropped-mm.png" height="121" width="683" alt="CrestinTotal.ro" />
+</div>
+</a>
+	<nav class="main-nav clearfix">
+		<div class="menu-meniu-principal-container"><ul id="menu-meniu-principal" class="menu"><li id="menu-item-25957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-25957"><a href="https://crestintotal.ro/">Acasa</a></li>
+<li id="menu-item-47530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47530"><a href="https://crestintotal.ro/biserici-live/">Biserici live</a>
+<ul class="sub-menu">
+	<li id="menu-item-25918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25918"><a href="https://crestintotal.ro/din-romania/">din Romania</a></li>
+	<li id="menu-item-39157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39157"><a href="https://crestintotal.ro/biserici-live/biserici-din-europa/">din Europa</a></li>
+	<li id="menu-item-39849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39849"><a href="https://crestintotal.ro/biserici-live/din-s-u-a/">din S.U.A</a></li>
+	<li id="menu-item-47618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47618"><a href="https://crestintotal.ro/category/live-programe/">Programe LIVE</a></li>
+</ul>
+</li>
+<li id="menu-item-39649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39649"><a href="https://crestintotal.ro/filme/">Filme</a>
+<ul class="sub-menu">
+	<li id="menu-item-113010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113010"><a href="https://crestintotal.ro/category/filme-crestine-online/">Filme crestine online</a></li>
+	<li id="menu-item-39597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39597"><a href="https://crestintotal.ro/category/film-romanesc/">Filme Romanesti</a></li>
+	<li id="menu-item-113009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113009"><a href="https://crestintotal.ro/category/film-crestine-full/">Film crestine: Full</a></li>
+	<li id="menu-item-39598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39598"><a href="https://crestintotal.ro/category/film-scurt-metraj/">Filme scurte</a></li>
+	<li id="menu-item-39614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39614"><a href="https://crestintotal.ro/filme/9-filme-dupa-romanele-de-janette-okeonline/">filme by Janette Oke (10ep)</a></li>
+	<li id="menu-item-39602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39602"><a href="https://crestintotal.ro/category/desene-animate/">Desene animate</a></li>
+	<li id="menu-item-39633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39633"><a href="https://crestintotal.ro/category/film-documentare/">Documentare</a></li>
+	<li id="menu-item-39643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39643"><a href="https://crestintotal.ro/category/pantomima/">Pantomime</a></li>
+</ul>
+</li>
+<li id="menu-item-25928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25928"><a href="https://crestintotal.ro/muzica-2/">Muzica</a>
+<ul class="sub-menu">
+	<li id="menu-item-26215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26215"><a href="https://crestintotal.ro/mp3-download/">Albume(Download)</a></li>
+	<li id="menu-item-36563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36563"><a href="https://crestintotal.ro/muzica-2/colectii-de-colinde/">Colinde(Download)</a></li>
+	<li id="menu-item-60053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60053"><a href="https://crestintotal.ro/category/albume-asculta/">Asculta albume</a></li>
+	<li id="menu-item-60054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60054"><a href="https://crestintotal.ro/category/albume-demo/">Abume Demo</a></li>
+	<li id="menu-item-60055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60055"><a href="https://crestintotal.ro/category/albume-domoasculta-colinde/">Albume: domo/asculta colinde</a></li>
+	<li id="menu-item-38058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38058"><a href="https://crestintotal.ro/category/videoclipuri/">Videoclipuri</a></li>
+	<li id="menu-item-60056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60056"><a href="https://crestintotal.ro/category/albume-lansari/">Albume: lansari</a></li>
+	<li id="menu-item-39966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39966"><a href="https://crestintotal.ro/interviuri/">Interviuri cu artisti</a></li>
+	<li id="menu-item-43562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43562"><a href="https://crestintotal.ro/category/video-concerte/">Concerte(secvente)</a></li>
+	<li id="menu-item-43567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43567"><a href="https://crestintotal.ro/category/video-concerte-full/">Concerte(FULL)</a></li>
+	<li id="menu-item-43055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43055"><a href="https://crestintotal.ro/category/evenimente/">Evenimente</a></li>
+	<li id="menu-item-38059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38059"><a href="https://crestintotal.ro/category/videoclipuri-de-craciun/">Videoclipuri de craciun</a></li>
+</ul>
+</li>
+<li id="menu-item-33817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33817"><a href="https://crestintotal.ro/predici/">Predici</a>
+<ul class="sub-menu">
+	<li id="menu-item-35797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35797"><a href="https://crestintotal.ro/category/predici-video/">Video</a></li>
+	<li id="menu-item-35796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35796"><a href="https://crestintotal.ro/category/predici-audio/">Audio</a></li>
+	<li id="menu-item-38371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38371"><a href="https://crestintotal.ro/predici/">Dupa autor</a></li>
+	<li id="menu-item-39968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39968"><a href="https://crestintotal.ro/interviuri/">Interviuri cu pastori</a></li>
+	<li id="menu-item-43565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43565"><a href="https://crestintotal.ro/category/video-conferinte/">Video: Conferinte</a></li>
+	<li id="menu-item-38675" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38675"><a href="https://crestintotal.ro/category/predici-schite/">Schite predici</a></li>
+	<li id="menu-item-39783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39783"><a href="https://crestintotal.ro/category/predici/">Predici(toate)</a></li>
+	<li id="menu-item-38169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38169"><a href="https://crestintotal.ro/category/marturii/">Marturii</a></li>
+	<li id="menu-item-35795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35795"><a href="https://crestintotal.ro/category/merita-vazut/">Merita vazut!</a></li>
+	<li id="menu-item-38041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38041"><a href="https://crestintotal.ro/biserici-live/">Biserici live</a></li>
+</ul>
+</li>
+<li id="menu-item-38625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38625"><a href="https://crestintotal.ro/resurse/citeste/">Resurse</a>
+<ul class="sub-menu">
+	<li id="menu-item-39902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39902"><a href="https://crestintotal.ro/articole/">Articole</a></li>
+	<li id="menu-item-38070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38070"><a href="https://crestintotal.ro/resurse/ganduri-frumoase/">Ganduri frumoase</a></li>
+	<li id="menu-item-38035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38035"><a href="https://crestintotal.ro/category/povesti/">Povesti</a></li>
+	<li id="menu-item-38446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38446"><a href="https://crestintotal.ro/stiri/">Stiri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-48383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48383"><a href="https://crestintotal.ro/category/stiri-video/">Stiri video</a></li>
+		<li id="menu-item-47033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47033"><a href="http://crestinmonden.wordpress.com/category/s-a-pocait/">S-a pocait!</a></li>
+		<li id="menu-item-47022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47022"><a href="https://crestintotal.ro/category/stiri-misionare/">Stiri Misionare</a></li>
+		<li id="menu-item-43053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43053"><a href="https://crestintotal.ro/category/evenimente/">Evenimente</a></li>
+		<li id="menu-item-51130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-51130"><a href="http://bycrestintotal.wordpress.com/">Anunturi</a>
+		<ul class="sub-menu">
+			<li id="menu-item-51131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51131"><a href="http://bycrestintotal.wordpress.com/category/anunturi/">VAND / CUMPAR</a></li>
+			<li id="menu-item-51132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51132"><a href="http://bycrestintotal.wordpress.com/locuri-de-munca/">Locuri de munca</a></li>
+			<li id="menu-item-51133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51133"><a href="http://bycrestintotal.wordpress.com/category/prestari-servicii/">Prestari servicii</a></li>
+			<li id="menu-item-51134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51134"><a href="http://bycrestintotal.wordpress.com/inchiriez/">Inchirieri</a></li>
+			<li id="menu-item-51135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51135"><a href="http://bycrestintotal.wordpress.com/category/donez/">Donatii</a></li>
+			<li id="menu-item-51136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51136"><a href="http://bycrestintotal.wordpress.com/category/anunturi-diverse/">Anunturi diverse</a></li>
+			<li id="menu-item-51137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51137"><a href="http://bycrestintotal.wordpress.com/adauga-anunt/">Adauga ANUNT</a></li>
+		</ul>
+</li>
+		<li id="menu-item-43734" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43734"><a href="https://crestintotal.ro/category/tabere/">Tabere</a></li>
+		<li id="menu-item-43730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43730"><a href="https://crestintotal.ro/category/concerte/">Concerte</a></li>
+		<li id="menu-item-43729" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43729"><a href="https://crestintotal.ro/category/botezuri/">Botezuri</a></li>
+		<li id="menu-item-43732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43732"><a href="https://crestintotal.ro/category/evanghelizare/">Evanghelizare</a></li>
+		<li id="menu-item-39790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39790"><a href="https://crestintotal.ro/category/turnee/">Turnee</a></li>
+		<li id="menu-item-43731" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43731"><a href="https://crestintotal.ro/category/conferinte/">Conferinte</a></li>
+		<li id="menu-item-43733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43733"><a href="https://crestintotal.ro/category/festival/">Festival</a></li>
+		<li id="menu-item-38450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38450"><a href="https://crestintotal.ro/category/stiri-crestine/">Toate Stirile</a></li>
+		<li id="menu-item-38447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38447"><a href="https://crestintotal.ro/category/anunturi/">Anunturi</a></li>
+	</ul>
+</li>
+	<li id="menu-item-39782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39782"><a href="https://crestintotal.ro/resurse/poezii/">Poezii</a></li>
+	<li id="menu-item-38029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38029"><a href="https://crestintotal.ro/category/interviuri/">Interviuri</a></li>
+	<li id="menu-item-38033" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38033"><a href="https://crestintotal.ro/category/marturii/">Marturii</a></li>
+	<li id="menu-item-38032" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-38032"><a href="https://crestintotal.ro/category/articole/">Editoriale</a></li>
+	<li id="menu-item-37936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37936"><a href="https://crestintotal.ro/category/emisiuni-tv/">Emisiuni tv</a></li>
+	<li id="menu-item-25921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25921"><a href="https://crestintotal.ro/resurse/carti-crestine/">Carti</a></li>
+	<li id="menu-item-38030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38030"><a href="https://crestintotal.ro/category/intrebari-raspunsuri/">Intrebari &amp; Raspunsuri</a></li>
+	<li id="menu-item-38036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38036"><a href="https://crestintotal.ro/category/prezentari/">Prezentari</a></li>
+	<li id="menu-item-25934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25934"><a href="https://crestintotal.ro/resurse/familie/">Familie</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25941"><a href="https://crestintotal.ro/resurse/familie/pentru-familie/">Pentru familie</a></li>
+		<li id="menu-item-25950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25950"><a href="https://crestintotal.ro/resurse/familie/pregatire-pre-maritala/">Pregătire pre-maritală</a></li>
+		<li id="menu-item-25922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25922"><a href="https://crestintotal.ro/resurse/familie/casatorie/">Casatorie</a></li>
+		<li id="menu-item-38072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38072"><a href="https://crestintotal.ro/librarie/carti-2/">Casatorie(Carti)</a></li>
+		<li id="menu-item-25926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25926"><a href="https://crestintotal.ro/resurse/familie/cresterea-copiilor/">Cresterea Copiiilor</a></li>
+		<li id="menu-item-25927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25927"><a href="https://crestintotal.ro/resurse/familie/cum-sa-ti-gasesti-iubirea-vietii/">Cum sa-ti gasesti iubirea vietii</a></li>
+		<li id="menu-item-25931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25931"><a href="https://crestintotal.ro/resurse/familie/elemente-ale-disciplinei-copilului/">Elemente ale disciplinei copilului</a></li>
+		<li id="menu-item-25942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25942"><a href="https://crestintotal.ro/resurse/familie/pentru-si-despre-femei/">Pentru si despre femei</a></li>
+		<li id="menu-item-38071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38071"><a href="https://crestintotal.ro/librarie/carti-2/">Viata crestina(carti)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-25933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25933"><a href="https://crestintotal.ro/librarie/">Librarie</a>
+<ul class="sub-menu">
+	<li id="menu-item-48409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48409"><a href="https://crestintotal.ro/librarie/biblii-de-vanzare/biblii-mari/">BIBLII</a></li>
+	<li id="menu-item-50391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50391"><a href="http://librariact.ro/index.php?route=product/category&#038;path=167">Personalizam Biblii</a></li>
+	<li id="menu-item-50389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50389"><a href="http://librariact.ro/index.php?route=product/category&#038;path=17">Carti</a></li>
+	<li id="menu-item-48411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48411"><a href="http://librariact.ro/index.php?route=product/category&#038;path=25">Cadouri</a></li>
+	<li id="menu-item-48403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48403"><a href="http://librariact.ro/index.php?route=product/category&#038;path=278">Ceasuri</a></li>
+	<li id="menu-item-48407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48407"><a href="http://librariact.ro/index.php?route=product/category&#038;path=25_59">Papirusuri</a></li>
+	<li id="menu-item-48402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48402"><a href="http://librariact.ro/index.php?route=product/category&#038;path=25_94">Brelocuri</a></li>
+	<li id="menu-item-50390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50390"><a href="http://librariact.ro/index.php?route=product/category&#038;path=18">Tablouri</a></li>
+	<li id="menu-item-48404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48404"><a href="http://librariact.ro/index.php?route=product/category&#038;path=25_28">Gravuri</a></li>
+	<li id="menu-item-48408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48408"><a href="http://librariact.ro/index.php?route=product/category&#038;path=17_91">Harfe</a></li>
+	<li id="menu-item-119006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119006"><a href="https://crestintotal.ro/librarie/comanda-cu-plata-prin-paypal-www-librariact-ro/">Comanda cu plata prin PayPal – www.librariact.ro</a></li>
+	<li id="menu-item-48410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48410"><a href="http://librariact.ro/">AICI toate produsele</a></li>
+	<li id="menu-item-48405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48405"><a href="http://librariact.ro/contact/">Comenzi</a></li>
+</ul>
+</li>
+<li id="menu-item-48207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48207"><a href="http://wallpaper4god.wordpress.com/">Wallpapere</a>
+<ul class="sub-menu">
+	<li id="menu-item-48358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48358"><a href="http://wallpaper4god.wordpress.com/wallpapere-crestine2/">Wallpapere(500ex)</a></li>
+	<li id="menu-item-48357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48357"><a href="http://wallpaper4god.wordpress.com/wallpapere-crestine1/">Wallpapere(600ex)</a></li>
+	<li id="menu-item-48359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48359"><a href="http://wallpaper4god.wordpress.com/wallpapere-crestine3/">Wallpapere(700ex)</a></li>
+	<li id="menu-item-48360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48360"><a href="http://wallpaper4god.wordpress.com/wallpapere-de-iarna/">de Iarna/Craciun</a></li>
+	<li id="menu-item-48382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48382"><a href="https://crestintotal.ro/category/poze/">Poze evenimente</a></li>
+	<li id="menu-item-48356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48356"><a href="http://wallpaper4god.wordpress.com/wallpapere-by-crestintotal-ro/">by CrestinTotal</a></li>
+	<li id="menu-item-48371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48371"><a href="http://wallpaper4god.wordpress.com/wallpapere-cu-copii/">cu copii</a></li>
+	<li id="menu-item-48372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48372"><a href="http://wallpaper4god.wordpress.com/wallpapere-primavara/">de primavara</a></li>
+	<li id="menu-item-48374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48374"><a href="http://wallpaper4god.wordpress.com/wallpapere-animale/">cu animale</a></li>
+	<li id="menu-item-48377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48377"><a href="http://wallpaper4god.wordpress.com/wallpapere-de-toamna/">de toamna</a></li>
+	<li id="menu-item-48375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48375"><a href="http://wallpaper4god.wordpress.com/wallpapere-inimi/">cu inimi</a></li>
+	<li id="menu-item-48373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48373"><a href="http://wallpaper4god.wordpress.com/wallpapere-vara/">de vara</a></li>
+	<li id="menu-item-48376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48376"><a href="http://wallpaper4god.wordpress.com/pasti/">de pasti</a></li>
+	<li id="menu-item-48378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48378"><a href="http://wallpaper4god.wordpress.com/avatare-crestine/">Avatare</a></li>
+</ul>
+</li>
+<li id="menu-item-25953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25953"><a href="https://crestintotal.ro/radio-tv/">Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-25952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25952"><a href="https://crestintotal.ro/radio-tv/radio-crestine/">Radio-uri</a></li>
+	<li id="menu-item-25963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25963"><a href="https://crestintotal.ro/radio-tv/tv-crestine/">Televiziuni</a></li>
+	<li id="menu-item-38061" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38061"><a href="https://crestintotal.ro/category/lansare-radio/">Lansare Radio</a></li>
+	<li id="menu-item-37983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37983"><a href="https://crestintotal.ro/category/emisiuni-tv/">Emisiuni tv</a></li>
+	<li id="menu-item-48379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48379"><a href="https://crestintotal.ro/category/prezentari/">Prezentari</a></li>
+	<li id="menu-item-48380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48380"><a href="https://crestintotal.ro/category/live-programe/">Programe LIVE</a></li>
+	<li id="menu-item-25968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25968"><a href="https://crestintotal.ro/resurse/">Resurse</a></li>
+	<li id="menu-item-38628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38628"><a href="https://crestintotal.ro/resurse/linkuri/linkuri-crestine/">Linkuri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-38158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38158"><a href="https://crestintotal.ro/resurse/linkuri/linkuri-parteneri/">Parteneri</a></li>
+		<li id="menu-item-38166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38166"><a href="https://crestintotal.ro/resurse/biserica/linkuri-biserici/">Linkuri Biserici</a></li>
+		<li id="menu-item-38163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38163"><a href="https://crestintotal.ro/muzica/site-uri-de-trupe-artisti-si-studiouri/">Linkuri Artisti si Studiouri</a></li>
+		<li id="menu-item-38157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38157"><a href="https://crestintotal.ro/resurse/linkuri/linkuri-bloguri/">Bloguri</a></li>
+		<li id="menu-item-38167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38167"><a href="https://crestintotal.ro/resurse/biserica/statistica-confesiunilor-cultul-baptist/">Statistica Baptisti</a></li>
+		<li id="menu-item-38168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38168"><a href="https://crestintotal.ro/resurse/biserica/statistica-confesiunilor-cultul-penticostal/">Statistica Penticostali</a></li>
+	</ul>
+</li>
+	<li id="menu-item-25956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25956"><a href="https://crestintotal.ro/sms-uri-crestine/">Sms-uri</a>
+	<ul class="sub-menu">
+		<li id="menu-item-36864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36864"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-aniversare/">Aniversare</a></li>
+		<li id="menu-item-36857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36857"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-dragoste/">Dragoste</a></li>
+		<li id="menu-item-47154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47154"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-pentru-mama/">Pentru Mama</a></li>
+		<li id="menu-item-36858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36858"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-diverse/">Diverse</a></li>
+		<li id="menu-item-36855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36855"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-pasti/">de Pasti</a></li>
+		<li id="menu-item-36859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36859"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-craciun/">de Craciun</a></li>
+		<li id="menu-item-36856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36856"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-an-nou/">de An nou</a></li>
+	</ul>
+</li>
+	<li id="menu-item-47010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-47010"><a href="https://crestintotal.ro/category/poze/">Imagini</a>
+	<ul class="sub-menu">
+		<li id="menu-item-35764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35764"><a href="https://crestintotal.ro/wallpapere-crestine/">Wallpapere crestine</a></li>
+		<li id="menu-item-47012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47012"><a href="https://crestintotal.ro/category/poze-concerte/">Concerte</a></li>
+		<li id="menu-item-47011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47011"><a href="https://crestintotal.ro/category/poze-botez/">Botez</a></li>
+		<li id="menu-item-47020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47020"><a href="https://crestintotal.ro/category/poze-nunti/">Nunti</a></li>
+		<li id="menu-item-47013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47013"><a href="https://crestintotal.ro/category/poze-conferinte/">Conferinte</a></li>
+		<li id="menu-item-47014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47014"><a href="https://crestintotal.ro/category/poze-deschideri-biserici/">Deschideri Biserici</a></li>
+		<li id="menu-item-47017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47017"><a href="https://crestintotal.ro/category/poze-evenimente-pasti/">Evenimente Pasti</a></li>
+		<li id="menu-item-47015" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47015"><a href="https://crestintotal.ro/category/poze-diverse/">Diverse</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-98505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98505"><a href="https://www.youtube.com/user/Crestintotaltv/?sub_confirmation=1">Crestin Total TV</a></li>
+<li id="menu-item-86166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86166"><a href="https://crestintotal.ro/librarie/biblii-de-vanzare/biblii-mari/">BIBLII</a>
+<ul class="sub-menu">
+	<li id="menu-item-86167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86167"><a href="https://crestintotal.ro/librarie/biblii-de-vanzare/biblii-de-lux/">Biblii de Lux</a></li>
+	<li id="menu-item-86168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86168"><a href="https://crestintotal.ro/librarie/biblii-de-vanzare/biblii-de-studiu/">Biblii de studiu</a></li>
+	<li id="menu-item-86169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86169"><a href="https://crestintotal.ro/librarie/biblii-cornilescu/">Biblii Cornilescu</a></li>
+	<li id="menu-item-86170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86170"><a href="https://crestintotal.ro/librarie/biblii-cornilescu-mari/">Biblii Cornilescu mari</a></li>
+	<li id="menu-item-86171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86171"><a href="https://crestintotal.ro/librarie/biblii-cornilescu-mici/">Biblii Cornilescu mici</a></li>
+	<li id="menu-item-86172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86172"><a href="https://crestintotal.ro/librarie/biblii-cornilescu-mijlocii/">Biblii Cornilescu mijlocii</a></li>
+	<li id="menu-item-86173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86173"><a href="https://crestintotal.ro/librarie/biblii-cu-explicatii-si-concordanta/">Biblii cu explicatii si concordanta</a></li>
+	<li id="menu-item-86174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86174"><a href="https://crestintotal.ro/librarie/biblii-cu-index/">Biblii cu index</a></li>
+	<li id="menu-item-86175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86175"><a href="https://crestintotal.ro/librarie/biblii-de-lux/">Biblii de lux</a></li>
+	<li id="menu-item-86176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86176"><a href="https://crestintotal.ro/librarie/biblii-de-vanzare/">Biblii de vanzare</a></li>
+	<li id="menu-item-86177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86177"><a href="https://crestintotal.ro/librarie/biblii-din-piele/">Biblii din piele</a></li>
+	<li id="menu-item-86178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86178"><a href="https://crestintotal.ro/librarie/biblii-foarte-mari/">BIBLII FOARTE MARI</a></li>
+	<li id="menu-item-86179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86179"><a href="https://crestintotal.ro/librarie/biblii-hand-made/">Biblii Hand Made</a></li>
+	<li id="menu-item-86180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86180"><a href="https://crestintotal.ro/librarie/biblii-thompson/">Biblii THOMPSON</a></li>
+</ul>
+</li>
+<li id="menu-item-86181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-86181"><a href="https://crestintotal.ro/category/marturii/">Marturii</a>
+<ul class="sub-menu">
+	<li id="menu-item-86184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86184"><a href="https://crestintotal.ro/category/marturii/">Marturii</a></li>
+	<li id="menu-item-86182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86182"><a href="https://crestintotal.ro/category/marturii-video/">Marturii video</a></li>
+	<li id="menu-item-86183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-86183"><a href="https://smartday.ro/category/s-a-pocait/">S-A POCAIT!</a></li>
+</ul>
+</li>
+<li id="menu-item-86192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-86192"><a href="https://crestintotal.ro/sms-uri-crestine/">Sms-uri</a>
+<ul class="sub-menu">
+	<li id="menu-item-105496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105496"><a href="https://crestintotal.ro/sms-uri-crestine/sms-mesaje-crestine/">SMS – MESAJE CRESTINE</a></li>
+	<li id="menu-item-86185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86185"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-pentru-mama/">Sms-uri, mesaje urari pentru MAME – ziua femeii si de 8 Martie (peste 100 de mesaje)</a></li>
+	<li id="menu-item-86186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86186"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-aniversare/">Sms-uri, mesaje, urari de zile de nastere (Aniversare) – peste 100 de mesaje</a></li>
+	<li id="menu-item-86189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86189"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-dragoste/">Sms-uri de Dragoste</a></li>
+	<li id="menu-item-86187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86187"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-pasti/">SMS-uri mesaje de PAŞTE: HRISTOS A ÎNVIAT!</a></li>
+	<li id="menu-item-86191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86191"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-craciun/">SMS-uri mesaje, urari de Craciun (peste 100 de mesaje) Cele mai frumoase mesaje sărbători</a></li>
+	<li id="menu-item-86188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86188"><a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-de-an-nou/">Sms-uri de An nou</a></li>
+</ul>
+</li>
+<li id="menu-item-25970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25970"><a href="https://crestintotal.ro/contact-2-2/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-38457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38457"><a href="https://crestintotal.ro/contact-2-2/">Contact</a></li>
+	<li id="menu-item-41860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41860"><a href="https://crestintotal.ro/contact-2-2/logo-pt-afise/">Logo4afise</a></li>
+	<li id="menu-item-35520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35520"><a href="https://crestintotal.ro/contact-2-2/bannerspot/">Banner/spot</a></li>
+	<li id="menu-item-117104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117104"><a href="https://crestintotal.ro/contact-2-2/donatii-si-sprijin-financiar-pentru-crestintotal-ro/">DONAȚII</a></li>
+	<li id="menu-item-38489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38489"><a href="https://crestintotal.ro/contact-2-2/reclama/">Vrei Reclama pe site-ul nostru?</a></li>
+	<li id="menu-item-35519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35519"><a href="https://crestintotal.ro/contact-2-2/promoveaza/">Promoveaza site</a></li>
+	<li id="menu-item-47704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47704"><a href="https://crestintotal.ro/contact-2-2/colaborare-evenimente/">Colaborare Evenimente</a></li>
+	<li id="menu-item-25907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25907"><a href="https://crestintotal.ro/contact-2-2/aboneaza-te-la-crestin-total/">Abonament Crestin Total</a></li>
+	<li id="menu-item-48406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48406"><a href="http://librariact.ro/">Comenzi</a></li>
+	<li id="menu-item-25930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25930"><a href="https://crestintotal.ro/contact-2-2/echipa-crestintotal-2/">Echipa</a></li>
+</ul>
+</li>
+</ul></div>	</nav>
+	</header>
+		<section class="news-ticker clearfix">
+			<div class="ticker-title">
+				ULTIMELE STIRI			</div>
+							<div class="ticker-content">
+					<ul id="ticker">
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/luigi-mitoi-riscul-iubirii-lucrurilor-materiale/" title="Luigi Mițoi &#8211; Riscul iubirii lucrurilor&nbsp;materiale">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Luigi Mițoi &#8211; Riscul iubirii lucrurilor&nbsp;materiale							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/mike-pence-eu-si-presedintele-trump-am-sustinut-libertatea-religioasa-si-o-vom-face-in-continuare/" title="Mike Pence | Eu și președintele Trump am susținut libertatea religioasă și o vom face în&nbsp;continuare">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Mike Pence | Eu și președintele Trump am susținut libertatea religioasă și o vom face în&nbsp;continuare							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/vieti-transformate-ion-tomeci/" title="Vieți Transformate &#8211; Ion&nbsp;Tomeci">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Vieți Transformate &#8211; Ion&nbsp;Tomeci							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/urmariti-binele-cetatii-pentru-ca-fericirea-voastra-atarna-de-fericirea-ei/" title="Urmăriți binele cetății pentru că fericirea voastră atârnă de fericirea&nbsp;ei.">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Urmăriți binele cetății pentru că fericirea voastră atârnă de fericirea&nbsp;ei.							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/mihai-petroesc-ce-faci-cand-iti-oboseste-sufletul/" title="Mihai Petroesc: Ce faci cand iti oboseste&nbsp;sufletul?">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Mihai Petroesc: Ce faci cand iti oboseste&nbsp;sufletul?							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/florin-antonie-povestea-ta-povestea-mea-povestea-noastra/" title="Florin Antonie &#8211; Povestea ta, povestea mea, povestea&nbsp;noastră!">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Florin Antonie &#8211; Povestea ta, povestea mea, povestea&nbsp;noastră!							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/iubirea-cazuta-pe-tobogan-de-nicolae-geanta/" title="Iubirea căzută pe tobogan &#8211; de&nbsp;Nicolae.Geantă">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Iubirea căzută pe tobogan &#8211; de&nbsp;Nicolae.Geantă							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/ioana-vasiu-as-vrea-sa-numar-clipele-dar-timpul-trece-n-graba-dar-ce-voi-spune/" title="Ioana Vasiu: Aş vrea să număr clipele, dar timpul trece-n grabă (Dar ce voi&nbsp;spune)">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Ioana Vasiu: Aş vrea să număr clipele, dar timpul trece-n grabă (Dar ce voi&nbsp;spune)							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/adevarul-ro-fiul-pastorului-richard-wurmbrand-unul-dintre-cei-mai-influenti-crestini-tata-a-convins-nemti-sa-i-ajute-pe-evreii-persecutati-de-regimul-antonescu/" title="Adevărul.ro: Fiul pastorului Richard Wurmbrand, unul dintre cei mai influenţi creştini: „Tata a convins nemţi să-i ajute pe evreii persecutaţi de regimul&nbsp;Antonescu“">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Adevărul.ro: Fiul pastorului Richard Wurmbrand, unul dintre cei mai influenţi creştini: „Tata a convins nemţi să-i ajute pe evreii persecutaţi de regimul&nbsp;Antonescu“							</span>
+								</a>
+							</li>
+													<li class="ticker-item">
+								<a href="https://crestintotal.ro/2020/10/14/apel-la-rugaciune-pentru-anton-damian-care-este-in-spital-intubat-cu-complicatii-la-plamani/" title="Apel la rugaciune pentru Anton Damian care este in spital intubat cu complicații la&nbsp;plămâni.">
+							<span class="meta ticker-item-meta">
+							14 octombrie 2020 în Articole // 							</span>
+							<span class="meta ticker-item-title">
+								Apel la rugaciune pentru Anton Damian care este in spital intubat cu complicații la&nbsp;plămâni.							</span>
+								</a>
+							</li>
+																	</ul>
+				</div>
+					</section>
+	<div class="wrapper clearfix">
+	<div class="main">
+		<div class="content left"><article id="post-149430" class="post-149430 post type-post status-publish format-standard has-post-thumbnail hentry category-articole">
+	<header class="post-header">
+		<h1 class="entry-title">Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această&nbsp;generație</h1>
+		<p class="meta post-meta">Publicat pe <span class="updated">9 octombrie 2020</span>  de <span class="vcard author"><a class="fn" href="https://crestintotal.ro/author/dejro/">ADMIN</a></span>  în <a href="https://crestintotal.ro/category/articole/" rel="category tag">Articole</a></p>
+	</header>
+	<div id="jetpack_simple_payments_widget-22" class="sb-widget posts-1 jetpack-simple-payments"><div class="jetpack-simple-payments-content">
+<div class="jetpack-simple-payments-116864 jetpack-simple-payments-wrapper">
+	<div class="jetpack-simple-payments-product">
+		
+		<div class="jetpack-simple-payments-details">
+			<div class="jetpack-simple-payments-title"><p>DONAȚII ȘI SPRIJIN FINANCIAR pentru&nbsp;CrestinTotal.ro</p></div>
+			<div class="jetpack-simple-payments-description"><p></p></div>
+			<div class="jetpack-simple-payments-price"><p>$3.00</p></div>
+			<div class="jetpack-simple-payments-purchase-message" id="jetpack-simple-payments-116864_5f874515567e16.14966188-message-container"></div><div class="jetpack-simple-payments-purchase-box">
+				<div class="jetpack-simple-payments-items">
+					<input class="jetpack-simple-payments-items-number" type="number" value="1" min="1" id="jetpack-simple-payments-116864_5f874515567e16.14966188_number" />
+				</div>
+				<div class="jetpack-simple-payments-button" id="jetpack-simple-payments-116864_5f874515567e16.14966188_button"></div></div>
+		</div>
+	</div>
+</div>
+</div><!--simple-payments--></div>	<div class="entry clearfix">
+		
+<div class="post-thumbnail">
+<a href="https://crestintotal.files.wordpress.com/2020/10/img_0353.jpg" rel="prettyPhoto"><img src="https://crestintotal.files.wordpress.com/2020/10/img_0353.jpg?w=638&h=400&crop=1" alt="" title="img_0353" /></a>
+</div>
+		<div class="cs-rating pd-rating" id="pd_rating_holder_538812_post_149430"></div><br/>
+<p>Pandemia de Covid 19 pune la grea încercare bisericile și conducerea acestora. Unele biserici au înțeles provocarea și merg înainte prin noua realitate, altele s-au blocat, iar unele au găsit rezolvarea, dau vina pe Covid 19.</p>
+
+
+
+<p>Cum să dai vina pe Covid 19 când în cele mai multe biserici se practica și înainte distanțarea fizică la slujbele religioase, majoritatea fiind pe jumătate goale.</p>
+
+
+
+<p>Cum să dai vina pe Covid 19 când înainte de asta unii lideri crestini erau blocați în discuții inutile de genul &#8222;câți îngeri stau pe un vârf de ac&#8221; sau altele și mai smintite.</p>
+
+
+
+<p>Cum să dai vina pe Covid 19 când înainte de asta unii creștini au petrecut mai mult timp să-și bârfească frații decât să vorbească cu prietenii sau vecini despre mesajul mântuirii.</p>
+
+
+
+<p>Cum să dai vina pe Covid 19 când unii prea spirituali și-au scuzat lenea și neimplicarea cu rugăciuni și așteptând ca Domnul să facă ceea ce ei n-au făcut, uitând că fără fapte credința este moartă.</p>
+
+
+
+<p>Cum să dai vina pe Covid când de ani de zile nu ai făcut nimic pentru mântuirea celor pierduți, iar acum vrei ca Dumnezeu să facă minuni, să oprească virusul și să mântuiască toți oamenii într-o singură zi.</p>
+
+
+
+<p>Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această generație. Dar nu Covid 19 conduce viața și slujirea bisericilor, ci Cristos. Pandemia nu ne poate schimba teologia, doar ne obligă să ne regândim metodologia.</p>
+
+
+
+<p>Cine va înțelege provocarea acestor vremuri, va face ajustările necesare și va merge înainte cu încrederea că Dumnezeu este suveran și nimic nu se întâmplă fără voia Lui. Cine nu, se va bloca sau va rămâne cu scuzele.</p>
+
+
+
+<p>Samy Tuțac</p>
+
+
+
+<p><a href="https://www.facebook.com/538581796279229/posts/2015791841891543/?extid=0&amp;d=n">https://www.facebook.com/538581796279229/posts/2015791841891543/?extid=0&amp;d=n</a></p>
+			<div id="atatags-50610691-5f87451557223"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-50610691-5f87451557223',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Reclame',
+						},
+						creative: {
+							reportAd: {
+								text: 'Raportează această reclamă',
+							},
+							privacySettings: {
+								text: 'Setări confidențialitate',
+							}
+						}
+					});
+				});
+			</script><div id="atatags-50610695-5f8745155724f">
+        <script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-50610695-5f8745155724f', {
+                    sectionId: '50610695',
+                    format: 'inread'
+                });
+            });
+        </script>
+    </div><div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Anunta-ti si prietenii de acest articol prin:</h3><div class="sd-content"><ul><li class="share-facebook"><div class="fb-share-button" data-href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" data-layout="button_count"></div></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/?share=jetpack-whatsapp" target="_blank" title="Dă clic pentru partajare pe WhatsApp"><span>WhatsApp</span></a></li><li class="share-pinterest"><div class="pinterest_button"><a href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fcrestintotal.ro%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F&#038;media=https%3A%2F%2Fcrestintotal.files.wordpress.com%2F2020%2F10%2Fimg_0353.jpg&#038;description=Samy%20Tu%C8%9Bac%3A%20Pandemia%20de%20Covid%2019%20este%20cea%20mai%20mare%20provocare%20pentru%20bisericile%20din%20aceast%C4%83%20genera%C8%9Bie" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" /></a></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" data-text="Samy Tuțac: Pandemia de Covid 19 este cea mai mare provocare pentru bisericile din această generație" data-via="crestintotal" data-related="wordpressdotcom">Tweet</a></li><li class="share-skype"><div class="skype-share" data-href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" data-lang="en-US" data-style="small" data-source="jetpack" ></div></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/?share=email" target="_blank" title="Clic pentru a trimite prin email unui prieten"><span>Email</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button" href="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/#print" target="_blank" title="Clic pentru imprimare"><span>Listare</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-5061069-149430-5f87451557d66' data-src='//widgets.wp.com/likes/index.html?ver=20200826#blog_id=5061069&amp;post_id=149430&amp;origin=crestintotal.wordpress.com&amp;obj_id=5061069-149430-5f87451557d66&amp;domain=crestintotal.ro' data-name='like-post-frame-5061069-149430-5f87451557d66'><h3 class='sd-title'>Apreciază:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Apreciere</span></span> <span class="loading">Încarc...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Similare</em></h3>
+</div></div>	</div>
+		<div id="custom_html-2" class="widget_text sb-widget posts-2 widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.kerigma.ro/"><img class="wp-image-125452 size-full aligncenter" src="https://crestintotal.files.wordpress.com/2019/06/460x90_crestin_total_sub_articol.gif" alt="" width="460" height="90" /></a>
+</div></div><div id="jetpack_simple_payments_widget-21" class="sb-widget posts-2 jetpack-simple-payments"><div class="jetpack-simple-payments-content">
+<div class="jetpack-simple-payments-116864 jetpack-simple-payments-wrapper">
+	<div class="jetpack-simple-payments-product">
+		
+		<div class="jetpack-simple-payments-details">
+			<div class="jetpack-simple-payments-title"><p>DONAȚII ȘI SPRIJIN FINANCIAR pentru&nbsp;CrestinTotal.ro</p></div>
+			<div class="jetpack-simple-payments-description"><p></p></div>
+			<div class="jetpack-simple-payments-price"><p>$3.00</p></div>
+			<div class="jetpack-simple-payments-purchase-message" id="jetpack-simple-payments-116864_5f8745155965f4.98393455-message-container"></div><div class="jetpack-simple-payments-purchase-box">
+				<div class="jetpack-simple-payments-items">
+					<input class="jetpack-simple-payments-items-number" type="number" value="1" min="1" id="jetpack-simple-payments-116864_5f8745155965f4.98393455_number" />
+				</div>
+				<div class="jetpack-simple-payments-button" id="jetpack-simple-payments-116864_5f8745155965f4.98393455_button"></div></div>
+		</div>
+	</div>
+</div>
+</div><!--simple-payments--></div><div id="jetpack_display_posts_widget-7" class="sb-widget posts-2 widget_jetpack_display_posts_widget"><h4 class="widget-title">Articole recente: Noutati Crestine</h4><div class="jetpack-display-remote-posts"><h4><a href="http://noutaticrestine.ro/2020/10/14/rahela-buble-dac-as-fi-stapan-pe-lumea-ntreaga/" target="_blank" rel="noopener">Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă</a></h4>
+<a title="Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă" href="http://noutaticrestine.ro/2020/10/14/rahela-buble-dac-as-fi-stapan-pe-lumea-ntreaga/" target="_blank" rel="noopener"><img src="https://crestinmonden.files.wordpress.com/2020/10/maxresdefault-9.jpg" alt="Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă"/></a><h4><a href="http://noutaticrestine.ro/2020/10/01/florin-ianovici-fa-ceva-cu-tine/" target="_blank" rel="noopener">Florin Ianovici &#8211; Fă ceva cu tine</a></h4>
+<a title="Florin Ianovici &#8211; Fă ceva cu tine" href="http://noutaticrestine.ro/2020/10/01/florin-ianovici-fa-ceva-cu-tine/" target="_blank" rel="noopener"><img src="https://crestinmonden.files.wordpress.com/2020/10/download.jpg" alt="Florin Ianovici &#8211; Fă ceva cu tine"/></a></div><!-- .jetpack-display-remote-posts --></div><div id="jetpack_display_posts_widget-14" class="sb-widget posts-2 widget_jetpack_display_posts_widget"><h4 class="widget-title">Articole recente: LibrariaCT.ro</h4><div class="jetpack-display-remote-posts"><h4><a href="https://librariacrestintotal.wordpress.com/2019/12/21/biblie-mijlocie-neagra-de-lux-margini-aurii-2/" target="_blank" rel="noopener">Biblie mijlocie neagra de lux + margini AURII</a></h4>
+<a title="Biblie mijlocie neagra de lux + margini AURII" href="https://librariacrestintotal.wordpress.com/2019/12/21/biblie-mijlocie-neagra-de-lux-margini-aurii-2/" target="_blank" rel="noopener"><img src="https://librariacrestintotal.files.wordpress.com/2019/12/biblie-neagra-de-lux-500x500-1-1.jpg" alt="Biblie mijlocie neagra de lux + margini AURII"/></a></div><!-- .jetpack-display-remote-posts --></div><div id="custom_html-8" class="widget_text sb-widget posts-2 widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://crestintotal.ro/contact-2-2/donatii-si-sprijin-financiar-pentru-crestintotal-ro/"><img class="aligncenter size-full wp-image-136454" src="https://crestintotal.files.wordpress.com/2020/01/22-1.jpg" alt="" width="922" height="121" /></a></div></div><div id="jetpack_simple_payments_widget-23" class="sb-widget posts-2 jetpack-simple-payments"><div class="jetpack-simple-payments-content">
+<div class="jetpack-simple-payments-126214 jetpack-simple-payments-wrapper">
+	<div class="jetpack-simple-payments-product">
+		
+		<div class="jetpack-simple-payments-details">
+			<div class="jetpack-simple-payments-title"><p>Sustine. Ajuta-ne sa aducem acest proiect mai departe. Strângere de fonduri pentru un nou format.&nbsp;Multumim</p></div>
+			<div class="jetpack-simple-payments-description"><p></p></div>
+			<div class="jetpack-simple-payments-price"><p>$1.00</p></div>
+			<div class="jetpack-simple-payments-purchase-message" id="jetpack-simple-payments-126214_5f87451559e2e8.53433946-message-container"></div><div class="jetpack-simple-payments-purchase-box">
+				<div class="jetpack-simple-payments-items">
+					<input class="jetpack-simple-payments-items-number" type="number" value="1" min="1" id="jetpack-simple-payments-126214_5f87451559e2e8.53433946_number" />
+				</div>
+				<div class="jetpack-simple-payments-button" id="jetpack-simple-payments-126214_5f87451559e2e8.53433946_button"></div></div>
+		</div>
+	</div>
+</div>
+</div><!--simple-payments--></div></article><section class="author-box author-box-layout2">
+<div class="author-box-wrap clearfix">
+<div class="author-box-avatar"><img alt='' src='https://1.gravatar.com/avatar/4f07fd7bd594c976f381745194f34e2d?s=113&#038;d=&#038;r=G' class='avatar avatar-113' height='113' width='113' /></div>
+<h5 class="author-box-name">Despre ADMIN<span class="author-box-postcount"> (<a href="https://crestintotal.ro/author/dejro/" title="Mai multe articole scrise de ADMIN">27951 de articole</a>)</span></h5>
+<div class="author-box-desc">Nu va ingrijoarti,dar,de ziua de maine; caci ziua de maine se va ingrijora de ea insasi. Ajunge zilei necazul ei</div>
+</div>
+</section>
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Lasă un răspuns <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/#respond" style="display:none;">Anulează răspunsul</a></small></h3><form action="https://crestintotal.ro/wp-comments-post.php" method="post" id="commentform" class="comment-form"><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e0213b995f" /><input type="hidden" name="_wp_http_referer" value="/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Introdu aici comentariul tău...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Introdu aici comentariul tău..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+	<div id="comment-form-nascar">
+		<p>Completează mai jos detaliile tale sau dă clic pe un icon pentru a te autentifica:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" class="nascar-signin-link"
+                   title="Autentificare via Vizitator">
+									</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" class="nascar-signin-link"
+                   title="Autentificare via WordPress.com">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" class="nascar-signin-link"
+                   title="Autentificare via Twitter">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" class="nascar-signin-link"
+                   title="Autentificare via Facebook">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg>				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(obligatoriu)</span> <span class="nopublish">(Adresa nu se face publică niciodată)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Nume <span class="required">(obligatoriu)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Site web</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Logo WordPress.com" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+						<p class="comment-form-posting-as pa-wordpress">
+			<strong></strong>
+			Comentezi folosind contul tău WordPress.com.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Dezautentificare</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Schimbă</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Fotografie Google" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+						<p class="comment-form-posting-as pa-googleplus">
+			<strong></strong>
+			Comentezi folosind contul tău Google.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Dezautentificare</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Schimbă</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" x="0px" y="0px" viewBox="0 0 60 60" ><path fill="#519bf7" d="M56.3,30c0,-1.6 -0.2,-3.4 -0.6,-5h-3.1H42.2H30v10.6h14.8C44,39.3 42,42 39.1,43.9l8.8,6.8C53,46 56.3,39 56.3,30z" /><path fill="#3db366" d="M30,57.5c6.7,0 13.1,-2.4 17.9,-6.8l-8.8,-6.8c-2.5,1.6 -5.6,2.4 -9.1,2.4c-7.2,0 -13.3,-4.7 -15.4,-11.2l-9.3,7.1C9.8,51.3 19.1,57.5 30,57.5z" /><path fill="#fdc600" d="M5.3,42.2l9.3,-7.1c-0.5,-1.6 -0.8,-3.3 -0.8,-5.1s0.3,-3.5 0.8,-5.1l-9.3,-7.1C3.5,21.5 2.5,25.6 2.5,30S3.5,38.5 5.3,42.2z" /><path fill="#f15b44" d="M40.1,17.4l8,-8C43.3,5.1 37,2.5 30,2.5C19.1,2.5 9.8,8.7 5.3,17.8l9.3,7.1c2.1,-6.5 8.2,-11.1 15.4,-11.1C33.9,13.7 37.4,15.1 40.1,17.4z" /></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Poză Twitter" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+						<p class="comment-form-posting-as pa-twitter">
+			<strong></strong>
+			Comentezi folosind contul tău Twitter.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Dezautentificare</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Schimbă</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=&amp;forcedefault=y&amp;r=G" alt="Fotografie Facebook" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+						<p class="comment-form-posting-as pa-facebook">
+			<strong></strong>
+			Comentezi folosind contul tău Facebook.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Dezautentificare</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Schimbă</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Anulează</a></div>
+		<p>Conectare la %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notifică-mă despre comentarii noi prin email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notifică-mă despre articole noi via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Publică comentariul" /> <input type='hidden' name='comment_post_ID' value='149430' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5325c882cb" /></p>
+<input type="hidden" name="genseq" value="1602700565" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="215"/></p></form>	</div><!-- #respond -->
+	<div style="clear: both"></div><p class="akismet_comment_form_privacy_notice">Acest site folosește Akismet pentru a reduce spamul. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Află cum sunt procesate datele comentariilor tale</a>.</p>		</div>
+			<aside class="sidebar sb-right"><div id="search-3" class="sb-widget widget_search"><form role="search" method="get" id="searchform" action="https://crestintotal.ro/">
+    <fieldset>
+	<input type="text" value="Scrie ce cauţi şi apasǎ enter" onfocus="if (this.value == 'Scrie ce cauţi şi apasǎ enter') this.value = ''" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="" />
+    </fieldset>
+</form></div>		<div class="wpcnt">
+			<div class="wpa">
+				<span class="wpa-about">Reclame</span>
+				<div class="u mrec">
+							<div style="padding-bottom:15px;width:300px;height:250px;">
+			<div id="atatags-50610693-5f8745155ddf7">
+				<script type="text/javascript">
+				__ATA.cmd.push(function() {
+					__ATA.initSlot('atatags-50610693-5f8745155ddf7',  {
+						collapseEmpty: 'before',
+						sectionId: '50610693',
+						location: 150,
+						width: 300,
+						height: 250
+					});
+				});
+				</script>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div><div id="custom_html-4" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.kerigma.ro/" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2019/06/150x300_crestin_total.gif" alt="" width="300" height="150" class="aligncenter size-full wp-image-125341" /></a>
+
+
+<a href="https://www.librariamaranatha.ro/" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2020/10/img_0266.jpg?w=1" alt="" width="300" height="300" class="aligncenter size-full wp-image-125341" /></a>
+
+</div></div><div id="custom_html-5" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><a title="LCT" href="http://librariact.ro/index.php?route=common/home" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2018/08/ok1.jpg" alt="Banner http://librariact.ro " width="300" height="200" /></a>
+
+<a title="biblii" href="https://www.youtube.com/c/InformatiiCrestine?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://crestinmonden.files.wordpress.com/2019/12/54518044_2214128602183624_3282111714367111168_o.png?w=940" alt="Banner filme " width="325" height="155" /></a>
+
+
+
+<a title="bibli" href="https://biblii.ro/index.php?route=common/home" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2019/10/libraria_de_biblii.png?w=2000&amp;h=" alt="Banner http://librariact.ro " width="300" height="150" /></a>
+
+<a title="biblii" href="https://www.evanghelicreformat.org/teologie-si-cafea" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2020/05/copy-of-teologie-c899i-cafea-2.png" alt="Banner filme " width="325" height="155" /></a>
+
+
+<a title="bibli" href="https://www.youtube.com/user/Crestintotaltv/?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2019/12/12m54518044_2214128602183624_3282111714367111168_o.png?w=940" alt="Banner http://librariact.ro " width="300" height="150" /></a>
+</div></div><div id="top-posts-5" class="sb-widget widget_top-posts"><h4 class="widget-title">Cele mai citite articole și pagini</h4><ul class='widgets-list-layout no-grav'>
+					<li>
+						<a href="https://crestintotal.ro/2020/10/13/fratele-constantin-antimie-a-plecat-in-vesnicie-sa-mijlocim-pentru-familia-indoiala-pentru-sotie-si-cei-cinci-copilasi-ramasi-orfani/" title="Fratele Constantin Antimie a plecat în veșnicie. Să mijlocim pentru familia îndoială, pentru soție și cei cinci copilași, rămași orfani." class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://crestintotal.files.wordpress.com/2020/10/img_0384-1-4.jpg?resize=40%2C40" alt="Fratele Constantin Antimie a plecat în veșnicie. Să mijlocim pentru familia îndoială, pentru soție și cei cinci copilași, rămași orfani." data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://crestintotal.ro/2020/10/13/fratele-constantin-antimie-a-plecat-in-vesnicie-sa-mijlocim-pentru-familia-indoiala-pentru-sotie-si-cei-cinci-copilasi-ramasi-orfani/" title="Fratele Constantin Antimie a plecat în veșnicie. Să mijlocim pentru familia îndoială, pentru soție și cei cinci copilași, rămași orfani." class="bump-view" data-bump-view="tp">Fratele Constantin Antimie a plecat în veșnicie. Să mijlocim pentru familia îndoială, pentru soție și cei cinci copilași, rămași orfani.</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-aniversare/" title="Sms-uri, mesaje, urari de zile de nastere (Aniversare) - peste 100 de mesaje" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://crestintotal.files.wordpress.com/2018/03/mesaje_scurte_pentru_sfantul_ioan__7_ianuarie_2015__urari_prin_sms_pentru_sfantul_ioan_90021500_49528800.jpg?resize=40%2C40" alt="Sms-uri, mesaje, urari de zile de nastere (Aniversare) - peste 100 de mesaje" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://crestintotal.ro/sms-uri-crestine/sms-uri-aniversare/" title="Sms-uri, mesaje, urari de zile de nastere (Aniversare) - peste 100 de mesaje" class="bump-view" data-bump-view="tp">Sms-uri, mesaje, urari de zile de nastere (Aniversare) - peste 100 de mesaje</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://crestintotal.ro/2020/10/11/jonathan-parlea-a-plecat-acasa/" title="…Jonathan Parlea… a plecat ACASA…" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://crestintotal.files.wordpress.com/2020/10/jonathan-parlea-1.jpg?resize=40%2C40" alt="…Jonathan Parlea… a plecat ACASA…" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://crestintotal.ro/2020/10/11/jonathan-parlea-a-plecat-acasa/" title="…Jonathan Parlea… a plecat ACASA…" class="bump-view" data-bump-view="tp">…Jonathan Parlea… a plecat ACASA…</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://crestintotal.ro/2020/10/11/darius-neag-am-fost-dat-afara-din-biserica/" title="Darius Neag: Am fost dat afară din biserică!" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://crestintotal.files.wordpress.com/2020/10/capture-20201011-083455.png?resize=40%2C40" alt="Darius Neag: Am fost dat afară din biserică!" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://crestintotal.ro/2020/10/11/darius-neag-am-fost-dat-afara-din-biserica/" title="Darius Neag: Am fost dat afară din biserică!" class="bump-view" data-bump-view="tp">Darius Neag: Am fost dat afară din biserică!</a>
+							</div>
+													</li>
+										<li>
+						<a href="https://crestintotal.ro/2020/10/12/amazon-lanseaza-scanerul-de-maini-si-este-deja-comparat-cu-semnul-fiarei-din-apocalipsa/" title="Amazon lansează scanerul de mâini și este deja comparat cu semnul fiarei din Apocalipsa" class="bump-view" data-bump-view="tp">
+								<img width="40" height="40" src="https://crestintotal.files.wordpress.com/2020/10/scanner_amazonpalm_ap.jpg?resize=40%2C40" alt="Amazon lansează scanerul de mâini și este deja comparat cu semnul fiarei din Apocalipsa" data-pin-nopin="true" class="widgets-list-layout-blavatar"/>
+							</a>
+							<div class="widgets-list-layout-links">
+								<a href="https://crestintotal.ro/2020/10/12/amazon-lanseaza-scanerul-de-maini-si-este-deja-comparat-cu-semnul-fiarei-din-apocalipsa/" title="Amazon lansează scanerul de mâini și este deja comparat cu semnul fiarei din Apocalipsa" class="bump-view" data-bump-view="tp">Amazon lansează scanerul de mâini și este deja comparat cu semnul fiarei din Apocalipsa</a>
+							</div>
+													</li>
+					</ul>
+</div>		<div class="wpcnt">
+			<div class="wpa">
+				<span class="wpa-about">Reclame</span>
+				<div class="u mrec">
+							<div style="padding-bottom:15px;width:300px;height:250px;">
+			<div id="atatags-50610695-5f8745155f93d">
+				<script type="text/javascript">
+				__ATA.cmd.push(function() {
+					__ATA.initSlot('atatags-50610695-5f8745155f93d',  {
+						collapseEmpty: 'before',
+						sectionId: '50610695',
+						location: 150,
+						width: 300,
+						height: 250
+					});
+				});
+				</script>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div><div id="blog_subscription-4" class="sb-widget widget_blog_subscription jetpack_subscription_widget"><h4 class="widget-title"><label for="subscribe-field">Urmărește blogul prin email</label></h4>
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				id=""
+			>
+									<p>Pentru a urmări acest blog, introdu adresa ta de email și primești notificări prin email despre articole noi.</p>
+						<div class="jetpack-subscribe-count">
+							<p>
+							Alătură-te altor 52.794 de urmăritori							</p>
+						</div>
+											<p id="subscribe-email">
+						<label
+							id="subscribe-field-label"
+							for="subscribe-field"
+							class="screen-reader-text"
+						>
+							Adresă email:						</label>
+
+						<input
+								type="text"
+								name="email"
+								
+								style="width: 95%; padding: 1px 10px"
+								placeholder="Introdu adresa ta de email"
+								value=""
+								id="subscribe-field"
+							/>					</p>
+				
+				<p id="subscribe-submit">
+                    <input type="hidden" name="action" value="subscribe"/>
+                    <input type="hidden" name="blog_id" value="5061069"/>
+                    <input type="hidden" name="source" value="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/"/>
+                    <input type="hidden" name="sub-type" value="widget"/>
+                    <input type="hidden" name="redirect_fragment" value="blog_subscription-4"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="8613189354" />                    <button type="submit"
+	                    		                	                >
+	                    Urmărește                    </button>
+                </p>
+            </form>
+			
+</div>		<div class="wpcnt">
+			<div class="wpa">
+				<span class="wpa-about">Reclame</span>
+				<div class="u mrec">
+							<div style="padding-bottom:15px;width:300px;height:250px;">
+			<div id="atatags-50610696-5f8745155fa90">
+				<script type="text/javascript">
+				__ATA.cmd.push(function() {
+					__ATA.initSlot('atatags-50610696-5f8745155fa90',  {
+						collapseEmpty: 'before',
+						sectionId: '50610696',
+						location: 150,
+						width: 300,
+						height: 250
+					});
+				});
+				</script>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div><div id="custom_html-7" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><a title="https://byshop.ro" href="https://byshop.ro" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2018/11/logo1.png?w=2000&amp;h=" alt="Banner http://oazaelim./" width="240" height="80" /></a>
+</div></div><div id="jetpack_display_posts_widget-13" class="sb-widget widget_jetpack_display_posts_widget"><h4 class="widget-title">Articole recente: CrestinTotal.ro</h4><div class="jetpack-display-remote-posts"><h4><a href="https://crestintotal.ro/2020/10/14/vieti-transformate-ion-tomeci/">Vieți Transformate &#8211; Ion Tomeci</a></h4>
+<a title="Vieți Transformate &#8211; Ion Tomeci" href="https://crestintotal.ro/2020/10/14/vieti-transformate-ion-tomeci/"><img src="https://crestintotal.files.wordpress.com/2020/10/hqdefault-1.jpg" alt="Vieți Transformate &#8211; Ion Tomeci"/></a><h4><a href="https://crestintotal.ro/2020/10/14/urmariti-binele-cetatii-pentru-ca-fericirea-voastra-atarna-de-fericirea-ei/">Urmăriți binele cetății pentru că fericirea voastră atârnă de fericirea ei.</a></h4>
+<a title="Urmăriți binele cetății pentru că fericirea voastră atârnă de fericirea ei." href="https://crestintotal.ro/2020/10/14/urmariti-binele-cetatii-pentru-ca-fericirea-voastra-atarna-de-fericirea-ei/"><img src="https://crestintotal.files.wordpress.com/2020/10/120603097_175237464135510_2533814917529120569_o.png" alt="Urmăriți binele cetății pentru că fericirea voastră atârnă de fericirea ei."/></a></div><!-- .jetpack-display-remote-posts --></div><div id="facebook-likebox-4" class="sb-widget widget_facebook_likebox">		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/crestintotal.ro" data-width="340"  data-height="170" data-hide-cover="false" data-show-facepile="true" data-tabs="timeline" data-hide-cta="false" data-small-header="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/crestintotal.ro"><a href="https://www.facebook.com/crestintotal.ro"></a></blockquote></div>
+		</div>
+		</div><div id="media_video-3" class="sb-widget widget_media_video"><style>.widget.widget_media_video iframe { margin: 0; }</style><div class="embed-youtube"><iframe title="NOU PE CRESTIN TOTAL TV" src="https://www.youtube.com/embed/videoseries?list=PL9VGWGMb1QckUCwpyy7HpkdBfadmIpYSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div><div id="jetpack_display_posts_widget-5" class="sb-widget widget_jetpack_display_posts_widget"><h4 class="widget-title">Articole recente: Noutati Crestine</h4><div class="jetpack-display-remote-posts"><h4><a href="http://noutaticrestine.ro/2020/10/14/rahela-buble-dac-as-fi-stapan-pe-lumea-ntreaga/" target="_blank" rel="noopener">Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă</a></h4>
+<a title="Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă" href="http://noutaticrestine.ro/2020/10/14/rahela-buble-dac-as-fi-stapan-pe-lumea-ntreaga/" target="_blank" rel="noopener"><img src="https://crestinmonden.files.wordpress.com/2020/10/maxresdefault-9.jpg" alt="Rahela Buble: Dac-aş fi stăpân pe lumea-ntreagă"/></a><h4><a href="http://noutaticrestine.ro/2020/10/01/florin-ianovici-fa-ceva-cu-tine/" target="_blank" rel="noopener">Florin Ianovici &#8211; Fă ceva cu tine</a></h4>
+<a title="Florin Ianovici &#8211; Fă ceva cu tine" href="http://noutaticrestine.ro/2020/10/01/florin-ianovici-fa-ceva-cu-tine/" target="_blank" rel="noopener"><img src="https://crestinmonden.files.wordpress.com/2020/10/download.jpg" alt="Florin Ianovici &#8211; Fă ceva cu tine"/></a></div><!-- .jetpack-display-remote-posts --></div><div id="jetpack_simple_payments_widget-8" class="sb-widget jetpack-simple-payments"><h4 class="widget-title">Cu ajutorul dumneavostra continuam lucrarea mai departe!</h4><div class="jetpack-simple-payments-content">
+<div class="jetpack-simple-payments-116864 jetpack-simple-payments-wrapper">
+	<div class="jetpack-simple-payments-product">
+		
+		<div class="jetpack-simple-payments-details">
+			<div class="jetpack-simple-payments-title"><p>DONAȚII ȘI SPRIJIN FINANCIAR pentru&nbsp;CrestinTotal.ro</p></div>
+			<div class="jetpack-simple-payments-description"><p></p></div>
+			<div class="jetpack-simple-payments-price"><p>$3.00</p></div>
+			<div class="jetpack-simple-payments-purchase-message" id="jetpack-simple-payments-116864_5f874515761b91.87207416-message-container"></div><div class="jetpack-simple-payments-purchase-box">
+				<div class="jetpack-simple-payments-items">
+					<input class="jetpack-simple-payments-items-number" type="number" value="1" min="1" id="jetpack-simple-payments-116864_5f874515761b91.87207416_number" />
+				</div>
+				<div class="jetpack-simple-payments-button" id="jetpack-simple-payments-116864_5f874515761b91.87207416_button"></div></div>
+		</div>
+	</div>
+</div>
+</div><!--simple-payments--></div><div id="jetpack_display_posts_widget-8" class="sb-widget widget_jetpack_display_posts_widget"><h4 class="widget-title">PRODUSUL ZILEI: : LibrariaCT.ro</h4><div class="jetpack-display-remote-posts"><h4><a href="https://librariacrestintotal.wordpress.com/2019/12/21/biblie-mijlocie-neagra-de-lux-margini-aurii-2/" target="_blank" rel="noopener">Biblie mijlocie neagra de lux + margini AURII</a></h4>
+<a title="Biblie mijlocie neagra de lux + margini AURII" href="https://librariacrestintotal.wordpress.com/2019/12/21/biblie-mijlocie-neagra-de-lux-margini-aurii-2/" target="_blank" rel="noopener"><img src="https://librariacrestintotal.files.wordpress.com/2019/12/biblie-neagra-de-lux-500x500-1-1.jpg" alt="Biblie mijlocie neagra de lux + margini AURII"/></a></div><!-- .jetpack-display-remote-posts --></div><div id="google_translate_widget-2" class="sb-widget widget_google_translate_widget"><h4 class="widget-title">Traducere site!</h4><div id="google_translate_element"></div></div><div id="custom_html-6" class="widget_text sb-widget widget_custom_html"><div class="textwidget custom-html-widget"><a title="biblii" href="https://www.facebook.com/BIBLIITHOMPSON2020/" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2020/02/zzzpagem.jpg?w=1000&amp;h=" alt="Banner filme " width="300" height="300" /></a>
+
+
+</div></div>	</aside>	</div>
+    </div>
+<footer class="row clearfix">
+			<div class="col-1-4 mq-footer">
+					<div class="wpcnt">
+			<div class="wpa">
+				<span class="wpa-about">Reclame</span>
+				<div class="u mrec">
+							<div style="padding-bottom:15px;width:300px;height:250px;">
+			<div id="atatags-50610697-5f87451578dba">
+				<script type="text/javascript">
+				__ATA.cmd.push(function() {
+					__ATA.initSlot('atatags-50610697-5f87451578dba',  {
+						collapseEmpty: 'before',
+						sectionId: '50610697',
+						location: 150,
+						width: 300,
+						height: 250
+					});
+				});
+				</script>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div><div id="blog_subscription-3" class="footer-widget footer-1 widget_blog_subscription jetpack_subscription_widget"><h6 class="footer-widget-title"><label for="subscribe-field-2">Urmărește blogul prin email</label></h6>
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				id=""
+			>
+									<p>Pentru abonare la blog, înscrie-ți mai jos adresa de email și vei primi notificări prin email cu articolele noi publicate.</p>
+						<div class="jetpack-subscribe-count">
+							<p>
+							Alătură-te altor 52.794 de urmăritori							</p>
+						</div>
+											<p id="subscribe-email">
+						<label
+							id="subscribe-field-2-label"
+							for="subscribe-field-2"
+							class="screen-reader-text"
+						>
+							Adresă email:						</label>
+
+						<input
+								type="text"
+								name="email"
+								
+								style="width: 95%; padding: 1px 10px"
+								placeholder="Introdu adresa ta de email"
+								value=""
+								id="subscribe-field-2"
+							/>					</p>
+				
+				<p id="subscribe-submit">
+                    <input type="hidden" name="action" value="subscribe"/>
+                    <input type="hidden" name="blog_id" value="5061069"/>
+                    <input type="hidden" name="source" value="https://crestintotal.ro/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/"/>
+                    <input type="hidden" name="sub-type" value="widget"/>
+                    <input type="hidden" name="redirect_fragment" value="blog_subscription-3"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="8613189354" />                    <button type="submit"
+	                    		                	                >
+	                    Urmărește                    </button>
+                </p>
+            </form>
+			
+</div>		</div>
+				<div class="col-1-4 mq-footer">
+			<div id="rss-5" class="footer-widget footer-2 widget_rss"><h6 class="footer-widget-title"><a class="rsswidget" href="https://crestintotal.ro/category/film-crestine-full/feed/" title="Emite în RSS acest conținut"><img style="background: orange; color: white; border: none;" width="14" height="14" src="https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h" alt="RSS" /></a> <a class="rsswidget" href="https://crestintotal.ro" title="Traiesc pentru Cristos">Filme crestine online</a></h6><ul><li><a class='rsswidget' href='https://crestintotal.ro/2019/03/06/film-crestin-demoni-2019-by-adi-gliga/' title='FILM CRESTIN: DEMONI (2019) by Adi Gliga New Vision Romania Production http://newvisionromania.ro http://adigliga.ro/'>FILM CRESTIN: DEMONI (2019) by Adi Gliga</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/10/23/galow-road-2018-subtitrat-in-romana/' title='Acest film prezintă povestea de viață a unui om pus în fața provocării de a ierta ceva de ne-iertat, uciderea soției și a copilului lor. O provocare aproape imposibilă. Acest film cu siguranță îți va da o nouo perspectivă asupra vieții și a lumii înconjurătoare. Domnul Iisus și puterea lui iertătoare poate schimba, ierta și restaura chiar și cele mai nenoroc [&hellip;]'>GALOW ROAD 2018 SUBTITRAT IN ROMANA</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/10/22/urmareste-torturat-pentru-hristos-gratis-doar-2-zile-22-23-octombrie-2/' title='Organizația Vocea Martirilor, în colaborare cu Faithlife TV, vă oferă o vizionare exclusivă online a filmului Tortured for Christ (Torturat pentru Hristos). Dați click pe link-ul de mai jos pentru a vă înregistra cu adresa dvs. de e-mail și veți primi gratuit un link pentru a urmări filmul Tortured for Christ, pe 22 sau 23 octombrie 2018.  Această prezentare [&hellip;]'>Urmărește „Torturat pentru Hristos” – GRATIS DOAR 2 ZILE (22 – 23 octombrie)</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/09/26/filmul-isus-evanghelia-lui-ioan-film-crestin-romana-dublat/' title='Filmul Isus// Evanghelia lui Ioan // Film Crestin Romana dublat'>Filmul Isus// Evanghelia lui Ioan // Film Crestin Romana dublat</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/09/24/secretul-film-crestin-online-2018/' title='New Vision Romania Production http://newvisionromania.ro http://adigliga.ro/'>SECRETUL – Film crestin online 2018</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/09/18/hosea-iubire-uimitoare-film-crestin-subtitrat-in-romana/' title='Hosea // Iubire uimitoare // Film Crestin subtitrat in Romana'>Hosea // Iubire uimitoare // Film Crestin subtitrat in Romana</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/09/17/christina-noble-film-de-familie-inspirational-subtitrat/' title='Christina Noble / Film de familie inspirational subtitrat'>Christina Noble / Film de familie inspirational subtitrat</a></li><li><a class='rsswidget' href='https://crestintotal.ro/2018/09/15/ring-the-bell-2013-christian-movie-full/' title='Ring the Bell 2013 // Christian Movie full'>Ring the Bell 2013 // Christian Movie full</a></li></ul></div><div id="text-418586025" class="footer-widget footer-2 widget_text">			<div class="textwidget"><p><a href="http://s03.flagcounter.com/more/EEC"><img src="http://s03.flagcounter.com/count/EEC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_Vizitatori+unici+/labels_0/pageviews_0/flags_0/" alt="Free counters!" border="0"/></a></p>
+<p><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"/></p>
+</div>
+		</div>		</div>
+				<div class="col-1-4 mq-footer">
+			<div id="text-418585938" class="footer-widget footer-3 widget_text"><h6 class="footer-widget-title">Parteneri</h6>			<div class="textwidget"><a title="https://byshop.ro" href="https://byshop.ro" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2018/11/logo1.png?w=2000&amp;h=" alt="Banner http://oazaelim./" width="140" height="60" /></a>
+
+
+<a title="http://www.infocrestin.com" href="http://www.infocrestin.com" target="_blank" rel="noopener noreferrer"><img src="https://i0.wp.com/www.infocrestin.com/wp-content/uploads/2010/12/infocrestin-live-150x60.png" alt="Banner info crestint" width="140" height="60" /></a>
+
+<a title="filadelfia/" href="http://www.radiofiladelfia.ro/" target="_blank" rel="noopener noreferrer"><img src="https://berconstanta.files.wordpress.com/2008/12/radiofiladelfia-150x60.gif?w=500" alt="Banner filadelfia" width="140" height="60" /></a>
+
+<a title="http://radiogosen.weebly.com/" href="http://radiogosen.weebly.com/" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2017/03/1474484181_1-2.png" alt="Banner wallpaper4god.wordpress.com" width="140" height="60" /></a>
+
+
+
+
+<a title="www.ariseforchrist.com" href="http://www.ariseforchrist.com/home" target="_blank" rel="noopener noreferrer"><img src="https://i2.wp.com/www.ariseforchrist.com/img/logo/logo.png" alt="Banner CrestemImpreuna.com" width="140" height="60" /></a>
+
+
+<a title="http://radio-crestin.blogspot.ro/" href="http://radiouri-crestine.blogspot.ro/" target="_blank" rel="noopener noreferrer"><img src="https://4.bp.blogspot.com/-GqGx8AFO6M0/Wc4iqArkkEI/AAAAAAAAA6g/SnyPpyTz3VQxeplIkU8iMDK7mDpRZO-aQCLcBGAs/s1600/logo-150-60.png" alt="Banner alaturi./" width="140" height="60" /></a>
+
+
+
+
+
+</div>
+		</div><div id="text-418586074" class="footer-widget footer-3 widget_text">			<div class="textwidget">Aboneza-te, vei primi notificări prin email cu noile articole, maxim unul pe zi. Scrie adresa:
+<a href="https://crestintotal.ro/contact-2/aboneaza-te-la-crestin-total/" target="_blank" rel="noopener noreferrer"><img src="https://crestintotal.files.wordpress.com/2009/11/rss-feeds-crestintotal1.jpg?w=150&amp;h=53"/>
+</a></div>
+		</div><div id="follow_button_widget-2" class="footer-widget footer-3 widget_follow_button_widget">
+		<a class="wordpress-follow-button" href="https://crestintotal.ro" data-blog="5061069" data-lang="ro" data-show-follower-count="true">Follow CrestinTotal.ro on WordPress.com</a>
+		<script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+
+		</div>		</div>
+				<div class="col-1-4 mq-footer">
+			<div id="text-418586047" class="footer-widget footer-4 widget_text"><h6 class="footer-widget-title">RECOMAND</h6>			<div class="textwidget">
+
+<strong><span style="color:#ff0000;">RECOMAND: </span></strong><a href="https://www.librariamaranatha.ro/">Libraria Maranatha</a>
+<div class="box-category"><strong><span style="color:#ff0000;">RECOMAND:</span> </strong><a href="http://librariact.ro/index.php?route=product/category&amp;path=20">Biblii</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=364">Biblii MICI</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=365">Biblii mijlocii</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=366">Biblii MARI</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=367">Biblii de lux</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=368">Biblii Hand Made</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=372">Biblii Thompson</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=373">Biblii de buzunar</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=371">Biblii de Studiu</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=167">Personalizam BIBLII</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=17">Cărți</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=25">Cadouri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=282">Brelocuri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=278">Ceasuri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=279">Papirusuri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=18">Tablouri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=275">Gravuri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=298">Huse Biblii</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=318">Bratari</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=81">Dvd-uri</a> - <a href="http://librariact.ro/index.php?route=product/category&amp;path=385">Jocuri</a></div>
+<div class="box-category">
+
+&nbsp;
+
+<a title="Blogosfera Evanghelică" href="http://www.blogosferaevanghelica.ro" target="_blank" rel="noopener noreferrer"><img src="https://i0.wp.com/www.blogosferaevanghelica.ro/banners/blogosfera_evanghelica_88v31.jpg" alt="Blogosfera Evanghelică" border="0" /></a>
+
+</div>
+Peste 96200 de bloguri inscrise in top Zelist!
+
+<a href="https://www.zelist.ro/bloguriw/crestintotal.ro" target="_blank" rel="noopener noreferrer"><img border="0" src="https://www.zelist.ro/widget-small/crestintotal.ro.jpg"/></a></div>
+		</div><div id="blog-stats-3" class="footer-widget footer-4 widget_blog-stats"><h6 class="footer-widget-title">Statistici blog</h6>		<ul>
+			<li>43.476.787 vizite</li>
+		</ul>
+		</div>		</div>
+	</footer>
+<div class="copyright-wrap">
+	<p class="copyright">Copyright &copy; 2020	
+	<a href="https://wordpress.com/?ref=footer_custom_acom" rel="nofollow">Un site web WordPress.com</a>.
+	
+	Tema: MH Magazine de <a href="http://www.mhthemes.com/" rel="designer">MH Themes</a>.</p>
+</div>
+</div>
+<!--  -->
+	<div style="display:none">
+	<div class="grofile-hash-map-4f07fd7bd594c976f381745194f34e2d">
+	</div>
+	</div>
+<script id='highlander-comments-js-extra'>
+var HighlanderComments = {"loggingInText":"Autentificat\u2026","submittingText":"Publicare comentariu\u2026","postCommentText":"Public\u0103 comentariul","connectingToText":"Conectare la %s","commentingAsText":"%1$s: Comentezi folosind contul t\u0103u %2$s.","logoutText":"Dezautentificare","loginText":"Autentificare","connectURL":"https:\/\/crestintotal.wordpress.com\/public.api\/connect\/?action=request&domain=crestintotal.ro","logoutURL":"https:\/\/crestintotal.wordpress.com\/wp-login.php?action=logout&_wpnonce=f94afa5c87","homeURL":"https:\/\/crestintotal.ro\/","postID":"149430","gravDefault":"gravatar_default","enterACommentError":"Te rog introdu un comentariu","enterEmailError":"Te rog introdu adresa ta de email aici","invalidEmailError":"Adres\u0103 de email invalid\u0103","enterAuthorError":"Te rog introdu numele t\u0103u aici","gravatarFromEmail":"Aceast\u0103 poz\u0103 se va ar\u0103ta de fiecare dat\u0103 c\u00e2nd la\u0219i un comentariu. D\u0103 clic aici pentru a o personaliza.","logInToExternalAccount":"Autentific\u0103-te ca s\u0103 folose\u0219ti detaliile acestor conturi.","change":"Schimb\u0103","changeAccount":"Schimb\u0103 contul","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1573483029j'></script>
+<div id="eu_cookie_law_widget-8" class="sb-widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button negative ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Închide și acceptă" class="accept" />
+
+		Confidențialitate și cookie-uri: acest site folosește cookie-uri. Dacă continui să folosești acest site web, ești de acord cu utilizarea lor.<br />
+Pentru a afla mai multe, inclusiv cum să controlezi cookie-urile, uită-te aici:
+				<a href="https://automattic.com/cookies" rel="nofollow">
+			Politică cookie-uri		</a>
+ </form>
+</div>
+</div>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/crestintotal.ro\/2020\/10\/09\/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie\/":149430};
+	</script>
+				<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/ro_RO/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			document.body.addEventListener( 'post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+								<script type="text/javascript">
+				// Pinterest shared resources
+				var s = document.createElement("script");
+				s.type = "text/javascript";
+				s.async = true;
+				s.setAttribute('data-pin-hover', true);				s.src = window.location.protocol + "//assets.pinterest.com/js/pinit.js";
+				var x = document.getElementsByTagName("script")[0];
+				x.parentNode.insertBefore(s, x);
+				// if 'Pin it' button has 'counts' make container wider
+				jQuery(window).load( function(){ jQuery( 'li.share-pinterest a span:visible' ).closest( '.share-pinterest' ).width( '80px' ); } );
+			</script>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+						<script>
+				(function(r, d, s) {
+					r.loadSkypeWebSdkAsync = r.loadSkypeWebSdkAsync || function(p) {
+							var js, sjs = d.getElementsByTagName(s)[0];
+							if (d.getElementById(p.id)) { return; }
+							js = d.createElement(s);
+							js.id = p.id;
+							js.src = p.scriptToLoad;
+							js.onload = p.callback
+							sjs.parentNode.insertBefore(js, sjs);
+						};
+					var p = {
+						scriptToLoad: 'https://swx.cdn.skype.com/shared/v/latest/skypewebsdk.js',
+						id: 'skype_web_sdk'
+					};
+					r.loadSkypeWebSdkAsync(p);
+				})(window, document, 'script');
+			</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/2020/10/09/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie/" method="post">
+			<label for="target_email">Trimite la adresa de email</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Numele tău</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Adresa ta de email</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" title="Acest câmp este pentru validare și n-ar trebuie să fie modificat" />
+			
+			<div
+				class="g-recaptcha"
+				data-sitekey="6LcmyE0UAAAAALID28yVNg7pFCodGaArJzHitez_"
+				data-theme="light"
+				data-type="image"
+				data-tabindex="0"></div>
+			<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=ro" async></script>
+			
+			<img style="float: right; display: none" class="loading" src="https://s0.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Trimite email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel" role="button">Anulare</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Articolul n-a fost trimis - verifică adresele tale de email!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Verificarea emailului a eșuat., te rog încearcă din nou			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Regret, blogul tău nu poate partaja articole prin email.			</div>
+		</form>
+	</div>
+<link rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??-eJx9i8sKwjAQRX/IdBrEggvxW0oytCN5DL0JoX/viEvB5T33HBrqpITUI4MCQHHFLqEWTFnKZORCphhoXBrl7jT1TQoIkjWx0/XM9vzsf+mQuLElox5RDwacVjT3xYR2Jv7kz/zwy+xvs/f36+sNoPA/Zw==?cssminify=yes' type='text/css' media='all' />
+<script id='jetpack-facebook-embed-js-extra'>
+var jpfbembed = {"appid":"249643311490","locale":"ro_RO"};
+</script>
+<script id='wpcom-actionbar-bar-js-extra'>
+var actionbardata = {"siteID":"5061069","siteName":"CrestinTotal.ro","siteURL":"https:\/\/crestintotal.ro","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/69aa8802ea215de17ccf363b0f5fcddf?s=50&d=https%3A%2F%2Fs0.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"premium\/mh-magazine","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fcrestintotal.ro%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F&signup_flow=account&domain=crestintotal.ro","themeURL":"","xhrURL":"https:\/\/crestintotal.ro\/wp-admin\/admin-ajax.php","nonce":"b8980fe656","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"8613189354\" \/>","referer":"https:\/\/crestintotal.ro\/2020\/10\/09\/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie\/","canFollow":"1","feedID":"80941605","statusMessage":"","customizeLink":"https:\/\/crestintotal.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcrestintotal.wordpress.com%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F","postID":"149430","shortlink":"https:\/\/wp.me\/pleC9-CSa","canEditPost":"","editLink":"https:\/\/wordpress.com\/block-editor\/post\/crestintotal.ro\/149430","statsLink":"https:\/\/wordpress.com\/stats\/post\/149430\/crestintotal.ro","i18n":{"view":"Vezi site-ul","follow":"Urm\u0103re\u0219te","following":"Urm\u0103resc","edit":"Editeaz\u0103","login":"Autentificare","signup":"\u00cenregistrare","customize":"Personalizare","report":"Raporteaz\u0103 acest con\u021binut","themeInfo":"Ia tema: MH Magazine","shortlink":"Copiaz\u0103 leg\u0103tur\u0103 scurt\u0103","copied":"Copiat","followedText":"Articolele noi de pe acest site vor ap\u0103rea acum \u00een <a href=\"https:\/\/wordpress.com\/read\">Cititorul<\/a> t\u0103u","foldBar":"Restr\u00e2nge aceast\u0103 bar\u0103","unfoldBar":"Extinde aceast\u0103 bar\u0103","editSubs":"Administreaz\u0103 abonamente","viewReader":"Vezi site-ul \u00een Cititor","viewReadPost":"Vezi articolul \u00een Cititor","subscribe":"\u00cenregistreaz\u0103-m\u0103 ","enterEmail":"Introdu adresa ta de email","followers":"Al\u0103tur\u0103-te altor 52.794 de urm\u0103ritori","alreadyUser":"Ai deja un cont WordPress.com? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fcrestintotal.ro%2F2020%2F10%2F09%2Fsamy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie%2F&signup_flow=account&domain=crestintotal.ro\">Autentific\u0103-te acum.<\/a>","stats":"Statistici"}};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVjl1OAzEMhC9EapWqEn1AHAVlk+nibJINsbMLPT1Bqirxo0U8eeSZb2xai3FzVmSlIOSxsEN52wW5o69WmUUTROyIX9zw2lDfr2PHeWGsf8YCtFg3mQrhy4/W1EyJbeQsFHmCUIcaXmz2EXUjvLIfoUJo3Z0nhol2JUUq0Sq+7Td6rt/RM2dHZ+swdMogDfAblPWJsxlspWRFUbsy84Ja2ffbt90/G7T2T2QLcspz/oRuqqef0uP+eDoeDven/UP4AEdyuGw='></script>
+<script src='https://www.paypalobjects.com/api/checkout.js' id='paypal-checkout-js-js'></script>
+<script id='google-translate-init-js-extra'>
+var _wp_google_translate_widget = {"lang":"ro","layout":"0"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJx9jcEOAiEMRH9IthLk4MH4KYZgRXYpNLRk9e/lrvE2mZm8Bzub2KpiVaBhuIyUq4Bk4oKGw5vmIjADh2LwxR1FTHxi3NrQZZUD/CaELQuhGrcc4ZZrhEfr9Oe/53vCaUqtpWnWHqqUoPhVTMaVLtafvXPW29P6AUUcSA0='></script>
+<script type='text/javascript'>
+try{PaypalExpressCheckout.renderButton( '5061069', '116864', 'jetpack-simple-payments-116864_5f874515567e16.14966188', '1' );}catch(e){}
+try{PaypalExpressCheckout.renderButton( '5061069', '116864', 'jetpack-simple-payments-116864_5f8745155965f4.98393455', '1' );}catch(e){}
+try{PaypalExpressCheckout.renderButton( '5061069', '126214', 'jetpack-simple-payments-126214_5f87451559e2e8.53433946', '1' );}catch(e){}
+try{PaypalExpressCheckout.renderButton( '5061069', '116864', 'jetpack-simple-payments-116864_5f874515761b91.87207416', '1' );}catch(e){}
+</script>
+<script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&#038;ver=5.5-wpcom-48929' id='google-translate-js'></script>
+<script id='crowdsignal-rating-js-before'>
+<!--//--><![CDATA[//><!--
+PDRTJS_settings_538812_post_149430={"id":538812,"unique_id":"wp-post-149430","title":"Samy%20Tu%C8%9Bac%3A%20Pandemia%20de%20Covid%2019%20este%20cea%20mai%20mare%20provocare%20pentru%20bisericile%20din%20aceast%C4%83%26nbsp%3Bgenera%C8%9Bie","permalink":"https:\/\/crestintotal.ro\/2020\/10\/09\/samy-tutac-pandemia-de-covid-19-este-cea-mai-mare-provocare-pentru-bisericile-din-aceasta-generatie\/","item_id":"_post_149430"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_538812_post_149430 == 'undefined' ){PDRTJS_538812_post_149430 = new PDRTJS_RATING( PDRTJS_settings_538812_post_149430 );}}
+//--><!]]>
+</script>
+<script src='https://polldaddy.com/js/rating/rating.js?ver=wpcom' id='crowdsignal-rating-js'></script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1595340102h'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20200826#ver=20200826&amp;lang=ro' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> blogeri au apreciat:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="//stats.wp.com/w.js?61" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'5061069','blog_tz':'3','user_lang':'ro','blog_lang':'ro','user_id':'0'}]);
+_stq.push(['view', {'blog':'5061069','v':'wpcom','tz':'3','user_id':'0','post':'149430','subd':'crestintotal'}]);
+_stq.push(['extra', {'crypt':'UE5tW3cvZGRRb0FMZ343XWprQVdnYTZhP0p4TGtad1k4SXc9dXNRYTlbRmZsQnpjbkEwLzFxXUV0L004R2ZqOGVlZXNqZy05aDRBYT0vUTElOSsyU18sS2NVWTd6N25MNW8/TkwzUjFkRitialo1dElYakRzNHVddVMrS09db0l8OXYwVUlnLjVOMmIuc19CenddU3ZtLFRrcVB1VFBXfjhySndodXNDSC8wbFszfllhUFIwLC0sNFtWbzclVmkyJTRmckQlPUhKdWFhW2ZbdT9PV3NRT3piZjc2TS58SFZEK2hkUjZ2VERPSml3VS1Rb25HP3pFeF9yN3NmQ3dwXWtrUUR0Zmx2ZDlRby1CNnQ/OVR4S0E3bjg1MXROVmR1dURdLmdoOUh3MHZHYTJdJitUdk0xZXx+aVA0enYwMnpoZWpWXSU2TjNFN3ZMbzlwR0c2bj8='}]);
+_stq.push([ 'clickTrackerInit', '5061069', '149430' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

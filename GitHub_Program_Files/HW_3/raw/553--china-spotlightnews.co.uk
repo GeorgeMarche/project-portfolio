@@ -1,0 +1,1101 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	
+	<link rel="icon" type="image/png" href="https://china-spotlightnews.co.uk/wp-content/uploads/2020/06/UCS_ICON-copy.png"/>
+	<!-- link rel="icon" type="image/png" href="https://chinaspotlight.co.uk/wp-content/uploads/2020/06/spotight_favicon2.png"/> -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>CHINA SPOTLIGHT &#8211; .CO</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CHINA SPOTLIGHT &raquo; Feed" href="https://china-spotlightnews.co.uk/feed" />
+<link rel="alternate" type="application/rss+xml" title="CHINA SPOTLIGHT &raquo; Comments Feed" href="https://china-spotlightnews.co.uk/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/china-spotlightnews.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://china-spotlightnews.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://china-spotlightnews.co.uk/wp-content/uploads/elementor/css/global.css?ver=1588428853' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-167-css'  href='https://china-spotlightnews.co.uk/wp-content/uploads/elementor/css/post-167.css?ver=1590933396' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-style-css'  href='https://china-spotlightnews.co.uk/wp-content/themes/neve/style.min.css?ver=2.6.6' type='text/css' media='all' />
+<style id='neve-style-inline-css' type='text/css'>
+body, .site-title{font-size:15px;line-height:1.6em;letter-spacing:0px;}body, .site-title{font-family:"Roboto";font-weight:400;text-transform:none;}h1, .single h1.entry-title, h2, h3, h4, h5, h6{font-family:"Roboto Slab";}.container{max-width:748px;}a{color:#a70d0d;}.nv-loader{border-color:#a70d0d;}.has-white-background-color{background-color:#ffffff!important;}.has-white-color{color:#ffffff!important;}.has-black-background-color{background-color:#000000!important;}.has-black-color{color:#000000!important;}.has-neve-button-color-background-color{background-color:#0366d6!important;}.has-neve-button-color-color{color:#0366d6!important;}.has-neve-link-color-background-color{background-color:#a70d0d!important;}.has-neve-link-color-color{color:#a70d0d!important;}.has-neve-link-hover-color-background-color{background-color:#0366d6!important;}.has-neve-link-hover-color-color{color:#0366d6!important;}.has-neve-text-color-background-color{background-color:#404248!important;}.has-neve-text-color-color{color:#404248!important;}.nv-tags-list a{color:#0366d6;}.nv-tags-list a{border-color:#0366d6;} .button.button-primary, button, input[type=button], .btn, input[type="submit"], /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a{background-color:#0366d6;} .button.button-primary, button, input[type=button], .btn, input[type="submit"], /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a{color:#ffffff;}.nv-tags-list a:hover{border-color:#0366d6;} .button.button-primary:hover, .nv-tags-list a:hover, ul[id^="nv-primary-navigation"] li.button.button-primary > a:hover, .menu li.button.button-primary > a:hover{background-color:#0366d6;} .button.button-primary:hover, .nv-tags-list a:hover, ul[id^="nv-primary-navigation"] li.button.button-primary > a:hover, .menu li.button.button-primary > a:hover{color:#ffffff;}.button.button-primary, button, input[type=button], .btn, input[type="submit"]:not(.search-submit), /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a{border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-right-radius:3px;border-bottom-left-radius:3px;} .button.button-secondary, #comments input[type="submit"], .cart-off-canvas .button.nv-close-cart-sidebar{color:#676767;}.button.button-secondary, #comments input[type="submit"], .cart-off-canvas .button.nv-close-cart-sidebar{border-color:#676767;} .button.button-secondary:hover, #comments input[type="submit"]:hover{color:#676767;}.button.button-secondary:hover, #comments input[type="submit"]:hover{border-color:#676767;}.button.button-secondary, #comments input[type="submit"]{border-radius:3px;}.button.button-secondary, #comments input[type="submit"]{border:1px solid;border-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;}@media(min-width: 576px){body, .site-title{font-size:16px;line-height:1.6em;letter-spacing:0px;}.container{max-width:992px;}}@media(min-width: 960px){body, .site-title{font-size:14px;line-height:1.4em;letter-spacing:0.2px;}.container{max-width:1039px;}.neve-main > .archive-container .nv-index-posts.col{max-width:70%;}.neve-main > .archive-container .nv-sidebar-wrap{max-width:30%;}.neve-main > .single-post-container .nv-single-post-wrap.col{max-width:100%;}.neve-main > .single-post-container .nv-sidebar-wrap{max-width:0%;}.caret-wrap{border-color:transparent;}}.hfg_header .header-main-inner,.hfg_header .header-main-inner.dark-mode,.hfg_header .header-main-inner.light-mode { } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg,.hfg_header .header-menu-sidebar .header-menu-sidebar-bg.dark-mode,.hfg_header .header-menu-sidebar .header-menu-sidebar-bg.light-mode { } @media (max-width: 576px) { .builder-item--logo .site-logo img { max-width: 120px; } .builder-item--logo .site-logo { padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; } .builder-item--logo { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--nav-icon .navbar-toggle { padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px; } .builder-item--nav-icon { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--primary-menu li > a { font-size: 1em; line-height: 1.6; letter-spacing: 0px; } .builder-item--primary-menu li > a svg { height: 1em; width: 1em; } .builder-item--primary-menu { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright { font-size: 1em; line-height: 1.6; letter-spacing: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright svg { height: 1em; width: 1em; } } @media (min-width: 576px) { .builder-item--logo .site-logo img { max-width: 120px; } .builder-item--logo .site-logo { padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; } .builder-item--logo { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--nav-icon .navbar-toggle { padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px; } .builder-item--nav-icon { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--primary-menu li > a { font-size: 1em; line-height: 1.6; letter-spacing: 0px; } .builder-item--primary-menu li > a svg { height: 1em; width: 1em; } .builder-item--primary-menu { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright { font-size: 1em; line-height: 1.6; letter-spacing: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright svg { height: 1em; width: 1em; } } @media (min-width: 961px) { .builder-item--logo .site-logo img { max-width: 120px; } .builder-item--logo .site-logo { padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; } .builder-item--logo { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--nav-icon .navbar-toggle { padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px; } .builder-item--nav-icon { margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--primary-menu li > a { font-size: 1em; line-height: 1.6; letter-spacing: 0px; } .builder-item--primary-menu li > a svg { height: 1em; width: 1em; } .builder-item--primary-menu { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright { font-size: 1em; line-height: 1.6; letter-spacing: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; } .builder-item--footer_copyright svg { height: 1em; width: 1em; } } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:not(.woocommerce-mini-cart-item) > a { color: #404248; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li > .amp-caret-wrap svg { fill: #404248; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:not(.woocommerce-mini-cart-item) > a:after { background-color: #0366d6; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:not(.woocommerce-mini-cart-item):hover > a { color: #0366d6; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li:hover > .amp-caret-wrap svg { fill: #0366d6; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li.current-menu-item > a { color: #0366d6; } .builder-item--primary-menu .nav-menu-primary > .primary-menu-ul li.current-menu-item > .amp-caret-wrap svg { fill: #0366d6; } @media (min-width: 961px) { .header--row .hfg-item-right .builder-item--primary-menu .primary-menu-ul > li:not(:first-child) { margin-left: 20px; } .header--row .hfg-item-center .builder-item--primary-menu .primary-menu-ul > li:not(:last-child), .header--row .hfg-item-left .builder-item--primary-menu .primary-menu-ul > li:not(:last-child) { margin-right: 20px; } .builder-item--primary-menu .style-full-height .primary-menu-ul > li:not(.menu-item-nav-search):not(.menu-item-nav-cart) > a:after { left: -10px; right: -10px; } .builder-item--primary-menu .style-full-height .primary-menu-ul:not(#nv-primary-navigation-sidebar) > li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after { width: calc(100% + 20px) !important;; } } .builder-item--primary-menu .primary-menu-ul > li > a { height: 25px; } .builder-item--primary-menu li > a { font-weight: 500; text-transform: none; } .footer-bottom-inner,.footer-bottom-inner.dark-mode,.footer-bottom-inner.light-mode { } .builder-item--footer_copyright { font-weight: 500; text-transform: none; } 
+</style>
+<link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-google-font-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-google-font-roboto-slab-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/1and1-wordpress-assistant/js/cookies.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://china-spotlightnews.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://china-spotlightnews.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://china-spotlightnews.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="https://china-spotlightnews.co.uk/" />
+<link rel='shortlink' href='https://china-spotlightnews.co.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://china-spotlightnews.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchina-spotlightnews.co.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://china-spotlightnews.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchina-spotlightnews.co.uk%2F&#038;format=xml" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>		<style type="text/css" id="wp-custom-css">
+			.elementor-element-4fb78ec {
+	height: 34px;
+}
+
+.hfe-menu-item {
+	text-transform: uppercase;
+}		</style>
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body  class="home page-template-default page page-id-128 ehf-header ehf-template-neve ehf-stylesheet-neve nv-sidebar-right nv-empty-sidebar nv-without-title menu_sidebar_slide_left elementor-default elementor-kit-164" id="neve_body"  >
+<div class="wrapper">
+	<header class="header" role="banner">
+
+
+					<div style="border-bottom: 1px solid #D3D3D3; padding-left: 15px; padding-right: 15px;">
+				<div class="top_bar">
+					<div class="top_col top_left">
+						<a style="color: #404248;">
+							<i class="fa fa-search" aria-hidden="true" style="color: black;" id="search_icon"></i>
+						</a>
+						Search
+					</div>
+					<div class="top_col top_middle">OCT 14, 2020</div>
+					<div class="top_col top_right">
+						<span class="header_social_icon">
+							<a href="https://www.facebook.com/CSUKNEWS/" target="_blank">
+								<i class="fa fa-facebook fbcol" aria-hidden="true"></i>
+							</a>
+						</span>
+						&nbsp;
+						<span class="header_social_icon">
+							<a href="https://twitter.com/csuk_news" target="_blank">
+								<i class="fa fa-twitter twcol" aria-hidden="true"></i>
+							</a>
+						</span>
+						&nbsp;
+						<a id="subscribe_btn" style="">
+							SUBSCRIBE
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<style>
+				.top_bar {
+					max-width: 1009px;
+					margin-left: auto;
+					margin-right: auto;
+					margin-top: 6px;
+					margin-bottom: 6px;
+				}
+				.top_bar::after {	content: ""; clear: both; display: table; }
+				.top_col { float: left; width: 33.3%; }
+				.top_middle { text-align: center; }
+				.top_right { text-align: right;}
+
+				.header_social_icon a { /* color: #bdbdbd; */ font-size: 16px; }
+				.fbcol { color: #3b5998; }
+				.twcol { color: #1DA1F2; }
+
+				@media (max-width: 590px) {
+					.top_col { width: 49.5%; }
+					.top_middle { display: none; }
+				}
+			</style>
+
+			<!-- shortcodes style & script -->
+			<style>
+				.fbshr:hover { color: #3b5998 !important; cursor: pointer; }
+				.twshr:hover { color: #1DA1F2 !important; cursor: pointer; }
+			</style>
+			<script type="text/javascript">
+				function facebook_shortcode_share(permalink){
+					var href = "http://www.facebook.com/sharer.php?u=" + permalink;
+					window.open(href, 'fb_share_window', 'width=675,height=500');
+				}
+				function twitter_shortcode_share(permalink){
+			    var href = "https://twitter.com/share?url=" + permalink;
+			    window.open(href, 'fb_share_window', 'width=675,height=500');
+			  }
+			</script>
+
+			<!-- subscribe lightbox -->
+			<div id="lightbox" class="lightbox" style="display:none">
+		    <table class="lightbox_table">
+		      <tr>
+		        <td class="lightbox_table_cell" align="center">
+		          <div style="display: table; margin: auto;">
+								<div class="register_form">
+									<a><i class="fa fa-times" aria-hidden="true" id="close_reg_form"></i></a>
+									<div style="height: 35px;"></div>
+									<h4 style="text-align: center;">Subscribe to China Spotlight for Latest News<h4>
+			              
+  
+  <div class="mailpoet_form_popup_overlay"></div>
+  <div
+    id="mailpoet_form_2"
+    class="mailpoet_form mailpoet_form_php"
+      >
+        <style type="text/css">.mailpoet_hp_email_label{display:none!important;}#mailpoet_form_2 .mailpoet_form {  }
+#mailpoet_form_2 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_2 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_2 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_2 .mailpoet_segment_label, #mailpoet_form_2 .mailpoet_text_label, #mailpoet_form_2 .mailpoet_textarea_label, #mailpoet_form_2 .mailpoet_select_label, #mailpoet_form_2 .mailpoet_radio_label, #mailpoet_form_2 .mailpoet_checkbox_label, #mailpoet_form_2 .mailpoet_list_label, #mailpoet_form_2 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea, #mailpoet_form_2 .mailpoet_select, #mailpoet_form_2 .mailpoet_date_month, #mailpoet_form_2 .mailpoet_date_day, #mailpoet_form_2 .mailpoet_date_year, #mailpoet_form_2 .mailpoet_date { display: block; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_2 .mailpoet_checkbox {  }
+#mailpoet_form_2 .mailpoet_submit {  }
+#mailpoet_form_2 .mailpoet_divider {  }
+#mailpoet_form_2 .mailpoet_message {  }
+#mailpoet_form_2 .mailpoet_validate_success { font-weight: 600; color: #468847; }
+#mailpoet_form_2 .mailpoet_validate_error { color: #b94a48; }
+#mailpoet_form_2 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_2 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_2{}@media (max-width: 500px) {#mailpoet_form_2 {background-image: none;}}</style>
+    <form
+      target="_self"
+      method="post"
+      action="https://china-spotlightnews.co.uk/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_php"
+      novalidate
+      style="padding: 20px"
+      data-delay=""
+      data-position=""
+      data-background-color=""
+    >
+      <input type="hidden" name="data[form_id]" value="2" />
+      <input type="hidden" name="token" value="d751cac915" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label">Please leave this field empty<input type="email" name="data[email]"/></label><div class="mailpoet_paragraph "><input type="email" class="mailpoet_text" name="data[form_field_NWNlMGViYTc5NmYzX2VtYWls]" title="Email" value="" style="width:100%;padding:5px;" data-automation-id="form_email"  placeholder="Email *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-error-message="Please specify a valid email address." data-parsley-required-message="This field is required."/></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Subscribe!" data-automation-id="subscribe-submit-button" style="width:100%;padding:5px;border-color:transparent;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Check your inbox or spam folder to confirm your subscription.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+  </div>
+
+  								</div>
+		          </div>
+		        </td>
+		      </tr>
+		    </table>
+		  </div>
+
+			<style type="text/css">
+		    .lightbox {
+		      position:fixed;
+		      z-index: 1001;
+		      top:0;
+		      left:0;
+		      width:100%;
+		      height:100%;
+		      background:rgba(0, 0, 0, .8);
+		    }
+		    .lightbox_table {
+		      width:100%;
+		      height:100%;
+		    }
+		    .lightbox_table_cell {
+		      vertical-align:middle;
+		    }
+		    .register_form{
+					background-color: white;
+					border-radius: 10px;
+		      padding: 15px;
+		      width: 290px;
+		      height: 360px;
+		    }
+				#close_reg_form { float: right; }
+		  </style>
+			<script type="text/javascript">
+		    var subscribe_btn = document.getElementById('subscribe_btn');
+		    var lightbox = document.getElementById('lightbox');
+				var close_reg_form = document.getElementById('close_reg_form');
+		    subscribe_btn.onclick = function () {
+		      lightbox.style.display='inline';
+		    };
+		    close_reg_form.onclick = function () {
+		      lightbox.style.display='none';
+		    };
+		  </script>
+
+			<!-- search box -->
+			<div style="" id="search_bar">
+				<form role="search" method="get" class="search-form" action="/.">
+					<label>
+						<span class="screen-reader-text">Search for:</span>
+						<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" id="search_input" />
+					</label>
+					<input type="submit" class="search-submit" value="Search" />
+					<div class="nv-search-icon-wrap"><span class="nv-icon nv-search" >
+							<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"/></svg>
+						</span>
+					</div>
+				</form>
+			</div>
+			<style type="text/css">
+				#search_bar {
+					width: 300px;
+					position: absolute;
+					z-index: 990;
+					left: calc( (100% - 1009px) / 2.0 );
+					display: none;
+					background-color: white;
+				}
+				@media (max-width: 1034px) {
+					#search_bar {left: 15px;}
+				}
+			</style>
+			<script type="text/javascript">
+				var search_icon = document.getElementById('search_icon');
+				var search_bar = document.getElementById('search_bar');
+				var search_bar_visible = false;
+				var search_input = document.getElementById("search_input");
+				search_icon.onclick = function () {
+					if (search_bar_visible) {
+						search_bar.style.display = "none";
+						search_icon.style.color = "#404248";
+						search_bar_visible = false;
+					} else {
+						search_bar.style.display = "block";
+						search_icon.style.color = "#a70d0d";
+						search_bar_visible = true;
+						search_input.focus();
+						search_input.select();
+					}
+				}
+			</script>
+		
+
+
+		<a class="neve-skip-link show-on-focus" href="#content" tabindex="0">
+			Skip to content		</a>
+				<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://china-spotlightnews.co.uk" title="CHINA SPOTLIGHT" rel="home">CHINA SPOTLIGHT</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="167" class="elementor elementor-167" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-45ed712 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="45ed712" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-36a9c20 elementor-column elementor-col-100 elementor-top-column" data-id="36a9c20" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0fc7789 elementor-widget elementor-widget-image" data-id="0fc7789" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://china-spotlightnews.co.uk/wp-content/uploads/elementor/thumbs/CS-logo-ooxqhnb8qyzhh2z8musifbzvcp3xacqow045eqdpyc.png" title="CS-logo" alt="CS-logo" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-6cf59f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6cf59f7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5384637 elementor-column elementor-col-100 elementor-top-column" data-id="5384637" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ac653d5 hfe-nav-menu__align-left hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="ac653d5" data-element_type="widget" data-widget_type="navigation-menu.default">
+				<div class="elementor-widget-container">
+						<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
+				<div class="hfe-nav-menu__toggle elementor-clickable">
+					<div class="hfe-nav-menu-icon">
+													<i class="fas fa-align-justify" aria-hidden="true" tabindex="0"></i>
+											</div>
+				</div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="fas fa-align-justify fa-solid" data-close-icon="far fa-window-close fa-regular" data-full-width="yes"><ul id="menu-1-ac653d5" class="hfe-nav-menu"><li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-128 current_page_item parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/" class = "hfe-menu-item">Home</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/world" class = "hfe-menu-item">World</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/uk" class = "hfe-menu-item">UK-CHINA</a></li>
+<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/europe" class = "hfe-menu-item">Europe</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/opinion" class = "hfe-menu-item">Opinion</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/business" class = "hfe-menu-item">Business</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/tech" class = "hfe-menu-item">Tech</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/economy" class = "hfe-menu-item">ECONOMY</a></li>
+<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/politics" class = "hfe-menu-item">Politics</a></li>
+<li id="menu-item-2865" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/culture-arts" class = "hfe-menu-item">Culture &#038; Arts</a></li>
+<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://china-spotlightnews.co.uk/human-rights" class = "hfe-menu-item">Human Rights</a></li>
+</ul></nav>              
+			</div>
+					</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				</header>
+
+		</header>
+	
+	<main id="content" class="neve-main" role="main">
+
+<div class="container single-page-container">
+	<div class="row">
+				<div class="nv-single-page-wrap col">
+			<div class="nv-content-wrap entry-content">
+
+
+
+  <hr class='timeline_delimiter'>
+<div class='timeline_delimiter'>Today</div>
+  <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.theguardian.com/uk-news/2020/oct/14/mi5-boss-ken-mccullum-says-russian-and-chinese-threats-to-uk-growing-in-severity" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://i.guim.co.uk/img/media/1e834ac9f350459a672bbb10cc1552fa02a9ea12/723_401_1527_916/master/1527.jpg?width=1200&#038;height=630&#038;quality=85&#038;auto=format&#038;fit=crop&#038;overlay-align=bottom%2Cleft&#038;overlay-width=100p&#038;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&#038;enable=upscale&#038;s=36d43c8b727c4679ee3f9685ae0dd418"); background-size: cover; background-position: left center;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fmi5-boss-says-russian-and-chinese-threats-to-uk-growing-in-severity');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fmi5-boss-says-russian-and-chinese-threats-to-uk-growing-in-severity');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/politics'>Politics</a>, <a href='/uk'>UK-CHINA</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            MI5 boss says Russian and Chinese threats to UK &#8216;growing in severity&#8217;          </h4>
+          <p>
+            Ken McCallum also pledges to boost diversity in the service as response to Black Lives Matter movement                          Read more on
+              <a href="https://www.theguardian.com/uk-news/2020/oct/14/mi5-boss-ken-mccullum-says-russian-and-chinese-threats-to-uk-growing-in-severity" target="_blank" >
+                theguardian.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://edition.cnn.com/interactive/2020/10/asia/black-gold-hair-products-forced-labor-xinjiang/" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://cdn.cnn.com/cnn/2020/images/10/08/china-xinjiang-hair-gfx-opt.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://cdn.cnn.com/cnn/2020/images/10/08/china-xinjiang-hair-gfx-opt.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fhow-global-demand-for-hair-products-is-linked-to-forced-labor-in-china');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fhow-global-demand-for-hair-products-is-linked-to-forced-labor-in-china');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/business'>Business</a>, <a href='/china'>China</a>, <a href='/human-rights'>Human rights</a>, <a href='/trade'>Trade</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            How global demand for hair products is linked to forced labor in China          </h4>
+          <p>
+            A CNN investigation into the supply of wigs and hair extensions from China to the US, including products linked to forced labor camps in Xinjiang.                          Read more on
+              <a href="https://edition.cnn.com/interactive/2020/10/asia/black-gold-hair-products-forced-labor-xinjiang/" target="_blank" >
+                edition.cnn.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.caixinglobal.com/2020-10-13/chinas-exports-gain-imports-surge-on-global-recovery-101614128.html" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://img.caixin.com/2020-10-13/1602572068005191.jpg"); background-position: center center; background-size: 100% auto;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchinas-exports-havent-grown-this-fast-in-18-months');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchinas-exports-havent-grown-this-fast-in-18-months');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/economy'>Economy</a>, <a href='/trade'>Trade</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            China’s Exports Haven’t Grown This Fast in 18 Months          </h4>
+          <p>
+            China’s foreign trade continued to recover from the Covid-19 pandemic in September, with exports expanding at the quickest clip in 18 months and imports returning to growth at their fastest pace so far this year, boosted by a global economic rebound and robust domestic demand.                          Read more on
+              <a href="https://www.caixinglobal.com/2020-10-13/chinas-exports-gain-imports-surge-on-global-recovery-101614128.html" target="_blank" >
+                caixinglobal.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.ft.com/content/46edd2b2-1734-47da-8e77-21854ca5b212" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://d1e00ek4ebabms.cloudfront.net/production/ba0725e9-3ccf-486a-a7f5-f2a9ac35a512.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://d1e00ek4ebabms.cloudfront.net/production/ba0725e9-3ccf-486a-a7f5-f2a9ac35a512.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchinese-groups-go-from-fish-to-chips-in-new-great-leap-forward');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchinese-groups-go-from-fish-to-chips-in-new-great-leap-forward');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/business'>Business</a>, <a href='/china'>China</a>, <a href='/tech'>Tech</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Chinese groups go from fish to chips in new ‘Great Leap Forward’          </h4>
+          <p>
+            Beijing semiconductor push draws companies from sectors such as seafood and autoparts
+                          Read more on
+              <a href="https://www.ft.com/content/46edd2b2-1734-47da-8e77-21854ca5b212" target="_blank" >
+                ft.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.bbc.co.uk/news/business-54519326" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://ichef.bbci.co.uk/news/1024/branded_news/1674/production/_114884750_gettyimages-1206945038.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://ichef.bbci.co.uk/news/1024/branded_news/1674/production/_114884750_gettyimages-1206945038.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fshenzhen-residents-embrace-digital-currency');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fshenzhen-residents-embrace-digital-currency');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/financial'>Financial</a>, <a href='/politics'>Politics</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Shenzhen residents embrace digital currency          </h4>
+          <p>
+            A trial of the currency proves popular, as China’s central bank prepares to launch it later this year.                          Read more on
+              <a href="https://www.bbc.co.uk/news/business-54519326" target="_blank" >
+                bbc.co.uk              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.ft.com/content/aa43fb1c-8f44-495a-a9b5-69a00c7db4a9" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://d1e00ek4ebabms.cloudfront.net/production/1f136360-b9cc-40a4-89d4-708f078697f6.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://d1e00ek4ebabms.cloudfront.net/production/1f136360-b9cc-40a4-89d4-708f078697f6.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fzambia-resists-chinese-pressure-on-arrears');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fzambia-resists-chinese-pressure-on-arrears');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/business'>Business</a>, <a href='/economy'>Economy</a>, <a href='/politics'>Politics</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Zambia resists Chinese pressure on arrears          </h4>
+          <p>
+            Zambia has said it will resist pressure from Chinese creditors to make paying arrears a condition of pursuing debt relief talks, as the southern African nation battles to restructure $11bn of external debts.
+
+
+                          Read more on
+              <a href="https://www.ft.com/content/aa43fb1c-8f44-495a-a9b5-69a00c7db4a9" target="_blank" >
+                ft.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.scmp.com/news/world/united-states-canada/article/3105409/canadas-justin-trudeau-slams-china-over-hong-kong" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/14/472fbd6e-0dae-11eb-94e0-02af7fd927c6_image_hires_075103.jpg?itok=O6JwKEk0&#038;v=1602633072"); background-size: cover; background-position: left center;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fcanadas-justin-trudeau-slams-china-over-hong-kong-and-xinjiang');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fcanadas-justin-trudeau-slams-china-over-hong-kong-and-xinjiang');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/human-rights'>Human rights</a>, <a href='/politics'>Politics</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Canada’s Justin Trudeau slams China over Hong Kong and Xinjiang          </h4>
+          <p>
+            Prime minister calls out ‘coercive diplomacy’ as he marks 50th anniversary of diplomatic ties with Beijing                          Read more on
+              <a href="https://www.scmp.com/news/world/united-states-canada/article/3105409/canadas-justin-trudeau-slams-china-over-hong-kong" target="_blank" >
+                scmp.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://nationalinterest.org/blog/buzz/here-come-tanks-how-china-fortifying-its-border-india-170414" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://nationalinterest.org/sites/default/files/main_images/C794%20%281%29.jpg"); background-size: cover; background-position: center top;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fhere-come-the-tanks-how-china-is-fortifying-its-border-with-india');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fhere-come-the-tanks-how-china-is-fortifying-its-border-with-india');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/asia'>Asia</a>, <a href='/china'>China</a>, <a href='/politics'>Politics</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Here Come the Tanks: How China Is Fortifying Its Border With India          </h4>
+          <p>
+            Beijing has several new vehicles and tanks at its disposal. Here is how they stack up.                          Read more on
+              <a href="https://nationalinterest.org/blog/buzz/here-come-tanks-how-china-fortifying-its-border-india-170414" target="_blank" >
+                nationalinterest.org              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.bloomberg.com/news/articles/2020-10-13/u-k-plans-new-law-to-unpick-foreign-deals-on-security-grounds?sref=o3UqvRED" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://s.yimg.com/uu/api/res/1.2/I.81TKOLh7zkS5J4CCHyAw--~B/aD0yMzg3O3c9Mzg5NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/b607ebae45a4f3ea2cc23c24da6c726c"); background-position: center center; background-size: 100% auto;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fu-k-plans-new-law-to-undo-foreign-deals-on-security-grounds');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fu-k-plans-new-law-to-undo-foreign-deals-on-security-grounds');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/politics'>Politics</a>, <a href='/uk'>UK-CHINA</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            U.K. Plans New Law to Undo Foreign Deals on Security Grounds          </h4>
+          <p>
+            Boris Johnson’s government is drawing up plans for a radical new law that would give ministers power to unravel foreign investments in U.K. companies 
+                          Read more on
+              <a href="https://www.bloomberg.com/news/articles/2020-10-13/u-k-plans-new-law-to-unpick-foreign-deals-on-security-grounds?sref=o3UqvRED" target="_blank" >
+                bloomberg.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://bitterwinter.org/church-of-almighty-god-members-subjected-to-sound-torture/" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://bitterwinter.org/wp-content/uploads/2020/10/CAG-member-is-questioned-in-a-cell.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://bitterwinter.org/wp-content/uploads/2020/10/CAG-member-is-questioned-in-a-cell.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchurch-of-almighty-god-members-subjected-to-sound-torture');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchurch-of-almighty-god-members-subjected-to-sound-torture');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/human-rights'>Human rights</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Church of Almighty God Members Subjected to Sound Torture          </h4>
+          <p>
+            Three members of this banned religious group in China share their horrifying experiences of torture after being arrested for their faith.                          Read more on
+              <a href="https://bitterwinter.org/church-of-almighty-god-members-subjected-to-sound-torture/" target="_blank" >
+                bitterwinter.org              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://thediplomat.com/2020/10/trump-reportedly-eyes-more-chinese-firms-for-sanction/" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://i.ytimg.com/vi/RmAr9SW5yQw/maxresdefault.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://i.ytimg.com/vi/RmAr9SW5yQw/maxresdefault.jpg' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Ftrump-reportedly-eyes-more-chinese-firms-for-sanction');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Ftrump-reportedly-eyes-more-chinese-firms-for-sanction');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/politics'>Politics</a>, <a href='/tech'>Tech</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Trump Reportedly Eyes More Chinese Firms for Sanction          </h4>
+          <p>
+            The administration is considering restrictions on Chinese digital payment platforms, on top of existing bans.                          Read more on
+              <a href="https://thediplomat.com/2020/10/trump-reportedly-eyes-more-chinese-firms-for-sanction/" target="_blank" >
+                thediplomat.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.theepochtimes.com/china-saw-covid-19-like-patients-months-before-official-timeline-internal-documents_3537965.html" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://img.theepochtimes.com/assets/uploads/2020/10/13/covid-patient--e1602624986306-1200x762.jpg"); background-size: cover; background-position: center bottom;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fexclusive-china-had-covid-like-patients-months-before-official-timeline');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fexclusive-china-had-covid-like-patients-months-before-official-timeline');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/censorship'>Censorship</a>, <a href='/china'>China</a>, <a href='/covid-19'>COVID-19</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Exclusive: China Had COVID-Like Patients Months Before Official Timeline          </h4>
+          <p>
+            Internal CCP documents show patients in Wuhan had symptoms as early as September 2019, but authorities didn&#8217;t disclose to the world
+                          Read more on
+              <a href="https://www.theepochtimes.com/china-saw-covid-19-like-patients-months-before-official-timeline-internal-documents_3537965.html" target="_blank" >
+                theepochtimes.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.theepochtimes.com/china-insiderchinese-textbook-alters-bible-passage-says-jesus-stoned-woman-to-death_3537192.html" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; background-image: url("https://img.theepochtimes.com/assets/uploads/2020/01/26/GettyImages-668404488-crop-1200x720.jpg"); background-size: cover; background-position: center top;'></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchina-insider-chinese-textbook-alters-bible-passage-says-jesus-stoned-woman-to-death');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchina-insider-chinese-textbook-alters-bible-passage-says-jesus-stoned-woman-to-death');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/censorship'>Censorship</a>, <a href='/china'>China</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            China Insider: Chinese Textbook Alters Bible Passage, Says Jesus Stoned Woman to Death          </h4>
+          <p>
+            Around a hundred male college students in China suddenly started having diarrhea and vomiting earlier this week.
+
+                          Read more on
+              <a href="https://www.theepochtimes.com/china-insiderchinese-textbook-alters-bible-passage-says-jesus-stoned-woman-to-death_3537192.html" target="_blank" >
+                theepochtimes.com              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.thetimes.co.uk/article/china-bans-haj-for-muslims-who-fail-patriotism-test-pcb9c6dfc?shareToken=0845a51794a05779395a1c195f1be765" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9064fb96-0d79-11eb-94f0-d7c8706d29dd.jpg?crop=6240%2C3510%2C0%2C325&#038;resize=685' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9064fb96-0d79-11eb-94f0-d7c8706d29dd.jpg?crop=6240%2C3510%2C0%2C325&#038;resize=685' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchina-bans-haj-for-muslims-who-fail-patriotism-test');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fchina-bans-haj-for-muslims-who-fail-patriotism-test');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/censorship'>Censorship</a>, <a href='/china'>China</a>, <a href='/culture'>Culture</a>, <a href='/human-rights'>Human rights</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            China bans haj for Muslims who fail patriotism test          </h4>
+          <p>
+            China has ordered Muslim citizens to prove that they are patriotic and law-abiding before they are allowed to undertake the haj, under a new law that it says will safeguard national security.                          Read more on
+              <a href="https://www.thetimes.co.uk/article/china-bans-haj-for-muslims-who-fail-patriotism-test-pcb9c6dfc?shareToken=0845a51794a05779395a1c195f1be765" target="_blank" >
+                thetimes.co.uk              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    <div> <!-- article -->
+    <div class="article_cols"> <!-- right -->
+
+      <div class="article_image_col">
+        <a href="https://www.thetimes.co.uk/article/chinese-factories-kept-busy-by-booming-domestic-demand-xbcbhsvsc?shareToken=84fdb51821d05c7fdadf7a068f659748" target="_blank" >
+          <div style='width: 250px; height: 140.625px; border: 1px solid #f0f0f0; background-repeat: no-repeat; display: table-cell; vertical-align: middle;'><img class="lazy lazy-hidden" src="//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src='https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F167e52f8-0d85-11eb-ac14-2688f9fd3309.jpg?crop=1500%2C844%2C0%2C78&#038;resize=685' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'><noscript><img src='https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F167e52f8-0d85-11eb-ac14-2688f9fd3309.jpg?crop=1500%2C844%2C0%2C78&#038;resize=685' style='max-width: 250px; max-height: 140.625px; margin-left: auto; margin-right: auto; display: block;'></noscript></div>        </a>
+      </div>
+      <div class="article_text_col">
+        <div>
+          <div class="timeline_icons cursor_pointer" title="Share on social media">
+                        <i class="fa fa-facebook fbshr" onclick="facebook_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fimports-surge-points-to-china-recovery');" style="font-size: 18px;"></i>
+            <i class="fa fa-twitter twshr" onclick="twitter_timeline_share('https%3A%2F%2Fchina-spotlightnews.co.uk%2Fimports-surge-points-to-china-recovery');" style="font-size: 20px;"></i>
+          </div>
+                      <div class="category">
+              <strong><a href='/china'>China</a>, <a href='/economy'>Economy</a>, <a href='/trade'>Trade</a>, <a href='/uncategorized'>Uncategorized</a>, <a href='/world'>World</a></strong>
+            </div>
+          
+          <h4 style="font-family: Roboto; line-height: 1.2;">
+            Imports surge points to China recovery          </h4>
+          <p>
+            Chinese imports unexpectedly entered recovery mode last month, rising rapidly as the country’s post-coronavirus convalescence increased domestic demand.Exports from the world’s second largest economy                          Read more on
+              <a href="https://www.thetimes.co.uk/article/chinese-factories-kept-busy-by-booming-domestic-demand-xbcbhsvsc?shareToken=84fdb51821d05c7fdadf7a068f659748" target="_blank" >
+                thetimes.co.uk              </a>
+                      </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+<div>
+  <form action="" style="float: right;">
+    <button type="submit" name="a_page" value="1">More Articles</button>
+  </form>
+</div>
+
+<style>
+  .cursor_pointer { cursor: pointer; }
+  .category { margin-top: -3px; }
+  .category a {
+    color: #A70D0D;
+    text-decoration: none !important;
+  }
+
+  hr.timeline_delimiter {
+   border: 1px solid #404248;
+   border-radius: 2px;
+   margin-bottom: 0px;
+  }
+  div.timeline_delimiter {
+   color: #404248;
+   font-weight: 600;
+   margin-bottom: 10px;
+  }
+
+  .article_cols {
+   max-width: 890px;
+   margin-left: auto;
+  }
+  .article_image_col {
+   float: left;
+   width: 250px;
+  }
+  .timeline_icons { float: right; color: #bdbdbd; font-size:20px; }
+  .article_text_col {
+   float: left;
+   width: calc(100% - 250px);
+   padding-left: 25px;
+   padding-top: 3px;
+  }
+
+  .fbshr:hover { color: #3b5998; }
+  .twshr:hover { color: #1DA1F2; }
+
+  @media (max-width: 790px) {
+    .article_image_col {
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+   }
+
+   .article_text_col { width: 100%; padding: 15px; }
+  }
+</style>
+
+<script type="text/javascript">
+  function facebook_timeline_share(permalink){
+    var href = "http://www.facebook.com/sharer.php?u=" + permalink;
+    window.open(href, 'fb_share_window', 'width=675,height=500');
+  }
+  function twitter_timeline_share(permalink){
+    var href = "https://twitter.com/share?url=" + permalink;
+    window.open(href, 'fb_share_window', 'width=675,height=500');
+  }
+</script>
+</div>		</div>
+			</div>
+</div>
+</main><!--/.neve-main-->
+
+
+
+
+<div style="background-color: #24292e; padding: 15px; margin-top: 15px;">
+	<div class="ucs_footer1">
+		<div class="footer_follow">
+			<div style="margin-bottom: 9px;">Follow Us</div>
+			<div class="footer_social_icon">
+				<a href="https://www.facebook.com/CSUKNEWS/" target="_blank">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+			</div>
+			<div class="footer_social_icon">
+				<a href="https://twitter.com/csuk_news" target="_blank">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+				</a>
+			</div>
+			<!--
+			<div class="footer_social_icon">
+				<a href="https://www.instagram.com/" target="_blank">
+					<i class="fa fa-instagram" aria-hidden="true"></i>
+				</a>
+			</div>
+			-->
+			<div class="footer_social_icon">
+				<a href="https://www.linkedin.com/company/chinaspotlight-co-uk/" target="_blank">
+					<i class="fa fa-linkedin" aria-hidden="true"></i>
+				</a>
+			</div>
+		</div>
+
+		<div class="footer_menu">
+			<a class="footer_menu_col" href="/about">About the UCS</a>
+			<a class="footer_menu_col " href="/privacy-policy">Privacy Policy</a>
+			<a class="footer_menu_col " href="/cookie-policy">Cookie Policy</a>
+			<a class="footer_menu_col two_thirds" style="cursor: default;">
+				Contact us: Info<i class="fa fa-at" aria-hidden="true"></i>chinaspotlight.co.uk
+			</a>
+			<a class="footer_menu_col " onclick="lightbox.style.display='inline';">Subscribtion</a>
+		</div>
+	</div>
+</div>
+
+<style type="text/css">
+	.ucs_footer1 {
+		max-width: 1009px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		color: rgba(255,255,255,.79);
+	}
+	.footer_social_icon {
+		float: left;
+		font-size: 1.5em;
+		padding: 7px;
+		margin: 4px;
+		margin-left: 0px;
+		border: 1px solid rgba(255,255,255,.69);
+		border-radius: 50%;
+		width: 1.6em;
+		height: 1.6em;
+		text-align: center;
+	}
+	.footer_follow { float: left; width: 50%; margin-top: -10px;}
+	.footer_menu { float: left; width: 50%; }
+	@media (max-width: 890px) {
+		.footer_follow { width: 100%; }
+		.footer_menu { width: 100%; margin-top: 15px;}
+	}
+	.footer_menu_col {
+		float: left;
+		width: calc( 100% / 3 );
+		text-align: left;
+		display: block;
+		color: rgba(255,255,255,.79);
+		margin-bottom: 15px;
+	}
+	a.footer_menu_col:hover { color: white; text-decoration: none; }
+	.center { text-align: center; } .right { text-align: right; } .full { width: 100% }
+	.two_thirds { width: 66.6% }
+	.footer_social_icon a { color: rgba(255,255,255,.79); }
+	.footer_social_icon a:hover { color: white; text-decoration: none; }
+
+	@media (max-width: 890px) {
+		.footer_menu_col { width: auto; margin-right: 14px;}
+	}
+</style>
+
+<!-- old footer
+<div style="background-color: #24292e;">
+	<div class="ucs_footer1">
+		<div class="ucs_footer_entry">
+			<a href="https://www.facebook.com/UKChinaspotlight/" target="_blank">
+				<i class="fa fa-facebook"></i>
+			</a>&nbsp;
+
+			<a href="https://twitter.com/csuk_news" target="_blank">
+				<i class="fa fa-twitter"></i>
+			</a>
+		</div>
+
+		<div class="ucs_footer_entry">
+			<a href="/about">About China Spotlight</a>
+		</div>
+
+		<div class="ucs_footer_entry">
+			<a href="/privacy-policy">Privacy Policy</a>
+		</div>
+
+		&nbsp;
+	</div>
+</div>
+
+<style>
+	.ucs_footer1 {
+		max-width: 1009px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		color: rgba(255,255,255,.79);
+		/* font-size: 1.2em; */
+	}
+	.ucs_footer_entry {
+		float: left;
+		margin-right: 25px;
+	}
+	.ucs_footer1 a {
+		color: rgba(255,255,255,.79);
+	}
+	.ucs_footer1 a:hover {
+		color: white;
+		text-decoration: none;
+	}
+
+	@media (max-width: 1100px) {
+		.ucs_footer1 { padding-left: 25px; padding-right: 25px; }
+	}
+</style>
+-->
+
+</div><!--/.wrapper-->
+<link rel='stylesheet' id='mailpoet_public-css'  href='https://china-spotlightnews.co.uk/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.83abe04b.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NeveProperties = {"ajaxurl":"https:\/\/china-spotlightnews.co.uk\/wp-admin\/admin-ajax.php","nonce":"3321efc9e4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=2.6.6'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-includes/js/comment-reply.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=2.3.2'></script>
+<script type='text/javascript' src='//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=2.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0","horizontal_container_classnames":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//china-spotlightnews.co.uk/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=2.3.2'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https:\/\/china-spotlightnews.co.uk\/wp-admin\/admin-ajax.php","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/mailpoet/assets/dist/js/public.ca9b7095.js?ver=3.47.1'></script>
+<script type='text/javascript'>
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'An error has happened while performing a request, please try again later.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/header-footer-elementor/inc/js/hfe-nav-menu.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.8'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.8","urls":{"assets":"https:\/\/china-spotlightnews.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":128,"title":"CHINA%20SPOTLIGHT%20%E2%80%93%20.CO","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://china-spotlightnews.co.uk/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.8'></script>
+
+</body>
+
+</html>

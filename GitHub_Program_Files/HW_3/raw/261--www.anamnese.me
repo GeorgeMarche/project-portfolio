@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="fr"  style="overflow-y: unset;">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="PH8kI6oZ4r15M5NkldKTbZEKvG-reEd9XYAzHgq9CTc">
+    <meta name="Content-Language" content="fr-FR">
+    <meta name="Reply-To" content="support@anamnese.care">
+    <meta name="Revisit-After" content="7 days">
+    <meta name="Rating" content="general">
+    <meta name="Geography" content="France">
+    <meta name="Category" content="health">
+
+    
+
+
+<!-- Vue libraries -->
+<script src="/static/node_modules/vue/dist/vue.min.js"></script>
+<script src="/static/node_modules/axios/dist/axios.min.js"></script>
+<link rel="stylesheet" href="/static/node_modules/vuetify/dist/vuetify.min.css">
+<script src="/static/node_modules/vuetify/dist/vuetify.min.js"></script>
+<link href="/static/node_modules/%40mdi/font/css/materialdesignicons.min.css" rel="stylesheet">
+
+<script src="/static/modernizr.js"></script>
+
+<!-- Common -->
+<link href="/static/css/common_vue17092020.css" rel="stylesheet">
+<script src="/static/common/js/common210920.js"></script>
+
+<!-- Remove token locally and on the server using ajax -->
+<script src="/static/fcm_disconnect.js"></script>
+
+    
+        
+
+<link rel="manifest" href="/c/manifest.json">
+<link rel="mask-icon" href="/static/favicon/anamnese/safari-pinned-tab.svg" color="#6470b4">
+<meta name="apple-mobile-web-app-title" content="Anamnese">
+<meta name="application-name" content="Anamnese">
+
+<!-- Add to homescreen for Chrome on Android -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Anamnese}">
+
+<!-- Chrome for Android theme color -->
+<meta name="theme-color" content="#6BA8AA">
+
+<!-- Add to homescreen for Safari on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Anamnese">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" sizes="180x180"    href="/static/favicon/anamnese/apple-touch-icon.png">
+
+
+
+<!-- Tile for Win8 -->
+<meta name="msapplication-config"  content="/static/favicon/anamnese/browserconfig.xml">
+
+
+
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/anamnese/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/anamnese/favicon-32x32.png">
+<link rel="shortcut icon"                       href="/static/favicon/anamnese/favicon.ico">
+
+
+<!--
+<script type="text/javascript">
+    // Initialize the service worker
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/serviceworker.js', {
+            scope: 'scope'
+        }).then(function (registration) {
+            // Registration was successful
+            console.log('django-pwa: ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+            // registration failed :(
+            console.log('django-pwa: ServiceWorker registration failed: ', err);
+        });
+    }
+</script>
+
+-->
+    
+
+
+    
+
+<script src="/static/tarteaucitronjs/tarteaucitron071020-1.min.js "></script>
+<script type="text/javascript">
+
+</script>
+<script type="text/javascript">
+    tarteaucitron.user.hubspotId = '8421041';
+        (tarteaucitron.job = tarteaucitron.job || []).push('hubspot');
+
+    tarteaucitron.user.gtagUa = 'UA-100926760-1';
+    tarteaucitron.user.analyticsUa = 'UA-100926760-1';
+    tarteaucitron.user.analyticsAnonymizeIp = true;
+    tarteaucitron.user.gtagMore = function () {
+        ga('set', 'anonymizeIp', true)
+    };
+    tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */
+    };
+    (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+</script>
+<link rel="stylesheet" href="/static/tarteaucitronjs/css/tarteaucitron020720.min.css">
+
+<style>
+    body #tarteaucitronRoot div#tarteaucitronAlertBig{
+        width: 100%;
+        left: 0;
+        bottom: 0;
+        transform: unset;
+        box-shadow: unset;
+        border-radius: 0px;
+        top: unset;
+        opacity: 0.9;
+    }
+
+    #tarteaucitronRoot span#tarteaucitronDisclaimerAlert{
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+
+    #tarteaucitronAlertBig #tarteaucitronCloseAlert, #tarteaucitronAlertBig #tarteaucitronPersonalize{
+        border-radius: 6px;
+    }
+
+    #tarteaucitronAlertBig #tarteaucitronPersonalize{
+        background: #1B2A49;
+    }
+
+</style>
+
+    
+    <link rel="stylesheet" type="text/css" href="/static/home/css/text_specific.css">
+
+    
+    <title>CovidHELP : Dépistage, Télésuivi, prévention contre le covid19 </title>
+    <meta name="description" content="CovidHELP permet aux entreprises d'assurer la sécurité de TOUS leur salariés, en toute conformité (sans accéder .aux données de santé), par la prévention.">
+    <meta name="Keywords" content="Coronavirus, télésuivi, télésurveillance, suivi personnalisé">
+    <meta property="og:url" content="https://www.anamnese.me/logiciel/covidapp-depistage-tele-suivi-tele-surveillance-coronavirus" />
+    <meta property="og:title" content="CovidHELP: Télésuivi covid19" />
+    <meta property="og:description" content="Dépistage, télésuivi du coronavirus pour la sécurité des salariés">
+    <meta property="og:image" content="/static/home/img/logo_anamnese/logo_anamnese_300x200.png">
+    <meta name="theme-color" content="#6BA8AA">
+    <meta property="og:image" content="/static/home/img/logo_anamnese/logo_anamnese_300x200.png">
+    <link rel="canonical" href="https://www.anamnese.me/logiciel/covidhelp-depistage-tele-suivi-tele-surveillance-coronavirus">
+
+
+</head>
+
+
+<body>
+
+
+
+
+
+    
+        
+    <script type="text/javascript" src="/static/common/js/component_image_webp.js"></script>
+
+
+    <v-app id="app_product_covidhelp" class="application--toolbar application--footer application--footer-absolute" v-cloak>
+
+        
+
+
+
+
+
+
+
+
+<v-dialog v-model="dialog_connection" width="400">
+    <v-card>
+        <v-card-title class="secondary primary-title white--text pr-0">
+            Connexion
+        </v-card-title>
+
+        <v-form ref="form_connection" v-model="valid_connection" lazy-validation action="/connexion" method="post" @submit="validate_connection">
+            <input type="hidden" name="csrfmiddlewaretoken" value="LXgEsrW61lTw2vKJawwjrGj1RAhXYtXue4t0dtFdq0qZ8fQ8hEDhYvXhzzDA7M3x">
+            <v-card-text>
+                <v-row>
+                    <v-col cols="12">
+                        <v-text-field v-model="username" name="username" label="Identifiant" color="secondary" :rules="rules_connection.required" autofocus></v-text-field>
+                    </v-col>
+                    <v-col cols="12">
+                        <v-text-field
+                                v-model="password"
+                                name="password"
+                                :append-icon="show_password ? 'mdi-eye' : 'mdi-eye-off'"
+                                :rules="rules_connection.required"
+                                :type="show_password ? 'text' : 'password'"
+                                label="Mot de passe"
+                                color="secondary"
+                                @click:append="show_password = !show_password"
+                                autocomplete>
+                        </v-text-field>
+                    </v-col>
+                </v-row>
+            </v-card-text>
+
+            <v-divider></v-divider>
+
+            <v-card-actions>
+                <v-spacer></v-spacer>
+                <v-btn outlined color="secondary" @click="reset_dialog_connection">Fermer</v-btn>
+                <v-btn color="secondary" class="white--text" :disabled="!valid_connection" :loading="loading_connection" type="submit">Connexion</v-btn>
+            </v-card-actions>
+        </v-form>
+    </v-card>
+</v-dialog>
+
+
+<script>
+    var mixin_connection = {
+        data: () => ({
+            dialog_connection: false,
+            valid_connection: false,
+            loading_connection: false,
+            username: null,
+            password: null,
+            show_password: false,
+            rules_connection: {
+                'required': [v => !!v || 'Champs Obligatoire'],
+            },
+        }),
+        methods: {
+            validate_connection: function(e){
+                if (this.$refs.form_connection.validate()) {
+                    this.loading_connection = true;
+                    return true
+                }
+                e.preventDefault();
+            },
+            reset_dialog_connection: function(){
+                this.$refs.form_connection.reset();
+                this.dialog_connection = false;
+                this.loading_connection = false;
+            },
+        }
+    };
+</script>
+
+
+        
+
+
+
+
+<v-alert id="offline_alert" type="info" elevation="2" prominent dense class="hidden mb-0" dismissible style="z-index: 1">
+    Attention : vous avez <span class="font-weight-bold">perdu</span> votre
+    <span class="font-weight-bold">connexion internet</span>. Vérifiez votre connexion pour pouvoir utiliser les
+    différentes fonctionnalités.</v-alert>
+
+
+
+<div id="browser_alert" class="hidden"
+     style="background-color: #2196f3; color: white; text-align: center; padding: 15px; font-size: 16px; padding-right: 30px; position: relative">
+    <span>Votre <span style="font-weight: bold">navigateur</span> internet semble
+            <span style="font-weight: bold">incompatible</span>. Utilisez
+            <span style="font-weight: bold"> un navigateur récent </span> ou mettez le à jour.</span>
+    <div style="font-weight: bold; position: absolute; right: 20px; top: 10px; font-size: 20px; cursor: pointer"
+         onclick="document.getElementById('browser_alert').classList.add('hidden')"><span>x</span></div>
+</div>
+<script> if (!Modernizr.arrow) {document.getElementById('browser_alert').classList.remove('hidden')}</script>
+
+        
+
+        
+            
+
+
+
+
+<script type="text/javascript" src="/static/common/js/component_image_webp.js"></script>
+
+<v-app-bar color="primary">
+    <v-toolbar-title></v-toolbar-title>
+    <a @click="window.location.href='/'">
+        <image-webp class="hidden-xs-only"
+                image_source="/static/home/img/logo_anamnese/logo_anamnese_blanc.png"
+                image_webp="/static/home/img/logo_anamnese/logo_anamnese_blanc.webp"
+                width="60%"
+                title="Logo Anamnèse"
+        ></image-webp>
+    </a>
+    <v-spacer class="hidden-xs-only"></v-spacer>
+
+    <v-btn text dark @click="window.location.href='/'">Accueil</v-btn>
+    <v-menu offset-y open-on-hover>
+        <template v-slot:activator="{ on }">
+            <v-btn class="hidden-xs-only" text dark v-on="on">Vous êtes
+                <v-icon small>mdi-chevron-down</v-icon>
+            </v-btn>
+        </template>
+        <v-list>
+            <list-who></list-who>
+        </v-list>
+    </v-menu>
+    <v-menu offset-y open-on-hover>
+        <template v-slot:activator="{ on }">
+            <v-btn class="hidden-xs-only" text dark v-on="on">Logiciels
+                <v-icon small>mdi-chevron-down</v-icon>
+            </v-btn>
+        </template>
+        <v-list>
+            <list-product></list-product>
+        </v-list>
+    </v-menu>
+    <v-menu offset-y open-on-hover>
+        <template v-slot:activator="{ on }">
+            <v-btn class="hidden-xs-only" text dark v-on="on">Plateforme e-santé
+                <v-icon small>mdi-chevron-down</v-icon>
+            </v-btn>
+        </template>
+        <v-list>
+            <list-modules></list-modules>
+        </v-list>
+    </v-menu>
+    <v-menu offset-y open-on-hover>
+        <template v-slot:activator="{ on }">
+            <v-btn class="hidden-xs-only" text dark v-on="on">À propos
+                <v-icon small>mdi-chevron-down</v-icon>
+            </v-btn>
+        </template>
+        <v-list>
+            <list-us></list-us>
+        </v-list>
+    </v-menu>
+
+    <v-menu offset-y open-on-hover>
+        <template v-slot:activator="{ on }">
+            <v-btn color="white" class="hidden-sm-and-up" icon dark v-on="on">
+                <v-icon icon small>mdi-menu</v-icon>
+            </v-btn>
+        </template>
+        <v-list>
+            <v-list-group no-action sub-group>
+                <template v-slot:activator>
+                    <v-list-item-content>
+                        <v-list-item-title>Vous êtes </v-list-item-title>
+                    </v-list-item-content>
+                </template>
+                <list-who></list-who>
+            </v-list-group>
+            <v-divider></v-divider>
+
+            <v-list-group no-action sub-group>
+                <template v-slot:activator>
+                    <v-list-item-content>
+                        <v-list-item-title>Logiciels </v-list-item-title>
+                    </v-list-item-content>
+                </template>
+                <list-product></list-product>
+            </v-list-group>
+
+            <v-list-group no-action sub-group>
+                <template v-slot:activator>
+                    <v-list-item-content>
+                        <v-list-item-title>Plateforme e-santé </v-list-item-title>
+                    </v-list-item-content>
+                </template>
+                <list-modules></list-modules>
+            </v-list-group>
+
+
+            <v-list-group no-action sub-group>
+                <template v-slot:activator>
+                    <v-list-item-content>
+                        <v-list-item-title>À propos </v-list-item-title>
+                    </v-list-item-content>
+                </template>
+                <list-us></list-us>
+            </v-list-group>
+        </v-list>
+    </v-menu>
+    
+
+
+
+
+<form id="form_language" ref="form_language" action="/i18n/setlang/" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="LXgEsrW61lTw2vKJawwjrGj1RAhXYtXue4t0dtFdq0qZ8fQ8hEDhYvXhzzDA7M3x">
+    <input name="next" type="hidden" value="/home"/>
+    <select id="selected_language" @change="$refs.form_language.submit()" class="secondary--text mr-sm-4" name="language" style="-webkit-appearance: menulist;">
+        
+            <option value="fr"  selected="selected" >Français</option>
+        
+            <option value="en" >English</option>
+        
+            <option value="es" >Español</option>
+        
+            <option value="de" >Deutsch</option>
+        
+            <option value="it" >Italiano</option>
+        
+            <option value="pt" >Português</option>
+        
+            <option value="ar" >العربية</option>
+        
+            <option value="zh" >中文</option>
+        
+            <option value="el" >ελληνικά</option>
+        
+            <option value="ru" >русский</option>
+        
+    </select>
+    <textarea style="display: none" id="current_url" name="next"></textarea>
+</form>
+    
+        <v-btn color="secondary" class="hidden-xs-only" @click="dialog_connection = true">Connexion</v-btn>
+        <v-btn color="secondary" class="hidden-sm-and-up" @click="dialog_connection = true" icon right absolute>
+            <v-icon>mdi-account-circle</v-icon>
+        </v-btn>
+    
+
+</v-app-bar>
+
+
+
+<script>
+    var component_list_who = ('list-who', {
+        template : `
+                <div>
+                    <v-list-item href="/offre/praticiens">
+                        <v-list-item-title>Professionnel de santé</v-list-item-title>
+                    </v-list-item>
+                    <v-list-item href="/offre/etablissements-de-sante">
+                        <v-list-item-title>Établissement de santé</v-list-item-title>
+                    </v-list-item>
+                    <v-list-item href="/offre/medico-social">
+                        <v-list-item-title>Centre médico social</v-list-item-title>
+                    </v-list-item>
+                    <v-list-item @click="window.location.href='/offre/integrateur-editeur-logiciel-sante'">
+                        <v-list-item-title>Intégrateur/Editeur</v-list-item-title>
+                    </v-list-item>
+                    <v-list-item href="/offre/entreprise">
+                        <v-list-item-title>Entreprise - Prévention</v-list-item-title>
+                    </v-list-item>
+                       <v-list-item href="/offre/patients">
+                       <v-list-item-title>Patient</v-list-item-title>
+                      </v-list-item>
+                </div>
+        `,
+        delimiters: ['[[', ']]'],
+    });
+    var component_list_product = ('list-product', {
+        template : `
+                    <div>
+                        <v-list-item href="/logiciel/logiciels-medicaux-anamnese">
+                            <v-list-item-title>Tous nos logiciels médicaux</v-list-item-title>
+                        </v-list-item>
+                        <v-divider></v-divider>
+                        <v-list-item href="/logiciel/teleconsultation-medicale-securisee-chat-gestion-patient-distance">
+                            <v-list-item-title>Téléconsultation</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/logiciel/coordination-professionnels-de-sante-cpts">
+                            <v-list-item-title>CPTS : Coordination practiciens libéraux</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="https://mentana.anamnese.me/" target="_blank">
+                            <v-list-item-title>Mentana : Suivi Psychiatrique</v-list-item-title>
+                        </v-list-item>
+                        <v-divider></v-divider>
+                        <v-list-item href="/logiciel/consultation-anesthesie-anasthesie">
+                            <v-list-item-title>Anasthésie : Améliorer l'ambulatoire</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/logiciel/coordination-ehpad-ville-hopital-geriApp">
+                            <v-list-item-title>GeriApp : Parcours gériatrie</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="logiciel/regulation-urgence" disabled>
+                            <v-list-item-title>Urgences : e-régulation urgences</v-list-item-title>
+                        </v-list-item>
+                        <v-divider></v-divider>
+                        <v-list-item href="" disabled>
+                            <v-list-item-title>Prevana : Prévention au travail</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/logiciel/covidhelp-depistage-tele-suivi-tele-surveillance-coronavirus">
+                            <v-list-item-title>CovidHELP : Télésuivi Covid19</v-list-item-title>
+                        </v-list-item>
+                        <v-divider></v-divider>
+                        <v-list-item href="/agency/studiosante/" target="_blank">
+                            <v-list-item-title>Eyô : Dépistage dénutrition</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/agency/studiosante/" target="_blank">
+                            <v-list-item-title>Oludd : Douleurs pelviennes</v-list-item-title>
+                        </v-list-item>
+                    </div>
+        `,
+        delimiters: ['[[', ']]'],
+    });
+    var component_list_modules = ('list-modules', {
+        template : `
+                    <div>
+                        <v-list-item href="/modules/plateforme-e-sante-securisee-modulaire">
+                            <v-list-item-title>Plateforme e-santé complète</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/pre-admission-dossier-patient-identitovigilance">
+                            <v-list-item-title>Pré-admission</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/agenda-prise-de-rendez-vous-pour-practicien-ou-service">
+                            <v-list-item-title>Agenda / Prise de rendez-vous</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/modelisation-connaissance-medicale">
+                            <v-list-item-title>Modélisation de la connaisance médicale</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/questionnaire-intelligence-artificielle-multilingue">
+                            <v-list-item-title>Questionnaire multilingue patient par IA</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/questionnaire-protocolise-multilingue">
+                            <v-list-item-title>Questionnaire protocolisé</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/e-regulation-orientation-patient-vers-offre-de-soin-adaptee">
+                            <v-list-item-title>e-Regulation</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/telesuivi-tableau-de-bord-patient">
+                            <v-list-item-title>Télésuivi patient</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/teleconsultation-securisee-facilitant-echange-patient-medecin">
+                            <v-list-item-title>Téléconsultation sécurisée</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/digitalisation-parcours-soin">
+                            <v-list-item-title>e-Parcours (workflow patient - coordination practiciens)</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/dossier-medical-partage-securise-pour-coordination-praticiens">
+                            <v-list-item-title>Dossier patient partagé</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/modules/reglementation-donnee-sante-hds-dispositif-medical-rgpd">
+                            <v-list-item-title>Plateforme conforme à la réglementation</v-list-item-title>
+                        </v-list-item>
+                    </div>
+        `,
+        delimiters: ['[[', ']]'],
+    });
+    var component_list_us = ('list-us', {
+        template : `
+                    <div>
+                        <v-list-item href="/qui-sommes-nous/">
+                            <v-list-item-title>Qui sommes nous</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/qui-sommes-nous/actualites">
+                            <v-list-item-title>Actualités</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/qui-sommes-nous/prix-galien">
+                            <v-list-item-title>Prix Galien 2019</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/qui-sommes-nous/nous-rejoindre">
+                            <v-list-item-title>Nous rejoindre</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/qui-sommes-nous/partenaires">
+                            <v-list-item-title>Nos partenaires</v-list-item-title>
+                        </v-list-item>
+                        <v-list-item href="/qui-sommes-nous/nous-contacter">
+                            <v-list-item-title>Nous contacter</v-list-item-title>
+                        </v-list-item>
+                    </div>
+        `,
+        delimiters: ['[[', ']]'],
+    });
+
+    var mixin_header_home = {
+        components: {
+            'list-who' : component_list_who,
+            'list-us' : component_list_us,
+            'list-modules' : component_list_modules,
+            'list-product' : component_list_product,
+            'image-webp' : component_image_webp
+        }
+    };
+</script>
+
+
+        
+
+        <v-content style="min-height: 100vh !important">
+            <v-container class="home_container">
+                
+    <v-row class="secondary--text">
+        <v-col cols="12" class="tertiary">
+            <v-row>
+                <v-col cols="12" md="6" class="pa-sm-12 tertiary">
+                    <v-row>
+                        <v-col cols="12">
+                            <h1>Gérez les<strong class="primary--text bold--text"> disponibilités</strong> des personnels en réduisant les
+                                <strong class="primary--text bold--text align-left"> risques sanitaires</strong> </h1>
+                            <p class="mt-3 text-justify">
+                                Des doutes quant à l'évolution du coronavirus au sein de votre entreprise ? Grâce à notre solution, maitrisez quotidiennement l’évolution du virus au sein de votre organisation et assurez la prévention des risques sanitaires et psychosociaux à vos salariés. <br><br>
+                                Déployée auprès de <strong class="primary--text bold--text">12.000</strong> employés depuis le 24 mars 2020, covidHELP s’appuie sur les recommandations du Ministère des solidarités et de la Santé, ainsi que de Santé Publique France, et sur votre médecine du travail, pour donner en temps réel, la répartition des cas exclus, contacts, possibles, confirmés.
+                                </p>
+                        </v-col>
+                        <v-col cols="12" sm="6" class="text-center">
+                            <v-btn href="/qui-sommes-nous/nous-contacter" class="primary--text" large>Contactez-nous</v-btn>
+                        </v-col>
+                        <v-col cols="12" sm="6" class="text-center">
+                            <v-btn @click="window.location.href='https://covidapp.anamnese.me/'" large class="secondary">Se connecter</v-btn>
+                        </v-col>
+                    </v-row>
+                </v-col>
+                <v-col cols="12" md="6" class="hidden-md-and-down text-center align-self-center tertiary">
+                    <image-webp
+                            image_source="/static/home/img/img_covidhelp/devices_covidhelp.png"
+                            image_webp="/static/home/img/img_covidhelp/devices_covidhelp.webp"
+                            width="100%"
+                            title="Logiciels CovidHELP sur différents supports"
+                    ></image-webp>
+                </v-col>
+            </v-row>
+        </v-col>
+        <v-col cols="12">
+            <v-row>
+                <v-col cols="12" md="6" class="hidden-md-and-down text-center align-self-center">
+                    <image-webp
+                            image_source="/static/home/img/img_certifications/hds.png"
+                            image_webp="/static/home/img/img_certifications/hds.webp"
+                            width="25%"
+                            title="Certification HDS"
+                    ></image-webp>
+                </v-col>
+                <v-col cols="12" md="6" class="pa-sm-12">
+                    <v-row>
+                        <v-col cols="12">
+                            <h1>Protéger la santé de l’<strong class="primary--text bold--text">ensemble de vos employés</strong> sans accéder à leurs données de santé</h1>
+                            <p class="mt-3 text-justify">
+                                Les réponses de vos employés sont sécurisées sur des serveurs certifiés données de santé.<br>
+                                Seul un professionnel de santé peut y accéder, pour évaluer plus finement les situations selon une priorisation faite par nos algorithmes.<br>
+                                Le management ne visualise que l’aptitude déterminée par les professionnels de santé.
+                                </p>
+                        </v-col>
+                        <v-col cols="12" sm="6" class="text-center">
+                            <v-btn href="/qui-sommes-nous/nous-contacter" class="primary--text" large>Contactez-nous</v-btn>
+                        </v-col>
+                        <v-col cols="12" sm="6" class="text-center">
+                            <v-btn @click="window.location.href='https://covidapp.anamnese.me/'" large class="secondary">Se connecter</v-btn>
+                        </v-col>
+                    </v-row>
+                </v-col>
+            </v-row>
+        </v-col>
+        <v-col cols="12" class="tertiary">
+            <v-row class="px-12">
+                <v-col cols="12" class="text-center mb-10 mt-10"><h2>CovidHELP : les <strong class="primary--text bold--text">avantages</strong> pour votre organisation </h2></v-col>
+                <v-col cols="12" sm="4" class="text-center">
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/masque.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/masque.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/masque.png" width="20%">
+                    </picture>
+                    <p class="mt-5">Maîtriser les risques sanitaires, pour que les salariés puissent travailler sereinement</p>
+                </v-col>
+                <v-col cols="12" sm="4" class="text-center">
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/check.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/check.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/check.png" width="22%">
+                    </picture>
+                    <p class="mt-8">Instaurer l’équité dans la politique du CARE grâce à un suivi homogène de vos employés.</p>
+                </v-col>
+                <v-col cols="12" sm="4" class="text-center">
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/organigramme.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/organigramme.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/organigramme.png" width="20%">
+                    </picture>
+                    <p class="mt-5 mb-10">Manager les ressources pour piloter la continuité d'activité</p>
+                </v-col>
+            </v-row>
+        </v-col>
+
+        <v-col cols="12">
+            <v-row>
+                <v-col cols="12" class="text-center">
+                    <h2>CovidHELP : entre 15 secondes et 2 minutes par collaborateur chaque jour pour permettre à tous de travailler <strong class="primary--text bold--text">sereinement</strong></h2>
+                    <h3 class="text-center pt-5">Comment ça marche ?</h3>
+                </v-col>
+                <fonctionnement
+                        title="Employé : "
+                        v-bind:contenu="[{'text' : `Après réception d’un mail ou SMS de rappel, ou à tout moment l’Employé se connecte au portail CovidHELP pour s’auto-évaluer.`,
+                                            'image_source' : '/static/home/img/img_covidhelp/patient.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/patient.webp',
+                                            'width' : '29%'},
+                                         { 'text' : `S’il n’a pas de symptômes à évaluer, il l’indique dès la première question et c’est terminé en 15 secondes. En cas de doute, l’employé remplit son questionnaire, et obtient instantanément une recommandation.`,
+                                            'image_source' : '/static/home/img/img_covidhelp/questionnraire_patient_r%C3%A9sultats.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/questionnraire_patient_r%C3%A9sultats.webp',
+                                            'width' : '40%'},
+                                         { 'text' : `Sa demande est priorisée selon les réponses. Et dans les 10 minutes, il peut recevoir un appel ou une demande de vision par la médecine du travail de l’entreprise.`,
+                                           'image_source' : '/static/home/img/img_covidhelp/questionnaire_patient.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/questionnaire_patient.webp',
+                                            'width' : '40%'}
+                        ]"
+                ></fonctionnement>
+                <fonctionnement
+                        title="Médecine du travail : "
+                        v-bind:contenu="[{  'text' : `Le médecin est prévenu des cas à recontacter, et peut prioriser ses actions grâce à un code couleur.`,
+                                            'image_source' : '/static/home/img/img_covidhelp/m%C3%A9decin.png',
+                                        'image_webp' : '/static/home/img/img_covidhelp/m%C3%A9decin.webp',
+                                        'width' : '35%'},
+                                         { 'text' : `En un clin d'oeil il accède aux cas prioritaires, avec un premier niveau d'information lui permettant de décider quel employé évaluer en priorité.`,
+                                            'image_source' : '/static/home/img/img_covidhelp/dashboard_m%C3%A9decin.png',
+                                        'image_webp' : '/static/home/img/img_covidhelp/dashboard_m%C3%A9decin.webp',
+                                        'width' : '60%'},
+                                         { 'text' : `Dans la fiche détail, il évalue les réponses, scores de l’employé, ajoute ou lit des notes horodatées de ses confrères. Il peut depuis l’outil lancer une téléconsultation, pour valider les suggestions de situation sanitaire (cas confirmé, possible…), et aptitude, quatorzaine… utiles pour le management, et le reporting.`,
+                                           'image_source' : '/static/home/img/img_covidhelp/fiche_patient_m%C3%A9decin.png',
+                                        'image_webp' : '/static/home/img/img_covidhelp/fiche_patient_m%C3%A9decin.webp',
+                                        'width' : '60%'}
+                        ]"
+                ></fonctionnement>
+                <fonctionnement
+                        title="Manager :"
+                        v-bind:contenu="[{'text' : `Le management dispose en temps réel de l'état actuel des ressources humaines, pour anticiper sur la gestion de son service ou pour communiquer sur un baromètre santé par division`,
+                                        'image_source' : '/static/home/img/img_covidhelp/manager.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/manager.webp',
+                                            'width' : '17%'},
+                                         { 'text' : `Grâce au tableau de bord Direction, chaque manager a une vue anonymisée des cas covid (exclu/contact/probable/confirmé/guéri) ou du taux de remplissage au sein de son service.`,
+                                         'image_source' : '/static/home/img/img_covidhelp/dashbord_manager.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/dashbord_manager.webp',
+                                            'width' : '60%'},
+                                        { 'text' : `Un export de l’aptitude de chacun des salariés lui permet de planifier la charge tenable par son service, sans accéder aux données de santé.`,
+                                         'image_source' : '/static/home/img/img_covidhelp/excel.png',
+                                            'image_webp' : '/static/home/img/img_covidhelp/excel.webp',
+                                            'width' : '44%'},
+                        ]"
+                ></fonctionnement>
+
+            </v-row>
+        </v-col>
+        <v-col cols="12" class="tertiary">
+            <v-row>
+                <v-col cols="12" sm="10" offset-sm="1" class="text-center my-10">
+                    <h2>Des résultats <strong class="primary--text bold--text">prouvés</strong> sur le terrain</h2>
+                    <p class="mt-5">CovidHELP est déployé depuis le 24 mars auprès de 12.000 employés. <br>
+                    Sa solution intégrée permet à 3 types d’acteurs (salariés / médecine du travail / employeur) d’interagir pour combattre ensemble le covid19 en aidant à détecter au plus tôt un cluster. L’employeur dispose ainsi, des informations nécessaires pour garantir la sécurité de ses salariés sans rien trahir du secret médical.
+                    </p>
+                </v-col>
+                <v-col cols="12" sm="10" offset-sm="1">
+                    <h4>Dans 4 départements pour le suivi des pompiers</h4>
+                </v-col>
+                <v-col cols="12" sm="5" offset-sm="1" class="text-center">
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/pompiers.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/pompiers.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/pompiers.png" width="40%">
+                    </picture>
+                    <h4>Sur un groupe de plus de <strong class="secondary--text bold--text">12 000 utilisateurs </strong></h4>
+                </v-col>
+                <v-col cols="12" sm="6" class="text-center">
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/carte_foyers.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/carte_foyers.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/carte_foyers.png" width="40%">
+                    </picture>
+                </v-col>
+                <v-col cols="12" class="text-center">
+                    <p class="bold--text">Aucun des établissements (casernes) n’a été contraint de cesser son activité, et le service de secours aux concitoyens a pu continuer en toute sécurité.</p>
+                    <v-col offset="2" cols=8 class="text-center" style="font-size: x-large;">
+                        <p class="px-12">
+                            <sup><v-icon large class="primary--text">mdi-format-quote-open</v-icon></sup>
+                            <i>Notre état-major a été très réactif dans la gestion de cette crise. Avec cet accompagnement et les solutions mis à notre disposition, nous nous sentons mieux armés, protégés et nous pouvons aussi protéger nos familles. </i>
+                            <sup><v-icon large class="primary--text">mdi-format-quote-close</v-icon></sup>
+                        </p>
+                    </v-col>
+                </v-col>
+                <v-col cols="12" class="text-center">
+                    <v-row>
+                        <v-col cols="12" sm="4">
+                            <v-btn @click="window.location.href='https://www.youtube.com/watch?v=qJlgSz8RuaM'" class="secondary"><v-icon>mdi-play-circle-outline</v-icon>Implémentation au SDIS03</v-btn>
+                        </v-col>
+                        <v-col cols="12" sm="4">
+                            <v-btn @click="window.location.href='https://www.youtube.com/watch?v=Jtw4e1LUoWE'" class="secondary"><v-icon>mdi-play-circle-outline</v-icon>Implémentation au SDIS78</v-btn>
+                        </v-col>
+                        <v-col cols="12" sm="4">
+                            <v-btn  @click="window.location.href='https://www.youtube.com/watch?v=Wca1wLV_6GM'" class="secondary"><v-icon>mdi-play-circle-outline</v-icon>Implémentation au SDIS77</v-btn>
+                        </v-col>
+                    </v-row>
+                </v-col>
+            </v-row>
+        </v-col>
+        <v-col cols="12">
+            <v-row>
+                <v-col cols="12" class="text-center">
+                    <h2 class="mb-10 mt-10">Collecter intelligemment, comprendre et agir</h2>
+                    <picture>
+                        <source srcset="/static/home/img/img_covidhelp/schema_collecter.webp" type="image/webp">
+                        <source srcset="/static/home/img/img_covidhelp/schema_collecter.png" type="image/jpg">
+                        <img src="/static/home/img/img_covidhelp/schema_collecter.png" width="60%">
+                    </picture>
+                </v-col>
+                <v-col cols="12" class="px-12">
+                    <p><strong class="red--text">* </strong>Données de santé : uniquement pour le corps médical</p>
+                    <p><strong class="red--text">**  </strong>Données aptitude/organisationnelle : sans aucun accès aux données de santé</p>
+                </v-col>
+            </v-row>
+        </v-col>
+        <check-home
+        title="Un socle médical pertinent, basé sur :"
+        v-bind:contenu="[ {'text':`Le guide technologique du Ministère des Solidarités et de la Santé`},
+                          {'text':`L’algorithme Covid19 du Ministère des Solidarités et de la Santé`},
+                          {'text':`Les recommandations de Santé Publique France en temps réel`},
+                          {'text':`Notre comité médical, qui valide les questionnaires`},]"
+        ></check-home>
+        <check-home
+        title="Synthèse des fonctionnalités clés"
+        v-bind:contenu="[ {'text':`Une séparation forte des données qui permet quand même à l’employeur de garantir la sécurité de ses salariés sans avoir à manipuler de données de santé.`},
+                          {'text':`Un Tableau de bord pour le médecin pour gérer la prévention : le dépistage, télésuivi, téléconsultation, échange avec confrères.`},
+                          {'text':`Un Tableau de bord pour le manager afin d’accéder facilement aux aptitudes et dates de retour des salariés en quatorzaine.`},
+                          {'text':` Colle à l'organisation hiérarchique pour déterminer les droits d'accés et reporting.`},
+                          {'text':`Cloisonnement des données médicales et non médicales, selon les droits d accés.`},
+                          {'text':`Priorisation médicale automatique pour assurer la prévention de tous sans être débordé.`},
+                         ]"
+        ></check-home>
+        <v-col cols="12" class="tertiary">
+            <v-row>
+                <v-col cols="12" class="text-center my-5 tertiary">
+                    <h2>CovidHELP opérationnel dans votre entreprise dans <strong class="primary--text bold--text">4 (quatre)</strong> jours </h2>
+                    <h4 class="mt-5">Nos équipes réalisent le déploiement de CovidHELP à distance, et vous aident à mettre l’outil en place auprès de vos équipes. </h4>
+                </v-col>
+                <liste
+                        col_width="6"
+                        title="Volet organisationnel et humain"
+                        v-bind:contenu="[{'text' : `Support à l'information des parties prenantes (dont le CSE et organisations syndicales) par des FAQ et/ou présentation.`},
+                                        {'text' : `Formation des médecins, des managers, de l’administrateur `},
+                                        {'text' : `Support à la communication auprès des salariés : kit de communication (visuels pour print, exemples de vidéos)`},
+                                       ]"
+                ></liste>
+                <liste
+                        col_width="6"
+                        title="Volet technique"
+                        v-bind:contenu="[{'text' : ` Import de votre base de salariés`},
+                                        {'text' : ` Mise en correspondance avec votre organisation, création des droits d'accès idoine `},
+                                        {'text' : ` Import d’un précédent fichier de suivi pour ne rien perdre `}]"
+                ></liste>
+            </v-row>
+        </v-col>
+        <v-col cols="12" class="tertiary">
+            <v-row>
+                <v-col cols="12" class="text-center">
+                    <h2>CovidHELP : modalités économiques</h2>
+                </v-col>
+                <liste
+                        col_width="4"
+                        title=" Setup :"
+                        v-bind:contenu="[{'text' : `  Formation aux professionnels de santé, et au management`},
+                                        {'text' : `  Support auprès des RH pour les CSE et RDV avec les OS `},
+                                        {'text' : `  Support RGPD, et FAQ juridiques`},
+                                        {'text' : `  Import sur la base des salariés pour gérer les accès`},
+                                        {'text' : `  Configuration des accès`}]"
+                ></liste>
+                <liste
+                        col_width="4"
+                        title="Abonnement annuel :"
+                        v-bind:contenu="[{'text' : ` Dégressif selon le nombre de salariés.`},
+                                        {'text' : `  Mise à jour selon les nouvelles connaissance du ou contraintes santé Publique France. `},
+                                        {'text' : `  Hébergement données de santé`}]"
+                ></liste>
+                <liste
+                        col_width="4"
+                        title="Option :"
+                        v-bind:contenu="[{'text' : ` Import de votre précédents fichier de suivi covid pour ne rien perdre `},
+                                        {'text' : `  Développements spécifiques possibles (connexion à votre LDAP...) `}]"
+                ></liste>
+            </v-row>
+        </v-col>
+        <v-col cols="12">
+            <v-row class="py-10">
+                <v-col cols="12" class="text-center">
+                    <h2>Retour d'expérience</h2>
+                </v-col>
+                <v-col cols="12">
+                    <v-carousel hide-delimiters cycle light height="max-content">
+                        <v-carousel-item>
+                            <v-row style="justify-content: center;">
+                                <card-experience
+                                        date="CMA93 - 29/05/2020"
+                                        text="Télésuivi des 200 salariés et bientôt de tous les apprentis du département"
+                                        image_source="/static/home/img/img_covidhelp/logo_cma93.jpg"
+                                        image_webp="/static/home/img/img_covidhelp/logo_cma93.webp"
+                                         width="32%"
+                                ></card-experience>
+                                <card-experience
+                                        date="SDIS03 - 24/03/2020"
+                                        :button="true"
+                                        video="Vidéo SDIS03"
+                                        link="https://www.youtube.com/watch?v=3-_CSLBUm8U"
+                                        text="1900 agents en télésuivi par 12 professionnels de santé."
+                                        image_source="/static/home/img/img_covidhelp/logo_sdis03.png"
+                                        image_webp="/static/home/img/img_covidhelp/logo_sdis03.webp"
+                                         width="47%"
+                                ></card-experience>
+                                <card-experience
+                                        date="SDIS78 - 03/04/2020"
+                                        :button="true"
+                                        video="Vidéo SDIS78"
+                                        link="https://www.youtube.com/watch?v=P4T188k5JS8"
+                                        text="3900 agents en télésuivi par 6 professionnels de santé ."
+                                        image_source="/static/home/img/img_covidhelp/logo_sdis78.png"
+                                        image_webp="/static/home/img/img_covidhelp/logo_sdis78.webp"
+                                         width="40%"
+                                ></card-experience>
+                            </v-row>
+                        </v-carousel-item>
+                        <v-carousel-item>
+                            <v-row style="justify-content: center;">
+                                <card-experience
+                                date="SDIS77 - 10/04/2020"
+                                :button="true"
+                                video="Vidéo SDIS77"
+                                link="https://www.youtube.com/watch?v=Wca1wLV_6GM"
+                                text="4700 agents en télésuivi par 9 professionnels de santé "
+                                image_source="/static/home/img/img_covidhelp/logo_sdis77.png"
+                                image_webp="/static/home/img/img_covidhelp/logo_sdis77.webp"
+                                width="40%"
+                                ></card-experience>
+                                <card-experience
+                                date="SIS2A - 27/05/2020"
+                                text="1300 agents en télésuivi par 2 professionnels de santé "
+                                image_source="/static/home/img/img_covidhelp/logo_sis2A.png"
+                                image_webp="/static/home/img/img_covidhelp/logo_sis2A.webp"
+                                width="34%"
+                                ></card-experience>
+                            </v-row>
+                        </v-carousel-item>
+                    </v-carousel>
+                </v-col>
+                <v-col cols="10" offset="1">
+                    <p>
+                    Une fois que vous avez extrait votre fichier RH, il ne nous faut techniquement que 4h pour activer votre solution CovidHELP<br>
+                    Cependant, pour l’avoir déja fait plusieurs fois, il faut prévoir plus de temps pour la présentation au CSE et aux OS, pour vous aider à préparer la communication aux employés, à former les professionnels de santé, les managers, et vous aider à mettre à jour votre registre de traitement et matrice d’impact (RGPD). <br>
+                    C’est pourquoi nous parlons de 4 jours entre l’accord et le lancement de la solution pour mettre en place la solution covidHELP dans une organisation de 4000 salariés, 10 professionnels de santé, 20 managers, et 3 niveaux hiérarchique de reporting.
+                    
+                    </p>
+                </v-col>
+                <v-col cols="12" sm="12" class="text-center">
+                    <v-btn href="/qui-sommes-nous/nous-contacter" class="primary--text" large>Contactez-nous pour une demo</v-btn>
+                </v-col>
+            </v-row>
+        </v-col>
+        
+
+
+
+<v-col cols="12" class="text-center pa-12 tertiary">
+    <v-row>
+        <v-col cols="12">
+            <h2 class="my-8">Retrouvez tous  nos logiciels</h2>
+            <image-webp
+                            image_source="/static/home/img/img_covidhelp/devices_covidhelp.png"
+                            image_webp="/static/home/img/img_covidhelp/devices_covidhelp.webp"
+                            width="40%"
+                            title="Logiciels CovidHELP sur différents supports"
+            ></image-webp>
+        </v-col>
+        <v-col cols="12">
+            <v-btn class="secondary my-10" href="logiciel/logiciels-medicaux-anamnese">Tous nos logiciels médicaux</v-btn>
+        </v-col>
+    </v-row>
+</v-col>
+
+
+    </v-row>
+
+            </v-container>
+        </v-content>
+
+        
+
+
+<v-footer id="footer_vue_home" app inset padless absolute class="primary">
+    <v-row>
+        <v-col cols="12" class="text-center">
+            <a href="/qui-sommes-nous/">Qui sommes nous?</a>
+            <a href="/qui-sommes-nous/actualites/">Actualités</a>
+            <a href="/qui-sommes-nous/faq/">Questions Fréquentes</a>
+            <a href="/qui-sommes-nous/nous-contacter/">Nous contacter</a>
+            <a href="/politique-de-confidentialite">Confidentialité</a>
+            <a href="/mentions-legales">CGU</a>
+        </v-col>
+        <v-col cols="12" class="text-center">
+            <v-btn fab x-small color="white" target="_blank" rel="noopener" elevation="0" href="https://www.facebook.com/Anamnese.me/">
+                <v-icon color="primary">mdi-facebook</v-icon>
+            </v-btn>
+            <v-btn fab x-small color="white" target="_blank" rel="noopener"  elevation="0" href="https://www.linkedin.com/company/anamnese">
+                <v-icon color="primary">mdi-linkedin-box</v-icon>
+            </v-btn>
+            <v-btn fab x-small color="white" target="_blank" rel="noopener"  elevation="0" href="https://twitter.com/AnamneseMe">
+                <v-icon color="primary">mdi-twitter</v-icon>
+            </v-btn>
+            <v-btn fab x-small color="white" target="_blank" rel="noopener"  elevation="0" href="https://www.youtube.com/channel/UCbypcBfsErGk0p0igJORfRg/featured">
+                <v-icon color="primary">mdi-youtube</v-icon>
+            </v-btn>
+        </v-col>
+        <v-col cols="12" class="font-weight-bold text-center white--text"><span>2020 - © Anamnèse</span></v-col>
+    </v-row>
+</v-footer>
+    </v-app>
+
+    <script>
+        let mixin_base_home = {
+            mixins: [mixin_connection, mixin_header_home],
+            vuetify: new Vuetify({
+                theme: {
+                    themes: {
+                        light: {
+                            primary: '#6BA8AA',
+                            secondary: '#1B2A49',
+                            tertiary: '#D8D8D8',
+                        }
+                    }
+                }
+            }),
+            delimiters: ['[[', ']]'],
+        };
+    </script>
+
+    
+
+
+
+    <script>
+        var component_fonctionnement = ('fonctionnement', {
+            template : `<v-col cols="12">
+                            <v-row>
+                                <v-col cols="12">
+                                    <h3 class="primary--text">[[ title ]]</h3>
+                                </v-col>
+                                <v-col v-for="item in contenu" cols="12" sm="4" class="text-center">
+                                    <picture>
+                                            <source v-bind:srcset="item.image_webp" type="image/webp">
+                                            <source v-bind:srcset="item.image_source" type="image/jpg">
+                                            <img v-bind:src="item.image_source" v-bind:width="item.width">
+                                    </picture>
+                                    <p class="mt-5 mb-5">[[ item.text ]]</p>
+                                </v-col>
+                            </v-row>
+                        </v-col>
+        `,
+        delimiters: ['[[', ']]'],
+        props:['title', 'contenu','width'],
+        });
+        var component_card_experience = ('card-experience',{
+            template : `<v-col cols="12" sm="3">
+                            <v-card height="100%">
+                                <v-card-text height="100%">
+                                    <v-col cols="12" class="text-center">
+                                        <picture>
+                                            <source v-bind:srcset="image_webp" type="image/webp">
+                                            <source v-bind:srcset="image_source" type="image/jpg">
+                                            <img v-bind:src="image_source" v-bind:width="width">
+                                        </picture>
+                                        <h3 class="my-5">[[ date ]]</h3>
+                                      </v-col>
+                                      <v-col cols="12" class="mb-5">
+                                        <v-divider></v-divider>
+                                        <p class="secondary--text bold--text mt-5">[[ text ]]</p>
+                                      </v-col>
+                                      <v-col v-if="button" cols="12" class="mb-5" class="text-center">
+                                          <v-btn   v-bind:href="link"class="secondary mb-5" target="_blank">[[ video ]]</v-btn>
+                                    </v-col>
+                                </v-card-text>
+                            </v-card>
+                        </v-col>
+        `,
+        delimiters: ['[[', ']]'],
+        props:['date', 'video', 'text', 'image_webp', 'image_source', 'width', 'link', 'button' ],
+
+        });
+        var component_liste = ('liste',{
+             template : ` <v-col cols="12" :md="col_width" class="px-12">
+                                <v-row no-gutters>
+                                    <v-col cols="12" class="text-center mb-5">
+                                        <h2>[[ title ]]</h2>
+                                    </v-col>
+                                    <v-col cols="12">
+                                        <p v-for="item in contenu"><v-icon small class="primary--text">mdi-checkbox-blank-circle</v-icon>[[ item.text]]</p>
+                                    </v-col>
+                                </v-row>
+                            </v-col>
+        `,
+        delimiters: ['[[', ']]'],
+        props:['title', 'contenu', 'col_width'],
+        });
+        var component_check = ('check-home',{
+            template : ` <v-col cols="12" class="secondary--text pa-12 tertiary" >
+                            <v-row class="my-10">
+                                <v-col cols="12" class="text-center">
+                                    <h2>[[ title ]]</h2>
+                                </v-col>
+                                <v-col  cols="12" md="10" offset-md="2" v-for="item in contenu">
+                                    <v-row>
+                                        <v-col cols="2" class="align-self-center hidden-xs-only">
+                                            <image-webp
+                                                :image_source="/static/home/img/check.png"
+                                                :image_webp="/static/home/img/check.webp"
+                                                width="40%"
+                                                title="icone check"
+                                            ></image-webp>
+                                        </v-col>
+                                        <v-col cols="12" sm="8">
+                                            <p class="medium--text" style="font-size:20px;">[[ item.text ]]</p>
+                                        </v-col>
+                                    </v-row>
+                                </v-col>
+                            </v-row>
+                        </v-col>
+        `,
+        delimiters: ['[[', ']]'],
+        props:['contenu', 'title'],
+        });
+        let vue_product_anesthesie = new Vue({
+            el: '#app_product_covidhelp',
+            mixins: [mixin_base_home],
+            components : {'liste' : component_liste,
+                            'card-experience' : component_card_experience,
+                            'fonctionnement' : component_fonctionnement,
+                            'check-home' : component_check}
+        });
+    </script>
+
+
+</body>
+
+</html>
+
+<script>
+    if (window.addEventListener) {
+        window.addEventListener('load', function () {
+            if (typeof BrowserDetectionFunc == 'function') {
+                BrowserDetectionFunc();
+            }
+        }, false);
+        window.addEventListener("offline", function () {
+            document.getElementById('offline_alert').classList.remove('hidden');
+        }, false);
+        window.addEventListener("online", function () {
+            document.getElementById('offline_alert').classList.add('hidden');
+        }, false)
+    } else if (window.attachEvent) {
+        window.attachEvent('onload', function () {
+            if (typeof BrowserDetectionFunc == 'function') {
+                BrowserDetectionFunc();
+            }
+        });
+        window.attachEvent("offline", function () {
+            document.getElementById('offline_alert').classList.remove('hidden');
+        }, false);
+        window.attachEvent("online", function () {
+            document.getElementById('offline_alert').classList.add('hidden');
+        }, false)
+    }
+</script>
+
+

@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>Pictures from Europe</TITLE>
+</HEAD>
+<FRAMESET COLS="24%,76%">
+		<FRAME NAME="list" SRC="list.htm" SCROLLING=AUTO NORESIZE>
+		<FRAME NAME="main" SRC="welcome.htm" SCROLLING=AUTO NORESIZE>
+</FRAMESET>
+</HTML>

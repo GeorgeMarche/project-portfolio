@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+    <head>
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1">        <base href="https://carh.org.uk/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Rossendale, Hyndburn, debt, sanctions, Bacup, Accrington, welfare, benefits, advice, arrears, rent, budgeting, housing, information, support, volunteering, money, confidential, free, adviceline, impartial, rights, sanction busting, universal, credit, family, help, financial, worries, carh, CARH, Citizens, citizens, CAB, cab, rights, rossendale cab, bacup cab, accrington cab, hyndburn cab, citizens advice, citizens advice rossendale and hyndburn, citizens advice accrington, citizens advice rossendale, citizens advice bacup, bacup, citizens advice rawtenstall, rawtenstall cab, universal credit, uc, help to claim, htc," />
+	<meta name="description" content="Citizens Advice Rossendale &amp; Hyndburn (CARH) provides free, independent, confidential and impartial advice on people’s rights and responsibilities." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/templates/theme3415/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/screenreader/screenreader/libraries/controller/css/main.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?37745bbf2a6756e3b2fa6004e34b2ba8" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/chosen.css?37745bbf2a6756e3b2fa6004e34b2ba8" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/css/fl-budicons-free.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/css/thin.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/css/color_schemes/color_scheme_3.css" rel="stylesheet" type="text/css" id="color_scheme" />
+	<link href="/templates/theme3415/css/swiper.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_swiper/css/animate.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/theme3415/html/mod_icemegamenu/css/navbar.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+#accessibility-links #text_plugin{width:80px;}
+	</style>
+	<script src="/media/jui/js/jquery.min.js?37745bbf2a6756e3b2fa6004e34b2ba8" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?37745bbf2a6756e3b2fa6004e34b2ba8" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?37745bbf2a6756e3b2fa6004e34b2ba8" type="text/javascript"></script>
+	<script src="/plugins/system/screenreader/screenreader/languages/en-GB.js" type="text/javascript"></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/tts/soundmanager/soundmanager2.js" type="text/javascript"></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/tts/tts.js" type="text/javascript" defer="defer"></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/controller/controller.js" type="text/javascript" defer="defer"></script>
+	<script src="/plugins/system/bootstrap_3/assets/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/chosen.jquery.min.js?37745bbf2a6756e3b2fa6004e34b2ba8" type="text/javascript"></script>
+	<script src="/templates/theme3415/js/scripts.js" type="text/javascript"></script>
+	<script src="/modules/mod_swiper/js/swiper.min.js" type="text/javascript"></script>
+	<script src="/templates/theme3415/html/mod_icemegamenu/js/menu.js" type="text/javascript" defer="defer"></script>
+	<script src="/templates/theme3415/html/mod_icemegamenu/js/jquery.rd-navbar.js" type="text/javascript" defer="defer"></script>
+	<script type="text/javascript">
+window.soundManager.url = 'https://carh.org.uk/plugins/system/screenreader/screenreader/libraries/tts/soundmanager/swf/';
+										  window.soundManager.debugMode = false;  
+										  window.soundManager.defaultOptions.volume = 80;var screenReaderConfigOptions = {	baseURI: 'https://carh.org.uk/',
+																			token: '7f2c4dd971e4edfe6387258e98cb1509',
+																			langCode: 'en',
+																			chunkLength: 100,
+																			screenReaderVolume: '80',
+																			position: 'bottomright',
+																			scrolling: 'fixed',
+																			targetAppendto: 'html',
+																			targetAppendMode: 'bottom',
+																			preload: 0,
+																			autoBackgroundColor: 1,
+																			readPage: 1,
+																			readChildNodes: 1,
+																			ieHighContrast: 1,
+																			ieHighContrastAdvanced: 1,
+																			gtranslateIntegration: 0,
+																			selectMainpageareaText: 0,
+																			excludeScripts: 1,
+																			readImages: 0,
+																			readImagesAttribute: 'alt',
+																			readImagesOrdering: 'before',
+																			mainpageSelector: '*[name*=main], *[class*=main], *[id*=main], *[id*=container], *[class*=container]',
+																			showlabel: 1,
+																			labeltext: 'Screen Reader',
+																			screenreaderIcon: 'audio',
+																			screenreader: 1,
+																			highcontrast: 1,
+																			highcontrastAlternate: 1,
+																			colorHue: 180,
+																			colorBrightness: 6,
+																			dyslexicFont: 1,
+																			fontsize: 1,
+																			fontsizeDefault: 200,
+																			fontsizeMin: 50,
+																			fontsizeMax: 350,
+																			fontsizeSelector: '',
+																			fontSizeOverride: 1,
+																			fontSizeHeadersIncrement: 20,
+																			toolbarBgcolor: '#eeeeee',
+																			template: 'main.css',
+																			accesskey_play: 'P',
+																			accesskey_pause: 'E',
+																			accesskey_stop: 'S',
+																			accesskey_increase: 'O',
+																			accesskey_decrease: 'U',
+																			accesskey_reset: 'R',
+																			accesskey_highcontrast: 'H',
+																			accesskey_highcontrast2: 'J',
+																			accesskey_highcontrast3: 'K',
+																			accesskey_dyslexic: 'D',
+																			accesskey_skiptocontents: 'C',
+																			accesskey_minimized: 'L',
+																			volume_accesskeys: 1,
+																			readerEngine: 'proxy',
+																			useMobileReaderEngine: 0,
+																			mobileReaderEngine: 'proxy',
+																			hideOnMobile: 0,
+																			useMinimizedToolbar: 0,
+																			showSkipToContents: 0,
+																			skipToContentsSelector: '',
+																			removeLinksTarget: 0
+																		};jQuery(document).ready(function($){
+	jQuery('.hasTooltip').tooltip({"html": true});
+if(window.MooTools) {
+
+			  // Mootools conflict fix for toggle with Bootstrap 3/JQuery
+			  window.addEvent('load', function() {
+			    $$('[rel=tooltip],[data-toggle],a[data-toggle],button[data-toggle],[data-toggle=collapse],a[data-toggle=dropdown],.hasTooltip').each(function (e) {
+			        e.getParent().hide = null;
+			        e.hide = null;
+			    });
+			  });
+
+			}
+});
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find("select").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Select an option","no_results_text":"No results match"});
+		}
+	});
+	var path = "templates/theme3415/js/";(function($){$(document).ready(function(){var o=$("#back-top");$(window).scroll(function(){if($(this).scrollTop()>100){o.fadeIn()}else{o.fadeOut()}});var $scrollEl=($.browser.mozilla||$.browser.msie)?$("html"):$("body");o.find("a").click(function(){$scrollEl.animate({scrollTop:0},400);return false})})})(jQuery);
+	;(function ($, undefined) {
+			$(document).ready(function(){
+				function isIE() {
+				    var myNav = navigator.userAgent.toLowerCase();
+				    return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+				};
+				var o = $("#swiper-slider_208");				
+			    if (o.length) {
+			        function getSwiperHeight(object, attr) {
+			            var val = object.attr("data-" + attr), dim;
+			            if (!val) {
+			                return undefined;
+			            }
+			            dim = val.match(/(px)|(%)|(vh)$/i);
+			            if (dim.length) {
+			                switch (dim[0]) {
+			                    case"px":
+			                        return parseFloat(val);
+			                    case"vh":
+			                        return $(window).height() * (parseFloat(val) / 100);
+			                    case"%":
+			                        return object.width() * (parseFloat(val) / 100);
+			                }
+			            } else {
+			                return undefined;
+			            }
+			        }
+
+			        function toggleSwiperInnerVideos(swiper) {
+			            var videos;
+			            $.grep(swiper.slides, function (element, index) {
+			                var $slide = $(element), video;
+			                if (index === swiper.activeIndex) {
+			                    videos = $slide.find("video");
+			                    if (videos.length) {
+			                        videos.get(0).play();
+			                    }
+			                } else {
+			                    $slide.find("video").each(function () {
+			                        this.pause();
+			                    });
+			                }
+			            });
+			        }
+
+			        function toggleSwiperCaptionAnimation(swiper) {
+			            if (isIE() && isIE() < 10) {
+			                return;
+			            }
+			            var prevSlide = $(swiper.container), nextSlide = $(swiper.slides[swiper.activeIndex]);
+			            prevSlide.find("[data-caption-animate]").each(function () {
+			                var $this = $(this);
+			                $this.removeClass("animated").removeClass($this.attr("data-caption-animate")).addClass("not-animated");
+			            });
+			            nextSlide.find("[data-caption-animate]").each(function () {
+			                var $this = $(this), delay = $this.attr("data-caption-delay");
+			                setTimeout(function () {
+			                    $this.removeClass("not-animated").addClass($this.attr("data-caption-animate")).addClass("animated");
+			                }, delay ? parseInt(delay) : 0);
+			            });
+			        }
+
+			        $(document).ready(function () {
+			            o.each(function () {
+			                var s = $(this);
+			                var pag = s.find(".swiper-pagination"), next = s.find(".swiper-button-next"), prev = s.find(".swiper-button-prev"), bar = s.find(".swiper-scrollbar"), h = getSwiperHeight(o, "height"), mh = getSwiperHeight(o, "min-height");
+			                s.find(".swiper-slide").each(function () {
+			                    var $this = $(this), url;
+			                    if (url = $this.attr("data-slide-bg")) {
+			                        $this.css({"background-image": "url(" + url + ")", "background-size": "cover"})
+			                    }
+			                }).end().find("[data-caption-animate]").addClass("not-animated").end();
+
+								var slider = new Swiper(s,{
+			                    autoplay: s.attr('data-autoplay') ? s.attr('data-autoplay') === "false" ? undefined : s.attr('data-autoplay') : 5000,
+			                    direction: s.attr('data-direction') ? s.attr('data-direction') : "horizontal",
+			                    effect: s.attr('data-slide-effect') ? s.attr('data-slide-effect') : "slide",
+			                    speed: s.attr('data-slide-speed') ? s.attr('data-slide-speed') : 600,
+			                    keyboardControl: s.attr('data-keyboard') === "true",
+			                    mousewheelControl: s.attr('data-mousewheel') === "true",
+			                    mousewheelReleaseOnEdges: s.attr('data-mousewheel-release') === "true",
+			                    nextButton: next.length ? next.get(0) : null,
+			                    prevButton: prev.length ? prev.get(0) : null,
+			                    pagination: pag.length ? pag.get(0) : null,
+			                    paginationClickable: pag.length ? pag.attr("data-clickable") !== "false" : false,
+			                    paginationBulletRender: pag.length ? pag.attr("data-index-bullet") === "true" ? function (index, className) {
+			                        return '<span class="' + className + '">' + (index + 1) + '</span>';
+			                    } : null : null,
+			                    scrollbar: bar.length ? bar.get(0) : null,
+			                    scrollbarDraggable: bar.length ? bar.attr("data-draggable") !== "false" : true,
+			                    scrollbarHide: bar.length ? bar.attr("data-draggable") === "false" : false,
+			                    loop: s.attr('data-loop') !== "false",
+			                    loopedSlides: 3,
+			                    autoplayDisableOnInteraction: false,
+			                    onTransitionStart: function (swiper) {
+			                        toggleSwiperInnerVideos(swiper);
+			                    },
+			                    onTransitionEnd: function (swiper) {
+			                        toggleSwiperCaptionAnimation(swiper);
+			                    },
+			                    onSlideChangeEnd: function(swiper){
+			                    	currentIndex = s.find(".swiper-slide-active").attr("data-swiper-slide-index");
+			                    	currentIndex++;
+			                    	if(currentIndex<10){
+			                    		counterZero = 0;
+			                    	} else {
+			                    		counterZero = "";
+			                    	}
+			                    	s.find(".slide-counter_current").html(currentIndex);
+			                    },
+			                    onInit: function (swiper) {
+			                        toggleSwiperInnerVideos(swiper);
+			                        toggleSwiperCaptionAnimation(swiper);
+			                        var o = $(swiper.container).find('.rd-parallax');
+			                        if (o.length && window.RDParallax) {
+			                            o.RDParallax({layerDirection: ($('html').hasClass("smoothscroll") || $('html').hasClass("smoothscroll-all")) && !isIE() ? "normal" : "inverse"});
+			                        }
+			                    }
+			                });
+			                $(window).on("resize", function () {
+			                    var mh = getSwiperHeight(s, "min-height"),
+			                    	h = getSwiperHeight(s, "height");
+			                    if (h) {
+			                        s.css("height", mh ? mh > h ? mh : h : h);
+			                    }			                }).load(function () {
+			                    s.find("video").each(function () {
+			                        if (!$(this).parents(".swiper-slide-active").length) {
+			                            this.pause();		                        }
+			                    });
+			                }).trigger("resize");
+			            });
+			        });
+			    }
+			});
+	})(jQuery);
+jQuery(function($){var e=$(window).width();$("#icemegamenu").find(".icesubMenu").each(function(a){var b=$(this).offset();var c=b.left+$(this).width();if(c>=e){$(this).addClass("ice_righttoleft")}});$(window).resize(function(){var d=$(window).width();$("#icemegamenu").find(".icesubMenu").removeClass("ice_righttoleft").each(function(a){var b=$(this).offset();var c=b.left+$(this).width();if(c>=d){$(this).addClass("ice_righttoleft")}})})});
+	</script>
+
+    </head>
+    <body class="body__home option-com_content view-category task- itemid-101">
+                <!-- Body -->
+        <div id="wrapper">
+            <div class="wrapper-inner">
+                <a id="fake" href='#'></a>
+
+                <!-- Top -->
+                <div id="top" class="stuck_position">
+                    
+            <div class="container">
+        <div class="row">
+    
+            
+
+            <div id="logo" class="col-sm-2">
+                <a href="https://carh.org.uk/">
+                                            <img src="/images/logo.png" alt="CARH">
+                    <!--?php else: ?-->
+                    <span class="site-logo"><span class="item_title_part0 item_title_part_odd item_title_part_first_half item_title_part_first">CARH</span> </span>
+                                                        </a>
+            </div>
+            
+
+               
+
+            <nav class="moduletable home_menu  col-sm-8"><div class="module_container">
+<div class="icemegamenu">
+	<ul id="icemegamenu">
+		<li id="iceMenu_101" class="iceMenuLiLevel_1 current active fullwidth">
+			<a href="https://carh.org.uk/" class="icemega_active iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">Home</span>
+			</a>
+		</li>
+		<li id="iceMenu_134" class="iceMenuLiLevel_1 mzr-drop parent ">
+			<a href="/index.php/about" class=" iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">About Us</span>
+			</a>
+			<ul class="icesubMenu icemodules sub_level_1" style="width:330px">
+				<li>
+					<div style="float:left;width:330px" class="iceCols">
+						<ul>
+							<li id="iceMenu_618" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/about/our-history" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Our History</span>
+								</a>
+							</li>
+							<li id="iceMenu_137" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/about/testimonials" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">What Our Clients Say</span>
+								</a>
+							</li>
+							<li id="iceMenu_630" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/about/partners" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Partners and Funders</span>
+								</a>
+							</li>
+							<li id="iceMenu_643" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/about/complaints" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Complaints</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</li>
+		<li id="iceMenu_335" class="iceMenuLiLevel_1 mzr-drop parent ">
+			<a href="/index.php/pages" class=" iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">How We Can help</span>
+			</a>
+			<ul class="icesubMenu icemodules sub_level_1" style="width:314px">
+				<li>
+					<div style="float:left;width:314px" class="iceCols">
+						<ul>
+							<li id="iceMenu_632" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/general-advice" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">General Advice</span>
+								</a>
+							</li>
+							<li id="iceMenu_620" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/welfare-and-benefits" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Welfare Benefits</span>
+								</a>
+							</li>
+							<li id="iceMenu_622" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/money-advice" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Money Advice</span>
+								</a>
+							</li>
+							<li id="iceMenu_634" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/financial-crisis-support-project" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Financial Crisis Support</span>
+								</a>
+							</li>
+							<li id="iceMenu_635" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/universal-credit-help-to-claim" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Universal Credit - Help to Claim</span>
+								</a>
+							</li>
+							<li id="iceMenu_631" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/pages/research-campaigns" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Research and Campaigns</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</li>
+		<li id="iceMenu_285" class="iceMenuLiLevel_1 ">
+			<a href="/index.php/news" class=" iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">News</span>
+			</a>
+		</li>
+		<li id="iceMenu_617" class="iceMenuLiLevel_1 ">
+			<a href="/index.php/volunteering" class=" iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">Volunteer for Us</span>
+			</a>
+		</li>
+		<li id="iceMenu_142" class="iceMenuLiLevel_1 mzr-drop parent ">
+			<a href="/index.php/contacts" class=" iceMenuTitle ">
+				<span class="icemega_title icemega_nosubtitle">Contact Us</span>
+			</a>
+			<ul class="icesubMenu icemodules sub_level_1" style="width:280px">
+				<li>
+					<div style="float:left;width:280px" class="iceCols">
+						<ul>
+							<li id="iceMenu_629" class="iceMenuLiLevel_2 ">
+								<a href="/index.php/contacts/directions" class=" iceMenuTitle ">
+									<span class="icemega_title icemega_nosubtitle">Directions</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</li>
+	</ul>
+</div></div></nav><div class="moduletable   col-sm-2"><div class="module_container"><div class="mod-menu">
+	<ul class="menu phone">
+	<li class="item-577">
+<span >0300 456 2552</span></li>
+	</ul>
+</div></div></div>
+            </div>
+    </div>
+    </div>
+                
+                <!-- header -->
+    <div id="header"class="stuck_position"><div class="moduletable "><div class="module_container"><div id="swiper-slider_208" class="swiper-container swiper-slider "
+	data-min-height="420px"
+	data-height="38.0859375%"
+	data-autoplay="false"
+	data-loop="true"
+	data-slide-effect="slide"
+	
+	>
+	<div class="swiper-wrapper">
+		
+<div class="swiper-slide"
+data-slide-bg="/images/slider/slide-3.jpg"
+>
+	<div class="swiper-slide-caption"
+			data-caption-animate="fadeIn"
+		data-caption-delay="200">
+					<div class="camera_caption ">
+
+										
+					<h1 class="slide-title"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first item_title_part_last">Welcome</span></h1>
+		
+						
+						
+						
+										
+			<!-- Read More link -->
+			
+			</div>
+			</div>
+</div>
+
+<div class="swiper-slide"
+data-slide-bg="/images/slider/slide-2.jpg"
+>
+	<div class="swiper-slide-caption"
+			data-caption-animate="fadeIn"
+		data-caption-delay="200">
+					<div class="camera_caption ">
+
+										
+					<h1 class="slide-title"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Rossendale</span> <span class="item_title_part_1 item_title_part_even item_title_part_second_half item_title_part_last">Services</span></h1>
+		
+						
+						
+						
+								<p> </p>
+		
+			<!-- Read More link -->
+			<a class="btn btn-info readmore" href="/index.php/63-slider/138-rossendale-services" target="_self"><span>Read more</span></a>
+			</div>
+			</div>
+</div>
+
+<div class="swiper-slide"
+data-slide-bg="/images/slider/slide-1.jpg"
+>
+	<div class="swiper-slide-caption"
+			data-caption-animate="fadeIn"
+		data-caption-delay="200">
+					<div class="camera_caption ">
+
+										
+					<h1 class="slide-title"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Hyndburn</span> <span class="item_title_part_1 item_title_part_even item_title_part_second_half item_title_part_last">Services</span></h1>
+		
+						
+						
+						
+								<p> </p>
+		
+			<!-- Read More link -->
+			<a class="btn btn-info readmore" href="/index.php/63-slider/137-life-and-health-insurance" target="_self"><span>Read more</span></a>
+			</div>
+			</div>
+</div>
+	</div>
+				<div class="navigation">
+		    <!-- Swiper Navigation -->
+		    <div class="swiper-button-prev"></div>
+		    <div class="swiper-button-next"></div>
+	    	<div class="slide-counter">
+	    		<span class="slide-counter_current"></span><span class="separator">/</span><span class="slide-counter_all">3</span>
+	    	</div>
+    	</div>
+	</div>
+</div></div><div class="moduletable services"><div class="module_container"><div class="mod-newsflash-adv mod-newsflash-adv__services cols-5" id="module_220">
+    <div class="row">
+    <article class="col-sm-2.4 item item_num0 item__module  " id="item_167">
+    
+<div class="item_content">
+<!-- Intro Image -->
+<figure class="item_img img-intro img-intro__left"> 
+			<img src="/images/Logo_RGB.png" alt="">
+		</figure>
+	<!-- Item title -->
+		<h4 class="item_title item_title__services"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Universal</span> <span class="item_title_part_1 item_title_part_even item_title_part_first_half">Credit</span> <span class="item_title_part_2 item_title_part_odd item_title_part_first_half">-</span> <span class="item_title_part_3 item_title_part_even item_title_part_second_half">Help</span> <span class="item_title_part_4 item_title_part_odd item_title_part_second_half">to</span> <span class="item_title_part_5 item_title_part_even item_title_part_second_half item_title_part_last">Claim</span></h4>
+	
+	
+	<!-- Read More link -->
+	</div>
+<div class="clearfix"></div>  </article>
+    <article class="col-sm-2.4 item item_num1 item__module  " id="item_146">
+    
+<div class="item_content">
+<!-- Intro Image -->
+<figure class="item_img img-intro img-intro__"> 
+			<img src="/images/welfare-icon.png" alt="welfare-icon">
+		</figure>
+	<!-- Item title -->
+		<h4 class="item_title item_title__services"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Welfare</span> <span class="item_title_part_1 item_title_part_even item_title_part_first_half">Benefits</span> <span class="item_title_part_2 item_title_part_odd item_title_part_second_half item_title_part_last">Advice</span></h4>
+	
+	
+	<!-- Read More link -->
+	</div>
+<div class="clearfix"></div>  </article>
+    <article class="col-sm-2.4 item item_num2 item__module  " id="item_145">
+    
+<div class="item_content">
+<!-- Intro Image -->
+<figure class="item_img img-intro img-intro__"> 
+			<img src="/images/vol-icon.png" alt="volunteer-icon">
+		</figure>
+	<!-- Item title -->
+		<h4 class="item_title item_title__services"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first item_title_part_last">Volunteer</span></h4>
+	
+	
+	<!-- Read More link -->
+	<a class="btn btn-info readmore" href="/index.php/volunteering"><span>Read more</span></a></div>
+<div class="clearfix"></div>  </article>
+    <article class="col-sm-2.4 item item_num3 item__module  " id="item_143">
+    
+<div class="item_content">
+<!-- Intro Image -->
+<figure class="item_img img-intro img-intro__"> 
+			<img src="/images/money-icon.png" alt="money-icon">
+		</figure>
+	<!-- Item title -->
+		<h4 class="item_title item_title__services"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Money</span> <span class="item_title_part_1 item_title_part_even item_title_part_first_half">&</span> <span class="item_title_part_2 item_title_part_odd item_title_part_second_half">Debt</span> <span class="item_title_part_3 item_title_part_even item_title_part_second_half item_title_part_last">Advice</span></h4>
+	
+	
+	<!-- Read More link -->
+	<a class="btn btn-info readmore" href="/index.php/pages/money-advice"><span>Read more</span></a></div>
+<div class="clearfix"></div>  </article>
+    <article class="col-sm-2.4 item item_num4 item__module  lastItem" id="item_142">
+    
+<div class="item_content">
+<!-- Intro Image -->
+<figure class="item_img img-intro img-intro__"> 
+			<img src="/images/general-icon.png" alt="general-advice-icon">
+		</figure>
+	<!-- Item title -->
+		<h4 class="item_title item_title__services"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">General</span> <span class="item_title_part_1 item_title_part_even item_title_part_second_half item_title_part_last">Advice</span></h4>
+	
+	
+	<!-- Read More link -->
+	<a class="btn btn-info readmore" href="/index.php/pages"><span>Read more</span></a></div>
+<div class="clearfix"></div>  </article>
+    </div> 
+  <div class="clearfix"></div>
+
+  </div></div></div></div>
+                <!-- Main Content row -->
+                <div id="content">
+                                        <div class="container">
+                        <div class="row">
+                                                <div class="content-inner">
+                                <!-- Left sidebar -->
+                                                                
+                                <div id="component" class="col-sm-12">
+                                    <main role="main">
+                                        <!-- content-top -->
+    <div id="content-top"><div class="row"><div class="moduletable center  col-sm-12"><div class="module_container"><header class='page_header'><h2 class="moduleTitle "><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Welcome</span> <span class="item_title_part_1 item_title_part_even item_title_part_first_half">To</span> <span class="item_title_part_2 item_title_part_odd item_title_part_first_half">Citizens</span> <span class="item_title_part_3 item_title_part_even item_title_part_first_half">Advice</span> <span class="item_title_part_4 item_title_part_odd item_title_part_second_half">Rossendale</span> <span class="item_title_part_5 item_title_part_even item_title_part_second_half">&</span> <span class="item_title_part_6 item_title_part_odd item_title_part_second_half item_title_part_last">Hyndburn</span></h2></header><div class="mod-article-single mod-article-single__center" id="module_219">
+	<div class="item__module" id="item_141">
+		
+		<!-- Intro Text -->
+		<div class="item_introtext">
+			<p>Citizens Advice Rossendale &amp; Hyndburn provides free, independent, confidential and impartial advice on people’s rights and responsibilities.</p>
+<ul>
+<li class="offset20">We value diversity, promote equality and challenge discrimination</li>
+<li class="offset20">We provide advice and support people need for the problems they face</li>
+<li class="offset20">We campaign for change to improve the policies and practices that affect people’s lives</li>
+<li class="offset20">We work holistically, meaning that, for example, if someone lost their income due to being unfairly dismissed, we would offer help with the money issues as well as with the unfair dismissal</li>
+</ul>
+<p style="text-align: center;">Charity Registration No. 1110853 | Company Limited by Guarantee No 04572959 England | Authorised and Regulated by the Financial Conduct Authority FRN: 617638</p>
+<p style="text-align: center;">Citizens Advice Rossendale &amp; Hyndburn is the operating name of Citizens Advice Rossendale &amp; Hyndburn Ltd</p>
+<p style="text-align: center;">Registered Office: New Era Centre, Paradise Street, Accrington BB5 1PB</p>
+<p style="text-align: left;"><span style="color: #ff0000;"> </span></p>
+<h2 style="text-align: left;"><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first item_title_part_last">****IMPORTANT****</span></h2>
+<div><span style="color: #ff0000;">COVID-19</span></div>
+<div><span style="color: #ff0000;">Citizens Advice Rossendale &amp; Hyndburn face-to-face services remain suspended to reduce the risk of infection to our clients, volunteers and staff.  We continue to deliver advice and support to you by email and telephone and are now offering appointments via video call.</span></div>
+<div> </div>
+<div><span style="color: #ff0000;">We encourage you to get in touch with us using our online contact form <a style="color: #ff0000;" href="/index.php/contacts" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://carh.org.uk/index.php/contacts&amp;source=gmail&amp;ust=1584521690340000&amp;usg=AFQjCNFA5f5brWr8BQTOtudKK8mslTSVjQ">here</a> and we will ring you back as soon as we can.   You can also ring the Citizens Advice Adviceline on 0300 456 2552. </span></div>
+<div> </div>
+<div><span style="color: #ff0000;">Our advice pages are continually updated with the latest advice and information about coronavirus and how it could affect you, further information is available <a style="color: #ff0000;" href="https://www.citizensadvice.org.uk/health/coronavirus-what-it-means-for-you/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://www.citizensadvice.org.uk/health/coronavirus-what-it-means-for-you/&amp;source=gmail&amp;ust=1584521690340000&amp;usg=AFQjCNEc8cyYzIvRK2cv8Xo0MTPR-fvMvQ">here</a>. </span></div>
+<div> </div>
+<div><span style="color: #ff0000;">We want you to know that we will be here to help you as much as we can, for as long as we can and will support you during and after this worrying and stressful time.</span> </div>
+<div> </div>
+<div>We will continue to monitor the situation from government guidance and will update you on any further impact on our service.  </div>		</div>	
+				</div>
+  </div></div></div></div></div>
+                                        <div id="system-message-container">
+	</div>
+
+                                        <section class="page-category page-category__home">
+	</section>
+                                                                            </main>
+                                </div>
+                                                            </div>
+                                                    </div>
+                    </div>
+                                            </div>
+                <!-- bottom -->
+    <div id="bottom"class="stuck_position"><div class="container">
+        <div class="row"><div class="moduletable center  col-sm-12"><div class="module_container"><div class="mod-custom mod-custom__center"  >
+	<p>We provide a range of information and advice services to help you with whatever issues you are trying to deal with.</p></div></div></div></div>
+        </div></div>
+            </div>
+        </div>
+        <div id="footer-wrapper">
+            <div class="footer-wrapper-inner">
+                <!-- footer -->
+    <div id="footer"class="stuck_position"><div class="container">
+        <div class="row"><div class="moduletable center  col-sm-12"><div class="module_container"><header class='page_header'><h2 class="moduleTitle "><span class="item_title_part_0 item_title_part_odd item_title_part_first_half item_title_part_first">Do</span> <span class="item_title_part_1 item_title_part_even item_title_part_first_half">you</span> <span class="item_title_part_2 item_title_part_odd item_title_part_first_half">have</span> <span class="item_title_part_3 item_title_part_even item_title_part_second_half">any</span> <span class="item_title_part_4 item_title_part_odd item_title_part_second_half item_title_part_last">questions?</span></h2></header><div class="mod-custom mod-custom__center"  >
+	<p>If you have questions  please call us to speak with a telephone assessor <strong>Monday to Fridays 10am - 4pm</strong>. 		<div class="moduletable span12">
+						<div class="mod-menu">
+	<ul class="menu phone">
+	<li class="item-577">
+<span >0300 456 2552</span></li>
+	</ul>
+</div>		</div>
+	</p></div></div></div></div>
+        </div></div>
+                <!-- Copyright -->
+                <div id="copyright" role="contentinfo">
+                    <div class="container-fluid">                        <div class="row">
+                            <div class="copyright col-sm-9">
+                                                                <!-- Footer Logo -->
+                                <a class="footer_logo" href="/">
+                                    <img src="/images/logo.png" alt="CARH">
+                                    <span class="siteName"><span class="item_title_part0 item_title_part_odd item_title_part_first_half item_title_part_first">CARH</span> </span>
+                                </a>
+                                <span class="copy">&copy;&nbsp;</span><span class="year">2020.</span>                                <a class="privacy_link" rel="license" href="/index.php/privacy-policy">
+                                    Privacy Policy                                </a>
+                                                            </div>
+                            <div class="moduletable   col-sm-2"><div class="module_container"><div class="mod-menu">
+	<ul class="menu phone">
+	<li class="item-577">
+<span >0300 456 2552</span></li>
+	</ul>
+</div></div></div><div class="moduletable   col-sm-1"><div class="module_container">
+<div class="mod-menu mod-menu__social">
+	<ul class="nav menu social">
+	<li class="item-148"><a class="fa fa-twitter" href="https://twitter.com/CitARoss_Hynd" target="_blank" title="Twitter Rossendale" ></a>
+</li>	</ul>
+</div></div></div>
+                                                        <!-- {%FOOTER_LINK} -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-top">
+        <a href="#"><span></span></a>
+    </div>        
+                
+    </body>
+</html>

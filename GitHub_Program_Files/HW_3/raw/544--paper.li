@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 2 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    
+    
+  <link rel="dns-prefetch" href="//img.paper.li">
+  <link rel="dns-prefetch" href="//d38hokjm2drjyk.cloudfront.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+  <link rel="dns-prefetch" href="//fonts.googleapis.com">
+  <link rel="dns-prefetch" href="//platform.twitter.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <title>Globalnews , le Journal</title>
+
+        <meta content="Globalnews , le Journal" data-react-helmet="true" property="og:title" />
+  <meta content="2424 - L'actualité du monde en continu - France et Internationale by Globalnews" data-react-helmet="true" property="og:description" />
+  <meta content="paper_li:newspaper" property="og:type" />
+  <meta content="https://paper.li/pascalpernai/1338052540" property="og:url" />
+  <meta content="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" property="og:image" />
+  <meta content="paper.li" property="og:site_name" />
+  <meta content="362293833600" property="fb:app_id" />
+  
+  <meta content="en_US" property="og:locale" />
+
+      <meta content="en_US" property="og:locale:alternate" />
+      <meta content="de_DE" property="og:locale:alternate" />
+      <meta content="fr_FR" property="og:locale:alternate" />
+      <meta content="es_ES" property="og:locale:alternate" />
+      <meta content="pt_PT" property="og:locale:alternate" />
+  
+  <link href="https://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-2020.png" rel="image_src" />
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <meta content="Globalnews" name="author" /><meta content="2424 - L'actualité du monde en continu - France et Internationale by Globalnews" data-react-helmet="true" name="description" /><meta content="summary_large_image" name="twitter:card" /><meta content="Covid-19: vers le déploiement des tests antigéniques en France" name="twitter:title" /><meta content="rfi.fr La laboratoire suisse Roche a annoncé, ce mardi 13 octobre, vouloir déployer en France d’ici la fin de l’année ses tests antigéniques pour dépister le Covid-19, avec une promesse : des résultats en m…" name="twitter:description" /><meta content="https://s.rfi.fr/media/display/68f5b184-eefe-11ea-8c04-005056bf87d6/w:1280/p:16x9/2020-09-02t160150z_181823558_rc2gqi9srhla_rtrmadp_3_health-coronavirus-france-test_0.jpg" name="twitter:image" />  <link href="//d2k854fi3lpqb8.cloudfront.net/assets/bundle-paper-view-cc85c6cc8741d038aba4.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="//d2k854fi3lpqb8.cloudfront.net/assets/paper.view-a3d518fccc544093cf3cf6f8541de211.css" media="all" rel="stylesheet" type="text/css" />
+
+  
+
+  <script>
+    window.paperli = {
+      host: 'paper.li',
+      locale: 'en',
+      logged_in: false,
+      paper_id: '1457ae86-252d-49e7-8a6d-82918b4cbf02',
+      imageproxy_token: {"tokenValidity":"1602701832793","token":"c52505970f2402370ca1e8e8bb0358cff0cbdcea"},
+      images_host: "d38hokjm2drjyk.cloudfront.net",
+      event: {},
+      disable_default_ads: false,
+      block_copyrighted: false,
+      articles_cta: {"pro":false,"link":"https://paper.li/pascalpernai/1338052540","publisher":{"name":"Globalnews","avatar_url":"http://pbs.twimg.com/profile_images/720941500453011456/dzhcFwed_reasonably_small.jpg"}},
+      feat_options: {"show_auto_promote":false},
+      ui_options: {"sma":true,"layout_selection":true,"web_newspaper":true,"newsletter_service":true},
+      has_meta_description: false,
+      pre_relaunch: true,
+      runtimePublicPath: '//d2k854fi3lpqb8.cloudfront.net/assets/',
+    };
+
+  </script>
+  <!-- legacy bundle -->
+  <script src="//d2k854fi3lpqb8.cloudfront.net/assets/bundle/paper-view-en-4ccc83a4881cac88bcf3c3d27b1f0d26.js" type="text/javascript"></script>
+  
+
+
+  <script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/new-layout.auth-overlay-91129556466d8affa8b3f9a0e20ab470.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="//d2k854fi3lpqb8.cloudfront.net/assets/overlay/paper.subscribe-overlay-f9e75015075475ab56436c8d8c4f3429.css" media="all" rel="stylesheet" type="text/css" />
+
+    <script defer="defer" src="//d2k854fi3lpqb8.cloudfront.net/assets/paper.subscribe_overlay-12991b7616eb9545b04c1455609272a5.js" type="text/javascript"></script>
+
+  <script>
+    window.subscribe_overlay = {"id":"1457ae86-252d-49e7-8a6d-82918b4cbf02","avatar_url":"http:\/\/pbs.twimg.com\/profile_images\/720941500453011456\/dzhcFwed_reasonably_small.jpg","name":"Globalnews","is_pro":false};
+  </script>
+  <style id="antiClickjack">
+    body{display:none !important;}
+  </style>
+
+
+    <!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>    
+
+  </head>
+  <body class="">
+    <script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+    'event': 'pageload',
+    'pageType': 'Paper Page'  });
+
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHR7NJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+<script>
+  "seo ignore"; // seo hint;
+  
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+    
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    
+    <!-- Main content -->
+    
+
+
+
+
+<div id="app"></div>
+
+<script>!function(e){function c(a){if(n[a])return n[a].exports;var r=n[a]={i:a,l:!1,exports:{}};return e[a].call(r.exports,r,r.exports,c),r.l=!0,r.exports}var a=window.webpackJsonp;window.webpackJsonp=function(n,t,f){for(var o,d,b,u=0,i=[];u<n.length;u++)d=n[u],r[d]&&i.push(r[d][0]),r[d]=0;for(o in t)Object.prototype.hasOwnProperty.call(t,o)&&(e[o]=t[o]);for(a&&a(n,t,f);i.length;)i.shift()();if(f)for(u=0;u<f.length;u++)b=c(c.s=f[u]);return b};var n={},r={32:0};c.e=function(e){function a(){o.onerror=o.onload=null,clearTimeout(d);var c=r[e];0!==c&&(c&&c[1](new Error("Loading chunk "+e+" failed.")),r[e]=void 0)}var n=r[e];if(0===n)return new Promise(function(e){e()});if(n)return n[2];var t=new Promise(function(c,a){n=r[e]=[c,a]});n[2]=t;var f=document.getElementsByTagName("head")[0],o=document.createElement("script");o.type="text/javascript",o.charset="utf-8",o.async=!0,o.timeout=12e4,c.nc&&o.setAttribute("nonce",c.nc),o.src=c.p+""+{0:"1dc337abebb5802ce044",1:"c1ff3094af2ab66cb9e2",2:"92b5bad4254fa6c7205f",3:"f602867946d4be832cec",4:"93024a39a6cab77ab607",5:"ce45e1e5a2552cacea02",6:"dedbc6dcae567b150ef1",7:"b09943ed7892f2bc8de6",8:"36f8a7082e75e00be8de",9:"52f967ffc36e8bac46dd",10:"a8a9f650effddfd000b1",11:"db9342c3b0b737581809",12:"55a6d15d1a2541c96425",13:"f5f51c41d37d61c7a86b",14:"9161d80b0763f3615e3c",15:"1326dd917480cf061354",16:"cc85c6cc8741d038aba4",17:"0deaa47cba1ec14bc0d5",18:"371379fcfc908a4d72e7",19:"fda1d0252f032a31f613",20:"8f333057ee77e6301aea",21:"f568e789a325638dd982",22:"bdbc8a348d11fb6aa45b",23:"8e2491310e002c835a2b",24:"b96c8dfa9e1cb836a1ac",25:"0cc2d4b4d0ff4d6760e8",26:"c1c7f54a9017fc7449a1",27:"1f4e0909bde98e718e11",28:"5bce697bc51fd1901017",29:"669c5cc5a283a9292428",30:"8ad1de563f28d575b720",31:"87e8d431a07ae533a246"}[e]+".js";var d=setTimeout(a,12e4);return o.onerror=o.onload=a,f.appendChild(o),t},c.m=e,c.c=n,c.i=function(e){return e},c.d=function(e,a,n){c.o(e,a)||Object.defineProperty(e,a,{configurable:!1,enumerable:!0,get:n})},c.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return c.d(a,"a",a),a},c.o=function(e,c){return Object.prototype.hasOwnProperty.call(e,c)},c.p="/assets/",c.oe=function(e){throw console.error(e),e}}([]);</script><script defer="defer" src="//d2k854fi3lpqb8.cloudfront.net/assets/bundle-paper-view-cc85c6cc8741d038aba4.js" type="text/javascript"></script>
+
+<!-- legacy scripts -->
+
+
+<div class="legacy">
+  <div id="sticky-container">
+    <div id="flash-message-js"></div>
+      
+<div id="cookies_banner" class="m-banner m-warning">
+  <div class="message"></div>
+</div>
+  </div>
+  
+<div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
+  <div class="message"></div>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="//d2k854fi3lpqb8.cloudfront.net/assets/analytics-6d4295776a1f2e1c4170045a91730753.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  "seo ignore"; // seo hint;
+  
+  try {
+    var srTracker = Paperli.Tracker.getTracker("/~api/analytics");
+  } catch( err ) {}
+  </script>
+  
+  <script>
+      $(document).ready(function() {
+        if (navigator.cookieEnabled === false) {
+          $('#cookies_banner')
+            .find('.message').html(paperli.util.translate('banner.cookies.disabled')).end()
+            .slideDown();
+        }
+      });
+  </script>
+  <script>
+    $(document).ready(function(){
+      if ($.browser.msie && parseInt($.browser.version) <= 8){
+        $('#ie_banner')
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
+        
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
+          $('#ie_banner').slideUp();
+        });
+      };        
+    });
+  </script>
+  <script type="text/javascript">
+    if (self === top) {
+      var antiClickjack = document.getElementById("antiClickjack");
+      antiClickjack.parentNode.removeChild(antiClickjack);
+    } else {
+      top.location = self.location;
+    }
+  </script>
+
+
+  </body>
+</html>

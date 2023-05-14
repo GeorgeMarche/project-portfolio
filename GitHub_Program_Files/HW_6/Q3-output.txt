@@ -1,0 +1,3 @@
+Number of tweets gathered:  3399
+Time range of the tweets:  8 days, 23:47:46
+Number of unique accounts:  1437

@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Mersey Dee Alliance &#8211; Connecting people</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mersey Dee Alliance &raquo; Feed" href="http://www.merseydeealliance.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mersey Dee Alliance &raquo; Comments Feed" href="http://www.merseydeealliance.org.uk/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.11.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.11.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-171259234-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-171259234-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.merseydeealliance.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.4.4' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:100%;}a,.page-title{color:#006ce8;}a:hover,a:focus{color:#db9900;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:Arial,Helvetica,Verdana,sans-serif;font-weight:400;font-size:16px;font-size:1rem;}blockquote{color:#090e14;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:Arial,Helvetica,Verdana,sans-serif;font-weight:700;}.site-title{font-size:22px;font-size:1.375rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.5rem;}.site-header .site-description{font-size:15px;font-size:0.9375rem;}.entry-title{font-size:30px;font-size:1.875rem;}.comment-reply-title{font-size:26px;font-size:1.625rem;}.ast-comment-list #cancel-comment-reply-link{font-size:16px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.5rem;font-weight:700;font-family:Arial,Helvetica,Verdana,sans-serif;}h2,.entry-content h2{font-size:32px;font-size:2rem;font-weight:700;font-family:Arial,Helvetica,Verdana,sans-serif;}h3,.entry-content h3{font-size:24px;font-size:1.5rem;font-weight:700;font-family:Arial,Helvetica,Verdana,sans-serif;}h4,.entry-content h4{font-size:20px;font-size:1.25rem;}h5,.entry-content h5{font-size:18px;font-size:1.125rem;}h6,.entry-content h6{font-size:16px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.875rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:16px;font-size:1rem;}::selection{color:transparent;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#54595f;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#006ce8;background-color:#006ce8;}.main-header-menu a,.ast-header-custom-item a{color:#54595f;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#006ce8;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#006ce8;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#006ce8;background-color:#006ce8;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#006ce8;border-color:#006ce8;}.ast-small-footer{color:#d3d3d3;}.ast-small-footer > .ast-footer-overlay{background-color:#191919;}.ast-small-footer a{color:#fb2056;}.ast-small-footer a:hover{color:#fb2056;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:13px;font-size:0.8125rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#006ce8;}.entry-meta,.entry-meta *{line-height:1.45;color:#006ce8;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#db9900;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:12.5rem;}.widget-title{font-size:22px;font-size:1.375rem;color:#54595f;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#006ce8;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#006ce8;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#006ce8;border-color:#006ce8;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#006ce8;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#db9900;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid ;}@media (max-width:782px){.entry-content .wp-block-columns .wp-block-column{margin-left:0px;}}@media (max-width:768px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:768px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:769px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:769px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:2px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#000000;background-color:#db9900;border-color:#db9900;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:transparent;}.elementor-button-wrapper .elementor-button{font-family:inherit;font-weight:normal;line-height:1;text-transform:none;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:14px;font-size:0.875rem;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:transparent;font-family:inherit;font-weight:normal;line-height:1;text-transform:none;font-size:14px;font-size:0.875rem;border-radius:2px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#000000;background-color:#db9900;border-color:#db9900;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:transparent;border-radius:2px;padding-top:10px;padding-right:20px;padding-bottom:10px;padding-left:20px;font-family:inherit;font-weight:normal;font-size:14px;font-size:0.875rem;line-height:1;text-transform:none;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#000000;background-color:#db9900;border-color:#db9900;}@media (min-width:768px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:768px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:768px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (max-width:544px){.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}body,.ast-separate-container{background-color:#ffffff;background-image:none;}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:44px;}h2,.entry-content h2{font-size:32px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-meta{font-size:12px;font-size:0.8rem;}.widget-title{font-size:21px;font-size:1.4rem;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-size:15px;font-size:0.9375rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:0.9375rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:0.9375rem;}.site-title{font-size:20px;font-size:1.25rem;}.ast-archive-description .ast-archive-title{font-size:40px;}.site-header .site-description{font-size:14px;font-size:0.875rem;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:24px;}h3,.entry-content h3{font-size:20px;}h4,.entry-content h4{font-size:19px;font-size:1.1875rem;}h5,.entry-content h5{font-size:16px;font-size:1rem;}h6,.entry-content h6{font-size:15px;font-size:0.9375rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}.ast-header-break-point .site-branding img,.ast-header-break-point #masthead .site-logo-img .custom-logo-link img{max-width:100px;}.astra-logo-svg{width:100px;}.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:100px;}}@media (max-width:768px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:100%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-0px;}}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.25rem;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#232c6a;}.ast-header-break-point .main-header-bar{border-bottom-width:0;}@media (min-width:769px){.main-header-bar{border-bottom-width:0;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > a{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.header-main-layout-1 .ast-flex.main-header-container, .header-main-layout-3 .ast-flex.main-header-container{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}
+</style>
+<link rel='stylesheet' id='astra-menu-animation-css'  href='http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.4.4' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.merseydeealliance.org.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' media='all' />
+<link rel='stylesheet' id='wpfront-scroll-top-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/wpfront-scroll-top/css/wpfront-scroll-top.min.css?ver=2.0.2' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' media='all' />
+<link rel='stylesheet' id='elementor-post-264-css'  href='http://www.merseydeealliance.org.uk/wp-content/uploads/elementor/css/post-264.css?ver=1596016465' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.1' media='all' />
+<link rel='stylesheet' id='elementor-post-270-css'  href='http://www.merseydeealliance.org.uk/wp-content/uploads/elementor/css/post-270.css?ver=1596016465' media='all' />
+<link rel='stylesheet' id='elementor-post-272-css'  href='http://www.merseydeealliance.org.uk/wp-content/uploads/elementor/css/post-272.css?ver=1596016465' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<!--[if IE]>
+<script src='http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.4.4'></script>
+<script>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script>
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/www.merseydeealliance.org.uk","hash_tracking":"false"};
+</script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.11.0'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.merseydeealliance.org.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.merseydeealliance.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.merseydeealliance.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel="canonical" href="http://www.merseydeealliance.org.uk/" />
+<link rel='shortlink' href='http://www.merseydeealliance.org.uk/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.merseydeealliance.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.merseydeealliance.org.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.merseydeealliance.org.uk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.merseydeealliance.org.uk%2F&#038;format=xml" />
+<link rel="icon" href="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/cropped-siteIdentity-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/cropped-siteIdentity-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/cropped-siteIdentity-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/cropped-siteIdentity-270x270.png" />
+</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-264 ehf-header ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.4 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent elementor-default elementor-kit-443 elementor-page elementor-page-264">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+			<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="http://www.merseydeealliance.org.uk" title="Mersey Dee Alliance" rel="home">Mersey Dee Alliance</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="270" class="elementor elementor-270" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-c3eb95a elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c3eb95a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-dd5b702 elementor-column elementor-col-33 elementor-top-column" data-id="dd5b702" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ad6c583 elementor-widget elementor-widget-image" data-id="ad6c583" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="http://www.merseydeealliance.org.uk/">
+							<img width="300" height="88" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/03/logo-1.png" class="attachment-full size-full" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-860bcd9 elementor-column elementor-col-33 elementor-top-column" data-id="860bcd9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1502476 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="1502476" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.merseydeealliance.org.uk/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Home</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f25ad77 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="f25ad77" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/about-us" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">About Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7c4c248 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="7c4c248" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/the-story-so-far" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">The Story So Far</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-66cb9b5 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="66cb9b5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/the-plan-ahead" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">The Plan Ahead</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8dfa3d8 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="8dfa3d8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/business-breakfast" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Business Breakfast</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5ca2097 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="5ca2097" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/contact-us" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9fee665 elementor-column elementor-col-33 elementor-top-column" data-id="9fee665" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b10a1a7 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="b10a1a7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default"><a href="http://www.merseydeealliance.org.uk/cymraeg/">Cymraeg</a></h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6866449 elementor-widget__width-auto elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="6866449" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-65c78e7" href="https://www.linkedin.com/groups/4152953/" target="_blank">
+					<span class="elementor-screen-only"></span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"></path></svg>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6047bfc elementor-widget__width-auto elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="6047bfc" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f734660" href="https://twitter.com/mdainnov8" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				</header>
+
+	
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					
+					
+
+<article 
+	class="post-264 page type-page status-publish ast-article-single" id="post-264" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<header class="entry-header ast-header-without-markup">
+
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="264" class="elementor elementor-264" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-f80673e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f80673e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6dd069d elementor-column elementor-col-50 elementor-top-column" data-id="6dd069d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7b0963d elementor-widget elementor-widget-heading" data-id="7b0963d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Mersey Dee Alliance</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-048c382 elementor-column elementor-col-50 elementor-top-column" data-id="048c382" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7220fbd elementor-widget elementor-widget-image" data-id="7220fbd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="720" height="480" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/06/map.png" class="attachment-full size-full" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-baf8202 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="baf8202" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6405d89 elementor-column elementor-col-100 elementor-top-column" data-id="6405d89" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-76dab96 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="76dab96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">A cross-border partnership</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6076df7 elementor-widget elementor-widget-text-editor" data-id="6076df7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>The Mersey Dee Alliance (MDA) is a successful partnership that supports strategic economic growth  across North East Wales, West Cheshire and Wirral.  Recognised as a single economic sub-region and having a population close to 1 million, the Mersey Dee area is a pivotal location in the UK. </p><p><span style="font-weight: 400;">The Mersey Dee has five main centres, with different histories, that are complementary in their economic roles to each other despite being either side of the England – Wales national border. The Mersey Dee area offers a distinctive spread of urban, industrial, residential and rural economies that are functionally connected.</span></p><p>With a strong diverse economy (that includes aerospace, automotive, nuclear, renewables, pharmaceuticals, chemicals, financial services, food, engineering, ICT, tourism and retail) the Mersey Dee area is poised for long-term investment, providing opportunities for companies to develop within a growing economic region that has an available supply of land and skilled people available.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-df98881 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="df98881" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5a761c9 elementor-column elementor-col-100 elementor-top-column" data-id="5a761c9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-179bc52 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="179bc52" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="vimeo Video Player" src="https://player.vimeo.com/video/395171292?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-630f3cc elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="630f3cc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-eaf331d elementor-column elementor-col-50 elementor-top-column" data-id="eaf331d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6fa743d elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6fa743d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MDA Innovation Network Business Breakfasts</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-57a18fc elementor-widget elementor-widget-text-editor" data-id="57a18fc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>These events allow businesses in the Mersey Dee area to talk to each other and learn about local, regional and national initiatives, opportunities to expand and the support available to help them face economic and commercial challenges.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c475acc elementor-widget elementor-widget-image" data-id="c475acc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="450" height="300" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/05/MDA-typaw300.png" class="attachment-full size-full" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f442b1 elementor-align-center elementor-widget elementor-widget-button" data-id="1f442b1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.merseydeealliance.org.uk/business-breakfast/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">More Information</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bf81cd8 elementor-column elementor-col-50 elementor-top-column" data-id="bf81cd8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f1d155b elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="f1d155b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Connect with us</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e76e54f elementor-widget__width-inherit elementor-widget elementor-widget-shortcode" data-id="e76e54f" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><a href="https://twitter.com/mdainnov8?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mdainnov8</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></a></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ed04723 elementor-widget elementor-widget-shortcode" data-id="ed04723" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><a class="twitter-timeline" data-height="600" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/mdainnov8?ref_src=twsrc%5Etfw">Tweets by mdainnov8</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+				<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="272" class="elementor elementor-272" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-3ac1d42 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="3ac1d42" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-69d3536 elementor-column elementor-col-100 elementor-top-column" data-id="69d3536" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-83064a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="83064a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7b79bba elementor-column elementor-col-14 elementor-inner-column" data-id="7b79bba" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-903bd58 elementor-widget elementor-widget-image" data-id="903bd58" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.cheshirewestandchester.gov.uk/home.aspx" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/CheshireWest300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-48992d4 elementor-column elementor-col-14 elementor-inner-column" data-id="48992d4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-24b927b elementor-widget elementor-widget-image" data-id="24b927b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.flintshire.gov.uk/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/Flintshire-Logo300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1f74d88 elementor-column elementor-col-14 elementor-inner-column" data-id="1f74d88" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7f4c655 elementor-widget elementor-widget-image" data-id="7f4c655" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.liverpoolcityregion-ca.gov.uk/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/LCRA300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f1a980a elementor-column elementor-col-14 elementor-inner-column" data-id="f1a980a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-80e4636 elementor-widget elementor-widget-image" data-id="80e4636" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www1.chester.ac.uk/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/chesterUniversity300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a9c5d1b elementor-column elementor-col-14 elementor-inner-column" data-id="a9c5d1b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-99a476a elementor-widget elementor-widget-image" data-id="99a476a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.wrexham.gov.uk/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/wrexhamlogo300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0b532cb elementor-column elementor-col-14 elementor-inner-column" data-id="0b532cb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b871b47 elementor-widget elementor-widget-image" data-id="b871b47" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.glyndwr.ac.uk/en/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/glyndwr300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e82d7ff elementor-column elementor-col-14 elementor-inner-column" data-id="e82d7ff" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-05d5cfa elementor-widget elementor-widget-image" data-id="05d5cfa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://gov.wales/" target="_blank">
+							<img width="150" height="150" src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/02/welsh-government-logo300.png" class="attachment-thumbnail size-thumbnail" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-fbe4318 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="fbe4318" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-0e084a9 elementor-column elementor-col-100 elementor-inner-column" data-id="0e084a9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9600472 elementor-widget elementor-widget-text-editor" data-id="9600472" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><a style="color: #ffffff;" href="mailto:mda@cheshirewestandchester.gov.uk">mda@cheshirewestandchester.gov.uk</a></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-224820d elementor-widget elementor-widget-text-editor" data-id="224820d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">0151 356 6567</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-415173c elementor-widget__width-auto elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="415173c" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-f7f5442" href="https://www.linkedin.com/groups/4152953/" target="_blank">
+					<span class="elementor-screen-only"></span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"></path></svg>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b922421 elementor-widget__width-auto elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="b922421" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-1e3ee67" href="https://twitter.com/mdainnov8" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e2b5ec elementor-widget elementor-widget-text-editor" data-id="1e2b5ec" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Copyright © Mersey Dee Alliance</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>		</footer>
+	
+		
+	</div><!-- #page -->
+
+	
+	
+
+
+    <div id="wpfront-scroll-top-container">
+        <img src="http://www.merseydeealliance.org.uk/wp-content/uploads/2020/05/btt-button.png" alt="Back to top" />    </div>
+    <script type="text/javascript">function wpfront_scroll_top_init() {if(typeof wpfront_scroll_top == "function" && typeof jQuery !== "undefined") {wpfront_scroll_top({"scroll_offset":80,"button_width":64,"button_height":0,"button_opacity":0.8,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":"on","auto_hide_after":1,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});} else {setTimeout(wpfront_scroll_top_init, 100);}}wpfront_scroll_top_init();</script><script>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.4.4'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.2'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
+<script>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"http:\/\/www.merseydeealliance.org.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":264,"title":"Mersey%20Dee%20Alliance%20%E2%80%93%20Connecting%20people","excerpt":"","featuredImage":false}};
+</script>
+<script src='http://www.merseydeealliance.org.uk/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			
+	</body>
+</html>

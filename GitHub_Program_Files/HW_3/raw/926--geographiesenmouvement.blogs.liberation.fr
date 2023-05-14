@@ -1,0 +1,6537 @@
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <title>Géographies en mouvement - &quot;Où&quot; attrape-t-on le Covid-19 ? - Libération.fr</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="follow, all">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="description" content="Pour rassurer ceux qui ont peur, la géographie peut-elle donner des ailes ? Le dernier bilan épidémiologique de Santé publique France qui cartographie les clusters voudrait bien apporter des réponses. Mais Michèle Legeas de l’Ecole des hautes études de santé publique, temporise : « Pour l’instant, on se base sur… - Libération">
+    <meta name="keywords" content="2017, Actualité, Anthropologie, Cartes électorales, Cinéma, Festival, Fribourg, Front National, Fuseaux horaires, Genre, Géographie, Greenwich, Locarno, Magellan, Nouvel An, Régionales, Religion, Sports, temps, Tourisme" />
+    <meta name="news_keywords" content="2017, Actualité, Anthropologie, Cartes électorales, Cinéma, Festival, Fribourg, Front National, Fuseaux horaires, Genre, Géographie, Greenwich, Locarno, Magellan, Nouvel An, Régionales, Religion, Sports, temps, Tourisme" />
+    
+    
+    <meta name="author" content="Gilles Fumey, Brice  Gruet, Martine Tabeaud, Pelletier Philippe, Louis Marrou, Manouk Borzakian, Luc Guillemot, Laurent Simon, Boris Grésillon">
+    
+    
+    
+    <meta name="generator" content="Zinnia 0.14.3" />
+
+    <link rel="home" href="/" />
+    <link rel="shortcut icon" href="http://s1.libe.com/bloom/theme/img/favicon.ico" >
+    <link rel="stylesheet" href="http://s1.libe.com/bloom/CACHE/css/b60fa150cac0.css" type="text/css" media="screen, projection" /><link rel="stylesheet" href="http://s1.libe.com/bloom/CACHE/css/794f36d86cc7.css" type="text/css" media="print" />
+    
+
+
+<link rel="stylesheet" href="http://s1.libe.com/bloom/CACHE/css/537a17881be5.css" type="text/css" />
+
+    
+  <link rel="index" href="/" />
+  <link rel="search" type="application/opensearchdescription+xml" title="Géographies en mouvement" href="/opensearch.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Flux RSS des derniers articles" href="/feeds/" />
+  
+  <link rel="prev" title="L&#39;Allemagne, 30 ans après l&#39;unité : un malaise persistant à l&#39;Est" href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/02/lallemagne-30-ans-apres-lunite-un-malaise-persistant-lest/" />
+  
+  
+  <link rel="next" title="Quand les mômes ne peuvent pas voyager" href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/12/quand-les-momes-ne-peuvent-pas-voyager/" />
+  
+  <link rel="canonical" href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/" />
+
+    
+    
+    
+<script type="text/javascript">
+  sas_masterflag = 1;
+  sas_tmstp = Math.round(Math.random() * 10000000000);
+  function SmartAdServer(sas_pageid, sas_formatid, sas_target) {
+    if (typeof isPubActive !== 'undefined' && isPubActive) {
+      if (sas_masterflag == 1) {
+        sas_masterflag = 0;
+        sas_master = 'M';
+      } else {
+        sas_master = 'S';
+      };
+      document.write('<scr'+'ipt src="http://ww14.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+    }
+  }
+</script>
+
+
+  </head>
+
+  <body class="zinnia entry entry-54394 year-2020 month-10 week-41 day-08">
+    <script type="text/javascript">
+function getCookie(name,defaultvalue){name+="=";if(document.cookie.length>0){offset=document.cookie.indexOf(name);if(offset!=-1){offset+=name.length,end=document.cookie.indexOf(";",offset);return unescape(document.cookie.substring(offset,end!=-1?end:document.cookie.length))}}return defaultvalue}
+
+function setCookie(name,value,domain,duration,expire,path){var cookie;if(!expire){var today=new Date;expire=new Date,duration||(duration=31536e6-1),expire.setTime(today.getTime()+duration)}path||(path="/"),cookie=encodeURIComponent(name)+"="+encodeURIComponent(value),duration!=="session"&&(cookie+="; expires="+expire.toUTCString()),cookie+="; path="+path,domain&&(cookie+="; domain="+domain),document.cookie=cookie}
+
+var isPubActive = true;
+var libeUserInfo = { "authenticated": false, "access_level": "BAS" };
+var session_cookie = getCookie('djazsession');
+
+if (session_cookie) {
+  document.write('<script type="text/javascript" src="http://www.liberation.fr/session_info/?format=json&confirm=' + escape(session_cookie) + '"></' + 'script>');
+}
+</script>
+
+
+
+<script type="text/javascript">
+var displayName = (typeof libeUserInfo['displayname'] == 'undefined') ? '' : libeUserInfo['displayname'];
+var accessLevel = (typeof libeUserInfo['access_level'] == 'undefined') ? 'BAS' : libeUserInfo['access_level'];
+var isPubActive = !(accessLevel == 'PRE' || accessLevel == 'ESS' || accessLevel == 'MAYDAY');
+var bodyClass = ' ' + 'access-' + accessLevel.toLowerCase();
+bodyClass += ' ' + (libeUserInfo['authenticated'] ? 'authenticated' : 'unlogged');
+document.body.className = document.body.className + bodyClass;
+</script>
+
+<script type="text/javascript">
+/* Handle cookie notifier close button */
+var cookie_notified_handler = function(elem) {
+  elem.parentNode.parentNode.style.display = "none";
+}
+/* Fetch the cookie */
+var cookie_notified = getCookie('cookie_notified');
+
+/* Check the cookie and display the notification */
+if (!cookie_notified && libeUserInfo['authenticated'] == false) {
+  var cookie_notify_html = '<div class="cookie_notify_js cookie-notify"><div class="wrapper"><div  onClick="cookie_notified_handler(this);" class="close"><span>Fermer </span><i class="icon-cancel-circle"></i></div><p>En poursuivant votre navigation sur ce site, vous acceptez l\'utilisation de cookies pour vous proposer des services et offres adaptés à vos centres d\'intérêt.&nbsp;<a onclick="window.location.assign(\'http://www.liberation.fr/donnees-personnelles/\');" title="Conditions générales de vente de Libération">En savoir plus</a></p></div></div>'
+  document.write(cookie_notify_html);
+}
+setCookie('cookie_notified', true, '', 1000 * 60 * 60 * 24 * 7);
+</script>
+
+<div id="user-bar" class="sticky">
+  <div class="wrapper">
+
+    <ul id="user-account">
+      <li id="connect"><a href="http://token.liberation.fr/accounts/login/">Se connecter</a></li>
+      <li id="sign-in"><a href="http://token.liberation.fr/accounts/register/">S'inscrire</a></li>
+      <li id="log-out"><a href="http://token.liberation.fr/accounts/logout/?next=/">Se déconnecter</a></li>
+    </ul>
+
+    <ul id="user-option">
+      <li class="name"><i class="icon-user"></i><a id="account_username" href="http://token.liberation.fr/accounts/personal-data/"></a></li>
+    </ul>
+
+    <ul id="customer-option">
+      <li id="header-paper-link" class="paper"></li>
+    </ul>
+  </div>
+
+
+  <script type="text/javascript">
+  if (libeUserInfo['authenticated']) {
+    document.getElementById('account_username').innerHTML = displayName + '<span>&nbsp;&nbsp;-&nbsp;&nbsp;Gérer mon compte</span>';
+    if (isPubActive) {
+      document.getElementById('header-paper-link').innerHTML = '<a href="http://token.liberation.fr/accounts/offers/">Abonnez-vous à partir de 1€</a>';
+    }
+    if (libeUserInfo.is_staff) {
+      var hop_refresh = "javascript: window.location.href = window.location.pathname + '?refresh=' + Math.floor((Math.random() * 1000000) + 1);";
+      var editor_option = document.createElement("ul");
+      editor_option.id = "editor-option";
+      editor_option.innerHTML  = '<li class="dock"><a title="S\'amarrer sur le Quai" href="' + libeUserInfo.url_quai + '/quai/"><em>Quai</em><i class="icon-dock"></i></a></li>';
+      editor_option.innerHTML += '<li class="refresh"><a title="Actualiser la page" href="' + hop_refresh + '"><em>Actualiser</em><i class="icon-refresh"></i></a></li>';
+
+      var customer_option = document.getElementById('customer-option');
+      customer_option.parentNode.insertBefore(editor_option, customer_option);
+/*      $('#user-bar > div').append(raw_str);*/
+    }
+
+
+  }
+  // Recovery
+  if (typeof libeUserInfo !== 'undefined' && libeUserInfo.access_level == 'MAYDAY') {
+    document.body.className = document.body.className + ' recovery-mode';
+    // something is wrong!
+    if (typeof libeUserInfo.forced_recovery != 'undefined') {
+      var recoveryMsg = "<h3>Libération.fr est actuellement en maintenance... L'identification est temporairement désactivée, veuillez nous excuser pour la gêne occasionnée.</h3>"; } else { var recoveryMsg = "<h3> Libération.fr rencontre des problèmes techniques. L'identification est temporairement désactivée, veuillez nous excuser pour la gêne occasionnée.</h3>";
+      document.getElementById('user-bar').innerHTML = recoveryMsg;
+    }
+  }
+  </script>
+</div>
+
+    <div id="ad-portal">
+      <div id="container">
+        
+<nav class="navbar navbar-default">
+  <div id="header_mobile">
+    <div class="navbar-header">
+      <button class="navbar-toggle" data-parent="#header_mobile" data-target="#header_mobile_heading" data-toggle="collapse" type="button">
+        <span class="sr-only">Les rubriques</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <button class="navbar-toggle" data-parent="#header_mobile" data-target="#header_mobile_search" data-toggle="collapse" type="button">
+        <span class="sr-only">Rechercher</span>
+        <span class="icon-zoom"></span>
+      </button>
+      <button class="navbar-toggle" data-parent="#header_mobile" data-target="#header_mobile_user" data-toggle="collapse" type="button">
+        <span class="sr-only">Mon profil</span>
+        <span class="icon-user"></span>
+      </button>
+      <a class="navbar-brand" data-href="http://www.liberation.fr" href="http://www.liberation.fr">
+        <img alt="Libération" src="http://s1.libe.com/bloom/theme/img/logo-liberation-311x113.png" />
+      </a>
+    </div>
+    <div class="panel">
+      <div class="collapse navbar-collapse" id="header_mobile_search">
+        <form action="/recherche/" class="navbar-form navbar-left" method="get">
+          <div class="form-group">
+            <input class="focus" name="pattern" placeholder="Ex : éducation, rebonds" type="search" />
+          </div>
+          <button class="btn btn-default" type="submit">Recherche</button>
+        </form>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="collapse navbar-collapse" id="header_mobile_heading">
+        <ul class="nav navbar-nav" id="mobile_section_list">
+          <li style="list-style: none; display: inline">
+            <script type="text/javascript">
+              var mobileHeader = document.getElementById('mobile_section_list')
+              var menu_list = {}
+              var current_section ='La une'
+
+              menu_list = [{name:"Politique", url:'http://www.liberation.fr/politiques,11'},{name:"Société", url:'http://www.liberation.fr/societe,12'},{name:"Monde", url:'http://www.liberation.fr/monde,10'},{name:"Économie", url:'http://www.liberation.fr/economie,13'},{name:"Culture", url:'http://www.liberation.fr/culture,16'},{name:"Next", url:'http://next.liberation.fr/'},{name:"Idées", url:'http://www.liberation.fr/debats,18'},{name:"Blogs", url:'http://www.liberation.fr/blogs,26'},{name:"Vidéo", url:'http://www.liberation.fr/video,19'},{name:"Photo", url:'http://www.liberation.fr/photographie,99965'},{name:"Radio", url:'http://liberadio.goomradio.com/'},{name:"Sports", url:'http://www.liberation.fr/sports,14'},{name:"Livres", url:'http://www.liberation.fr/livres,60'},{name:"EcoFutur", url:'http://www.liberation.fr/ecofutur,100181'},{name:"Terre", url:'http://www.liberation.fr/terre,89'},{name:"Théâtre", url:'http://www.liberation.fr/theatre,28'},{name:"Voyages", url:'http://www.liberation.fr/voyages,55'},{name:"Écrans", url:'http://ecrans.liberation.fr/'},{name:"Sciences", url:'http://www.liberation.fr/sciences,90'},{name:"Sexe & genre", url:'http://next.liberation.fr/sexe,100124'},{name:"Vous", url:'http://www.liberation.fr/vous,15'},{name:"Désintox", url:'http://www.liberation.fr/desintox,99721'},{name:"Tchats", url:'http://www.liberation.fr/tchats,25'},{name:"Forums thématiques", url:'http://www.liberation.fr/forums,24'},{name:"Événements", url:'http://www.liberation.fr/evenements-libe,100200'}];
+
+              for (var i = 0; i < menu_list.length; i++){
+                 item = menu_list[i];
+                 var section = document.createElement('li');
+                 if(item.name == current_section){
+                   section.classList.add('active');
+                 }
+                 var sectionLink = document.createElement('a');
+                 sectionLink.href = item.url;
+                 sectionLink.textContent = item.name;
+                 section.appendChild(sectionLink);
+                 mobileHeader.appendChild(section);
+              }
+            </script>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="collapse navbar-collapse" id="header_mobile_user">
+        <ul class="nav navbar-nav">
+          <li id="mobile_account">
+            <a data-href="http://token.liberation.fr/accounts/personal-data/" href="http://token.liberation.fr/accounts/personal-data/" id="mobile_account_username"></a>
+          </li>
+          <li id="mobile_logout">
+            <a data-href="http://token.liberation.fr/accounts/logout/?next=/" href="http://token.liberation.fr/accounts/logout/?next=/">Se déconnecter</a>
+          </li>
+          <li id="mobile_connect">
+            <a data-href="http://token.liberation.fr/accounts/login/" href="http://token.liberation.fr/accounts/login/">Se connecter</a>
+          </li>
+          <li id="mobile_signin">
+            <a data-href="http://token.liberation.fr/accounts/register/" href="http://token.liberation.fr/accounts/register/">S'inscrire</a>
+          </li>
+          <li class="divider"></li>
+        </ul>
+      </div>
+    </div>
+    <span class="articleSection">
+      <a href="/">La une</a>
+    </span>
+  </div>
+</nav>
+<script type="text/javascript">
+  if (libeUserInfo['authenticated']) {
+    document.getElementById('mobile_account_username').innerHTML = displayName;
+  }
+</script>
+
+        <div id="header">
+          <div class="branding">
+            <a class="blog-logo" href="http://www.liberation.fr/" title="Libération">
+              <img alt="Libération.fr" src="http://s1.libe.com/bloom/theme/img/logo-liberation-311x113.png" />
+            </a>
+            <div class="absctract">
+              <div class="blog-name">
+                <a href="/" title="Géographies en mouvement" rel="home">Géographies en mouvement</a>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+        
+        <div id="banner">
+          
+          <img src="http://m0.libe.com/blogs/cache/6f/17/6f17d95278cb6f20883c95fff984917b.jpg" width="1240" height="114" alt="Géographies en mouvement" />
+          
+        </div>
+        
+        <div class="mod media-ext" id="ad-megaban_top1">
+          <div class="wrapper">
+            
+<script type="text/javascript">
+sas_pageid   = '252/497586';
+sas_formatid = 225;
+sas_target   = '';
+SmartAdServer(sas_pageid, sas_formatid, sas_target);
+</script>
+<noscript>
+<a href="http://ww14.smartadserver.com/call/pubjumpi/252/497586/225/M/1602701097/?" target="_blank">
+  <img src="http://ww14.smartadserver.com/call/pubi/252/497586/225/M/1602701097/?" border="0" alt="" />
+</a>
+</noscript>
+
+
+          </div>
+        </div>
+        <div class="divider"></div>
+        <div id="content" class="hfeed">
+          <ul id="breadcrumbs">
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a itemprop="url" href="http://www.liberation.fr/" rel="home" title="Site Libération">
+                <span itemprop="title">Accueil</span>
+              </a>
+            </li>
+            <li class="separator">›</li>
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a itemprop="url" href="http://www.liberation.fr/blogs,26" title="Retour aux blogs">
+                <span itemprop="title">Blogs</span>
+              </a>
+            </li>
+            <li class="separator">›</li>
+            <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a itemprop="url" href="/" title="Accueil Géographies en mouvement">
+                <span itemprop="title">Géographies en mouvement</span>
+              </a>
+            </li>
+            
+          </ul>
+          
+
+
+  
+<article id="entry-54394" class="hentry"
+         itemscope="" itemtype="http://schema.org/NewsArticle">
+  
+  <div class="entry-header">
+    
+    <h1 class="entry-title" itemprop="headline">
+      <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/" title="&quot;Où&quot; attrape-t-on le Covid-19 ?" rel="bookmark">
+
+        "Où" attrape-t-on le&nbsp;Covid-19&nbsp;?
+      </a>
+    </h1>
+    
+    
+    <p class="entry-info">
+      
+      
+      
+      
+      <span class="vcard author" itemscope="" itemtype="http://schema.org/Person">
+        <a href="/auteurs/Gilles.Fumey/" rel="author"
+           class="fn url"
+           title="Afficher tous les articles de Gilles Fumey">
+          <span itemprop="name">Gilles Fumey</span></a></span>
+      
+      
+      
+      
+
+      
+      <time itemprop="datePublished" class="published"
+            title="2020-10-08T09:02:41.707496+02:00"
+            datetime="2020-10-08T09:02:41">
+        8 octobre 2020
+      </time>
+      
+    </p>
+    
+    
+    <p class="entry-last-update">
+      (mise à jour : <time class="updated" datetime="2020-10-08T18:06:43">8 octobre 2020</time>)
+    </p>
+    
+  </div>
+  
+
+  
+  <div class="entry-body entry-content" itemprop="articleBody">
+    
+    
+    <figure itemscope itemtype="http://schema.org/ImageObject" class="asset-img-link" style="display: inline;">
+      
+      <img itemprop="contentURL" alt="&quot;Où&quot; attrape-t-on le Covid-19 ?"
+           class="asset asset-image image-full img-responsive"
+           src="http://m0.libe.com/blogs/cache/9a/c7/9ac7904b899f2db7de5c33109cec36e1.jpg" />
+      
+      <figcaption itemprop="description">Enquête réalisée entre le 9 mai et le 28 septembre 2020 (hors Ehpad et et milieu familial restreint)</figcaption>
+    </figure>
+    
+    
+    
+    
+    <div class="intro">
+      <p>Où? Telle est la première question pour ceux qui ont peur du Covid. Pas pour les «rassuristes». Dans les grandes surfaces et leur climatisation? Dans les restaurants soumis à une forte pression gouvernementale? Que penser des chiffres de Santé publique France?</p>
+    </div>
+    
+    
+    
+    
+      <p class="MsoNormal">Pour rassurer ceux qui ont peur, la géographie peut-elle donner
+des ailes? Le dernier bilan épidémiologique de Santé publique France qui
+cartographie les clusters voudrait bien apporter des réponses. Mais Michèle Legeas
+de l’Ecole des hautes études de santé publique, temporise: «<i>Pour
+l’instant, on se base sur des études réalisées à l’étranger. Avions, restaurants…
+Certaines pointent des lieux ou situations à risque, mais ce ne sont que des
+hypothèses, on n’a toujours pas de réelle certitude</i>» (1). </p><p class="MsoNormal">Comme il est très compliqué de faire intégrer les mesures de
+distanciation, Santé publique France traque les informations sur les lieux de
+transmission. Les entreprises sont les premières dans le classement des clusters
+(24,9%), loin devant les universités (19,5%) dont le chiffre est sans doute à
+mettre en relation avec les vacances des étudiants (l’enquête a été réalisée entre
+le 9 mai et le 28 septembre 2020). Le cercle familial et amical arrivant en 3<sup>e</sup>
+position. </p><p class="MsoNormal">Questions de méthode: «<i>Quand on détecte cinq
+élèves touchés dans une école, cela ne dit pas comment et où ils ont attrapé le
+virus. A l’école? Ailleurs?</i>» se demande Michèle Legeas
+(1). D’autres biais comme la systématisation ou non des tests de dépistage. Une
+grande variable à l’échelle du territoire, voire des villes ou même des
+quartiers. </p><p class="MsoNormal">Comment identifier les lieux d’infection en dehors des clusters?
+Pourquoi Santé publique France n’a pas lancé des chercheurs qui auraient
+comparé des communes de même taille mais avec des types de commerce différents,
+se demande Mircea Sofonea (université de Montpellier) (1). On a de très beaux cas
+de communes équipées très différemment. <i><a href="https://www.liberation.fr/societe/2013/02/08/puy-guillaume-les-ideaux-du-village_880490">Libération avait enquêté</a></i> sur ces différences
+entre deux villes distantes de vingt kilomètres à population équivalente, l’une
+possédant une grande surface, l’autre non. Que n’enquête-t-on pas là? </p><h3>Olivier Véran s’appuie sur une étude… américaine </h3><p class="MsoNormal">Selon Michèle Legeas, il faudrait s’intéresser à nos codes sociaux.
+L’absence de contact dans les salutations au Japon est-elle un facteur réduisant
+la propagation du virus? Dans quelle proportion? Quelle est l’étude
+américaine qui a poussé le ministre de la santé, Olivier Véran, à fermer les
+bars et les bistrots? Alors que les entreprises semblent les lieux les
+plus propices? L’étude de Santé publique France est-elle bien faite?
+Exhaustive? Pourquoi ne sont-ils pas dans le classement? Et s’ils
+le sont, le sont-ils dans l’item «Entreprises privées et publiques»?
+</p><p class="MsoNormal">Un bel exemple de travail bâclé qui n’apporte rien de
+sérieux pour aider à répondre à la seule question de géographie: «Où»?</p><p>----------------</p><p>(1) <em>Le Parisien</em>, 8/10/2020
+</p><p>Sur les «rassuristes», voir <em><a href="https://www.liberation.fr/france/2020/10/04/cinq-arguments-des-rassuristes-passes-au-crible_1801400">Libération,</a></em> 5 octobre 2020
+</p><hr><p>Pour nous suivre sur Facebook: <a href="https://www.facebook.com/geographiesenmouvement/">https://www.facebook.com/geographiesenmouvement/</a>
+</p></hr>
+    
+    
+    
+    
+    
+  </div>
+  
+  
+  
+  <aside class="outbrain">
+    <div class="OUTBRAIN" data-src="http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/" data-widget-id="AR_5" data-ob-template="liberation" ></div>
+<div class="OUTBRAIN" data-src="http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/" data-widget-id="AR_6" data-ob-template="liberation" ></div>
+
+<script type="text/javascript">
+  function toggleDynamicScript(src, is_async, mobile_disabled) {if(mobile_disabled){if (typeof isPubActive !== 'undefined' && isPubActive && !is_responsive_mobile) {(function () {var vs = document.createElement('script');vs.type = 'text/javascript';vs.async = is_async;vs.src = src;var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vs, s);})();}} else{if (typeof isPubActive !== 'undefined' && isPubActive) {(function () {var vs = document.createElement('script');vs.type = 'text/javascript';vs.async = is_async;vs.src = src;var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vs, s);})();}}}
+
+  var is_responsive_mobile = (document.documentElement.clientWidth <= 640);
+
+  if (is_responsive_mobile){
+      var MB_6 = document.getElementsByClassName('OUTBRAIN')[0]
+      MB_6.setAttribute('data-widget-id', 'MB_6');
+      var MB_5 = document.getElementsByClassName('OUTBRAIN')[1]
+      MB_5.setAttribute('data-widget-id', 'MB_5');
+    }
+  toggleDynamicScript('http://widgets.outbrain.com/outbrain.js', false, false);
+</script>
+
+  </aside>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</article>
+
+
+
+
+  <aside id="toolbar" class="sticky_js" data-offset="20" data-reference=".entry-body">
+    <ul>
+      <li class="facebook">
+        <a target="_blank" rel="nofollow"
+           title="Cliquez pour partager sur Facebook"
+           href="https://www.facebook.com/sharer/sharer.php?u=http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/"
+           onclick="window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <span class="name">Facebook :</span>
+          <i class="icon-facebook"></i>
+          <span class="hit">Facebook</span>
+        </a>
+      </li>
+      <li class="twitter">
+        <a target="_blank" rel="nofollow"
+           title="Cliquez pour partager sur Tweeter"
+           href="https://twitter.com/intent/tweet?text=%22O%C3%B9%22%20attrape-t-on%20le%20Covid-19%20%3F&amp;related=libe&amp;via=libe&amp;url=http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/"
+           onclick="window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <span class="name">Twitter :</span>
+          <i class="icon-twitter"></i>
+          <span class="hit">Twitter</span>
+        </a>
+      </li>
+      <li class="google">
+        <a target="_blank" rel="nofollow"
+           title="Cliquez pour partager sur Google+"
+           href="https://plus.google.com/share?hl=fr&amp;url=http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/"
+           onclick="window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <span class="name">Google+ :</span>
+          <i class="icon-google-plus"></i>
+          <span class="hit">Google+</span>
+        </a>
+      </li>
+      <li class="send">
+        <a rel="nofollow" title="Cliquer pour envoyer par mail"
+           href="mailto:?subject=Lu%20sur%20liberation.fr&amp;body=%22O%C3%B9%22%20attrape-t-on%20le%20Covid-19%20%3F.%0D%0A%0D%0ARetrouvez%20cet%20article%20sur%20le%20site%20de%20Lib%C3%A9ration%20:%20http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/">
+          <span class="name">Envoyer :</span>
+          <i class="icon-mail"></i>
+          <span class="hit">Mail</span>
+        </a>
+      </li>
+      <li class="print">
+        <a href="#" onclick="window.print();return false;">
+          <span class="name">Imprimer cet article</span>
+          <i class="icon-print"></i>
+          <span class="hit">Imprimer</span>
+        </a>
+      </li>
+    </ul>
+  </aside>
+  
+<div class="entry-widgets">
+  
+  
+  
+  <div class="entry-next">
+    <h3>Article suivant</h3>
+    <p>
+      <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/12/quand-les-momes-ne-peuvent-pas-voyager/" title="Quand les mômes ne peuvent pas voyager" rel="next">
+        Quand les mômes ne peuvent pas voyager
+      </a>
+    </p>
+  </div>
+  
+  
+  
+  
+  
+  
+  <div class="entry-previous">
+    <h3>Article précédent</h3>
+    <p>
+      <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/02/lallemagne-30-ans-apres-lunite-un-malaise-persistant-lest/" title="L&#39;Allemagne, 30 ans après l&#39;unité : un malaise persistant à l&#39;Est" rel="prev">
+        L&#39;Allemagne, 30 ans après l&#39;unité : un malaise persistant à l&#39;Est
+      </a>
+    </p>
+  </div>
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+
+
+
+
+<div id="comments_container" ></div>
+
+
+
+
+
+
+        </div>
+        <div id="sidebar">
+          <div class="media-ext media-ext-2">
+            
+<script type="text/javascript">
+sas_pageid   = '252/497586';
+sas_formatid = 163;
+sas_target   = '';
+SmartAdServer(sas_pageid, sas_formatid, sas_target);
+</script>
+<noscript>
+<a href="http://ww14.smartadserver.com/call/pubjumpi/252/497586/163/S/1602701097/?" target="_blank">
+  <img src="http://ww14.smartadserver.com/call/pubi/252/497586/163/S/1602701097/?" border="0" alt="" />
+</a>
+</noscript>
+
+
+          </div>
+          
+
+  
+
+
+<div id="widget-biographie" class="widget">
+  
+<span class="title">
+  Un blog écrit par :
+</span>
+
+
+<div class="resume">
+  <p style="background-image: initial; background-color: white;"><strong>Manouk Borzakian</strong> est
+géographe, enseignant à Lausanne (Suisse) et rédacteur du blog <a href="https://geographiecinema.wordpress.com/" target="_blank"><strong>"Géographie et cinéma"</strong></a>. Dernière
+publication :  <a href="https://www.playlistsociety.fr/book/geographie-zombie-les-ruines-du-capitalisme/" target="_blank"><strong><i>Géographie zombie, les ruines du
+capitalisme</i></strong></a>, aux éditions <a href="https://www.playlistsociety.fr/editions/" target="_blank"><strong>Playlist Society</strong></a>.<o:p></o:p></p><p><strong>Gilles Fumey </strong>est enseignant-chercheur en géographie
+culturelle (Sorbonne Université, CNRS). IL travaille sur le rôle de l’espace
+dans les représentations et les pratiques individuelles et collectives
+(alimentation, villes, sports, cinéma, musiques, etc.). Dernières publications
+(2018-2020): <strong><i><a href="https://terreurbaine.com/feu-sur-le-breakfast/">Feu
+sur le breakfast !</a></i></strong> (Terre urbaine), <a href="https://www.cnrseditions.fr/catalogue/geographie-territoires/villes-voraces-et-villes-frugales/"><strong><i>Villes
+voraces et villes frugales</i></strong></a> (avec Thierry Paquot (CNRS Editions), <strong><i><a href="http://enbas.net/index.php?id=gilles-fumey-douceurs-et-amertumes-du-chocolat">Douceurs
+et amertumes du chocolat. De Suisse et d'ailleurs</a></i></strong> (Ed.
+d'En-bas)  <i><a href="http://www.cnrseditions.fr/geographie/7601-atlas-de-l-alimentation.html"><strong>Atlas de l'alimentation</strong></a></i> (CNRS-Editions),
+et <i><a href="http://editions.bnf.fr/les-premiers-voyageurs-photographes" target="_blank"><strong>Les premiers voyageurs
+photographes</strong></a></i> (BNF-Glénat-Société de géographie).<br></p><p><strong>Renaud Duterme </strong> est enseignant en géographie dans un lycée de Belgique.  Il est l’auteur de <em>De quoi l’effondrement est-il le nom ?</em> (Utopia, 2016), <em>La Dette cachée de l’économie</em> (Les Liens qui libèrent, 2014, avec Éric De Ruest), et du <em>Petit manuel pour une géographie de combat</em> (La Découverte, 2020). </p><p><strong></strong></p>
+</div>
+
+
+</div>
+
+
+
+<div id="widget-recherche" class="widget">
+  <span class="title">Rechercher</span>
+<form method="get" action="/recherche/">
+  <p>
+    <input name="pattern" placeholder="Mots-clefs..." type="text" />
+    <input class="submitbutton" value="OK" type="submit" />
+  </p>
+</form>
+
+</div>
+
+
+
+<div id="widget-categories" class="widget">
+  
+
+
+  <span class="title">
+    <a href="/categories/">Catégories</a>
+  </span>
+  <ul class="categories">
+    
+    <li>
+      <a href="/categories/2908-actualite/"
+         title="Voir tous les articles dans Actualité">Actualité</a>
+      301 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3235-agriculture/"
+         title="Voir tous les articles dans Agriculture">Agriculture</a>
+      65 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3334-algerie/"
+         title="Voir tous les articles dans Algérie">Algérie</a>
+      1 article
+    </li>
+    
+    <li>
+      <a href="/categories/3236-alimentation/"
+         title="Voir tous les articles dans Alimentation">Alimentation</a>
+      76 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3338-amazonie/"
+         title="Voir tous les articles dans Amazonie">Amazonie</a>
+      8 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3333-caraibes/"
+         title="Voir tous les articles dans Caraïbes">Caraïbes</a>
+      3 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3337-cartographie/"
+         title="Voir tous les articles dans Cartographie">Cartographie</a>
+      8 articles
+    </li>
+    
+    <li class="current">
+      <a href="/categories/3237-chine/"
+         title="Voir tous les articles dans Chine">Chine</a>
+      20 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3221-cinema/"
+         title="Voir tous les articles dans Cinéma">Cinéma</a>
+      57 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3340-climat/"
+         title="Voir tous les articles dans Climat">Climat</a>
+      3 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3332-colonisation/"
+         title="Voir tous les articles dans Colonisation">Colonisation</a>
+      6 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3339-coronavirus/"
+         title="Voir tous les articles dans Coronavirus">Coronavirus</a>
+      25 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3335-desert/"
+         title="Voir tous les articles dans Désert">Désert</a>
+      5 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3278-domination/"
+         title="Voir tous les articles dans Domination">Domination</a>
+      22 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3341-ecologie/"
+         title="Voir tous les articles dans Écologie">Écologie</a>
+      4 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3292-ecotourisme/"
+         title="Voir tous les articles dans Écotourisme">Écotourisme</a>
+      6 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3234-elections-regionales/"
+         title="Voir tous les articles dans Elections régionales">Elections régionales</a>
+      2 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3297-etats-unis/"
+         title="Voir tous les articles dans États-Unis">États-Unis</a>
+      4 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3265-europe/"
+         title="Voir tous les articles dans Europe">Europe</a>
+      14 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3229-festival-de-cannes/"
+         title="Voir tous les articles dans Festival de Cannes">Festival de Cannes</a>
+      2 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3230-festival-du-film-de-fribourg/"
+         title="Voir tous les articles dans Festival du film de Fribourg">Festival du film de Fribourg</a>
+      3 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3295-fifdh/"
+         title="Voir tous les articles dans FIFDH">FIFDH</a>
+      1 article
+    </li>
+    
+    <li>
+      <a href="/categories/3266-frontieres/"
+         title="Voir tous les articles dans Frontières">Frontières</a>
+      20 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3233-front-national/"
+         title="Voir tous les articles dans Front National">Front National</a>
+      4 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3231-genre/"
+         title="Voir tous les articles dans Genre">Genre</a>
+      8 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3227-geographie/"
+         title="Voir tous les articles dans Géographie">Géographie</a>
+      122 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3232-geographie-electorale/"
+         title="Voir tous les articles dans Géographie électorale">Géographie électorale</a>
+      4 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3287-gilets-jaunes/"
+         title="Voir tous les articles dans Gilets jaunes">Gilets jaunes</a>
+      6 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3281-heterotopie/"
+         title="Voir tous les articles dans Hétérotopie">Hétérotopie</a>
+      7 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3222-identite/"
+         title="Voir tous les articles dans Identité">Identité</a>
+      35 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3290-inde/"
+         title="Voir tous les articles dans Inde">Inde</a>
+      3 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3223-japon/"
+         title="Voir tous les articles dans Japon">Japon</a>
+      11 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3224-locarno-film-festival-2016/"
+         title="Voir tous les articles dans Locarno film festival 2016">Locarno film festival 2016</a>
+      12 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3273-locarno-film-festival-2017/"
+         title="Voir tous les articles dans Locarno film festival 2017">Locarno film festival 2017</a>
+      13 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3284-locarno-film-festival-2018/"
+         title="Voir tous les articles dans Locarno film festival 2018">Locarno film festival 2018</a>
+      12 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3299-locarno-film-festival-2019/"
+         title="Voir tous les articles dans Locarno film festival 2019">Locarno film festival 2019</a>
+      11 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3280-medias/"
+         title="Voir tous les articles dans Médias">Médias</a>
+      4 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3196-migrations/"
+         title="Voir tous les articles dans Migrations">Migrations</a>
+      18 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3288-monde-indien/"
+         title="Voir tous les articles dans Monde indien">Monde indien</a>
+      5 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3225-mondialisation/"
+         title="Voir tous les articles dans Mondialisation">Mondialisation</a>
+      102 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3285-politique/"
+         title="Voir tous les articles dans Politique">Politique</a>
+      13 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3336-portugal/"
+         title="Voir tous les articles dans Portugal">Portugal</a>
+      1 article
+    </li>
+    
+    <li>
+      <a href="/categories/3342-rechauffement/"
+         title="Voir tous les articles dans Réchauffement">Réchauffement</a>
+      6 articles
+    </li>
+    
+    <li>
+      <a href="/categories/2909-religion/"
+         title="Voir tous les articles dans Religion">Religion</a>
+      11 articles
+    </li>
+    
+    <li>
+      <a href="/categories/2907-sports/"
+         title="Voir tous les articles dans Sports">Sports</a>
+      8 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3289-sri-lanka/"
+         title="Voir tous les articles dans Sri Lanka">Sri Lanka</a>
+      5 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3226-suisse/"
+         title="Voir tous les articles dans Suisse">Suisse</a>
+      20 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3300-syrie/"
+         title="Voir tous les articles dans Syrie">Syrie</a>
+      1 article
+    </li>
+    
+    <li>
+      <a href="/categories/3291-tourisme/"
+         title="Voir tous les articles dans Tourisme">Tourisme</a>
+      32 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3228-urbanisme/"
+         title="Voir tous les articles dans Urbanisme">Urbanisme</a>
+      38 articles
+    </li>
+    
+    <li>
+      <a href="/categories/3296-zombies/"
+         title="Voir tous les articles dans zombies">zombies</a>
+      2 articles
+    </li>
+    
+  </ul>
+
+
+
+</div>
+
+
+
+<div id="widget-articles-recents" class="widget">
+  
+<span class="title">Articles récents</span>
+
+<ul class="entries-recent">
+  
+  <li>
+    <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/12/quand-les-momes-ne-peuvent-pas-voyager/" title="Quand les mômes ne peuvent pas voyager" rel="bookmark">Quand les mômes ne peuvent pas voyager</a>
+  </li>
+  
+  <li>
+    <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/08/ou-attrape-t-le-covid-19/" title="&quot;Où&quot; attrape-t-on le Covid-19 ?" rel="bookmark">&quot;Où&quot; attrape-t-on le Covid-19 ?</a>
+  </li>
+  
+  <li>
+    <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/02/lallemagne-30-ans-apres-lunite-un-malaise-persistant-lest/" title="L&#39;Allemagne, 30 ans après l&#39;unité : un malaise persistant à l&#39;Est" rel="bookmark">L&#39;Allemagne, 30 ans après l&#39;unité : un malaise persistant à l&#39;Est</a>
+  </li>
+  
+  <li>
+    <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/10/01/petit-dejeuner/" title="Le petit-déjeuner, quel casse-tête !" rel="bookmark">Le petit-déjeuner, quel casse-tête !</a>
+  </li>
+  
+  <li>
+    <a href="http://geographiesenmouvement.blogs.liberation.fr/2020/09/24/les-grosses-fesses-de-lunion-europeenne/" title="Les grosses fesses de l&#39;Union européenne" rel="bookmark">Les grosses fesses de l&#39;Union européenne</a>
+  </li>
+  
+</ul>
+
+
+</div>
+
+
+
+<div id="widget-archives" class="widget">
+  
+<span class="title">Archives</span>
+
+
+<ul class="archives-entries-tree">
+  
+  <li>
+    <a title="Archives 2014" class="year"
+       href="/2014/">2014</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2014">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2014" href="#collapse-1-1">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-1-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 9 juin 2014"
+                   href="/2014/06/09/">
+                  9 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 juin 2014"
+                   href="/2014/06/10/">
+                  10 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 juin 2014"
+                   href="/2014/06/23/">
+                  23 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2014">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2014" href="#collapse-1-2">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-1-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 17 juillet 2014"
+                   href="/2014/07/17/">
+                  17 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 juillet 2014"
+                   href="/2014/07/18/">
+                  18 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 juillet 2014"
+                   href="/2014/07/29/">
+                  29 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2014">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2014" href="#collapse-1-3">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-1-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 septembre 2014"
+                   href="/2014/09/01/">
+                  1 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 septembre 2014"
+                   href="/2014/09/16/">
+                  16 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 septembre 2014"
+                   href="/2014/09/19/">
+                  19 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 septembre 2014"
+                   href="/2014/09/30/">
+                  30 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2014">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2014" href="#collapse-1-4">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-1-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 16 octobre 2014"
+                   href="/2014/10/16/">
+                  16 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 octobre 2014"
+                   href="/2014/10/17/">
+                  17 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2014">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2014" href="#collapse-1-5">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-1-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 3 novembre 2014"
+                   href="/2014/11/03/">
+                  3 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2015" class="year"
+       href="/2015/">2015</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-1">janvier</a>
+          </h4>
+        </div>
+        <div id="collapse-2-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 14 janvier 2015"
+                   href="/2015/01/14/">
+                  14 janvier
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-2">février</a>
+          </h4>
+        </div>
+        <div id="collapse-2-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 6 février 2015"
+                   href="/2015/02/06/">
+                  6 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-3">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-2-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 19 mars 2015"
+                   href="/2015/03/19/">
+                  19 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 mars 2015"
+                   href="/2015/03/21/">
+                  21 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 mars 2015"
+                   href="/2015/03/26/">
+                  26 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 mars 2015"
+                   href="/2015/03/28/">
+                  28 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 mars 2015"
+                   href="/2015/03/30/">
+                  30 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 mars 2015"
+                   href="/2015/03/31/">
+                  31 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-4">avril</a>
+          </h4>
+        </div>
+        <div id="collapse-2-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 avril 2015"
+                   href="/2015/04/02/">
+                  2 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 avril 2015"
+                   href="/2015/04/03/">
+                  3 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 avril 2015"
+                   href="/2015/04/05/">
+                  5 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 avril 2015"
+                   href="/2015/04/15/">
+                  15 avril
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-5">mai</a>
+          </h4>
+        </div>
+        <div id="collapse-2-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 mai 2015"
+                   href="/2015/05/04/">
+                  4 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 mai 2015"
+                   href="/2015/05/25/">
+                  25 mai
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-6">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-2-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 13 juin 2015"
+                   href="/2015/06/13/">
+                  13 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 juin 2015"
+                   href="/2015/06/21/">
+                  21 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 juin 2015"
+                   href="/2015/06/26/">
+                  26 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-7">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-2-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 24 juillet 2015"
+                   href="/2015/07/24/">
+                  24 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-8">août</a>
+          </h4>
+        </div>
+        <div id="collapse-2-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 31 août 2015"
+                   href="/2015/08/31/">
+                  31 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-9">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-2-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 7 septembre 2015"
+                   href="/2015/09/07/">
+                  7 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 septembre 2015"
+                   href="/2015/09/11/">
+                  11 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 septembre 2015"
+                   href="/2015/09/16/">
+                  16 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 septembre 2015"
+                   href="/2015/09/20/">
+                  20 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 septembre 2015"
+                   href="/2015/09/27/">
+                  27 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-10">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-2-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 12 octobre 2015"
+                   href="/2015/10/12/">
+                  12 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 octobre 2015"
+                   href="/2015/10/31/">
+                  31 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-11">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-2-11" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 novembre 2015"
+                   href="/2015/11/04/">
+                  4 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 novembre 2015"
+                   href="/2015/11/15/">
+                  15 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 novembre 2015"
+                   href="/2015/11/16/">
+                  16 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2015">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2015" href="#collapse-2-12">décembre</a>
+          </h4>
+        </div>
+        <div id="collapse-2-12" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 29 décembre 2015"
+                   href="/2015/12/29/">
+                  29 décembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2016" class="year"
+       href="/2016/">2016</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-1">janvier</a>
+          </h4>
+        </div>
+        <div id="collapse-3-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 janvier 2016"
+                   href="/2016/01/01/">
+                  1 janvier
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-2">février</a>
+          </h4>
+        </div>
+        <div id="collapse-3-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 février 2016"
+                   href="/2016/02/02/">
+                  2 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 février 2016"
+                   href="/2016/02/07/">
+                  7 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 février 2016"
+                   href="/2016/02/29/">
+                  29 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-3">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-3-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 15 mars 2016"
+                   href="/2016/03/15/">
+                  15 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-4">mai</a>
+          </h4>
+        </div>
+        <div id="collapse-3-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 10 mai 2016"
+                   href="/2016/05/10/">
+                  10 mai
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-5">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-3-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 juin 2016"
+                   href="/2016/06/01/">
+                  1 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-6">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-3-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 7 juillet 2016"
+                   href="/2016/07/07/">
+                  7 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 juillet 2016"
+                   href="/2016/07/09/">
+                  9 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 juillet 2016"
+                   href="/2016/07/22/">
+                  22 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 juillet 2016"
+                   href="/2016/07/26/">
+                  26 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 juillet 2016"
+                   href="/2016/07/27/">
+                  27 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 juillet 2016"
+                   href="/2016/07/30/">
+                  30 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-7">août</a>
+          </h4>
+        </div>
+        <div id="collapse-3-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 août 2016"
+                   href="/2016/08/01/">
+                  1 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 août 2016"
+                   href="/2016/08/03/">
+                  3 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 4 août 2016"
+                   href="/2016/08/04/">
+                  4 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 août 2016"
+                   href="/2016/08/05/">
+                  5 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 août 2016"
+                   href="/2016/08/06/">
+                  6 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 août 2016"
+                   href="/2016/08/07/">
+                  7 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 août 2016"
+                   href="/2016/08/08/">
+                  8 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 août 2016"
+                   href="/2016/08/09/">
+                  9 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 août 2016"
+                   href="/2016/08/10/">
+                  10 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 août 2016"
+                   href="/2016/08/11/">
+                  11 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 août 2016"
+                   href="/2016/08/12/">
+                  12 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 août 2016"
+                   href="/2016/08/13/">
+                  13 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 août 2016"
+                   href="/2016/08/16/">
+                  16 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 août 2016"
+                   href="/2016/08/17/">
+                  17 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 août 2016"
+                   href="/2016/08/23/">
+                  23 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-8">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-3-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 12 octobre 2016"
+                   href="/2016/10/12/">
+                  12 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 octobre 2016"
+                   href="/2016/10/16/">
+                  16 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 octobre 2016"
+                   href="/2016/10/17/">
+                  17 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 octobre 2016"
+                   href="/2016/10/19/">
+                  19 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 octobre 2016"
+                   href="/2016/10/25/">
+                  25 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 octobre 2016"
+                   href="/2016/10/31/">
+                  31 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-9">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-3-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 14 novembre 2016"
+                   href="/2016/11/14/">
+                  14 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 novembre 2016"
+                   href="/2016/11/17/">
+                  17 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2016">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2016" href="#collapse-3-10">décembre</a>
+          </h4>
+        </div>
+        <div id="collapse-3-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 27 décembre 2016"
+                   href="/2016/12/27/">
+                  27 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 décembre 2016"
+                   href="/2016/12/29/">
+                  29 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 décembre 2016"
+                   href="/2016/12/30/">
+                  30 décembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2017" class="year"
+       href="/2017/">2017</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-1">février</a>
+          </h4>
+        </div>
+        <div id="collapse-4-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 5 février 2017"
+                   href="/2017/02/05/">
+                  5 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 février 2017"
+                   href="/2017/02/13/">
+                  13 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 février 2017"
+                   href="/2017/02/21/">
+                  21 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-2">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-4-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 5 mars 2017"
+                   href="/2017/03/05/">
+                  5 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 mars 2017"
+                   href="/2017/03/06/">
+                  6 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 mars 2017"
+                   href="/2017/03/14/">
+                  14 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 mars 2017"
+                   href="/2017/03/19/">
+                  19 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 mars 2017"
+                   href="/2017/03/21/">
+                  21 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 mars 2017"
+                   href="/2017/03/25/">
+                  25 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 mars 2017"
+                   href="/2017/03/31/">
+                  31 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-3">avril</a>
+          </h4>
+        </div>
+        <div id="collapse-4-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 5 avril 2017"
+                   href="/2017/04/05/">
+                  5 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 avril 2017"
+                   href="/2017/04/07/">
+                  7 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 avril 2017"
+                   href="/2017/04/12/">
+                  12 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 avril 2017"
+                   href="/2017/04/17/">
+                  17 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 avril 2017"
+                   href="/2017/04/19/">
+                  19 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 avril 2017"
+                   href="/2017/04/23/">
+                  23 avril
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-4">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-4-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 juin 2017"
+                   href="/2017/06/01/">
+                  1 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 2 juin 2017"
+                   href="/2017/06/02/">
+                  2 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 juin 2017"
+                   href="/2017/06/09/">
+                  9 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 juin 2017"
+                   href="/2017/06/13/">
+                  13 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-5">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-4-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 juillet 2017"
+                   href="/2017/07/02/">
+                  2 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 juillet 2017"
+                   href="/2017/07/03/">
+                  3 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 juillet 2017"
+                   href="/2017/07/08/">
+                  8 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 juillet 2017"
+                   href="/2017/07/15/">
+                  15 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 juillet 2017"
+                   href="/2017/07/18/">
+                  18 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 juillet 2017"
+                   href="/2017/07/21/">
+                  21 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 juillet 2017"
+                   href="/2017/07/26/">
+                  26 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 juillet 2017"
+                   href="/2017/07/29/">
+                  29 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 juillet 2017"
+                   href="/2017/07/30/">
+                  30 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 juillet 2017"
+                   href="/2017/07/31/">
+                  31 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-6">août</a>
+          </h4>
+        </div>
+        <div id="collapse-4-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 3 août 2017"
+                   href="/2017/08/03/">
+                  3 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 août 2017"
+                   href="/2017/08/05/">
+                  5 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 août 2017"
+                   href="/2017/08/06/">
+                  6 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 août 2017"
+                   href="/2017/08/07/">
+                  7 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 août 2017"
+                   href="/2017/08/08/">
+                  8 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 août 2017"
+                   href="/2017/08/09/">
+                  9 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 août 2017"
+                   href="/2017/08/11/">
+                  11 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 août 2017"
+                   href="/2017/08/12/">
+                  12 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 août 2017"
+                   href="/2017/08/13/">
+                  13 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 août 2017"
+                   href="/2017/08/14/">
+                  14 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 août 2017"
+                   href="/2017/08/15/">
+                  15 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 août 2017"
+                   href="/2017/08/20/">
+                  20 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-7">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-4-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 13 septembre 2017"
+                   href="/2017/09/13/">
+                  13 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 septembre 2017"
+                   href="/2017/09/14/">
+                  14 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 septembre 2017"
+                   href="/2017/09/17/">
+                  17 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 septembre 2017"
+                   href="/2017/09/19/">
+                  19 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 septembre 2017"
+                   href="/2017/09/24/">
+                  24 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-8">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-4-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 13 octobre 2017"
+                   href="/2017/10/13/">
+                  13 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 octobre 2017"
+                   href="/2017/10/19/">
+                  19 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 octobre 2017"
+                   href="/2017/10/23/">
+                  23 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 octobre 2017"
+                   href="/2017/10/27/">
+                  27 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-9">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-4-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 novembre 2017"
+                   href="/2017/11/01/">
+                  1 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 novembre 2017"
+                   href="/2017/11/05/">
+                  5 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 novembre 2017"
+                   href="/2017/11/07/">
+                  7 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 novembre 2017"
+                   href="/2017/11/09/">
+                  9 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 novembre 2017"
+                   href="/2017/11/12/">
+                  12 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 novembre 2017"
+                   href="/2017/11/15/">
+                  15 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 novembre 2017"
+                   href="/2017/11/17/">
+                  17 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 novembre 2017"
+                   href="/2017/11/23/">
+                  23 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 novembre 2017"
+                   href="/2017/11/24/">
+                  24 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 novembre 2017"
+                   href="/2017/11/29/">
+                  29 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2017">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2017" href="#collapse-4-10">décembre</a>
+          </h4>
+        </div>
+        <div id="collapse-4-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 décembre 2017"
+                   href="/2017/12/04/">
+                  4 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 décembre 2017"
+                   href="/2017/12/06/">
+                  6 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 décembre 2017"
+                   href="/2017/12/09/">
+                  9 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 décembre 2017"
+                   href="/2017/12/14/">
+                  14 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 décembre 2017"
+                   href="/2017/12/15/">
+                  15 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 décembre 2017"
+                   href="/2017/12/21/">
+                  21 décembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2018" class="year"
+       href="/2018/">2018</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-1">janvier</a>
+          </h4>
+        </div>
+        <div id="collapse-5-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 janvier 2018"
+                   href="/2018/01/02/">
+                  2 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 janvier 2018"
+                   href="/2018/01/03/">
+                  3 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 4 janvier 2018"
+                   href="/2018/01/04/">
+                  4 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 janvier 2018"
+                   href="/2018/01/10/">
+                  10 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 janvier 2018"
+                   href="/2018/01/12/">
+                  12 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 janvier 2018"
+                   href="/2018/01/19/">
+                  19 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 janvier 2018"
+                   href="/2018/01/20/">
+                  20 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 janvier 2018"
+                   href="/2018/01/23/">
+                  23 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 janvier 2018"
+                   href="/2018/01/31/">
+                  31 janvier
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-2">février</a>
+          </h4>
+        </div>
+        <div id="collapse-5-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 février 2018"
+                   href="/2018/02/02/">
+                  2 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 février 2018"
+                   href="/2018/02/07/">
+                  7 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 février 2018"
+                   href="/2018/02/08/">
+                  8 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 février 2018"
+                   href="/2018/02/10/">
+                  10 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 février 2018"
+                   href="/2018/02/12/">
+                  12 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-3">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-5-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 27 mars 2018"
+                   href="/2018/03/27/">
+                  27 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 mars 2018"
+                   href="/2018/03/29/">
+                  29 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 mars 2018"
+                   href="/2018/03/30/">
+                  30 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-4">avril</a>
+          </h4>
+        </div>
+        <div id="collapse-5-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 avril 2018"
+                   href="/2018/04/02/">
+                  2 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 avril 2018"
+                   href="/2018/04/03/">
+                  3 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 avril 2018"
+                   href="/2018/04/11/">
+                  11 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 avril 2018"
+                   href="/2018/04/13/">
+                  13 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 avril 2018"
+                   href="/2018/04/16/">
+                  16 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 avril 2018"
+                   href="/2018/04/17/">
+                  17 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 avril 2018"
+                   href="/2018/04/19/">
+                  19 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 avril 2018"
+                   href="/2018/04/23/">
+                  23 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 avril 2018"
+                   href="/2018/04/25/">
+                  25 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 avril 2018"
+                   href="/2018/04/30/">
+                  30 avril
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-5">mai</a>
+          </h4>
+        </div>
+        <div id="collapse-5-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 mai 2018"
+                   href="/2018/05/02/">
+                  2 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 mai 2018"
+                   href="/2018/05/07/">
+                  7 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 mai 2018"
+                   href="/2018/05/10/">
+                  10 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 mai 2018"
+                   href="/2018/05/19/">
+                  19 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 mai 2018"
+                   href="/2018/05/21/">
+                  21 mai
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-6">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-5-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 3 juin 2018"
+                   href="/2018/06/03/">
+                  3 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 juin 2018"
+                   href="/2018/06/17/">
+                  17 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 juin 2018"
+                   href="/2018/06/20/">
+                  20 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 juin 2018"
+                   href="/2018/06/25/">
+                  25 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 juin 2018"
+                   href="/2018/06/27/">
+                  27 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 juin 2018"
+                   href="/2018/06/28/">
+                  28 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-7">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-5-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 12 juillet 2018"
+                   href="/2018/07/12/">
+                  12 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 juillet 2018"
+                   href="/2018/07/13/">
+                  13 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 juillet 2018"
+                   href="/2018/07/14/">
+                  14 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 juillet 2018"
+                   href="/2018/07/16/">
+                  16 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 juillet 2018"
+                   href="/2018/07/17/">
+                  17 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 juillet 2018"
+                   href="/2018/07/21/">
+                  21 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 juillet 2018"
+                   href="/2018/07/22/">
+                  22 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 juillet 2018"
+                   href="/2018/07/31/">
+                  31 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-8">août</a>
+          </h4>
+        </div>
+        <div id="collapse-5-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 août 2018"
+                   href="/2018/08/02/">
+                  2 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 août 2018"
+                   href="/2018/08/03/">
+                  3 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 4 août 2018"
+                   href="/2018/08/04/">
+                  4 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 août 2018"
+                   href="/2018/08/05/">
+                  5 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 août 2018"
+                   href="/2018/08/07/">
+                  7 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 août 2018"
+                   href="/2018/08/09/">
+                  9 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 août 2018"
+                   href="/2018/08/10/">
+                  10 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 août 2018"
+                   href="/2018/08/11/">
+                  11 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 août 2018"
+                   href="/2018/08/14/">
+                  14 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 août 2018"
+                   href="/2018/08/15/">
+                  15 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 août 2018"
+                   href="/2018/08/28/">
+                  28 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 août 2018"
+                   href="/2018/08/29/">
+                  29 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 août 2018"
+                   href="/2018/08/30/">
+                  30 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 août 2018"
+                   href="/2018/08/31/">
+                  31 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-9">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-5-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 septembre 2018"
+                   href="/2018/09/04/">
+                  4 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 septembre 2018"
+                   href="/2018/09/06/">
+                  6 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 septembre 2018"
+                   href="/2018/09/09/">
+                  9 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 septembre 2018"
+                   href="/2018/09/12/">
+                  12 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 septembre 2018"
+                   href="/2018/09/14/">
+                  14 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 septembre 2018"
+                   href="/2018/09/17/">
+                  17 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 septembre 2018"
+                   href="/2018/09/20/">
+                  20 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 septembre 2018"
+                   href="/2018/09/21/">
+                  21 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 septembre 2018"
+                   href="/2018/09/22/">
+                  22 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 septembre 2018"
+                   href="/2018/09/23/">
+                  23 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 septembre 2018"
+                   href="/2018/09/28/">
+                  28 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 septembre 2018"
+                   href="/2018/09/30/">
+                  30 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-10">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-5-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 octobre 2018"
+                   href="/2018/10/04/">
+                  4 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 octobre 2018"
+                   href="/2018/10/07/">
+                  7 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 octobre 2018"
+                   href="/2018/10/12/">
+                  12 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 octobre 2018"
+                   href="/2018/10/18/">
+                  18 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 octobre 2018"
+                   href="/2018/10/21/">
+                  21 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 octobre 2018"
+                   href="/2018/10/23/">
+                  23 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 octobre 2018"
+                   href="/2018/10/26/">
+                  26 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 octobre 2018"
+                   href="/2018/10/30/">
+                  30 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 octobre 2018"
+                   href="/2018/10/31/">
+                  31 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-11">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-5-11" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 novembre 2018"
+                   href="/2018/11/02/">
+                  2 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 novembre 2018"
+                   href="/2018/11/03/">
+                  3 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 novembre 2018"
+                   href="/2018/11/05/">
+                  5 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 novembre 2018"
+                   href="/2018/11/12/">
+                  12 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 novembre 2018"
+                   href="/2018/11/14/">
+                  14 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 novembre 2018"
+                   href="/2018/11/16/">
+                  16 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 novembre 2018"
+                   href="/2018/11/22/">
+                  22 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 novembre 2018"
+                   href="/2018/11/26/">
+                  26 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 novembre 2018"
+                   href="/2018/11/29/">
+                  29 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2018">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2018" href="#collapse-5-12">décembre</a>
+          </h4>
+        </div>
+        <div id="collapse-5-12" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 décembre 2018"
+                   href="/2018/12/01/">
+                  1 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 2 décembre 2018"
+                   href="/2018/12/02/">
+                  2 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 décembre 2018"
+                   href="/2018/12/06/">
+                  6 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 décembre 2018"
+                   href="/2018/12/14/">
+                  14 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 décembre 2018"
+                   href="/2018/12/16/">
+                  16 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 décembre 2018"
+                   href="/2018/12/22/">
+                  22 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 décembre 2018"
+                   href="/2018/12/23/">
+                  23 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 décembre 2018"
+                   href="/2018/12/27/">
+                  27 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 décembre 2018"
+                   href="/2018/12/29/">
+                  29 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 décembre 2018"
+                   href="/2018/12/31/">
+                  31 décembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2019" class="year"
+       href="/2019/">2019</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-1">janvier</a>
+          </h4>
+        </div>
+        <div id="collapse-6-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 janvier 2019"
+                   href="/2019/01/02/">
+                  2 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 janvier 2019"
+                   href="/2019/01/05/">
+                  5 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 janvier 2019"
+                   href="/2019/01/09/">
+                  9 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 janvier 2019"
+                   href="/2019/01/11/">
+                  11 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 janvier 2019"
+                   href="/2019/01/13/">
+                  13 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 janvier 2019"
+                   href="/2019/01/16/">
+                  16 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 janvier 2019"
+                   href="/2019/01/23/">
+                  23 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 janvier 2019"
+                   href="/2019/01/24/">
+                  24 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 janvier 2019"
+                   href="/2019/01/26/">
+                  26 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 janvier 2019"
+                   href="/2019/01/28/">
+                  28 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 janvier 2019"
+                   href="/2019/01/30/">
+                  30 janvier
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-2">février</a>
+          </h4>
+        </div>
+        <div id="collapse-6-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 7 février 2019"
+                   href="/2019/02/07/">
+                  7 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 février 2019"
+                   href="/2019/02/10/">
+                  10 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 février 2019"
+                   href="/2019/02/13/">
+                  13 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 février 2019"
+                   href="/2019/02/16/">
+                  16 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 février 2019"
+                   href="/2019/02/20/">
+                  20 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 février 2019"
+                   href="/2019/02/26/">
+                  26 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-3">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-6-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 mars 2019"
+                   href="/2019/03/02/">
+                  2 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 mars 2019"
+                   href="/2019/03/12/">
+                  12 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 mars 2019"
+                   href="/2019/03/15/">
+                  15 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 mars 2019"
+                   href="/2019/03/16/">
+                  16 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 mars 2019"
+                   href="/2019/03/24/">
+                  24 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 mars 2019"
+                   href="/2019/03/25/">
+                  25 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 mars 2019"
+                   href="/2019/03/31/">
+                  31 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-4">avril</a>
+          </h4>
+        </div>
+        <div id="collapse-6-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 7 avril 2019"
+                   href="/2019/04/07/">
+                  7 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 avril 2019"
+                   href="/2019/04/09/">
+                  9 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 avril 2019"
+                   href="/2019/04/11/">
+                  11 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 avril 2019"
+                   href="/2019/04/13/">
+                  13 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 avril 2019"
+                   href="/2019/04/15/">
+                  15 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 avril 2019"
+                   href="/2019/04/18/">
+                  18 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 avril 2019"
+                   href="/2019/04/20/">
+                  20 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 avril 2019"
+                   href="/2019/04/22/">
+                  22 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 avril 2019"
+                   href="/2019/04/24/">
+                  24 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 avril 2019"
+                   href="/2019/04/26/">
+                  26 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 avril 2019"
+                   href="/2019/04/30/">
+                  30 avril
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-5">mai</a>
+          </h4>
+        </div>
+        <div id="collapse-6-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 8 mai 2019"
+                   href="/2019/05/08/">
+                  8 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 mai 2019"
+                   href="/2019/05/15/">
+                  15 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 mai 2019"
+                   href="/2019/05/16/">
+                  16 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 mai 2019"
+                   href="/2019/05/19/">
+                  19 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 mai 2019"
+                   href="/2019/05/25/">
+                  25 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 mai 2019"
+                   href="/2019/05/29/">
+                  29 mai
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-6">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-6-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 3 juin 2019"
+                   href="/2019/06/03/">
+                  3 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 juin 2019"
+                   href="/2019/06/05/">
+                  5 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 juin 2019"
+                   href="/2019/06/07/">
+                  7 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 juin 2019"
+                   href="/2019/06/09/">
+                  9 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 juin 2019"
+                   href="/2019/06/14/">
+                  14 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 juin 2019"
+                   href="/2019/06/18/">
+                  18 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 juin 2019"
+                   href="/2019/06/21/">
+                  21 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 juin 2019"
+                   href="/2019/06/26/">
+                  26 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-7">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-6-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 6 juillet 2019"
+                   href="/2019/07/06/">
+                  6 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 juillet 2019"
+                   href="/2019/07/15/">
+                  15 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 juillet 2019"
+                   href="/2019/07/19/">
+                  19 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 juillet 2019"
+                   href="/2019/07/25/">
+                  25 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 juillet 2019"
+                   href="/2019/07/30/">
+                  30 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-8">août</a>
+          </h4>
+        </div>
+        <div id="collapse-6-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 août 2019"
+                   href="/2019/08/01/">
+                  1 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 août 2019"
+                   href="/2019/08/03/">
+                  3 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 août 2019"
+                   href="/2019/08/08/">
+                  8 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 août 2019"
+                   href="/2019/08/10/">
+                  10 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 août 2019"
+                   href="/2019/08/11/">
+                  11 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 août 2019"
+                   href="/2019/08/13/">
+                  13 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 août 2019"
+                   href="/2019/08/14/">
+                  14 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 août 2019"
+                   href="/2019/08/15/">
+                  15 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 août 2019"
+                   href="/2019/08/16/">
+                  16 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 août 2019"
+                   href="/2019/08/17/">
+                  17 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 août 2019"
+                   href="/2019/08/18/">
+                  18 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 août 2019"
+                   href="/2019/08/24/">
+                  24 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 août 2019"
+                   href="/2019/08/25/">
+                  25 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 août 2019"
+                   href="/2019/08/27/">
+                  27 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 août 2019"
+                   href="/2019/08/31/">
+                  31 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-9">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-6-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 3 septembre 2019"
+                   href="/2019/09/03/">
+                  3 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 septembre 2019"
+                   href="/2019/09/05/">
+                  5 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 septembre 2019"
+                   href="/2019/09/09/">
+                  9 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 septembre 2019"
+                   href="/2019/09/12/">
+                  12 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 septembre 2019"
+                   href="/2019/09/20/">
+                  20 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 septembre 2019"
+                   href="/2019/09/22/">
+                  22 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-10">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-6-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 octobre 2019"
+                   href="/2019/10/02/">
+                  2 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 octobre 2019"
+                   href="/2019/10/06/">
+                  6 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 octobre 2019"
+                   href="/2019/10/07/">
+                  7 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 octobre 2019"
+                   href="/2019/10/10/">
+                  10 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 octobre 2019"
+                   href="/2019/10/11/">
+                  11 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 octobre 2019"
+                   href="/2019/10/13/">
+                  13 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 octobre 2019"
+                   href="/2019/10/20/">
+                  20 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 octobre 2019"
+                   href="/2019/10/23/">
+                  23 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 octobre 2019"
+                   href="/2019/10/30/">
+                  30 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-11">novembre</a>
+          </h4>
+        </div>
+        <div id="collapse-6-11" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 novembre 2019"
+                   href="/2019/11/01/">
+                  1 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 2 novembre 2019"
+                   href="/2019/11/02/">
+                  2 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 novembre 2019"
+                   href="/2019/11/03/">
+                  3 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 5 novembre 2019"
+                   href="/2019/11/05/">
+                  5 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 novembre 2019"
+                   href="/2019/11/07/">
+                  7 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 novembre 2019"
+                   href="/2019/11/11/">
+                  11 novembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 novembre 2019"
+                   href="/2019/11/17/">
+                  17 novembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2019">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2019" href="#collapse-6-12">décembre</a>
+          </h4>
+        </div>
+        <div id="collapse-6-12" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 8 décembre 2019"
+                   href="/2019/12/08/">
+                  8 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 décembre 2019"
+                   href="/2019/12/11/">
+                  11 décembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 décembre 2019"
+                   href="/2019/12/15/">
+                  15 décembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+  <li>
+    <a title="Archives 2020" class="year"
+       href="/2020/">2020</a>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-1">janvier</a>
+          </h4>
+        </div>
+        <div id="collapse-7-1" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 janvier 2020"
+                   href="/2020/01/02/">
+                  2 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 janvier 2020"
+                   href="/2020/01/13/">
+                  13 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 janvier 2020"
+                   href="/2020/01/18/">
+                  18 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 janvier 2020"
+                   href="/2020/01/20/">
+                  20 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 janvier 2020"
+                   href="/2020/01/21/">
+                  21 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 janvier 2020"
+                   href="/2020/01/23/">
+                  23 janvier
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 30 janvier 2020"
+                   href="/2020/01/30/">
+                  30 janvier
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-2">février</a>
+          </h4>
+        </div>
+        <div id="collapse-7-2" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 4 février 2020"
+                   href="/2020/02/04/">
+                  4 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 février 2020"
+                   href="/2020/02/08/">
+                  8 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 février 2020"
+                   href="/2020/02/13/">
+                  13 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 février 2020"
+                   href="/2020/02/17/">
+                  17 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 février 2020"
+                   href="/2020/02/19/">
+                  19 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 février 2020"
+                   href="/2020/02/27/">
+                  27 février
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 février 2020"
+                   href="/2020/02/28/">
+                  28 février
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-3">mars</a>
+          </h4>
+        </div>
+        <div id="collapse-7-3" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 mars 2020"
+                   href="/2020/03/01/">
+                  1 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 7 mars 2020"
+                   href="/2020/03/07/">
+                  7 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 10 mars 2020"
+                   href="/2020/03/10/">
+                  10 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 mars 2020"
+                   href="/2020/03/11/">
+                  11 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 mars 2020"
+                   href="/2020/03/12/">
+                  12 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 mars 2020"
+                   href="/2020/03/13/">
+                  13 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 16 mars 2020"
+                   href="/2020/03/16/">
+                  16 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 mars 2020"
+                   href="/2020/03/18/">
+                  18 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 19 mars 2020"
+                   href="/2020/03/19/">
+                  19 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 mars 2020"
+                   href="/2020/03/21/">
+                  21 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 mars 2020"
+                   href="/2020/03/26/">
+                  26 mars
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 mars 2020"
+                   href="/2020/03/28/">
+                  28 mars
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-4">avril</a>
+          </h4>
+        </div>
+        <div id="collapse-7-4" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 avril 2020"
+                   href="/2020/04/01/">
+                  1 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 3 avril 2020"
+                   href="/2020/04/03/">
+                  3 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 avril 2020"
+                   href="/2020/04/08/">
+                  8 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 avril 2020"
+                   href="/2020/04/09/">
+                  9 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 avril 2020"
+                   href="/2020/04/12/">
+                  12 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 avril 2020"
+                   href="/2020/04/13/">
+                  13 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 avril 2020"
+                   href="/2020/04/14/">
+                  14 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 avril 2020"
+                   href="/2020/04/15/">
+                  15 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 avril 2020"
+                   href="/2020/04/17/">
+                  17 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 avril 2020"
+                   href="/2020/04/18/">
+                  18 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 21 avril 2020"
+                   href="/2020/04/21/">
+                  21 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 23 avril 2020"
+                   href="/2020/04/23/">
+                  23 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 avril 2020"
+                   href="/2020/04/25/">
+                  25 avril
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 avril 2020"
+                   href="/2020/04/28/">
+                  28 avril
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-5">mai</a>
+          </h4>
+        </div>
+        <div id="collapse-7-5" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 mai 2020"
+                   href="/2020/05/02/">
+                  2 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 6 mai 2020"
+                   href="/2020/05/06/">
+                  6 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 17 mai 2020"
+                   href="/2020/05/17/">
+                  17 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 mai 2020"
+                   href="/2020/05/20/">
+                  20 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 mai 2020"
+                   href="/2020/05/22/">
+                  22 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 mai 2020"
+                   href="/2020/05/26/">
+                  26 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 28 mai 2020"
+                   href="/2020/05/28/">
+                  28 mai
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 31 mai 2020"
+                   href="/2020/05/31/">
+                  31 mai
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-6">juin</a>
+          </h4>
+        </div>
+        <div id="collapse-7-6" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 juin 2020"
+                   href="/2020/06/02/">
+                  2 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 4 juin 2020"
+                   href="/2020/06/04/">
+                  4 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 juin 2020"
+                   href="/2020/06/08/">
+                  8 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 juin 2020"
+                   href="/2020/06/15/">
+                  15 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 juin 2020"
+                   href="/2020/06/18/">
+                  18 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 20 juin 2020"
+                   href="/2020/06/20/">
+                  20 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 26 juin 2020"
+                   href="/2020/06/26/">
+                  26 juin
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 29 juin 2020"
+                   href="/2020/06/29/">
+                  29 juin
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-7">juillet</a>
+          </h4>
+        </div>
+        <div id="collapse-7-7" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 juillet 2020"
+                   href="/2020/07/02/">
+                  2 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 9 juillet 2020"
+                   href="/2020/07/09/">
+                  9 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 11 juillet 2020"
+                   href="/2020/07/11/">
+                  11 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 juillet 2020"
+                   href="/2020/07/12/">
+                  12 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 14 juillet 2020"
+                   href="/2020/07/14/">
+                  14 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 15 juillet 2020"
+                   href="/2020/07/15/">
+                  15 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 juillet 2020"
+                   href="/2020/07/24/">
+                  24 juillet
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 27 juillet 2020"
+                   href="/2020/07/27/">
+                  27 juillet
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-8">août</a>
+          </h4>
+        </div>
+        <div id="collapse-7-8" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 2 août 2020"
+                   href="/2020/08/02/">
+                  2 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 4 août 2020"
+                   href="/2020/08/04/">
+                  4 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 13 août 2020"
+                   href="/2020/08/13/">
+                  13 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 22 août 2020"
+                   href="/2020/08/22/">
+                  22 août
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 25 août 2020"
+                   href="/2020/08/25/">
+                  25 août
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-9">septembre</a>
+          </h4>
+        </div>
+        <div id="collapse-7-9" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 10 septembre 2020"
+                   href="/2020/09/10/">
+                  10 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 18 septembre 2020"
+                   href="/2020/09/18/">
+                  18 septembre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 24 septembre 2020"
+                   href="/2020/09/24/">
+                  24 septembre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="panel-group widget-archives-2020">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent=".widget-archives-2020" href="#collapse-7-10">octobre</a>
+          </h4>
+        </div>
+        <div id="collapse-7-10" class="panel-collapse collapse">
+          <div class="panel-body">
+            
+            <ul>
+              
+              <li>
+                
+                <a title="Archives 1 octobre 2020"
+                   href="/2020/10/01/">
+                  1 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 2 octobre 2020"
+                   href="/2020/10/02/">
+                  2 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 8 octobre 2020"
+                   href="/2020/10/08/">
+                  8 octobre
+                </a>
+                
+              </li>
+              
+              <li>
+                
+                <a title="Archives 12 octobre 2020"
+                   href="/2020/10/12/">
+                  12 octobre
+                </a>
+                
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+  </li>
+  
+</ul>
+
+
+</div>
+
+
+
+<div id="widget-flux-rss" class="widget">
+  <p>
+  <a href="/feeds/" class="rss">S'abonner au flux RSS</a>
+</p>
+
+</div>
+
+
+
+
+
+
+
+        </div>
+        <div id="footer" class="legal">
+          <ul id="footer-nav">
+            <li>
+              <a onclick="window.location.assign('http://www.liberation.fr/contacts/');" title="Contacter Libération">
+                Contact
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.espaces-liberation.fr/');" title="Votre publicité sur Libération">
+                Publicité
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.liberation.fr/licence/');" title="Licence d'utilisation de Libération">
+                Licence
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.liberation.fr/donnees-personnelles/');" title="Vos données personnelles sur Libération">
+                Données personnelles
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.liberation.fr/cguv/');" title="Conditions générales de vente de Libération">
+                Conditions générales de vente et d'utilisation
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.pilotsystems.net/');" title="Site hébergé par Pilot Systems">
+                Site hébergé par Pilot Systems
+              </a>
+            </li>
+            <li>
+              <a onclick="window.location.assign('http://www.liberation.fr/rss/');" title="Flux RSS">
+                RSS
+              </a>
+            </li>
+            <li class="copyright">
+              © Libération
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="http://s1.libe.com/bloom/CACHE/js/bcafbed55002.js"></script>
+    
+  
+    
+<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+
+
+<script type="text/javascript">
+$(function() {
+var livefyre_i18n = {
+    signIn: "Identifiez-vous pour commenter",
+    signInGuest: "Se connecter en tant qu'invité",
+    signOut: "Se déconnecter",
+    editProfile: "Editer le profil",
+    siteAdmin: "Administration",
+    postButton: "Poster",
+    postAsButton: "Poster",
+    postEditButton: "Editer",
+    postEditCancelButton: "Annuler l'édition",
+    commentCountLabel: "commentaire",
+    commentCountLabelPlural: "commentaires",
+    listenerCount: "suit la conversation",
+    listenerCountPlural: "suivent la conversation",
+    likeButton: "J'aime",
+    unlikeButton: "Je n'aime plus",
+    editButton: "Editer",
+    replyButton: "Répondre",
+    follow: "Suivre",
+    unfollow: "Ne plus suivre",
+    banUserButton: "Bannir",
+    deleteButton: "Supprimer",
+    flagButton: "Signaler",
+    shareButton: "Partager",
+    sortNewest: "Plus récents",
+    sortOldest: "Plus anciens",
+    sortSeparator: " | ",
+    sortHotThreads: "Hot topics",
+    sortBackButton: "Rétablir",
+    sortTopComments: "Top commentaires",
+    hotThreadsContentNotFoundMsg: "Aucun hot topic trouvé",
+    topCommentsContentNotFoundMsg: "Aucun top commentaire trouvé",
+    topContentRefreshMsg: "Rafraîchir",
+    threadBreakoutButton: "Sortir",
+    banUserTooltip: "Bannir un utilisateur",
+    deleteCommentTooltip: "Supprimer le commentaire",
+    flagCommentTooltip: "Signaler un commentaire",
+    shareCommentTooltip: "Partager un commentaire",
+    banTitle: "Bannir",
+    banConfirmation: "Etes-vous sûr de vouloir bannir l'utilisateur ?",
+    banConfirmButton: "OK",
+    banCancelButton: "Annuler",
+    flagSpam: "Spam",
+    flagOffensive: "Offensant",
+    flagDisagree: "Message biaisé/faux",
+    flagOffTopic: "Hors sujet",
+    flagTitle: "Signaler le commentaire de",
+    flagSubtitle: "Signaler comme",
+    flagEmail: "Email",
+    flagEmailPlaceholder: "vous@example.fr",
+    flagNotes: "Message",
+    flagNotesPlaceholder: "Commencez votre message ici...",
+    flagConfirmButton: "OK",
+    flagCancelButton: "Annuler",
+    flagSuccessMsg: "Message envoyé avec succès.",
+    flagConfirmationMessage: "Votre message a bien été pris en compte.",
+    shareDefaultText: "Regardez le message!",
+    shareTitle: "Partager le commentaire",
+    shareButtonText: "Partager",
+    shareLabel: "Partager sur :",
+    sharePermalink: "Permalien",
+    mentionTitle: "Partager le message avec un ami",
+    mentionSubtitleFacebook: "Partager le message sur compte Facebook de :",
+    mentionSubtitleTwitter: "Partager le message sur compte Twitter de :",
+    mentionDefaultText: "Je viens de te mentionner dans un commentaire sur Livefyre!",
+    mentionConfirmButton: "OK",
+    mentionCancelButton: "Annuler",
+    mentionSuccessMsg: "Message envoyé avec succès.",
+    mentionErrorNoneSelected: "Un ou plusieurs champs n'ont pas été remplis.",
+    mentionErrorGeneral: "Erreur lors de l'envoie de votre message.",
+    timeJustNow: "A l'instant",
+    timeMinutesAgo: "Il y a une minute",
+    timeMinutesAgoPlural: "Il y a quelques minutes",
+    timeHoursAgo: "Il y a une heure",
+    timeHoursAgoPlural: "Il y a quelques heures",
+    timeDaysAgo: "Il y a un jour",
+    timeDaysAgoPlural: "Il y a quelques jours",
+    errorAuthError: "Erreur d'identification",
+    errorCommentsNotAllowed: "Commentaire non autorisé",
+    errorDuplicate: "Votre message a déjà été publié.",
+    errorEditDuplicate: "Même si vous adorez votre commentaire, il est interdit de le poster une seconde fois.",
+    errorEditNotAllowed: "Vous ne pouvez plus éditer votre commentaire.",
+    errorEmpty: "Il semblerait que vous essayiez de poster un commentaire vide.",
+    errorInsufficientPermissions: "Vous n'avez pas toutes les autorisations pour poster ce message.",
+    errorInvalidChar: "Il semblerait que des caractères que vous utilisez ne soient pas autorisés dans les commentaires.",
+    errorLikeOwnComment: "Vous ne pouvez pas aimer votre propre commentaire.",
+    errorMalformed: "",
+    errorMaxChars: "Votre commentaire dépasse le nombre maximum de caractères autorisés.",
+    errorExpired: "Votre message a expiré.",
+    errorEditTimeExceed: "Le délais imparti pour modifier votre commentaire a été dépassé.",
+    errorShowMore: "Erreur lors de la mise à jour.",
+    errorDefault: "Erreur: rafraîchissez la page.",
+    moderator: "Libération",
+    moderatorEditTimeStamp: "Edité",
+    pendingComment: "Votre message est en attente de modération.",
+    showMore: "Afficher plus de commentaires",
+    hovercardViewProfile: "Afficher le profil en entier",
+    customHtmlDialogTitle: "",
+    commentNotifier: "nouveau commentaire",
+    commentNotifierPlural: "nouveaux commentaires",
+    replyButtonSingular: "",
+    replyButtonPlural: "",
+    livechatPostButtonLabel: "Poster",
+    livechatWindowsInstruction: "",
+    livechatOtherInstruction: "",
+    livechatPostEditButton: "Editer",
+    liveblogPostCountLabel: "",
+    liveblogPostCountLabelPlural: "",
+    showMoreLiveblog: "",
+    months: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
+};
+
+var authDelegate = new fyre.conv.RemoteAuthDelegate();
+authDelegate.login = function() {
+   window.location.href = "http://token.liberation.fr/accounts/login/";
+};
+authDelegate.logout = function() {
+   window.location.href = "http://token.liberation.fr/accounts/logout/";
+};
+
+var formatDate = function(theDateInput) {
+  var date = new Date(theDateInput);
+  return date.getDate() + " " + livefyre_i18n["months"][date.getMonth()] + " " + date.getUTCFullYear() + " à " + date.getHours() + ":" + date.getMinutes();
+};
+
+var networkConfig = {
+  network: "liberation.fyre.co",
+  strings: livefyre_i18n,
+  authDelegate: authDelegate
+};
+
+var convConfig = {
+  siteId: "336643",
+  articleId: "blog-54394",
+  el: 'comments_container',
+  collectionMeta: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwOi8vZ2VvZ3JhcGhpZXNlbm1vdXZlbWVudC5ibG9ncy5saWJlcmF0aW9uLmZyaHR0cDovL2dlb2dyYXBoaWVzZW5tb3V2ZW1lbnQuYmxvZ3MubGliZXJhdGlvbi5mci8yMDIwLzEwLzA4L291LWF0dHJhcGUtdC1sZS1jb3ZpZC0xOS8iLCJ0YWdzIjoiIiwiYXJ0aWNsZUlkIjoiYmxvZy01NDM5NCIsInRpdGxlIjoiXCJPXHUwMGY5XCIgYXR0cmFwZS10LW9uIGxlIENvdmlkLTE5ID8ifQ.0rn277yvigdR1f8j-mnj6ExuSI8e3vJqNLWX0X3E_mw",
+  checksum: "a3da006612caa1f1ad8b33f64c737c17",
+  datetimeFormat: formatDate
+}
+
+fyre.conv.load(
+  networkConfig,
+  [convConfig],
+  function (widget) {
+    var is_closed = false;
+    if (libeUserInfo.authenticated) {
+      fyre.conv.login(libeUserInfo.livefyre_token);
+    }
+    widget.on('initialRenderComplete', function() {
+       if (is_closed) {
+          widget.stop();
+          $('#' + 'comments_container').addClass('closed');
+          $('<div class="entry-widgets">' +
+               '<h3>Les commentaires sont fermés.</h3>' +
+           '</div>'
+          ).insertAfter('#comments_container');
+       } else if (libeUserInfo.authenticated) {
+          $('<div class="fyre-moderation-message">' +
+               '<p>Votre commentaire apparaîtra dès validation par le modérateur (généralement en moins de 30 minutes).</p>' +
+               '<p>Cet espace est réservé aux commentaires sur cet article. Vous souhaitez discuter d\'autres sujets ? Rendez-vous sur <a href="http://www.liberation.fr/forums,24">nos forums thématiques</a>. Merci de respecter <a href="http://www.liberation.fr/charte/">notre charte</a>.</p>' +
+           '</div>'
+          ).insertAfter('.fyre-editor:first');
+       };
+    });
+  }
+);
+});
+</script>
+
+  
+
+    
+<!-- chartbeat -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    _sf_async_config.uid = 43601;
+    _sf_async_config.domain = 'liberation.fr';
+    _sf_async_config.authors = "Blog";
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src',(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
+<!-- // chartbeat -->
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41822557-1', 'liberation.fr');
+  ga('send', 'pageview');
+
+</script>
+<!-- // Google Analytics -->
+
+<!-- DEBUT / Xiti / START -->
+<script type="text/javascript">
+function doDashes(str) {
+    var re = /[^a-z0-9]+/gi; // global and case insensitive matching of non-char/non-numeric
+    var re2 = /^-*|-*$/g;     // get rid of any leading/trailing dashes
+    str = str.replace(re, '-');  // perform the 1st regexp
+    return str.replace(re2, '').toLowerCase(); // ..aaand the second + return lowercased result
+}
+var pageTitle=doDashes(document.title);
+xtnv = document;        //parent.document or top.document or document
+xtsd = "http://logliberation";
+xtsite = "381060";
+xtn2 = "46";        // level 2 site
+xtpage = "blogs::Géographies en mouvement";        //page name (with the use of :: to create chapters)
+if (pageTitle.length) {
+  xtpage+="::"+pageTitle;
+} else {
+  xtpage+="::no-title";
+}
+xtdi = "";        //implication degree
+xt_pagetype = "";
+xt_multc = "\u0026x6\u003D5";
+xt_an = ""; xt_ac = "";
+if (window.xtparam!=null){window.xtparam+="&ptype="+xt_pagetype+"&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+        else{window.xtparam="&ptype="+xt_pagetype+"&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+</script>
+<script type="text/javascript" src="http://s1.libe.com/bloom/theme/js/xtcore.js"></script>
+<noscript>
+<img width="1" height="1" src="http://logliberation.xiti.com/hit.xiti?s=381060&amp;s2=46&amp;p=blogs::G%C3%A9ographies%20en%20mouvement::no-js&amp;di=" alt="Géographies en mouvement" />
+</noscript>
+<!-- FIN / Xiti / END -->
+
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </body>
+</html>

@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="es" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="es" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="es" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="es" dir="ltr" prefix="og: http://ogp.me/ns# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta property="og:image" content="https://www.alainet.org/sites/default/files/styles/articulo-ampliada/public/eeuu_aguil.jpg?itok=jARzG8mX" />
+<meta property="og:image:url" content="https://www.alainet.org/sites/default/files/styles/articulo-ampliada/public/eeuu_aguil.jpg?itok=jARzG8mX" />
+<meta property="twitter:image" content="https://www.alainet.org/sites/default/files/styles/articulo-ampliada/public/eeuu_aguil.jpg?itok=jARzG8mX" />
+<link rel="image_src" href="https://www.alainet.org/sites/default/files/styles/articulo-ampliada/public/eeuu_aguil.jpg?itok=jARzG8mX" />
+<link rel="alternate" type="application/rss+xml" title="America Latina en Movimiento - RSS" href="https://www.alainet.org/es/rss.php%3FSeccion%3Dtitulares" />
+<link rel="apple-touch-icon-precomposed" href="https://www.alainet.org/sites/default/files/logo_4.png" type="image/png" />
+<link rel="apple-touch-icon" href="https://www.alainet.org/sites/default/files/logo_3.png" type="image/png" />
+<link rel="shortcut icon" href="https://www.alainet.org/sites/default/files/favicon3_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="1" />
+<meta name="description" content="La pandemia de la COVID-19 ha sido un ejemplo del reflejo desde la fundación de la nación norteña hasta nuestros días, los desvalidos han sido el blanco, miles de muertos son pobres, afroamericanos y emigrantes." />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="abstract" content="La pandemia de la COVID-19 ha sido un ejemplo del reflejo desde la fundación de la nación norteña hasta nuestros días, los desvalidos han sido el blanco, miles de muertos son pobres, afroamericanos y emigrantes." />
+<meta name="robots" content="follow, index" />
+<meta name="news_keywords" content="-Salud, -Historia, Internacional, -Relaciones" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.alainet.org/es/articulo/209249" />
+<link rel="shortlink" href="https://www.alainet.org/es/node/209249" />
+<meta property="og:site_name" content="América Latina en movimiento" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.alainet.org/es/articulo/209249" />
+<meta property="og:title" content="Del Destino Manifiesto a la COVID-19" />
+<meta property="og:description" content="La pandemia de la COVID-19 ha sido un ejemplo del reflejo desde la fundación de la nación norteña hasta nuestros días, los desvalidos han sido el blanco, miles de muertos son pobres, afroamericanos y emigrantes." />
+<meta property="og:image" content="https://www.alainet.org/eeuu_aguil.jpg" />
+<meta property="og:image" content="https://www.alainet.org/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@ALAIinfo" />
+<meta name="twitter:url" content="https://www.alainet.org/es/articulo/209249" />
+<meta name="twitter:title" content="Del Destino Manifiesto a la COVID-19" />
+<meta name="twitter:description" content="La pandemia de la COVID-19 ha sido un ejemplo del reflejo desde la fundación de la nación norteña hasta nuestros días, los desvalidos han sido el blanco, miles de muertos son pobres, afroamericanos y" />
+<title>Del Destino Manifiesto a la COVID-19</title>
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_n_dO-ml1URTPPjxfT3E6g0xcxWxGElnsWj0r5h5lyNY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_da7PgvGLdUQFXSDRRaGIXAhDU1tbjY21KZAMZXtchTM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_smLFPFV1CFxn73B2tfaqft5jeGJ25rvZfnVxLeST52E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_4-eSZgQoO9HCKcvv45GJP6_AZCcZKkDo5xeQNErOQ9E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_rP5iJ-BWw4FVpOe_fVdjUyvLTPm1N_h8l6xOGKgf73Y.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_YjhJHpyaa3xPOF58wJPVOfFVdG1m3hwkYj79sTYYGi0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_IDLbUBarLHQrsNbS5FsdKPr1Q96ISB7QzMR2SFu8mkk.css" media="only screen" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_n611OZNPXVk2TGv4G4ud4GYdCIKNsmuWbGqyVXiJ3RY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_qo_x11mkEE3EEvTNodZbztrCKGy3a4e8O809_pcQy0Q.css" media="only screen" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.alainet.org/sites/default/files/css/css_MS0erZtXCtNc5neoU9ObvR4nB52GdPwRkw5bQya4_5c.css" media="screen" />
+<![endif]-->
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_wKyFX46tVKJtPKN12qNjRfS4aubW4G2u7LK22vlDiKo.js"></script>
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_SqFTYOl3xNpQuVgg6tnL5H4WSqI-IIHOXNwP7OIw3pI.js"></script>
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_4vdKHsdqqN3_sdOaAd9ahT0h0gpaJCUrwTWFKJ0dSpk.js"></script>
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_fOkjHw0MllSO6dy74pBDWUtmCX7PYYzaRlqBhC9C46c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var text_resize_scope = "div.field-item.even";
+          var text_resize_minimum = "12";
+          var text_resize_maximum = "25";
+          var text_resize_line_height_allow = 0;
+          var text_resize_line_height_min = "16";
+          var text_resize_line_height_max = "36";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_556up4An73IDuMNq8GSHPDQP2v9HCMjUqg8N6t2RNEk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-69054-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_kcOiGUTdVToLw1AUJZ2HDkqP5v6AzntTve-yds7vo_c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all();da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"es\/","ajaxPageState":{"theme":"pixture_reloaded","theme_token":"Z2jd36yr0eM5p2JxqqkdoPPL0EcuFCdYVripxgp6wDs","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.accordion.min.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/js\/nice_menus.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/fit_text\/jquery.fittext.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/contrib\/scald_twitter\/scald_twitter.js":1,"public:\/\/languages\/es_OTPGXlr8iTaPmpvT14wpVjDcJH-tvhKPV8QrHIUJVbs.js":1,"sites\/all\/modules\/contrib\/fancybox\/fancybox.js":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.pack.js":1,"sites\/all\/libraries\/fancybox\/lib\/jquery.mousewheel-3.0.6.pack.js":1,"0":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/vscc\/js\/vscc.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/quicktabs\/js\/qt_accordion.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/sidr\/js\/responsive_menus_sidr.js":1,"sites\/all\/libraries\/sidr\/jquery.sidr.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/json2\/json2.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse_results.js":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"6":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/providers\/scald_flash\/scald_flash.css":1,"sites\/all\/modules\/contrib\/scald_pdf\/scald_pdf.css":1,"sites\/all\/modules\/contrib\/scald_twitter\/scald_twitter.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/contrib\/social_buttons\/social_buttons.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.css":1,"sites\/all\/modules\/contrib\/term_reference_tree\/term_reference_tree.css":1,"sites\/all\/modules\/contrib\/vscc\/vscc.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/contrib\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/libraries\/sidr\/stylesheets\/jquery.sidr.light.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/contrib\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/pixture_reloaded\/color\/colors.css":1,"sites\/all\/themes\/pixture_reloaded\/css\/pixture_reloaded.css":1,"sites\/all\/themes\/pixture_reloaded\/css\/pixture_reloaded.settings.style.css":1,"public:\/\/adaptivetheme\/pixture_reloaded_files\/pixture_reloaded.responsive.layout.css":1,"public:\/\/adaptivetheme\/pixture_reloaded_files\/pixture_reloaded.fonts.css":1,"public:\/\/adaptivetheme\/pixture_reloaded_files\/pixture_reloaded.responsive.styles.css":1,"public:\/\/adaptivetheme\/pixture_reloaded_files\/pixture_reloaded.lt-ie9.layout.css":1}},"fancybox":[],"googleCSE":{"cx":"001315171428976469354:07kj9nrjtbi","language":"es","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"jcarousel":{"ajaxPath":"\/es\/jcarousel\/ajax\/views"},"statistics":{"data":{"nid":"209249"},"url":"\/modules\/statistics\/statistics.php"},"better_exposed_filters":{"views":{"articulos_relacionados":{"displays":{"block_8":{"filters":[]},"block_2":{"filters":[]},"block":{"filters":[]},"block_5":{"filters":[]},"block_4":{"filters":[]}}},"vista_publicaciones":{"displays":{"block":{"filters":[]}}},"novedades_en_articulo":{"displays":{"block_1":{"filters":[]},"block":{"filters":[]}}},"categorias":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]},"block_3":{"filters":[]},"block_4":{"filters":[]},"block_5":{"filters":[]}}},"breakingnews":{"displays":{"block":{"filters":[]}}}}},"viewsSlideshow":{"vista_publicaciones-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"novedades_en_articulo-block_1_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0},"breakingnews-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"vista_publicaciones-block_1":{"bottom":{"type":"viewsSlideshowPagerFields","master_pager":"0"}}},"viewsSlideshowPagerFields":{"vista_publicaciones-block_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowControls":{"vista_publicaciones-block_1":{"bottom":{"type":"vsccControls"}},"novedades_en_articulo-block_1_1":{"bottom":{"type":"vsccControls"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_vista_publicaciones-block_1":{"num_divs":8,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"vista_publicaciones-block_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""},"#views_slideshow_cycle_main_novedades_en_articulo-block_1_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"novedades_en_articulo-block_1_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""},"#views_slideshow_cycle_main_breakingnews-block_1":{"num_divs":5,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"breakingnews-block_1","effect":"scrollLeft","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"quicktabs":{"qt_categorias":{"name":"categorias","active_tab":999999,"options":{"autoHeight":1,"collapsible":1},"history":0}},"nice_menus_options":{"delay":"800","speed":"slow"},"responsive_menus":[{"selectors":["#nice-menu-1"],"trigger_txt":"\u2263\u2263","side":"left","speed":"200","media_size":"768","displace":"1","renaming":"1","onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"urlIsAjaxTrusted":{"\/es\/search\/google":true,"\/\/www.google.com\/cse":true},"responsive_dropdown_menus":[],"adaptivetheme":{"pixture_reloaded":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:481px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:480px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]>
+<script src="https://www.alainet.org/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?qhdiht"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-209249 node-type-article i18n-es site-name-hidden atr-7.x-3.x atv-7.x-3.1+1-dev lang-es site-name-américa-latina-en-movimiento section-articulo color-scheme-custom pixture-reloaded bs-n bb-n mb-dd mbp-l rc-0">
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+  </div>
+    <div class="texture-overlay">
+  <div id="page" class="container page ssc-n ssw-n ssa-l sss-n btc-n btw-b bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n">
+
+    <header  id="header" class="clearfix" role="banner">
+      <div class="header-inner clearfix">
+
+                  <!-- start: Branding -->
+          <div  id="branding" class="branding-elements clearfix">
+
+            		             
+              <div class="view view-breakingnews view-id-breakingnews view-display-id-block view-dom-id-60d995490595cac445e697ccbaf6879c">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_breakingnews-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_breakingnews-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_breakingnews-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first rownovedad">
+    
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209318">Tres reafirmaciones en Shenzhen</a></span>  </span></div>
+</div>
+<div id="views_slideshow_cycle_div_breakingnews-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd rownovedad">
+    
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209315">América Latina: Contra las cuerdas de la pandemia</a></span>  </span></div>
+</div>
+<div id="views_slideshow_cycle_div_breakingnews-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd rownovedad">
+    
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209311">¿Qué nos hace humanos?</a></span>  </span></div>
+</div>
+<div id="views_slideshow_cycle_div_breakingnews-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd rownovedad">
+    
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209302">El ‘juicio del siglo’ contra Julian Assange</a></span>  </span></div>
+</div>
+<div id="views_slideshow_cycle_div_breakingnews-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-last views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd rownovedad">
+    
+  <span class="views-field views-field-field-mostrar-pais-en-listado">        <span class="field-content">Uruguay</span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209300">El peligro eran los votos, no las balas</a></span>  </span></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                                      <!-- start: Site name and Slogan hgroup -->
+              <div  class="element-invisible h-group" id="name-and-slogan">
+
+                                  <h1 id="site-name" class="element-invisible" id="site-name"><a href="/es" title="Página de inicio">América Latina en movimiento</a></h1>
+                
+                
+              </div><!-- /end #name-and-slogan -->
+            
+          </div><!-- /end #branding -->
+        
+        <div class="region region-header"><div class="region-inner clearfix"><div id="block-block-3" class="block block-block bloque-alai no-title odd first block-count-1 block-region-header block-3" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p style="text-align: center;"><a href="https://alainet.org/es" target="_self"><img alt="América Latina en Movimiento" title="América Latina en Movimiento" class="media-element file-default image-style-none" data-delta="2" typeof="foaf:Image" src="https://www.alainet.org/sites/default/files/logo-amlat-online-2016-2_0.png" width="350" height="83" /></a></p></div>
+  </div></div><div id="block-google-cse-google-cse" class="block block-google-cse no-title even block-count-2 block-region-header block-google-cse" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content">
+
+  <form action="//www.google.com/cse" method="get" id="google-cse-results-searchbox-form" accept-charset="UTF-8"><div><input type="hidden" name="cx" value="001315171428976469354:07kj9nrjtbi" />
+<input type="hidden" name="cof" value="FORID:0" />
+<div class="form-item form-type-textfield form-item-query">
+  <label for="edit-query">Escriba las palabras clave. </label>
+ <input type="text" id="edit-query" name="query" value="" size="20" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-sa" name="op" value="Buscar" class="form-submit" /><input type="hidden" name="hl" value="es" />
+<input type="hidden" name="ie" value="utf-8" />
+<input type="hidden" name="oe" value="utf-8" />
+<input type="hidden" name="lr" value="lang_es" />
+<input type="hidden" name="form_build_id" value="form-CdL4RJvad2lgwvKMQAe_-tNAF-DGdV39kDNmomTdb0M" />
+<input type="hidden" name="form_id" value="google_cse_results_searchbox_form" />
+</div></form>
+<div id="google-cse-results">
+  <gcse:searchbox-only gname="google_cse"></gcse:searchbox-only>  <noscript>
+    You must enable JavaScript to view the search results.  </noscript>
+</div>
+</div>
+  </div></div><div id="block-block-40" class="block block-block no-title odd last block-count-3 block-region-header block-40" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="idiomas-rss-small" style="float:right;"><a href="/es" target="_self"><img src="https://www.alainet.org/sites/default/files/ES.png" style="margin-left: 0px; margin-top:5px;margin-bottom:5px;margin-right:5px; width: 28px; height: 22px;" /></a> <a href="/en" target="_self"><img src="https://www.alainet.org/sites/default/files/EN.png" style="margin: 5px;  width: 28px; height: 22px;" /></a><a href="/pt" target="_self"><img src="https://www.alainet.org/sites/default/files/PT.png" style="margin: 5px;  width: 28px; height: 22px;" /></a>        <a class="rsbutton" href="https://twitter.com/ALAIinfo" target="_blank"><img alt="" src="/sites/default/files/TWITTER-b.png" style="width: 25px; height: 25px; margin: 5px;" /><img alt="" src="/sites/default/files/TWITTER-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a><a class="rsbutton" href="https://www.facebook.com/America.Latina.en.Movimiento/" target="_blank"><img alt="" src="/sites/default/files/FACEBOOK-b.png" style="margin: 5px; width: 25px; height: 25px;" /><img alt="" src="/sites/default/files/FACEBOOK-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a><a class="rsbutton" href="https://alainet.org/rss.xml" target="_blank"><img alt="" src="/sites/default/files/RSS-b.png" style="margin: 5px; width: 25px; height: 25px;" /><img alt="" src="/sites/default/files/RSS-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a></div></div>
+  </div></div></div></div>
+      </div>
+
+    </header> <!-- /header -->
+
+    <div id="menu-bar" class="nav clearfix"><nav id="block-nice-menus-1" class="block block-nice-menus menu-principal no-title menu-wrapper menu-bar-wrapper clearfix odd first block-count-4 block-region-menu-bar block-1" >  
+  
+  <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-251 menu-path-front first odd  menu-depth-1 menu-item-251"><a href="/es" title="">Inicio</a></li><li class="menu-461 menuparent  menu-path-front  even  menu-depth-1 menu-item-461"><a href="/es" title="">Temas Especiales</a><ul><li class="menu-5394 menu-path-taxonomy-term-2021 first odd  menu-depth-2 menu-item-5394"><a href="/es/temas-especiales/debate-comunicaci%C3%B3n" title="">Comunicación</a></li><li class="menu-865 menu-path-temasx-especiales-crisis-economica  even  menu-depth-2 menu-item-865"><a href="/es/temasx-especiales/crisis-economica" title="">Crisis Economica</a></li><li class="menu-866 menu-path-temasx-especiales-crisis-ambiental  odd  menu-depth-2 menu-item-866"><a href="/es/temasx-especiales/crisis-ambiental" title="">Crisis Ambiental</a></li><li class="menu-890 menu-path-temasx-especiales-guerra-y-paz  even  menu-depth-2 menu-item-890"><a href="/es/temasx-especiales/guerra-y-paz" title="">Guerra y paz</a></li><li class="menu-862 menu-path-temasx-especiales-integracion  odd  menu-depth-2 menu-item-862"><a href="/es/temasx-especiales/integracion" title="">Integracion</a></li><li class="menu-863 menu-path-temasx-especiales-libre-comercio  even  menu-depth-2 menu-item-863"><a href="/es/temasx-especiales/libre-comercio" title="">Libre comercio</a></li><li class="menu-858 menu-path-temasx-especiales-soberania-alimentaria  odd  menu-depth-2 menu-item-858"><a href="/es/temasx-especiales/soberania-alimentaria" title="">Soberania Alimentaria</a></li><li class="menu-864 menu-path-temasx-especiales-mujeres  even  menu-depth-2 menu-item-864"><a href="/es/temasx-especiales/mujeres" title="">Mujeres</a></li><li class="menu-1099 menu-path-temasx-especiales-fsm  odd last menu-depth-2 menu-item-1099"><a href="/es/temasx-especiales/fsm" title="">FSM</a></li></ul></li><li class="menu-463 menuparent  menu-path-front  odd  menu-depth-1 menu-item-463"><a href="/es" title="">Búsquedas</a><ul><li class="menu-2104 menu-path-busqueda-por-fecha first odd  menu-depth-2 menu-item-2104"><a href="/es/busqueda-por-fecha" title="Buscar entre fechas"> por fecha</a></li><li class="menu-2103 menu-path-busqueda-por-pais  even  menu-depth-2 menu-item-2103"><a href="/es/busqueda-por-pais" title="Buscar por país"> por país</a></li><li class="menu-2102 menu-path-busqueda-por-autor  odd last menu-depth-2 menu-item-2102"><a href="/es/busqueda-por-autor" title="Buscar por Autores">por Autor</a></li></ul></li><li class="menu-462 menuparent  menu-path-front  even  menu-depth-1 menu-item-462"><a href="/es" title="">Publicaciones Alai</a><ul><li class="menu-684 menu-path-info-revistas first odd  menu-depth-2 menu-item-684"><a href="/es/info-revistas?field_fecha_de_publicacion_value%255Bvalue%255D%255Byear%255D=2019" title="">Revista</a></li><li class="menu-685 menu-path-node-23  even  menu-depth-2 menu-item-685"><a href="/es/como-adquirir">¿Cómo adquirir?</a></li><li class="menu-1601 menu-path-listado-libros  odd last menu-depth-2 menu-item-1601"><a href="/es/listado-libros" title="">Libros de ALAI</a></li></ul></li><li class="menu-464 menuparent  menu-path-front  odd last menu-depth-1 menu-item-464"><a href="/es" title="">Servicios</a><ul><li class="menu-1101 menu-path-slistasalainetorg-listas-subscribe-alai-amlatina first odd  menu-depth-2 menu-item-1101"><a href="https://listas.alainet.org/listas/subscribe/alai-amlatina" title="">Boletin Alai-AmLatina</a></li><li class="menu-1102 menu-path-rssxml  even  menu-depth-2 menu-item-1102"><a href="/es/rss.php%3FSeccion%3Dtitulares" title="">RSS</a></li><li class="menu-686 menu-path-node-166440  odd last menu-depth-2 menu-item-686"><a href="/es/contactenos" title="Contáctenos">Contacto</a></li></ul></li></ul>
+
+  </nav><div id="block-block-17" class="block block-block no-title menu-wrapper menu-bar-wrapper clearfix even last block-count-5 block-region-menu-bar block-17" >  
+  
+  <div id="idiomas-rss" style="float:right;margin-right:40px;"><a href="/es" target="_self"><img src="https://www.alainet.org/sites/default/files/ES.png" style="margin-left: 0px; margin-top:5px;margin-bottom:5px;margin-right:5px; width: 28px; height: 22px;" /></a> <a href="/en" target="_self"><img src="https://www.alainet.org/sites/default/files/EN.png" style="margin: 5px;  width: 28px; height: 22px;" /></a><a href="/pt" target="_self"><img src="https://www.alainet.org/sites/default/files/PT.png" style="margin: 5px;  width: 28px; height: 22px;" /></a>        <a class="rsbutton" href="https://twitter.com/ALAIinfo" target="_blank"><img alt="" src="/sites/default/files/TWITTER-b.png" style="width: 25px; height: 25px; margin: 5px;" /><img alt="" src="/sites/default/files/TWITTER-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a><a class="rsbutton" href="https://www.facebook.com/America.Latina.en.Movimiento/" target="_blank"><img alt="" src="/sites/default/files/FACEBOOK-b.png" style="margin: 5px; width: 25px; height: 25px;" /><img alt="" src="/sites/default/files/FACEBOOK-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a><a class="rsbutton" href="https://alainet.org/rss.xml" target="_blank"><img alt="" src="/sites/default/files/RSS-b.png" style="margin: 5px; width: 25px; height: 25px;" /><img alt="" src="/sites/default/files/RSS-w.png" style="margin: 5px; width: 25px; height: 25px;" /></a></div>
+  </div></div>
+    <!-- Messages and Help -->
+        
+    <!-- Breadcrumbs -->
+    
+    
+    <!-- Three column 3x33 Gpanel -->
+    
+    <div id="columns">
+      <div class="columns-inner clearfix">
+
+        <div id="content-column">
+          <div class="content-inner">
+
+            
+            <div id="main-content" role="main">
+
+                                          
+                              <div id="content">
+                  <div id="block-system-main" class="block block-system no-title odd first last block-count-6 block-region-content block-main" >  
+  
+  <div class="two-66-33 at-panel panel-display clearfix" >
+    <div class="region region-two-66-33-first">
+    <div class="region-inner clearfix">
+      <div class="panel-pane pane-entity-field pane-node-field-pais bloque_paises no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-field-pais field-type-taxonomy-term-reference field-label-hidden view-mode-_custom_display"><ul class="field-items"><li class="field-item even"><a href="/es/pa%C3%ADses/eeuu" typeof="skos:Concept" property="rdfs:label skos:prefLabel">EEUU</a></li></ul></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-title-field no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-title-field field-type-text field-label-hidden view-mode-_custom_display"><div class="field-items"><div class="field-item even"><h1>Del Destino Manifiesto a la COVID-19</h1>
+</div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-autor no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-field-autor field-type-taxonomy-term-reference field-label-hidden view-mode-_custom_display"><ul class="field-items"><li class="field-item even"><a href="/es/autores/mario-antonio-padilla-torres">Mario Antonio Padilla Torres</a></li></ul></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-node-created no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      08/10/2020    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-addtoany-addtoany-button sharethis-wrapper pane-addtoany no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <span class="a2a_kit a2a_kit_size_23 a2a_target addtoany_list" id="da2a_2">
+      <a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_whatsapp"></a>
+      <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.alainet.org%2Fes%2Farticulo%2F209249&amp;title=Del%20Destino%20Manifiesto%20a%20la%20COVID-19"></a>
+      
+    </span>
+        </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-locale-language-content pane-locale bloques-idiomas-disponibles no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <ul class="language-switcher-locale-url"><li class="es first active"><a href="/es/articulo/209249" class="language-link locale-untranslated active" xml:lang="es"><img class="language-icon image-style-none" typeof="foaf:Image" src="https://www.alainet.org/sites/all/modules/contrib/languageicons/flags/es.png" width="28" height="22" alt="Español" title="Español" /></a></li><li class="en"><span class="language-link locale-untranslated locale-untranslated" xml:lang="en"><img class="language-icon image-style-none" typeof="Image" src="https://www.alainet.org/sites/all/modules/contrib/languageicons/flags/en.png" width="28" height="22" alt="English" title="English" /></span></li><li class="fr"><span class="language-link locale-untranslated locale-untranslated" xml:lang="fr"><img class="language-icon image-style-none" typeof="Image" src="https://www.alainet.org/sites/all/modules/contrib/languageicons/flags/fr.png" width="28" height="22" alt="Français" title="Français" /></span></li><li class="de"><span class="language-link locale-untranslated locale-untranslated" xml:lang="de"><img class="language-icon image-style-none" typeof="Image" src="https://www.alainet.org/sites/all/modules/contrib/languageicons/flags/de.png" width="28" height="22" alt="Deutsch" title="Deutsch" /></span></li><li class="pt last"><span class="language-link locale-untranslated locale-untranslated" xml:lang="pt"><img class="language-icon image-style-none" typeof="Image" src="https://www.alainet.org/sites/all/modules/contrib/languageicons/flags/pt.png" width="28" height="22" alt="Português" title="Português" /></span></li></ul>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-tipo-documento no-title block" id="tipo-docum">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-field-tipo-documento field-type-taxonomy-term-reference field-label-hidden view-mode-_custom_display"><ul class="field-items"><li class="field-item even">Opinión</li></ul></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-image-atom-art no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-field-image-atom-art field-type-atom-reference field-label-hidden view-mode-_custom_display"><div class="field-items"><div class="field-item even"><!-- scald=21987:imagen_principal_articulo --><img typeof="foaf:Image" class="image-style-imagen-principal-articulo" src="https://www.alainet.org/sites/default/files/styles/imagen-principal-articulo/public/eeuu_aguil.jpg?itok=eizaVC0e" width="500" height="328" alt="eeuu_aguil.jpg" title="eeuu_aguil.jpg" /><!-- END scald=21987 --></div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-text-resize-0 pane-text-resize no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body no-title block" id="solotexto">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-_custom_display"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="justify"><strong>Resumen</strong></p><p align="justify"> </p><p align="justify">La historia de los Estados Unidos de América (EUA) es controvertida en su esencia, por una parte, logra un desarrollo industrial, científico y cultural sin precedente y por otro desde su propio nacimiento está teñida de sangre de pueblos originarios, inmigrantes y pobladores nativos de otros países, que fueron arrancados de sus tierras sin palabras mediadoras, solo primó la violencia.</p><p align="justify"> </p><p align="justify">Desde los padres fundadores, nació una cosmovisión triunfalista, chovinista y violenta que conformó al país con una política de despojo, que más adelante se trasnacionalizó como continuidad de una herencia imperial, practicando su política exterior como continuidad de su política doméstica bajo el principio de la cosmovisión del: Mesianismo, Universalismo y el Excepcionalismo.</p><p align="justify"> </p><p align="justify">La COVID -19 presentó la verdadera cara del imperio, resurgieron con más fuerza los verdaderos fundamentos político-filosóficos de este Estado.</p><p align="justify"> </p><p align="justify"><strong>Palabras claves</strong></p><p align="justify"> </p><p align="justify">Padres fundadores, cosmovisión, Mesianismo, Universalismo y el Excepcionalismo, coronavirus, COVID-19.</p><p align="justify"> </p><p align="justify"><strong>Introducción</strong></p><p align="justify"> </p><p align="justify">Los basamentos políticos- filosóficos de la doctrina política de las administraciones norteamericanas desde antes de la fundación de los Estados Unidos de América como Estado hasta nuestros días, están basados en tres cosmovisiones fundamentales: el Mesianismo, Universalismo y el Excepcionalismo.</p><p align="justify"> </p><p align="justify">Desde la llegada de los primeros colonos y más adelante la extensión territorial se fue conformando esa conciencia en sus principales líderes y pensadores, trasmitida al mundo de la época por sus padres fundadores en primer lugar y más adelante por cada presidente hasta nuestros días.</p><p align="justify"> </p><p align="justify">Con este artículo propone describir las propias interpretaciones de las Administraciones estadounidenses sobre su país, presentándose ante el mundo como los salvadores de los principales problemas que se manifiestan en cada rincón del planeta.</p><p align="justify"> </p><p align="justify">Cada presidente de los EUA tiene que dejar su impronta; esto lo identifica como el omnipresente de su época, por lo tanto, dentro de la telaraña de su sistema político, la marca debe ser inconfundible y parte de una historia. Así se educa desde la cuna y se fortalece en cada etapa de la vida, bajo un bombardeo cultural que hace creíble todos sus “héroes”, las verdades a través de las tecnologías de la información y comunicaciones (TICs) y del entretenimiento.</p><p align="justify"> </p><p align="justify">La aparición de la COVID-19 en los EUA, acrecentó la influencia de los fundamentos político-filosóficos de la Administración en el poder. La prepotencia, la arrogancia exteriorizada por los representantes del poder estadounidense es una declaración de esos fundamentos.</p><p align="justify"> </p><p align="justify">Por eso no estamos hablando de algo nuevo cuando el comportamiento del establishment o expresiones antiestabishment como las que se manifiestan en nuestros días reflejan “una superioridad divina” en su praxis nacional e internacional. El pasado ha resurgido, solo ha cambiado el contexto histórico, la nueva revolución científico- técnica y métodos asociados a esto.</p><p align="justify"> </p><p align="justify"><strong>Fundamentos político-filosóficos de la nación norteña</strong></p><p align="justify"> </p><ol><li><p align="justify"><strong>El Mesianismo</strong></p></li></ol><p style="margin-left:1.27cm;" align="justify"> </p><p align="justify">El Mesianismo es una cosmovisión que se relaciona con una particular interpretación de la historia donde el cambio de un estado del desarrollo de una sociedad o grupo de creyentes será originado por la llegada de un Mesías es decir una especie de salvador para la creación de un nuevo mundo. Según la Biblia en el libro II Samuel el mesianismo se torna como una idea que trae la esperanza de la felicidad del mundo donde aparece un dios a favor del pueblo escogido. La idea mesiánica tiene también un semblante intermediario, esto es, vendrá realizada por un Mesías-mediador.</p><p align="justify"> </p><p align="justify">La doctrina del <strong>Destino manifiesto</strong> es un pensamiento dentro de un sistema que expresa la creencia en que Estados Unidos de América es una nación destinada a expandirse por el mundo como la salvadora y mediadora de los problemas que tienen las sociedades.</p><p align="justify"> </p><p align="justify">Esta idea es también usada por ellos, para justificar el despojo de territorios. Los partidarios de esta ideología creen que la expansión no sólo es buena sino también que es el destino patente. La frase pasó a convertirse en una connotación ideológica y posteriormente doctrinaria.</p><p align="justify"> </p><p align="justify">El Destino Manifiesto tiene su origen en la época en que comenzaron a habitar los primeros colonos y granjeros llegados desde Inglaterra y Escocia al territorio de lo que más tarde serían los Estados Unidos de América, los cuales en su mayoría profesaban los cultos puritano y protestante.</p><p align="justify"> </p><p align="justify">El término Destino manifiesto aparece por primera vez en el artículo <em>Diego</em> del periodista John L. O‘Sullivan, publicado en la revista Democratic Review de Nueva York en el número de julio-agosto de 1845. En él se decía:</p><p align="justify">“<em>El cumplimiento de nuestro destino manifiesto es extendernos por todo el continente que nos ha sido asignado por la Providencia, para el desarrollo del gran experimento de libertad y autogobierno. Es un derecho como el que tiene un árbol de obtener el aire y la tierra necesarios para el desarrollo pleno de sus capacidades y el crecimiento que tiene como destino.”</em><sup><em><a href="#sdfootnote1sym" name="sdfootnote1anc" id="sdfootnote1anc"><sup>1</sup></a></em></sup></p><p align="justify"> </p><p align="justify">El historiador norteamericano William E. Weeks ha puesto de manifiesto la existencia de tres temas utilizados por los defensores del <em>Destino Manifiesto</em>:<sup><a href="#sdfootnote2sym" name="sdfootnote2anc" id="sdfootnote2anc"><sup>2</sup></a></sup></p><p align="justify"> </p><p style="margin-left:1.27cm;" align="justify">a. La virtud de las instituciones y los ciudadanos de EUA.</p><p style="margin-left:1.27cm;" align="justify">b. La misión para extender estas instituciones, rehaciendo el mundo a imagen de los EUA.</p><p style="margin-left:1.27cm;" align="justify">c. La decisión de Dios de encomendar a los EUA, la consecución de esa misión.</p><p align="justify"> </p><p align="justify">La descripción del presidente Abraham Lincoln al referirse a su país lo denominó como «la última y mejor esperanza sobre la faz de la Tierra». Lincoln era un puritano, y gran conocedor de los preceptos bíblicos, sus discursos eran casi salmos de un carácter muy convincente para los congresistas de la naciente república unificada. <sup><strong><a href="#sdfootnote3sym" name="sdfootnote3anc" id="sdfootnote3anc"><sup>3</sup></a></strong></sup></p><p align="justify"> </p><p align="justify">El <em>Destino Manifiesto</em> se retomó en el siglo XIX, en el XX renaciendo en nuestro días (siglo XXI, 2017, 2018, 2019), principalmente usada por los Republicanos como una justificación teórica para la expansión estadounidense fuera del territorio y presentar ese país como la cuna del destino de las naciones.</p><p align="justify"> </p><p align="justify">Uno de los ejemplos más claros de la influencia del concepto de <em>Destino Manifiesto</em> se puede apreciar en la declaración del presidente Theodoro Roosevelt en su mensaje anual de 1904.</p><p align="justify">“Si una nación demuestra que sabe actuar con una eficacia razonable y con el sentido de las conveniencias en materia social y política, si mantiene el orden y respeta sus obligaciones, no tiene por qué temer una intervención de los Estados Unidos. La injusticia crónica o la importancia que resultan de un relajamiento general de las reglas de una sociedad civilizada pueden exigir que, en consecuencia, en América o fuera de ella, la intervención de una nación civilizada y, en el hemisferio occidental, la adhesión de los Estados Unidos a la Doctrina Monroe (basada en la frase «<em>América para los americanos</em>») puede obligar a los Estados Unidos, aunque en contra de sus deseos, en casos flagrantes de injusticia o de impotencia, a ejercer un poder de policía internacional.” <sup><strong><a href="#sdfootnote4sym" name="sdfootnote4anc" id="sdfootnote4anc"><sup>4</sup></a></strong></sup></p><p align="justify"> </p><p align="justify">El presidente Woodrow Wilson en 1920 en su mensaje al Congreso, después de la guerra, declaró:</p><p align="justify">“... Yo pienso que todos nosotros comprendemos que ha llegado el día en que la Democracia está sufriendo su última prueba. El Viejo Mundo simplemente está sufriendo ahora un rechazo obsceno del principio de democracia (...). Éste es un tiempo en el que la Democracia debe demostrar su pureza y su poder espiritual para prevalecer. Es ciertamente el destino manifiesto de los Estados Unidos, realizar el esfuerzo por hacer que este espíritu prevalezca”.<sup><a href="#sdfootnote5sym" name="sdfootnote5anc" id="sdfootnote5anc"><sup>5</sup></a></sup></p><p align="justify">Otra de sus frases célebres es la siguiente: “Dios creó al mundo y, para gobernarlo, a los Estados Unidos. “<sup><a href="#sdfootnote6sym" name="sdfootnote6anc" id="sdfootnote6anc"><sup>6</sup></a></sup></p><p align="justify"> </p><p align="justify">La Doctrina del Destino Manifiesto no ha dejado de existir, la creencia de los que dirigen la Administración Trump de que “América primero” (refiriéndose a Estados Unidos de América) es una expresión de sentirse el Mesías y decisor en todos los territorios del orbe.</p><p align="justify"> </p><p align="justify">No existe un territorio donde de una forma u otra esté la mano de los Estados Unidos, las aspiraciones de ser supremo renacen como aquel imperio donde sus Cesares podían hacer del mundo lo que quisieran bajo las efigies de los dioses.</p><p align="justify"> </p><ol><li value="2"><p align="justify"><strong>El universalismo</strong></p></li></ol><p style="margin-left:1.27cm;" align="justify"> </p><p align="justify">El Universalismo, en sentido general, es una idea o creencia en la existencia de una verdad universal, que lo determina todo, y que, por lo tanto, es y debe estar presente igualmente en todos los seres humanos. Un pensamiento universalista asegura la veracidad de una forma única o específica de ver, explicar u organizar las cosas.</p><p align="justify"> </p><p align="justify">El universalismo es una cosmovisión, una característica única en la forma de traducir e interpretar la realidad lo cual permitiría ver el mundo, o la vida en su totalidad, en base a un paradigma común.</p><p align="justify"> </p><p align="justify">El universalismo político es entendido como un tipo de doctrina que aboga por la unificación de todos los poderes e instituciones mundiales bajo una sola cabeza o forma de organización. Ejemplos de universalismo a nivel político y/o cultural incluyen los diversos imperios.</p><p align="justify"> </p><p align="justify">El universalismo político como doctrina o característica del Estado ha estado presente en muchas naciones del mundo antiguo. Con la extensión del imperio Otomano y el establecimiento político de los califatos, el universalismo musulmán tomó un carácter político que sigue presente en países mediorientales de mayoría musulmana.</p><p align="justify"> </p><p align="justify">Con la llegada de la Ilustración y el reforzamiento del modelo clásico y romano, la idea de un gobierno mundial volvió a cobrar fuerza en algunos sectores. Las invasiones de Napoleón y la constitución del Primer Imperio Francés en su base teórica es un ejemplo de universalismo político.</p><p align="justify"> </p><p align="justify">En 1801 el Presidente Thomas Jefferson expresó “Aunque nuestros actuales intereses nos restrinjan dentro de nuestros límites, es imposible dejar de prever lo que vendrá cuando nuestra rápida multiplicación se extienda más allá de dichos límites, hasta cubrir por entero el continente del Norte, si no es que también el del Sur, con gente hablando el mismo idioma, gobernada en forma similar y con leyes similares…”<a href="#sdfootnote7sym" name="sdfootnote7anc" id="sdfootnote7anc"><sup>7</sup></a></p><p align="justify"> </p><p align="justify">Durante el siglo XVIII y XIX las ideas de la Ilustración y el Iluminismo también llegó a América la ocupación de territorios y las relaciones con las ideas francesas (aliadas en ocasiones de las norteamericanas) fueron inculcándose en los pueblos y gobiernos que nacían en ese territorio. El desarrollo industrial antes de la primera guerra mundial la época de la postguerra fortaleció la concepción del Universalismo político en Estados Unidos de América.</p><p align="justify"> </p><p align="justify">Ahí está la universalidad que se caracteriza por la ampliación en territorios y ocuparlos indicándoles el camino y el sueño estadounidense y donde prime la cultura del sajón, pensamientos que se han mantenido hasta nuestros días.</p><p align="justify"> </p><ol><li value="3"><p align="justify"><strong>El Excepcionalismo</strong></p></li></ol><p style="margin-left:1.27cm;" align="justify"> </p><p align="justify">El Excepcionalismo humano hace referencia a una creencia que los seres humanos tienen un estatus especial en la naturaleza, basado en sus capacidades únicas. Esta creencia es la fundación de varios conceptos naturalistas de los derechos humanos.</p><p align="justify"> </p><p align="justify">Los proponentes religiosos del Excepcionalismo humano basan la creencia en los libros sagrados, como el versículo 1:26 en Génesis:</p><p align="justify">“<em>Y dijo Dios: Ahora hagamos al hombre. Se parecerá a nosotros, y tendrá poder sobre los peces, sobre las aves, los animales domesticados y los salvajes, y sobre los que se arrastran por el suelo”</em> .</p><p align="justify"> </p><p align="justify">El excepcionalismo estadounidense o excepcionalismo americano es la teoría que promueve que Estados Unidos es cualitativamente diferente a otras naciones o la actitud que las reglas que generalmente se aplican a otras naciones no se aplican en el caso de Estados Unidos.</p><p align="justify"> </p><p align="justify">La política exterior de los Estados Unidos, su comportamiento en el entramado de las relaciones internacionales, es el resultado de un proceso de elaboración compleja, de grandes debates contradictorios, pero responde a los intereses de los grandes poderes “ocultos” e intereses de las grandes transnacionales.</p><p align="justify"> </p><p align="justify">Ellos venden al mundo los poderes tripartitos con sus características (el ejecutivo, legislativo y judicial), más el papel de la sociedad civil, grupos de presión, electorados, think tank (tanques pensantes), pero el poder económico, político, cultural, comercial y financiero son los que marcan lo excepcional de este país prácticamente desde su surgimiento.</p><p align="justify"> </p><p align="justify">Los fundamentos político- filosóficos que hemos presentado nos demuestran el pensamiento imperialista del gobierno de los Estados Unidos de América. Si transitáramos por la historia del orbe nos daríamos cuenta cuantos ejemplos existen de la verdadera cara de las administraciones norteamericanas desde la época de los padres fundadores de esta nación hasta el pensamiento del presidente Donald Trump y sus acólitos.</p><p align="justify"> </p><p align="justify"><strong>La pandemia de la COVID-19 en EUA</strong></p><p align="justify"> </p><p align="justify">Al valorar en la actualidad el comportamiento de los EUA, es imposible dejar de tener en cuenta los anteriores fundamentos político-filosóficos, porque ellos nos dan las bases para comprender el presente, partiendo del papel de la historia en la formación de las naciones.</p><p align="justify"> </p><p align="justify">La batalla contra el nuevo coronavirus es un ejemplo de cómo estos fundamentos están enraizados en la conciencia de los políticos norteamericanos que están al frente del gobierno o apoyan el mismo; la práctica de la prepotencia, el fanatismo y el pensamiento obstinado proporcionaron un infortunio en ese pueblo.</p><p align="justify"> </p><p align="justify">Las teorías de conspiración son parte de la doctrina político-filosófica, manifestadas en proporcionar la duda ante la pandemia y culpar a otros por salvar la debacle en los EUA. El paciente cero todavía está en duda, sus propios científicos han considerado la responsabilidad estadounidense.<sup><a href="#sdfootnote8sym" name="sdfootnote8anc" id="sdfootnote8anc"><sup>8</sup></a></sup></p><p align="justify"> </p><p align="justify">La protección de los norteamericanos se demostró que era insuficiente, fundamentalmente los más pobres han tenido una historia llena de adversidades. Los servicios médicos no reaccionaron con inmediatez ante la pandemia y aun el propio presidente considera que se actuó cuando había que hacerlo, que la culpa de todo el sufrimiento del pueblo estadounidense la tiene China que fue la que transmitió el virus.</p><p align="justify"> </p><p align="justify">El 21 de enero se detecta el primer caso de coronavirus en los EUA, el 11 de marzo ya tiene 975 de contagiados y 30 muertos. A pesar de los casos de contagios que crecían de forma exponencial, la administración no le dio la importancia necesaria, comenzando así una tragedia que aun no ha terminado.<sup><a href="#sdfootnote9sym" name="sdfootnote9anc" id="sdfootnote9anc"><sup>9</sup></a></sup></p><p align="justify"> </p><p align="justify">El 30 de septiembre ya los EUA tenían 7.191.349 contagiados y 206.005 muertos y solo el 29 de septiembre hubo 871 decesos. A pesar del desarrollo científico - tecnológico y de la preparación del capital humano el salto dado por contagios y muertes ha sido sorprendente. El país más desarrollado del mundo daba muestras de su incapacidad para afrontar la pandemia. Lo más interesante que el gabinete ministerial asumía era la culpa de los chinos, no reconociendo así su inoperancia, ya que esto significaría presentarse ante el mundo como el país menos eficiente, entonces el sueño americano dejaría de existir.<sup><a href="#sdfootnote10sym" name="sdfootnote10anc" id="sdfootnote10anc"><sup>10</sup></a></sup></p><p align="justify"> </p><p align="justify">Hoy a pesar de las desgracias por la que ha pasado ese pueblo sus gobernantes no tienen conciencia de la situación del país: se desarrolla el racismo y la xenofobia y la segregación más que nunca, se enaltece el sueño americano como potencia única de salir adelante, se apartan de organismos multilaterales porque todavía se consideran los únicos, los exclusivos y sancionan a otros porque no se cumplen sus exigencias.</p><p align="justify"> </p><p align="justify">En cada acción, en cada análisis que se realiza en cualquier esfera esa Administración están implícitos los fundamentos políticos filosóficos que vienen desde sus Padres fundadores: el Mesianismo, el Universalismo y Excepcionalismo. No hay nada nuevo, solo es la forma de expresar lo que llevan dentro.</p><p align="justify"> </p><p align="justify">En este contexto, una de las cosas más graves es el desarrollo de un terrorismo hacia el interior del país, basado en el Malthusianismo. Es así que, el terrorismo hacia el interior se ha promovido. En tal sentido vale la pena recordar la teoría demográfica del Malthusianismo, desarrollada por el economista británico Thomas Malthus (1766-1834) durante la revolución industrial, según la cual el ritmo de <a href="zim://A/Crecimiento_de_la_poblaci%C3%B3n.html" target="Crecimiento de la población">crecimiento de la población</a> responde a una <a href="zim://A/Progresi%C3%B3n_geom%C3%A9trica.html" target="Progresión geométrica">progresión geométrica</a>, mientras que el ritmo de aumento de los recursos para su supervivencia lo hace en <a href="zim://A/Progresi%C3%B3n_aritm%C3%A9tica.html" target="Progresión aritmética">progresión aritmética</a>. Por esta razón, de no intervenir obstáculos represivos (hambre, guerras, pandemias, etc.), el <a href="zim://A/Natalidad.html" target="Natalidad">nacimiento de nuevos seres</a> aumentaría la pauperización gradual de la especie humana e incluso podría provocar su <a href="zim://A/Extinci%C3%B3n.html" target="Extinción">extinción</a> -lo que se ha denominado <a href="zim://A/Cat%C3%A1strofe_malthusiana.html" target="Catástrofe malthusiana">catástrofe malthusiana</a>.<sup><a href="#sdfootnote11sym" name="sdfootnote11anc" id="sdfootnote11anc"><sup>11</sup></a></sup></p><p align="justify"> </p><p align="justify">Lo segundo es la ingobernabilidad, pequeños elementos de implosión y un silencioso secesionismo que se está desarrollando debido a la falta del pensamiento federal, al abandono de los Estados en momentos difíciles de la pandemia, a la expresión de lucha entre partidos en pleno combate del desarrollo de la COVID-19.</p><p align="justify"> </p><p align="justify">¿Hacia dónde irá este país y hacia donde lleva al mundo? Es peligroso el momento, EUA es una potencia nuclear de primer nivel, posee armamentos de corto, mediano y largo alcance, una enorme Fuerzas Armadas múltiples, que pueden crear un cataclismo en breve tiempo y de incalculable magnitud.</p><p align="justify"> </p><p align="justify"><strong>Conclusiones</strong></p><p align="justify"> </p><p align="justify">El conocimiento de los fundamentos cosmovisivos de las administraciones norteamericanas, nos ayuda a comprender la esencia misma del nacimiento y desarrollo de los EUA, así como su política exterior articulada con su visión doméstica<strong>.</strong></p><p align="justify"> </p><p align="justify">La nación norteña ha demostrado a través de su historia y sus líderes la verdadera esencia de los EUA de hoy en día, el cual lucha por cumplir el principio de “América First”, sin importar a que costo, contra quien y en defensa solo del sentido de pertenencia de ese país.</p><p align="justify"> </p><p align="justify">El comportamiento violento de su extensión hacia el oeste en el siglo XIX, la conformación de un estado multiétnico, multirracial, multicultural y de creencias religiosas, han sido estadios que a través de su historia presenta Norteamérica. Hoy en pleno siglo XXI persiste la violencia que ya por su creencia de ser un país único, no solo se practica en el interior del país, sino que promueve el mito de que serán los salvadores de la humanidad.</p><p align="justify"> </p><p align="justify">La pandemia de la COVID-19 ha sido un ejemplo del reflejo desde la fundación de la nación norteña hasta nuestros días, los desvalidos han sido el blanco, miles de muertos son pobres, afroamericanos y emigrantes.</p><p align="justify"> </p><p align="justify">La actual Administración no quiere entender lo que sucede en su país, las deudas con las grandes trasnacionales en las esferas económicas y morales fundamentalmente, son parte de las culpas que los ata y evitan los movimientos para poder solucionar los problemas que posee el país.</p><p align="justify"> </p><p align="justify"> </p><p align="justify"><strong>Mario Antonio Padilla Torres</strong> es Dr. en Ciencias Filosóficas, Universidad de la Habana, Máster en Ciencias Históricas, está Diplomado en Cultura, Licenciado en Ciencias Políticas, es Profesor e Investigador Titular. Se desempeña como Secretario Académico y Jefe del Proyecto sobre el Terrorismo internacional del Centro de Investigaciones de Política Internacional (CIPI) de la República de Cuba. Es especialistas en temas globales y de teoría de las relaciones internacionales, actualmente es colaborador de Comunicación Política. Imparte docencia en diferentes universidades del país, en cursos de Maestría, Diplomados y estudios socioculturales. Es miembro permanente del Tribunal de Filosofía de la República de Cuba, miembro del Consejo Editorial de las revistas “Estudios Estratégicos” del CIPI, y de la de “Política Internacional” del Instituto Superior de Relaciones Internacionales de la República de Cuba.</p><p align="justify"> E-mail: <a href="mailto:padilla@cipi.cu"><u>padilla@cipi.cu</u></a> <a href="mailto:marioapt1959@gmail.com"><u>marioapt1959@gmail.com</u></a> <a href="mailto:Marite.ortiz@infomed.sld.cu"><u>Marite.ortiz@infomed.sld.cu</u></a></p><p align="justify">ORCID iD: 0000-0002-5244-7846</p><p align="justify"> </p><p align="justify"><strong>Bibliografía.</strong></p><p style="margin-left:1.27cm;" align="justify">1. Balance mundial de la pandemia del nuevo coronavirus y mapamundi con el número de muertes por país, al 30 de septiembre a las 11H00 GMT afp_tickers consultar: <u><a href="https://www.swissinfo.ch/spa/al-menos-1.012-093-muertos-por-covid-19-en-el-mundo--balance-afp-a-las-11h00-gmt-/46067734"><strong>https://www.swissinfo.ch/spa/al-menos-1.012-093-muertos-por-covid-19-en-el-mundo--balance-afp-a-las-11h00-gmt-/46067734</strong></a></u></p><h3 align="justify">2. Blum William. Estado villano. Casa Editorial Abril, L Habana, 2005.</h3><p style="margin-left:1.27cm;" align="justify">3. Discurso de Gettysburg Fuente:<br /><u><a href="https://fundacionfaes.org/es/prensa/45839/lincoln-en-gettysburg-150-anos-del-discurso-que-cambio-la-historia-de-ee-uu">https://fundacionfaes.org/es/prensa/45839/lincoln-en-gettysburg-150-anos-del-discurso-que-cambio-la-historia-de-ee-uu</a></u><br /><u><a href="http://www.riosdetinta.com/documentos/temas/file115.pdf">http://www.riosdetinta.com/documentos/temas/file115.pdf</a></u><br /><u><a href="https://medium.com/@FrankEliasOlivaresValenzuela/el-discurso-de-gettysburg-29d210277491">https://medium.com/@FrankEliasOlivaresValenzuela/el-discurso-de-gettysburg-29d2102774</a></u></p><p style="margin-left:1.25cm;" align="justify"><u><a href="http://blog.speakersconcierge.mx/discurso-de-gettysburg/">http://blog.speakersconcierge.mx/discurso-de-gettysburg/</a></u></p><p style="margin-left:1.25cm;" align="justify"><u><a href="https://www.mundifrases.com/frases-de/woodrow-wilson/">https://www.mundifrases.com/frases-de/woodrow-wilson/</a></u></p><p style="margin-left:1.25cm;" align="justify"> </p><p style="margin-left:1.25cm;" align="justify">4. Editorial Capitán San Luis. El gigante de las siete leguas. Cuba. 2010.</p><p style="margin-left:1.25cm;" align="justify"> </p><h3 align="justify">5. Fung Riverón Talía. La ciencia política enfoque sur, desde la Revolución Cubana. Editora Política. La Habana, 2014.</h3><h3 align="justify">6. García Iturbe Néstor. Estados Unidos de Raíz. Centro de Estudios Martianos, La Habana, 2007.</h3><p style="margin-left:1.25cm;" align="justify">7. Jofre Leal Pablo. El Destino Manifiesto Como Mito (Parte I) consultar: <u><a href="https://www.telesurtv.net/bloggers/El-Destino-Manifiesto-Como-Mito-Parte-I-20200820-0003.html">https://www.telesurtv.net/bloggers/El-Destino-Manifiesto-Como-Mito-Parte-I-20200820-0003.html</a></u></p><p style="margin-left:1.25cm;" align="justify">8. La filosofía de Woodrow Wilson última actualización 22 de Mayo 2020</p><p style="margin-left:1.25cm;" align="justify"><u><a href="http://www.historicas.unam.mx/publicaciones/revistas/moderna/vols/ehmc11/142.pdf">http://www.historicas.unam.mx/publicaciones/revistas/moderna/vols/ehmc11/142.pdf</a></u>.</p><p style="margin-left:1.25cm;" align="justify"><u><a href="https://citas.in/frases-de-dios/" target="Frases de Dios">De Dios</a></u>, <u><a href="https://citas.in/frases-de-mundo/" target="Frases de mundo">De mundo</a></u></p><p style="margin-left:1.25cm;" align="justify"><u><a href="https://citas.in/frases/2022728-woodrow-wilson-dios-creo-al-mundo-y-para-gobernarlo-a-los-estad/">https://citas.in/frases/2022728-woodrow-wilson-dios-creo-al-mundo-y-para-gobernarlo-a-los-estad/</a></u></p><h3 align="justify">9. La Biblia. Dios habla hoy. Sociedades Bíblicas Unidas, México DF. 1987.</h3><h3 align="justify">10. Padilla Torres Mario Antonio “El paciente cero. Seis meses después” consultar en: <u><a href="https://www.alainet.org/es/articulo/208129">https://www.alainet.org/es/articulo/208129</a></u></h3><p style="margin-left:1.25cm;" align="justify">11. --------------------------------------------“Coronavirus y terrorismo. Incertidumbres futuras”</p><p style="margin-left:1.25cm;" align="justify">Consultar: <a href="https://www.alainet.org/es/articulo/206786">https://www.alainet.org/es/articulo/206786</a></p><h3 align="justify">12. Perry Anderson 1977 La cultura represiva (Elementos de la cultura nacional británica)</h3><p style="margin-left:1.25cm;" align="justify">written by <u><a href="http://sepiensa.org.mx/author/mkt/">mkt</a></u> October 26, 2016</p><p style="margin-left:1.25cm;" align="justify"><u><a href="http://sepiensa.org.mx/contenidos/historia_mundo/siglo_xx/eua/destino_man/des_man1a.htm">http://sepiensa.org.mx/contenidos/historia_mundo/siglo_xx/eua/destino_man/des_man1a.htm</a></u></p><p style="margin-left:1.25cm;" align="justify"> </p><p style="margin-left:1.25cm;" align="justify"> </p><p style="margin-left:1.25cm;" align="justify">2006.</p><div id="sdfootnote1"><p><a href="#sdfootnote1anc" name="sdfootnote1sym" id="sdfootnote1sym">1</a> written by <u><a href="http://sepiensa.org.mx/author/mkt/">mkt</a></u> October 26, 2016 consultar:</p><p align="justify"><u><a href="http://sepiensa.org.mx/contenidos/historia_mundo/siglo_xx/eua/destino_man/des_man1a.htm">http://sepiensa.org.mx/contenidos/historia_mundo/siglo_xx/eua/destino_man/des_man1a.htm</a></u></p><p> </p></div><div id="sdfootnote2"><h1><a href="#sdfootnote2anc" name="sdfootnote2sym" id="sdfootnote2sym">2</a> Destino manifiesto - Manifest destiny</h1><p>De Wikipedia, la enciclopedia libre</p><p><u><a href="https://es.qwe.wiki/wiki/Manifest_destiny">https://es.qwe.wiki/wiki/Manifest_destiny</a></u></p></div><div id="sdfootnote3"><p><a href="#sdfootnote3anc" name="sdfootnote3sym" id="sdfootnote3sym">3</a> <strong>Fuente: Discurso de Gettysburg </strong><br /><u><a href="https://fundacionfaes.org/es/prensa/45839/lincoln-en-gettysburg-150-anos-del-discurso-que-cambio-la-historia-de-ee-uu">https://fundacionfaes.org/es/prensa/45839/lincoln-en-gettysburg-150-anos-del-discurso-que-cambio-la-historia-de-ee-uu</a></u><br /><u><a href="http://www.riosdetinta.com/documentos/temas/file115.pdf">http://www.riosdetinta.com/documentos/temas/file115.pdf</a></u><br /><u><a href="https://medium.com/@FrankEliasOlivaresValenzuela/el-discurso-de-gettysburg-29d210277491">https://medium.com/@FrankEliasOlivaresValenzuela/el-discurso-de-gettysburg-29d2102774</a></u></p><p align="justify"><u><a href="http://blog.speakersconcierge.mx/discurso-de-gettysburg/">http://blog.speakersconcierge.mx/discurso-de-gettysburg/</a></u></p></div><div id="sdfootnote4"><p align="justify"><a href="#sdfootnote4anc" name="sdfootnote4sym" id="sdfootnote4sym">4</a> Pablo Jofre Leal. El Destino Manifiesto Como Mito (Parte I) consultar: <u><a href="https://www.telesurtv.net/bloggers/El-Destino-Manifiesto-Como-Mito-Parte-I-20200820-0003.html">https://www.telesurtv.net/bloggers/El-Destino-Manifiesto-Como-Mito-Parte-I-20200820-0003.html</a></u></p><p> </p></div><div id="sdfootnote5"><p align="justify"><a href="#sdfootnote5anc" name="sdfootnote5sym" id="sdfootnote5sym">5</a> <u><a href="https://www.mundifrases.com/frases-de/woodrow-wilson/">https://www.mundifrases.com/frases-de/woodrow-wilson/</a></u></p><p> </p></div><div id="sdfootnote6"><p><a href="#sdfootnote6anc" name="sdfootnote6sym" id="sdfootnote6sym">6</a> Fuente: La filosofía de Woodrow Wilson última actualización 22 de Mayo 2020</p><p><u><a href="http://www.historicas.unam.mx/publicaciones/revistas/moderna/vols/ehmc11/142.pdf">http://www.historicas.unam.mx/publicaciones/revistas/moderna/vols/ehmc11/142.pdf</a></u>.</p><p><u><a href="https://citas.in/frases-de-dios/" target="Frases de Dios">De Dios</a></u>, <u><a href="https://citas.in/frases-de-mundo/" target="Frases de mundo">De mundo</a></u></p><p align="justify"><u><a href="https://citas.in/frases/2022728-woodrow-wilson-dios-creo-al-mundo-y-para-gobernarlo-a-los-estad/">https://citas.in/frases/2022728-woodrow-wilson-dios-creo-al-mundo-y-para-gobernarlo-a-los-estad/</a></u></p><p> </p></div><div id="sdfootnote7"><p><a href="#sdfootnote7anc" name="sdfootnote7sym" id="sdfootnote7sym">7</a>Editorial Capitán San Luis “El gigante de las siete leguas”., 2010, p. 22</p></div><div id="sdfootnote8"><p><a href="#sdfootnote8anc" name="sdfootnote8sym" id="sdfootnote8sym">8</a> Mario Antonio Padilla Torres. “El paciente cero. Seis meses después” consultar en: <u><a href="https://www.alainet.org/es/articulo/208129">https://www.alainet.org/es/articulo/208129</a></u></p><p> </p></div><div id="sdfootnote9"><p align="justify"><a href="#sdfootnote9anc" name="sdfootnote9sym" id="sdfootnote9sym">9</a> Balance mundial de la pandemia del nuevo coronavirus y mapamundi con el número de muertes por país, al 30 de septiembre a las 11H00 GMT afp_tickers consultar: <u><a href="https://www.swissinfo.ch/spa/al-menos-1.012-093-muertos-por-covid-19-en-el-mundo--balance-afp-a-las-11h00-gmt-/46067734"><strong>https://www.swissinfo.ch/spa/al-menos-1.012-093-muertos-por-covid-19-en-el-mundo--balance-afp-a-las-11h00-gmt-/46067734</strong></a></u></p><p> </p></div><div id="sdfootnote10"><p align="justify"><a href="#sdfootnote10anc" name="sdfootnote10sym" id="sdfootnote10sym">10</a> Ídem.</p><p align="justify"><br /> </p><p align="justify"><br /> </p><p> </p></div><div id="sdfootnote11"><p><a href="#sdfootnote11anc" name="sdfootnote11sym" id="sdfootnote11sym">11</a> Mario Antonio Padilla Torres. “<strong>Coronavirus y terrorismo. Incertidumbres futuras”</strong></p><p>Consultar: <u><a href="https://www.alainet.org/es/articulo/206786">https://www.alainet.org/es/articulo/206786</a></u></p><p> </p><p> </p><p> </p></div></div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-token pane-node-url no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      https://www.alainet.org/es/articulo/209249    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-addtoany-addtoany-button pane-addtoany no-title block" id="add-to-any">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <span class="a2a_kit a2a_kit_size_23 a2a_target addtoany_list" id="da2a_3">
+      <a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_whatsapp"></a>
+      <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.alainet.org%2Fes%2Farticulo%2F209249&amp;title=Del%20Destino%20Manifiesto%20a%20la%20COVID-19"></a>
+      
+    </span>
+        </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><section class="panel-pane pane-views pane-articulos-relacionados block">
+  <div class="block-inner clearfix">
+    
+              <h2 class="pane-title block-title">Del mismo autor</h2>
+        
+    
+    <div class="block-content">
+      <div class="view view-articulos-relacionados view-id-articulos_relacionados view-display-id-block_2 view-dom-id-cbb7a1bc302e88b8409e1ea321cd74bd">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/209249" class="active">Del Destino Manifiesto a la COVID-19</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">08/10/2020</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/209032">El “virus” del hambre y la COVID -19</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">24/09/2020</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/208746">¿Hacia dónde vamos? Una visión reflexiva y futura mundial</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">02/09/2020</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/208616">“La droga y la COVID-19 en E.U.A, en tiempos internacionales convulsos”</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">25/08/2020</span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/208129">“El paciente cero. Seis meses después”</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">28/07/2020</span>  </span></li>
+          <li class="views-row views-row-6 views-row-even relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/207826">La Covid-19, el racismo y la xenofobia</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">13/07/2020</span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/207560">La politización del coronavirus</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">30/06/2020</span>  </span></li>
+          <li class="views-row views-row-8 views-row-even relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/207143">Los médicos cubanos en el mundo ante la COVID-19</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">10/06/2020</span>  </span></li>
+          <li class="views-row views-row-9 views-row-odd views-row-last relacionados-final-art">  
+  <span class="views-field views-field-title-field">        <span class="field-content"><a href="/es/articulo/206786">Coronavirus y terrorismo. Incertidumbres futuras</a></span>  </span>      &nbsp;&nbsp;  
+  <span class="views-field views-field-created">        <span class="field-content">26/05/2020</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="more-link"> <a href="/taxonomy/term/43802">Más...</a></div>    </div>
+  
+  
+</div>    </div>
+
+    
+    
+  </div>
+</section>
+    </div>
+  </div>
+  <div class="region region-two-66-33-second">
+    <div class="region-inner clearfix">
+      <div class="panel-pane pane-block pane-block-21 pane-block no-title block">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <a href="/donaciones" target="_blank"><img alt="Donaciones" title="Donaciones" class="media-element file-default image-style-none" data-delta="1" typeof="foaf:Image" src="https://www.alainet.org/sites/default/files/donaciones1_0.gif" width="300" height="100" /></a>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-vista-publicaciones no-title block" id="slider-publicaciones2">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="view view-vista-publicaciones view-id-vista_publicaciones view-display-id-block view-dom-id-a919e3b846ac4a33cc2160533476666f">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_vista_publicaciones-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_vista_publicaciones-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_vista_publicaciones-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_0'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=21826:slides_revista_portada {"link":"node\/209010"} --><a href="/es/dossier/post-covid19-i"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/dossier-poscovid19.jpg?itok=ILlj23xs" width="250" height="276" alt="dossier-poscovid19.jpg" title="dossier-poscovid19.jpg" /></a><!-- END scald=21826 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_1'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=21165:slides_revista_portada {"link":"node\/207848"} --><a href="/es/revistas/549"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/549.jpg?itok=O67J4CA-" width="250" height="340" alt="549.jpg" title="549.jpg" /></a><!-- END scald=21165 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_2'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=19921:slides_revista_portada {"link":"node\/205922"} --><a href="/es/revistas/548"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/alem548.png?itok=6xsWJEa4" width="250" height="341" alt="alem548.png" title="alem548.png" /></a><!-- END scald=19921 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_3'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=19473:slides_revista_portada {"link":"node\/205189"} --><a href="/es/revistas/547"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/547_0.png?itok=ja7p-uVn" width="250" height="341" alt="547.png" title="547.png" /></a><!-- END scald=19473 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_4'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=18735:slides_revista_portada {"link":"node\/203622"} --><a href="/es/revistas/546"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/portada-546.png?itok=_Fgj_eCZ" width="250" height="341" alt="portada-546.png" title="portada-546.png" /></a><!-- END scald=18735 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_5'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=18546:slides_revista_portada {"link":"node\/203266"} --><a href="/es/revistas/545"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/alem545w.png?itok=2mldKLha" width="250" height="341" alt="alem545w.png" title="alem545w.png" /></a><!-- END scald=18546 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_6" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_6'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=18385:slides_revista_portada {"link":"node\/201789"} --><a href="/es/dossier/china-eeuu"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/guerra-comercial-mod_0.jpg?itok=9r540xq6" width="250" height="313" alt="guerra-comercial-mod.jpg" title="guerra-comercial-mod.jpg" /></a><!-- END scald=18385 --></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_vista_publicaciones-block_1_7" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-last views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_7'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-revista">        <div class="field-content"><!-- scald=18207:slides_revista_portada {"link":"node\/202632"} --><a href="/es/revistas/544"><img typeof="foaf:Image" class="image-style-slide-revista" src="https://www.alainet.org/sites/default/files/styles/slide_revista/public/544-portada.png?itok=N6psSk2s" width="250" height="340" alt="544-portada.png" title="544-portada.png" /></a><!-- END scald=18207 --></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_vista_publicaciones-block_1" class="views-slideshow-pager-fields widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_0">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-0'>1</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_1">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-1'>2</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_2">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-2'>3</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_3">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-3'>4</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_4" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_4">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-4'>5</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_5" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_5">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-5'>6</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_6" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_6">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-6'>7</a>  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_bottom_vista_publicaciones-block_1_7" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even views-row-last" aria-controls="views_slideshow_cycle_div_vista_publicaciones-block_1_7">
+  <div class="views-field-counter">
+    <div class="views-content-counter">
+    <a href='#slideshow-7'>8</a>  </div>
+</div>
+</div>
+</div>
+
+<div id="vscc_controls_vista_publicaciones-block_1" class="vscc-controls vscc_controls">
+      <span id="vscc_controls_previous_vista_publicaciones-block_1" class="vscc_controls_previous"><a href="#!slide"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_arrow_left.png" alt="previous" title="previous" /></a></span>  
+  
+      <span id="vscc_controls_next_vista_publicaciones-block_1" class="vscc_controls_next"><a href="#!slide"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_arrow_right.png" alt="siguiente" title="siguiente" /></a></span>  </div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="publicaciones">
+<div class="ver"><a href="/es/dossier/post-covid19-i">VER</a></div>
+
+<div class="descargar"></div>
+</div>    </div>
+  
+  
+</div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><section class="panel-pane pane-entity-field pane-node-field-categorizacion field-name-field-categorizacion block">
+  <div class="block-inner clearfix">
+    
+              <h2 class="pane-title block-title">Clasificado en</h2>
+        
+    
+    <div class="block-content">
+      <section class="field field-name-field-categorizacion field-type-taxonomy-term-reference field-label-above view-mode-_custom_display"><h2 class="field-label">Clasificado en:&nbsp;</h2><ul class="field-items"><li class="field-item even"><div class='term-tree-list'><ul class="term"><li class='unselected'><a href="/es/clasificacion/social">Social</a><ul class="term"><li class='selected'><a href="/es/clasificacion/salud">Salud</a></li></ul></li><li class='unselected'><a href="/es/clasificacion/cultura">Cultura</a><ul class="term"><li class='selected'><a href="/es/clasificacion/historia-0">Historia</a></li></ul></li><li class='selected'><a href="/es/clasificaci%C3%B3n/internacional">Internacional</a><ul class="term"><li class='selected'><a href="/es/clasificaci%C3%B3n/relaciones">Relaciones</a></li></ul></li></ul></div></li></ul></section>    </div>
+
+    
+    
+  </div>
+</section>
+<div class="panel-separator"></div><section class="panel-pane pane-views pane-articulos-relacionados block">
+  <div class="block-inner clearfix">
+    
+              <h2 class="pane-title block-title">Pandemia</h2>
+        
+    
+    <div class="block-content">
+      <div class="view view-articulos-relacionados view-id-articulos_relacionados view-display-id-block_5 view-dom-id-0a370ecdddc97fec8ba7f4a646567bfc">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first relacionados-final-art">  
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/es/node/209316">La pandémie fera reculer l’Amérique latine d’une décennie</a></div>  </div>  
+  <span class="views-field views-field-field-autor">        <span class="field-content">Sergio Ferrari</span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">14/10/2020</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even relacionados-final-art">  
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/es/articulo/209315">América Latina: Contra las cuerdas de la pandemia</a></div>  </div>  
+  <span class="views-field views-field-field-autor">        <span class="field-content">Sergio Ferrari</span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">14/10/2020</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd relacionados-final-art">  
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/es/articulo/209309">Juventud, mitos y realidades de la emigración</a></div>  </div>  
+  <span class="views-field views-field-field-autor">        <span class="field-content">Carlos Chino Fernández</span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">14/10/2020</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even relacionados-final-art">  
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/es/node/209307">O vírus e o comércio da saúde humana</a></div>  </div>  
+  <span class="views-field views-field-field-autor">        <span class="field-content">Celso Japiassu</span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">14/10/2020</span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last relacionados-final-art">  
+  <div class="views-field views-field-title-field">        <div class="field-content"><a href="/es/articulo/209305">El debate científico murió de Covid</a></div>  </div>  
+  <span class="views-field views-field-field-autor">        <span class="field-content">Daniel Espinosa</span>  </span>  
+  <span class="views-field views-field-created">        <span class="field-content">14/10/2020</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/es/taxonomy/term/43099">
+    Mas...  </a>
+</div>
+  
+  
+  
+</div>    </div>
+
+    
+    
+  </div>
+</section>
+<div class="panel-separator"></div><section class="panel-pane pane-views pane-novedades-en-articulo block">
+  <div class="block-inner clearfix">
+    
+              <h2 class="pane-title block-title">Novedades</h2>
+        
+    
+    <div class="block-content">
+      <div class="view view-novedades-en-articulo view-id-novedades_en_articulo view-display-id-block view-dom-id-60ee076121bb598c683c3955153dca60">
+            <div class="view-header">
+      <div class="view view-novedades-en-articulo view-id-novedades_en_articulo view-display-id-block_1 view-dom-id-a28599fe0bb0f9140c89c6c91e830d60">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_novedades_en_articulo-block_1_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_novedades_en_articulo-block_1_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_novedades_en_articulo-block_1_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22032:slide_portada_en_articulo {"link":"node\/209317"} --><a href="/es/articulo/209317"><img typeof="foaf:Image" class="image-style-inicio-slider-movil" src="https://www.alainet.org/sites/default/files/styles/inicio_slider_movil/public/conectividad_america_latina.jpg?itok=wk6P8vrW" alt="conectividad_america_latina.jpg" title="conectividad_america_latina.jpg" /></a><!-- END scald=22032 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209317">Los desafíos a la soberanía de los Estados nación en tiempos de internet</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content">Dianet Doimeadios Guerrero</div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_novedades_en_articulo-block_1_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=21933:slide_portada_en_articulo {"link":"node\/209289"} --><a href="/es/articulo/209289"><img typeof="foaf:Image" class="image-style-inicio-slider-movil" src="https://www.alainet.org/sites/default/files/styles/inicio_slider_movil/public/trump_biden.jpg?itok=-Lh1QAtQ" alt="trump_biden.jpg" title="trump_biden.jpg" /></a><!-- END scald=21933 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209289">EE.UU 2020: ¿Existe todavía la democracia?</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content">Roberto Savio</div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_novedades_en_articulo-block_1_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22009:slide_portada_en_articulo {"link":"node\/209280"} --><a href="/es/articulo/209280"><img typeof="foaf:Image" class="image-style-inicio-slider-movil" src="https://www.alainet.org/sites/default/files/styles/inicio_slider_movil/public/crispr-cas9-1.jpg?itok=9rB4ppmR" alt="crispr-cas9-1.jpg" title="crispr-cas9-1.jpg" /></a><!-- END scald=22009 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209280">Premio Nobel a la guerra genética</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content">Silvia Ribeiro</div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_novedades_en_articulo-block_1_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=21987:slide_portada_en_articulo {"link":"node\/209249"} --><a href="/es/articulo/209249"><img typeof="foaf:Image" class="image-style-inicio-slider-movil" src="https://www.alainet.org/sites/default/files/styles/inicio_slider_movil/public/eeuu_aguil.jpg?itok=1R7kO0IF" alt="eeuu_aguil.jpg" title="eeuu_aguil.jpg" /></a><!-- END scald=21987 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209249" class="active">Del Destino Manifiesto a la COVID-19</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content">Mario Antonio Padilla Torres</div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_novedades_en_articulo-block_1_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-last views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=21976:slide_portada_en_articulo {"link":"node\/209225"} --><a href="/es/articulo/209225"><img typeof="foaf:Image" class="image-style-inicio-slider-movil" src="https://www.alainet.org/sites/default/files/styles/inicio_slider_movil/public/usa-ue-china.jpg?itok=ZyE7jy0-" alt="usa-ue-china.jpg" title="usa-ue-china.jpg" /></a><!-- END scald=21976 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209225">Europa, Estados Unidos y China</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content">Boaventura de Sousa Santos</div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        
+<div id="vscc_controls_novedades_en_articulo-block_1_1" class="vscc-controls vscc_controls">
+      <span id="vscc_controls_previous_novedades_en_articulo-block_1_1" class="vscc_controls_previous"><a href="#!slide"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_arrow_left.png" alt="previous" title="previous" /></a></span>  
+      <span id="vscc_controls_pause_novedades_en_articulo-block_1_1" class="vscc_controls_pause"><a href="#!slide"><span class="vscc-pause"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_pause.png" alt="pause" title="pause" /></span><span class="vscc-resume vscc-disabled"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_arrow_right.png" alt="resume" title="resume" /></span></a></span>  
+      <span id="vscc_controls_next_novedades_en_articulo-block_1_1" class="vscc_controls_next"><a href="#!slide"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/sites/all/modules/contrib/vscc/images/black_arrow_right.png" alt="siguiente" title="siguiente" /></a></span>  </div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-2">
+  
+  <tbody>
+          <tr  class="row-1 row-first">
+                  <td  class="col-1 col-first rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=20960:novedades_en_articulo {"link":"node\/209318"} --><a href="/es/articulo/209318"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/xi_jinping_china_0.jpg?itok=FrmM2Wwp" width="130" height="100" alt="xi_jinping_china.jpg" title="xi_jinping_china.jpg" /></a><!-- END scald=20960 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209318">Tres reafirmaciones en Shenzhen</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/xulio-r%C3%ADos" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Xulio Ríos</a></div>  </div>          </td>
+                  <td  class="col-2 col-last rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22031:novedades_en_articulo {"link":"node\/209315"} --><a href="/es/articulo/209315"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/pandemia_laboral_mexico.jpg?itok=3-UA4Js0" width="130" height="100" alt="pandemia_laboral_mexico.jpg" title="pandemia_laboral_mexico.jpg" /></a><!-- END scald=22031 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209315">América Latina: Contra las cuerdas de la pandemia</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/sergio-ferrari" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Sergio Ferrari</a></div>  </div>          </td>
+              </tr>
+          <tr  class="row-2">
+                  <td  class="col-1 col-first rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22029:novedades_en_articulo {"link":"node\/209311"} --><a href="/es/articulo/209311"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/fratelli_tutti_francisco.jpg?itok=pl_I3owW" width="130" height="100" alt="fratelli_tutti_francisco.jpg" title="fratelli_tutti_francisco.jpg" /></a><!-- END scald=22029 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209311">¿Qué nos hace humanos?</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/carlos-ayala-ram%C3%ADrez" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Carlos Ayala Ramírez</a></div>  </div>          </td>
+                  <td  class="col-2 col-last rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=20094:novedades_en_articulo {"link":"node\/209302"} --><a href="/es/articulo/209302"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/assange_5.jpg?itok=STl8y0VM" width="130" height="100" alt="assange.jpg" title="assange.jpg" /></a><!-- END scald=20094 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209302">El ‘juicio del siglo’ contra Julian Assange</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/fidel-narv%C3%A1ez" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Fidel Narváez</a></div>  </div>          </td>
+              </tr>
+          <tr  class="row-3">
+                  <td  class="col-1 col-first rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22021:novedades_en_articulo {"link":"node\/209300"} --><a href="/es/articulo/209300"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/uruguay_cia.jpg?itok=bGufWYy1" width="130" height="100" alt="uruguay_cia.jpg" title="uruguay_cia.jpg" /></a><!-- END scald=22021 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209300">El peligro eran los votos, no las balas</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/jorge-majfud" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Jorge Majfud</a></div>  </div>          </td>
+                  <td  class="col-2 col-last rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=21256:novedades_en_articulo {"link":"node\/209299"} --><a href="/es/articulo/209299"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/bolsonaro_brasil_militares.png?itok=SHzaVFvh" width="130" height="100" alt="bolsonaro_brasil_militares.png" title="bolsonaro_brasil_militares.png" /></a><!-- END scald=21256 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209299">Gobierno Bolsonaro es la expresión de un país que no queremos ver</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/fernando-de-la-cuadra" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Fernando de la Cuadra</a></div>  </div>          </td>
+              </tr>
+          <tr  class="row-4 row-last">
+                  <td  class="col-1 col-first rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=22018:novedades_en_articulo {"link":"node\/209296"} --><a href="/es/articulo/209296"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/iglesia_dinero.jpg?itok=5sSI16mR" width="130" height="100" alt="iglesia_dinero.jpg" title="iglesia_dinero.jpg" /></a><!-- END scald=22018 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209296">Breves reflexiones quasi teológicas</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/marcelo-colussi" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Marcelo Colussi</a></div>  </div>          </td>
+                  <td  class="col-2 col-last rownovedad">
+              
+  <div class="views-field views-field-field-image-atom-art">        <div class="field-content"><!-- scald=2706:novedades_en_articulo {"link":"node\/209293"} --><a href="/es/articulo/209293"><img typeof="foaf:Image" class="image-style-novedad-en-articulo" src="https://www.alainet.org/sites/default/files/styles/novedad-en-articulo/public/adolfo_perez_esquivel.jpg?itok=lsx58NJv" width="130" height="100" alt=" adolfo perez esquivel" title=" adolfo perez esquivel" /></a><!-- END scald=2706 --></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/es/articulo/209293">A 40 años de recibir el Premio Nobel de la Paz</a></span>  </div>  
+  <div class="views-field views-field-field-autor">        <div class="field-content"><a href="/es/autores/adolfo-p%C3%A9rez-esquivel" typeof="skos:Concept" property="rdfs:label skos:prefLabel">Adolfo Pérez Esquivel</a></div>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/es/mas-novedades">
+    Más Novedades  </a>
+</div>
+  
+  
+  
+</div>    </div>
+
+    
+    
+  </div>
+</section>
+<div class="panel-separator"></div><section class="panel-pane pane-block pane-quicktabs-categorias pane-quicktabs block">
+  <div class="block-inner clearfix">
+    
+              <h2 class="pane-title block-title">Temas</h2>
+        
+    
+    <div class="block-content">
+      <div  id="quickset-categorias" class="quick-accordion"><h3><a href= "#quickset-categorias_0">Comunicación</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block view-dom-id-6890ef543ae4f187e15e35d32a17f7bb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/comunicacion">Comunicación</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/comunicacion-alternativa">Comunicación Alternativa</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/comunicacion-de-genero">Comunicación de Género</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/derecho-comunicacion">Derecho a Comunicación</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/libertad-de-opinion">Libertad de Opinión</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/medios">Medios</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/nuevas-tecnologias">Nuevas Tecnologías</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/periodismo">Periodismo</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><h3><a href= "#quickset-categorias_1">Cultura</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block_1 view-dom-id-0e8273e4de5630eee6f361624d46836a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/conocimiento">Conocimiento</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/cultura">Cultura</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/diversidad">Diversidad</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/educacion">Educación</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/etica">Etica</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/historia-0">Historia</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/ideologia-0">Ideología</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/interculturalidad">Interculturalidad</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/religion">Religión</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/solidaridad">Solidaridad</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><h3><a href= "#quickset-categorias_2">Economía</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block_2 view-dom-id-b21ec9fd9023bdf46fdb056cc618e858">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/agro">Agro</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/bienes-naturales">Bienes Naturales</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/comercio">Comercio</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/corporaciones">Corporaciones</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/desarrollo">Desarrollo</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/deuda-externa">Deuda Externa</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/econom%C3%ADa">Economía</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/finanzas">Finanzas</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/indicadores">Indicadores</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/industria">Industria</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/instituciones-financieras">Instituciones Financieras</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/paradigmas">Paradigmas</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/pol%C3%ADticas-econ%C3%B3micas">Políticas Económicas</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/transg%C3%A9nicos-0">Transgénicos</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><h3><a href= "#quickset-categorias_3">Internacional</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block_3 view-dom-id-c5e130983378fdba5de2d15cfafc6a73">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/drogas">Drogas</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/geopol%C3%ADtica">Geopolítica</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/globalizaci%C3%B3n">Globalización</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/integraci%C3%B3n">Integración</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/internacional">Internacional</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/migraci%C3%B3n">Migración</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/organismos">Organismos</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/relaciones">Relaciones</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificaci%C3%B3n/tratados">Tratados</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><h3><a href= "#quickset-categorias_4">Política</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block_4 view-dom-id-561fce90e797920c7b48414a0da46607">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/democracia">Democracia</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/derechos">Derechos</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/elecciones">Elecciones</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/estado">Estado</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/justicia">Justicia</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/legislacion">Legislación</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/militar">Militar</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/movimientos">Movimientos</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/partidos">Partidos</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/politica">Política</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/racismo">Racismo</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/seguridad">Seguridad</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div><h3><a href= "#quickset-categorias_5">Social</a></h3><div><div class="view view-categorias view-id-categorias view-display-id-block_5 view-dom-id-95b0218edfc4eb71c15e25e92e38a420">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/afro">Afro</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/agua-0">Agua</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/alimentacion">Alimentación</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/campesino-0">Campesino</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/exclusion">Exclusión</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/habitat">Hábitat</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/indigena">Indígena</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/juventud">Juventud</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/laboral">Laboral</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/medio-ambiente">Medio Ambiente</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/mujeres">Mujeres</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/ninez">Niñez</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/poblacion">Población</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/pobreza">Pobreza</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/salud">Salud</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/social">Social</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/tierra">Tierra</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/violencia">Violencia</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/es/clasificacion/vivienda">Vivienda</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div>    </div>
+
+    
+    
+  </div>
+</section>
+    </div>
+  </div>
+  </div>
+
+  </div>                </div>
+              
+              <!-- Feed icons (RSS, Atom icons etc -->
+              <a href="https://www.alainet.org/es/rss.php%3FSeccion%3Dtitulares" class="feed-icon" title="Suscribirse a America Latina en Movimiento - RSS"><img typeof="foaf:Image" class="image-style-none" src="https://www.alainet.org/misc/feed.png" width="16" height="16" alt="Suscribirse a America Latina en Movimiento - RSS" /></a>
+            </div> <!-- /main-content -->
+
+            
+          </div>
+        </div> <!-- /content-column -->
+
+                
+      </div>
+    </div> <!-- /columns -->
+
+    
+    <!-- four-4x25 Gpanel -->
+          <div class="at-panel gpanel panel-display four-4x25 clearfix">
+        <div class="panel-row row-1 clearfix">
+          <div class="region region-four-first"><div class="region-inner clearfix"><div id="block-block-5" class="block block-block logo-footer no-title odd first last block-count-7 block-region-four-first block-5" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><p><img alt="" src="/sites/default/files/logo---footer.png" style="width: 165px; height: 65px;" /></p></div>
+  </div></div></div></div>          <div class="region region-four-second"><div class="region-inner clearfix"><nav id="block-menu-menu-alai2" class="block block-menu block-menu odd first last block-count-8 block-region-four-second block-menu-alai2"  role="navigation"><div class="block-inner clearfix">  
+      <h2 class="block-title">ALAI</h2>
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-9796"><a href="/es/este-sitio" title="">Este sitio</a></li><li class="leaf menu-depth-1 menu-item-9798"><a href="/es/quienes-somos" title="Quienes somos">Quiénes somos</a></li><li class="leaf menu-depth-1 menu-item-9800"><a href="/es/codigo-de-etica" title="">Código de ética</a></li><li class="leaf menu-depth-1 menu-item-9801"><a href="/es/rendicion-cuentas-2018" title="">Rendición de cuentas 2018</a></li><li class="leaf menu-depth-1 menu-item-9802"><a href="/es/40-anios" title="">40 años</a></li><li class="leaf menu-depth-1 menu-item-9803"><a href="/es/copyleft" title="">Política de reproducción</a></li><li class="leaf menu-depth-1 menu-item-9804"><a href="/es/donaciones" title="">Contribuciones voluntarias</a></li><li class="last leaf menu-depth-1 menu-item-9805"><a href="/es/contactenos" title="">Contáctenos</a></li></ul></div>
+  </div></nav></div></div>        </div>
+        <div class="panel-row row-2 clearfix">
+          <div class="region region-four-third"><div class="region-inner clearfix"><nav id="block-menu-menu-libros" class="block block-menu odd first block-count-9 block-region-four-third block-menu-libros"  role="navigation"><div class="block-inner clearfix">  
+      <h2 class="block-title">Libros</h2>
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first last leaf menu-depth-1 menu-item-628"><a href="/es/libros-digitales" title="">Libros digitales </a></li></ul></div>
+  </div></nav><nav id="block-menu-menu-publicaciones-alai" class="block block-menu even last block-count-10 block-region-four-third block-menu-publicaciones-alai"  role="navigation"><div class="block-inner clearfix">  
+      <h2 class="block-title">Publicaciones ALAI</h2>
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-621"><a href="/es/libros" title="">Libros</a></li><li class="leaf menu-depth-1 menu-item-620"><a href="/es/info-revistas" title="">Revista</a></li><li class="last leaf menu-depth-1 menu-item-622"><a href="/es/como-adquirir" title="">Adquisiciones</a></li></ul></div>
+  </div></nav></div></div>          <div class="region region-four-fourth"><div class="region-inner clearfix"><nav id="block-menu-menu-servicios" class="block block-menu odd first last block-count-11 block-region-four-fourth block-menu-servicios"  role="navigation"><div class="block-inner clearfix">  
+      <h2 class="block-title">Servicios</h2>
+  
+  <div class="block-content content"><ul class="menu clearfix"><li class="first leaf menu-depth-1 menu-item-625"><a href="http://listas.alainet.org/listas/subscribe/alai-amlatina" title="">Boletin Alai-AmLatina</a></li><li class="last leaf menu-depth-1 menu-item-626"><a href="/es/rss.php%3FSeccion%3Dtitulares" title="">RSS</a></li></ul></div>
+  </div></nav></div></div>        </div>
+      </div>
+    
+          <footer  id="footer" class="clearfix" role="contentinfo">
+        <div id="footer-inner" class="clearfix">
+                    <p class="attribute-creator"><small class="attribution">Premium Drupal Theme by <a href="http://adaptivethemes.com">Adaptivethemes.com</a></small></p>
+        </div>
+      </footer>
+    
+  </div> <!-- /page -->
+</div> <!-- /texture overlay -->
+  <script type="text/javascript" src="https://www.alainet.org/sites/default/files/js/js_hFERizjsDhEXopkotvxMZ5mMbqoYi2FSy2M3QmmGzX4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+da2a.targets=[
+{title:"Del Destino Manifiesto a la COVID-19",url:"https:\/\/www.alainet.org\/es\/articulo\/209249"},
+{title:"Del Destino Manifiesto a la COVID-19",url:"https:\/\/www.alainet.org\/es\/articulo\/209249"},
+{title:"Del Destino Manifiesto a la COVID-19",url:"https:\/\/www.alainet.org\/es\/articulo\/209249"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+// Output by Fit Text module
+jQuery("#articulo").fitText(0.8);
+
+//--><!]]>
+</script>
+</body>
+</html>

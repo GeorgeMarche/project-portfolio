@@ -1,0 +1,1551 @@
+<!doctype html>
+<html lang="el">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="https://www.kathimerini.gr/wp-content/themes/nxtheme/favicon.ico">
+            <title>ΑΡΘΡΟΓΡΑΦΟΙ | Η ΚΑΘΗΜΕΡΙΝΗ</title>
+        <meta name="description" content="Ημερήσια Πολιτική και Οικονομική Εφημερίδα">
+    	<meta http-equiv="refresh" content="600"/>     
+	<meta name="robots" content="all"/>
+	    <link rel="contact" href="/contact" title="Eπικοινωνία"/>
+    <link rel="search" type="application/opensearchdescription+xml" title="Η ΚΑΘΗΜΕΡΙΝΗ Αναζήτηση (Ελληνικά)"
+          href="/os?i=news.el.search"/>
+    <link rel="canonical" href="https://www.kathimerini.gr/authors">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/fonts/ukasamplitude03roman-webfont.woff" as="font"
+          crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/fonts/ukasamplitude06nwsemibold-webfont.woff"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/fonts/UKASQuiosco.otf"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/fonts/UKASAmplitude01Light.otf"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/fonts/UKASAmplitude08NWHeavy.otf"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/fonts/ukasabbatoxbold-webfont.woff"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/fonts/UKANewsLight703-Roman.otf"
+          as="font" crossorigin="anonymous">
+    <link rel="preload"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/fonts/UKANewsMedium703-Roman.otf"
+          as="font" crossorigin="anonymous">
+    <!-- Bootstrap core CSS -->
+    <link href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/bootstrap.min.css" rel="stylesheet">
+    <!--    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">-->
+    <!-- Custom styles for this template -->
+    <link href="https://www.kathimerini.gr/wp-content/themes/nxtheme/style.css?v=1.651" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/slick.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/magnific-popup.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="https://www.kathimerini.gr/wp-content/themes/nxtheme/css/slick-theme.css"/>
+    <meta name="language" content="Ελληνικά"/>
+    <meta name="development" content="NXCODE IKE"/>
+    <meta name="copyright" content="ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Εθν.Μακαρίου &amp; Φαληρέως 2"/>
+    <meta name="msvalidate.01" content="7C3936C3ED17E7C2F14E14D89A098452"/>
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script> window.OneSignal = window.OneSignal || [];
+        OneSignal.push(function () {
+            OneSignal.init({
+                appId: "1bca1051-3b32-4512-b23c-81f1412d62a2",
+                safari_web_id: 'web.onesignal.auto.028d9952-ba2c-477b-babc-6aee5c5ba0de',
+            });
+        }); </script>    <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://quantcast.mgr.consensu.org'
+    .concat('/choice/', '_tVGtLM8_aB1y', '/', host, '/choice.js')
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            event.source.postMessage(returnMsg, '*');
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+const NXConCallback=(e,n)=>{if(n&&("tcloaded"===e.eventStatus||"useractioncomplete"===e.eventStatus)){if(e.purpose.hasOwnProperty("consents")&&Object.keys(e.purpose.consents).length>0&&!0===Object.values(e.purpose.consents)[0]);else{var t=document.querySelectorAll(".nx-banner-wrapper");void 0!==t&&t&&t.forEach(function(e){e.style.display="none"})}__tcfapi("removeEventListener",2,e=>{},NXConCallback)}};__tcfapi("addEventListener",2,NXConCallback);
+</script>
+
+    		
+        <script data-pagespeed-no-defer data-cfasync="false" src="https://www.kathimerini.gr/wp-content/plugins/nx-ads/assets/js/mobile-detect.js"></script>
+        <script data-pagespeed-no-defer data-cfasync="false">
+			function nxFadeOutEffect(element_id) {
+				var fadeTarget = document.getElementById(element_id);
+				(function fadeEffect() {
+					if (!fadeTarget.style.opacity) {
+						fadeTarget.style.opacity = 1;
+					}
+					if (fadeTarget.style.opacity >= 0.1) {
+						fadeTarget.style.opacity -= 0.1;
+					} else {
+						setTimeout(fadeEffect, 30);
+					}
+				})();
+				fadeTarget.style.height = 0;
+				while (fadeTarget.firstChild) fadeTarget.removeChild(fadeTarget.firstChild);
+			}
+			
+			var md = new MobileDetect(window.navigator.userAgent),
+			NXsw = (navigator.appVersion.indexOf("Mac") != -1 ? 15 : 17),
+			nxInnerWidth = window.innerWidth - NXsw,
+			isNXMobile = (md.mobile()),
+			isNXTablet = (md.tablet()),
+			isNXPhone = (md.mobile() && !md.tablet()),
+			NXSkinFits = (nxInnerWidth >= 1700);
+
+		</script>
+		<script data-pagespeed-no-defer data-cfasync="false" src="https://cdn.orangeclickmedia.com/tech/libs/ocm_iab_compliance.js"></script>
+		<script data-pagespeed-no-defer data-cfasync="false" async='async' data-cmp-src="https://cdn.orangeclickmedia.com/tech/kathimerini.gr/ocm.js" async="async"></script>
+        <script data-pagespeed-no-defer data-cfasync="false" async='async' data-cmp-src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
+        <script data-pagespeed-no-defer data-cfasync="false">
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+		<style>
+                        @media (min-width:992px){.nx-ads-mis-relative{background: #f7f7f7;position:relative;overflow:initial}.nx-ads-mis{position:-webkit-sticky;position:sticky;top:38px;background:0 0;margin:0 auto!important}.mobile_only{display:none!important}}@media (max-width:991px){.desktop_only{display:none!important}.gAdLeft{float:none!important;width:100%;display:inline-block;text-align:center;margin:5px auto 1.75em auto!important}}.gAdNoMargin{margin:0 auto!important}.gAdNoTopMargin{margin-top:0!important}}
+            
+			.gAdCentered {
+				clear: both; 
+				width: 100%; 
+				text-align: center; 
+				/*margin:20px auto;*/
+				/* overflow: hidden; */
+			}
+
+			.ad-block, .nx-banner-wrapper:not(.widget_text) { 
+				display:block;
+				width: 100%;
+			}
+			.nx-has-ad:not(.nx-home-side) {
+				padding: 20px 0;
+				text-align: center;
+				background: none; 
+			}
+			.home .economy-wrap .top-margin.col-12.nx-banner-wrapper.nx-border-corr2.nx-has-ad {
+				background: none; 
+			}
+			
+			div.widget_nx_ads_widget .nx-has-ad {
+				    padding: 15px 0 0 0;
+			}			
+			.single aside.col-lg-3.design_latest_title.post-sidebar {
+				/* min-width: 330px !important;  *//* sidebar min width with paddings */
+			}
+			
+			div.nxAds.col-12 {
+				padding-right: 0;
+				padding-left: 0;
+				border: none !important;
+			}
+			div.col-12.nx-has-ad:not(.nxPadTopHome) {
+				margin-bottom: 20px;
+			}
+			
+			.nxNoPadTopHome {
+				padding-top: 0px !important;
+			}
+			.nxPadTopHome {
+				margin-top: 60px;
+			}
+
+			@media (min-width:768px) {
+				img.alignleft, .single .article-content img[style="float:left"] {
+					margin: 9px 25px 15px 0px;
+				}
+				.category-k-magazine article:first-child {
+					padding-bottom: 20px;
+				}
+			}
+			
+			@media (max-width:767px) {
+				div#nx_ad_Home_Footer {
+					margin-bottom: 20px;
+				}
+				
+				.nx-banner-wrapper.nx-home-side.nx-has-ad {
+					margin: 0px auto;
+				}
+				.nx-banner-wrapper.nx-home-side.nx-has-ad .dashed {
+					display: block !important;
+				}
+				
+				body.home #content-wrap h1, 
+				body.home #content-wrap h2, 
+				body.home #content-wrap h3, 
+				body.home #content-wrap h4, 
+				body.home #content-wrap h5, 
+				body.home #content-wrap h6 {
+					-webkit-line-clamp: unset !important;
+				}				
+				.gastronomos-content-wrap .col-md-6 {
+					margin-top: 20px;
+				}
+				.design_overlay .article_thumbnail_wrapper img, .flip-frame, .flip-frame .flip-slide {
+					height: 669px !important;
+					object-fit: cover !important;
+				}
+				.roi-wrapper .news_latest li:nth-child(n+7) {
+					display: none;
+				}
+			}
+			@media (max-width:991px) {
+				
+				.single #nx_kathimerini_gr_Category_SB_1_mb, 
+				.single #nx_kathimerini_gr_Category_Middle_mb,
+				.single #nx_kathimerini_gr_Category_Bottom_mb {
+					margin: 20px auto;
+				}
+				aside {
+					display: none;
+				}
+				.ad-dashed {
+					margin: 20px 0 !important;
+					border: 0 !important;
+				}
+				div.col-12.nx-has-ad {
+					margin-bottom: 0px !important;
+					padding-bottom: 0px !important;
+				}
+				.nx-ads-mis-relative {
+					height: auto !important;
+				}
+				#athlitismos .col-lg-3.col-md-6.widgetized {
+					margin-bottom: 0px;
+				}
+				
+				#nx_kathimerini_gr_Category_Billboard {
+					margin-bottom: 25px !important;
+				}			
+
+				.home .gnomes-apopseis-inner h5.slider-title a {
+					display: -webkit-box;
+					-webkit-line-clamp: 4;
+					overflow: hidden;
+					-webkit-box-orient: vertical;
+				}					
+			}
+			@media (min-width:992px) {
+				#content-wrap {
+					overflow: initial;
+				}
+				.nx-outer-vflex {
+					display: flex !important;
+					flex-flow: column;
+					height: 100%;
+					align-items: stretch;
+				}
+				.nx-stretched-vflex {
+					flex: 1 1 auto; text-align: center
+				}
+				.nx-sticked-bottom-vflex {
+					flex: 0 1;
+				}				
+				.nx-border-corr {
+					border-left: 15px solid #ffffff;
+					border-right: 15px solid #ffffff;
+				}
+				.nx-border-corr2 {
+					border-left: 15px solid #f4ebe4;
+					border-right: 15px solid #f4ebe4;
+				}
+				.nx-mh-full {
+					height: 100%;
+				}
+				.nx-editorspick-height {
+					height: 666px;
+				}
+				div#nx_kathimerini_gr_Home__SB_EditorsPick.nx-ads-mis-relative {
+					height: 100% !important;
+				}
+				.nx-full-height {
+					height: 100% !important;
+				}
+				
+				aside.post-sidebar {
+					min-height: 1300px;
+				}
+				
+				aside.post-sidebar .nxsidebar {
+				  position: absolute;
+				  height: 100%;
+				  width: 100%;
+				}
+
+				aside.post-sidebar .nx-sticky-sidebar {
+					top: 0;
+					height: 100%; /* Super important! */
+				}
+				
+				aside.post-sidebar .nx-sticky-sidebar .widget_nx_ads_widget  {
+					top: 0;
+					left: 0;
+					width: 100%;
+					height: 50%;
+					padding:0 !important;
+					
+				}
+				
+				aside.post-sidebar .nx-sticky-sidebar .widget_nx_ads_widget:nth-child(2) { 
+					top: 50%;
+				}  
+				
+				aside.post-sidebar .nx-sticky-sidebar .widget_nx_ads_widget .nxAds {
+					position: sticky;
+					top: 50px;
+				}
+				
+				.nxsidebar div.nx-banner-wrapper {
+					background: #fff;
+				}
+				
+				.home .gnomes-apopseis-inner h5.slider-title a {
+					display: -webkit-box;
+					-webkit-line-clamp: 3;
+					overflow: hidden;
+					-webkit-box-orient: vertical;
+				}				
+			}
+
+			.mb-17 {
+				margin-bottom: 17px;
+			}
+
+			.top-margin {
+				margin-top: 20px;
+				margin-bottom: 0px !important;
+			}
+
+			.top-margin-double {
+				margin-top: 40px;
+				margin-bottom: 0px !important
+			}
+			
+			.row hr.ad-dashed {
+				width: 100%;
+				margin-bottom: 40px;
+			}
+			a#qc-cmp2-persistent-link {
+				color: #fff;
+				background-color: #295264;
+			}
+			#footer-gastronomos {
+				max-height: 35px; 
+			}
+			
+			html body .container .wgs_wrapper .gsc-control-cse {
+				border: 1px #000 solid !important;
+			}
+			
+			div#wgs_wrapper_id .gs-title {
+				text-align: left;
+			}
+			.home .left-more {
+				background: #fff;
+			}
+			div#qc-cmp2-ui img[alt="Publisher Logo"] {
+				width: 100%;
+			}
+			.side-menu-item-home img {
+				width: 16px;
+				filter: invert(100%);
+				margin-right: 10px;
+				padding-bottom: 7px;
+			}
+			.primary-menu .side-menu-item-home {
+				display: none;
+			}
+			
+			footer li.menu-item.current-menu-item a, 
+			footer li.menu-item.current-category-ancestor a {
+				color: #666;
+			}
+            .nx-home-top-ad {
+                width:1px;
+                height:1px;
+            }
+
+        </style>
+
+        <script>		
+            googletag.cmd.push(function () {
+
+			  var _top = googletag.sizeMapping()
+				.addSize([1024, 0],[[970,250],[728,90]])
+				.addSize([768, 0], [728,90])
+				.addSize([320,0], [[320,50], [320,100]])
+				.addSize([0, 0], [])
+				.build();
+
+			  var _infeed = googletag.sizeMapping()
+				.addSize([1024, 0],[[970,250],[728,90]])
+				.addSize([768, 0], [[728,90], [336, 280], [300,250]])
+				.addSize([340,0], [[300,250],[300,600], [336, 280]])
+				.addSize([320,0], [300,250])  
+				.addSize([0, 0], [])
+				.build();
+
+			  var _infeed_article = googletag.sizeMapping()
+				.addSize([768, 0], [[336, 280], [300,250]])
+				.addSize([340,0], [[300,250],[300,600], [336, 280]])
+				.addSize([320,0], [300,250])  
+				.addSize([0, 0], [])
+				.build();
+				
+			  var _sidebar = googletag.sizeMapping()
+				.addSize([1366, 0],[[300,600],[300,250]])
+				.addSize([768, 0], [[300,600],[300,250]])
+				.addSize([340,0], [[300,600],[300,250]])
+				.addSize([320,0], [300,250])  
+				.addSize([0, 0], [])
+				.build();
+
+			  var _skin = googletag.sizeMapping()
+				.addSize([1700, 0],[1,1])
+				.addSize([768, 0], [])
+				.addSize([340,0], [])
+				.addSize([0, 0], [])
+				.build();		
+
+				
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Billboard', [[320, 50], [320, 100], [728, 90], [970, 250]], 'nx_ad_Category_Billboard').defineSizeMapping(_top).addService(googletag.pubads());
+					if (isNXMobile) {
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Middle', [[300, 250], [336, 280], [300, 600]], 'nx_ad_Category_Middle_mb').defineSizeMapping(_infeed_article).addService(googletag.pubads());
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Bottom', [[300, 250], [336, 280], [728, 90], [300, 600], [970, 250]], 'nx_ad_Category_Bottom_mb').defineSizeMapping(_infeed).addService(googletag.pubads());
+					} else {
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Middle', [[970, 250], [300, 600], [320, 100], [300, 250], [728, 90]], 'nx_ad_Category_Middle').defineSizeMapping(_infeed).addService(googletag.pubads());
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Bottom', [[300, 250], [336, 280], [728, 90], [300, 600], [970, 250]], 'nx_ad_Category_Bottom').defineSizeMapping(_infeed).addService(googletag.pubads());
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_SB_1', [[300, 250], [300, 600]], 'nx_ad_Category_SB_1').defineSizeMapping(_sidebar).addService(googletag.pubads());
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_SB_2', [[300, 250], [300, 600]], 'nx_ad_Category_SB_2').defineSizeMapping(_sidebar).addService(googletag.pubads());
+					}
+		
+					if (!isNXMobile && NXSkinFits) {
+						googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Skin', [1,1], 'nx_ad_Category_Skin').defineSizeMapping(_skin).addService(googletag.pubads());
+					}
+					
+						googletag.defineOutOfPageSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_OOP', 'nx_ad_Category_OOP').addService(googletag.pubads());
+					
+					
+								
+								if (isNXMobile) {
+					googletag.defineSlot('/68452758/www.kathimerini.gr/kathimerini.gr_Category_Sticky', [[320, 50], [320, 100]], 'nx_ad_Category_Sticky').addService(googletag.pubads());
+				}
+								
+				googletag.pubads().setTargeting('article', '561063461');
+				console.warn('DFP TARGETING KEY-VALUE SET: \narticle -> 561063461');
+		                				
+				googletag.pubads().setCentering(true);				
+				googletag.pubads().collapseEmptyDivs();
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().disableInitialLoad();
+                googletag.enableServices();
+				
+				googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                    let containsAd = !event.isEmpty;
+                    let adSlotName = event.slot.getSlotElementId();
+					let adSlotElemSelector = '#' + adSlotName.replace("nx_ad_", "nx_kathimerini_gr_");
+					let adSlotElem = document.querySelector(adSlotElemSelector);
+					 if (typeof (adSlotElem) !== 'undefined' && adSlotElem) {
+                            let parentAdSlotElem = adSlotElem.parentNode;
+                            let parentAdSlotElemClasslist = parentAdSlotElem.getAttribute('class');
+                            if (typeof (parentAdSlotElem) !== 'undefined' &&
+                                typeof (parentAdSlotElemClasslist) !== 'undefined' &&
+                                parentAdSlotElemClasslist != null && parentAdSlotElem.getAttribute('class').indexOf('nx-banner-wrapper') !== -1) {
+                                if (containsAd) {
+									if (!parentAdSlotElem.classList.contains( "nx-has-ad" ))
+										parentAdSlotElem.classList.add('nx-has-ad');
+                                    parentAdSlotElem.style.display = 'block';
+
+									// FIX TOP PAGE PADDING 
+									if (adSlotName == 'nx_ad_Category_Billboard') {
+										let topPaddingElemCatSingle = document.querySelectorAll('.category main .container.top-padding-double, .single main .container.top-padding-double');
+										if (typeof (topPaddingElemCatSingle) !== 'undefined' && topPaddingElemCatSingle) {
+											topPaddingElemCatSingle.forEach(function(item) {
+												 
+													 if (item.classList.contains( "top-padding-double" ))
+													 {
+														item.classList.remove('top-padding-double');
+														item.classList.add('top-padding');
+													 }
+											});
+										}
+									}
+									
+									// FULL HEIGHT SIDEBAR IF 1 of 2 NOT DISPLAYED
+									if ((adSlotName == 'nx_ad_Category_SB_1' || adSlotName == 'nx_ad_Category_SB_2') && !containsAd) {
+										let halfStickySidebarElements = document.querySelectorAll('aside.post-sidebar .nx-sticky-sidebar .widget_nx_ads_widget');
+										if (typeof (halfStickySidebarElements) !== 'undefined' && halfStickySidebarElements) {
+											halfStickySidebarElements.forEach(function(item) {
+												item.style.height="100%";
+											});
+										}
+									}
+                                    //console.log(adSlotName, parentAdSlotElem, parentAdSlotElem.classList);
+									// FIX HOME TOP PAGE PADDING
+									if (adSlotName == 'nx_ad_Home_Billboard_1') {
+
+                                        parentAdSlotElem.classList.remove('nx-home-top-ad');
+										let topMostElement = document.querySelector('body:not(.no-scroll) .blog-header.sticky .masthead');
+										if (typeof (topMostElement) !== 'undefined' && topMostElement) {
+												topMostElement.classList.add('nxNoPadTopHome');
+												parentAdSlotElem.classList.add('nxPadTopHome');
+										}
+									}
+									
+									
+                                    //console.warn('AD SLOT ' + adSlotName + ' FILLED');
+                                } else {
+									if (parentAdSlotElem.classList.contains( "nx-has-ad" ))
+										parentAdSlotElem.classList.remove('nx-has-ad');
+                                    parentAdSlotElem.style.display = 'none';
+                                    //console.warn('AD SLOT ' + adSlotName + ' EMPTY');
+                                }
+                            }
+                        } else {
+                            //console.warn('AD SLOT ' + adSlotName + ' NOT FOUND');
+                        }
+						
+						if(adSlotName === 'nx_ad_Category_Sticky') {
+							var sticky_outer = document.getElementById('sticky_outer');
+							if (event.isEmpty) {
+								sticky_outer.style.display = 'none';
+								if (document.querySelector('.to-top.sticky-footer')) 
+									document.querySelector('.to-top.sticky-footer').style.bottom = '30px';
+							} else {
+								
+								var nxsticky_css = '.to-top.sticky-footer{bottom:60px;}',
+								nxsticky_head = document.head || document.getElementsByTagName('head')[0],
+								nxsticky_style = document.createElement('style');
+								nxsticky_head.appendChild(nxsticky_style);
+								nxsticky_style.type = 'text/css';
+								if (nxsticky_style.styleSheet){
+									nxsticky_style.styleSheet.cssText = nxsticky_css;
+								} else {
+									nxsticky_style.appendChild(document.createTextNode(nxsticky_css));
+								}
+								
+								sticky_outer.style.right = 'unset';
+                                sticky_outer.style.width = '100%';
+                                sticky_outer.style.height = 'auto';
+								(function nxWaitFormStickyClose() {
+									var sticky_close = document.getElementById('sticky_close');
+									if (sticky_close) {
+										setTimeout(function () {
+											if (sticky_outer.clientHeight > 0) {
+												sticky_close.style.visibility = 'visible';
+												sticky_close.onclick = function () {
+													nxFadeOutEffect('sticky_outer');
+													nxsticky_style.parentNode.removeChild(nxsticky_style);
+													if (document.querySelector('.to-top.sticky-footer')) 
+														document.querySelector('.to-top.sticky-footer').style.bottom = '30px';
+												}
+											}
+										}, 3000);
+									} else {
+										setTimeout(nxWaitFormStickyClose, 50);
+									}
+								})();
+							}
+						}
+                });	
+            });
+        </script>
+        <style>
+	@media (min-width:992px) {
+		#content-wrap {
+			overflow: initial !important;
+		}
+		aside.global-sidebar-1 .nx-sticky-sidebar, aside.global-sidebar-2 .nx-sticky-sidebar, aside.page-sidebar-1 .nx-sticky-sidebar {
+			position: sticky;
+			top: 50px;
+		}		
+	}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelector(".side-primary-menu .search-holder-wrapper input").addEventListener("keyup", function(event) {
+		event.preventDefault();
+		if (event.keyCode === 13) {
+			window.location = "/search/?ks=" + this.value;
+		}
+	});
+});
+
+</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31707306-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-31707306-1');
+	</script>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wgs2-css'  href='https://www.kathimerini.gr/wp-content/plugins/wp-google-search/wgs2.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='weatherstyle-css'  href='https://www.kathimerini.gr/wp-content/plugins/nxtheme-weather/assets/css/style.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.kathimerini.gr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://www.kathimerini.gr/wp-json/" /><link rel="alternate" type="application/json" href="https://www.kathimerini.gr/wp-json/wp/v2/pages/561063461" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kathimerini.gr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kathimerini.gr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://www.kathimerini.gr/authors/" />
+<link rel='shortlink' href='https://www.kathimerini.gr/?p=561063461' />
+<link rel="alternate" type="application/json+oembed" href="https://www.kathimerini.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kathimerini.gr%2Fauthors%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.kathimerini.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.kathimerini.gr%2Fauthors%2F&#038;format=xml" />
+<script type="application/ld+json">{"@context":"http://schema.org","publisher":{"@type":"NewsMediaOrganization","name":"ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε. Εθν.Μακαρίου &amp; Φαληρέως 2","url":"https://www.kathimerini.gr/","foundingDate":"1919-09-15","logo":{"@type":"ImageObject","name":"Organization Logo","url":"https://www.kathimerini.gr/garnish/logo-large.png"},"contactPoint":{"@type":"ContactPoint","contactType":"Public Engagement","email":"info@kathimerini.gr","url":"https://www.kathimerini.gr/contact"}}}</script>		<style type="text/css" id="wp-custom-css">
+			#main-sections-nav {
+	    z-index: 1000 !important;
+}
+
+.flip-text h2 {
+    font-size: 22px;
+    line-height: 26px;
+}
+
+a.diktis-article, a.diktis-article:hover {
+	color: #fff;
+}
+
+body:not(.no-scroll):not(.home) .blog-header.sticky .top-nav {
+    padding: unset !important;
+}
+body:not(.home) main {
+    padding-top: unset !important;
+}
+
+.header-search {
+	top: 38px;
+}
+
+@media screen and (max-width: 480px) {
+	.design_one_title_medium h2 {
+		-webkit-line-clamp: unset !important;
+	}
+	
+	.author-name .meta-author:nth-child(2) {
+			position: relative;
+		    margin-top: -15px;
+    background: #fff;
+	}
+	.nx-meta-dates .meta-author:nth-child(2)::before {
+    background-color: #2877a5;
+    content: '';
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    position: absolute;
+    top: 5px;
+    left: -23px;
+ }
+	
+}
+
+		</style>
+		</head>
+
+<body id="top" class="page-template-default page page-id-561063461">
+<div class="nx-banner-wrapper">
+<!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_OOP -->
+<div id='nx_ad_Category_OOP'>
+  <script>
+	googletag.cmd.push(function() { googletag.display('nx_ad_Category_OOP'); });
+  </script>
+</div>
+</div>
+		<div class="nx-banner-wrapper">
+<!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_Skin -->
+<div id='nx_ad_Category_Skin'>
+  <script>
+  if (!isNXMobile && NXSkinFits) {
+	googletag.cmd.push(function() { googletag.display('nx_ad_Category_Skin'); });
+  }
+  </script>
+</div>
+</div>
+		<div id="main-sections-nav" class="sections-nav">
+    <nav class="side-primary-menu">
+        <div class="search-holder-wrapper">
+            <input type="text" placeholder="Αναζήτηση...">
+        </div>
+        <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="side-menu-item-home"><a href="/"><span>ΑΡΧΙΚΗ</span></a></li><li id="menu-item-48965277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965277"><a href="https://www.kathimerini.gr/category/politics/">ΠΟΛΙΤΙΚΗ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063757"><a href="https://www.kathimerini.gr/category/politics/government/">ΚΥΒΕΡΝΗΣΗ</a></li>
+	<li id="menu-item-561063760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063760"><a href="https://www.kathimerini.gr/category/politics/parliament/">ΒΟΥΛΗ</a></li>
+	<li id="menu-item-561063763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063763"><a href="https://www.kathimerini.gr/category/politics/parties/">ΚΟΜΜΑΤΑ</a></li>
+	<li id="menu-item-561063766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063766"><a href="https://www.kathimerini.gr/category/politics/foreign-policy/">ΕΞΩΤΕΡΙΚΗ ΠΟΛΙΤΙΚΗ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965283"><a href="https://www.kathimerini.gr/category/economy/">ΟΙΚΟΝΟΜΙΑ</a>
+<ul class="sub-menu">
+	<li id="menu-item-48965286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965286"><a href="https://www.kathimerini.gr/category/economy/local/">ΕΛΛΗΝΙΚΗ ΟΙΚΟΝΟΜΙΑ</a></li>
+	<li id="menu-item-48965361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965361"><a href="https://www.kathimerini.gr/category/economy/international/">ΔΙΕΘΝΗΣ ΟΙΚΟΝΟΜΙΑ</a></li>
+	<li id="menu-item-48965289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965289"><a href="https://www.kathimerini.gr/category/economy/business/">ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li>
+	<li id="menu-item-48965355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965355"><a href="https://www.kathimerini.gr/category/economy/markets/">ΑΓΟΡΕΣ</a></li>
+	<li id="menu-item-561063754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063754"><a href="https://www.kathimerini.gr/category/economy/shipping/">ΝΑΥΤΙΛΙΑ</a></li>
+	<li id="menu-item-48965352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965352"><a href="https://www.kathimerini.gr/category/economy/real-estate/">REAL ESTATE</a></li>
+	<li id="menu-item-48965358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965358"><a href="https://www.kathimerini.gr/category/economy/diktis/">ΔΗΚΤΗΣ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965274"><a href="https://www.kathimerini.gr/category/society/">ΚΟΙΝΩΝΙΑ</a></li>
+<li id="menu-item-48965271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965271"><a href="https://www.kathimerini.gr/category/world/">ΚΟΣΜΟΣ</a></li>
+<li id="menu-item-48965295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965295"><a href="https://www.kathimerini.gr/category/culture/">ΠΟΛΙΤΙΣΜΟΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063769" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063769"><a href="https://www.kathimerini.gr/category/culture/books/">ΒΙΒΛΙΟ</a></li>
+	<li id="menu-item-561063772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063772"><a href="https://www.kathimerini.gr/category/culture/theater/">ΘΕΑΤΡΟ</a></li>
+	<li id="menu-item-561063775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063775"><a href="https://www.kathimerini.gr/category/culture/arts/">ΕΙΚΑΣΤΙΚΑ</a></li>
+	<li id="menu-item-561063778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063778"><a href="https://www.kathimerini.gr/category/culture/cinema/">ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</a></li>
+	<li id="menu-item-48965367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965367"><a href="https://www.kathimerini.gr/category/culture/music/">ΜΟΥΣΙΚΗ</a></li>
+	<li id="menu-item-48965373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965373"><a href="https://www.kathimerini.gr/category/culture/dance/">ΧΟΡΟΣ</a></li>
+	<li id="menu-item-48965370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965370"><a href="https://www.kathimerini.gr/category/culture/tv/">ΤΗΛΕΟΡΑΣΗ</a></li>
+	<li id="menu-item-561063781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063781"><a href="https://www.kathimerini.gr/category/culture/agenda/">ΑΤΖΕΝΤΑ</a></li>
+	<li id="menu-item-48965364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965364"><a href="https://www.kathimerini.gr/category/culture/museums/">ΜΟΥΣΕΙΑ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965292"><a href="https://www.kathimerini.gr/category/athletics/">ΑΘΛΗΤΙΣΜΟΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063748"><a href="https://www.kathimerini.gr/category/athletics/football/">ΠΟΔΟΣΦΑΙΡΟ</a></li>
+	<li id="menu-item-561063751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063751"><a href="https://www.kathimerini.gr/category/athletics/basketball/">ΜΠΑΣΚΕΤ</a></li>
+	<li id="menu-item-561063745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063745"><a href="https://www.kathimerini.gr/category/athletics/sports/">ΣΠΟΡ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965298"><a href="https://www.kathimerini.gr/category/life/">LIFE</a>
+<ul class="sub-menu">
+	<li id="menu-item-561065587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065587"><a href="https://www.kathimerini.gr/category/life/people/">ΠΡΟΣΩΠΑ</a></li>
+	<li id="menu-item-561065590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065590"><a href="https://www.kathimerini.gr/category/life/technology/">ΤΕΧΝΟΛΟΓΙΑ</a></li>
+	<li id="menu-item-561065593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065593"><a href="https://www.kathimerini.gr/category/life/health/">ΥΓΕΙΑ</a></li>
+	<li id="menu-item-48965310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965310"><a href="https://www.kathimerini.gr/category/life/science/">ΕΠΙΣΤΗΜΗ</a></li>
+	<li id="menu-item-561065596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065596"><a href="https://www.kathimerini.gr/category/life/city/">ΠΟΛΗ</a></li>
+	<li id="menu-item-561065599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065599"><a href="https://www.kathimerini.gr/category/life/environment/">ΠΕΡΙΒΑΛΛΟΝ</a></li>
+	<li id="menu-item-48965307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965307"><a href="https://www.kathimerini.gr/category/life/auto/">ΑΥΤΟΚΙΝΗΤΟ</a></li>
+	<li id="menu-item-561065602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065602"><a href="https://www.kathimerini.gr/category/life/style/">ΣΤΙΛ</a></li>
+	<li id="menu-item-48965304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965304"><a href="https://www.kathimerini.gr/category/life/architecture/">ΑΡΧΙΤΕΚΤΟΝΙΚΗ</a></li>
+	<li id="menu-item-48965301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965301"><a href="https://www.kathimerini.gr/category/life/hours/">HOURS</a></li>
+	<li id="menu-item-561063739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063739"><a href="https://www.kathimerini.gr/category/pages/matter-of-class/">ΕΚΠΑΙΔΕΥΣΗ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965280" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-ancestor current-menu-parent menu-item-has-children menu-item-48965280"><a href="https://www.kathimerini.gr/category/opinion/">ΑΠΟΨΕΙΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561064660" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561063461 current_page_item menu-item-561064660"><a href="https://www.kathimerini.gr/authors/" aria-current="page">ΑΡΘΡΟΓΡΑΦΟΙ</a></li>
+	<li id="menu-item-48965382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965382"><a href="https://www.kathimerini.gr/category/opinion/sketches/">ΣΚΙΤΣΑ</a></li>
+	<li id="menu-item-48965385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965385"><a href="https://www.kathimerini.gr/category/opinion/interviews/">ΣΥΝΕΝΤΕΥΞΕΙΣ</a></li>
+	<li id="menu-item-561084103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561084103"><a href="https://www.kathimerini.gr/category/opinion/geyma-me-thn-k/">ΓΕΥΜΑ ΜΕ ΤΗΝ Κ</a></li>
+	<li id="menu-item-48965346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965346"><a href="https://www.kathimerini.gr/category/opinion/readers/">ΓΡΑΜΜΑΤΑ ΑΝΑΓΝΩΣΤΩΝ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965313"><a href="https://www.kathimerini.gr/category/visual/">MULTIMEDIA</a>
+<ul class="sub-menu">
+	<li id="menu-item-48965388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965388"><a href="https://www.kathimerini.gr/category/visual/photography/">ΦΩΤΟΓΡΑΦΗΜΑΤΑ</a></li>
+	<li id="menu-item-48965319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965319"><a href="https://www.kathimerini.gr/category/visual/video/">VIDEO</a></li>
+	<li id="menu-item-48965322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965322"><a href="https://www.kathimerini.gr/category/visual/infographics/">ΓΡΑΦΗΜΑΤΑ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965349"><a href="https://www.kathimerini.gr/category/investigations/">ΕΡΕΥΝΕΣ</a></li>
+<li id="menu-item-48965325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965325"><a href="https://www.kathimerini.gr/category/k/">«ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ»</a>
+<ul class="sub-menu">
+	<li id="menu-item-561064087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561064087"><a target="_blank" rel="noopener noreferrer" href="https://www.gastronomos.gr/">ΓΑΣΤΡΟΝΟΜΟΣ</a></li>
+	<li id="menu-item-48965379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965379"><a href="https://www.kathimerini.gr/category/k/k-magazine/">ΠΕΡΙΟΔΙΚΟ «Κ»</a></li>
+	<li id="menu-item-561063796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063796"><a href="https://www.kathimerini.gr/category/k/travel/">ΤΑΞΙΔΙΑ</a></li>
+	<li id="menu-item-561064090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561064090"><a target="_blank" rel="noopener noreferrer" href="https://vogue.gr/">VOGUE</a></li>
+	<li id="menu-item-561077701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561077701"><a target="_blank" rel="noopener noreferrer" href="https://www.greece-is.com/">GREECE IS</a></li>
+	<li id="menu-item-48965376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965376"><a href="https://www.kathimerini.gr/category/k/sunday-edition/">ΜΕ ΤΗΝ «Κ»</a></li>
+	<li id="menu-item-48965331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965331"><a href="https://www.kathimerini.gr/category/k/disney/">DISNEY</a></li>
+	<li id="menu-item-48965337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965337"><a href="https://www.kathimerini.gr/category/k/k-inspiration/">Κ*INSPIRATION</a></li>
+	<li id="menu-item-561063790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063790"><a href="https://www.kathimerini.gr/category/k/events/">ΕΚΔΗΛΩΣΕΙΣ</a></li>
+	<li id="menu-item-561063799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063799"><a href="https://subscription.kathimerini.gr/">ΣΥΝΔΡΟΜΕΣ</a></li>
+</ul>
+</li>
+</ul></div>        <hr style="margin-bottom: 5px;"/>
+        <div class="menu-extras-menu-container"><ul id="menu-extras-menu" class="menu"><li id="menu-item-561068938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561068938"><a href="https://www.kathimerini.gr/epikairothta/">ΡΟΗ ΕΙΔΗΣΕΩΝ</a></li>
+<li id="menu-item-561063694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063694"><a href="https://www.kathimerini.gr/weather/greece/">ΚΑΙΡΟΣ</a></li>
+<li id="menu-item-561063697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063697"><a href="https://www.kestate.gr/">ΑΓΓΕΛΙΕΣ</a></li>
+<li id="menu-item-561063700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063700"><a href="https://www.ekathimerini.com/">ENGLISH EDITION</a></li>
+<li id="menu-item-561063688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063688"><a href="https://www.kathimerini.gr/contact/">ΕΠΙΚΟΙΝΩΝΙΑ</a></li>
+</ul></div></div> <!-- #main-sections-nav -->
+
+<div id="content-wrap">
+    <header id="header" class="blog-header sticky">
+        <div class="top-nav">
+            <div class="container">
+                <div class="row d-flex align-items-center">
+                    <div class="col-10 pt-1 d-flex align-items-center">
+                        <a class="text-muted mob-nav-trigger">
+                            <div class="hamburger hamburger--spin">
+                                <div class="hamburger-box">
+                                    <div class="hamburger-inner"></div>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="/" class="nav-home"><img
+                                    style="width: 19px; margin: -4px -2px 0 8px;"
+                                    src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/ic_k_home.png"></a>
+                        <div class="primary-menu">
+                            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="side-menu-item-home"><a href="/"><span>ΑΡΧΙΚΗ</span></a></li><li id="menu-item-48965277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965277"><a href="https://www.kathimerini.gr/category/politics/">ΠΟΛΙΤΙΚΗ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063757"><a href="https://www.kathimerini.gr/category/politics/government/">ΚΥΒΕΡΝΗΣΗ</a></li>
+	<li id="menu-item-561063760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063760"><a href="https://www.kathimerini.gr/category/politics/parliament/">ΒΟΥΛΗ</a></li>
+	<li id="menu-item-561063763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063763"><a href="https://www.kathimerini.gr/category/politics/parties/">ΚΟΜΜΑΤΑ</a></li>
+	<li id="menu-item-561063766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063766"><a href="https://www.kathimerini.gr/category/politics/foreign-policy/">ΕΞΩΤΕΡΙΚΗ ΠΟΛΙΤΙΚΗ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965283"><a href="https://www.kathimerini.gr/category/economy/">ΟΙΚΟΝΟΜΙΑ</a>
+<ul class="sub-menu">
+	<li id="menu-item-48965286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965286"><a href="https://www.kathimerini.gr/category/economy/local/">ΕΛΛΗΝΙΚΗ ΟΙΚΟΝΟΜΙΑ</a></li>
+	<li id="menu-item-48965361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965361"><a href="https://www.kathimerini.gr/category/economy/international/">ΔΙΕΘΝΗΣ ΟΙΚΟΝΟΜΙΑ</a></li>
+	<li id="menu-item-48965289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965289"><a href="https://www.kathimerini.gr/category/economy/business/">ΕΠΙΧΕΙΡΗΣΕΙΣ</a></li>
+	<li id="menu-item-48965355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965355"><a href="https://www.kathimerini.gr/category/economy/markets/">ΑΓΟΡΕΣ</a></li>
+	<li id="menu-item-561063754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063754"><a href="https://www.kathimerini.gr/category/economy/shipping/">ΝΑΥΤΙΛΙΑ</a></li>
+	<li id="menu-item-48965352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965352"><a href="https://www.kathimerini.gr/category/economy/real-estate/">REAL ESTATE</a></li>
+	<li id="menu-item-48965358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965358"><a href="https://www.kathimerini.gr/category/economy/diktis/">ΔΗΚΤΗΣ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965274"><a href="https://www.kathimerini.gr/category/society/">ΚΟΙΝΩΝΙΑ</a></li>
+<li id="menu-item-48965271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965271"><a href="https://www.kathimerini.gr/category/world/">ΚΟΣΜΟΣ</a></li>
+<li id="menu-item-48965295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965295"><a href="https://www.kathimerini.gr/category/culture/">ΠΟΛΙΤΙΣΜΟΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063769" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063769"><a href="https://www.kathimerini.gr/category/culture/books/">ΒΙΒΛΙΟ</a></li>
+	<li id="menu-item-561063772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063772"><a href="https://www.kathimerini.gr/category/culture/theater/">ΘΕΑΤΡΟ</a></li>
+	<li id="menu-item-561063775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063775"><a href="https://www.kathimerini.gr/category/culture/arts/">ΕΙΚΑΣΤΙΚΑ</a></li>
+	<li id="menu-item-561063778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063778"><a href="https://www.kathimerini.gr/category/culture/cinema/">ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ</a></li>
+	<li id="menu-item-48965367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965367"><a href="https://www.kathimerini.gr/category/culture/music/">ΜΟΥΣΙΚΗ</a></li>
+	<li id="menu-item-48965373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965373"><a href="https://www.kathimerini.gr/category/culture/dance/">ΧΟΡΟΣ</a></li>
+	<li id="menu-item-48965370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965370"><a href="https://www.kathimerini.gr/category/culture/tv/">ΤΗΛΕΟΡΑΣΗ</a></li>
+	<li id="menu-item-561063781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063781"><a href="https://www.kathimerini.gr/category/culture/agenda/">ΑΤΖΕΝΤΑ</a></li>
+	<li id="menu-item-48965364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965364"><a href="https://www.kathimerini.gr/category/culture/museums/">ΜΟΥΣΕΙΑ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965292"><a href="https://www.kathimerini.gr/category/athletics/">ΑΘΛΗΤΙΣΜΟΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561063748" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063748"><a href="https://www.kathimerini.gr/category/athletics/football/">ΠΟΔΟΣΦΑΙΡΟ</a></li>
+	<li id="menu-item-561063751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063751"><a href="https://www.kathimerini.gr/category/athletics/basketball/">ΜΠΑΣΚΕΤ</a></li>
+	<li id="menu-item-561063745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063745"><a href="https://www.kathimerini.gr/category/athletics/sports/">ΣΠΟΡ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965298"><a href="https://www.kathimerini.gr/category/life/">LIFE</a>
+<ul class="sub-menu">
+	<li id="menu-item-561065587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065587"><a href="https://www.kathimerini.gr/category/life/people/">ΠΡΟΣΩΠΑ</a></li>
+	<li id="menu-item-561065590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065590"><a href="https://www.kathimerini.gr/category/life/technology/">ΤΕΧΝΟΛΟΓΙΑ</a></li>
+	<li id="menu-item-561065593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065593"><a href="https://www.kathimerini.gr/category/life/health/">ΥΓΕΙΑ</a></li>
+	<li id="menu-item-48965310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965310"><a href="https://www.kathimerini.gr/category/life/science/">ΕΠΙΣΤΗΜΗ</a></li>
+	<li id="menu-item-561065596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065596"><a href="https://www.kathimerini.gr/category/life/city/">ΠΟΛΗ</a></li>
+	<li id="menu-item-561065599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065599"><a href="https://www.kathimerini.gr/category/life/environment/">ΠΕΡΙΒΑΛΛΟΝ</a></li>
+	<li id="menu-item-48965307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965307"><a href="https://www.kathimerini.gr/category/life/auto/">ΑΥΤΟΚΙΝΗΤΟ</a></li>
+	<li id="menu-item-561065602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561065602"><a href="https://www.kathimerini.gr/category/life/style/">ΣΤΙΛ</a></li>
+	<li id="menu-item-48965304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965304"><a href="https://www.kathimerini.gr/category/life/architecture/">ΑΡΧΙΤΕΚΤΟΝΙΚΗ</a></li>
+	<li id="menu-item-48965301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965301"><a href="https://www.kathimerini.gr/category/life/hours/">HOURS</a></li>
+	<li id="menu-item-561063739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063739"><a href="https://www.kathimerini.gr/category/pages/matter-of-class/">ΕΚΠΑΙΔΕΥΣΗ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965280" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-ancestor current-menu-parent menu-item-has-children menu-item-48965280"><a href="https://www.kathimerini.gr/category/opinion/">ΑΠΟΨΕΙΣ</a>
+<ul class="sub-menu">
+	<li id="menu-item-561064660" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561063461 current_page_item menu-item-561064660"><a href="https://www.kathimerini.gr/authors/" aria-current="page">ΑΡΘΡΟΓΡΑΦΟΙ</a></li>
+	<li id="menu-item-48965382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965382"><a href="https://www.kathimerini.gr/category/opinion/sketches/">ΣΚΙΤΣΑ</a></li>
+	<li id="menu-item-48965385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965385"><a href="https://www.kathimerini.gr/category/opinion/interviews/">ΣΥΝΕΝΤΕΥΞΕΙΣ</a></li>
+	<li id="menu-item-561084103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561084103"><a href="https://www.kathimerini.gr/category/opinion/geyma-me-thn-k/">ΓΕΥΜΑ ΜΕ ΤΗΝ Κ</a></li>
+	<li id="menu-item-48965346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965346"><a href="https://www.kathimerini.gr/category/opinion/readers/">ΓΡΑΜΜΑΤΑ ΑΝΑΓΝΩΣΤΩΝ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965313"><a href="https://www.kathimerini.gr/category/visual/">MULTIMEDIA</a>
+<ul class="sub-menu">
+	<li id="menu-item-48965388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965388"><a href="https://www.kathimerini.gr/category/visual/photography/">ΦΩΤΟΓΡΑΦΗΜΑΤΑ</a></li>
+	<li id="menu-item-48965319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965319"><a href="https://www.kathimerini.gr/category/visual/video/">VIDEO</a></li>
+	<li id="menu-item-48965322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965322"><a href="https://www.kathimerini.gr/category/visual/infographics/">ΓΡΑΦΗΜΑΤΑ</a></li>
+</ul>
+</li>
+<li id="menu-item-48965349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965349"><a href="https://www.kathimerini.gr/category/investigations/">ΕΡΕΥΝΕΣ</a></li>
+<li id="menu-item-48965325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48965325"><a href="https://www.kathimerini.gr/category/k/">«ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ»</a>
+<ul class="sub-menu">
+	<li id="menu-item-561064087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561064087"><a target="_blank" rel="noopener noreferrer" href="https://www.gastronomos.gr/">ΓΑΣΤΡΟΝΟΜΟΣ</a></li>
+	<li id="menu-item-48965379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965379"><a href="https://www.kathimerini.gr/category/k/k-magazine/">ΠΕΡΙΟΔΙΚΟ «Κ»</a></li>
+	<li id="menu-item-561063796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063796"><a href="https://www.kathimerini.gr/category/k/travel/">ΤΑΞΙΔΙΑ</a></li>
+	<li id="menu-item-561064090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561064090"><a target="_blank" rel="noopener noreferrer" href="https://vogue.gr/">VOGUE</a></li>
+	<li id="menu-item-561077701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561077701"><a target="_blank" rel="noopener noreferrer" href="https://www.greece-is.com/">GREECE IS</a></li>
+	<li id="menu-item-48965376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965376"><a href="https://www.kathimerini.gr/category/k/sunday-edition/">ΜΕ ΤΗΝ «Κ»</a></li>
+	<li id="menu-item-48965331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965331"><a href="https://www.kathimerini.gr/category/k/disney/">DISNEY</a></li>
+	<li id="menu-item-48965337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48965337"><a href="https://www.kathimerini.gr/category/k/k-inspiration/">Κ*INSPIRATION</a></li>
+	<li id="menu-item-561063790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561063790"><a href="https://www.kathimerini.gr/category/k/events/">ΕΚΔΗΛΩΣΕΙΣ</a></li>
+	<li id="menu-item-561063799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063799"><a href="https://subscription.kathimerini.gr/">ΣΥΝΔΡΟΜΕΣ</a></li>
+</ul>
+</li>
+</ul></div>                        </div>
+                    </div>
+                    <div class="d-logo-class">
+                        <a class="blog-header-logo text-dark" href="/"><img
+                                    src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/logo.svg"></a>
+                    </div>
+                    <div class="col-4 logo-class">
+                        <a class="blog-header-logo text-dark" href="https://www.kathimerini.gr"><img
+                                    src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/logo.svg"/></a>
+                    </div>
+                    <div class="col-2 d-flex justify-content-end align-items-center right-top-nav">
+                        <div class="social-share nav-socials" style="display: none;">
+                            <ul class="social-icons-list">
+                                <li class="fb-share-item social-icon">
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.kathimerini.gr/authors"
+                                       onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=545,width=560');return false;"
+                                       rel="noopener noreferrer"
+                                       aria-label="Κοινοποίηση στο facebook">
+                                        <svg class="svg-social-icon" viewBox="0 0 7 15" width="7" height="15">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M4.775 14.163V7.08h1.923l.255-2.441H4.775l.004-1.222c0-.636.06-.977.958-.977H6.94V0H5.016c-2.31 0-3.123 1.184-3.123 3.175V4.64H.453v2.44h1.44v7.083h2.882z"
+                                                  fill="#fff"></path>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="twitter-share-item social-icon">
+                                    <a href="https://twitter.com/intent/tweet?url=https://www.kathimerini.gr/authors"
+                                       target="_blank"
+                                       rel="noopener noreferrer" aria-label="Κοινοποίηση στο Twitter">
+                                        <svg viewBox="0 0 13 10" class="svg-social-icon" width="13" height="10">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M5.987 2.772l.025.425-.429-.052c-1.562-.2-2.927-.876-4.086-2.011L.93.571.784.987c-.309.927-.111 1.906.533 2.565.343.364.266.416-.327.2-.206-.07-.386-.122-.403-.096-.06.06.146.85.309 1.161.223.434.678.858 1.176 1.11l.42.199-.497.009c-.481 0-.498.008-.447.19.172.564.85 1.162 1.606 1.422l.532.182-.464.277a4.833 4.833 0 0 1-2.3.641c-.387.009-.704.044-.704.07 0 .086 1.047.572 1.657.762 1.828.564 4 .32 5.631-.641 1.159-.685 2.318-2.045 2.859-3.363.292-.702.583-1.984.583-2.6 0-.398.026-.45.507-.927.283-.277.55-.58.6-.667.087-.165.078-.165-.36-.018-.73.26-.832.226-.472-.164.266-.278.584-.78.584-.928 0-.026-.129.018-.275.096a4.79 4.79 0 0 1-.755.294l-.464.148-.42-.286C9.66.467 9.335.293 9.163.24 8.725.12 8.055.137 7.66.276c-1.074.39-1.752 1.395-1.674 2.496z"
+                                                  fill="#fff"></path>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="social-icon">
+                                    <a href="/cdn-cgi/l/email-protection#f6c98583949c939582cbbed6386c3867386e3861386a38633857386f386b3861d0979b86cd9499928fcb9e82828685ccd9d9818181d89d97829e9f9b93849f989fd89184d99783829e998485" target="_blank" rel="noopener noreferrer" aria-label="Email">
+                                        <svg viewBox="0 0 15 9" class="svg-social-icon" width="15" height="9">
+                                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                                  d="M.906 8.418V0L5.64 4.76.906 8.419zm13 0L9.174 4.761 13.906 0v8.418zM7.407 6.539l-1.13-1.137L.907 9h13l-5.37-3.598-1.13 1.137zM1.297 0h12.22l-6.11 5.095L1.297 0z"
+                                                  fill="#fff"></path>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li class="social-icon">
+                                    <a rel="noopener noreferrer" aria-label="Email" data-id="561063461"
+                                       data-title="ΑΡΘΡΟΓΡΑΦΟΙ"
+                                       data-permalink="https://www.kathimerini.gr/authors/"
+                                       class="bookmark bookmark-add">
+                                        <svg height="24" class="svg-bookmark-icon" viewBox="-64 0 512 512" width="24"
+                                             xmlns="http://www.w3.org/2000/svg">
+                                            <path d="m324.070312 0h-264.058593c-33.089844 0-60.011719 26.882812-60.011719 59.929688v452.070312l192.066406-125.066406 192.015625 124.4375v-451.441406c0-33.046876-26.921875-59.929688-60.011719-59.929688zm20.003907 437.765625-152.058594-98.542969-152.007813 98.980469v-378.273437c0-10.984376 8.972657-19.921876 20.003907-19.921876h264.058593c11.027344 0 20.003907 8.9375 20.003907 19.921876zm-132.027344-267.730469h70.015625v40.011719h-70.015625v70.011719h-40.011719v-70.011719h-70.011718v-40.011719h70.011718v-70.011718h40.011719zm0 0"></path>
+                                        </svg>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div><!-- .social-share -->
+                        <a class="text-muted search-trigger">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+                                 fill="none"
+                                 stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+                                 class="mx-3">
+                                <circle cx="10.5" cy="10.5" r="7.5"></circle>
+                                <line x1="21" y1="21" x2="15.8" y2="15.8"></line>
+                            </svg>
+                        </a>
+                        <div class="user-menu-wrapper">
+                            <a class="text-muted user-menu-trigger" rel="noreferrer" target="_blank"
+                               href="https://subscription.kathimerini.gr/">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
+                                    <path fill="#ffffff"
+                                          d="M20.822 18.096c-3.439-.794-6.64-1.49-5.09-4.418 4.72-8.912 1.251-13.678-3.732-13.678-5.082 0-8.464 4.949-3.732 13.678 1.597 2.945-1.725 3.641-5.09 4.418-3.073.71-3.188 2.236-3.178 4.904l.004 1h23.99l.004-.969c.012-2.688-.092-4.222-3.176-4.935z"/>
+                                </svg>
+                                <span></span>
+                            </a>
+                            <div class="dropdown-user-menu full-shadow">
+                                <div class="user-menu-inner">
+                                    <a rel="noreferrer" class="btn btn-sm btn-outline-secondary user-subscribe-mob"
+                                       target="_blank"
+                                       href="https://subscription.kathimerini.gr/">Γίνε Συνδρομητής</a>
+                                    <a rel="noreferrer" class="btn btn-sm btn-outline-secondary user-signin-mob"
+                                       target="_blank"
+                                       href="https://subscription.kathimerini.gr/login">Σύνδεση</a>
+                                    <div class="menu-user-menu-container">
+                                        <ul id="menu-user-menu" class="menu">
+                                            <li id="menu-item-561062981"
+                                                class="newsletter-modal-trigger menu-item menu-item-type-custom menu-item-object-custom menu-item-561062981">
+                                                <a href="#newsletter-modal">NEWSLETTER</a></li>
+                                            <li id="menu-item-561062982"
+                                                class="favorite-trigger menu-item menu-item-type-custom menu-item-object-custom menu-item-561062982 menu-item-has-children">
+                                                <a href="#">ΑΠΟΘΗΚΕΥΜΕΝΑ ΑΡΘΡΑ</a>
+                                                <ul class="sub-menu"></ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="https://www.ekathimerini.com/" class="text-muted eng-edition">English</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header-search">
+                <div class="searchform-wrapper">
+                    <form method="get" class="searchform" action="https://www.kathimerini.gr">
+                        <input placeholder="Τι ψάχνετε;" name="s" class="search-input">
+                    </form>
+                </div>
+            </div>
+        </div>
+                <div id="masthead" class="container flex-nowrap justify-content-between align-items-center masthead">
+                    </div>
+
+    </header>
+
+    <main role="main">
+<div class="container top-padding-double">
+    <div class="row">
+        <div class="col-12 nx-banner-wrapper nx-border-corr">
+			<div class='nxAds gAdCentered gAdNoMargin' id='nx_kathimerini_gr_Category_Billboard' style=''><!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_Billboard -->
+<div id='nx_ad_Category_Billboard'>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+googletag.cmd.push(function() { googletag.display('nx_ad_Category_Billboard'); });
+</script>
+</div>
+</div>        </div>
+    </div>
+    <div class="page-head subcats d-md-flex align-items-center">
+        <div class="page-title-wrap">
+            <h1>ΑΡΘΡΟΓΡΑΦΟΙ</h1><div id="subMenu" class="cat-menu"><ul id="autoNav" class="auto-nav"><li><a href="https://www.kathimerini.gr/authors/" >ΑΡΘΡΟΓΡΑΦΟΙ</a></li><li><a href="https://www.kathimerini.gr/category/opinion/sketches/" >ΣΚΙΤΣΑ</a></li><li><a href="https://www.kathimerini.gr/category/opinion/interviews/" >ΣΥΝΕΝΤΕΥΞΕΙΣ</a></li><li><a href="https://www.kathimerini.gr/category/opinion/readers/" >ΓΡΑΜΜΑΤΑ ΑΝΑΓΝΩΣΤΩΝ</a></li><li id="autoNavMore" class="auto-nav-more">
+        <a class="more-btn">ΠΕΡΙΣΣΟΤΕΡΑ<svg viewBox="0 0 11 6" ><polygon fill="black" fill-rule="nonzero" transform="translate(5.500000, 3.000000) rotate(-360.000000) translate(-5.500000, -3.000000)" points="5.53970867 4.60498904 10.2761676 0 11 0.702875185 5.53970867 6 0 0.702875185 0.723832398 0"></polygon></svg></a>
+        <ul id="autoNavMoreList" class="auto-nav-more-list">
+        </ul>
+      </li></ul></div>        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-9 blog-main">
+                            <div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/kyrio_arthro-1.jpg"></div></div><div class="col-sm-10"><article id="post-561116599"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kyrio-arthro/">ΚΥΡΙΟ ΑΡΘΡΟ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116599/pleiodosia/">Πλειοδοσία</a></h2></div><p>Την αντιπολιτευτική πλειοδοσία στην οικονομία έχουμε μάθει να την αποδεχόμαστε σαν στοιχείο πολιτικού φολκλόρ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/AlexisPapachelas2.jpg"></div></div><div class="col-sm-10"><article id="post-561116596"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/alexis-papachelas/">ΑΛΕΞΗΣ ΠΑΠΑΧΕΛΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116596/rixi-me-ti-dysi/">Ρήξη με τη Δύση</a></h2></div><p>Δεν θα ξεμπλέξουμε εύκολα με την Τουρκία λοιπόν. Οι απαισιόδοξες εκτιμήσεις για το πού το πάει ο Ερντογάν επαληθεύονται.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Vassilis_Angelikopoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112054"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasilis-aggelikopoylos/">ΒΑΣΙΛΗΣ ΑΓΓΕΛΙΚΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112054/ypovoleio-908/">Υποβολείο</a></h2></div><p>«Αλγηδόνες ομμάτων», όπως έλεγε ο Μεγαλέξανδρος,|αλλά και ώτων, και νεύρων, και σκέψεων…|Η αθλιότητα με τις καταλήψεις στα σχολεία|και ό,τι σχετικό σε εικόνα, ήχο ή κείμενο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Aris_Aleksandris.jpg"></div></div><div class="col-sm-10"><article id="post-561094084"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/aris-alexandris/">ΑΡΗΣ ΑΛΕΞΑΝΔΡΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561094084/diataseis-2/">ΔΙΑΤΑΣΕΙΣ</a></h2></div><p>Οι Ελληνες δεν αγαπούν την καταπίεση. Ναι, κανένας λαός δεν αγαπά τους περιορισμούς και τις απαγορεύσεις, όμως κάποιοι έχουν καταφέρει με διάφορους τρόπους να εντάξουν την πειθαρχία σε ένα ανταποδοτικό σχήμα, το οποίο προϋποθέτει μεν βάρη αλλά αποφέρει και οφέλη.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Antonis_Antzoletos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561115912"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/antonis-antzoletos/">ΑΝΤΩΝΗΣ ΑΝΤΖΟΛΕΤΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/politics/561115912/epektasi-chorikon-ydaton-zitei-o-syriza/">Επέκταση χωρικών υδάτων ζητεί ο ΣΥΡΙΖΑ</a></h2></div><p>Αρχικά νότια και ανατολικά της Κρήτης, με την προοπτική επέκτασης και νότια των νησιών της Ανατ. Μεσογείου ανάλογα με τις περαιτέρω εξελίξεις.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561094327"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dora-antonioy/">ΔΩΡΑ ΑΝΤΩΝΙΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561094327/i-karditsa-metraei-akoma-tis-pliges-tis/">Η Καρδίτσα μετράει ακόμα τις πληγές της</a></h2></div><p>Δέκα ημέρες μετά την πρωτοφανή στα χρονικά πλημμύρα που έπληξε την πόλη και τα γύρω χωριά, η Καρδίτσα παλεύει για μια στοιχειώδη επιστροφή στην κανονικότητα. Σπίτια και επιχειρήσεις καταστράφηκαν. Ο μόχθος ολόκληρης ζωής παρασύρθηκε μεμιάς στις λάσπες που άφησε πίσω του ο «Ιανός».
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Giorgos_Valavanis-min.jpg"></div></div><div class="col-sm-10"><article id="post-561103759"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-valavanis/">ΓΙΩΡΓΟΣ ΒΑΛΑΒΑΝΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/interviews/561103759/to-nva-dinei-zoi-stis-exedres/">Το ΝΒΑ δίνει ζωή στις εξέδρες</a></h2></div><p>Η επικεφαλής τηλεπικοινωνίας του ΝΒΑ μιλάει στην «Κ» γι’ αυτό το τεχνολογικό επίτευγμα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1072427"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/eleni-varvitsioti/">ΕΛΕΝΗ ΒΑΡΒΙΤΣΙΩΤΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/1072427/christos-stylianidis-stin-k-osa-mas-emathe-i-niki-kata-toy-empola/">Χρήστος Στυλιανίδης στην «Κ»: Οσα μας έμαθε η νίκη κατά του Εμπολα</a></h2></div><p>Πριν από περίπου πέντε χρόνια, η παγκόσμια υγεία κινδύνευε από άλλη μία επιδημία, αυτή του Εμπολα. Παρόλο που τα θύματα του θανατηφόρου αυτού ιού έφτασαν σχεδόν τις 12.000, ο Εμπολα δεν κατάφερε να περάσει τα ευρωπαϊκά σύνορα και παρέμεινε κυρίως στις χώρες της Δυτ. Αφρικής, απ&rsquo; όπου είχε ξεσπάσει.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Maro_Vassiliadou-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116419"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/maro-vasileiadoy/">ΜΑΡΩ ΒΑΣΙΛΕΙΑΔΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561116419/i-pandimia-psifiopoiei-tin-art-athina/">Η πανδημία ψηφιοποιεί την Art Athina</a></h2></div><p>H διοργάνωση ανοίγει διαδικτυακά τις πύλες της και προσκαλεί το κοινό της σε 55 γκαλερί από την Ελλάδα και το εξωτερικό.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Theodora_Vassilopoulou2.jpg"></div></div><div class="col-sm-10"><article id="post-1069518"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/theodora-vasilopoyloy/">ΘΕΟΔΩΡΑ ΒΑΣΙΛΟΠΟΥΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/1069518/einai-san-na-zoyme-se-tromaktiki-tainia-epistimonikis-fantasias-pente-katoikoi-tis-italias-miloyn-stin-k/">«Είναι σαν να ζούμε σε τρομακτική ταινία επιστημονικής φαντασίας» - Πέντε κάτοικοι της Ιταλίας μιλούν στην «Κ»</a></h2></div><p>Εικόνες και σκέψεις κατοίκων της Ιταλίας, που βρίσκονται στο μάτι του κυκλώνα της νέας αυτής πανδημίας.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Nikos_Vatopoulos.jpg"></div></div><div class="col-sm-10"><article id="post-561114949"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-vatopoylos/">ΝΙΚΟΣ ΒΑΤΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561114949/sta-egkata-tis-athinaikis-zois/">Στα έγκατα της αθηναϊκής ζωής</a></h2></div><p>Κυκλοφόρησαν «Τα Αθηναϊκά» του Αλέξανδρου Παπαδιαμάντη, με πρόλογο Σταύρου Ζουμπουλάκη.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Dionysia_Voridi-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112276"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dionysia-voridi/">ΔΙΟΝΥΣΙΑ ΒΟΡΙΔΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561112276/to-fasma-toy-deyteroy-lockdown/">Το φάσμα του δεύτερου lockdown</a></h2></div><p>Οι Ευρωπαίοι ηγέτες, χρησιμοποιώντας κάθε λέξη που θα μπορούσε να περιγράψει την έννοια της «ολοκληρωτικής καταστροφής», αναφέρθηκαν στις συνέπειες που θα έχει ένα ενδεχόμενο δεύτερο καθολικό lockdown.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561094822"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/panagis-voyrloymis/">ΠΑΝΑΓΗΣ ΒΟΥΡΛΟΥΜΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561094822/epanalamvanontas-gnosta-symperasmata/">Επαναλαμβάνοντας γνωστά συμπεράσματα</a></h2></div><p>Διάβασα την ενδιάμεση έκθεση Πισσαρίδη και κατέληξα ότι βλάπτει. Εξηγώ γιατί. Η έκθεση ανοίγει με την περιγραφή της διολίσθησης της οικονομίας μας σε όλα τα μέτωπα, δείχνοντας την υποβάθμισή μας στη διεθνή κατάταξη παντού.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Giorgos_Georgakopoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561068182"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-georgakopoylos/">ΓΙΩΡΓΟΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/athletics/561068182/piso-apo-tin-ypothesi-mesi/">Πίσω από την υπόθεση Μέσι</a></h2></div><p>Το σίριαλ «Λιονέλ Μέσι» έλαβε τέλος και ο Αργεντίνος άσος θα παραμείνει, τουλάχιστον για μία σεζόν ακόμη, στην Μπαρτσελόνα, η Ιστορία όμως κατέγραψε την πρόθεση του δεκαριού των «μπλαουγκράνα» να αναζητήσει άλλο σταθμό στην καριέρα του, έχοντας περάσει όλη του την ποδοσφαιρική ζωή στο Καμπ Νου.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Thodoris_Georgakopoulos.jpg"></div></div><div class="col-sm-10"><article id="post-561111880"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/thodoris-georgakopoylos/">ΘΟΔΩΡΗΣ ΓΕΩΡΓΑΚΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561111880/emeis-oi-anthropoi-chorizomaste/">Εμείς οι άνθρωποι χωριζόμαστε…</a></h2></div><p>Oσο περνάει ο καιρός, αυτοί με τους οποίους διαφωνούμε σε βασικά και κρίσιμα πράγματα μοιάζει να αυξάνονται σε αριθμό. Οι άνθρωποι με τους οποίους συμφωνούμε στα βασικά γίνονται όλο και πιο συγκεκριμένοι, όλο και πιο λίγοι.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Tania_Georgiopoulou.jpg"></div></div><div class="col-sm-10"><article id="post-561115699"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/tania-georgiopoyloy/">ΤΑΝΙΑ ΓΕΩΡΓΙΟΠΟΥΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561115699/anagki-lipsis-metron-ston-kara-tepe/">Ανάγκη λήψης μέτρων στον Καρά Τεπέ</a></h2></div><p>Σημαντικά προβλήματα έχουν προκύψει στη νέα δομή που έχει δημιουργηθεί στον Καρά Τεπέ (Μαυροβούνι) στη Λέσβο.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Christos_Giannaras-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112129"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/christos-giannaras/">ΧΡΗΣΤΟΣ ΓΙΑΝΝΑΡΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112129/den-einai-etoimazontai-na-ginoyn-polites/">Δεν είναι, ετοιμάζονται να γίνουν πολίτες</a></h2></div><p>Εύγλωττη φωτογραφία: Καμιά τριανταριά εφηβάκια, μαθητές και μαθήτριες Γυμνασίου, κάθονται αποκαμωμένα στα σκαλοπάτια, μπροστά από την κλειδωμένη, με αλυσίδα και λουκέτο, εξώθυρα του σχολειού τους.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Lina_Giannarou-min.jpg"></div></div><div class="col-sm-10"><article id="post-561114187"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/lina-giannaroy/">ΛΙΝΑ ΓΙΑΝΝΑΡΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561114187/ta-paidia-nomizoyn-oti-ftaine-ta-idia-gia-tin-kakopoiisi/">«Τα παιδιά νομίζουν ότι φταίνε τα ίδια για την κακοποίηση»</a></h2></div><p>«Είναι κρίσιμο να εντοπίζεται ήδη από το πρώτο περιστατικό», λέει στην «Κ» η διοικητική διευθύντρια της ΕΛΙΖΑ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Vassilis_Grigoriadis.jpg"></div></div><div class="col-sm-10"><article id="post-770542"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasilis-grigoriadis/">ΒΑΣΙΛΗΣ ΓΡΗΓΟΡΙΑΔΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/books/770542/to-mythistorima-toy-moyntial/">«Το Μυθιστόρημα του Μουντιάλ»</a></h2></div><p>Με αφορμή την επικείμενη έναρξη του Παγκόσμιου Κυπέλλου ποδοσφαίρου (12/6 -13/7) και με φόντο την πλούσια ιστορία αυτής της μεγάλης γιορτής κυκλοφόρησε πριν λίγες ημέρες το &laquo;Μυθιστόρημα του Μουντιάλ&raquo; του Αργύρη Παγαρτάνη. Σε 218 δισέλιδα αφηγήματα με συγκλονιστικές λεπτομέρειες καταγράφεται η αλληλεπίδραση ποδοσφαίρου και κοινωνίας...</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Marios_Danilopoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561105235"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/marios-danilopoylos/">ΜΑΡΙΟΣ ΔΑΝΗΛΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/politics/561105235/kinal-klimakosi-tis-kritikis-pros-kyvernisi/">ΚΙΝΑΛ: κλιμάκωση της κριτικής προς κυβέρνηση</a></h2></div><p>Το δίπτυχο «υπεύθυνη αντιπολίτευση – προγραμματική επάρκεια», σύμφωνα με την κ. Γεννηματά, θα φέρει την παράταξη άμεσα σε θέση ισχύος στο αντιπολιτευτικό τόξο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Dimitris_Delevegkos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116293"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dimitris-delevegkos/">ΔΗΜΗΤΡΗΣ ΔΕΛΕΒΕΓΚΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561116293/kai-episima-i-gek-terna-mohegan-sto-elliniko/">Και επίσημα η ΓΕΚ ΤΕΡΝΑ - Mohegan στο Ελληνικό</a></h2></div><p>Η αρμόδια επιτροπή ανακήρυξε την κοινοπραξία προσωρινό ανάδοχο για το καζίνο.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1089449"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/stathis-dimolas/">ΣΤΑΘΗΣ ΔΗΜΟΛΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/athletics/1089449/o-koimomenos-ippotis-tis-real/">Ο κοιμώμενος ιππότης της Ρεάλ</a></h2></div><p>Σεπτέμβριος του 2013. Η Ρεάλ Μαδρίτης βγάζει από τα ταμεία της 100 εκατ. ευρώ και αγοράζει από την Τότεναμ τον Γκάρεθ Μπέιλ. Ιούλιος του 2020, η Ρεάλ σκέφτεται να βγάλει από τα ταμεία της άλλα 60 εκατ. ευρώ, να του τα δώσει και εκείνος να της αδειάσει τη... γωνιά. Συγκεκριμένα αυτή στον πάγκο, όπου πριν από λίγες ημέρες συνελήφθη κοιμώμενος κατά τη διάρκεια του αγώνα με την Αλαβές.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Nikos_Dontas-min.jpg"></div></div><div class="col-sm-10"><article id="post-561111232"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-a-dontas/">ΝΙΚΟΣ Α. ΔΟΝΤΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561111232/atmosfairika-koyinteta-gia-piano-ton-korngkolnt-kai-mpartok/">Ατμοσφαιρικά Κουιντέτα για πιάνο των Κόρνγκολντ και Μπάρτοκ</a></h2></div><p>Ο Εριχ Κόρνγκολντ και ο Μπέλα Μπάρτοκ είναι δύο συνθέτες τους οποίους δύσκολα θα συνδύαζε κανείς. Παιδί θαύμα, εκφραστικά πληθωρικός, μελωδικός, συνεχιστής της κεντροευρωπαϊκής μουσικής παράδοσης, ο Αυστριακός Κόρνγκολντ κατέπληξε τη Βιέννη στα 11 του χρόνια με το μπαλέτο «Ο χιονάνθρωπος».
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Andreas-Drimiotis.jpg"></div></div><div class="col-sm-10"><article id="post-561112075"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/andreas-drymiotis/">ΑΝΔΡΕΑΣ ΔΡΥΜΙΩΤΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112075/prosfyges-kai-metanastes-encore/">Πρόσφυγες και Μετανάστες encore</a></h2></div><p>Στη στήλη αυτή γράφω από το 2012. Εχω γράψει περισσότερα από 400 κείμενα των 1.200 λέξεων. Σύνολο, περίπου 500.000 λέξεις. Είναι εύλογο ότι πολλοί μπορεί να μη συμφωνούν ή ακόμα να διαφωνούν κάθετα με τις απόψεις μου.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115816"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giannis-elafros/">ΓΙΑΝΝΗΣ ΕΛΑΦΡΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561115816/mpoyrini-me-traymaties/">Μπουρίνι με τραυματίες</a></h2></div><p>Μεγάλες ζημιές στο Νέο Ηράκλειο Αττικής από τη χθεσινή σφοδρή καταιγίδα.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Athanassios_Ellis.jpg"></div></div><div class="col-sm-10"><article id="post-561115078"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/athanasios-ellis/">ΑΘΑΝΑΣΙΟΣ ΕΛΛΙΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561115078/simantikoi-ellines/">Σημαντικοί Ελληνες</a></h2></div><p>Τη σημαντική παρουσία και επιρροή της ελληνικής διασποράς έφερε στη σκέψη η συνέντευξη στην «Κ» του Τζορτζ Γιανκόπουλος, συνιδρυτή και προέδρου της Regeneron, της φαρμακευτικής εταιρείας της οποίας τα σκευάσματα παρασχέθηκαν στον Ντόναλντ Τραμπ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Youli_Eptakoili.jpg"></div></div><div class="col-sm-10"><article id="post-561111133"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/gioyli-eptakoili/">ΓΙΟΥΛΗ ΕΠΤΑΚΟΙΛΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561111133/i-anagki-gia-chadi/">Η ανάγκη για «χάδι»</a></h2></div><p>Η είδηση, αν θυμάμαι καλά, κυκλοφόρησε το καλοκαίρι και παρουσιάστηκε ως καινοτομία, ως ένας ευφάνταστος τρόπος να απολαύσει κανείς την κουζίνα κάποιου σεφ εν μέσω πανδημίας. Είχα γελάσει πολύ με τη φωτογραφία ενός νεαρού που καθόταν σ’ ένα τραπέζι μόνος του στη μέση ενός αγρού και έτρωγε κάτι μεταξύ πανκέικ και παραψημένης ομελέτας. 
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Tassoula_Eptakoili.jpg"></div></div><div class="col-sm-10"><article id="post-561112336"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/tasoyla-eptakoili/">ΤΑΣΟΥΛΑ ΕΠΤΑΚΟΙΛΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561112336/oi-thanatoi-einai-o-pio-asfalis-deiktis/">Οι θάνατοι είναι ο πιο ασφαλής δείκτης</a></h2></div><p>Σύμφωνα με την πρόσφατη επιδημιολογική αναφορά του Παγκόσμιου Οργανισμού Υγείας, την τελευταία εβδομάδα στην Ελβετία τα νέα κρούσματα COVID-19 ήταν 2.516 και οι θάνατοι 6. Στην Αυστρία 5.079 και 22, αντιστοίχως.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561110944"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-eystathioy/">ΝΙΚΟΣ ΕΥΣΤΑΘΙΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/interviews/561110944/tzosaia-omper-stin-k-i-pandimia-kai-i-krisi-dimokratias/">Τζοσάια Ομπερ στην «Κ»: Η πανδημία και η κρίση δημοκρατίας</a></h2></div><p>Μια υγειονομική κρίση άνευ προηγουμένου. Ισως το πιο χαρακτηριστικό δημοσιογραφικό κλισέ της φετινής χρονιάς θέλει την πανδημία της COVID-19 να αποτελεί μοναδική πρόκληση στο χρονικό της ανθρωπότητας. Φυσικά, η σκέψη αυτή απέχει σημαντικά από την πραγματικότητα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1088806"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasilis-ziras/">ΒΑΣΙΛΗΣ ΖΗΡΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/local/1088806/ena-dyskolo-stoichima/">Ενα δύσκολο στοίχημα</a></h2></div><p>Σε επτά χρόνια&nbsp;πρέπει να απορροφήσουμε σχεδόν δύο&nbsp;ΕΣΠΑ, όταν η αξιοποίηση των κοινοτικών πόρων δεν&nbsp;είναι το φόρτε μας.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Nikolas_Zois-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116401"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikolas-zois/">ΝΙΚΟΛΑΣ ΖΩΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561116401/kataklysmoys-pote-den-logariasame/">Κατακλυσμούς ποτέ δεν λογαριάσαμε…</a></h2></div><p>Ανακοινώθηκε διαδικτυακά το νέο πρόγραμμα του Εθνικού Θεάτρου.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Takis_Theodoropoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116593"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/takis-theodoropoylos/">ΤΑΚΗΣ ΘΕΟΔΩΡΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116593/poios-espase-tin-karekla/">Ποιος έσπασε την καρέκλα;</a></h2></div><p>Μια σπασμένη καρέκλα δεν είναι μια οποιαδήποτε καρέκλα. Κατ’ αρχάς είναι σπασμένη. Ως εκ τούτου, σε βάζει σε σκέψεις.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112132"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostas-iordanidis/">ΚΩΣΤΑΣ ΙΟΡΔΑΝΙΔΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112132/i-ptosi-tis-aylaias/">Η πτώση της αυλαίας</a></h2></div><p>Στις εκλογές της 2ας Μαΐου 2012 πιστοποιήθηκε η πλήρης απορρύθμιση του ελληνικού πολιτικού συστήματος. Η Ν.Δ. εξασφάλισε κάτι λιγότερο από 19%, το ΠΑΣΟΚ κάτι περισσότερο από 13%. Το σύστημα της μεταπολιτεύσεως εθρυμματίσθη, διότι ανεύθυνες πολιτικές δεκαετιών οδήγησαν τη χώρα στη χρεοκοπία.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Sakis_Ioannidis.jpg"></div></div><div class="col-sm-10"><article id="post-561114736"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/sakis-ioannidis/">ΣΑΚΗΣ ΙΩΑΝΝΙΔΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561114736/to-21-moirazei-xana-tin-trapoyla-toy-agona/">Το ’21 μοιράζει ξανά την τράπουλα του Αγώνα</a></h2></div><p>Εκδοση της Βικελαίας Βιβλιοθήκης. Η ζωγράφος Μάλη Χανιωτάκη σχεδίασε ως Ντάμες τη Μαντώ Μαυρογένους και τη Λασκαρίνα Μπουμπουλίνα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Marianna_Kakounaki.jpg"></div></div><div class="col-sm-10"><article id="post-561112393"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/marianna-kakaoynaki/">ΜΑΡΙΑΝΝΑ ΚΑΚΑΟΥΝΑΚΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561112393/thriler-i-dolofonia-tis-soyzan-iton/">Θρίλερ η δολοφονία της Σούζαν Ιτον</a></h2></div><p>«Προκαταβολικά ζητάω συγγνώμη για την πράξη μου και ομολογώ ότι εγώ σκότωσα την Αμερικανίδα βιολόγο». Με αυτή τη φράση ξεκίνησε ο Γιάννης Παρασκάκης την ομολογία του στις 15 Ιουλίου του 2019.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112057"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostas-kallitsis/">ΚΩΣΤΑΣ ΚΑΛΛΙΤΣΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112057/i-ekthesi-tis-epitropis-pissaridi-vetta/">Η έκθεση της επιτροπής Πισσαρίδη – Βέττα</a></h2></div><p>Εχουν γίνει πολλές εκθέσεις για την ανάπτυξη της ελληνικής οικονομίας. Μία από αυτές, προ ολίγων ετών, είχε κοστίσει πολλές εκατοντάδες χιλιάδες ευρώ κι έμεινε στα άχρηστα, εν μέρει γιατί υπό το βαρύ όνομα ενός γνωστού διεθνούς οίκου είχαν συρραφεί πολλές σελίδες με λίγη ουσία – με μπόλικη γενικολογία και επιφανειακές προτάσεις.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Aimilia_Kalogeraki-min.jpg"></div></div><div class="col-sm-10"><article id="post-561117088"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/aimilia-kalogeraki/">ΑΙΜΙΛΙΑ ΚΑΛΟΓΕΡΑΚΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/visual/photography/561117088/i-metalliki-thalassa-tis-kinas/">Η μεταλλική θάλασσα της Κίνας</a></h2></div><p>Η φωτογραφία τραβηγμένη με drone δείχνει την μεγαλύτερη παλιρροιακή βάση παραγωγής καθαρής ενέργειας στον κόσμο.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561083437"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ilias-kanistras/">ΗΛΙΑΣ ΚΑΝΙΣΤΡΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561083437/aporrimmata-se-dekaeti-anamoni/">Απορρίμματα σε δεκαετή αναμονή</a></h2></div><p>100.000 δέματα είναι τοποθετημένα σε περιοχή δίπλα στον Αλφειό ποταμό.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561113308"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/katerina-kapernarakoy/">ΚΑΤΕΡΙΝΑ ΚΑΠΕΡΝΑΡΑΚΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561113308/dyo-ekpompes-gia-tin-epeteio-tis-apeleytherosis-tis-athinas-apo-toys-germanoys/">Δύο εκπομπές για την επέτειο της απελευθέρωσης της Αθήνας</a></h2></div><p>Σήμερα 12 Οκτωβρίου γιορτάζουμε την επέτειο της απελευθέρωσης της Αθήνας από τους Γερμανούς. Τα τελευταία επτά χρόνια μέχρι πέρυσι ένα πλούσιο μείγμα εκδηλώσεων οργανωνόταν από το ΄Ιδρυμα της Βουλής των Ελλήνων, την Περιφέρεια Αττικής, τον Δήμο Αθηναίων, τα Γενικά Αρχεία του Κράτους και την ΕΡΤ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Tassoula_Karaiskaki-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112177"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/tasoyla-karaiskaki/">ΤΑΣΟΥΛΑ ΚΑΡΑΙΣΚΑΚΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/geyma-me-thn-k/561112177/lina-nikolopoyloy-stoyrnara-stin-k-na-min-ypostoyn-alloi-osa-perasame/">Λίνα Νικολοπούλου Στουρνάρα στην «Κ»: Να μην υποστούν άλλοι όσα περάσαμε</a></h2></div><p>Η Λίνα ΝικολοπούλουΣτουρνάρα μιλάει στο Γεύμα με την «Κ», μετά τη δικαίωσή της ως προς τις επιχειρηματικές της δραστηριότητες.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1086272"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostas-karkagiannis/">ΚΩΣΤΑΣ ΚΑΡΚΑΓΙΑΝΝΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/life/health/1086272/ektinaxi-kroysmaton-kai-epanafora-metron/">Εκτίναξη κρουσμάτων και επαναφορά μέτρων</a></h2></div><p>Εξακολουθεί να εξαπλώνεται ραγδαία η πανδημία COVID-19, καθώς πολλές χώρες επιτρέπουν περισσότερες οικονομικές δραστηριότητες και ανοίγουν τα σύνορά τους στην προσπάθεια να αναζωογονήσουν την οικονομία τους. Εξαρση νέων κρουσμάτων σημειώνεται στη Σερβία και στη Βουλγαρία, ενώ στην Ισπανία οι Αρχές έθεσαν υπό καραντίνα 270.000 κατοίκους.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115708"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/alexandra-kassimi/">ΑΛΕΞΑΝΔΡΑ ΚΑΣΣΙΜΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561115708/apergia-kai-staseis-ergasias-sta-mesa-mazikis-metaforas/">Απεργία και στάσεις εργασίας στα μέσα μαζικής μεταφοράς</a></h2></div><p>Ταλαιπωρία αναμένει αύριο το επιβατικό κοινό λόγω της συμμετοχής ορισμένων σωματείων στην 24ωρη απεργία που έχει προκηρύξει η ΑΔΕΔΥ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Maria_Katsounaki-min.jpg"></div></div><div class="col-sm-10"><article id="post-561111214"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/maria-katsoynaki/">ΜΑΡΙΑ ΚΑΤΣΟΥΝΑΚΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561111214/apo-tin-gkolfo-stin-eytychia/">Από την «Γκόλφω» στην «Ευτυχία»</a></h2></div><p>Η σύνδεση γίνεται σχεδόν αυτόματα: Ιστορία του ελληνικού κινηματογράφου – Γιάννης Σολδάτος. Το σκέφτομαι καθώς σπρώχνω τη βαριά πόρτα μιας ταλαιπωρημένης στην όψη μονοκατοικίας στην Τσαμαδού, στα Εξάρχεια, όπου στεγάζονται οι εκδόσεις «Αιγόκερως».
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Elis_Kiss.jpg"></div></div><div class="col-sm-10"><article id="post-561111865"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/elis-kis/">ΕΛΙΣ ΚΙΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561111865/o-chamogelastos-dimioyrgos-poy-elampse-sto-parisi/">Ο χαμογελαστός δημιουργός που έλαμψε στο Παρίσι</a></h2></div><p>O Ιάπωνας που έχτισε  μια πολυδιάστατη γέφυρα μεταξύ Ανατολής και Δύσης, βασισμένη σε πληθωρικά χρώματα, σχέδια και μοτίβα σε ρούχα, αξεσουάρ και όχι μόνο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-982941"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/anny-koltsidopoyloy/">ΑΝΝΥ ΚΟΛΤΣΙΔΟΠΟΥΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/k/k-magazine/982941/i-epanidrysi-tis-kyriakis/">Η επανίδρυση της Κυριακής</a></h2></div><p></p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115999"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/despoina-konti/">ΔΕΣΠΟΙΝΑ ΚΟΝΤΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561115999/epideinosi-oikonomikoy-klimatos-ton-septemvrio/">Επιδείνωση οικονομικού κλίματος τον Σεπτέμβριο</a></h2></div><p>Οριακή επιδείνωση σημείωσε ο δείκτης οικονομικού κλίματος τον Σεπτέμβριο, ενώ σημαντική υποχώρηση συνέχισε να καταγράφει κατά το ίδιο διάστημα και ο δείκτης καταναλωτικής εμπιστοσύνης.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1092961"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/christos-kontos/">ΧΡΗΣΤΟΣ ΚΟΝΤΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/athletics/1092961/podosfairo-tileoptiki-epanastasi/">Ποδόσφαιρο: Τηλεοπτική επανάσταση</a></h2></div><p>Η κίνηση του Παναθηναϊκού και η απειλή των &laquo;άστεγων&raquo; ομάδων της Λίγκας.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561111688"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giannis-koykoylas/">ΓΙΑΝΝΗΣ ΚΟΥΚΟΥΛΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/athletics/561111688/paramenoyme-sto-idio-ergo-theates/">Παραμένουμε στο ίδιο έργο θεατές</a></h2></div><p>Αν η καλή μέρα φαίνεται από την αρχή, τότε για το επαγγελματικό μας ποδοσφαιρικό πρωτάθλημα οι οιωνοί δεν φαίνονται καλοί.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Xenia_Kounalaki-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112264"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/xenia-koynalaki/">ΞΕΝΙΑ ΚΟΥΝΑΛΑΚΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561112264/tzonson-mpros-antarsia-kai-piso-dimoskopiseis/">Τζόνσον: μπρος ανταρσία και πίσω δημοσκοπήσεις</a></h2></div><p>H ιστοσελίδα του συνεδρίου των Βρετανών Συντηρητικών «έπεσε», οι βουλευτές διαμαρτύρονταν για την περιορισμένη χωρητικότητα των συζητήσεων μέσω Zoom, το εικονικό σκηνικό δεν ήταν εντυπωσιακό και ο ηγέτης του κόμματος και πρωθυπουργός, Μπόρις Τζόνσον, υποχρεώθηκε να απευθύνει τα αστεία του στο κενό, αφού κοινό δεν υπήρχε. 
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116008"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/eleytheria-koyrtali/">ΕΛΕΥΘΕΡΙΑ ΚΟΥΡΤΑΛΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561116008/kleinei-i-psalida-ton-ellinikon-spreads-me-toys-ischyroys/">Κλείνει η ψαλίδα των ελληνικών spreads με τους «ισχυρούς»</a></h2></div><p>Κάποια βραχυπρόθεσμα ελληνικά ομόλογα θα διαπραγματεύονται σύντομα με αρνητικές αποδόσεις στη δευτερογενή αγορά.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Dionysis_Krokos-min.jpg"></div></div><div class="col-sm-10"><article id="post-1015131"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dionysis-krokos/">ΔΙΟΝΥΣΗΣ ΚΡΟΚΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/music/1015131/ntik-nteil-o-vasilias-tis-serf-kitharas/">Ντικ Ντέιλ: O «βασιλιάς» της σερφ κιθάρας</a></h2></div><p>Έφυγε το Σάββατο από τη ζωή σε ηλικία 81 ετών ο Ντικ Ντέιλ, ένας από τους πιο ιδιαίτερους κιθαρίστες του αμερικανικού ροκ εν ρολ και πρωτοπόρος του σερφ ήχου των αρχών της δεκαετίας του &rsquo;60, ενός μουσικού υποείδους του ροκ που κυριάρχησε στη Δυτική Ακτή των Ηνωμένων Πολιτειών τα χρόνια πριν από τη &laquo;Βρετανική Εισβολή&raquo;.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Nikos_Konstantaras.jpg"></div></div><div class="col-sm-10"><article id="post-561115111"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-konstantaras/">ΝΙΚΟΣ ΚΩΝΣΤΑΝΤΑΡΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561115111/i-chora-san-oikogeneia-kai-i-diki-tis-chrysis-aygis/">Η χώρα σαν οικογένεια και η δίκη της Χρυσής Αυγής</a></h2></div><p>Διαβάζοντας το δοκίμιο της Μέριλιν Ρόμπινσον «Μη χάσετε την ελπίδα σας για την Αμερική: Η χώρα αυτή δεν είναι απλώς μια ιδέα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Serafim_Konstantinidis.jpg"></div></div><div class="col-sm-10"><article id="post-561111877"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/serafeim-konstantinidis/">ΣΕΡΑΦΕΙΜ ΚΩΝΣΤΑΝΤΙΝΙΔΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561111877/elkystikos-proorismos-gia-xenes-ependyseis/">Ελκυστικός προορισμός για ξένες επενδύσεις</a></h2></div><p>Το παράθυρο ευκαιρίας για την Ελλάδα είναι η ανατροπή των αντιλήψεων του παρελθόντος. 
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Vassilis_Kostoulas-min.jpg"></div></div><div class="col-sm-10"><article id="post-1087799"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasilis-kostoylas/">ΒΑΣΙΛΗΣ ΚΩΣΤΟΥΛΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/local/1087799/analysi-vasikos-oros-anaptyxis/">Ανάλυση: Βασικός όρος ανάπτυξης</a></h2></div><p>Μπορεί να αυξηθεί ο μισθός ενός εργαζόμενου χωρίς να αυξηθεί το ποσό που καταβάλλει ο εργοδότης του; Ναι, αρκεί να το αποφασίσει το κράτος.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Apostolos_Lakassas.jpg"></div></div><div class="col-sm-10"><article id="post-561117070"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/apostolos-lakasas/">ΑΠΟΣΤΟΛΟΣ ΛΑΚΑΣΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561117070/diethnis-epitychia-gia-ta-metaptychiaka-toy-opa/">Διεθνής επιτυχία για τα μεταπτυχιακά του ΟΠΑ</a></h2></div><p>Σημαντική διεθνή αναγνώριση πέτυχαν τα μεταπτυχιακά προγράμματα του Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ). Ο διεθνής φορέας αξιολόγησης Quacquarelli Symonds (QS) κατέταξε τα προγράμματα μεταπτυχιακών σπουδών (ΠΜΣ) του ιδρύματος μεταξύ των κορυφαίων παγκοσμίως στο πεδίο της διοίκησης επιχειρήσεων για το 2021.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Kostas_Leontaridis.jpg"></div></div><div class="col-sm-10"><article id="post-561098632"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostas-leontaridis/">ΚΩΣΤΑΣ ΛΕΟΝΤΑΡΙΔΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561098632/to-grammatosimo-kai-o-simonidis/">Το γραμματόσημο και ο Σιμωνίδης</a></h2></div><p>Μέσα σ’ όλα τα βαριά κι ασήκωτα, το πανελλήνιο συγκλονίστηκε και από τούτο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561114598"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/chrysa-liaggoy/">ΧΡΥΣΑ ΛΙΑΓΓΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561114598/me-ena-klik-o-katanalotis-tha-vriskei-ton-fthinotero-parocho-reymatos/">Με ένα κλικ ο καταναλωτής θα βρίσκει τον φθηνότερο πάροχο ρεύματος</a></h2></div><p>Μια ηλεκτρονική πλατφόρμα, η οποία θα δίνει στους καταναλωτές τη δυνατότητα σύγκρισης των τιμολογίων που προσφέρουν οι πάροχοι ηλεκτρικού ρεύματος σχεδιάζει η ΡΑΕ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Giorgos_Lialios.jpg"></div></div><div class="col-sm-10"><article id="post-561112387"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-lialios/">ΓΙΩΡΓΟΣ ΛΙΑΛΙΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561112387/michanikoi-ypo-katarreysi-gia-tis-diloseis-aythaireton/">Μηχανικοί υπό κατάρρευση για τις δηλώσεις αυθαιρέτων</a></h2></div><p>«Καθόμασταν με τις ώρες μπροστά σε έναν υπολογιστή και προσπαθούσαμε να “μπούμε” στο σύστημα. Ηταν απίστευτο, σε “πετούσε έξω” συνέχεια και έπειτα έπρεπε να τα κάνεις όλα πάλι από την αρχή. Και πάλι. Και πάλι, χωρίς αποτέλεσμα. Σε 28 ώρες κατάφερα να περάσω μία δήλωση. Δεν μπορώ να σου το περιγράψω, γέρασα μέσα σε έναν μήνα».
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/magklinis-1.jpg"></div></div><div class="col-sm-10"><article id="post-561116572"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ilias-magklinis/">ΗΛΙΑΣ ΜΑΓΚΛΙΝΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116572/aperanti-stenachoria/">Απέραντη στεναχώρια</a></h2></div><p>Στην ελληνική τηλεοπτική συνδρομητική πλατφόρμα του Cinobo προβάλλεται το ντοκιμαντέρ «Τα κορίτσια της Χρυσής Αυγής» («Golden Dawn Girls», 2017) του Νορβηγού Χάβαρντ Μπούστνες. 
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116536"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ilias-makris/">ΗΛΙΑΣ ΜΑΚΡΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/sketches/561116536/skitso-toy-ilia-makri-14-09-20/">Σκίτσο του Ηλία Μακρή (14/09/20)</a></h2></div><p></p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Paschos_Mandravelis-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116590"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/paschos-mandravelis/">ΠΑΣΧΟΣ ΜΑΝΔΡΑΒΕΛΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116590/oydeis-dexios-athoos/">Ουδείς Δεξιός αθώος;</a></h2></div><p>Και καλά! Μητσοτάκης, Σαμαράς δεν θα μπορούσαν να είναι αθώοι.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Ioanna_Mandrou-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116842"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ioanna-mandroy/">ΙΩΑΝΝΑ ΜΑΝΔΡΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561116842/diki-chrysis-aygis-oi-telikes-poines-diekopse-gia-ayrio-to-dikastirio/">Δίκη Χρυσής Αυγής: Οι τελικές ποινές – Διέκοψε για αύριο το δικαστήριο</a></h2></div><p>Σε βαριές ποινές που ξεπερνούν τα δέκα χρόνια καταδικάστηκαν τελικά ο Γιώργος Πατέλης και ο Αναστάσιος Πανταζής, επιχειρησιακά στελέχη της Χρυσής Αυγής. Το δικαστήριο κατά τη συγχώνευση των ποινών, επειδή είχαν πολλά αδικήματα, τους επέβαλε δέκα χρόνια στον πρώτο και δώδεκα στον δεύτερο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116278"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dimitra-manifava/">ΔΗΜΗΤΡΑ ΜΑΝΙΦΑΒΑ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561116278/stin-psifiaki-epochi-eiserchetai-i-epitropi-antagonismoy/">Στην ψηφιακή εποχή εισέρχεται η Επιτροπή Ανταγωνισμού</a></h2></div><p>Ψηφιακές γίνονται μια σειρά από συναλλαγές της Επιτροπής Ανταγωνισμού με τους πολίτες, τις επιχειρήσεις και τους φορείς του Δημοσίου, εξέλιξη ιδιαιτέρως σημαντική λόγω των περιοριστικών μέτρων που ισχύουν για την αποφυγή της διασποράς του κορωνοϊού.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561067852"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-marantzidis/">ΝΙΚΟΣ ΜΑΡΑΝΤΖΙΔΗΣ*</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561067852/ethnika-themata-kai-ethniki-enimerosi/">Εθνικά θέματα και «εθνική» ενημέρωση;</a></h2></div><p>Είναι γνωστό πως ο σίγουρος χαμένος στις ένοπλες συρράξεις και στις δραματικές διακρατικές κρίσεις είναι η αλήθεια και η ενημέρωση. Ο Βίσμαρκ, μάλιστα, υποστήριζε πως τα μεγαλύτερα ψέματα λέγονται ύστερα από το κυνήγι, κατά τη διάρκεια του πολέμου και πριν από τις εκλογές.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-795825"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-moytafis/">ΓΙΩΡΓΟΣ ΜΟΥΤΑΦΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/investigations/795825/chalasmata-kai-koyrdoi-sto-kompani/">Χαλάσματα και Κούρδοι στο Κομπάνι</a></h2></div><p>ΚΟΜΠΑΝΙ - ΑΠΟΣΤΟΛΗ. Η &laquo;Κ&raquo; βρέθηκε στους δρόμους της πόλης που πολιορκούν οι τζιχαντιστές του ISIS.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561114298"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ilias-mpellos/">ΗΛΙΑΣ ΜΠΕΛΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561114298/anoixan-liga-xenodocheia-kai-itan-schedon-adeia/">Άνοιξαν λίγα ξενοδοχεία και ήταν σχεδόν άδεια</a></h2></div><p>Μόλις έξι στα δέκα ξενοδοχεία λειτούργησαν την περίοδο Ιουλίου – Σεπτεμβρίου και η μέση πληρότητα σε αυτά δεν ξεπέρασε το 30%.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Evridiki_Bersi.jpg"></div></div><div class="col-sm-10"><article id="post-561112270"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/eyrydiki-mpersi/">ΕΥΡΥΔΙΚΗ ΜΠΕΡΣΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561112270/pano-apo-ton-nomo-toy-islam-i-galliki-dimokratia/">Πάνω από τον «νόμο του Ισλάμ» η Γαλλική Δημοκρατία</a></h2></div><p>Ενας νεολογισμός, ο όρος «αποσχιστικές τάσεις» (séparatisme), βρίσκεται στον πυρήνα του νέου νομοσχεδίου που θα κατατεθεί προς συζήτηση στη γαλλική Εθνοσυνέλευση.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561070534"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/natassa-mplatsioy/">ΝΑΤΑΣΣΑ ΜΠΛΑΤΣΙΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/k/travel/561070534/kimolos-i-parigoria-toy-erimiti/">Κίμωλος: Η παρηγοριά του ερημίτη</a></h2></div><p>Αναπολώντας τις στιγμές που οι φετινές διακοπές σε νησιά έμοιαζαν κανονικές.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Pantelis_Boukalas-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116587"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/pantelis-mpoykalas/">ΠΑΝΤΕΛΗΣ ΜΠΟΥΚΑΛΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116587/mayres-trypes-kai-diosimies/">Μαύρες τρύπες και διοσημίες</a></h2></div><p>Δεν βλέπουν όλοι τα ίδια σημάδια στον ουρανό. Ο καθείς και η διοσημία του, ο καθείς και η ερμηνεία του.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Penny_Bouloutza.jpg"></div></div><div class="col-sm-10"><article id="post-561115693"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/penny-mpoyloytza/">ΠΕΝΝΥ ΜΠΟΥΛΟΥΤΖΑ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561115693/ypochreotiki-i-chrisi-maskas-se-oli-ti-chora/">Υποχρεωτική η χρήση μάσκας σε όλη τη χώρα</a></h2></div><p>Υποχρεωτική η χρήση μάσκας σε όλους τους εσωτερικούς χώρους εργασίας αλλά και σε εξωτερικούς χώρους με συγχρωτισμό σε όλη τη χώρα, ανεξαρτήτως επιπέδου συναγερμού.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Giota_Myrtsioti-min.jpg"></div></div><div class="col-sm-10"><article id="post-561108655"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giota-myrtsioti/">ΓΙΩΤΑ ΜΥΡΤΣΙΩΤΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561108655/psifiopoiisi-enos-thisayroy-cheirografon/">Ψηφιοποίηση ενός θησαυρού χειρογράφων</a></h2></div><p>Τα αρχεία της Μονής Βλατάδων περνούν στη νέα εποχή. Η σπουδαία συλλογή σε μικροφίλμ 10.000 χειρογράφων του Αγίου Ορους, που κατέγραψε επιστημονική ομάδα του Ιδρύματος, έχει διεθνή φήμη.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Stathis_Kalyvas.jpg"></div></div><div class="col-sm-10"><article id="post-561099766"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/stathis-n-kalyvas/">ΣΤΑΘΗΣ Ν. ΚΑΛΥΒΑΣ*</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561099766/akropoli-flat-white/">Ακρόπολη: Flat White;</a></h2></div><p>Ο νέος φωτισμός απέχει αρκετά από την ένταση και τη μοναδική γοητεία που είχε.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Vassilis_Nedos.jpg"></div></div><div class="col-sm-10"><article id="post-561115732"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasilis-nedos/">ΒΑΣΙΛΗΣ ΝΕΔΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/politics/561115732/se-kathestos-pliroys-etoimotitas-oi-enoples-dynameis/">Σε καθεστώς πλήρους ετοιμότητας οι Ένοπλες Δυνάμεις</a></h2></div><p>Το «Ορούτς Ρέις» υπολογίζεται ότι θα φτάσει στην περιοχή όπου ξεκινούν τα 12 ναυτικά μίλια από το Καστελλόριζο την Παρασκευή ή το Σάββατο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112435"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostis-p-papadiochos/">ΚΩΣΤΗΣ Π. ΠΑΠΑΔΙΟΧΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/politics/561112435/i-nea-rythmisi-gia-chrysi-aygi-kai-to-vertigko-toy-syriza/">Η νέα ρύθμιση για Χρυσή Αυγή και το βέρτιγκο του ΣΥΡΙΖΑ</a></h2></div><p>Αποφασισμένη να κόψει τον γόρδιο δεσμό αναφορικά με τα πολιτικά δικαιώματα των καταδικασθέντων μελών της Χρυσής Αυγής, που προκάλεσε η αλλαγή του Ποινικού Κώδικα από τον ΣΥΡΙΖΑ, είναι η κυβέρνηση.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Giorgos_Pagoulatos2.jpg"></div></div><div class="col-sm-10"><article id="post-561112048"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-pagoylatos/">ΓΙΩΡΓΟΣ ΠΑΓΟΥΛΑΤΟΣ*</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112048/ethnikoi-meiodotes-kai-kratiki-propaganda/">Εθνικοί μειοδότες και κρατική προπαγάνδα</a></h2></div><p>Κυκλοφορεί ευρέως μια δοξασία. Οτι επειδή η χώρα είναι σε ένταση με την Τουρκία, τον αιώνιο προβληματικό μας γείτονα, κι επειδή το καθεστώς Ερντογάν είναι αυτό που είναι, η Ελλάδα πρέπει να γίνει ένα μεγάλο στρατόπεδο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Anthi_Pazianou-min.jpg"></div></div><div class="col-sm-10"><article id="post-561097972"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/anthi-pazianoy/">ΑΝΘΗ ΠΑΖΙΑΝΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561097972/stin-teliki-eytheia-gia-ti-dimioyrgia-neoy-kyt-sti-lesvo/">Στην τελική ευθεία για τη δημιουργία νέου ΚΥΤ στη Λέσβο</a></h2></div><p>Η στροφή του δημάρχου Μυτιλήνης, τα 5 εκατομμύρια ευρώ ως αντισταθμιστικά για το προσφυγικό και η υπόδειξη του νέου χώρου.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Yannis_Palaiologos.jpg"></div></div><div class="col-sm-10"><article id="post-561116860"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giannis-palaiologos/">ΓΙΑΝΝΗΣ ΠΑΛΑΙΟΛΟΓΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561116860/brexit-ti-leei-to-teleytaio-proschedio-symperasmaton-tis-synodoy-koryfis/">Brexit: Τι λέει το τελευταίο προσχέδιο συμπερασμάτων της Συνόδου Κορυφής</a></h2></div><p>ΒΡΥΞΕΛΛΕΣ – ΑΝΤΑΠΟΚΡΙΣΗ. Το Ευρωπαϊκό Συμβούλιο «σημειώνει με ανησυχία ότι δεν έχει υπάρξει επαρκής πρόοδος στα ζητήματα-κλειδιά για την Ένωση» ώστε να υπάρξει συμφωνία με το Ηνωμένο Βασίλειο για τη νέα εμπορική σχέση μεταξύ των δύο πλευρών, σύμφωνα με το νεότερο προσχέδιο των συμπερασμάτων της Συνόδου Κορυφής που θα λάβει χώρα αύριο και την Παρασκευή. Το προσχέδιο, […]
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Babis_Papadatos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561115873"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/mpampis-papadatos/">ΜΠΑΜΠΗΣ ΠΑΠΑΔΑΤΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/athletics/561115873/ora-gia-istorikes-apofaseis/">Ωρα για ιστορικές αποφάσεις</a></h2></div><p>Το νέο κύμα της πανδημίας που σαρώνει την Ευρώπη βρίσκει, δυστυχώς, το ευρωπαϊκό μπάσκετ να προσπαθεί να… κρυφτεί πίσω από το δάχτυλό του.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Notis_Papadopoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112093"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/notis-papadopoylos/">ΝΟΤΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561112093/i-chrysi-aygi-teleiose-i-politiki-via-paramenei/">Η Χρυσή Αυγή τελείωσε,  η πολιτική βία παραμένει</a></h2></div><p>Ενα ηχηρό χαστούκι της δημοκρατίας στους ναζιστές της Χρυσής Αυγής έδωσε η απόφαση του Τριμελούς Εφετείου Αθηνών. Αποφάνθηκε ότι ο Μιχαλολιάκος και η ακροδεξιά παρέα του διηύθυναν μία αποτρόπαια εγκληματική οργάνωση που τρομοκρατούσε για χρόνια την ελληνική κοινωνία και επιχειρούσε με τη βία να επιβάλει τις ναζιστικές φιλοδοξίες της.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Yannis_Papadopoulos.jpg"></div></div><div class="col-sm-10"><article id="post-561112471"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giannis-papadopoylos/">ΓΙΑΝΝΗΣ ΠΑΠΑΔΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/investigations/561112471/mia-poiniki-dioxi-poy-argise-na-askithei-17-chronia/">Μια ποινική δίωξη που άργησε να ασκηθεί 17 χρόνια</a></h2></div><p>Η κατάληξη μήνυσης κατά της Χρυσής Αυγής το 1996 και οι δύο δεκαετίες εγκληματικών ενεργειών που ακολούθησαν.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112381"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/paylos-papadopoylos/">ΠΑΥΛΟΣ ΠΑΠΑΔΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/interviews/561112381/dimitris-linos-stin-k-pos-ginetai-i-nosileia-enos-proedroy-ton-ipa/">Δημήτρης Λινός στην «Κ»: Πώς γίνεται η νοσηλεία ενός προέδρου των ΗΠΑ</a></h2></div><p>Ο καθηγητής Χειρουργικής του Πανεπιστημίου Αθηνών, λέκτορας στο Χάρβαρντ και διευθυντής της χειρουργικής κλινικής του ομίλου Υγεία έχει διατελέσει «προσωρινός γιατρός» τριών προέδρων των ΗΠΑ, του Τζορτζ Μπους του πρεσβύτερου, του Μπιλ Κλίντον και του Μπαράκ Ομπάμα κατά τις επισκέψεις τους στην Ελλάδα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Petros_Papaconstantinou-min.jpg"></div></div><div class="col-sm-10"><article id="post-561112252"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/petros-papakonstantinoy/">ΠΕΤΡΟΣ ΠΑΠΑΚΩΝΣΤΑΝΤΙΝΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561112252/ipa-einai-i-pandimia-anoite/">ΗΠΑ: είναι η πανδημία, ανόητε!</a></h2></div><p>Παρά την προσωπική του περιπέτεια με τον κορωνοϊό, ο Ντόναλντ Τραμπ συνεχίζει απτόητος τα προεκλογικά παιχνίδια του, με τις δημοσκοπήσεις να δίνουν διψήφια διαφορά υπέρ του Τζο Μπάιντεν και τον ίδιο να έχει εγκλωβιστεί σε έναν αυτοκαταστροφικό κύκλο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116569"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/stayros-papantonioy/">ΣΤΑΥΡΟΣ ΠΑΠΑΝΤΩΝΙΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116569/theoreio-14-10-20/">Θεωρείο (14/10/20)</a></h2></div><p>Σπασμένα ήταν τα νεύρα χθες στη Χαρ. Τρικούπη. Οχι, δεν έφταιγε η νέα μεταγραφή της Κεντροδεξιάς από τον χώρο τους –βλέπε Αννα Διαμαντοπούλου–, καθώς η πρώην υπουργός έχει απομακρυνθεί χρόνια από τον χώρο του ΠΑΣΟΚ/ΚΙΝΑΛ.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115009"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/andreas-petroylakis/">ΑΝΔΡΕΑΣ ΠΕΤΡΟΥΛΑΚΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/sketches/561115009/skitso-toy-andrea-petroylaki-13-10-20/">Σκίτσο του Ανδρέα Πετρουλάκη (13/10/20)</a></h2></div><p></p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Margarita_Pournara-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116464"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/margarita-poyrnara/">ΜΑΡΓΑΡΙΤΑ ΠΟΥΡΝΑΡΑ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561116464/egkainiastike-i-apokatestimeni-oikia-toy-p-mela-116-eti-meta-ton-thanato-toy/">Εγκαινιάστηκε η αποκατεστημένη οικία του Π. Μελά, 116 έτη μετά τον θάνατό του</a></h2></div><p></p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Dimitris_Rigopoulos-min.jpg"></div></div><div class="col-sm-10"><article id="post-561115063"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dimitris-rigopoylos/">ΔΗΜΗΤΡΗΣ ΡΗΓΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561115063/pragmatikotita-kalei-kinal/">Πραγματικότητα καλεί ΚΙΝΑΛ</a></h2></div><p>Η ετυμηγορία στη δίκη της Χρυσής Αυγής εκτός των (πολλών) άλλων ανέδειξε για πολλοστή φορά την απουσία ενός στιβαρού πόλου ανάμεσα στην κυβέρνηση και στην αξιωματική αντιπολίτευση.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-919767"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/andreas-rikakis/">ΑΝΔΡΕΑΣ ΡΙΚΑΚΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/dance/919767/ena-paidiko-komik-gia-enilikes/">Ενα παιδικό κόμικ για ενήλικες</a></h2></div><p>Αυτός είναι ο υπότιτλος της τελευταίας δημιουργίας του Δ. Παπαϊωάννου με τίτλο &laquo;Ο μεγάλος Δαμαστής&raquo;. Δεν ανακάλυψα το &laquo;παιδικό κόμικ&raquo; (ο Δημήτρης υπήρξε εξαιρετικός κομίστας), ούτε τον &laquo;Μεγάλο Δαμαστή&raquo;.</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115960"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/nikos-roysanogloy/">ΝΙΚΟΣ ΡΟΥΣΑΝΟΓΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561115960/airbnb-i-megali-exodos/">Airbnb, η μεγάλη έξοδος</a></h2></div><p>H νέα έξαρση της πανδημίας και η διάψευση των προσδοκιών για επανεκκίνηση του τουρισμού σύντομα προκαλεί μαζικές αποσύρσεις ακινήτων από τις ψηφιακές πλατφόρμες βραχυχρόνιων μισθώσεων τύπου Airbnb.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Giorgos_Bourdaras-min.jpg"></div></div><div class="col-sm-10"><article id="post-561074212"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giorgos-s-mpoyrdaras/">ΓΙΩΡΓΟΣ Σ. ΜΠΟΥΡΔΑΡΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/politics/561074212/epikoinonia-mitsotaki-merkel-2/">Επικοινωνία Μητσοτάκη – Μέρκελ</a></h2></div><p>Μήνυμα από κυβέρνηση ότι μετανάστες και πρόσφυγες θα παραμείνουν στη Λέσβο
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561094735"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/royla-saloyroy/">ΡΟΥΛΑ ΣΑΛΟΥΡΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561094735/paramenoyn-anoichta-parathyra-gia-proori-syntaxiodotisi/">Παραμένουν ανοιχτά «παράθυρα» για πρόωρη συνταξιοδότηση</a></h2></div><p>Νέο «παραθυράκι» στην προσπάθεια των τελευταίων δέκα ετών να κλείσει ο δρόμος προς την πρόωρη συνταξιοδότηση ανοίγει πρόσφατη απόφαση του Ελεγκτικού Συνεδρίου που εξισώνει τη θεμελίωση δικαιώματος εξόδου από την εργασία μεταξύ γονέων ανηλίκων και γονέων τριών και άνω τέκνων.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Yannis_Souliots.jpg"></div></div><div class="col-sm-10"><article id="post-561116566"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giannis-soyliotis/">ΓΙΑΝΝΗΣ ΣΟΥΛΙΩΤΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116566/amerikanos-yperiroas/">Αμερικανός  υπερήρωας</a></h2></div><p>«Νιώθω τόσο δυνατός!». «Είμαι σε φοβερή φόρμα». «Θα κατέβω στο κοινό και θα φιλήσω τους άνδρες και τις όμορφες γυναίκες, όλους σας».
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112639"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/roympina-spathi/">ΡΟΥΜΠΙΝΑ ΣΠΑΘΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561112639/omiros-ton-eklogon-i-oikonomia-ton-ipa/">«Ομηρος» των εκλογών η οικονομία των ΗΠΑ</a></h2></div><p>Παραδοσιακά οι πρόεδροι των ΗΠΑ πιστώνονται ή χρεώνονται την εκάστοτε κατάσταση της αμερικανικής οικονομίας όπως αυτή εξελίχθηκε στη διάρκεια της θητείας τους.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116947"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/spyridoyla-spanea/">ΣΠΥΡΙΔΟΥΛΑ ΣΠΑΝΕΑ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/world/561116947/apokleismos-olympioniki-logo-exosyzygikis-schesis/">Αποκλεισμός Ολυμπιονίκη λόγω εξωσυζυγικής σχέσης</a></h2></div><p>Μία εξωσυζυγική σχέση έγινε αιτία για να τιμωρηθεί ο Ολυμπιονίκης της Ιαπωνίας Ντάιγια Σέτο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561111298"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/marialena-spyropoyloy/">ΜΑΡΙΑΛΕΝΑ ΣΠΥΡΟΠΟΥΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561111298/parachoro-ton-logo-se-anthropoys-poy-en-zoi-den-ton-diethetan/">Παραχωρώ τον λόγο σε ανθρώπους που εν ζωή δεν τον διέθεταν</a></h2></div><p>Η ποίηση συνεχίζει να γράφεται, οι νέοι δημιουργοί να παραδίδουν άξια έργα ενός Ελύτη, ενός Εμπειρίκου, ενός Σεφέρη. Με άλλα ονοματεπώνυμα, με άλλες διαδρομές, εξίσου πάλλοντα και σημαντικά, κατά την ταπεινή μου γνώμη. Ο Γιάννης Δούκας καταθέτει στο κοινό το τελευταίο του βιβλίο «Η θήβα μέμφις» από τις εκδόσεις Πόλις και η «Κ» συνομίλησε μαζί του.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561115096"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/aggelos-stagkos/">ΑΓΓΕΛΟΣ ΣΤΑΓΚΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561115096/o-erntogan-prokalei-toys-pantes/">Ο Ερντογάν προκαλεί τους πάντες</a></h2></div><p>Ο Ερντογάν έχει βαλθεί να διαψεύδει –μάλλον τους θεωρεί «κορόιδα»– όσους στη διεθνή σκηνή πιστεύουν ότι «παίρνει από λόγια»…
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Giota_Sykka-min.jpg"></div></div><div class="col-sm-10"><article id="post-561111658"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/giota-sykka/">ΓΙΩΤΑ ΣΥΚΚΑ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561111658/to-neo-oplo-ton-moyseion/">Το νέο «όπλο» των μουσείων</a></h2></div><p>H παγκόσμια ανάπτυξη των podcasts ανταποκρίνεται στις σύγχρονες ψηφιακές προκλήσεις
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116551"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/katerina-sokoy/">ΚΑΤΕΡΙΝΑ ΣΩΚΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116551/pos-tha-antexoyme-to-megalo-kleidoma/">Πώς θα αντέξουμε  το Μεγάλο Κλείδωμα</a></h2></div><p>Η ελληνική οικονομία πρέπει να αξιοποιήσει την ευκαιρία της ευρωπαϊκής στήριξης για να γίνει όχι μόνον πιο πράσινη και πιο έξυπνη, αλλά και πιο δίκαιη, χωρίς αποκλεισμούς.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112357"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/tasos-tellogloy/">TΑΣΟΣ ΤΕΛΛΟΓΛΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561112357/synecheis-anatropes-sti-geografiki-diaspora-toy-ioy/">Συνεχείς ανατροπές στη γεωγραφική διασπορά του ιού</a></h2></div><p>Ο περιφερειάρχης Ηπείρου Αλέκος Καχριμάνης ήταν περήφανος για το ρεκόρ της περιφέρειάς του το δίμηνο της καραντίνας, καθώς εμφάνιζε μηδενικό επιδημιολογικό φορτίο.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Stavros_Tzimas-min.jpg"></div></div><div class="col-sm-10"><article id="post-561110629"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/stayros-tzimas/">ΣΤΑΥΡΟΣ ΤΖΙΜΑΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561110629/politismos-kai-ependyseis/">Πολιτισμός και επενδύσεις</a></h2></div><p>Μπορεί να επισκιάστηκε επικοινωνιακά από τη δίκη της Χρυσής Αυγής η γεμάτη συμβολισμούς εκδήλωση της Τετάρτης στη Θεσσαλονίκη, με κεντρική ομιλήτρια την πρόεδρο της Κομισιόν, αλλά αυτό καθόλου δεν μειώνει τη σημασία της.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/09/Evgenia_Tzortzi.jpg"></div></div><div class="col-sm-10"><article id="post-561114868"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/eygenia-tzortzi/">ΕΥΓΕΝΙΑ ΤΖΩΡΤΖΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561114868/kokkino-to-30-ton-daneion-stin-ellada-enanti-3-stin-eyropi/">«Κόκκινο» το 30% των δανείων στην Ελλάδα έναντι 3% στην Ευρώπη</a></h2></div><p>Πόλο έλξης των μεγαλύτερων εταιρειών διαχείρισης κόκκινων δανείων στην Ευρώπη συνιστά η Ελλάδα, η οποία έχει το τέταρτο μεγαλύτερο απόθεμα μη εξυπηρετούμενων δανείων (NPL).
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Michalis_Tsintsinis-min.jpg"></div></div><div class="col-sm-10"><article id="post-561116578"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/michalis-tsintsinis/">ΜΙΧΑΛΗΣ ΤΣΙΝΤΣΙΝΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/561116578/anna-diamantopoyloy-alieymata/">'Αννα Διαμαντοπούλου: Αλιεύματα</a></h2></div><p>Ελεγε με ελαφρύ αυτοσαρκασμό ότι μόνο για τη θέση του Αρχιεπισκόπου δεν είχε ακουστεί το όνομά της.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561112483"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/thanos-tsiros/">ΘΑΝΟΣ ΤΣΙΡΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561112483/apo-poy-prosdoka-na-antlisei-esoda-to-dimosio-to-2021/">Από πού προσδοκά να αντλήσει έσοδα το Δημόσιο το 2021</a></h2></div><p>Περίπου ένα εκατομμύριο συνταξιούχοι που θα εισπράξουν φέτος «καθαρά» αναδρομικά 1,4 δισ. ευρώ, του χρόνου θα πρέπει να πληρώσουν αναδρομικό φόρο εισοδήματος και εισφορά αλληλεγγύης που μπορεί να ξεπερνάει ακόμη και το 30% επί των αναδρομικών που θα καταβληθούν φέτος. 
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-1091201"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/kostis-fafoytis/">ΚΩΣΤΗΣ ΦΑΦΟΥΤΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/1091201/oi-doxasies-tis-axiomatikis-antipoliteysis/">Οι δοξασίες της αξιωματικής αντιπολίτευσης</a></h2></div><p>Ο τρόπος με τον οποίον αντέδρασε ο ΣΥΡΙΖΑ στο σχέδιο των προτάσεων Πισσαρίδη ήρθε να αποδείξει για άλλη μία φορά πόσο επιμένει να είναι παραδομένος στις δοξασίες του.&nbsp;</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Ioanna_Fotiadi.jpg"></div></div><div class="col-sm-10"><article id="post-561115840"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/ioanna-fotiadi/">ΙΩΑΝΝΑ ΦΩΤΙΑΔΗ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/561115840/prasines-ellinikes-idees-kerdizoyn-edafos/">«Πράσινες» ελληνικές ιδέες κερδίζουν έδαφος</a></h2></div><p>Διακρίσεις σε διαγωνισμό οικολογικού χαρακτήρα στα Δυτικά Βαλκάνια. Στο πλαίσιο του θεσμού έχουν προκύψει διακρατικές συνεργασίες και ευφάνταστα προγράμματα.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561116530"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/dimitris-chantzopoylos/">ΔΗΜΗΤΡΗΣ ΧΑΝΤΖΟΠΟΥΛΟΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/opinion/sketches/561116530/skitso-toy-dimitri-chantzopoyloy-14-10-20/">Σκίτσο του Δημήτρη Χαντζόπουλου (14/10/20)</a></h2></div><p></p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Aimilios_Charbis-min.jpg"></div></div><div class="col-sm-10"><article id="post-561114718"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/aimilios-charmpis/">ΑΙΜΙΛΙΟΣ ΧΑΡΜΠΗΣ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/culture/561114718/i-protoporia-erchetai-online/">Η πρωτοπορία έρχεται… online</a></h2></div><p>Τι σημαίνει πρωτοποριακό σινεμά τον καιρό της πανδημίας; Μήπως η έκφραση «πρωτοπορία στον κινηματογράφο» αποκτά και άλλες, καινούργιες έννοιες μέσα στις προκλήσεις που αντιμετωπίζει συνολικά η ανθρωπότητα το τελευταίο διάστημα;
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/user_default.jpg"></div></div><div class="col-sm-10"><article id="post-561114286"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/prokopis-chatzinikolaoy/">ΠΡΟΚΟΠΗΣ ΧΑΤΖΗΝΙΚΟΛΑΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/economy/561114286/daneia-1-5-dis-tha-dianemithoyn-se-174-000-etaireies/">Δάνεια 1,5 δισ. θα διανεμηθούν σε 174.000 εταιρείες</a></h2></div><p>Μέσω της τρίτης φάσης της επιστρεπτέας προκαταβολής για την περίοδο Μαρτίου – Αυγούστου 2020.
+</p></div></article></div></div><hr class="dashed"><div class="row page-authors"><div class="col-sm-2"><div class="author-img"><img src="https://www.kathimerini.gr/wp-content/uploads/2020/08/Vasso_Chrisostomidou-min.jpg"></div></div><div class="col-sm-10"><article id="post-1076387"><div class="design_one article-item author-article"><span class="meta-date"></span><span class="design_one_meta headlines blue"><a href="https://www.kathimerini.gr/author/vasiliki-chrysostomidoy/">ΒΑΣΙΛΙΚΗ ΧΡΥΣΟΣΤΟΜΙΔΟΥ</a></span><div class="design_one_title_big"><h2><a href="https://www.kathimerini.gr/society/1076387/ta-spitia-metatrapikan-se-gymnastiria/">Τα σπίτια μετατράπηκαν σε γυμναστήρια</a></h2></div><p>Η προπόνηση στο σπίτι μέσω Διαδικτύου,&nbsp;με κανονικό εξοπλισμό&nbsp;ή αυτοσχέδια βαράκια, παρέχει για πολλούς διέξοδο από&nbsp;την καραντίνα.</p></div></article></div></div><hr class="dashed">
+            
+        </div><!-- /.blog-main -->
+        <aside class="col-lg-3 design_latest_title page-sidebar-1 widgetized nxsidebar">
+                <div class="nx-sticky-sidebar">
+                    <div id="nx_ads_widget-7" class="nx-banner-wrapper p-3 widget_nx_ads_widget"><div class='nxAds gAdCentered' id='nx_kathimerini_gr_Category_SB_1' style=''><!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_SB_1 -->
+<div id='nx_ad_Category_SB_1'>
+<script>
+if (!isNXMobile) {
+googletag.cmd.push(function() { googletag.display('nx_ad_Category_SB_1'); });
+}
+</script>
+</div>
+</div></div><div id="text-4" class="nx-banner-wrapper p-3 widget_text">			<div class="textwidget">    <div class="roi-wrapper" id="roi-wrapper-23327575" style="display: none;">
+        <div class="roi-head">
+		  <span class="news-feed">
+			 <a href="" class="feed-tab feed-latest feed-active">
+				<h3>ΡΟΗ ΕΙΔΗΣΕΩΝ</h3>
+			 </a>
+		  </span>
+            <span class="k-img"><img class="grypas-beam" src="/wp-content/themes/nxtheme/images/icon_b.png"></span>
+            <span class="news-popular">
+			 <a href="" class="feed-tab feed-popular">
+				<h3>ΤΑ ΠΙΟ ΔΗΜΟΦΙΛΗ</h3>
+			 </a>
+		  </span>
+        </div>
+        <ul class="latest_news_widget" style="overflow: hidden; width: auto;">
+            <div class="news_latest" id="news_latest-23327575"></div>
+            <!-- .news_latest -->
+            <div class="news_popular" id="news_popular-23327575" style="display: none;"></div>
+            <!-- .news_popular -->
+        </ul>
+        <a class="nx_all_news_load" href="/epikairothta">ΟΛΕΣ ΟΙ ΕΙΔΗΣΕΙΣ</a>
+    </div>
+    <!-- .roi-wrapper -->
+    <script>
+        if (typeof nxGET !== "function") {
+            function nxGET(path, callback, element, objKey) {
+                var nx_xhr = new XMLHttpRequest();
+                nx_xhr.onreadystatechange = function () {
+                    if (nx_xhr.readyState == 4) {
+                        if (nx_xhr.status == 200) {
+                            callback(nx_xhr.responseText, element, objKey);
+                        } else {
+                            callback(null, null);
+                        }
+                    }
+                };
+                nx_xhr.open("GET", path);
+                nx_xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded; charset=UTF-8');
+                nx_xhr.send();
+            }
+        }
+        if (typeof nx_handleFileData !== "function") {
+            function nx_handleFileData(fileData, element, objKey) {
+                if (!fileData) {
+                    console.log('XHR ERROR: ' + element);
+                    return;
+                }
+                let nxObj = JSON.parse(fileData);
+                document.getElementById(element).innerHTML = (nxObj.hasOwnProperty(objKey) ? nxObj[objKey] : '');
+            }
+        }
+
+        nxGET("https://www.kathimerini.gr/infeeds/popular/popular_html.txt", nx_handleFileData, "news_popular-23327575", "popular");
+        nxGET("https://www.kathimerini.gr/infeeds/roh/roh_html.txt", nx_handleFileData, "news_latest-23327575", "roh");
+        document.getElementById('roi-wrapper-23327575').style.display = 'block';
+
+    </script>
+    
+</div>
+		</div><div id="nx_ads_widget-8" class="nx-banner-wrapper p-3 widget_nx_ads_widget"><div class='nxAds gAdCentered' id='nx_kathimerini_gr_Category_SB_2' style=''><!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_SB_2 -->
+<div id='nx_ad_Category_SB_2'>
+<script>
+if (!isNXMobile) {
+googletag.cmd.push(function() { googletag.display('nx_ad_Category_SB_2'); });
+}
+</script>
+</div>
+</div></div>                </div>
+        </aside>
+		
+    </div><!-- /.row -->
+    <hr class="dashed"/>
+    <div class="row">
+        <div class="col-12 nx-banner-wrapper">
+			<div class='nxAds gAdCentered' id='nx_kathimerini_gr_Category_Bottom' style=''><!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_Bottom -->
+<div id='nx_ad_Category_Bottom'>
+<script>
+if (!isNXMobile) {
+googletag.cmd.push(function() { googletag.display('nx_ad_Category_Bottom'); });
+}
+</script>
+</div>
+</div>			<div class='nxAds gAdCentered' id='nx_kathimerini_gr_Category_Bottom_mb' style=''><!-- /68452758/www.kathimerini.gr/kathimerini.gr_Category_Bottom -->
+<div id='nx_ad_Category_Bottom_mb'>
+<script>
+if (isNXMobile) {
+googletag.cmd.push(function() { googletag.display('nx_ad_Category_Bottom_mb'); });
+}
+</script>
+</div>
+</div>        </div>
+    </div>
+</div><!-- /.container -->
+</main><!-- /.container -->
+
+<footer class="blog-footer">
+<style>.nxcode-logo {width: 77px;padding-bottom: 7px;margin-left: 2px;}</style>
+    <div class="container">
+        <p></p>
+        <div class="subfooter">
+            <img class="footer-main-logo" src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/logo.svg"/>
+            <span class="footer-social">
+            <ul class="social-icons-list">
+                <li class="fb-share-item social-icon">
+                    <a href="https://www.facebook.com/kathimerinigr" target="_blank" rel="noopener noreferrer"
+                       aria-label="Kathimerini.gr on Facebook">
+                        <svg class="svg-social-icon" viewBox="0 0 7 15" width="7" height="15">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                  d="M4.775 14.163V7.08h1.923l.255-2.441H4.775l.004-1.222c0-.636.06-.977.958-.977H6.94V0H5.016c-2.31 0-3.123 1.184-3.123 3.175V4.64H.453v2.44h1.44v7.083h2.882z"
+                                  fill="#7F7F7F"></path>
+                        </svg>
+                    </a>
+                </li>
+                <li class="twitter-share-item social-icon">
+                    <a href="https://twitter.com/kathimerini_gr" target="_blank"
+                       rel="noopener noreferrer" aria-label="Kathimerini.gr on Twitter">
+                        <svg viewBox="0 0 13 10" class="svg-social-icon" width="13" height="10">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                  d="M5.987 2.772l.025.425-.429-.052c-1.562-.2-2.927-.876-4.086-2.011L.93.571.784.987c-.309.927-.111 1.906.533 2.565.343.364.266.416-.327.2-.206-.07-.386-.122-.403-.096-.06.06.146.85.309 1.161.223.434.678.858 1.176 1.11l.42.199-.497.009c-.481 0-.498.008-.447.19.172.564.85 1.162 1.606 1.422l.532.182-.464.277a4.833 4.833 0 0 1-2.3.641c-.387.009-.704.044-.704.07 0 .086 1.047.572 1.657.762 1.828.564 4 .32 5.631-.641 1.159-.685 2.318-2.045 2.859-3.363.292-.702.583-1.984.583-2.6 0-.398.026-.45.507-.927.283-.277.55-.58.6-.667.087-.165.078-.165-.36-.018-.73.26-.832.226-.472-.164.266-.278.584-.78.584-.928 0-.026-.129.018-.275.096a4.79 4.79 0 0 1-.755.294l-.464.148-.42-.286C9.66.467 9.335.293 9.163.24 8.725.12 8.055.137 7.66.276c-1.074.39-1.752 1.395-1.674 2.496z"
+                                  fill="#7F7F7F"></path>
+                        </svg>
+                    </a>
+                </li>
+                <li class="social-icon">
+                    <a href="/cdn-cgi/l/email-protection#50393e363f103b312438393d3522393e397e3722" target="_blank" rel="noopener noreferrer" aria-label="Email">
+                        <svg viewBox="0 0 15 9" class="svg-social-icon" width="15" height="9">
+                            <path fill-rule="evenodd" clip-rule="evenodd"
+                                  d="M.906 8.418V0L5.64 4.76.906 8.419zm13 0L9.174 4.761 13.906 0v8.418zM7.407 6.539l-1.13-1.137L.907 9h13l-5.37-3.598-1.13 1.137zM1.297 0h12.22l-6.11 5.095L1.297 0z"
+                                  fill="#7F7F7F"></path>
+                        </svg>
+                    </a>
+                </li>
+            </ul>
+        </span>
+            <div class="footer-logos">
+                <a rel="noreferrer" href="https://www.ekathimerini.com/" target="_blank">
+                    <img alt="ekathimerini"
+                         src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer-ekath-min.png"></a>
+                <a rel="noreferrer" href="https://www.gastronomos.gr/gr/" target="_blank"><img id="footer-gastronomos" alt="Γαστρονόμος"
+                                         src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_gastronomos-min.png"></a>
+                <a rel="noreferrer" href="https://vogue.gr/" target="_blank"><img alt="Vogue"
+                                                                                  src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_vogue_greece_lg.png"></a>
+
+                <a href="https://www.kathimerini.gr/category/k/k-magazine/"><img alt="Κ"
+                                         src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_k-min.png"></a>
+                <a href="https://www.kathimerini.gr/category/k/travel/" class="footer-logos-taxidia"><img alt="Ταξίδια"
+                                                                      src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_taxidia2-min.png"></a>
+                <a rel="noreferrer" href="https://www.oinoxoos.net/" target="_blank"><img alt="Οινοχόος"
+                                                                                         src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_oinoxoos2-min.png"></a>
+                <a rel="noreferrer" href="https://www.greece-is.com/" target="_blank"><img alt="greece-is"
+                                                                                           src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/footer_greeceis2-min.png"
+                    ></a>
+                <!--
+                <a class="footer-logos-ekathimerini" href="https://www.ekathimerini.com/" target="_blank"><img alt="ekathimerini" src="https://s.kathimerini.gr/garnish/ekathimerini-white.png"></a>
+                <a class="footer-logos-agricola"><img alt="Agricola" src="https://s.kathimerini.gr/garnish/agricola-white.png"></a>
+                <a><img alt="TV" src="https://s.kathimerini.gr/garnish/tv-black.png"></a>
+                -->
+            </div>
+        </div>
+        <hr class="dashed">
+        <div class="footer-nav">
+            <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-561063703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-561063703"><a href="/">Αρχική</a></li>
+<li id="menu-item-561063709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063709"><a href="https://www.kathimerini.gr/termsofuse/">Όροι χρήσης</a></li>
+<li id="menu-item-561063715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063715"><a href="https://www.kathimerini.gr/privacy_policy/">Προστασία προσωπικών δεδομένων</a></li>
+<li id="menu-item-561063712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063712"><a href="https://www.kathimerini.gr/cookies_policy/">Πολιτική cookies</a></li>
+<li id="menu-item-561063706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063706"><a href="https://www.kathimerini.gr/company-profile/">Company Profile</a></li>
+<li id="menu-item-561063718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063718"><a href="https://www.kathimerini.gr/aboutus/">Σχετικά με Εμάς</a></li>
+<li id="menu-item-561063721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561063721"><a href="https://www.kathimerini.gr/contact/">Επικοινωνία</a></li>
+<li id="menu-item-561063724" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-561063461 current_page_item menu-item-561063724"><a href="https://www.kathimerini.gr/authors/" aria-current="page">Αρθρογράφοι</a></li>
+<li id="menu-item-561081529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561081529"><a href="https://www.kathimerini.gr/category/pages/announcements/">Δελτία Τύπου</a></li>
+</ul></div>        </div>
+        <p><a href="https://www.kathimerini.gr/company-profile/">ΙΔΙΟΚΤΗΣΙΑ: ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.</a> © 2014 - 2020</p>
+	<br><p><a href="https://nxcode.gr" target="_blank">Powered by <img src="/wp-content/uploads/nxtb2.png" class="nxcode-logo"></a></p>
+    </div> <!-- .container -->
+</footer>
+<div id="signin-modal" class="white-popup-block mfp-hide">
+    <div class="signin-modal-wrapper">[nx_login_form]<a class="popup-modal-dismiss"
+                                                                                       href="#">x</a></div>
+</div>
+<div id="newsletter-modal" class="white-popup-block mfp-hide">
+    <div class="signin-modal-wrapper">
+        <div class="subscribe-login-form"
+             style="background: white; padding: 30px 20px; border-radius: 4px; max-width: 25em; position: relative;">
+            <h2> Εγγραφείτε στο Newsletter</h2>
+            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-561063805" method="post" data-id="561063805" data-name="General Form" ><div class="mc4wp-form-fields"><p><strong>Παρακαλούμε συμπληρώστε το email σας</strong></p>
+<p>
+<label>Email <input type="email" name="EMAIL" style="display:block;margin-top:5px" placeholder="Πληκτρολογήστε το email σας..." required /></label>
+</p>
+
+<p><strong>Αν επιθυμείτε να λαμβάνετε το newsletter του www.kathimerini.gr επιλέξτε
+  πρώτα το παρακάτω πεδίο:</strong></p>
+<p>
+    <label>
+        <input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> Επιθυμώ να λαμβάνω ενημερωτικά μηνύματα μέσω email από το www.kathimerini.gr</label>
+</p>
+
+<p>
+Για να λαμβάνετε newsletter με τις σημαντικότερες ειδήσεις της ημέρας καθώς και νέα για εκδόσεις, προσφορές, προϊόντα και εκδηλώσεις από την ΚΑΘΗΜΕΡΙΝΕΣ ΕΚΔΟΣΕΙΣ ΜΟΝΟΠΡΟΣΩΠΗ A.E., που εδρεύει στην οδό Εθνάρχου Μακαρίου & Φαληρέως 2, Νέο Φάληρο 18547, διαχειριστή της ιστοσελίδας www.kathimerini.gr, παρακαλούμε ολοκληρώστε την εγγραφή σας πατώντας το κουμπί «ΕΓΓΡΑΦΗ» στο τέλος της σελίδας.
+</p><p>Μπορείτε, ανά πάσα στιγμή, να διαγραφείτε από τη λίστα αποδεκτών του newsletter ακολουθώντας τον σύνδεσμο που βρίσκεται στο κάτω μέρος κάθε newsletter που λαμβάνετε από εμάς.
+</p><p>Για περισσότερες πληροφορίες δείτε την <a style="color: #2779ae; font-weight: 700;" target="_blank" href="https://www.kathimerini.gr/privacy_policy/">Πολιτική Προσωπικών Δεδομένων</a>.
+</p>
+<p>
+&nbsp;
+</p>
+<button type="submit" class="submit-button" style="width: auto; padding: 0 60px;">
+  ΕΓΓΡΑΦΗ
+</button></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1602700956" /><input type="hidden" name="_mc4wp_form_id" value="561063805" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->        </div>
+        <a class="popup-modal-dismiss" href="#">x</a></div>
+</div>
+<!--
+<div class="newsletter-subscribe"><a class="newsletter-trigger" href="#newsletter-modal">
+        <svg class="svg-author-icon" viewBox="0 0 20 23">
+            <path d="M17.388,4.751H2.613c-0.213,0-0.389,0.175-0.389,0.389v9.72c0,0.216,0.175,0.389,0.389,0.389h14.775c0.214,0,0.389-0.173,0.389-0.389v-9.72C17.776,4.926,17.602,4.751,17.388,4.751 M16.448,5.53L10,11.984L3.552,5.53H16.448zM3.002,6.081l3.921,3.925l-3.921,3.925V6.081z M3.56,14.471l3.914-3.916l2.253,2.253c0.153,0.153,0.395,0.153,0.548,0l2.253-2.253l3.913,3.916H3.56z M16.999,13.931l-3.921-3.925l3.921-3.925V13.931z"></path>
+        </svg>
+        ΕΓΓΡΑΦΗ NEWSLETTER</a>
+</div> -->
+
+<div class="to-top">
+    <a href="" class="scroll-top-trigger">
+        <img class="arrow-top" src="https://www.kathimerini.gr/wp-content/themes/nxtheme/images/arrow_top.svg">
+    </a>
+</div>
+
+</div> <!-- /. content-wrap -->
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/jquery-3.5.1.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/vendor/popper.min.js"></script>
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/bootstrap.min.js"></script>
+<!--<script src="/js/detectmobilebrowser.js"></script>-->
+<!--<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/theia-sticky-sidebar.js"></script>-->
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/jquery.slimscroll.min.js"></script>
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/slick.min.js"></script>
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/jquery.magnific-popup.min.js"></script>
+<script src="https://www.kathimerini.gr/wp-content/themes/nxtheme/js/main.js?v=2.03"></script>
+		<style>
+			#sticky_outer {width: 1px;height: 1px;right: 0;bottom:0;display: block;position: fixed;z-index: 9999999999;padding-left: 0;padding-right: 0;background: rgba(100,100,100,0.9);padding-top: 0;padding-bottom: 0;max-width: 100vw;}#sticky_inner {display: block;text-align: center;position: relative;width: 100%;max-width: 100%;}#sticky_close {position: absolute;right: calc(50% - 38px);width: 76px;height:19px;top: -19px;background: rgba(100,100,100,0.9);border-radius: 15px 15px 0 0;border-color: rgba(0,0,0,0.3);border-width: 1px 1px 0 1px;border-style: solid;color: #fff;cursor: pointer;text-align: center;line-height: 18px;font-size: 11px;z-index: 9998;visibility: hidden;}.nx-arrow{position:absolute;left:50%;width:14px;height:14px;background:0 0;border-top:.3vmin solid #fff;border-right:.3vmin solid #fff;box-shadow:0 0 0 #d3d3d3;transition:all .2s ease}.nx-arrow.bottom{margin-left:-8px;top:4px;transform:translate3d(0,-50%,0) rotate(135deg)}.nx-arrow:before{content:"";position:absolute;top:50%;left:50%;transform:translate(-40%,-60%) rotate(45deg);width:200%;height:200%}
+		</style>
+		<div id="sticky_outer">
+		   <div id="sticky_inner">
+			  <div id="stickyad">
+				<div id='nx_ad_Category_Sticky'>
+				  <script>
+				  if (isNXMobile) {
+					googletag.cmd.push(function() { googletag.display('nx_ad_Category_Sticky'); });
+				  }
+				  </script>
+				</div>
+			  </div>
+		   </div>
+		   <div id="sticky_close">
+			  <div class="nx-arrow bottom"></div>
+		   </div>
+		</div>
+		<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><script type='text/javascript' id='google_cse_v2-js-extra'>
+/* <![CDATA[ */
+var scriptParams = {"google_search_engine_id":"7b4feb5059104c28b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kathimerini.gr/wp-content/plugins/wp-google-search/assets/js/google_cse_v2.js?ver=1' id='google_cse_v2-js'></script>
+<script type='text/javascript' id='nx_loadmore-js-extra'>
+/* <![CDATA[ */
+var nx_loadmore_params = {"ajaxurl":"https:\/\/www.kathimerini.gr\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"pagename\":\"authors\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"authors\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[\"1\"],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"no_found_rows\":true,\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":15,\"nopaging\":false,\"comments_per_page\":\"50\",\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kathimerini.gr/wp-content/themes/nxtheme/js/loadmore.js?ver=1602108920' id='nx_loadmore-js'></script>
+<script type='text/javascript' src='https://www.kathimerini.gr/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.kathimerini.gr/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.1' id='mc4wp-forms-api-js'></script>
+</body>
+</html>

@@ -1,0 +1,2386 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <style>
+        .async-hide {
+            opacity: 0 !important;
+        }
+    </style>
+    <script>
+        (function(a, s, y, n, c, h, i, d, e) {
+            s.className += ' ' + y;
+            h.end = i = function() {
+                s.className = s.className.replace(RegExp(' ?' + y), '');
+            };
+            (a[n] = a[n] || []).hide = h;
+            setTimeout(function() {
+                    i();
+                    h.end = null;
+                },
+                c);
+        })(window,
+            document.documentElement,
+            'async-hide',
+            'dataLayer',
+            2000,
+            { 'GTM-MSXCJ4Q': true }
+        );
+    </script>
+
+<script type="application/json" id="ga-custom-dimensions">
+    {}
+</script>
+
+<script id="_gaId" type="text/javascript">
+    var googleStatKey = '/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/lokaletta';
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-3289092-1', 'auto');
+
+        ga('require', 'GTM-MSXCJ4Q');
+
+    var gaCustomDimensions = JSON.parse(document.getElementById('ga-custom-dimensions').textContent);
+    ga('set', 'page', googleStatKey);
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview', gaCustomDimensions);
+
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ 'event': 'optimize.activate' });
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+
+    
+            <meta name="author" content="Sveriges Radio" />
+        <meta name="description" content="P4 Uppland ger dig lokala nyheter, viktiga samh&#228;llsfr&#229;gor och underh&#229;llning. Vi granskar makten, bevakar sporten och f&#246;ljer kulturlivet." />
+        <meta name="keywords" content="Upplandsnytt, Radio Uppland, P4, Upplandsradion, Sveriges Radio, Uppsala, nyheter, aktualiteter, Uppsala l&#228;n, Uppland, lokal gr&#228;vande journalistik i din radio, radionyheter, lokala nyheter, lokal sport, Upplandssporten, Nyheter P4 Uppland                 " />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="twitter:site" content="@sverigesradio" />
+        <meta name="twitter:creator" content="@p4uppland" />
+        <meta name="twitter:title" content="P4 Uppland" />
+        <meta name="twitter:description" content="P4 Uppland ger dig lokala nyheter, viktiga samh&#228;llsfr&#229;gor och underh&#229;llning. Vi granskar makten, bevakar sporten och f&#246;ljer kulturlivet." />
+        <meta name="twitter:image" content="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=2048x1152" />
+        <meta name="twitter:card" content="summary" />
+
+            <meta property="og:title" content="P4 Uppland" />
+        <meta property="og:description" content="P4 Uppland ger dig lokala nyheter, viktiga samh&#228;llsfr&#229;gor och underh&#229;llning. Vi granskar makten, bevakar sporten och f&#246;ljer kulturlivet." />
+        <meta property="og:image" content="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=2048x1152" />
+        <meta property="og:type" content="website" />
+
+    <link rel="preconnect" href="https://static-cdn.sr.se" />
+    <link rel="preconnect" href="https://trafficgateway.research-int.se" />
+    <link rel="dns-prefetch" href="https://analytics.codigo.se">
+    <link rel="dns-prefetch" href="https://static.smhivader.se" />
+    
+    <style type="text/css">
+    /*
+    This CSS resource incorporates links to font software which is
+    the valuable copyrighted property of Monotype Imaging and/or
+    its suppliers. You may not attempt to copy, install, redistribute, convert,
+    modify or reverse engineer this font software. Please contact Monotype Imaging
+    with any questions regarding Web Fonts:  http://webfonts.fonts.com
+    */
+
+    /*Avenir Roman*/
+    @font-face {
+        font-family: Avenir;
+        font-display: swap;
+        src: url("/dist/fonts/353dc12d-fb37-4fed-9186-d1c5103e819a.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir;
+        font-display: swap;
+        src: url("/dist/fonts/353dc12d-fb37-4fed-9186-d1c5103e819a.eot?iefix");
+        src: url("/dist/fonts/8de3f5b8-fbaa-49f9-88f2-abb9819a8cf7.woff?iefix") format("woff"),
+             url("/dist/fonts/a5760f6a-f37b-4c02-8132-71ed1dfc1df0.ttf") format("truetype"),
+             url("/dist/fonts/12b392b1-29e3-4914-92d3-cf207e1c5a6c.svg#12b392b1-29e3-4914-92d3-cf207e1c5a6c") format("svg");
+    }
+
+    /*Avenir Black*/
+    @font-face {
+        font-family: Avenir;
+        font-weight: bold;
+        font-display: swap;
+        src: url("/dist/fonts/60c9edc5-0526-4041-a3e7-db28207bace3.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir;
+        font-weight: bold;
+        font-display: swap;
+        src: url("/dist/fonts/60c9edc5-0526-4041-a3e7-db28207bace3.eot?iefix");
+        src: url("/dist/fonts/f798351f-44b7-4c7b-a8ba-00fd2a5cd3c8.woff?iefix") format("woff"),
+             url("/dist/fonts/a3f97274-8e6d-4c74-9dc3-ae988798ed5f.ttf") format("truetype"),
+             url("/dist/fonts/4629ed47-0ef9-4384-b6b9-9f5c6b9b7837.svg#4629ed47-0ef9-4384-b6b9-9f5c6b9b7837") format("svg");
+    }
+
+    /*Avenir Heavy*/
+    @font-face {
+        font-family: Avenir-Heavy;
+        font-display: swap;
+        src: url("/dist/fonts/e9427e66-afa8-4ceb-bb31-7a970fb469ea.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir-Heavy;
+        font-display: swap;
+        src: url("/dist/fonts/e9427e66-afa8-4ceb-bb31-7a970fb469ea.eot?iefix");
+        src: url("/dist/fonts/748da442-9dd9-4a4d-8da0-b114e16e5d7f.woff?iefix") format("woff"),
+             url("/dist/fonts/6beeeb66-0b4e-4162-8788-8bf688b9829a.ttf") format("truetype"),
+             url("/dist/fonts/8afe744b-89a2-4ae2-a88e-05c6882580f3.svg#8afe744b-89a2-4ae2-a88e-05c6882580f3") format("svg");
+    }
+
+    /*Avenir Medium*/
+    @font-face {
+        font-family: Avenir-Medium;
+        font-display: swap;
+        src: url("/dist/fonts/AvenirLTPro-Medium.otf") format("opentype");
+    }
+
+    /* source-sans-pro-regular - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-regular.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    /* source-sans-pro-600 - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 600;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-600.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+        url('/dist/fonts/source-sans-pro-v13-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    /* source-sans-pro-700 - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 700;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-700.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro Bold'),
+        local('SourceSansPro-Bold'),
+        url('/dist/fonts/source-sans-pro-v13-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    .avenir {
+        font-family: Avenir, Arial, Sans-Serif;
+    }
+
+        .avenir h1 a {
+            font-family: Avenir, Arial, Sans-Serif;
+            font-weight: bold;
+        }
+
+        .avenir p {
+            font-family: Avenir, Arial, Sans-Serif;
+        }
+
+    .avenir-bold {
+        font-family: Avenir, Arial, Sans-Serif;
+        font-weight: bold;
+    }
+
+    .avenir-heavy {
+        font-family: Avenir-Heavy, Arial, Sans-Serif;
+    }
+</style>
+<link rel="stylesheet" href="https://fast.fonts.com/t/1.css?apiType=css&projectid=8eb2d7c4-edba-4b0c-b609-25f87be56ee5" media="print">
+
+
+    
+    <link rel="stylesheet" href="/dist/embed-site-3507e04e.css"><link rel="stylesheet" href="/dist/site-f799113b.css">
+
+    
+    
+    <script src="/dist/lazysizes-ea037fc2.js" async></script>
+
+    <link rel="image_src" type="image/jpeg" href="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=2048x1152" /><link rel="apple-touch-icon" href="/dist/images/apple-touch-icon-default.png" sizes="144x144" /><link rel="alternate" type="application/atom+xml" href="https://api.sr.se/api/rss/program/114" title="Prenumerera via RSS" /><link rel="alternate" type="application/rss+xml" href="https://api.sr.se/api/rss/pod/3788" title="P4 Uppland" />
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/dist/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/dist/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/dist/favicon-16x16.png">
+<link rel="mask-icon" href="/dist/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+    
+    <link rel="manifest" href="/site.webmanifest">
+    <title>P4 Uppland | Sveriges Radio</title>
+
+</head>
+<body id="p4" class="th-p4 th-p4-room lokaletta t8 unitid-114" data-unitid="114" data-version="16.0.3503" data-single-page-enabled="true">
+    <script type="text/javascript">
+        var _sf_startpt = (new Date()).getTime();
+        var ios = navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/iPad/i) ? " ios" : "";
+        document.body.className += " js-on" + ios;
+    </script>
+    
+
+
+
+<div data-require="modules/remove-element" class="no-javascript print--no">
+    <div class="sr-page__wrapper">
+        <div class="gutter">
+            <span>Du måste aktivera javascript för att sverigesradio.se ska fungera korrekt och för att kunna lyssna på ljud. Har du problem med vår sajt så finns hjälp på <a href="https://kundo.se/org/sverigesradio/" class="support-link">https://kundo.se/org/sverigesradio/</a></span>
+        </div>
+    </div>
+</div>
+
+<div id="navigate-to">
+    <a href="#main-content" tabindex="1">Navigera till innehåll</a>
+</div>
+
+
+<div data-require="modules/modal-helper">
+    <div class="global-fixed-height--main-menu">
+        <div data-global-vue-component="main-menu"></div>
+    </div>
+
+        <div id="cookie-message" class="cookie-message-wrapper">
+            <div data-global-vue-component="cookie-message"></div>
+        </div>
+
+    <div id="user-message-legacy" class="user-message print--no" style="display: none;">
+        <div class="user-message__wrapper">
+            <span class="user-message__content">
+                <span id="user-message-legacy-text" class="user-message__content-text">
+                    Tyvärr stödjer vi inte din version av webbläsare. Prova att använda en annan webbläsare, uppdatera till en nyare version.
+                    <a  href="/artikel/6400260" class="sr-lnk" >L&#228;s mer om problem i &#228;ldre webbl&#228;sare</a>
+                </span>
+            </span>
+        </div>
+    </div>
+
+    <div id="page-wrapper" class="sr-page__wrapper">
+
+        <div class="sr-page__content">
+            
+
+    <div class="container print--no">
+        
+        <div class="unit-header th-border-color">
+
+        <div class="unit-header__block">
+            <div class="unit-header__block unit-header__block--channel ">
+                <div class="ribbon th-bg-color" data-require="modules/local-header">
+    <div class="container">
+        <div class="ribbon__inner">
+            <a class="ribbon__link" href="/uppland" data-js="" title="Till startsidan f&#246;r p4 Uppland">
+                    <div class="ribbon__icon">
+                        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-p4"></use>
+</svg>
+
+                    </div>
+                                    <div class="ribbon__title">
+                        <span class="logo-header logo-header--small ribbon__title--text" data-js="">Uppland</span>
+                    </div>
+            </a>
+
+
+
+        </div>
+    </div>
+</div>
+
+            </div>
+
+
+        </div>
+
+
+            <nav class="container container--collapse global-fixed-height--unit-header-submenu">
+                	<nav role="navigation" class="program-menu nocontent" data-require="modules/program-menu">
+		<ul class="program-menu__list">
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link active" href="/sida/default.aspx?programid=114">
+                        <span>Start</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/kanalprogramlista.aspx?programid=218">
+                        <span>P4 program A-&#214;</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/tabla.aspx?programid=218">
+                        <span>Tabl&#229;</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/latlista.aspx?programid=218">
+                        <span>L&#229;tlistor</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/textarkiv.aspx?programid=114">
+                        <span>Arkiv</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/gruppsida.aspx?programid=114&amp;grupp=20175">
+                        <span>Om…</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/gruppsida.aspx?programid=114&amp;grupp=20235">
+                        <span>Tipsa!</span>
+                    </a>
+				</li>
+			<li class="program-menu__list__item program-menu__list__item--more more-item" style="visibility: hidden;">
+				<button class="program-menu__more-button more-button th-border-color">
+					<span class="more-button__label">
+						Mer
+						<span class="program-menu__more-button__icon">
+                            <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-arrowdown"></use>
+</svg>
+
+                        </span>
+					</span>
+                </button>
+			</li>
+		</ul>
+	</nav>
+
+            </nav>
+    </div>
+
+
+    </div>
+
+
+    <div class="container print--no">
+        
+    
+
+    </div>
+
+    <div class="print--no">
+        
+
+    </div>
+
+<main class="sr-page__columns two-col container" id="main-content">
+    <div class="two-col__inner">
+
+            <aside class="two-col__aside two-col__aside--top nocontent">
+                
+    <div data-vue-component="single-channel-module" data-title="Lyssna direkt" data-channel-id="218"></div>
+
+            </aside>
+
+        <div class="two-col__main">
+            
+    <div class="main" role="main">
+        <h1 class="offscreen section-heading section-heading-p4" id="optimize-spela-alla-heading">Nyheter fr&#229;n P4 Uppland</h1>
+        <ul class="puff-flow">
+                <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/b9384520-242d-4c67-b93a-9e6bfd561e67.jpg?preset=768x432" class=" lazyload"  alt="Ledningsfordon Uppsala brandf&#246;rsvar." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/b9384520-242d-4c67-b93a-9e6bfd561e67.jpg?preset=768x432" class=""  alt="Ledningsfordon Uppsala brandf&#246;rsvar." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">&#196;lvkarleby</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7575217"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Kraftig brand&#160;i Marma"
+         data-publication-id="7575217">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7575217" data-clickable-content="link" class="heading" >Kraftig brand&#160;i Marma</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:36 minuter">1:36 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >En brand i ett hus vid Marma skjutf&#228;lt orsakar kraftig r&#246;k</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/9a16ebff-9b01-4d47-871d-80b63d71255f.jpg?preset=768x432" class=" lazyload"  alt="Kvinna med gr&#246;n halsduk och ett k&#228;rnkraftverk i bakgrunden. " />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/9a16ebff-9b01-4d47-871d-80b63d71255f.jpg?preset=768x432" class=""  alt="Kvinna med gr&#246;n halsduk och ett k&#228;rnkraftverk i bakgrunden. " />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <a href="/sida/gruppsida.aspx?programid=114&amp;grupp=11606" class="publication-theme  publication-theme--is-on-image">K&#228;rnavfall</a>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7574557"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Ja till ett slutf&#246;rvar – detta h&#228;nder nu"
+         data-publication-id="7574557">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7574557" data-clickable-content="link" class="heading" >Ja till ett slutf&#246;rvar – detta h&#228;nder nu</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:22 minuter">1:22 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >Sveriges Radios milj&#246;reporter kommenterar den historiska h&#228;ndelsen. </span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                            <aside>
+                <ul class="related-list">
+        <li class="related-list__item" data-require="modules/clickable-content">
+            <div class="related-item">
+        <div class="related-item__image">
+                <div class="image image--squaremobile">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/aec6f271-b596-41b5-b921-8efa0dab2881.jpg?preset=256x144" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/aec6f271-b596-41b5-b921-8efa0dab2881.jpg?preset=256x144" class=""  alt="" />
+    </noscript>
+
+        </div>
+    <div class="related-item__title">
+            <div class="related-item__play">
+                <button class="audio-button"
+                        data-require="modules/play-on-click modules/custom-click-tracking"
+                        data-audio-type="publication"
+                        data-audio-id="7574188"
+                        data-publication-id="7574188"
+                        data-stat-category="navigation"
+                        data-stat-action="click_relaterat_startaljud"
+                        data-stat-label="">
+                    <span class="play-icon play-icon--xs">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+                </button>
+            </div>
+        <div class="related-item__heading">
+            <a href="/artikel/7574188"
+               class="related-item__link link"
+               target="_self"
+               data-clickable-content="link"
+               data-require="modules/custom-click-tracking"
+               data-stat-category="navigation"
+               data-stat-action="click_relaterat_länk"
+               data-stat-label="">
+                <h3 class="heading h6" >&#214;sthammar sa tydligt ja till ett slutf&#246;rvar</h3>
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+        </li>
+</ul>
+
+            </aside>
+    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/806f850c-a1c0-4868-a3a3-45deffad8655.jpg?preset=768x432" class=" lazyload"  alt="Ett skylt som s&#228;ger &quot;Akademiska sjukhuset&quot;. Genrebild" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/806f850c-a1c0-4868-a3a3-45deffad8655.jpg?preset=768x432" class=""  alt="Ett skylt som s&#228;ger &quot;Akademiska sjukhuset&quot;. Genrebild" />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Morfinst&#246;lderna p&#229; Akademiska</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7574982"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Sjuksk&#246;terska misst&#228;nks ha stulit sjuka barns morfin"
+         data-publication-id="7574982">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7574982" data-clickable-content="link" class="heading" >Sjuksk&#246;terska misst&#228;nks ha stulit sjuka barns morfin</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="2:04 minuter">2:04 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >&#197;kte fast i internutredning.</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                            <aside>
+                <ul class="related-list">
+        <li class="related-list__item" data-require="modules/clickable-content">
+            <div class="related-item">
+        <div class="related-item__image">
+                <div class="image image--squaremobile">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/928e626a-af05-4457-816b-7dd691f87fca.jpg?preset=256x144" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/928e626a-af05-4457-816b-7dd691f87fca.jpg?preset=256x144" class=""  alt="" />
+    </noscript>
+
+        </div>
+    <div class="related-item__title">
+            <div class="related-item__play">
+                <button class="audio-button"
+                        data-require="modules/play-on-click modules/custom-click-tracking"
+                        data-audio-type="publication"
+                        data-audio-id="7559488"
+                        data-publication-id="7559488"
+                        data-stat-category="navigation"
+                        data-stat-action="click_relaterat_startaljud"
+                        data-stat-label="">
+                    <span class="play-icon play-icon--xs">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+                </button>
+            </div>
+        <div class="related-item__heading">
+            <a href="/artikel/7559488"
+               class="related-item__link link"
+               target="_self"
+               data-clickable-content="link"
+               data-require="modules/custom-click-tracking"
+               data-stat-category="navigation"
+               data-stat-action="click_relaterat_länk"
+               data-stat-label="">
+                <h3 class="heading h6" >Morfin f&#246;r barn stals och ersattes med v&#228;tska</h3>
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+        </li>
+</ul>
+
+            </aside>
+    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large puff-audio-large--feature th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/c6a1a6fa-8311-43c7-b277-6c4634f6b3af.jpg?preset=768x432" class=" lazyload"  alt="Bild p&#229; uttagningsformul&#228;r f&#246;r Vi i femman." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/c6a1a6fa-8311-43c7-b277-6c4634f6b3af.jpg?preset=768x432" class=""  alt="Bild p&#229; uttagningsformul&#228;r f&#246;r Vi i femman." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme th-color-dark">Fr&#229;gesport</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7574635" data-clickable-content="link" class="heading" >Dags att anm&#228;la sig till Vi i femman</a></h2>
+
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >Ta chansen - t&#228;vla i den klassiska fr&#229;gesportst&#228;vlingen.</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/f7c0d472-ddad-40bb-b8ed-8a1f023a80bf.jpg?preset=768x432" class=" lazyload"  alt="En kvinna med gr&#229;tt h&#229;r, svarta glas&#246;gon och orange jacka st&#229;r p&#229; en asfalterad v&#228;g med skog runtomkring. Kvinnan st&#229;r med en svart-vit hund." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/f7c0d472-ddad-40bb-b8ed-8a1f023a80bf.jpg?preset=768x432" class=""  alt="En kvinna med gr&#229;tt h&#229;r, svarta glas&#246;gon och orange jacka st&#229;r p&#229; en asfalterad v&#228;g med skog runtomkring. Kvinnan st&#229;r med en svart-vit hund." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Slutf&#246;rvar</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7574971"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; &#214;sthammarsborna delade efter besked om slutf&#246;rvaret"
+         data-publication-id="7574971">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7574971" data-clickable-content="link" class="heading" >&#214;sthammarsborna delade efter besked om slutf&#246;rvaret</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:24 minuter">1:24 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >&quot;Helt fel alltihopa.&quot;</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                            <aside>
+                <ul class="related-list">
+        <li class="related-list__item" data-require="modules/clickable-content">
+            <div class="related-item">
+        <div class="related-item__image">
+                <div class="image image--squaremobile">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/aec6f271-b596-41b5-b921-8efa0dab2881.jpg?preset=256x144" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/aec6f271-b596-41b5-b921-8efa0dab2881.jpg?preset=256x144" class=""  alt="" />
+    </noscript>
+
+        </div>
+    <div class="related-item__title">
+            <div class="related-item__play">
+                <button class="audio-button"
+                        data-require="modules/play-on-click modules/custom-click-tracking"
+                        data-audio-type="publication"
+                        data-audio-id="7574188"
+                        data-publication-id="7574188"
+                        data-stat-category="navigation"
+                        data-stat-action="click_relaterat_startaljud"
+                        data-stat-label="">
+                    <span class="play-icon play-icon--xs">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+                </button>
+            </div>
+        <div class="related-item__heading">
+            <a href="/artikel/7574188"
+               class="related-item__link link"
+               target="_self"
+               data-clickable-content="link"
+               data-require="modules/custom-click-tracking"
+               data-stat-category="navigation"
+               data-stat-action="click_relaterat_länk"
+               data-stat-label="">
+                <h3 class="heading h6" >&#214;sthammar sa tydligt ja till ett slutf&#246;rvar</h3>
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+        </li>
+</ul>
+
+            </aside>
+    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/3382b112-122a-49d4-a3fc-08b125e35dda.jpg?preset=768x432" class=" lazyload"  alt="HOCKEYALLSVENSKAN ALMTUNA-MODO" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/3382b112-122a-49d4-a3fc-08b125e35dda.jpg?preset=768x432" class=""  alt="HOCKEYALLSVENSKAN ALMTUNA-MODO" />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Hockey</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="extra"
+        data-audio-id="25586"
+        aria-label="Lyssna p&#229; 19.00: Almtuna tar emot Vita H&#228;sten"
+         data-publication-id="7568143">
+    <span class="play-icon play-icon-play-pause--live th-color">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7568143" data-clickable-content="link" class="heading" >19.00: Almtuna tar emot Vita H&#228;sten</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <a
+    class="live-label"
+    aria-hidden="true"
+    tabindex="-1"
+    href="#"
+    role="button"
+    data-require="modules/play-on-click"
+    data-audio-type="channel"
+    data-audio-id="25586"
+>
+    Direkt
+    <div class="live-label__icon">
+        <svg focusable="false" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <circle fill="#FFF" cx="12" cy="12" r="6"></circle>
+        </svg>
+    </div>
+</a>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <abbr title="S&#228;nds klockan 18.55 till 22.00">S&#228;nds kl. 18.55 - 22.00</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >H&#246;r matchen i sin helhet h&#228;r.</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/5b9f54d5-30d9-4ec8-b177-d60b677f2445.jpg?preset=768x432" class=" lazyload"  alt="Peter Evansson &#228;r socialdemokratiskt kommunalr&#229;d f&#246;r Knivsta kommun." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/5b9f54d5-30d9-4ec8-b177-d60b677f2445.jpg?preset=768x432" class=""  alt="Peter Evansson &#228;r socialdemokratiskt kommunalr&#229;d f&#246;r Knivsta kommun." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Knivsta kommun</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7575207"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Kommunalr&#229;d&#160; tolkar svar fr&#229;n regeringens kansli positivt"
+         data-publication-id="7575207">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7575207" data-clickable-content="link" class="heading" >Kommunalr&#229;d&#160; tolkar svar fr&#229;n regeringens kansli positivt</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="0:52 minuter">0:52 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >Kommunalr&#229;d tolkar svaret positivt</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/982a62b0-7970-44f4-b242-0fa4a99cb76e.jpg?preset=768x432" class=" lazyload"  alt="En man med brunt h&#229;r, halsduk och brun jacka st&#229;r utomhus framf&#246;r ett tr&#228;d. Till h&#246;ger syns en suddig bild p&#229; ett lodjur p&#229; en &#228;ng fr&#229;n en kamerabevakning." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/982a62b0-7970-44f4-b242-0fa4a99cb76e.jpg?preset=768x432" class=""  alt="En man med brunt h&#229;r, halsduk och brun jacka st&#229;r utomhus framf&#246;r ett tr&#228;d. Till h&#246;ger syns en suddig bild p&#229; ett lodjur p&#229; en &#228;ng fr&#229;n en kamerabevakning." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Uppsala l&#228;n</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7575063"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Skyddsjakt p&#229; lodjur efter f&#229;rattack"
+         data-publication-id="7575063">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7575063" data-clickable-content="link" class="heading" >Skyddsjakt p&#229; lodjur efter f&#229;rattack</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:48 minuter">1:48 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >Fem f&#229;r d&#246;dades.</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/45dba1fa-e448-47bf-86b6-f6f57efa1820.jpg?preset=768x432" class=" lazyload"  alt="Artisten Cliff Richard i rosa kavaj p&#229; scen. " />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/45dba1fa-e448-47bf-86b6-f6f57efa1820.jpg?preset=768x432" class=""  alt="Artisten Cliff Richard i rosa kavaj p&#229; scen. " />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Cliff Richard</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7575104"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; H&#246;r Uppsalaborna hylla superstj&#228;rnan"
+         data-publication-id="7575104">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7575104" data-clickable-content="link" class="heading" >H&#246;r Uppsalaborna hylla superstj&#228;rnan</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:53 minuter">1:53 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >Den brittiska artisten fyller 80 &#229;r.</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                    </div>
+</article>
+</li>
+    <li class="puff-flow__item"><article  data-require="modules/clickable-content" class="ltr puff-audio-large th-p4" lang="sv" dir="ltr">
+    <div class="th-border-color">
+            <div class="puff-audio-large__image-wrapper">
+                    <figure>
+                            <div class="image image--compact">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/8b080125-51a2-4f98-92c6-747722de4f1f.jpg?preset=768x432" class=" lazyload"  alt="Minnesm&#228;rke med blommor och ljus vid Fyris&#229;n. Till h&#246;ger Uppsala tingsr&#228;tt." />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/8b080125-51a2-4f98-92c6-747722de4f1f.jpg?preset=768x432" class=""  alt="Minnesm&#228;rke med blommor och ljus vid Fyris&#229;n. Till h&#246;ger Uppsala tingsr&#228;tt." />
+    </noscript>
+
+                    </figure>
+                                    <div class="puff-audio-large__theme">
+                        <span class="publication-theme  publication-theme--is-on-image">Dom i mordfall</span>
+
+                    </div>
+            </div>
+        <header class="puff-audio-large__header">
+            <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="publication"
+        data-audio-id="7574702"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; 19-&#229;ring d&#246;ms till nio &#229;rs f&#228;ngelse f&#246;r mord"
+         data-publication-id="7574702">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h2 class="heading heading-link h2" ><a  href="/artikel/7574702" data-clickable-content="link" class="heading" >19-&#229;ring d&#246;ms till nio &#229;rs f&#228;ngelse f&#246;r mord</a></h2>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="1:04 minuter">1:04 min</abbr>
+
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+        </header>
+            <div class="puff-audio-large__preamble">
+                <div class="preamble-component">
+        <div class="preamble-component__nedryckare">
+            <span class="puff-nedryckare" >F&#246;rsvaret t&#228;nker &#246;verklaga: &quot;Vi &#228;r besvikna och f&#246;rv&#229;nade.&quot;</span>
+        </div>
+    
+    <div class="preamble-text puff-preamble text-editor-content" ></div>
+</div>
+
+            </div>
+                            <aside>
+                <ul class="related-list">
+        <li class="related-list__item" data-require="modules/clickable-content">
+            <div class="related-item">
+        <div class="related-item__image">
+                <div class="image image--squaremobile">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/100de2a8-b282-4131-ae60-cc58fc452c04.jpg?preset=256x144" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/100de2a8-b282-4131-ae60-cc58fc452c04.jpg?preset=256x144" class=""  alt="" />
+    </noscript>
+
+        </div>
+    <div class="related-item__title">
+            <div class="related-item__play">
+                <button class="audio-button"
+                        data-require="modules/play-on-click modules/custom-click-tracking"
+                        data-audio-type="publication"
+                        data-audio-id="7541417"
+                        data-publication-id="7541417"
+                        data-stat-category="navigation"
+                        data-stat-action="click_relaterat_startaljud"
+                        data-stat-label="">
+                    <span class="play-icon play-icon--xs">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+                </button>
+            </div>
+        <div class="related-item__heading">
+            <a href="/artikel/7541417"
+               class="related-item__link link"
+               target="_self"
+               data-clickable-content="link"
+               data-require="modules/custom-click-tracking"
+               data-stat-category="navigation"
+               data-stat-action="click_relaterat_länk"
+               data-stat-label="">
+                <h3 class="heading h6" >19-&#229;ring erk&#228;nner att han orsakat skadan</h3>
+            </a>
+            
+        </div>
+    </div>
+</div>
+
+        </li>
+</ul>
+
+            </aside>
+    </div>
+</article>
+</li>
+    <li class="puff-flow__show-more" data-require="modules/show-more" data-url="/program/flow?unitid=114&amp;page=2&amp;size=10" data-showmore="hide">
+        <button class="show-more-button">
+    <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-showmore"></use>
+</svg>
+
+    Visa fler
+</button>
+
+    </li>
+
+        </ul>
+    </div>
+    <span class="offscreen" data-require="modules/p4-redirect"></span>
+
+        </div>
+
+            <aside class="two-col__aside two-col__aside--bottom nocontent">
+                
+    <ul>
+    <li>
+    <div data-vue-component="latest-episode" title="Senaste nyhetssändning" data-json="{&quot;audioId&quot;:1584354,&quot;audioType&quot;:&quot;episode&quot;,&quot;title&quot;:&quot;Nyheter P4 Uppland&quot;,&quot;startTime&quot;:&quot;17.30&quot;,&quot;endTime&quot;:&quot;17.33&quot;,&quot;imageUrl&quot;:&quot;https://static-cdn.sr.se/images/114/b3c02693-d242-405f-920d-9607396bd8b8.jpg?preset=100x100&quot;,&quot;url&quot;:&quot;/avsnitt/1584354&quot;}"></div>
+    </li>
+    
+    <li>
+            <section class="popular-episodes">
+        <header class="popular-episodes__header">
+            <h2 class="heading h3" >S&#228;nt i P4</h2>
+        </header>
+
+        <div class="popular-episodes__body">
+            <div class="episode-list ">
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/493/344ab096-4e34-41dc-810c-f3816a189c41.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/493/344ab096-4e34-41dc-810c-f3816a189c41.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1583010"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Klartext - nyheter p&#229; ett enklare s&#228;tt"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >Klartext</h3>
+            </div>
+        <a  href="/avsnitt/1583010" data-clickable-content="link" class="heading h6" >Klartext - nyheter p&#229; ett enklare s&#228;tt</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="5:00 minuter">5:00 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 18.55</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><a href="//sverigesradio.se/topsy/ljudfil/srse/7554713.mp3"
+   role="button"
+   rel="nofollow noopener"
+   target="_blank"
+   data-disable-singlepage="true"
+   data-stat-label=""
+   data-stat-category="webbradio"
+   data-stat-action="sandning_nedladdning"
+   data-require="modules/custom-click-tracking"
+   class="details-button">
+    <span class="details-button__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-download"></use>
+</svg>
+</span>
+    <span class="details-button__title">
+        Ladda ner
+    </span>
+</a>
+</li>
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1583010"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/4885/c8ad9848-c0c0-4c0c-810f-f43788f7c7f9.png?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/4885/c8ad9848-c0c0-4c0c-810f-f43788f7c7f9.png?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1600272"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Fel sak p&#229; fel plats"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >Kv&#228;llspasset i P4 </h3>
+            </div>
+        <a  href="/avsnitt/1600272" data-clickable-content="link" class="heading h6" >Fel sak p&#229; fel plats</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="63 minuter">63 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 17.37</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><a href="//sverigesradio.se/topsy/ljudfil/srse/7554757.mp3"
+   role="button"
+   rel="nofollow noopener"
+   target="_blank"
+   data-disable-singlepage="true"
+   data-stat-label=""
+   data-stat-category="webbradio"
+   data-stat-action="sandning_nedladdning"
+   data-require="modules/custom-click-tracking"
+   class="details-button">
+    <span class="details-button__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-download"></use>
+</svg>
+</span>
+    <span class="details-button__title">
+        Ladda ner
+    </span>
+</a>
+</li>
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1600272"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/4265/a8903741-257e-4f49-beb8-d27cc8875d01.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/4265/a8903741-257e-4f49-beb8-d27cc8875d01.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1600165"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Guldjubel f&#246;r Masarna och exklusiv stj&#228;rnintervju"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >Speedwaypodden</h3>
+            </div>
+        <a  href="/avsnitt/1600165" data-clickable-content="link" class="heading h6" >Guldjubel f&#246;r Masarna och exklusiv stj&#228;rnintervju</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="36 minuter">36 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 15.50</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><a href="//sverigesradio.se/topsy/ljudfil/srse/7554315.mp3"
+   role="button"
+   rel="nofollow noopener"
+   target="_blank"
+   data-disable-singlepage="true"
+   data-stat-label=""
+   data-stat-category="webbradio"
+   data-stat-action="sandning_nedladdning"
+   data-require="modules/custom-click-tracking"
+   class="details-button">
+    <span class="details-button__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-download"></use>
+</svg>
+</span>
+    <span class="details-button__title">
+        Ladda ner
+    </span>
+</a>
+</li>
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1600165"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/5337/5938589c-d05b-43d6-a7fa-9dae7cb4d168.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/5337/5938589c-d05b-43d6-a7fa-9dae7cb4d168.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1599932"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Christer Sj&#246;gren: Min enda dr&#246;m &#228;r att f&#229; jobba som vanligt"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >P4 Extra – G&#228;sten</h3>
+            </div>
+        <a  href="/avsnitt/1599932" data-clickable-content="link" class="heading h6" >Christer Sj&#246;gren: Min enda dr&#246;m &#228;r att f&#229; jobba som vanligt</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="18 minuter">18 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 15.01</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><a href="//sverigesradio.se/topsy/ljudfil/srse/7554201.mp3"
+   role="button"
+   rel="nofollow noopener"
+   target="_blank"
+   data-disable-singlepage="true"
+   data-stat-label=""
+   data-stat-category="webbradio"
+   data-stat-action="sandning_nedladdning"
+   data-require="modules/custom-click-tracking"
+   class="details-button">
+    <span class="details-button__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-download"></use>
+</svg>
+</span>
+    <span class="details-button__title">
+        Ladda ner
+    </span>
+</a>
+</li>
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1599932"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/3064/cdf1492c-479d-41e1-b334-c743d77d9700.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/3064/cdf1492c-479d-41e1-b334-c743d77d9700.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1584351"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Med Midia Saleh"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >Eftermiddag i P4 Uppland</h3>
+            </div>
+        <a  href="/avsnitt/1584351" data-clickable-content="link" class="heading h6" >Med Midia Saleh</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="154 minuter">154 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 15.00</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1584351"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item  th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/4416/59c3fb19-fecf-4c12-84d3-771c7e4aab39.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/4416/59c3fb19-fecf-4c12-84d3-771c7e4aab39.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1583002"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; Simon Larsson fr&#229;n Kil spelar Karl Bertil i ny film, Astrid Lindgren-koden ska kn&#228;ckas och Stevie Wonder l&#228;mnar Motown"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >Kulturnytt i P4</h3>
+            </div>
+        <a  href="/avsnitt/1583002" data-clickable-content="link" class="heading h6" >Simon Larsson fr&#229;n Kil spelar Karl Bertil i ny film, Astrid Lindgren-koden ska kn&#228;ckas och Stevie Wonder l&#228;mnar Motown</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="2:35 minuter">2:35 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 14.57</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1583002"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+<div class="episode-list-item th-p4 th-override" data-require="modules/clickable-content">
+    <div class="episode-list-item__content">
+
+        <figure class="episode-list-item__thumbnail">
+                <div class="image image--square">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/2151/16c417ad-5847-4c11-a2c1-96598d1fd265.jpg?preset=audio-box-foldable-episode" class=" lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/2151/16c417ad-5847-4c11-a2c1-96598d1fd265.jpg?preset=audio-box-foldable-episode" class=""  alt="" />
+    </noscript>
+
+        </figure>
+
+        <div class="episode-list-item__header">
+            <div class="episode-list-item__heading">
+                <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/play-on-click"
+        data-audio-type="episode"
+        data-audio-id="1583000"
+        data-start-time="0"
+        aria-label="Lyssna p&#229; P4 Extra med Titti Schultz"
+        >
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle th-color">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+            <div class="audio-heading__subtitle th-color-dark">
+                <h3 class="heading h6" >P4 Extra </h3>
+            </div>
+        <a  href="/avsnitt/1583000" data-clickable-content="link" class="heading h6" >P4 Extra med Titti Schultz</a>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="113 minuter">113 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">-</span>
+
+                    </div>
+                    <div class="audio-heading__meta-item">
+                        <span class="metadata-item-text">kl 13.04</span>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+            <div class="episode-list-item__controls">
+            <ul class="details-button-list details-button-list--horizontal details-button-list--right">
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="episode"
+        data-audio-id="1583000"
+        data-gatrackcontext=""
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+</ul>
+
+        </div>
+</div>
+</div>
+
+        </div>
+    </section>
+
+    </li>
+        <li>
+            <div data-vue-component="local-module-on-page" channel-id="218"></div>
+        </li>
+        <li>
+            <div data-vue-component="latest-weather-report"></div>
+        </li>
+</ul>
+
+
+            </aside>
+    </div>
+
+        <section class="sr-page__bottom nocontent print--no">
+            
+    
+<div id="unit-footer" class="program-footer has-contact-info" data-statkey="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]" data-require="modules/page-footer-click-tracker" dir="ltr">
+    <div class="program-footer__image-wrapper">
+            <div class="image image--default">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=768x432" class="program-footer__image lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=768x432" class="program-footer__image"  alt="" />
+    </noscript>
+
+    </div>
+
+    <div class="program-footer__info th-bg-color-dark">
+        <div class="program-footer__heading">
+            <h1 class="heading" >Om P4 Uppland</h1>
+        </div>
+        <p class="teaser-text teaser-text--inverted" >P4 Uppland ger dig lokala nyheter, viktiga samh&#228;llsfr&#229;gor och underh&#229;llning. Vi granskar makten, bevakar sporten och f&#246;ljer kulturlivet.</p>
+    </div>
+
+    <div class="program-footer__links">
+            <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >E-post</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  href="mailto:p4uppland@sverigesradio.se" class="sr-btn sr-btn--icon sr-btn--svg sr-btn--text-ellipsis" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-email"></use>
+</svg>
+</span><span class="sr-btn__label" >p4uppland@sverigesradio.se</span></a>
+
+        </li>
+</ul>
+            </div>
+                    <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >F&#246;lj via</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Facebook" href="https://www.facebook.com/P4Uppland" data-stat-action="f&#246;lj_program[facebook]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-facebook"></use>
+</svg>
+</span><span class="sr-btn__label" >Facebook</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Twitter" href="https://twitter.com/p4uppland" data-stat-action="f&#246;lj_program[twitter]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-twitter"></use>
+</svg>
+</span><span class="sr-btn__label" >Twitter</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Instagram" href="https://instagram.com/p4uppland" data-stat-action="f&#246;lj_program[instagram]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-instagram"></use>
+</svg>
+</span><span class="sr-btn__label" >Instagram</span></a>
+
+        </li>
+</ul>
+            </div>
+                    <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >Prenumerera</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  href="//api.sr.se/api/rss/pod/3788" target="_blank" rel="noopener" data-stat-action="f&#246;lj_program[poddradio_xml]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-podcast"></use>
+</svg>
+</span><span class="sr-btn__label" >Poddradio(xml)</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  href="//api.sr.se/api/rss/program/114" target="_blank" rel="noopener" data-stat-action="f&#246;lj_program[rss]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-rss"></use>
+</svg>
+</span><span class="sr-btn__label" >RSS(text)</span></a>
+
+        </li>
+</ul>
+<a href="/gruppsida.aspx?programid=2332&amp;grupp=17024" class="caption caption--link">Hj&#228;lp med att prenumerera</a>
+            </div>
+    </div>
+</div>
+
+
+        </section>
+</main>
+
+
+        </div>
+        <div class="print--no">
+<div class="container">
+    <div class="support-info">
+        <div class="support-info__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-support"></use>
+</svg>
+</div>
+        <div class="support-info__text-wrapper">
+            <span class="support-info-header" >Har du fr&#229;gor eller f&#246;rslag g&#228;llande v&#229;ra webbtj&#228;nster?</span>
+            <p class="paragraph" >Kontakta g&#228;rna Sveriges Radios supportforum d&#228;r vi besvarar dina fr&#229;gor vardagar kl. 9-17.</p>
+        </div>
+        <div class="support-info__link"><a class="external-link-with-icon" href="https://kundo.se/org/sverigesradio/">
+    Bes&#246;k v&#229;rt supportforum<span class="external-link-with-icon__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-external"></use>
+</svg>
+</span>
+</a>
+
+</div>
+    </div>
+</div>
+            <footer class="global-footer nocontent">
+    <div class="global-footer__logo-wrapper">
+        <a href="/" class="global-footer__logo">
+            <span class="offscreen">Till startsidan</span>
+            <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-sverigesradio"></use>
+</svg>
+
+        </a>
+    </div>
+    <div class="global-footer__back-to-top">
+        <a href="#topp" class="back-to-top" role="button" data-require="modules/scroll-to-top">
+            Tillbaka till toppen
+        </a>
+    </div>
+    <div class="global-footer__link-row">
+        <a href="/sida/default.aspx?programid=3113" class="global-footer__link">
+            Om företaget
+        </a>
+
+        <a href="/press" class="global-footer__link">
+            Pressinformation
+        </a>
+
+        <a href="https://karriar.sverigesradio.se/" target="_blank" rel="noopener" class="global-footer__link">
+            Jobba hos oss
+        </a>
+
+        <a href="/sverigesradiobloggen" class="global-footer__link">
+            Sveriges Radio-bloggen
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971594" class="global-footer__link">
+            Kontakta oss
+        </a>
+    </div>
+    <div class="global-footer__link-row">
+        <a href="https://www.teracom.se/privat/radio/" class="global-footer__link">
+            Frekvenser
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3756&amp;artikel=4771512" class="global-footer__link">
+            Om cookies
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=6956074" class="global-footer__link">
+            Om personuppgifter
+        </a>
+
+        <a href="https://kundo.se/org/sverigesradio/" class="global-footer__link">
+            Supportforum
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3756&amp;artikel=5885532" class="global-footer__link">
+            Om webbplatsen
+        </a>
+
+        <a href="/sida/sajtkarta.aspx" class="global-footer__link">
+            Sajtkarta
+        </a>
+    </div>
+    <div class="global-footer__legal-info">
+        <div class="global-footer__legal-info__primary-content">
+
+            <p class="global-footer__copyright copyright">Copyright Sveriges Radio 2020</p>
+
+                <span class="global-footer__legal-info__separator"></span>
+                <p class="global-footer__editor editor">Ansvarig utgivare: Alisa Bosnic</p>
+        </div>
+
+        <p>
+            Besöksadress (sthlm) för Sveriges Radio AB - Oxenstiernsgatan 20 - 10510 Stockholm - växel:
+            <a class="global-footer__link global-footer__link--thin" href="tel:+4687845000">
+                08-784 50 00
+            </a>
+        </p>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=2025794" class="global-footer__link global-footer__link--thin">
+            Fler besöksadresser
+        </a>
+    </div>
+</footer>
+
+        </div>
+
+<div class="offscreen" data-require="modules/sifo" data-orvesto-channel-name="p4-uppland" aria-hidden="true"></div>
+
+        
+    </div>
+
+    <script src="/dist/vendors-embed-site-abc0852e.js" async></script><script src="/dist/embed-site-3751b655.js" async></script><script src="/dist/site-d56744d9.js" async></script>
+
+    <script type="text/javascript">
+        function isOldBrowser() {
+            if (Object.freeze === undefined) return true;
+            return false;
+        }
+
+        if (isOldBrowser()) {
+            var lightbox = document.getElementById('user-message-legacy');
+            lightbox.style.display = 'block';
+        }
+    </script>
+</div>
+
+<div id="player-container" class="print--no player-container">
+    <div data-global-vue-component="site-app" data-hide-player="False"></div>
+</div>
+
+    
+        <!-- Page generated ok -->
+    <span class="page-render-timestamp hidden" data-timestamp="2020-10-14 20:42:59"></span>
+    <input type="hidden" id="ga-stat-key" value="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/lokaletta" />
+
+    <input type="hidden" id="api-url" value="//api.sr.se/" />
+<input type="hidden" id="topsy-url" value="//sverigesradio.se/" />
+<input type="hidden" id="embed-url" value="//embed.sr.se/" />
+<input type="hidden" id="is-hls-enabled" value="true" />
+<input type="hidden" id="svg-sprite-name" value="/dist/svg-sprite-dcf38258b6b033e2.svg" />
+
+</body>
+</html>

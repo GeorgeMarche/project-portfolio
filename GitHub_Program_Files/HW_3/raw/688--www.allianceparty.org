@@ -1,0 +1,1178 @@
+      <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--Designed and created by mighty.co.uk -->
+    <meta charset="utf-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <title>Alliance Party of Northern Ireland</title>
+    <link href="https://allianceparty.nationbuilder.com/themes/2003/5ba3c05a45de94880e3c59c2/0/attachments/16025939161601141415/default/theme.scss" rel="stylesheet" />
+    <link href="https://allianceparty.nationbuilder.com/themes/2003/5ba3c05a45de94880e3c59c2/0/attachments/16025939161601141415/default/custom-styles.scss" rel="stylesheet" />
+    <link href="https://use.typekit.net/eal4zhl.css" rel="stylesheet" />
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-TJGCR93");
+    </script>
+    <!-- End Google Tag Manager -->
+
+    
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="JfP9fMiUu84bNNrJgCdla/67ZlRiCtZwCl4fXUTWL+4=" name="csrf-token" />
+
+  <link rel="canonical" href="https://www.allianceparty.org/" />
+    <meta name="Title" content="The Alliance Party Of Northern Ireland">
+    <meta name="Description" content="The Alliance Party Of Northern Ireland is a political party in Northern Ireland. We believe in a shared society, free from intimidation, discrimination and fear, where everyone is safe, can play their part and is treated fairly and with respect. We believe in a society for everyone.">
+    <meta property="og:title" content="Alliance Party of Northern Ireland"/>
+  <meta property="og:url" content="https://www.allianceparty.org/">
+    <meta property="og:description" content="The Alliance Party Of Northern Ireland is a political party in Northern Ireland. We believe in a shared society, free from intimidation, discrimination and fear, where everyone is safe, can play their part and is treated fairly and with respect. We believe in a society for everyone.">
+    <meta property="og:type" content="article">
+      <link rel="image_src" href="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/meta_images/original/alliance.jpg?1586265450" />
+      <meta property="og:image" content="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/meta_images/original/alliance.jpg?1586265450" />
+  <meta property="og:site_name" content="Alliance Party of Northern Ireland"/>
+
+<script type="text/javascript">
+  var NB = NB || {};
+
+  NB.environment = "production";
+  NB.pageId = "3559";
+  NB.Liquid = NB.Liquid || {
+    Theme: {
+      version: 2,
+      name: "Development Site",
+      parent: "bootstrap",
+      variation: ""
+    }
+  };
+  NB.payments = NB.payments || {tokenize: true, elements: {}};
+</script>
+
+<script type="text/javascript">
+    //<![CDATA[
+      window._auth_token_name = "authenticity_token";
+      window._auth_token = "JfP9fMiUu84bNNrJgCdla/67ZlRiCtZwCl4fXUTWL+4=";
+    //]]>
+</script>
+
+
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" type="text/css" media="all">
+
+      <link rel="icon" type="image/x-icon" href="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/sites/2003/favicon_images/original/favi.png?1556207233" />
+
+
+  <script src="https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid/main-71f38c156606f7dcf69f9aefdeee03932113335b436be2e9e5296e913b1ff1fd.js"></script>
+
+<script type="text/javascript">
+  window.twttr = (function (d,s,id) {
+    var t, js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+    js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+    return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+  }(document, "script", "twitter-wjs"));
+</script>
+
+<script type="text/javascript">
+  NB.FBAppId = '126739610711965';
+</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = '//apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+  <script type="text/javascript">
+    (function (d) { var config = { kitId: 'mir8sij', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);
+  </script>
+
+
+
+
+
+<!-- The following line of CSS hides a checkbox in social share prompts for posting to Facebook;
+As of Aug 1 2018, FB has deprecated the ability for apps to post to personal profile pages, so this is a temporary fix
+while we re-configure the social share prompt -->
+<style>label[for="face_tweet_is_facebook"]{display:none;}</style>
+
+    <script type="text/javascript">
+      NB.appConfig.userIsLoggedIn = false;
+    </script>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script
+      data-cfasync="false"
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+    ></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script
+      data-cfasync="false"
+      src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
+    ></script>
+    <script>
+      window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+          palette: {
+            popup: {
+              background: "#000",
+              text: "#f2be0d",
+            },
+            button: {
+              background: "#f2be0d",
+            },
+          },
+          position: "top",
+          static: true,
+          content: {
+            href: "https://www.allianceparty.org/privacy",
+          },
+        });
+      });
+    </script>
+  </head>
+  <body
+    class="homepage aware-theme v2-theme page-type-basic page-pages-show-basic-wide js"
+  >
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJGCR93" height="0" width="0" style="display: none; visibility: hidden;"></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+<!-- _nav.html -->
+<meta content="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1557784348/alliance.jpg?1557784348" property="og:image"/>
+
+
+        <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+            <div class="topActions">
+                <div class="container">
+                    <ul>
+                        <li><a class="actionPod" href="/join_us">Join</a></li>
+                        <li><a class="actionPod" href="/volunteer">Take Action</a></li>
+                        <li><a class="actionPod" href="/donate">Donate</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle collapsed" data-target="#menu-collapse" data-toggle="collapse" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img alt="Alliance Party Logo" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1586344177/logo_transparent-2.png?1586344177"/></a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="menu-collapse">
+                    <ul class="nav navbar-nav">
+                        
+                            
+                                <li class=" dropdown">
+                                    <a href="/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu About" role="menu">
+                                        
+                                        
+                                            <li>
+                                                <a href="/our_vision">The Alliance Vision </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/political_broadcasts">Political Broadcasts</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/manifestos">Manifestos</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/newsletter">Newsletter</a>
+                                            </li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                <li class=" dropdown">
+                                    <a href="/party" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Party
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu Party" role="menu">
+                                        
+                                        
+                                            <li>
+                                                <a href="/leadership">Leadership</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/our_councillors">Our Councillors</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/our_mlas">Our MLAs</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/our_mp">Our MP</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/contacting_us">Contacting Us</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/work_for_us">Work for us</a>
+                                            </li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                <li class=" dropdown">
+                                    <a href="/policies" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Policies
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu Policies" role="menu">
+                                        
+                                        
+                                            <li>
+                                                <a href="/animal_welfare">Animal Welfare</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/a_shared_future">A Shared Future</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/brexit">Brexit</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/culture_arts_and_leisure">Culture, Arts and Leisure</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/democracy">Democracy</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/economy">Economy</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/education_and_skills">Education And Skills</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/employment_and_learning">Employment And Learning</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/environment">Environment </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/farming_and_rural_areas">Farming And Rural Areas</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/health">Health</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/irish_language">Irish Language</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/justice">Justice</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/poverty_and_social_exclusion">Poverty And Social Exclusion</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/transport">Transport</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/publications">Publications </a>
+                                            </li>
+                                        
+                                    </ul>
+                                </li>
+                            
+                        
+                            
+                                <li >
+                                    <a href="/news">News</a>
+                                </li>
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    
+</header>
+
+<!-- /_nav.html -->
+
+
+    <section class="heroSlider">
+      <div class="container">
+        
+<!-- _features.html -->
+
+
+
+
+<div id="carousel-generic" class="carousel slide" data-ride="carousel">
+  
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    
+    <li data-target="#carousel-generic" data-slide-to="0" class="active"></li>
+    
+    <li data-target="#carousel-generic" data-slide-to="1" ></li>
+    
+  </ol>
+  
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    
+    <div class="item active">
+    <!-- Youtube modal -->
+     
+         
+      <a href="/">
+        <img src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/features/original/1.png?1598023095" alt="">
+        <div class="carousel-caption">
+          
+            <h1></h1>
+          
+        </div>
+      </a>
+         
+    </div>
+    
+    <div class="item ">
+    <!-- Youtube modal -->
+     
+         
+      <a href="/">
+        <img src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/features/original/3.png?1598023118" alt="">
+        <div class="carousel-caption">
+          
+            <h1></h1>
+          
+        </div>
+      </a>
+         
+    </div>
+    
+  </div>
+  
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  
+</div>
+
+
+
+
+<!-- /_features.html -->
+
+      </div>
+    </section>
+
+    <section class="getInvolvedSection">
+      <div class="container">
+        <button id="myBtn" onclick="topFunction()" title="Go to top">
+          <i class="glyphicon glyphicon-arrow-up"></i>
+        </button>
+        <style>
+          #myBtn {
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 99;
+            font-size: 18px;
+            border: 1px white solid;
+            outline: none;
+            background-color: black;
+            color: #f4c72e;
+            cursor: pointer;
+            padding: 18px;
+            border-radius: 4px;
+            transition: all 1s ease-in;
+          }
+
+          #myBtn:hover {
+            background-color: white;
+          }
+        </style>
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <div class="wtgi_description">
+              <h1>WAYS TO GET INVOLVED</h1>
+              <p>
+                Better is possible. But it isn’t inevitable.
+                <br />
+                Alliance wants to build a better society for everyone in it. But
+                we need your help to do so.
+                <br />
+                You deserve better, so help us deliver it. Join us today to be
+                the change in your community.
+                <br />
+                Or you can consider donating, signing up as a volunteer or even
+                to receive our newsletter and help spread the Alliance message.
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6">
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <a href="/join_us">
+                  <div class="wtgi_imgWrapper">
+                    <img alt="Naomi At A Podium" class="img-fluid" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1555515654/join.png?1555515654" />
+                    <h3>Join</h3>
+                  </div>
+                </a>
+              </div>
+              <div class="col-sm-12 col-md-6">
+                <a href="/donate">
+                  <div class="wtgi_imgWrapper">
+                    <img alt="Alliance Campaigners" class="img-fluid" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1555515647/donate.png?1555515647" />
+                    <h3>DONATE</h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <a href="/volunteer">
+                  <div class="wtgi_imgWrapper">
+                    <img alt="Alliance activists canvassing" class="img-fluid" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1555515655/join2.jpg?1555515655" />
+                    <h3>Volunteer</h3>
+                  </div>
+                </a>
+              </div>
+              <div class="col-sm-12 col-md-6">
+                <a href="/newsletter">
+                  <div class="wtgi_imgWrapper">
+                    <img alt="Campaigners at Pride" class="img-fluid" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1555515656/join4.jpg?1555515656" />
+                    <h3>NEWSLETTER</h3>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="policiesSection">
+      <div class="container">
+        <h3>POLICIES</h3>
+        <div class="row row1">
+          <div class="col-md-3 col-sm-6">
+            <a href="/a_shared_future">
+              <div class="pod pod1">
+                <h3>Shared Future</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/brexit">
+              <div class="pod pod2">
+                <h3>Brexit</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/health">
+              <div class="pod pod3">
+                <h3>Health</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/economy">
+              <div class="pod pod4">
+                <h3>Economy</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="row row2">
+          <div class="col-md-3 col-sm-6">
+            <a href="/education_and_skills">
+              <div class="pod pod5">
+                <h3>Education &amp; Skills</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/justice">
+              <div class="pod pod6">
+                <h3>Justice</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/environment">
+              <div class="pod pod7">
+                <h3>Environment</h3>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <a href="/democracy">
+              <div class="pod pod8">
+                <h3>Democracy</h3>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="leaderSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <div class="leaderSection_right">
+              <h6>Meet</h6>
+              <h1>Naomi Long MLA</h1>
+
+              <p>
+                MLA for East Belfast, Naomi Long has been leader of the Alliance
+                Party since 2016, succeeding David Ford. Naomi has served as
+                Lord Mayor of Belfast, MP for East Belfast, MEP for Northern
+                Ireland, and is now MLA for East Belfast. She is the current
+                Justice Minister of Northern Ireland.
+              </p>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6">
+            <div class="naomi_img">
+              <img alt="Naomi Long" class="img-fluid" src="https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/3559/attachments/original/1555515658/naomi.jpg?1555515658" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="newsSection">
+      <div class="container">
+        <h3>LATEST NEWS</h3>
+        <div class="latestNews">
+          
+
+<style>
+  @media (min-width: 1200px) {
+    .mainNewsDescription .main_headline {
+      font-size: 2.5em;
+    }
+    .mainNewsDescription .blog_teaser {
+      font-size: 1.4em;
+      font-weight: 500;
+    }
+  }
+  .latestRelease_img {
+    display: block;
+    height: 425px;
+    background-size: cover !important;
+  }
+
+  @media screen and (max-width: 1350px) {
+    .latestRelease_img {
+      height: 300px;
+    }
+  }
+
+  @media screen and (max-width: 991px) {
+    .latestRelease_img {
+      height: 600px;
+    }
+  }
+
+  @media screen and (max-width: 675px) {
+    .latestRelease_img {
+      height: 500px;
+    }
+  }
+
+  @media screen and (max-width: 570px) {
+    .latestRelease_img {
+      height: 400px;
+    }
+  }
+
+  @media screen and (max-width: 450px) {
+    .latestRelease_img {
+      height: 300px;
+    }
+  }
+</style>
+
+        </div>
+        <div class="pressRelease">
+          <div class="row">
+  
+  <div class="col-sm-12 col-md-4 blog_post">
+    
+    <a href="/blair_slavery_is_global_problem_which_must_be_eradicated" style="background: url('https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/6137/attachments/original/1602600308/John_Blair_2.JPG?1602600308');background-position: top;" class="pressRelease_img">
+    </a>
+    <style>
+      .pressRelease_img {
+        display: block;
+        height: 425px;
+        background-size: cover !important;
+      }
+
+      @media screen and (max-width: 1350px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+
+      @media screen and (max-width: 991px) {
+        .pressRelease_img {
+          height: 600px;
+        }
+      }
+
+      @media screen and (max-width: 675px) {
+        .pressRelease_img {
+          height: 500px;
+        }
+      }
+
+      @media screen and (max-width: 570px) {
+        .pressRelease_img {
+          height: 400px;
+        }
+      }
+
+      @media screen and (max-width: 450px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+    </style>
+    
+
+    <div class="mainNewsHeader">
+      <div class="newsHeadline">
+        <a href="/blair_slavery_is_global_problem_which_must_be_eradicated">Blair: Slavery is global problem which must be eradicated</a>
+      </div>
+      <div class="byline">Oct 13, 2020</div>
+    </div>
+    <div class="blog_teaser">
+      Alliance MLA John Blair has said slavery is a global and local problem which must be eradicated completely, ahead of Anti-Slavery Day 2020.
+    </div>
+    <div class="continue_reading">
+      <a class="link-arrow" href="/blair_slavery_is_global_problem_which_must_be_eradicated">Read more</a>
+    </div>
+  </div>
+  
+  <div class="col-sm-12 col-md-4 blog_post">
+    
+    <a href="/representatives_welcome_casement_approval_but_say_local_community_needs_to_benefit" style="background: url('https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/6136/attachments/original/1602595497/Donnamarie_Higgins_1.jpg?1602595497');background-position: top;" class="pressRelease_img">
+    </a>
+    <style>
+      .pressRelease_img {
+        display: block;
+        height: 425px;
+        background-size: cover !important;
+      }
+
+      @media screen and (max-width: 1350px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+
+      @media screen and (max-width: 991px) {
+        .pressRelease_img {
+          height: 600px;
+        }
+      }
+
+      @media screen and (max-width: 675px) {
+        .pressRelease_img {
+          height: 500px;
+        }
+      }
+
+      @media screen and (max-width: 570px) {
+        .pressRelease_img {
+          height: 400px;
+        }
+      }
+
+      @media screen and (max-width: 450px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+    </style>
+    
+
+    <div class="mainNewsHeader">
+      <div class="newsHeadline">
+        <a href="/representatives_welcome_casement_approval_but_say_local_community_needs_to_benefit">Representatives welcome Casement approval but say local community needs to benefit</a>
+      </div>
+      <div class="byline">Oct 13, 2020</div>
+    </div>
+    <div class="blog_teaser">
+      Alliance representatives have welcomed approval being granted for the redevelopment of Casement Park but said the local community needs to benefit from the plans.
+    </div>
+    <div class="continue_reading">
+      <a class="link-arrow" href="/representatives_welcome_casement_approval_but_say_local_community_needs_to_benefit">Read more</a>
+    </div>
+  </div>
+  
+  <div class="col-sm-12 col-md-4 blog_post">
+    
+    <a href="/serious_questions_need_asked_and_answered_following_renewable_technologies_report_says_blair" style="background: url('https://d3n8a8pro7vhmx.cloudfront.net/allianceparty/pages/6133/attachments/original/1602585126/John_Blair_2.JPG?1602585126');background-position: top;" class="pressRelease_img">
+    </a>
+    <style>
+      .pressRelease_img {
+        display: block;
+        height: 425px;
+        background-size: cover !important;
+      }
+
+      @media screen and (max-width: 1350px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+
+      @media screen and (max-width: 991px) {
+        .pressRelease_img {
+          height: 600px;
+        }
+      }
+
+      @media screen and (max-width: 675px) {
+        .pressRelease_img {
+          height: 500px;
+        }
+      }
+
+      @media screen and (max-width: 570px) {
+        .pressRelease_img {
+          height: 400px;
+        }
+      }
+
+      @media screen and (max-width: 450px) {
+        .pressRelease_img {
+          height: 300px;
+        }
+      }
+    </style>
+    
+
+    <div class="mainNewsHeader">
+      <div class="newsHeadline">
+        <a href="/serious_questions_need_asked_and_answered_following_renewable_technologies_report_says_blair">Serious questions need asked and answered following renewable technologies report, says Blair</a>
+      </div>
+      <div class="byline">Oct 13, 2020</div>
+    </div>
+    <div class="blog_teaser">
+      Serious questions need asked and answered after an Audit Office report showed owners of some renewable technologies were being paid “excessive subsidies” from people’s electricity bills, Alliance MLA John Blair has said.
+    </div>
+    <div class="continue_reading">
+      <a class="link-arrow" href="/serious_questions_need_asked_and_answered_following_renewable_technologies_report_says_blair">Read more</a>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="text-center">
+            <a class="link-arrow moreNews" href="/news" style="width: 25%; text-align: center; margin-top: 5%;">Read More News</a
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="twitterFeed d-md-block">
+      <div class="container">
+        <div class="panel panel-danger">
+          <div class="panel-body twitter-block">
+            <a
+              class="twitter-timeline"
+              data-tweet-limit="3"
+              href="https://twitter.com/allianceparty?ref_src=twsrc%5Etfw"
+              >Tweets by @allianceparty</a
+            >
+          </div>
+        </div>
+      </div>
+      <script
+        charset="utf-8"
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+      ></script>
+      <script type="text/javascript">
+        $(document).ready(function () {
+          jQuery(".twitter-block").delegate(
+            "#twitter-widget-0",
+            "DOMSubtreeModified propertychange",
+            function () {
+              customizeTweetMedia();
+            }
+          );
+
+          var customizeTweetMedia = function () {
+            jQuery(".twitter-block")
+              .find(".twitter-timeline")
+              .contents()
+              .find(".timeline-Tweet-text")
+              .css({ "font-size": "18px", "line-height": "24px" });
+            jQuery(".twitter-block")
+              .find(".twitter-timeline")
+              .contents()
+              .find(".timeline-Widget")
+              .css({ "max-width": "100%", width: "100%" });
+
+            if (jQuery(window).width() > 700) {
+              jQuery(".twitter-block")
+                .find(".twitter-timeline")
+                .contents()
+                .find(".timeline-TweetList-tweet")
+                .css({ width: "33%", float: "left" });
+            } else {
+              jQuery(".twitter-block")
+                .find(".twitter-timeline")
+                .contents()
+                .find(".timeline-TweetList-tweet")
+                .css({ width: "100%", float: "none" });
+            }
+
+            jQuery(".twitter-block")
+              .find(".twitter-timeline")
+              .contents()
+              .find(".timeline-TweetList")
+              .bind("DOMSubtreeModified propertychange", function () {
+                customizeTweetMedia(this);
+              });
+          };
+        });
+      </script>
+      <script
+        async
+        charset="utf-8"
+        src="https://platform.twitter.com/widgets.js"
+      ></script>
+    </section>
+    <footer>
+      <div class="container">
+        <div id="fb-root"></div>
+
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : 126739610711965,
+      channelUrl : "//allianceparty.nationbuilder.com/channel.html",
+      status     : true,
+      version    : "v3.2",
+      cookie     : true,
+      xfbml      : true
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script src="https://d3n8a8pro7vhmx.cloudfront.net/assets/liquid-004c65a942f8804fb75f8613bf1dea7e8bf2e9e00227caa99c2b4c576751a3a8.js"></script>
+
+
+
+
+
+
+
+
+        <div class="row">
+          <div class="col-sm-12 col-md-2">
+            <h4>About Us</h4>
+            <ul class="footer-links">
+              <li>
+                <a href="/our_vision">Alliance vision</a>
+              </li>
+              <li>
+                <a href="/political_broadcasts">Political broadcasts</a>
+              </li>
+              <li>
+                <a href="/publications">Party publications</a>
+              </li>
+              <li>
+                <a href="/news">News</a>
+              </li>
+              <li>
+                <a href="https://archive.allianceparty.org/">Search</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 col-md-2">
+            <h4>Our People</h4>
+            <ul class="footer-links">
+              <li>
+                <a href="/leadership">Leadership</a>
+              </li>
+              <li>
+                <a href="/our_councillors">Our councillors</a>
+              </li>
+              <li>
+                <a href="/our_mp">Our MP</a>
+              </li>
+              <li>
+                <a href="/our_mlas">Our MLAs</a>
+              </li>
+              <li>
+                <a href="/contacting_us">Contacting us</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 col-md-2">
+            <h4>Getting Involved</h4>
+            <ul class="footer-links">
+              <li>
+                <a href="/join_us">Become a member</a>
+              </li>
+              <!--<li><a href="/conference">Conference</a></li> -->
+              <li>
+                <a href="/donate">Donate</a>
+              </li>
+              <!--<li><a href="/events">Events</a></li> -->
+              <li>
+                <a href="/newsletter">Newsletter</a>
+              </li>
+              <li>
+                <a href="/work_for_us">Work for us</a>
+              </li>
+              <li>
+                <a href="/volunteer">Volunteer</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 col-md-2">
+            <h4>Quick Links</h4>
+            <ul class="footer-links">
+              <li>
+                <a href="/declared_donations">Declared donations</a>
+              </li>
+              <li>
+                <a
+                  href="https://www.eoni.org.uk/Register-To-Vote/Register-to-vote-change-address-change-name"
+                  rel="noopener"
+                  target="_blank"
+                  >Register to vote</a
+                >
+              </li>
+              <li>
+                <a href="/terms_conditions">Terms &amp; conditions</a>
+              </li>
+              <li>
+                <a href="/privacy">Privacy</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 col-md-2 col-md-offset-2">
+            <h4>Connect with us</h4>
+
+            <p>The Alliance Party, 88 University Street, Belfast, BT7 1HE</p>
+            <p>
+              <a href="tel:028 9032 4274 ">028 9032 4274 </a>
+            </p>
+            <p>
+              <a href="mailto:alliance@allianceparty.org"
+                >alliance@allianceparty.org</a
+              >
+            </p>
+
+            <p>
+              <a
+                href="https://www.facebook.com/alliancepartyni/"
+                rel="noopener"
+                target="_blank"
+              >
+                <i class="fab fa-facebook-square fa-3x"></i> </a
+              >&nbsp;&nbsp;&nbsp;
+              <a
+                href="https://twitter.com/allianceparty"
+                rel="noopener"
+                target="_blank"
+              >
+                <i class="fab fa-twitter-square fa-3x"></i>
+              </a>
+            </p>
+
+            <p>
+              Created with
+              <a href="https://nationbuilder.com/">NationBuilder</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <p class="text-center">
+        Published and promoted by The Alliance Party of Northern Ireland, 88
+        University Street, Belfast, BT7 1HE
+      </p>
+      <p class="text-center">
+        Designed and Developed by
+        <a href="https://wearemighty.co.uk/" rel="noopener" target="_blank"
+          >Mighty</a
+        >
+      </p>
+      <style>
+        .covid-19 {
+          margin-top: 50px;
+        }
+        body > footer > p {
+          margin-bottom: 0;
+          padding-bottom: 10px;
+        }
+        @media (min-width: 992px) {
+          .newsHeadline {
+            min-height: 150px;
+          }
+          .blog_teaser {
+            min-height: 115px;
+          }
+        }
+        @media (min-width: 1090px) {
+          .newsHeadline {
+            min-height: 125px;
+          }
+        }
+        @media (min-width: 1262px) {
+          .blog_teaser {
+            min-height: 90px;
+          }
+        }
+        @media (min-width: 1262px) {
+          .newsHeadline {
+            min-height: 90px;
+          }
+          .blog_teaser {
+            min-height: 115px;
+          }
+        }
+      </style>
+      <!-- container -->
+    </footer>
+    <script src="https://allianceparty.nationbuilder.com/themes/2003/5ba3c05a45de94880e3c59c2/0/attachments/16025939161601141415/default/bootstrap.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+      integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+      crossorigin="anonymous"
+    />
+
+    <script type="text/javascript">
+      if ($(window).width() > 739) {
+        // Sticky header
+        $(window).scroll(function () {
+          var scroll = $(window).scrollTop();
+
+          if (scroll >= 1) {
+            $("nav").addClass("fixed-top");
+            $(".heroSlider").addClass("heroPadding");
+            $(
+              "body > nav > div.container > div.navbar-header > button"
+            ).addClass("removeMenu");
+          } else {
+            $("nav").removeClass("fixed-top");
+            $(".heroSlider").removeClass("heroPadding");
+            $(
+              "body > nav > div.container > div.navbar-header > button"
+            ).removeClass("removeMenu");
+          }
+        });
+      }
+
+      // When the user scrolls down 120px from the top of the document, show the button
+      window.onscroll = function () {
+        scrollFunction();
+      };
+
+      function scrollFunction() {
+        if (
+          document.body.scrollTop > 120 ||
+          document.documentElement.scrollTop > 120
+        ) {
+          document.getElementById("myBtn").style.display = "block";
+        } else {
+          document.getElementById("myBtn").style.display = "none";
+        }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      }
+    </script>
+    <script>
+    if ( window.self !== window.top ) {
+      function logIframeRequest() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("GET", "iframe_requests?iframe_req_path=" + window.location.pathname, true);
+        xhttp.send();
+      };
+      try {
+        if ( window.self.location.origin !== window.top.location.origin ) {
+          logIframeRequest();
+        }
+      } catch {
+        logIframeRequest();
+      }
+    }
+  </script>
+</body>
+
+</html>
+

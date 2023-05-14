@@ -1,0 +1,103 @@
+
+*** D1 AND D2 ***
+*****************
+
+Total domains: 40
+	dcclothesline.com
+	beforeitsnews.com
+	theeventchronicle.com
+	nydailynews.com
+	sputniknews.com
+	therussophile.org
+	themillenniumreport.com
+	theintercept.com
+	dailymail.co.uk
+	cnn.com
+	lewrockwell.com
+	veteranstoday.com
+	thedailybeast.com
+	thetruthseeker.co.uk
+	cbsnews.com
+	worldtruth.tv
+	upi.com
+	globalresearch.ca
+	investmentwatchblog.com
+	mirror.co.uk
+	washingtonpost.com
+	nbcnews.com
+	nytimes.com
+	foxnews.com
+	theantimedia.org
+	thefreethoughtproject.com
+	blacklistednews.com
+	fellowshipoftheminds.com
+	rt.com
+	intellihub.com
+	thestar.com
+	heavy.com
+	thedailysheeple.com
+	breitbart.com
+	activistpost.com
+	presstv.com
+	abovetopsecret.com
+	infowars.com
+	21stcenturywire.com
+	theguardian.com
+
+*** D2 AND D3 ***
+*****************
+
+Total domains: 21
+	davidicke.com
+	dcclothesline.com
+	off-guardian.org
+	beforeitsnews.com
+	rubikon.news
+	theduran.com
+	sott.net
+	worldtruth.tv
+	globalresearch.ca
+	gellerreport.com
+	ukcolumn.org
+	ronpaulinstitute.org
+	collective-evolution.com
+	intellihub.com
+	breitbart.com
+	activistpost.com
+	humansarefree.com
+	presstv.com
+	infowars.com
+	21stcenturywire.com
+	thewashingtonstandard.com
+
+*** D1 AND D3 ***
+*****************
+
+Total domains: 12
+	breitbart.com
+	dcclothesline.com
+	beforeitsnews.com
+	activistpost.com
+	worldtruth.tv
+	zerohedge.com
+	presstv.com
+	wakingtimes.com
+	globalresearch.ca
+	infowars.com
+	intellihub.com
+	21stcenturywire.com
+
+*** ALL FILES ***
+*****************
+
+Total domains: 10
+	breitbart.com
+	dcclothesline.com
+	beforeitsnews.com
+	activistpost.com
+	worldtruth.tv
+	presstv.com
+	globalresearch.ca
+	intellihub.com
+	infowars.com
+	21stcenturywire.com

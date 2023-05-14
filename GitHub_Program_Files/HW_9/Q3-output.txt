@@ -1,0 +1,19 @@
+   P N 
+  -----
+ P|5|0|
+  -----
+ N|0|5|
+  -----
+
+ACC: 1.000
+TPR: 1.000
+TNR: 1.000
+FPR: 0.000
+FNR: 0.000
+PPV: 1.000
+FDR: 0.000
+NPV: 1.000
+FOR: 0.000
+LR+: None (TP + FN is zero)
+LR-: 0.000
+DOR: N/A (LR- is zero)

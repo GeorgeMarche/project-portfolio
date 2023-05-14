@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>fourm for youth in national development</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0">
+<div align="center">
+  <table width="761" border="0" cellpadding="0" cellspacing="0">
+    <!--DWLayoutTable-->
+    <tr> 
+      <td width="47" height="4"></td>
+      <td width="62"></td>
+      <td width="13"></td>
+      <td width="504"></td>
+      <td width="9"></td>
+      <td width="125"></td>
+      <td width="1"></td>
+    </tr>
+    <tr> 
+      <td height="5" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#fe9805">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="760" height="5"></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="26">&nbsp;</td>
+      <td></td>
+      <td></td>
+      <td>&nbsp;</td>
+      <td colspan="2" rowspan="3" valign="top"><div align="right"><img src="images/flag.gif" width="133" height="90"></div></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="39" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="626" height="9"></td>
+          </tr>
+          <tr> 
+            <td height="19" valign="top"><div align="center"><FONT face=Verdana color=#000000 size=1><STRONG><a href="text/vision.htm"
+Style="text-decoration:none"> </a></STRONG></FONT><FONT face=Verdana size=2><STRONG><FONT 
+                  color=#fe9805>&nbsp;</FONT></STRONG></FONT><FONT face=Verdana color=#000000 size=1><STRONG><a href="text/vision.htm"
+Style="text-decoration:none">OUR VISION&nbsp; </a></STRONG></FONT><FONT face=Verdana size=2><STRONG><FONT 
+                  color=#fe9805>|</FONT></STRONG></FONT><FONT face=Verdana color=#000000 size=1><STRONG>&nbsp;&nbsp;</STRONG></FONT><FONT face=Arial color=#c9c785 
+      size=2><strong><font color="#000000" size="1" face="Verdana"><a href="text/nationalism.htm"
+Style="text-decoration:none">NATIONALISM</a></font></strong></FONT> <FONT face=Verdana size=2><STRONG><FONT 
+                  color=#fe9805>|</FONT></STRONG></FONT>&nbsp;<FONT face=Verdana color=#FFFFFF size=1><A class=footer 
+                    href="text/motto.htm"><font color="#000000" size="1" face="Verdana"><strong
+Style="text-decoration:none">TALENT HUNT</strong></font></A></FONT> <FONT face=Verdana size=2><STRONG><FONT 
+                  color=#fe9805>|</FONT></STRONG></FONT>&nbsp;<font color="#000000" size="1" face="Verdana"><strong><a href="text/events.htm"
+Style="text-decoration:none">EVENTS </a></strong></font><FONT face=Verdana size=2><STRONG><FONT 
+                  color=#fe9805> &nbsp;|</FONT></STRONG></FONT>&nbsp;<FONT face=Verdana color=#FFFFFF size=1><A class=footer 
+                    href="text/contact.htm"><font color="#000000" size="1" face="Verdana"><strong
+Style="text-decoration:none">CONTACT US </strong></font></A></FONT></div></td>
+          </tr>
+          <tr> 
+            <td height="11"></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="25">&nbsp;</td>
+      <td></td>
+      <td></td>
+      <td>&nbsp;</td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="5" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#008649">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="760" height="5"></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="5"></td>
+      <td></td>
+      <td></td>
+      <td colspan="2" rowspan="12" valign="top"><div align="center"><img src="Indiaforu.gif" width="315" height="350"></div></td>
+      <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="124" height="54">&nbsp;</td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3" rowspan="2" valign="top"><STRONG><FONT color=#fe9805 
+                  size=7 face="Arial">F</FONT><FONT color=#fe9805 
+                  size=3 face="Arial">orum </FONT></STRONG></td>
+      <td height="49"></td>
+    </tr>
+    <tr> 
+      <td height="5"></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="21" colspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="31" height="21" valign="top"><div align="center">&nbsp;</div></td>
+            <td width="78">&nbsp;</td>
+          </tr>
+          <!--DWLayoutTable-->
+          <!--DWLayoutTable-->
+        </table></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="54" colspan="3" valign="top"><STRONG><FONT color=#fe9805 
+                  size=7 face="Arial">Y</FONT><FONT color=#fe9805 
+                  size=3 face="Arial">outh</FONT></STRONG></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="15"></td>
+      <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="62" height="15"></td>
+          </tr>
+        </table></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="54" colspan="3" valign="top"><STRONG><FONT color=#fe9805 
+                  size=7 face="Arial">I</FONT><FONT color=#fe9805 
+                  size=3 face="Arial">n</FONT></STRONG></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="15"></td>
+      <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="62" height="15"></td>
+          </tr>
+        </table></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="54" colspan="3" valign="top"><STRONG><FONT color=#fe9805 
+                  size=7 face="Arial">N</FONT><FONT color=#fe9805 
+                  size=3 face="Arial">ational</FONT></STRONG></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="15"></td>
+      <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="62" height="15"></td>
+          </tr>
+        </table></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="54" colspan="3" valign="top"><STRONG><FONT color=#fe9805 
+                  size=7 face="Arial">D</FONT><FONT color=#fe9805 
+                  size=3 face="Arial">evelopment</FONT></STRONG></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="9"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="5" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#008649">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="760" height="5"></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="90" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="134" rowspan="5" valign="top"><div align="left"></div></td>
+            <td width="1" height="16"></td>
+            <td width="491"></td>
+            <td width="134" rowspan="5" valign="top"><div align="right"></div></td>
+          </tr>
+          <tr> 
+            <td height="19" colspan="2" valign="top"><div align="center"><STRONG><FONT color=#fe9805 
+                  size=3 face="Arial"> Forum for Youth In National Development</FONT></STRONG></div></td>
+          </tr>
+          <tr> 
+            <td height="17"></td>
+            <td></td>
+          </tr>
+          <tr> 
+            <td height="19"></td>
+            <td valign="top"><div align="center"><STRONG><FONT face=Arial color=#c9c785 
+            size=5><font size="2"><font size="2" face="Arial"><font color="#FF0000">INCULCATE 
+                FEELING OF NATIONALISM AMONG YOUTH </font></font></font></FONT></STRONG></div></td>
+          </tr>
+          <tr> 
+            <td height="19"></td>
+            <td>&nbsp;</td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="5" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#fe9805">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="760" height="5"></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="36">&nbsp;</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr> 
+      <td height="16" colspan="6" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr> 
+            <td width="760" height="16" valign="top"><div align="center"><FONT face=Arial color=#000000 size=2>Copyright 
+                2005. @ fyind.org. All Rights reserved. Powered by</FONT><FONT face=Arial color=#ff0000 size=2>.</FONT><FONT face=Verdana size=2><FONT size=1><A class=footer 
+            href="text/softcom.htm"><FONT face=Arial 
+            size=2>Softcom</FONT> <FONT face=Arial 
+            size=2>INC</FONT></A></FONT></FONT></div></td>
+          </tr>
+        </table></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

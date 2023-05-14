@@ -1,0 +1,96 @@
+\\\\\\\\TD-IDF LOG////////////////
+CORPUS OF GOOGLE: 55000000000
+NUMBER OF RESULTS FOR "TRUMP": 1550000000
+------------------------------------------
+
+
+TF-IDF/PR #1
+Link #3: https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875
+Total number of words in document: 1318
+Number of occurences of "Trump": 27
+TF:      0.020486
+IDF:     5.149091
+TF-IDF:  0.105482
+PR:      0.7
+
+TF-IDF/PR #2
+Link #66: https://www.krone.at/2248298
+Total number of words in document: 3453
+Number of occurences of "Trump": 24
+TF:      0.006950
+IDF:     5.149091
+TF-IDF:  0.035789
+PR:      0.6
+
+TF-IDF/PR #3
+Link #242: https://www.telegraph.co.uk/global-health/science-and-disease/coronavirus-covid-news-trump-scotland-lockdown-uk-cases/
+Total number of words in document: 10618
+Number of occurences of "Trump": 23
+TF:      0.002166
+IDF:     5.149091
+TF-IDF:  0.011154
+PR:      0.8
+
+TF-IDF/PR #4
+Link #476: https://www.msnbc.com:443/all
+Total number of words in document: 720
+Number of occurences of "Trump": 21
+TF:      0.029167
+IDF:     5.149091
+TF-IDF:  0.150182
+PR:      0.6
+
+TF-IDF/PR #5
+Link #498: https://www.facebook.com/jamesjimcie
+Total number of words in document: 995
+Number of occurences of "Trump": 35
+TF:      0.035176
+IDF:     5.149091
+TF-IDF:  0.181124
+PR:      1.0
+
+TF-IDF/PR #6
+Link #518: https://www.nytimes.com/live/2020/10/08/world/covid-coronavirus/the-treatment-that-trump-touted-as-a-cure-for-covid-19-was-developed-using-cells-derived-from-fetal-tissue
+Total number of words in document: 6888
+Number of occurences of "Trump": 50
+TF:      0.007259
+IDF:     5.149091
+TF-IDF:  0.037377
+PR:      0.8
+
+TF-IDF/PR #7
+Link #593: https://www.welt.de/vermischtes/article217484140/Talkshow-Maybrit-Illner-Das-kann-nicht-stimmen-was-Donald-Trump-da-behauptet.html?wtrid=socialmedia.socialflow....socialflow_twitter
+Total number of words in document: 1777
+Number of occurences of "Trump": 19
+TF:      0.010692
+IDF:     5.149091
+TF-IDF:  0.055055
+PR:      0.6
+
+TF-IDF/PR #8
+Link #737: https://www.forbes.com/sites/andymeek/2020/10/07/dan-rather-has-some-advice-for-journalists-in-the-era-of-trump-truthiness-and-covid-19/
+Total number of words in document: 2394
+Number of occurences of "Trump": 19
+TF:      0.007937
+IDF:     5.149091
+TF-IDF:  0.040866
+PR:      0.8
+
+TF-IDF/PR #9
+Link #778: http://www.gazetatema.net/en/donald-trump-is-ready-for-return-to-public-events-after-falling-ill-with-covid-19-says-doctor/
+Total number of words in document: 994
+Number of occurences of "Trump": 22
+TF:      0.022133
+IDF:     5.149091
+TF-IDF:  0.113964
+PR:      0.5
+
+TF-IDF/PR #10
+Link #784: http://www.econotimes.com/
+Total number of words in document: 5193
+Number of occurences of "Trump": 23
+TF:      0.004429
+IDF:     5.149091
+TF-IDF:  0.022806
+PR:      0.5
+

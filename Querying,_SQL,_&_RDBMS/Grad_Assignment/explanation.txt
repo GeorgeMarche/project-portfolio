@@ -1,0 +1,180 @@
+Authors: George Marche <gmarche> and John Wells <jwells>
+
+There are 4 entities: Training_Course, Textbook, Offering,
+Training_Center, and Employee.
+
+Training_Course: "The Division offers a variety of training courses.
+Each course has a name, description, and zero or more textbooks. In 
+addition each course has zero or more prerequisites." The attributes of
+Training_Course are CName (Course Name) and Description. We chose CName
+as the primary key, assuming that each training course has a unique
+name. There are no foreign keys for the table. Textbooks and 
+prerequisites will be in separate tables, so they are not included as 
+attributes.
+
+Textbook: "The database should have information about ... textbooks"
+The attributes of Textbook are ISBN, Title, and Version. We chose to
+add ISBN as the primary key to avoid having a composite foreign key in
+the Uses relationship. There are no foreign keys for the table.
+
+Offering: "The courses are often team taught, so an offering of the
+course will have one or more teachers, a beginning and ending date, a
+location (one of the company training centers), and zero or more
+employees taking the offering." The attributes of Offering are SecID
+(Section ID), Start (Start Date), End (End Date), and Location. We
+added SecID to make a primary key because even if the primary key were
+CName, Start, End, and Location, it would still not be enough to ensure
+unique entries. We chose SecID as the primary key, and there are two
+foreign keys: CName pointing to Training_Course and Location pointing
+to Training_Center.
+
+Employee: "The database should have information about ... teachers and
+employees." The attributes of Employee are SSN and a nested attribute
+Name which consists of the attributes FName (First Name), MInit (Middle
+Initial), and LName (Last Name).  We chose SSN as the primary key
+because it is unique, and Name is not. There are no foreign keys for the
+table.
+
+Training_Center: "an offering of the course will have ... a location
+(one of the company training centers)" This could be incorporated into
+the Offering entity as one or more attributes, but we decided to make
+it a separate entity to reduce entry errors and memory allocation from
+repeating information for the same location for every offering there.
+This would also make it very easy to add managers to each location in
+the future if it is ever needed. The attributes of Training_Center are
+TCNum and Location. We chose TCNum as the primary key. There are no 
+foreign keys for the table.
+
+
+There are 5 relationships: Uses, Teaches, Enrolled, Prerequisite_Of, 
+Located, and Offers.  Offers and Located are 1:N relationships, and the
+rest are M:N relationships.
+
+Uses: "Each course has ... zero or more textbooks." A course may use
+no textbooks, one textbook, or multiple textbooks according to the
+description. We also decided that a textbook may be used for no courses
+because it may be an outdated version that we want to keep in the
+database, or we may have a textbook on file that is no longer used, but
+a new course could be planned for next year that will use that textbook
+again. A textbook may be used for only one course, or a textbook may
+even be used for multiple courses if it is an extremely long textbook.
+Therefore, Uses represents an M:N relationship with partial
+participation on both sides. This makes Uses a relationship entity
+between the Training_Course and Textbook entities, with a foreign key
+pointing to CName in Training_Course and a foreign key pointing to ISBN
+in Textbook.  We did not include any attributes in Uses.
+
+Prerequisite_Of: "In addition each course has zero or more
+prerequisites. If a course A has prerequisite courses B and C, then the
+student must complete and pass prerequisite courses B and C before
+beginning course A. All courses are graded Pass/Fail." The prerequisite
+of a course is another course, so this is a relationship connecting
+Training_Course to itself. A course may have no prerequisites, one
+prerequisite, or many prerequisites, according to the description.
+Additionally, a course might not be a prerequisite for anything (in
+fact, at least one course must be "at the top" of a chain of
+prerequisites), a course might be a prerequisite for only one other
+course, or a course might be a prerequisite for multiple other courses.
+Therefore, Prerequisite_Of is an M:N relationship with partial
+participation on both sides, making it a relationship entity connected
+to Training_Course twice. Both connections represent foreign keys
+pointing to CName in Training_Course: one foreign key representing the
+course that has a prerequisite, and the other representing its
+prerequisite. For future reference on how we are able to find terminal
+courses and indirect prerequisites, we called these two foreign keys
+CName (Course Name) and PName (Prerequisite Name). We did not list any
+attributes in Prerequisite_Of.
+
+Offers: "The courses are often team taught, so an offering of the
+course will have one or more teachers, a beginning and ending date, a
+location (one of the company training centers), and zero or more
+employees taking the offering." This implies that a course has
+offerings. We decided that it should be possible for a course to have
+no offerings (maybe it is offered once every 4 years instead of every
+year). However, any given offering must be for exactly one course
+because a single class cannot give an employee credit for multiple
+courses, and if a class gives no credit then it wouldn't be offered.
+This makes Offers a 1:N relationship between Offering and
+Training_Course, with partial participation for Training_Course and full
+participation for Offering. This results in a foreign key in Offering
+that points to CName in Training_Course.
+
+Teaches: "The courses are often team taught, so an offering of the
+course will have one or more teachers" It is implied that the teachers
+are employees of the company. An offering may have one employee teaching
+it or many employees teaching it, but not zero. We decided that it would
+make sense that an employee can teach multiple different offerings, and
+not all employees will necessarily teach any offerings. Therefore,
+Teaches is an M:N relationship between Employee and Offering with
+partial participation for Employee and full participation for Offering.
+This makes Teaches a relationship entity with a foreign key pointing to
+SecID in Offering and a foreign key pointing to SSN in Employee. Since
+there is full participation for Offering, there will also be a foreign
+key in Offering pointing to Employee indicating which teacher is the
+"primary instructor". We did not include any attributes in Teaches.
+
+Enrolled: "an offering of the course will have ... zero or more
+employees taking the offering. ... All courses are graded Pass/Fail."
+This indicates an additional relationship between Employee and Offering.
+An offering may have zero, one, or many employees enrolled in it,
+according to the description. We decided that an employee should be able
+to take zero, one, or many offerings depending on what training they
+need. Therefore, Enrolled is an M:N relationship between Employee and
+Offering with partial participation on both sides. This makes Enrolled
+a relationship entity with a foreign key pointing to SecID in Offering
+and a foreign key pointing to SSN in Employee. We included a pass/fail
+attribute called "Grade" which may be null.
+
+Located: "an offering of the course will have ... a location (one of 
+the company training centers)" This indicates that each offering must
+have exactly one location. However, each location may have many
+offerings, and since it is possible for no courses to be offered, it is
+also possible for a location to have no offerings. Therefore, Located is
+a 1:N relationship between Training_Center and Offering with partial
+participation for Training_Center and full participation for Offering.
+This results in a foreign key in Offering that points to Location in
+Training_Center.
+
+
+FINDING TERMINAL COURSES
+It is possible to find terminal courses by running the following query:
+
+SELECT CName
+FROM Prerequisite_Of
+WHERE CName NOT IN {SELECT PName
+                    FROM Prerequisite_Of};
+
+This query selects all courses in the Prerequisite_Of table which are
+not themselves a prerequisite. The fact that they are in the table at
+all means that they have a prerequisite.
+
+
+FINDING INDIRECT PREREQUISITES
+It is possible to find indirect prerequisites separated by one course
+with the following query:
+
+SELECT B.PName
+FROM Prerequisite_Of A, Prerequisite_Of B
+WHERE A.PName = B.CName
+AND A.CName = [my course];
+
+You can find indirect prerequisites separated by multiple courses by
+joining the table multiple times. For example, if the prerequisite is
+separated by 2 courses, you can make a query as follows:
+
+SELECT C.PName
+FROM Prerequisite_Of A, Prerequisite_Of B, Prerequisite_Of C
+WHERE A.PName = B.CName
+AND B.PName = C.CName
+AND A.CName = [my course];
+
+You can type the name of any course for which you wish to find indirect
+prerequisites in place of [my course]. The strategy for these queries is
+to join Prerequisite_Of with itself multiple times, matching the
+prerequisite of the previous join to the course name of the next join,
+and finally select the prerequisite of the final join.
+
+
+All the work submitted in this file is our own work. We have not
+received or copied answers from anyone else. In addition, we have not
+given answers to anyone else or allowed anyone to copy them.

@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="fr" xmlns:fb="http://ogp.me/ns/fb#">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="initial-scale=1.0"/>
+        <title>
+            Accueil            - Europe Direct Charente
+        </title>
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,400,600" rel="stylesheet" type="text/css"/>
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+
+                <link rel="alternate" type="application/rss+xml" href="http://www.europe-direct-charentes.eu/" />
+        <script type="text/javascript" src="http://use.typekit.net/oqg1ymx.js">
+        </script>
+        <script type="text/javascript">
+            try{Typekit.load();}catch(e){}
+        </script>
+        <script src="https://connect.facebook.net/fr_FR/sdk.js?hash=380c234e783e3f04f1af9844ef871cb3&amp;ua=modern_es6" async="" crossorigin="anonymous"></script>
+        <script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v6.0"></script>
+        
+	<link rel="stylesheet" href="/css/standardize.css"/>
+	<link rel="stylesheet" href="/css/vendor/lightbox.css"/>
+	<link rel="stylesheet" href="/css/vendor/slick.css"/>
+	<link rel="stylesheet" href="/css/vendor/slick-theme.css"/>
+	<link rel="stylesheet" href="/css/index.css"/>
+
+        <!--[if IE]>
+        <style type="text/css">
+        .container-financements {
+            width: 255px!important;
+        }
+        </style>
+        <![endif]-->
+    </head>
+    <body class="body page-index clearfix">
+        <div class="main-container clearfix">
+            <div class="content-header-top clearfix">
+                <div class="wrapper-header-top clearfix">
+                    <a class="eurpe-direct" href="#">
+                        CENTRE INFORMATION EUROPE DIRECT DES CHARENTES
+                    </a>
+                    <p class="separator">
+                        -
+                    </p>
+                    <a href="/contactez-nous" class="contactez-nous">CONTACTEZ-NOUS</a>                </div>
+            </div>
+            <div class="wrapper-header-logo clearfix">
+                <a href="/"><img src="/img/europe-direct.png" class="image image-1" alt="Europe Direct en Charente"/></a>                <img src="/img/logo-cij.png" class="image image-2" alt="Centre d&#039;information jeunesse d&#039;Angoulême"/>                <div class="logo-cij-text">
+                    <p>
+                        Un service du&nbsp;
+                    </p>
+                    <p>
+                        centre Information Jeunesse
+                    </p>
+                    <p>
+                        d'Angoulême
+                    </p>
+                </div>
+            </div>
+            <div class="container-slider clearfix">
+                
+<div class="slick">
+            <div data-slide-link="http://www.europe-direct-charentes.eu">
+            <img src="http://info-jeunesse16.com/images/ImagesUpload/slides/8328-4022.png" alt="CAFES LINGUISTIQUES " class="image-slide">
+        </div>
+            <div data-slide-link="http://www.europe-direct-charentes.eu">
+            <img src="http://info-jeunesse16.com/images/ImagesUpload/slides/8033-4306.png" alt="Cafés Voyages" class="image-slide">
+        </div>
+    </div>            </div>
+            <div class="bordure">
+            </div>
+            <div class="wrapper-qui-sommes-nous clearfix">
+                <a href="/qui-sommes-nous" class="text-qui-sommes-nous">QUI SOMMES NOUS</a>            </div>
+            <div class="container-menu clearfix relative">
+                <div class="informez-vous-container">
+                    <p class="text">
+                        Informez-vous avec le CIED
+                    </p>
+                    <p class="LiveHelpButton">
+                        <a href="#" class="default">
+                            <img width="100px"
+                                 style="width:100px"
+                                 src="http://info-jeunesse16.com/livehelp/include/status.php"
+                                 id="LiveHelpStatusDefault" name="LiveHelpStatusDefault"
+                                 border="0"
+                                 alt="aide du centre d'information jeunesse 16"
+                                 class="LiveHelpStatus"/>
+                        </a>
+                    </p>
+                </div>
+                <nav class="main clearfix relative">
+                    <div class="container-europe-chez-vous border-right-blue">
+                        <div class="title-europe-chez-vous">
+                            <p>
+                                L'EUROPE&nbsp;
+                            </p>
+                            <p>
+                                PRÈS DE CHEZ VOUS
+                            </p>
+                        </div>
+                        <p class="text-actus">
+                            ACTUS
+                        </p>
+                        <a href="/" class="consulter">CONSULTER</a>                    </div>
+                    <div class="container-bonne-adresse border-right-blue">
+                        <div class="title-bonne-adresse">
+                            <p>
+                                Les Bonnes
+                            </p>
+                            <p>
+                                Adresses
+                            </p>
+                        </div>
+                        <a href="/adresses" class="consulter">CONSULTER</a>                    </div>
+                    <div class="container-fete-europe clearfix border-right-blue">
+                        <a href="/actualite-fete-de-l-europe" class="link-fete-europe"><img src="/img/fete-europe-logo.png" class="image" alt="Fête de l&#039;europe"/></a>                    </div>
+                    <div class="container-ressources border-right-blue">
+                        <p class="title-ressources">
+                            RESSOURCES
+                        </p>
+                        <div class="text-ressources">
+                            <p>
+                                Brochures,
+                            </p>
+                            <p>
+                                supports pédagogiques
+                            </p>
+                            <p>
+                                Expositions
+                            </p>
+                        </div>
+                        <a href="/ressources" class="consulter">CONSULTER</a>                        <!-- <a href="#" class="consulter">
+                            CONSULTER
+                        </a> -->
+                    </div>
+                    <div class="container-financements">
+                        <p class="title-financement">
+                            FINANCEMENTS
+                        </p>
+                        <a href="http://www.europe-en-france.gouv.fr/" target="_blank" class="portail-fonds-europeens">Portail des fonds européens en France</a><a href="http://www.europe-en-poitou-charentes.eu/" target="_blank" class="fonds-europeens">Les fonds Européens en Régions</a><a href="http://www.europe-en-poitou-charentes.eu/Appels-a-projets" target="_blank" class="appel-projets">Les appels à projets</a><a href="http://www.agence-erasmus.fr/page/erasmus" target="_blank" class="erasmus">ERASMUS <span>(éducation, formation, jeunesse et sport)</span></a>                    </div>
+                </nav>
+            </div>
+            <div class="separator separator-2">
+            </div>
+            <div class="submenu clearfix">
+                <p class="submenu-title">
+                    <a href="/vos-deputes-europeens-pour-la-circonscription-ouest">Vos députés Européens pour la circonscription Ouest</a>                    <!-- Vos députés Européens pour la circonscription Ouest -->
+                </p>
+                <p class="text-facebook">
+                    Suivez-nous sur Facebook
+                </p>
+                <a href="https://fr-fr.facebook.com/CentreEuropeDirectCharente?fref=nf" class="link-facebook clearfix" target="_blank"><img src="/img/facebook-logo.png" class="facebook-logo" alt="Suivez nous sur facebook"/></a>            </div>
+            <div class="wrapper-breadcrumb clearfix">
+                <p class="breadcrumb">
+                    <a href="/">Accueil</a> > Les actualités d'Europe direct Charente                </p>
+            </div>
+            <div class="container-main clearfix">
+                <div class="container-actus clearfix">
+                        <div class="row-actus clearfix">
+                    <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/9479-5820.png" data-lightbox="actus" data-title="Europorters : le concours de reportages des jeunes citoyens européens"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/9479-5820.png&w=303&h=100" alt="Europorters : le concours de reportages des jeunes citoyens européens"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 13/10/2020</p>
+                <h2>Europorters : le concours de reportages des jeunes citoyens européens</h2>
+                Lanc&eacute; le 15 octobre prochain, Europorters invite les futurs &eacute;lecteurs europ&eacute;ens &agrave; se transformer en...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/13/europorters-le-concours-de-reportages-des-jeunes-citoyens-europeens" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/13/europorters-le-concours-de-reportages-des-jeunes-citoyens-europeens" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/13/europorters-le-concours-de-reportages-des-jeunes-citoyens-europeens" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/10/13/europorters-le-concours-de-reportages-des-jeunes-citoyens-europeens" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+                    <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/8145-8831.jpg" data-lightbox="actus" data-title="Europe Direct des Charentes en images"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/8145-8831.jpg&w=303&h=100" alt="Europe Direct des Charentes en images"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 08/10/2020</p>
+                <h2>Europe Direct des Charentes en images</h2>
+                D&eacute;couvrez sur le PDF en lien ICI&nbsp;quelques uns des visuels du Centre Europe Direct des Charentes r&eacute;alis&eacute;s entre...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/8/europe-direct-des-charentes-en-images" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/8/europe-direct-des-charentes-en-images" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/10/8/europe-direct-des-charentes-en-images" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/10/8/europe-direct-des-charentes-en-images" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+                        </div><div class="row-actus clearfix">
+                <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/1183-5703.png" data-lightbox="actus" data-title="L'Europe dans mon quotidien"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/1183-5703.png&w=303&h=100" alt="L'Europe dans mon quotidien"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 30/09/2020</p>
+                <h2>L'Europe dans mon quotidien</h2>
+                Les Centres d&rsquo;Information Europe Direct de Nouvelle-Aquitaine vous proposent de d&eacute;couvrir les actions de l&rsquo;Union...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/30/nouveau-l-europe-dans-mon-quotidien-exposition" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/30/nouveau-l-europe-dans-mon-quotidien-exposition" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/30/nouveau-l-europe-dans-mon-quotidien-exposition" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/9/30/nouveau-l-europe-dans-mon-quotidien-exposition" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+                    <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/1619-1392.png" data-lightbox="actus" data-title=" Décryptons le discours sur l’état de l’Union européenne 17 septembre – 18h"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/1619-1392.png&w=303&h=100" alt=" Décryptons le discours sur l’état de l’Union européenne 17 septembre – 18h"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 18/09/2020</p>
+                <h2> Décryptons le discours sur l’état de l’Union européenne 17 septembre – 18h</h2>
+                Le 16 septembre, la Pr&eacute;sidente de la Commission europ&eacute;enne Ursula von der Leyen&nbsp;a d&eacute;livr&eacute; son premier...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/18/decryptons-le-discours-sur-l-etat-de-l-union-europeenne-17-septembre-18h" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/18/decryptons-le-discours-sur-l-etat-de-l-union-europeenne-17-septembre-18h" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/18/decryptons-le-discours-sur-l-etat-de-l-union-europeenne-17-septembre-18h" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/9/18/decryptons-le-discours-sur-l-etat-de-l-union-europeenne-17-septembre-18h" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+                        </div><div class="row-actus clearfix">
+                <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/5255-5840.jpg" data-lightbox="actus" data-title="Discours sur l’état de l’Union européenne – Ursula von der Leyen – 16 septembre 2020"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/5255-5840.jpg&w=303&h=100" alt="Discours sur l’état de l’Union européenne – Ursula von der Leyen – 16 septembre 2020"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 16/09/2020</p>
+                <h2>Discours sur l’état de l’Union européenne – Ursula von der Leyen – 16 septembre 2020</h2>
+                Retrouvez l&rsquo;int&eacute;gralit&eacute; du discours de la Pr&eacute;sidente de la Commission europ&eacute;enne, Ursula von der...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/16/discours-sur-l-etat-de-l-union-europeenne-ursula-von-der-leyen-16-septembre-2020" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/16/discours-sur-l-etat-de-l-union-europeenne-ursula-von-der-leyen-16-septembre-2020" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/9/16/discours-sur-l-etat-de-l-union-europeenne-ursula-von-der-leyen-16-septembre-2020" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/9/16/discours-sur-l-etat-de-l-union-europeenne-ursula-von-der-leyen-16-septembre-2020" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+                    <div class="actus actus-1">
+            <div class="list-actu-image">
+            <a href="http://info-jeunesse16.com/images/ImagesUpload/actus/6715-6361.jpg" data-lightbox="actus" data-title="Erasmus Days - Forum Mobilité Internationale"><img src="http://info-jeunesse16.com/genereImage.php?&file=/actus/6715-6361.jpg&w=303&h=100" alt="Erasmus Days - Forum Mobilité Internationale"/></a>            </div>
+            <div class="list-actu-short-description">
+                <p style="margin-bottom: 3px">Publié le : 26/08/2020</p>
+                <h2>Erasmus Days - Forum Mobilité Internationale</h2>
+                A l'occasion des Esamus Days, le Centre Europe Direct des Charentes vous invite &agrave; pr&eacute;parer votre voyage &agrave;...            </div>
+            <div class="list-actu-btn">
+                <div class="btn-actu-social">
+                    <a href="http://www.facebook.com/share.php?u=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/8/26/erasmus-days-forum-mobilite-internationale" class="popup-social"><img src="/img/bg-facebook.png" alt=""/></a><a href="https://plus.google.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/8/26/erasmus-days-forum-mobilite-internationale" class="popup-social"><img src="/img/bg-google_plus.png" alt=""/></a><a href="https://twitter.com/share?url=http://www.europe-direct-charentes.eu/actualites/europe-direct/2020/8/26/erasmus-days-forum-mobilite-internationale" class="popup-social"><img src="/img/bg-twitter.png" alt=""/></a>                </div>
+                <a href="/actualites/europe-direct/2020/8/26/erasmus-days-forum-mobilite-internationale" class="btn-consulter-actu">Lire la suite ...</a>            </div>
+        </div>
+        </div>
+    <div class="paginator clearfix">
+    <ul class="pagination">
+        <li class="prev disabled"><a href="" onclick="return false;">&lt; précédent</a></li>        <li class="active"><a href="">1</a></li><li><a href="/?page=2">2</a></li>        <li class="next"><a rel="next" href="/?page=2">suivant &gt;</a></li>    </ul>
+    <p>Page 1 sur 2</p>
+</div>                </div>
+                <div class="container-sidebar clearfix">
+                    <div class="row-sidebar clearfix">
+                        <div class="sidebar-content">
+                            <div class="clearfix">
+                                <div class="fb-page"
+                                     data-href="https://www.facebook.com/CentreEuropeDirectCharente/"
+                                     data-tabs="timeline" data-width="" data-height=""
+                                     data-small-header="true" data-adapt-container-width="true"
+                                     data-hide-cover="false" data-show-facepile="false"><blockquote
+                                        cite="https://www.facebook.com/CentreEuropeDirectCharente/"
+                                        class="fb-xfbml-parse-ignore"><a
+                                            href="https://www.facebook.com/CentreEuropeDirectCharente/">Europe
+                                            Direct des Charentes</a></blockquote></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-sidebar clearfix">
+                        <div class="sidebar-content">
+                            <div class="header clearfix">
+                                <h3>LA LETTRE D'INFOS DU CIJ</h3>
+                                <h4>rubrique Internationale</h4>
+                                <div class="lettre-content">
+                                    <a href="#" class="consulter" id="signin">Inscrivez-vous</a>                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-sidebar clearfix">
+                        <div class="sidebar-content">
+                            <div class="header clearfix">
+                                <h3>SMART'GUIDES</h3>
+                                <a href="#" class="consulter" data-slidedown="sub-content" data-open="#smartguide">CONSULTER</a>                            </div>
+                            <div id="smartguide" class="sub-content smartguide-content">
+                                    <div class="smartguide">
+        <a href="http://info-jeunesse16.com/images/ImagesUpload/smartguides/destination-europe-2020.pdf" target="_blank" >Destination Europe 2020</a>
+    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-sidebar row-sidebar-2 clearfix">
+                        <div class="sidebar-content">
+                            <div class="header clearfix">
+                                <h3>INFOS DU WEB</h3>
+                                <h4>Flux RSS</h4>
+                                <a href="#" class="consulter" data-slidedown="sub-content" data-open="#flux-rss">CONSULTER</a>                            </div>
+                            <div id="flux-rss" class="sub-content">
+                            <ul></ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-sidebar row-sidebar-2 clearfix">
+                            
+                    </div>
+                </div>
+            </div>
+            
+            <div class="container-rss clearfix">
+                <p class="text-rss">
+                    Obtenir le flux RSS des actus
+                </p>
+                <a href="/actualite-europe-direct.rss" class="link-rss clearfix" target="_blank"><img src="/img/logo-rss.png" class="image" alt="Flux RSS"/></a>            </div>
+                        <div class="container-soutien container-soutien-1 clearfix">
+                <p class="text-soutien">
+                    Avec le soutien
+                </p>
+            </div>
+            <div class="container-logo-soutien">
+                <div class="container-soutien container-soutien-2">
+                    <a href="http://ec.europa.eu/france/index_fr.htm" class="link-commission-europeene" target="_blank"><img src="/img/commission-europeenne-logo.png" class="image" alt="Commission Européenne"/></a>                </div>
+                <div class="container-soutien container-soutien-3">
+                    <a href="https://www.nouvelle-aquitaine.fr/" class="link-aquitaine" target="_blank"><img src="/img/nouvelle-aquitaine-logo.jpg" class="image" alt="Région Nouvelle aquitaine"/></a>                </div>
+                <div class="container-soutien container-soutien-4">
+                    <a href="http://www.cg16.fr/" class="link-charente" target="_blank"><img src="/img/charente-departement-logo.png" class="image" alt="Département de la Charente"/></a>                </div>
+                <div class="container-soutien container-soutien-5">
+                    <a href="http://www.grandangouleme.fr/" class="link-grand-angouleme" target="_blank"><img src="/img/grand-angouleme-logo.png" class="image" alt="Grand Angoulême"/></a>                </div>
+                <div class="container-soutien container-soutien-6">
+                    <a href="http://www.angouleme.fr/" class="link-angouleme" target="_blank"><img src="/img/angouleme-logo.png" class="image" alt="Ville d&#039;Angoulême"/></a>                </div>
+            </div>
+            <div class="container-mentions-legales clearfix">
+                <a href="/mentions-legales" class="text-mentions-legales">Mentions légales</a>            </div>
+        </div>
+        <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+        <script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>        
+	<script src="/js/vendor/jquery.min.js"></script>
+	<script src="/js/vendor/jquery-migrate-1.2.1.min.js"></script>
+	<script src="/js/vendor/lightbox.js"></script>
+	<script src="/js/vendor/slick.min.js"></script>
+	<script src="/js/main.js"></script>
+        <script type="text/javascript">
+            /** LiveHelp **/
+            <!--
+            var LiveHelpSettings = {};
+            //      LiveHelpSettings.server = 'http://info-jeunesse16.com';
+            LiveHelpSettings.server = 'info-jeunesse16.com';
+            LiveHelpSettings.embedded = true;
+            (function ($) {
+                // JavaScript
+                LiveHelpSettings.server = LiveHelpSettings.server.replace(/[a-z][a-z0-9+\-.]*:\/\/|\/livehelp\/*(\/|[a-z0-9\-._~%!$&'()*+,;=:@\/]*(?![a-z0-9\-._~%!$&'()*+,;=:@]))|\/*$/g, '');
+                var LiveHelp = document.createElement('script');
+                LiveHelp.type = 'text/javascript';
+                LiveHelp.async = true;
+                LiveHelp.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.min.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(LiveHelp, s);
+            })(jQuery);
+            -->
+
+                $(function() {
+                    $('.informez-vous-container').addClass('slide');
+                })
+        </script>
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-54732001-2', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+*** THE 5 MOST RECOMMENDED MOVIES LIKE MY MOST FAVORITE MOVIE ***
+
+	Movie 187 - Euclidean Distance: 0.961538
+		Godfather: Part II, The (1974)
+	Movie 1586 - Euclidean Distance: 0.714286
+		Lashou shentan (1992)
+	Movie 806 - Euclidean Distance: 0.704225
+		Menace II Society (1993)
+	Movie 1478 - Euclidean Distance: 0.684932
+		Dead Presidents (1995)
+	Movie 504 - Euclidean Distance: 0.498756
+		Bonnie and Clyde (1967)
+
+*** THE 5 LEAST RECOMMENDED MOVIES LIKE MY MOST FAVORITE MOVIE ***
+
+	Movie 560 - Euclidean Distance: 0.247828
+		Kid in King Arthur's Court, A (1995)
+	Movie 993 - Euclidean Distance: 0.258246
+		Hercules (1997)
+	Movie 820 - Euclidean Distance: 0.258474
+		Space Jam (1996)
+	Movie 1293 - Euclidean Distance: 0.270536
+		Star Kid (1997)
+	Movie 411 - Euclidean Distance: 0.271081
+		Nutty Professor, The (1996)
+
+*** THE 5 MOST RECOMMENDED MOVIES LIKE MY LEAST FAVORITE MOVIE ***
+
+	Movie 24 - Euclidean Distance: 0.980392
+		Rumble in the Bronx (1995)
+	Movie 576 - Euclidean Distance: 0.925926
+		Cliffhanger (1993)
+	Movie 680 - Euclidean Distance: 0.500000
+		Kull the Conqueror (1997)
+	Movie 890 - Euclidean Distance: 0.500000
+		Mortal Kombat: Annihilation (1997)
+	Movie 266 - Euclidean Distance: 0.500000
+		Kull the Conqueror (1997)
+
+*** THE 5 LEAST RECOMMENDED MOVIES LIKE MY LEAST FAVORITE MOVIE ***
+
+	Movie 835 - Euclidean Distance: 0.266343
+		Gay Divorcee, The (1934)
+	Movie 1203 - Euclidean Distance: 0.266989
+		Top Hat (1935)
+	Movie 945 - Euclidean Distance: 0.267972
+		Charade (1963)
+	Movie 99 - Euclidean Distance: 0.268267
+		Snow White and the Seven Dwarfs (1937)
+	Movie 1286 - Euclidean Distance: 0.268267
+		Shall We Dance? (1937)
+

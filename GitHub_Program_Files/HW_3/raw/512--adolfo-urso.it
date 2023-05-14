@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+<head>
+<meta charset="UTF-8">
+<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://adolfo-urso.it/xmlrpc.php" />
+<link rel="shortcut icon" href="//adolfo-urso.it/wp-content/uploads/2018/02/FDI_G_MELONI.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="//adolfo-urso.it/wp-content/uploads/2018/02/FDI_G_MELONI.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//adolfo-urso.it/wp-content/uploads/2018/02/FDI_G_MELONI.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//adolfo-urso.it/wp-content/uploads/2018/02/FDI_G_MELONI.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//adolfo-urso.it/wp-content/uploads/2018/02/FDI_G_MELONI.png">
+<title>Home | Adolfo Urso</title>
+
+<meta name="description" content="Adolfo Urso, giornalista, imprenditore, politico e padre di tre figli di cui l’ultimo di appena 2 mesi. Amo il mio Paese e credo di averlo sempre servito con dignità e competenza." />
+<link rel="canonical" href="https://adolfo-urso.it/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home | Adolfo Urso" />
+<meta property="og:description" content="Adolfo Urso, giornalista, imprenditore, politico e padre di tre figli di cui l’ultimo di appena 2 mesi. Amo il mio Paese e credo di averlo sempre servito con dignità e competenza." />
+<meta property="og:url" content="https://adolfo-urso.it/" />
+<meta property="og:site_name" content="Adolfo Urso" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Adolfo Urso, giornalista, imprenditore, politico e padre di tre figli di cui l’ultimo di appena 2 mesi. Amo il mio Paese e credo di averlo sempre servito con dignità e competenza." />
+<meta name="twitter:title" content="Home | Adolfo Urso" />
+<meta name="twitter:site" content="@adolfo_urso" />
+<meta name="twitter:creator" content="@adolfo_urso" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://adolfo-urso.it/#website","url":"https://adolfo-urso.it/","name":"Adolfo Urso","publisher":{"@id":"https://adolfo-urso.it/#/schema/person/485d45e81bc83770aad3745a4af44a0a"},"potentialAction":{"@type":"SearchAction","target":"https://adolfo-urso.it/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://adolfo-urso.it/#webpage","url":"https://adolfo-urso.it/","inLanguage":"it-IT","name":"Home | Adolfo Urso","isPartOf":{"@id":"https://adolfo-urso.it/#website"},"about":{"@id":"https://adolfo-urso.it/#/schema/person/485d45e81bc83770aad3745a4af44a0a"},"datePublished":"2016-06-20T07:48:11+00:00","dateModified":"2018-04-11T17:37:25+00:00","description":"Adolfo Urso, giornalista, imprenditore, politico e padre di tre figli di cui l\u2019ultimo di appena 2 mesi. Amo il mio Paese e credo di averlo sempre servito con dignit\u00e0 e competenza."}]}</script>
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Adolfo Urso &raquo; Feed" href="https://adolfo-urso.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Adolfo Urso &raquo; Feed dei commenti" href="https://adolfo-urso.it/comments/feed/" />
+
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.2.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-113529175-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-113529175-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/adolfo-urso.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=f0be55386b5cf76b345bb10a156b66e2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css' href='https://adolfo-urso.it/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://adolfo-urso.it/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jr-insta-styles-css' href='https://adolfo-urso.it/wp-content/plugins/instagram-slider-widget/assets/css/jr-insta.css?ver=1.7.13' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://adolfo-urso.it/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.4' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+.tparrows:before{color:#004071;text-shadow:0 0 3px #fff;}.revslider-initialised .tp-loader{z-index:18;}
+</style>
+<link rel='stylesheet' id='wis_font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<link rel='stylesheet' id='wis_instag-slider-css' href='https://adolfo-urso.it/wp-content/plugins/instagram-slider-widget/assets/css/instag-slider.css?ver=1.7.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wis_wis-header-css' href='https://adolfo-urso.it/wp-content/plugins/instagram-slider-widget/assets/css/wis-header.css?ver=1.7.13' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.2' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css' href='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css' href='https://adolfo-urso.it/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4.1.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link rel='stylesheet' id='bootstrap-css' href='https://adolfo-urso.it/wp-content/themes/porto/css/bootstrap.css?ver=4.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-plugins-css' href='https://adolfo-urso.it/wp-content/themes/porto/css/plugins.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-theme-css' href='https://adolfo-urso.it/wp-content/themes/porto/css/theme.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-shortcodes-css' href='https://adolfo-urso.it/wp-content/themes/porto/css/shortcodes.css?ver=4.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-dynamic-style-css' href='https://adolfo-urso.it/wp-content/uploads/porto_styles/dynamic_style.css?ver=4.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-style-css' href='https://adolfo-urso.it/wp-content/themes/porto/style.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<style id='porto-style-inline-css' type='text/css'>
+	#header .logo,.side-header-narrow-bar-logo{max-width:170px;}@media (min-width:1200px){#header .logo{max-width:250px;}}@media (max-width:991px){#header .logo{max-width:110px;}}@media (max-width:767px){#header .logo{max-width:110px;}}@media (min-width:992px){}.page-top .sort-source{position:static;text-align:center;margin-top:5px;border-width:0;}.page-top{padding-top:20px;padding-bottom:20px;}.page-top .page-title{padding-bottom:0;}@media (max-width:991px){.page-top .page-sub-title{margin-bottom:5px;margin-top:0;}.page-top .breadcrumbs-wrap{margin-bottom:5px;}}@media (min-width:992px){.page-top .page-title{min-height:0;line-height:1.25;}.page-top .page-sub-title{line-height:1.6;}}@media (min-width:992px){.page-top .breadcrumb{-webkit-justify-content:flex-end;-ms-justify-content:flex-end;justify-content:flex-end;-ms-flex-pack:end;}}@media (min-width:1500px){.left-sidebar.col-lg-3,.right-sidebar.col-lg-3{-webkit-flex:0 0 20%;-ms-flex:0 0 20%;flex:0 0 20%;max-width:20%;}.main-content.col-lg-9{-webkit-flex:0 0 80%;-ms-flex:0 0 80%;flex:0 0 80%;max-width:80%;}}#header .feature-box .feature-box-icon{min-width:3em;min-height:3em;padding:0;}#footer .footer-bottom{padding-top:0;}#footer .footer-main > .container{padding-bottom:0;}#header .welcome-msg{display:block;}#footer h4{font-size:1.8em;font-weight:200;}@media (max-width:991px){#header .header-main .container .header-left{display:none !important;}}@media (min-width:992px){#header.header-separate .header-main{display:none !important;}}.main-menu-wrap #main-menu .mega-menu .menu-custom-block{margin-top:5%;}
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='porto-ie-css'  href='https://adolfo-urso.it/wp-content/themes/porto/css/ie.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='styles-child-css' href='https://adolfo-urso.it/wp-content/themes/porto-child/style.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/adolfo-urso.it","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.2.2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/instagram-slider-widget/assets/js/jquery.flexslider-min.js?ver=1.7.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/adolfo-urso.it\/wp-admin\/admin-ajax.php","security":"070f92b5c1","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/adolfo-urso.it\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/adolfo-urso.it\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\"]","epdovol":"1","version":"13.4.1.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4.1.1'></script>
+<link rel='https://api.w.org/' href='https://adolfo-urso.it/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://adolfo-urso.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://adolfo-urso.it/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://adolfo-urso.it/' />
+<link rel="alternate" type="application/json+oembed" href="https://adolfo-urso.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadolfo-urso.it%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://adolfo-urso.it/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadolfo-urso.it%2F&#038;format=xml" />
+
+<script type="text/javascript">
+		WebFontConfig = {
+			google: { families: [ 'Open+Sans:200,300,400,700,800,600','Shadows+Into+Light:200,300,400,700,800,600','Playfair+Display:200,300,400,700,800,600' ] }
+		};
+		(function(d) {
+			var wf = d.createElement('script'), s = d.scripts[0];
+			wf.src = 'https://adolfo-urso.it/wp-content/themes/porto/js/libs/webfont.js';
+			wf.async = true;
+			s.parentNode.insertBefore(wf, s);
+		})(document);</script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<meta name="generator" content="Powered by Slider Revolution 5.4.6.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" title="dynamic-css" class="options-output">.alternative-font, a, .color-primary{color:#004071;}.header-wrapper{background-color:transparent;}#header .header-main{background-color:#ffffff;}#header, #header .header-main .header-contact .nav-top > li > a, #header .top-links > li.menu-item:before{color:#999999;}#header .header-top, .header-top .top-links>li.menu-item:after{color:#777777;}.page-top{background-color:#171717;}#footer{background-color:#0e0e0e;}#footer .footer-main{background-color:transparent;}#footer .footer-bottom{background-color:transparent;}#footer .footer-bottom, #footer .footer-bottom p, #footer .footer-bottom .widget > div > ul li, #footer .footer-bottom .widget > ul li{color:#555555;}#header.sticky-header .searchform-popup .search-toggle{color:#ffffff;}#header.sticky-header .searchform-popup .search-toggle:hover{color:#eeeeee;}#mini-cart .cart-subtotal, #mini-cart .minicart-icon{color:#0088cc;}#mini-cart .cart-items, #mini-cart .cart-items-text{color:#0088cc;}#mini-cart{background:transparent;}.sticky-header #mini-cart .cart-subtotal, .sticky-header #mini-cart .minicart-icon{color:#ffffff;}.sticky-header #mini-cart .cart-items, .sticky-header #mini-cart .cart-items-text{color:#0088cc;}.sticky-header #mini-cart{background:#ffffff;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body data-rsssl=1 class="home page-template-default page page-id-143 full blog-1  wpb-js-composer js-comp-ver-6.0.2 vc_responsive">
+<div class="page-wrapper">
+
+<div class="header-wrapper">
+<header id="header" class="header-separate header-corporate header-14 sticky-menu-header">
+<div class="header-main">
+<div class="container">
+<div class="header-left">
+<h1 class="logo">
+<a href="https://adolfo-urso.it/" title="Adolfo Urso - " rel="home">
+<img class="img-responsive standard-logo retina-logo" src="//adolfo-urso.it/wp-content/themes/porto/images/logo/logo_black.png" alt="Adolfo Urso" /> </a>
+</h1>
+</div>
+<div class="header-right">
+<a class="mobile-toggle"><i class="fas fa-bars"></i></a>
+</div>
+</div>
+<div id="nav-panel" class="">
+<div class="container">
+<div class="mobile-nav-wrap">
+<div class="menu-wrap"><ul id="menu-main-menu" class="mobile-menu accordion-menu"><li id="accordion-menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-143 current_page_item active"><a href="https://adolfo-urso.it/" class=" current ">Home</a></li>
+<li id="accordion-menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://adolfo-urso.it/la-mia-storia/" class="">La mia storia</a></li>
+<li id="accordion-menu-item-708" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://adolfo-urso.it/blog/" class="">Blog</a></li>
+<li id="accordion-menu-item-1047" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://adolfo-urso.it/video/" class="">Video</a></li>
+<li id="accordion-menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://adolfo-urso.it/contatti/" class="">Contatti</a></li>
+<li id="accordion-menu-item-724" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.fratelli-italia.it" class="">FDI</a></li>
+</ul></div><div class="menu-custom-block"><div class="share-links"><a href="https://www.facebook.com/UrsoAdolfo/" rel="nofollow" target="_blank" title="@UrsoAdolfo" class="share-facebook">Facebook</a><a href="https://twitter.com/adolfo_urso" rel="nofollow" target="_blank" title="@adolfo_urso" class="share-twitter">Twitter</a><a href="https://adolfo-urso.it/feed/" rel="nofollow" target="_blank" title="" class="share-rss">RSS</a><a href="https://www.instagram.com/adolfo_urso/" rel="nofollow" target="_blank" title="" class="share-instagram">Instagram</a><a href="https://www.linkedin.com/in/adolfo-urso-8378b5a5/" rel="nofollow" target="_blank" title="" class="share-linkedin">Linkedin</a></div></div> </div>
+</div>
+</div>
+</div>
+<div class="main-menu-wrap">
+<div id="main-menu" class="container ">
+<div class="menu-center">
+<ul id="menu-main-menu-1" class="main-menu mega-menu show-arrow"><li id="nav-menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-143 current_page_item active narrow"><a href="https://adolfo-urso.it/" class=" current">Home</a></li>
+<li id="nav-menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://adolfo-urso.it/la-mia-storia/" class="">La mia storia</a></li>
+<li id="nav-menu-item-708" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://adolfo-urso.it/blog/" class="">Blog</a></li>
+<li id="nav-menu-item-1047" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://adolfo-urso.it/video/" class="">Video</a></li>
+<li id="nav-menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://adolfo-urso.it/contatti/" class="">Contatti</a></li>
+<li id="nav-menu-item-724" class="menu-item menu-item-type-custom menu-item-object-custom narrow"><a target="_blank" href="http://www.fratelli-italia.it" class="">FDI</a></li>
+<li class="menu-custom-content pull-right"><div class="menu-custom-block"><div class="share-links"><a href="https://www.facebook.com/UrsoAdolfo/" rel="nofollow" target="_blank" title="@UrsoAdolfo" class="share-facebook">Facebook</a><a href="https://twitter.com/adolfo_urso" rel="nofollow" target="_blank" title="@adolfo_urso" class="share-twitter">Twitter</a><a href="https://adolfo-urso.it/feed/" rel="nofollow" target="_blank" title="" class="share-rss">RSS</a><a href="https://www.instagram.com/adolfo_urso/" rel="nofollow" target="_blank" title="" class="share-instagram">Instagram</a><a href="https://www.linkedin.com/in/adolfo-urso-8378b5a5/" rel="nofollow" target="_blank" title="" class="share-linkedin">Linkedin</a></div></div></li></ul> </div>
+</div>
+</div>
+</header>
+</div>
+
+<div class="banner-container">
+<div id="banner-wrapper" class="">
+<div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:#eaeaea;padding:0px;margin-top:0px;margin-bottom:0px;">
+
+<div id="rev_slider_3_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.4">
+<ul> 
+<li data-index="rs-13" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="https://adolfo-urso.it/wp-content/uploads/2018/03/Copertina_sito-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+
+<img src="https://adolfo-urso.it/wp-content/uploads/2018/03/Copertina_sito.jpg" alt="" title="Copertina_sito" width="1920" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div> </div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_3_1'), gridwidth: [1170], gridheight: [500], sliderLayout: 'auto'});
+			
+var revapi3,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_3_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_3_1");
+	}else{
+		revapi3 = tpj("#rev_slider_3_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//adolfo-urso.it/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:9000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 1,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+				,
+				arrows: {
+					style:"custom",
+					enable:true,
+					hide_onmobile:false,
+					hide_onleave:true,
+					hide_delay:200,
+					hide_delay_mobile:1200,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+			},
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1170,
+			gridheight:500,
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner3",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+<script>
+					var htmlDivCss = '	#rev_slider_3_1_wrapper .tp-loader.spinner3 div { background-color: #0088cc !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+<script>
+					var htmlDivCss = unescape(".custom.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3A%23000%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%7D%0A.custom.tparrows%3Ahover%20%7B%0A%09background%3A%23000%3B%0A%7D%0A.custom.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A15px%3B%0A%09color%3A%23fff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.custom.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce824%22%3B%0A%7D%0A.custom.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce825%22%3B%0A%7D%0A%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+</div> </div>
+</div>
+<div id="main" class="column1 wide clearfix no-breadcrumbs">
+<div class="container-fluid">
+<div class="row main-content-wrap">
+
+<div class="main-content col-lg-12">
+<div id="content" role="main">
+<article class="post-143 page type-page status-publish hentry">
+<span class="entry-title" style="display: none;">Home</span><span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/nicholas/" title="Articoli scritti da: Nicholas" rel="author">Nicholas</a></span></span><span class="updated" style="display:none">2018-04-11T19:37:25+00:00</span>
+<div class="page-content">
+<div class="vc_row wpb_row section section-default mt-0 mb-0 pb-0 porto-inner-container"><div class="porto-wrap-container container"><div class="row"><div class="vc_column_container col-md-6"><div class="wpb_wrapper vc_column-inner"><h2 class="vc_custom_heading m-b-md align-left">La mia <strong>storia</strong></h2><p class="vc_custom_heading lead align-left"><a href="https://adolfo-urso.it/la-mia-storia/" title="La mia storia">Sono Adolfo Urso, giornalista, imprenditore, politico e padre di tre figli. Amo il mio Paese e credo di averlo sempre servito con dignità e competenza. Quando è stato necessario ho rimesso gli incarichi, perché ritengo che occorra anche saper rinunciare al potere per affermare le proprie idee.</a></p><div class="vc_btn3-container vc_btn3-left">
+<a style="background-color:#003f72; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-default vc_btn3-style-custom btn" href="https://adolfo-urso.it/la-mia-storia/" title="">CONTINUA...</a> </div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+</div></div><div class="vc_column_container col-md-6"><div class="wpb_wrapper vc_column-inner"><h2 class="vc_custom_heading m-b-md align-left">Il mio rinnovato impegno <strong>politico</strong></h2><p class="vc_custom_heading lead align-left"><a href="https://adolfo-urso.it/la-mia-storia/" title="La mia storia">Sono tornato in campo per contribuire alla rinascita di una destra di governo, nel momento più difficile della storia della nostra Italia. Giorgia Meloni è riuscita nella difficile costruzione di una nuova casa dei patrioti, con la dedizione e la caparbietà che la contraddistinguono. In questi anni le sono stato sempre accanto nella sfida...</a></p><div class="vc_btn3-container vc_btn3-left">
+<a style="background-color:#003f72; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-default vc_btn3-style-custom btn" href="https://adolfo-urso.it/il-mio-rinnovato-impegno-politico/" title="">CONTINUA...</a> </div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div><div class="vc_row wpb_row porto-inner-container"><div class="porto-wrap-container container"><div class="row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+</div></div><div class="vc_column_container col-md-4"><div class="wpb_wrapper vc_column-inner">
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FUrsoAdolfo%2F&tabs=timeline&width=360&height=900&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="360" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
+</div>
+</div>
+</div></div><div class="vc_column_container col-md-4"><div class="wpb_wrapper vc_column-inner">
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<center>
+<a class="twitter-timeline" data-width="360" data-height="450" href="https://twitter.com/adolfo_urso">Tweets by Adolfo Urso</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+</div>
+</div>
+</div></div><div class="vc_column_container col-md-4"><div class="wpb_wrapper vc_column-inner"><div class="wpb_widgetised_column wpb_content_element">
+<div class="wpb_wrapper">
+<aside id="jr_insta_slider-4" class="widget sbg_widget Instagram jr-insta-slider"><h3 class="widget-title sbg_title">Instagram Slider</h3>No images found! <br> Try some other hashtag or username</div></aside>
+</div>
+</div>
+</div></div></div></div></div><div class="vc_row wpb_row section section-parallax mt-0 mb-0 porto-inner-container"><div class="porto-wrap-container container"><div class="row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><h2 class="vc_custom_heading align-left"><strong>Blog</strong></h2><div id="porto-blog-6230" class="porto-blog wpb_content_element "> <div class="blog-posts posts-grid blog-posts-default">
+<div class="posts-container row">
+<article class="post post-grid col-md-6 post-1453 post type-post status-publish format-standard hentry category-comunicati-stampa">
+<div class="grid-box">
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/incontro-con-lassociazione-degli-imprenditori-turchi/">Incontro con l&#8217;Associazione degli imprenditori turchi</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/adolfo-urso/" title="Articoli scritti da: Adolfo Urso" rel="author">Adolfo Urso</a></span></span><span class="updated" style="display:none">2020-02-12T17:10:23+00:00</span><p class="post-excerpt">
+Incontro con la delegazione di Tusiad guidata dal presidente SimoneKaslowski  durante la quale abbiamo ribadito gli interessi comuni tra imprese italiane e turche, ottime partner commerciali e industriali, che rischiano di essere pregiudicati dalla politica aggressiva di Erdogan nei confronti dei principali interessi nazionali italiani.
+</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>12 Febbraio 2020</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/comunicati-stampa/" rel="category tag">Comunicati stampa</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/incontro-con-lassociazione-degli-imprenditori-turchi/">Leggi di più...</a>
+</div>
+</div>
+</article>
+<article class="post post-grid col-md-6 post-1442 post type-post status-publish format-standard has-post-thumbnail hentry category-manifestazione tag-montagna tag-roccaraso tag-territorio tag-turismo">
+<div class="grid-box">
+<div class="post-image single">
+<div class="post-slideshow porto-carousel owl-carousel nav-inside nav-inside-center nav-style-2 show-nav-hover has-ccols ccols-1" data-plugin-options='{"nav":true}'>
+<a href="https://adolfo-urso.it/stati-generali-della-montagna/">
+<div class="img-thumbnail">
+<img class="owl-lazy img-responsive" src="https://adolfo-urso.it/wp-content/uploads/porto_placeholders/100x62.jpg" width="720" height="445" data-src="https://adolfo-urso.it/wp-content/uploads/2020/01/montagna-720x445.jpg" alt="" />
+</div>
+</a>
+</div>
+</div>
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/stati-generali-della-montagna/">STATI GENERALI DELLA MONTAGNA</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/adolfo-urso/" title="Articoli scritti da: Adolfo Urso" rel="author">Adolfo Urso</a></span></span><span class="updated" style="display:none">2020-01-28T11:03:33+00:00</span><p class="post-excerpt">Dal 31 gennaio al 2 febbraio si terrà sulla montagna abruzzese a Roccaraso (AQ) la seconda edizione Stati generali della Montagna, evento organizzato e promosso dal Gruppo parlamentare di Fratelli d’Italia al Senato.
+La convention di Fratelli d’Italia si terrà presso la sala convegni messa a disposizione dal Comune, che si trova all’interno della sede municipale, sulla piazza centrale del paese, raggiungibile a piedi da quasi tutti gli hotel del centro.
+Il mio intervento è previsto per sabato e  interverrò sul...</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>28 Gennaio 2020</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/manifestazione/" rel="category tag">Manifestazione</a></span><span class="meta-tags"><i class="far fa-envelope"></i><a href="https://adolfo-urso.it/tag/montagna/" rel="tag">Montagna</a>, <a href="https://adolfo-urso.it/tag/roccaraso/" rel="tag">Roccaraso</a>, <a href="https://adolfo-urso.it/tag/territorio/" rel="tag">Territorio</a>, <a href="https://adolfo-urso.it/tag/turismo/" rel="tag">Turismo</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/stati-generali-della-montagna/">Leggi di più...</a>
+</div>
+</div>
+</article>
+<article class="post post-grid col-md-6 post-1437 post type-post status-publish format-standard has-post-thumbnail hentry category-intervista tag-5g tag-cina tag-golden-power tag-huawei">
+<div class="grid-box">
+<div class="post-image single">
+<div class="post-slideshow porto-carousel owl-carousel nav-inside nav-inside-center nav-style-2 show-nav-hover has-ccols ccols-1" data-plugin-options='{"nav":true}'>
+<a href="https://adolfo-urso.it/cina-e-5g-cosa-cambia-dopo-il-dossier-copasir/">
+<div class="img-thumbnail">
+<img class="owl-lazy img-responsive" src="https://adolfo-urso.it/wp-content/uploads/porto_placeholders/100x47.jpg" width="950" height="445" data-src="https://adolfo-urso.it/wp-content/uploads/2019/12/timthumb-1-950x445.jpg" alt="" />
+</div>
+</a>
+</div>
+</div>
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/cina-e-5g-cosa-cambia-dopo-il-dossier-copasir/">Cina e 5G, cosa cambia dopo il dossier Copasir?</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/francesco-de-palo/" title="Articoli scritti da: Francesco De Palo" rel="author">Francesco De Palo</a></span></span><span class="updated" style="display:none">2019-12-20T09:56:25+00:00</span><p class="post-excerpt">Il Vicepresidente del Copasir a Formiche.net: “Da oggi nasce una maggiore consapevolezza della sicurezza nazionale, con l'auspicio che l'Italia sia non retroguardia, ma avanguardia di Europa ed Occidente, ergendosi a modello per gli altri Paesi”
+Più consapevolezza sulla sicurezza nazionale, e l’auspicio che l’Italia sia avanguardia in Europa ed Occidente, ergendosi a modello per gli altri Paesi. È quanto si augura ai microfoni di Formiche.net il vicepresidente del Copasir Adolfo Urso (FdI) commentando il rapporto conclusivo dell’indagine sulla sicurezza delle...</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>20 Dicembre 2019</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/intervista/" rel="category tag">intervista</a></span><span class="meta-tags"><i class="far fa-envelope"></i><a href="https://adolfo-urso.it/tag/5g/" rel="tag">5g</a>, <a href="https://adolfo-urso.it/tag/cina/" rel="tag">Cina</a>, <a href="https://adolfo-urso.it/tag/golden-power/" rel="tag">golden power</a>, <a href="https://adolfo-urso.it/tag/huawei/" rel="tag">Huawei</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/cina-e-5g-cosa-cambia-dopo-il-dossier-copasir/">Leggi di più...</a>
+</div>
+</div>
+</article>
+<article class="post post-grid col-md-6 post-1433 post type-post status-publish format-standard has-post-thumbnail hentry category-intervento tag-conte tag-cottarelli tag-di-maio tag-m5s tag-mes tag-patuelli tag-renzi tag-trattato-esm tag-zingaretti">
+<div class="grid-box">
+<div class="post-image single">
+<div class="post-slideshow porto-carousel owl-carousel nav-inside nav-inside-center nav-style-2 show-nav-hover has-ccols ccols-1" data-plugin-options='{"nav":true}'>
+<a href="https://adolfo-urso.it/intervento-in-aula-sul-meccanismo-europeo-di-stabilita/">
+<div class="img-thumbnail">
+<img class="owl-lazy img-responsive" src="https://adolfo-urso.it/wp-content/uploads/porto_placeholders/100x67.jpg" width="275" height="183" data-src="https://adolfo-urso.it/wp-content/uploads/2019/12/SENATO.jpg" alt="" />
+</div>
+</a>
+</div>
+</div>
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/intervento-in-aula-sul-meccanismo-europeo-di-stabilita/">Intervento in Aula sul Meccanismo europeo di stabilità</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/macri/" title="Articoli scritti da: Sabina Macri" rel="author">Sabina Macri</a></span></span><span class="updated" style="display:none">2019-12-13T11:15:08+00:00</span><p class="post-excerpt">Signor Presidente del Consiglio, ha iniziato il suo discorso alla Camera - doverosamente l'abbiamo ascoltata nel servizio televisivo - parlando di linguaggio mite e di rispetto delle istituzioni. Le vorrei dire che il rispetto delle istituzioni è anche quello che dovrebbe avere il suo Ministro dell'economia. Poco fa il senatore Pittella si è rivolto a lei e al Ministro dell'economia; ma non vedo accanto a lei, nei banchi del Governo, il Ministro dell'economia. Evidentemente è più avvezzo ai circoli...</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>13 Dicembre 2019</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/intervento/" rel="category tag">Intervento</a></span><span class="meta-tags"><i class="far fa-envelope"></i><a href="https://adolfo-urso.it/tag/conte/" rel="tag">Conte</a>, <a href="https://adolfo-urso.it/tag/cottarelli/" rel="tag">Cottarelli</a>, <a href="https://adolfo-urso.it/tag/di-maio/" rel="tag">Di Maio</a>, <a href="https://adolfo-urso.it/tag/m5s/" rel="tag">M5S</a>, <a href="https://adolfo-urso.it/tag/mes/" rel="tag">Mes</a>, <a href="https://adolfo-urso.it/tag/patuelli/" rel="tag">Patuelli</a>, <a href="https://adolfo-urso.it/tag/renzi/" rel="tag">Renzi</a>, <a href="https://adolfo-urso.it/tag/trattato-esm/" rel="tag">Trattato ESM</a>, <a href="https://adolfo-urso.it/tag/zingaretti/" rel="tag">Zingaretti</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/intervento-in-aula-sul-meccanismo-europeo-di-stabilita/">Leggi di più...</a>
+</div>
+</div>
+</article>
+<article class="post post-grid col-md-6 post-1430 post type-post status-publish format-standard has-post-thumbnail hentry category-comunicati-stampa tag-meloni tag-padova tag-pedrocchi">
+<div class="grid-box">
+<div class="post-image single">
+<div class="post-slideshow porto-carousel owl-carousel nav-inside nav-inside-center nav-style-2 show-nav-hover has-ccols ccols-1" data-plugin-options='{"nav":true}'>
+<a href="https://adolfo-urso.it/fratelli-ditalia-cresce-ancora/">
+<div class="img-thumbnail">
+<img class="owl-lazy img-responsive" src="https://adolfo-urso.it/wp-content/uploads/porto_placeholders/100x39.jpg" width="1132" height="445" data-src="https://adolfo-urso.it/wp-content/uploads/2019/12/IMG-20191211-WA0000-1132x445.jpg" alt="" />
+</div>
+</a>
+</div>
+</div>
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/fratelli-ditalia-cresce-ancora/">Fratelli d&#8217;Italia cresce ancora</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/macri/" title="Articoli scritti da: Sabina Macri" rel="author">Sabina Macri</a></span></span><span class="updated" style="display:none">2019-12-11T16:37:12+00:00</span><p class="post-excerpt">Domani sarò a Padova con Giorgia Meloni al caffè Pedrocchi per evidenziare la grande crescita di Fratelli d'Italia. Al termine della manifestazione del nostro Presidente, sarò presente anche alla iniziativa dei Circoli di Padova per un Brindisi di Natale.</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>11 Dicembre 2019</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/comunicati-stampa/" rel="category tag">Comunicati stampa</a></span><span class="meta-tags"><i class="far fa-envelope"></i><a href="https://adolfo-urso.it/tag/meloni/" rel="tag">Meloni</a>, <a href="https://adolfo-urso.it/tag/padova/" rel="tag">Padova</a>, <a href="https://adolfo-urso.it/tag/pedrocchi/" rel="tag">Pedrocchi</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/fratelli-ditalia-cresce-ancora/">Leggi di più...</a>
+</div>
+</div>
+</article>
+<article class="post post-grid col-md-6 post-1417 post type-post status-publish format-standard has-post-thumbnail hentry category-comunicati-stampa tag-europa tag-interesse-nazionale">
+<div class="grid-box">
+<div class="post-image single">
+<div class="post-slideshow porto-carousel owl-carousel nav-inside nav-inside-center nav-style-2 show-nav-hover has-ccols ccols-1" data-plugin-options='{"nav":true}'>
+<a href="https://adolfo-urso.it/difesa-degli-interessi-nazionali/">
+<div class="img-thumbnail">
+<img class="owl-lazy img-responsive" src="https://adolfo-urso.it/wp-content/uploads/porto_placeholders/100x46.jpg" width="960" height="445" data-src="https://adolfo-urso.it/wp-content/uploads/2019/12/FB_IMG_1575903212243-960x445.jpg" alt="" />
+</div>
+</a>
+</div>
+</div>
+
+<div class="post-content">
+<h4 class="entry-title"><a href="https://adolfo-urso.it/difesa-degli-interessi-nazionali/">Difesa degli interessi nazionali</a></h4>
+<span class="vcard" style="display: none;"><span class="fn"><a href="https://adolfo-urso.it/author/macri/" title="Articoli scritti da: Sabina Macri" rel="author">Sabina Macri</a></span></span><span class="updated" style="display:none">2019-12-10T13:28:16+00:00</span><p class="post-excerpt">
+A Bruxelles con il Gruppo dei parlamentari di Fratelli d'Italia per difendere gli interessi dell'Italia, dei risparmiatori e delle imprese
+</p> </div>
+
+<div class="post-meta"><span class="meta-date"><i class="far fa-calendar-alt"></i>9 Dicembre 2019</span></div><div class="post-meta"><span class="meta-cats"><i class="far fa-folder"></i><a href="https://adolfo-urso.it/category/comunicati-stampa/" rel="category tag">Comunicati stampa</a></span><span class="meta-tags"><i class="far fa-envelope"></i><a href="https://adolfo-urso.it/tag/europa/" rel="tag">europa</a>, <a href="https://adolfo-urso.it/tag/interesse-nazionale/" rel="tag">Interesse nazionale</a></span></div> <div class="clearfix">
+<a class="btn btn-xs btn-default text-xs text-uppercase btn-readmore" href="https://adolfo-urso.it/difesa-degli-interessi-nazionali/">Leggi di più...</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div></div></div></div></div></div>
+</div>
+</article>
+<div class="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-wrapper ">
+<div id="footer" class="footer-3">
+<div class="footer-main">
+<div class="container">
+<div class="row">
+<div class="col-lg-9">
+<aside id="block-widget-4" class="widget widget-block"> <div class="block">
+<div class="porto-block "><div class="vc_row wpb_row row"><div class="vc_column_container col-md-12"><div class="wpb_wrapper vc_column-inner"><div class="vc_row wpb_row vc_inner row"><div class="vc_column_container col-md-10"><div class="wpb_wrapper vc_column-inner">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h4 style="color: #ffffff !important;">Newsletters</h4>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>Iscriviti alla newsletter. Lasciaci la tua mail per rimanere in contatto con Adolfo Urso! Scoprirai tutte le nostre novità e gli eventi che organizziamo direttamente nella tua mail.</p>
+<div class="widget_wysija_cont shortcode_wysija"><div id="msg-form-wysija-shortcode5f8745308ec7b-1" class="wysija-msg ajax"></div><form id="form-wysija-shortcode5f8745308ec7b-1" method="post" action="#wysija" class="widget_wysija shortcode_wysija">
+<p class="wysija-paragraph">
+<label>Email <span class="wysija-required">*</span></label>
+<input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="Email" value="" />
+<span class="abs-req">
+<input type="text" name="wysija[user][abs][email]" class="wysija-input validated[abs][email]" value="" />
+</span>
+</p>
+<input class="wysija-submit wysija-submit-field" type="submit" value="Iscriviti" />
+<input type="hidden" name="form_id" value="1" />
+<input type="hidden" name="action" value="save" />
+<input type="hidden" name="controller" value="subscribers" />
+<input type="hidden" value="1" name="wysija-page" />
+<input type="hidden" name="wysija[user_list][list_ids]" value="1" />
+</form></div>
+<p>&nbsp;</p>
+<p>Iscrivendoti accetti di aver preso visione dell'<a href="https://adolfo-urso.it/note-legali-privacy-cookies/">Informativa Privacy</a> e autorizzi il trattamento dei tuoi dati personali ai sensi degli artt. 13 e 14 del GDPR n. 2016/679</p>
+</div>
+</div>
+</div></div><div class="vc_column_container col-md-2"><div class="wpb_wrapper vc_column-inner"></div></div></div><div class="porto-separator  "><hr class="separator-line  align_center" style="background-image: -webkit-linear-gradient(left, transparent, #333333, transparent); background-image: linear-gradient(to right, transparent, #333333, transparent);"></div></div></div></div></div> </div>
+</aside> </div>
+<div class="col-lg-3">
+<aside id="follow-us-widget-2" class="widget follow-us"> <div class="share-links">
+<a href="https://www.facebook.com/UrsoAdolfo/" rel="nofollow" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Facebook" class="share-facebook">Facebook</a>
+<a href="https://twitter.com/adolfo_urso/" rel="nofollow" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter" class="share-twitter">Twitter</a>
+<a href="https://adolfo-urso.it/feed/" rel="nofollow" target="_blank" data-toggle="tooltip" data-placement="bottom" title="RSS" class="share-rss">RSS</a>
+<a href="https://www.instagram.com/adolfo_urso/" rel="nofollow" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Instagram" class="share-instagram">Instagram</a>
+<a href="https://www.linkedin.com/in/adolfo-urso-8378b5a5/" rel="nofollow" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Linkedin" class="share-linkedin">Linkedin</a>
+</div>
+</aside> </div>
+</div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="footer-center">
+<span class="footer-copyright">© adolfo-urso.it 2018. <a href="https://adolfo-urso.it/note-legali-privacy-cookies/">Note Legali - Privacy - Cookies</a></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--[if lt IE 9]>
+<script src="https://adolfo-urso.it/wp-content/themes/porto/js/libs/html5shiv.min.js"></script>
+<script src="https://adolfo-urso.it/wp-content/themes/porto/js/libs/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+<link rel='stylesheet' id='basecss-css' href='https://adolfo-urso.it/wp-content/plugins/eu-cookie-law/css/style.css?ver=f0be55386b5cf76b345bb10a156b66e2' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope-css-css' href='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/css/lib/isotope.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css' href='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.0.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/adolfo-urso.it\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var porto_live_search = {"nonce":"3204c5dd58"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/inc/lib/live-search/live-search.js?ver=4.11.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4.1.1'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-includes/js/comment-reply.min.js?ver=f0be55386b5cf76b345bb10a156b66e2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/popper.min.js?ver=1.12.5'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/bootstrap.js?ver=4.1.3'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/owl.carousel.min.js?ver=2.3.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.appear.min.js'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.fitvids.min.js?ver=1.1'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.matchHeight.min.js'></script>
+<script type='text/javascript' async="async" src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/modernizr.js?ver=2.8.3'></script>
+<script type='text/javascript' async="async" src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.magnific-popup.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/libs/jquery.waitforimages.min.js?ver=2.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var js_porto_vars = {"rtl":"","ajax_url":"https:\/\/adolfo-urso.it\/wp-admin\/admin-ajax.php","change_logo":"0","container_width":"1170","grid_gutter_width":"30","show_sticky_header":"1","show_sticky_header_tablet":"1","show_sticky_header_mobile":"1","ajax_loader_url":"\/\/adolfo-urso.it\/wp-content\/themes\/porto\/images\/ajax-loader@2x.gif","category_ajax":"1","prdctfltr_ajax":"","show_minicart":"0","slider_loop":"1","slider_autoplay":"1","slider_autoheight":"1","slider_speed":"5000","slider_nav":"","slider_nav_hover":"1","slider_margin":"","slider_dots":"1","slider_animatein":"","slider_animateout":"","product_thumbs_count":"4","product_zoom":"1","product_zoom_mobile":"1","product_image_popup":"1","zoom_type":"inner","zoom_scroll":"1","zoom_lens_size":"200","zoom_lens_shape":"square","zoom_contain_lens":"1","zoom_lens_border":"1","zoom_border_color":"#888888","zoom_border":"0","screen_lg":"1200","mfp_counter":"%c urr% del% totale%","mfp_img_error":"<a href=\"%url%\"> Impossibile caricare l\\'immagine <\/a>.","mfp_ajax_error":"Impossibile caricare <a href=\"%url%\"> il contenuto <\/a>.","popup_close":"Vicino","popup_prev":"Precedente","popup_next":"Il prossimo","request_error":"Impossibile caricare il contenuto richiesto. <br\/> Riprova pi\u00f9 tardi.","loader_text":"Loading...","submenu_back":"Indietro","porto_nonce":"7d070bbc3a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/themes/porto/js/theme.js?ver=4.11.4'></script>
+<script type='text/javascript' async="async" src='https://adolfo-urso.it/wp-content/themes/porto/js/theme-async.js?ver=4.11.4'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-includes/js/wp-embed.min.js?ver=f0be55386b5cf76b345bb10a156b66e2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eucookielaw_data = {"euCookieSet":"","autoBlock":"0","expireTimer":"180","scrollConsent":"0","networkShareURL":"","isCookiePage":"","isRefererWebsite":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/eu-cookie-law/js/scripts.js?ver=3.1.5'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.0.2'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-it.js?ver=2.14'></script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"https:\/\/adolfo-urso.it\/wp-admin\/admin-ajax.php","loadingTrans":"Caricamento...","is_rtl":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://adolfo-urso.it/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.14'></script>
+<div class="pea_cook_wrapper pea_cook_bottomright" style="color:#FFFFFF;background:rgb(0,0,0);background: rgba(0,0,0,0.85);"><p>Utilizzando il sito, accetti l&#039;utilizzo dei cookie da parte nostra. <a style="color:#FFFFFF;" href="#" id="fom">maggiori informazioni</a> <button id="pea_cook_btn" class="pea_cook_btn">Accetto</button></p></div><div class="pea_cook_more_info_popover"><div class="pea_cook_more_info_popover_inner" style="color:#FFFFFF;background-color: rgba(0,0,0,0.9);"><p>Questo sito utilizza i cookie per fornire la migliore esperienza di navigazione possibile. Continuando a utilizzare questo sito senza modificare le impostazioni dei cookie o cliccando su "Accetta" permetti il loro utilizzo.</p><p><a style="color:#FFFFFF;" href="#" id="pea_close">Chiudi</a></p></div></div>
+<script>
+		
+                    jQuery(document).ready(function(){});
+                	</script>
+</body>
+</html>

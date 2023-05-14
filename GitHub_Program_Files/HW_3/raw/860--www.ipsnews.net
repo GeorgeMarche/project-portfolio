@@ -1,0 +1,881 @@
+<!DOCTYPE html >
+<html>
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="/touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/touch-icon-72x72.png" />
+<link rel="apple-touch-icon" href="/touch-icon-iphone.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Inter Press Service | News and Views from the Global South</title>
+<link rel="shortcut icon" href="http://www.ipsnews.net/favicon.ico">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.ipsnews.net/wp-content/themes/ipsnews/style.css" />
+<link href="http://fonts.googleapis.com/css?family=Muli&subset=latin" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Candal&subset=latin" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.ipsnews.net/feed/" />	
+<link rel="pingback" href="http://www.ipsnews.net/xmlrpc.php" />
+<script>(function() { 
+  var _fbq = window._fbq || (window._fbq = []); 
+  if (!_fbq.loaded) { 
+    var fbds = document.createElement('script'); 
+    fbds.async = true; 
+    fbds.src = '//connect.facebook.net/en_US/fbds.js'; 
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(fbds, s); 
+    _fbq.loaded = true; 
+  } 
+  _fbq.push(['addPixelId', '443189699154214']); 
+})(); 
+window._fbq = window._fbq || []; 
+window._fbq.push(['track', 'PixelInitialized', {}]); 
+</script> 
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=443189699154214&ev=PixelInitialized" /></noscript>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="News and Views from the Global South"/>
+<link rel="canonical" href="http://www.ipsnews.net/" />
+<link rel="next" href="http://www.ipsnews.net/page/2/" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.ipsnews.net\/","name":"IPS Inter Press Service News Agency","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.ipsnews.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.ipsnews.net\/","sameAs":["https:\/\/www.facebook.com\/ipsnews","https:\/\/www.instagram.com\/interpressservice\/","https:\/\/twitter.com\/ipsnews"],"@id":"#organization","name":"IPS Inter Press Service News Agency","logo":"http:\/\/www.ipsnews.net\/Library\/2017\/06\/logo400x400.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+
+<!-- JM Twitter Cards by Julien Maury 5.3.7 -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ipsnews">
+<meta name="twitter:creator" content="@ipsnews">
+<meta name="twitter:title" content="Inter Press Service">
+<meta name="twitter:description" content="IPS Inter Press Service - Turning the World Downside Up">
+<meta name="twitter:image:src" content="http://www.ipsnews.net/Library/2020/10/donkeys-280x150.jpg">
+<meta name="twitter:image:width" content="280">
+<meta name="twitter:image:height" content="150">
+<!-- /JM Twitter Cards 5.3.7 -->
+
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.ipsnews.net/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfront-notification-bar-css'  href='http://www.ipsnews.net/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ipsnews.net/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js'></script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js'></script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-content/themes/ipsnews/js/jquery.bxSlider.min.js'></script>
+<link rel='https://api.w.org/' href='http://www.ipsnews.net/wp-json/' />
+<link type="text/css" rel="stylesheet" href="http://www.ipsnews.net/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css" />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.circleteam {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.coreteam {
+tex-align: center;
+}		</style>
+	
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '410340352767201');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=410340352767201&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+<script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+
+
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="wrapper">
+<div id="header">
+<div id="lang"><div class="lang_title">Languages<img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/tria.png" alt="" width="10" height="7"/></div><ul><li><a href="http://www.ipsnoticias.net" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ipsnoticias.net']);">ESPAÑOL</a></li>
+<li><a href="http://ipsnews.net/francais/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ipsnews.net']);">FRANÇAIS</a></li>
+<li><a href="http://www.ipsinternational.org/arabic" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ipsinternational.org']);">ARABIC</a></li>
+<li><a href="http://www.ipsnews.net/deutsch/">DEUTSCH</a></li>
+<li><a href="http://www.ipsnews.net/italiano/">ITALIANO</a></li>
+<li><a href="http://ipsnews.be" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ipsnews.be']);">NEDERLANDS</a></li>
+<li><a href="http://www.ipsnoticias.net/portugues/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ipsnoticias.net']);">PORTUGUÊS</a></li>
+<li><a href="http://ipsnews.net/suomi/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ipsnews.net']);">SUOMI</a></li>
+<li><a href="http://www.ipsnews.net/svenska/">SVENSKA</a></li>
+<li><a href="http://ipsnews.net/swahili/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ipsnews.net']);">SWAHILI</a></li>
+<li><a href="http://ipsnews.net/turkce/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://ipsnews.net']);">TÜRKÇE</a></li>
+</ul></div>		
+<p class="date">Wednesday, October 14, 2020</p>
+<div class="social"><!--<a href="http://ips.org/blog/ips">blogs</a>
+<img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/sepa.png" alt="" height="23" width="25"/>-->
+<a href="http://twitter.com/ipsnews"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/social-tw.png" alt="IPS on Twitter" height="24" width="23"/></a>
+<a href="http://facebook.com/ipsnews"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/social-fb.png" alt="IPS on Facebook"  height="24" width="25"/></a>
+<a href="http://www.ipsnews.net/feed/"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/feed.png" alt="RSS feed"  height="25" width="26"/></a>
+</div>
+
+
+
+
+<form id="searchform" action="http://www.ipsnews.net">
+	<fieldset>
+		<input type="text" id="s" name="s" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"  style=" background-image: url(http://cdn.ipsnews.net/button_go.png);background-repeat: no-repeat;background-position: right"/>
+        
+<!--		<input type="image" id="searchsubmit" src="/images/button_go.png" alt="" /> 
+ -->
+
+</fieldset>        
+  
+</form><div class="clear"></div>
+<div id="logo">
+<a href="http://www.ipsnews.net"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/logo-IPS.png" height="65" width="154"/></a>
+<h1><a href="http://www.ipsnews.net">INTER PRESS SERVICE</a></h1>
+<h3><a href="http://www.ipsnews.net">News Agency</a></h3>
+</div>
+<h2>News and Views from the Global South &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h2>
+<div id="mastheadmenu"><ul id="menu-regional" class="masthead"><li id="menu-item-102161" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-102161"><a href="http://www.ipsnews.net/news/regional-categories/africa/">Africa</a></li>
+<li id="menu-item-102162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102162"><a href="http://www.ipsnews.net/news/regional-categories/asia-pacific/">Asia-Pacific</a></li>
+<li id="menu-item-102163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102163"><a href="http://www.ipsnews.net/news/regional-categories/europe/">Europe</a></li>
+<li id="menu-item-102164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102164"><a href="http://www.ipsnews.net/news/regional-categories/latin-america-and-caribbean/">Latin America &#038; the Caribbean</a></li>
+<li id="menu-item-102165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102165"><a href="http://www.ipsnews.net/news/regional-categories/middle-east/">Middle East &#038; North Africa</a></li>
+<li id="menu-item-102166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102166"><a href="http://www.ipsnews.net/news/regional-categories/north-america/">North America</a></li>
+<li id="menu-item-102167" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-102167"><a href="http://www.ipsnews.net/news/regional-categories/global/">Global</a></li>
+</ul><div class="clear"></div></div></div><div id="mainmenu"><ul id="menu-head-thematic" class="mainnav dropdown"><li id="menu-item-558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558"><a href="/index.php">Home</a></li>
+<li id="menu-item-560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-560"><a href="http://www.ipsnews.net/news/development-aid/">Development &#038; Aid</a>
+<ul class="sub-menu">
+<li id="menu-item-561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-561"><a href="http://www.ipsnews.net/news/development-aid/aid/">Aid</a></li>
+<li id="menu-item-562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-562"><a href="http://www.ipsnews.net/news/development-aid/education/">Education</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-563"><a href="http://www.ipsnews.net/news/development-aid/energy/">Energy</a></li>
+<li id="menu-item-565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-565"><a href="http://www.ipsnews.net/news/development-aid/health/">Health</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-564"><a href="http://www.ipsnews.net/news/development-aid/food-agriculture/">Food &#038; Agriculture</a></li>
+<li id="menu-item-566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-566"><a href="http://www.ipsnews.net/news/development-aid/humanitarian-emergencies/">Humanitarian Emergencies</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-568"><a href="http://www.ipsnews.net/news/development-aid/poverty-sdgs/">Poverty &#038; SDGs</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-567"><a href="http://www.ipsnews.net/news/development-aid/population/">Population</a></li>
+</ul>
+</li>
+<li id="menu-item-569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-569"><a href="http://www.ipsnews.net/news/economy-trade/">Economy &#038; Trade</a>
+<ul class="sub-menu">
+<li id="menu-item-571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-571"><a href="http://www.ipsnews.net/news/economy-trade/financial-crisis/">Financial Crisis</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-572"><a href="http://www.ipsnews.net/news/economy-trade/green-economy/">Green Economy</a></li>
+<li id="menu-item-573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-573"><a href="http://www.ipsnews.net/news/economy-trade/labour/">Labour</a></li>
+<li id="menu-item-574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-574"><a href="http://www.ipsnews.net/news/economy-trade/natural-resources/">Natural Resources</a></li>
+<li id="menu-item-99975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99975"><a href="http://www.ipsnews.net/news/economy-trade/trade-investment/">Trade &#038; Investment</a></li>
+<li id="menu-item-570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-570"><a href="http://www.ipsnews.net/news/economy-trade/cooperatives/">Cooperatives</a></li>
+</ul>
+</li>
+<li id="menu-item-575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-575"><a href="http://www.ipsnews.net/news/environment/">Environment</a>
+<ul class="sub-menu">
+<li id="menu-item-576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-576"><a href="http://www.ipsnews.net/news/environment/advancing-deserts/">Advancing Deserts</a></li>
+<li id="menu-item-577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-577"><a href="http://www.ipsnews.net/news/environment/biodiversity/">Biodiversity</a></li>
+<li id="menu-item-578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-578"><a href="http://www.ipsnews.net/news/environment/climate-change/">Climate Change</a></li>
+<li id="menu-item-99976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99976"><a href="http://www.ipsnews.net/news/economy-trade/green-economy/">Green Economy</a></li>
+<li id="menu-item-99977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99977"><a href="http://www.ipsnews.net/news/environment/water-sanitation/">Water &#038; Sanitation</a></li>
+</ul>
+</li>
+<li id="menu-item-586" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-586"><a href="http://www.ipsnews.net/news/human-rights/">Human Rights</a>
+<ul class="sub-menu">
+<li id="menu-item-587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-587"><a href="http://www.ipsnews.net/news/human-rights/armed-conflicts/">Armed Conflicts</a></li>
+<li id="menu-item-588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-588"><a href="http://www.ipsnews.net/news/human-rights/crime-justice/">Crime &#038; Justice</a></li>
+<li id="menu-item-117687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-117687"><a href="http://www.ipsnews.net/news/human-rights/democracy/">Democracy</a></li>
+<li id="menu-item-589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-589"><a href="http://www.ipsnews.net/news/human-rights/indigenous-rights/">Indigenous Rights</a></li>
+<li id="menu-item-590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-590"><a href="http://www.ipsnews.net/news/human-rights/lgbtq/">LGBTQ</a></li>
+<li id="menu-item-591" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-591"><a href="http://www.ipsnews.net/news/human-rights/migration-refugees/">Migration &#038; Refugees</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-592"><a href="http://www.ipsnews.net/news/human-rights/press-freedom/">Press Freedom</a></li>
+<li id="menu-item-99979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99979"><a href="http://www.ipsnews.net/news/human-rights/religion/">Religion</a></li>
+</ul>
+</li>
+<li id="menu-item-582" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-582"><a href="http://www.ipsnews.net/news/global-governance/">Global Governance</a>
+<ul class="sub-menu">
+<li id="menu-item-113701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-113701"><a href="http://www.ipsnews.net/news/global-governance/civilisations-find-alliances/">Civilisations Find Alliances</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-583"><a href="http://www.ipsnews.net/news/global-governance/eye-on-the-ifis/">Eye on the IFIs</a></li>
+<li id="menu-item-584" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-584"><a href="http://www.ipsnews.net/news/global-governance/global-geopolitics/">Global Geopolitics</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-585"><a href="http://www.ipsnews.net/news/global-governance/globalisation/">Globalisation</a></li>
+<li id="menu-item-100658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100658"><a href="http://www.ipsnews.net/news/global-governance/peace/">Peace</a></li>
+<li id="menu-item-593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-593"><a href="http://www.ipsnews.net/news/south-south/">South-South</a></li>
+<li id="menu-item-99980" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-99980"><a href="http://www.ipsnews.net/news/global-governance/united-nations/">United Nations</a></li>
+</ul>
+</li>
+<li id="menu-item-99986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-99986"><a href="http://www.ipsnews.net/news/south-south/">South-South</a>
+<ul class="sub-menu">
+<li id="menu-item-99987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99987"><a href="http://www.ipsnews.net/news/south-south/g77/">G77</a></li>
+<li id="menu-item-99990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99990"><a href="http://www.ipsnews.net/news/south-south/regional-alliances/">Regional Alliances</a></li>
+<li id="menu-item-594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-594"><a href="http://www.ipsnews.net/news/south-south/southern-aid-trade/">Southern Aid &#038; Trade</a></li>
+</ul>
+</li>
+<li id="menu-item-595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-595"><a href="http://www.ipsnews.net/news/civil-society/">Civil Society</a>
+<ul class="sub-menu">
+<li id="menu-item-596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-596"><a href="http://www.ipsnews.net/news/civil-society/active-citizens/">Active Citizens</a></li>
+<li id="menu-item-99985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99985"><a href="http://www.ipsnews.net/news/civil-society/world-social-forum/">World Social Forum</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-597"><a href="http://www.ipsnews.net/news/civil-society/conferences/">Conferences</a></li>
+</ul>
+</li>
+<li id="menu-item-103184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-103184"><a href="http://www.ipsnews.net/news/gender/">Gender</a>
+<ul class="sub-menu">
+<li id="menu-item-581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-581"><a href="http://www.ipsnews.net/news/gender/gender-violence/">Gender Violence</a></li>
+<li id="menu-item-99982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99982"><a href="http://www.ipsnews.net/news/gender/women-economy/">Women &#038; Economy</a></li>
+<li id="menu-item-99981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99981"><a href="http://www.ipsnews.net/news/gender/women-climate-change/">Women &#038; Climate Change</a></li>
+<li id="menu-item-99984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99984"><a href="http://www.ipsnews.net/news/gender/womens-health/">Women&#8217;s Health</a></li>
+<li id="menu-item-580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-580"><a href="http://www.ipsnews.net/news/gender/gender-identity/">Gender Identity</a></li>
+<li id="menu-item-99983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99983"><a href="http://www.ipsnews.net/news/gender/women-in-politics/">Women in Politics</a></li>
+</ul>
+</li>
+</ul><div class="clear"></div></div>  
+	<!--<div id="primarytopwrapper">-->
+		
+		<div id="primary-content">
+
+			<div id="featured-wrapper">
+                <div class="contentdiv firstpost"><img src="http://www.ipsnews.net/Library/2020/10/Nila-Kispotta-poses-for-a-photo-along-with-other-family-members-380x280.jpg" width="380" height="280" alt="Changing the Lives of Bangladesh’s Rural Girls by Giving them a Tertiary Education" class="wp-post-image alignnone"><span class="origin">THAKURGAON, Bangladesh </span><div class="featuredpost"><h2 class="featuredTitle firstpost"><a href="http://www.ipsnews.net/2020/10/changing-the-lives-of-bangladeshs-rural-girls-by-giving-them-a-tertiary-education/" rel="bookmark">Changing the Lives of Bangladesh’s Rural Girls by Giving them a Tertiary Education</a></h2><span id="first"><p>Nila Kispotta, a 19-year-old rural girl from the Oraon ethnic community, has become a figure of exceptional achievement to the small, poverty-stricken village in Thakurgaon in northwest Bangladesh that she grew up in. Born into a family of daily wage earners, Kispotta dreamt of a different life. So when she enrolled in tertiary education to pursue a diploma in Nursing Science and Midwifery — she achieved something her family and community hadn’t even dreamed was possible.</p>
+</span><div class="clear"></div><span class="meta"><a href="http://www.ipsnews.net/author/farid-ahmed/" title="Posts by Farid Ahmed">Farid Ahmed</a> | <a href="http://www.ipsnews.net/news/gender/" class="taxo">Gender</a> | <a href="http://www.ipsnews.net/primary-region/asia-pacific/" class="taxo">Asia-Pacific</a></span></div></div><hr /><div class="contentdiv"><img src="http://www.ipsnews.net/Library/2020/10/Maria-5_-100x100.jpg" width="100" height="100" alt="The Urban Poor are Fighting Back Against COVID-19" class="wp-post-image alignleft"><div class="featuredpost"><h2 class="featuredTitle"><a href="http://www.ipsnews.net/2020/10/urban-poor-fighting-back-covid-19/" rel="bookmark">The Urban Poor are Fighting Back Against COVID-19</a></h2><span id="first"><p>For those who live in slums and informal settlements, the Covid-19 pandemic has brought to the forefront their greatest vulnerabilities. But they are fighting back; organising, and coming up with creative ways to protect their communities.</p>
+</span><div class="clear"></div><span class="meta"><a href="http://www.ipsnews.net/author/mbaye-mbeguere/" title="Posts by Mbaye Mbeguere">Mbaye Mbeguere</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span></div></div><div class="contentdiv"><img src="http://www.ipsnews.net/Library/2020/10/29735334417_6c62b1187a_c-100x100.jpg" width="100" height="100" alt="Improving People&#8217;s Lives with Digital Technology during COVID-19" class="wp-post-image alignleft"><div class="featuredpost"><h2 class="featuredTitle"><a href="http://www.ipsnews.net/2020/10/improving-peoples-lives-digital-technology-covid-19/" rel="bookmark">Improving People&#8217;s Lives with Digital Technology during COVID-19</a></h2><span id="first"><p>Digital technology has been crucial in ensuring community and connection during the coronavirus pandemic and subsequent lockdowns. And its shown that collaboration between the private and public sector can ensure that digital technology continues to advance in a way that improves people’s lives under crises, experts said on Tuesday, Oct. 13. </p>
+</span><div class="clear"></div><span class="meta"><a href="http://www.ipsnews.net/author/samira-sadeque/" title="Posts by Samira Sadeque">Samira Sadeque</a> | <a href="http://www.ipsnews.net/news/headlines/" class="taxo">Headlines</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span></div></div>                        
+			</div>
+			
+            <div id="home_top_left_wgt_wrapper">      
+               <div id="ips-latest-news-12" class="widget ips_list_news"><div class="widgetinner"><h1 class="section"><a href="news/headlines">Latest News</a></h1><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/working-animals-role-in-sdgs-and-addressing-climate-change-pandemic-crises/" rel="bookmark">Working Animals’ Role in SDGs and Addressing Climate Change, Pandemic Crises</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/mike-barker/" title="Posts by Mike Baker">Mike Baker</a>  and <a href="http://www.ipsnews.net/author/roly-owners/" title="Posts by Roly Owners">Roly Owners</a> | <a href="http://www.ipsnews.net/news/development-aid/food-agriculture/" class="taxo">Food &amp; Agriculture</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/train-faith-leaders-tackle-africas-mental-health-needs/" rel="bookmark">Train Faith Leaders to Tackle Africa’s Mental Health Needs</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/chiwoza-bandawe/" title="Posts by Chiwoza Bandawe">Chiwoza Bandawe</a> | <a href="http://www.ipsnews.net/news/development-aid/health/" class="taxo">Health</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/how-the-pacific-islands-are-balancing-covid-19-survival-demands-on-coastal-fisheries-with-sustainable-management/" rel="bookmark">How the Pacific Islands are Balancing COVID-19 Survival Demands on Coastal Fisheries with Sustainable Management</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/catherine-wilson/" title="Posts by Catherine Wilson">Catherine Wilson</a> | <a href="http://www.ipsnews.net/news/sustainability/" class="taxo">Sustainability</a> | <a href="http://www.ipsnews.net/primary-region/asia-pacific/" class="taxo">Asia-Pacific</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/indigenous-peoples-local-communities-offer-best-hope-planetary-emergency/" rel="bookmark">Indigenous Peoples &#038; Local Communities Offer Best Hope for Our Planetary Emergency</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/yoko-watanabe/" title="Posts by Yoko Watanabe">Yoko Watanabe</a>  and <a href="http://www.ipsnews.net/author/nina-kantcheva/" title="Posts by Nina Kantcheva">Nina Kantcheva</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/milton-friedman-versus-stakeholder-capitalism/" rel="bookmark">Milton Friedman Versus Stakeholder Capitalism</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/jomo-kwame-sundaram/" title="Posts by Jomo Kwame Sundaram">Jomo Kwame Sundaram</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/qa-women-mali-play-critical-role-preventing-resolving-conflicts/" rel="bookmark">Q&#038;A: Women in Mali Play Critical Role in Preventing and Resolving Conflicts</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/samira-sadeque/" title="Posts by Samira Sadeque">Samira Sadeque</a> | <a href="http://www.ipsnews.net/news/human-rights/armed-conflicts/" class="taxo">Armed Conflicts</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/covids-impact-real-time-finding-balance-amid-crisis/" rel="bookmark">COVID’s Impact in Real Time: Finding Balance Amid the Crisis</a></h2><span class="meta"><a href="http://www.ipsnews.net/author/francesco-grigoli/" title="Posts by Francesco Grigoli">Francesco Grigoli</a>  and <a href="http://www.ipsnews.net/author/damiano-sandri/" title="Posts by Damiano Sandri">Damiano Sandri</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span></div></div>
+<div id="custom_html-17" class="widget_text widget widget_custom_html"><div class="widget_text widgetinner"><div class="textwidget custom-html-widget"><!--
+<div>
+    <img src="http://cdn.ipsnews.net/Library/2020/03/guterres200g.jpg" width="200" height="270" alt="UN Secretary-General Antonio Guterres" title="UN Secretary-General Antonio Guterres">
+   </div>
+-->
+<div>
+    <img src="http://www.ipsnews.net/Library/2020/07/guterres_home_5_.jpg" width="199" height="326" alt="UN Secretary-General Antonio Guterres" title="UN Secretary-General Antonio Guterres">
+   </div></div></div></div>
+            </div>
+			
+            <hr class="clear" />
+        
+            <div class="mmedia"> 
+                <h1 class="section"><a href="http://www.ipsnews.net/news/multimedia/">Multimedia</a></h1><div class="content-mm"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/video-icon.png" title="Video" class="media_icon" /> <h2><a href="http://www.ipsnews.net/news/multimedia/video/">Video</a></h2><br /><a href="http://www.ipsnews.net/2020/10/world-food-day-2020/"><img src="http://www.ipsnews.net/Library/2020/09/World-Food-Day_-200x149.jpg" width="200" height="149" alt="WORLD FOOD DAY 2020"></a><a href="http://www.ipsnews.net/2020/10/world-food-day-2020/"><h3>WORLD FOOD DAY 2020</h3></a></div><div class="content-mm"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/video-icon.png" title="Video" class="media_icon" /> <h2><a href="http://www.ipsnews.net/news/multimedia/video/">Video</a></h2><br /><a href="http://www.ipsnews.net/2020/10/building-back-better-education-cannot-wait/"><img src="http://www.ipsnews.net/Library/2020/10/IPS-ECW-cover_-200x149.jpg" width="200" height="149" alt="Building Back Better: Education Cannot Wait"></a><a href="http://www.ipsnews.net/2020/10/building-back-better-education-cannot-wait/"><h3>Building Back Better: Education Cannot Wait</h3></a></div><div class="content-mm"><img src="http://www.ipsnews.net/wp-content/themes/ipsnews/images/video-icon.png" title="Video" class="media_icon" /> <h2><a href="http://www.ipsnews.net/news/multimedia/video/">Video</a></h2><br /><a href="http://www.ipsnews.net/2020/10/community-hydropower-dam-lights-salvadoran-villages/"><img src="http://www.ipsnews.net/Library/2020/09/aaa-1-200x149.jpg" width="200" height="149" alt="Community Hydropower Dam Lights Up Salvadoran Villages"></a><a href="http://www.ipsnews.net/2020/10/community-hydropower-dam-lights-salvadoran-villages/"><h3>Community Hydropower Dam Lights Up Salvadoran Villages</h3></a></div><div class="clear"></div>            </div>
+        
+            <hr class="clear" />
+        	
+            <div class="half-prim left">
+                <div id="ips-rss-reader-18" class="widget ips_list_news"><div class="widgetinner"><h1 class="section"><a href="http://www.ipsnews.net/other-voices/" target="new">Read Stories from IPS Partners</a></h1><div class="content_block"><img class="alignleft minithumb" src="http://cdn.ipsnews.net/img/transparente.gif" alt="" height="50" width="1" style="margin-right: 0;"/><h2 class="fixed" style="left: 0; margin-left: 0;"><a href="http://www.ipsnews.net/2020/10/world-food-day-2020/" rel="bookmark">WORLD FOOD DAY 2020</a></h2><span class="meta fixed" style="left: 0; margin-left: 0;">External Source</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://cdn.ipsnews.net/img/transparente.gif" alt="" height="50" width="1" style="margin-right: 0;"/><h2 class="fixed" style="left: 0; margin-left: 0;"><a href="http://www.ipsnews.net/2020/10/afghanistan-hope-fading-midst-fear-silence/" rel="bookmark">Afghanistan, Hope Fading in the midst of Fear and Silence</a></h2><span class="meta fixed" style="left: 0; margin-left: 0;">Elena Pasquini</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://cdn.ipsnews.net/img/transparente.gif" alt="" height="50" width="1" style="margin-right: 0;"/><h2 class="fixed" style="left: 0; margin-left: 0;"><a href="http://www.ipsnews.net/2020/10/building-back-better-education-cannot-wait/" rel="bookmark">Building Back Better: Education Cannot Wait</a></h2><span class="meta fixed" style="left: 0; margin-left: 0;">External Source</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://cdn.ipsnews.net/img/transparente.gif" alt="" height="50" width="1" style="margin-right: 0;"/><h2 class="fixed" style="left: 0; margin-left: 0;"><a href="http://www.ipsnews.net/2020/10/caribbean-communities-building-resilience-water-harvesting/" rel="bookmark">Caribbean Communities Building Resilience through Water Harvesting</a></h2><span class="meta fixed" style="left: 0; margin-left: 0;">Zadie Neufville</span><div style="clear: both;"></div></div></div></div>
+            </div>
+        
+            <div class="half-prim right">
+                <div id="ips-block-by-taxo-18" class="widget ips_block_news"><div class="widgetinner"><h1 class="section"><a href="http://www.ipsnews.net/articletype/opinion/">Opinion</a></h1><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/48517647552_c791375758_z-629x417-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/working-animals-role-in-sdgs-and-addressing-climate-change-pandemic-crises/" rel="bookmark">Working animals’ Role in SDGs and Addressing Climate Change, Pandemic Crises</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/mike-barker/" title="Posts by Mike Barker">Mike Barker</a>  and <a href="http://www.ipsnews.net/author/roly-owners/" title="Posts by Roly Owners">Roly Owners</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/mentalhealth-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/train-faith-leaders-tackle-africas-mental-health-needs/" rel="bookmark">Train Faith Leaders to Tackle Africa’s Mental Health Needs</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/chiwoza-bandawe/" title="Posts by Chiwoza Bandawe">Chiwoza Bandawe</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Maria-5_-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/urban-poor-fighting-back-covid-19/" rel="bookmark">The Urban Poor are Fighting Back Against COVID-19</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/mbaye-mbeguere/" title="Posts by Mbaye Mbeguere">Mbaye Mbeguere</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Alianza-Ceibo_-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/indigenous-peoples-local-communities-offer-best-hope-planetary-emergency/" rel="bookmark">Indigenous Peoples &#038; Local Communities Offer Best Hope for Our Planetary Emergency</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/yoko-watanabe/" title="Posts by Yoko Watanabe">Yoko Watanabe</a>  and <a href="http://www.ipsnews.net/author/nina-kantcheva/" title="Posts by Nina Kantcheva">Nina Kantcheva</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><div style="clear: both;"></div></div></div></div>
+            </div>
+        
+
+            <hr class="clear" />	
+
+            
+<div id="linksbar_wrap">            
+<ul class="slider">
+<li>
+<a href="http://ipsnews.net/topics/agricultural-research/">
+<img src="http://www.ipsnews.net/Library/2020/10/04b29834d5eaae970f3148738e22eebd-130x130.jpg" width="130" height="130" alt="Agricultural Research" title=" " /></a>
+<div>
+<a href="http://ipsnews.net/topics/agricultural-research/">
+<span class="title">Agricultural Research</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/news/projects/caribbean-climate-wire/">
+<img src="http://www.ipsnews.net/Library/2020/10/4b51a2a8ba4f9597794090da8810ed54-130x130.jpg" width="130" height="130" alt="Caribbean Climate Wire" title="Caribbean Climate Wire" /></a>
+<div>
+<a href="http://www.ipsnews.net/news/projects/caribbean-climate-wire/">
+<span class="title">Caribbean Climate Wire</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/news/environment/advancing-deserts/">
+<img src="http://www.ipsnews.net/Library/2020/10/a5b03307a0d9a75f3e641dd882670fe8-130x130.jpg" width="130" height="130" alt="Combating Desertification and Drought" title="Combating Desertification and Drought" /></a>
+<div>
+<a href="http://www.ipsnews.net/news/environment/advancing-deserts/">
+<span class="title">Combating Desertification and Drought</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/news/development-aid/food-agriculture/">
+<img src="http://www.ipsnews.net/Library/2020/10/612f19962b5e8b08caa6ee05db3703fe-130x130.jpg" width="130" height="130" alt="Food &amp; Agriculture" title="Food &amp; Agriculture" /></a>
+<div>
+<a href="http://www.ipsnews.net/news/development-aid/food-agriculture/">
+<span class="title">Food &amp; Agriculture</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/news/projects/integration-and-development-brazilian-style-projects/">
+<img src="http://www.ipsnews.net/Library/2020/10/3a2c6dc813d9bbc44745e459850989af-130x130.jpg" width="130" height="130" alt="Integration and Development Brazilian-style" title="Integration and Development Brazilian-style" /></a>
+<div>
+<a href="http://www.ipsnews.net/news/projects/integration-and-development-brazilian-style-projects/">
+<span class="title">Integration and Development Brazilian-style</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/topics/parliamentary-front-against-hunger/">
+<img src="http://www.ipsnews.net/Library/2020/10/2aef6fa535a7424f73af786cd8b0050d-130x130.jpg" width="130" height="130" alt="Parliamentarians Against Hunger" title="Parliamentarians Against Hunger" /></a>
+<div>
+<a href="http://www.ipsnews.net/topics/parliamentary-front-against-hunger/">
+<span class="title">Parliamentarians Against Hunger</span> 
+</a></div></li>
+<li>
+<a href="http://www.ipsnews.net/topics/right-to-food/">
+<img src="http://www.ipsnews.net/Library/2020/10/a8444ad564697d5980188d6ba8e4827d-130x130.jpg" width="130" height="130" alt="Right To Food" title="Right To Food" /></a>
+<div>
+<a href="http://www.ipsnews.net/topics/right-to-food/">
+<span class="title">Right To Food</span> 
+</a></div></li>
+</ul>
+ 
+</div>
+
+<script type="text/javascript">
+(function($) { $(document).ready(function(){
+	    if($('#linksbar_wrap .slider').length > 0) {
+            $('#linksbar_wrap .slider').bxSlider({
+                displaySlideQty: 4,    
+                moveSlideQty: 1,
+                auto:true,
+                autoHover:true,
+                pager:false,
+                pause:4500,
+                controls:true
+            });        
+        };
+})})(jQuery)	
+</script>         
+            <hr class="clear" />
+
+			<!-- comienzo banner horiz  -->	 
+ <div class="wdgt_wrapper">
+
+
+<div align="left">ADVERTISEMENT</div>
+<div align="left">
+<script async
+src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive ipsnews -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6412117467229435"
+     data-ad-slot="7489331589"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div align="left">ADVERTISEMENT</div>
+		
+</div>
+<!-- fin banner horiz -->	
+
+			<hr class="clear" />
+			
+            <div class="half-prim left">
+                <div id="ips-block-by-taxo-17" class="widget ips_block_news"><div class="widgetinner"><h1 class="section"><a href="http://www.ipsnews.net/news/editors-choice/">Editors&#8217; Choice</a></h1><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Nila-Kispotta-poses-for-a-photo-along-with-other-family-members-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/changing-the-lives-of-bangladeshs-rural-girls-by-giving-them-a-tertiary-education/" rel="bookmark">Changing the Lives of Bangladesh’s Rural Girls by Giving them a Tertiary Education</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/farid-ahmed/" title="Posts by Farid Ahmed">Farid Ahmed</a> | <a href="http://www.ipsnews.net/primary-region/asia-pacific/" class="taxo">Asia-Pacific</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/CE-Wilson-Fish-Market-Auki-Malaita-Solomon-Islands-180413-1-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/how-the-pacific-islands-are-balancing-covid-19-survival-demands-on-coastal-fisheries-with-sustainable-management/" rel="bookmark">How the Pacific Islands are Balancing COVID-19 Survival Demands on Coastal Fisheries with Sustainable Management</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/catherine-wilson/" title="Posts by Catherine Wilson">Catherine Wilson</a> | <a href="http://www.ipsnews.net/primary-region/asia-pacific/" class="taxo">Asia-Pacific</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Nobel-Peace-Prize_-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/nobel-peace-prize-world-food-programme-delivering-life-saving-sustenance-millions-worldwide/" rel="bookmark">Nobel Peace Prize to World Food Programme Delivering Life-Saving Sustenance to Millions Worldwide</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/thalif-deen/" title="Posts by Thalif Deen">Thalif Deen</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/20180317_122842-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed"><a href="http://www.ipsnews.net/2020/10/poverty-official-complicity-hampers-human-trafficking-fight-malawi/" rel="bookmark">Poverty, Official Complicity Hampers Human Trafficking Fight in Malawi</a></h2><span class="meta fixed"><a href="http://www.ipsnews.net/author/charles-mpaka/" title="Posts by Charles Mpaka">Charles Mpaka</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><div style="clear: both;"></div></div></div></div>
+            </div>
+        
+            <div class="half-prim right">
+                <div id="ips-rss-reader-14" class="widget ips_list_news"><div class="widgetinner"><h1 class="section"><a href="http://www.ipsnews.net/news/global-governance/united-nations/" target="new">IPS UN: Inside the Glasshouse</a></h1><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/29735334417_6c62b1187a_c-300x223-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed" ><a href="http://www.ipsnews.net/2020/10/improving-peoples-lives-digital-technology-covid-19/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=improving-peoples-lives-digital-technology-covid-19" rel="bookmark">Improving People’s Lives with Digital Technology during COVID-19</a></h2><span class="meta fixed" >Samira Sadeque</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Alianza-Ceibo_-300x200-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed" ><a href="http://www.ipsnews.net/2020/10/indigenous-peoples-local-communities-offer-best-hope-planetary-emergency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=indigenous-peoples-local-communities-offer-best-hope-planetary-emergency" rel="bookmark">Indigenous Peoples &amp; Local Communities Offer Best Hope for Our Planetary Emergency</a></h2><span class="meta fixed" >Yoko Watanabe  and Nina Kantcheva</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/7108672545_cb2c9d2bda_c-300x202-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed" ><a href="http://www.ipsnews.net/2020/10/qa-women-mali-play-critical-role-preventing-resolving-conflicts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qa-women-mali-play-critical-role-preventing-resolving-conflicts" rel="bookmark">Q&amp;A: Women in Mali Play Critical Role in Preventing and Resolving Conflicts</a></h2><span class="meta fixed" >Samira Sadeque</span><div style="clear: both;"></div></div><div class="content_block"><img class="alignleft minithumb" src="http://www.ipsnews.net/Library/2020/10/Nobel-Peace-Prize_-300x200-50x50.jpg" width="50" height="50" alt="" title="" /></a>
+<h2 class="fixed" ><a href="http://www.ipsnews.net/2020/10/nobel-peace-prize-world-food-programme-delivering-life-saving-sustenance-millions-worldwide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nobel-peace-prize-world-food-programme-delivering-life-saving-sustenance-millions-worldwide" rel="bookmark">Nobel Peace Prize to World Food Programme Delivering Life-Saving Sustenance to Millions Worldwide</a></h2><span class="meta fixed" >Thalif Deen</span><div style="clear: both;"></div></div></div></div>
+            </div>
+            
+            
+            <hr class="clear" />
+        
+        
+        <div class="wdgt_wrapper">
+        <div class="hwdgetlft">
+            <div id="text-22" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><a class="twitter-timeline" data-height="600" href="https://twitter.com/ipsnews?ref_src=twsrc%5Etfw" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);">Tweets by ipsnews</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+		</div></div>
+        </div>
+
+        <div class="hwdgetrgt">
+                    <div id="social-fb-14" class="widget widget_social_FB"><div class="widgetinner"> <!--               
+       <iframe id="likeit" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fipsnews&amp;send=false&amp;layout=button_count&amp;width=160&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0"></iframe>
+        <div class="recomm" style="height: 300px;">
+            <hr />
+            <iframe src="//www.facebook.com/plugins/recommendations.php?site=ipsnews.net&amp;width=300&amp;height=650&amp;header=false&amp;colorscheme=light&amp;linktarget=_blank&amp;border_color=%23ffffff&amp;font" scrolling="no" frameborder="0" style="width: 300px; height:650px"></iframe>
+        </div> 
+         -->
+<div class="fb-page" data-href="http://www.facebook.com/ipsnews" data-tabs="timeline" data-width="300" data-height="650" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="http://www.facebook.com/ipsnews"><a href="http://www.facebook.com/ipsnews">IPS News Agency</a></blockquote></div></div>
+		
+	
+		
+		
+        </div></div>
+            </div>
+
+
+		
+
+
+        
+        </div>
+ <hr class="clear" />
+		<!-- comienzo banner horiz  -->	 
+ <div class="wdgt_wrapper">
+
+
+<div align="left">ADVERTISEMENT</div>
+<div align="left">
+<script async
+src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive ipsnews -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6412117467229435"
+     data-ad-slot="7489331589"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div align="left">ADVERTISEMENT</div>
+		
+</div>
+<!-- fin banner horiz -->	
+
+        
+		</div><!-- primary-content end -->
+
+<div class="sidebar">
+	<div id="text-80" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><p><iframe width="300" height="169" src="https://www.youtube.com/embed/cfvuEhuTCMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+		</div></div>
+<div id="text-24" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><iframe width="300" height="169" src="https://www.youtube.com/embed/ax9LMKEVoHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		</div></div>
+<div id="text-51" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><DIV ALIGN=RIGHT>ADVERTISEMENT<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6412117467229435";
+/* ipsnews sidebar */
+google_ad_slot = "9301928967";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>ADVERTISEMENT</DIV></div>
+		</div></div>
+<div id="custom_html-9" class="widget_text widget widget_custom_html"><div class="widget_text widgetinner"><div class="textwidget custom-html-widget">   <script type="text/javascript">
+    (function($) { $(document).ready(function(){
+$("#sliderohingya > div:gt(0)").hide();
+
+setInterval(function() {
+  $('#sliderohingya > div:first')
+    .fadeOut(1500)
+    .next()
+    .fadeIn(1500)
+    .end()
+    .appendTo('#sliderohingya');
+}, 7000);
+    })})(jQuery)
+    </script> 
+
+<style>
+
+#sliderohingya { 
+    position: relative; 
+    width: 300px; 
+    height: 300px; 
+}
+
+#sliderohingya > div { 
+    position: absolute; 
+}
+
+</style>
+
+
+
+<div id="sliderohingya">
+   <div>
+    <a href="http://www.ipsnews.net/topics/tales-of-the-21st-century-rohingyas-without-a-state/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/09/Rohingyas-banner.gif" alt="Tales of the 21st Century: Rohingyas Without a State" border="0" /></a>
+   </div>
+
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/09/rohyinga-slider-01-Copia.jpg" alt="Donate" border="0" /></a>
+   </div>
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/08/rohyinga-slider-02-NL.jpg" alt="Donate" border="0" /></a>
+   </div>
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/08/rohyinga-slider-03-NL.jpg" alt="Donate" border="0" /></a>
+   </div>
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/_adv/r-slider3/rohyinga-slider-04.jpg" alt="Donate" border="0" /></a>
+   </div>
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/_adv/r-slider3/rohyinga-slider-05.jpg" alt="Donate" border="0" /></a>
+   </div>
+   <div>
+    <a href="https://www.mightycause.com/forms/Ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.mightycause.com']);" target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/_adv/r-slider3/rohyinga-slider-06.jpg" alt="Donate" border="0" /></a>
+   </div>  
+
+</div></div></div></div>
+<div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget_text widgetinner"><div class="textwidget custom-html-widget"><!--<center><a href="http://www.ipsnews.net/news/environment/advancing-deserts/"  target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/_adv/suelos300c.jpg" alt="COMBATING DESERTIFICATION AND DROUGHT" width="300" border="0" /></a></center>-->
+<center><a href="http://www.ipsnews.net/news/projects/education-cannot-wait/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/09/ECW_new.gif" alt="Education Cannot Wait. Future of Education is here" width="300" border="0" /></a></center></div></div></div>
+        <div id="ips-fidelize-6" class="widget ips_fidelize"><div class="widgetinner">            <div id="client_sign">        
+            <a href="http://www.ipsnews.net/subscribe/" target="_blank">Subscribe</a>
+            <a href="http://www.ipsnews.net/reprinting-articles/" target="_blank">Reprint</a>
+            <a href="https://www.mightycause.com/organization/Ipsnews" target="_blank">Donate</a>			
+            </div>
+        </div></div>
+    <div id="custom_html-11" class="widget_text widget widget_custom_html"><div class="widget_text widgetinner"><div class="textwidget custom-html-widget"><center><a href="http://www.ipsnews.net/news/projects/food-sustainability/"  target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/Library/2019/03/food-sustainability3.jpg" alt="FOOD SUSTAINABILITY" width="300" border="0" /></a></center></div></div></div>
+<div id="text-67" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><p><center><a href="http://www.ipsnews.net/ips-capacity-building-knowledge-sharing-and-communicating-for-change-workshops-in-201617/ "  target="_blank" rel="noopener"><img src="http://cdn.ipsnews.net/Library/2018/12/bonn300z7.jpg" width="300" border="0" /></a></center></p>
+</div>
+		</div></div>
+<div id="text-38" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><!--<div align="center"><a href="http://www.ipsnotizie.it/wam_en/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.ipsnotizie.it']);" target="_blank" alt="Gulf News Agencies"><img src="http://cdn.ipsnews.net/wp-content/themes/ipsnews/ads/gna.gif" border="0" width="197" height="53"></a></div>-->
+<!--
+<div align="center"><a href="http://www.ipsnotizie.it/wam_en/" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.ipsnotizie.it']);" target="_blank" alt="Gulf News Agencies"><img src="http://cdn.ipsnews.net/_adv/wam_240.jpg" border="0"></a></div>
+-->
+<!--<div align="center"><a href="http://ipsnews.net/wam/en/"  target="_blank" alt="Gulf News Agencies"><img src="http://www.ipsnews.net/Library/2018/11/wam3_.jpg" border="0"></a></div>
+
+<br /><div style="margin: 0 0 15px;"><ul style="clear: both; padding-left: 11px; list-style-position: inside;"><div style="background: url(http://cdn.ipsnews.net/wp-content/themes/ipsnews/images/latest-bullet.png) left 4px no-repeat;"><a style="font-size: 11px; color: #111; line-height: 15px; margin: 0 0 0 8px; padding-left: 8px;" href="" target="_blank"></a></div></ul></div>-->
+
+<center><a href="http://www.ipsnews.net/topics/jomo-kwame-sundaram-anis-chowdhury/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2019/02/Jomo-small-banner_index.jpg" alt="" border="0" /></a></center>
+</div>
+		</div></div>
+<div id="text-28" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><!--<center><a href="http://www.ipsnews.net/un-sec-general-world-day-trafficking-persons/"  target="_blank"><img src="http://www.ipsnews.net/Library/2018/07/UN-secretary-msg.jpg" border="0" width="300"></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/11/ignoring-murder-journalist-name-national-interest/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/11/Jan-Lundius_banner.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/11/ignoring-murder-journalist-name-national-interest/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/11/jan-lundius_small_banner_title.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/12/bother-world-war/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/12/jan-lundius_small_banner_title_2.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/12/power-sexual-abuse-danger-doubling/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/12/jan-lundius_small_banner_title_3.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/12/no-one-listened-us-ixiles-guatemala/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/12/jan-lundius_small_banner_title_4.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2018/12/dark-shadows-christmas/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2018/12/jan-lundius_small_banner_title_5.jpg" alt="" border="0" /></a></center>-->
+
+<!--<center><a href="http://www.ipsnews.net/2019/01/is-love-an-embarrassment/"  target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2019/01/jan-lundius_small_banner_title_8.jpg" alt="" border="0" /></a></center>-->
+
+<center><a href="http://www.ipsnews.net/2020/10/the-lebanese-disaster/" target="_blank" rel="noopener"><img src="http://www.ipsnews.net/Library/2020/10/jan-lundius_small_banner_title_64.jpg
+"  alt="" border="0" /></a></center></div>
+		</div></div>
+<div id="text-65" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><div class="widgetinner">        
+<span class="metanewsletter">
+<img src="/img/transparente.gif" width="285" height="75">
+
+<center>
+<form action="http://ipsnews.us4.list-manage.com/subscribe/post?u=0dd374a7b72cb94380e42953a&amp;id=d4541c43f6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+<input type="email" value="your email" name="EMAIL" class="required email" id="mce-EMAIL" size="15">
+<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="bordeaux_bold">
+</form>
+
+</center>
+<img src="/img/transparente.gif" width="285" height="15">
+<h1 class="newsletter">IPS Daily Report</h1>
+
+  </span> 
+  </div>       
+ </div>
+		</div></div>
+<div id="ips-popular-posts-10" class="widget ips_list_news"><div class="widgetinner"><h1 class="section">Most Read</h1><ul><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/social-audit-reforms-labor-rights-ruse/" rel="bookmark">Social Audit Reforms and the Labor Rights Ruse</a></h2><!-- vistas: 1838--><!-- id: 168769--><span class="meta"><a href="http://www.ipsnews.net/author/aruna-kashyap/" title="Posts by Aruna Kashyap">Aruna Kashyap</a> | <a href="http://www.ipsnews.net/news/economy-trade/labour/" class="taxo">Labour</a> | <a href="http://www.ipsnews.net/primary-region/asia-pacific/" class="taxo">Asia-Pacific</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/uniting-support-african-girl-leaders-beat-aids-shift-power/" rel="bookmark">Why We’re Uniting in Support of African Girl Leaders to beat AIDS &#038; Shift Power</a></h2><!-- vistas: 1388--><!-- id: 168786--><span class="meta"><a href="http://www.ipsnews.net/author/winnie-byanyima-audrey-azoulay-natalia-kanem/" title="Posts by Winnie Byanyima, Audrey Azoulay, Natalia Kanem, Henrietta Fore and Phumzile Mlambo-Ngcuka">Winnie Byanyima, Audrey Azoulay, Natalia Kanem, Henrietta Fore and Phumzile Mlambo-Ngcuka</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/gendering-agriculture-women-take-lead-feeding-africa/" rel="bookmark">Gendering Agriculture so Women Take the Lead in Feeding Africa</a></h2><!-- vistas: 1159--><!-- id: 168808--><span class="meta"><a href="http://www.ipsnews.net/author/rhoda-tumusiime/" title="Posts by Rhoda Tumusiime">Rhoda Tumusiime</a>  and <a href="http://www.ipsnews.net/author/steven-cole/" title="Posts by Steven Cole">Steven Cole</a> | <a href="http://www.ipsnews.net/primary-region/africa/" class="taxo">Africa</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/wreckage-trumps-presidency/" rel="bookmark">The Wreckage Of Trump’s Presidency*</a></h2><!-- vistas: 1094--><!-- id: 168773--><span class="meta"><a href="http://www.ipsnews.net/author/alon-ben-meir/" title="Posts by Alon Ben-Meir">Alon Ben-Meir</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span><h2 class="wdgt"><a href="http://www.ipsnews.net/2020/10/can-colonialism-reversed-uns-declaration-rights-indigenous-peoples-provides-answers/" rel="bookmark">Can Colonialism be Reversed? The UN&#8217;s Declaration on the Rights of Indigenous Peoples Provides Some Answers</a></h2><!-- vistas: 942--><!-- id: 168768--><span class="meta"> | <a href="http://www.ipsnews.net/news/human-rights/indigenous-rights/" class="taxo">Indigenous Rights</a> | <a href="http://www.ipsnews.net/primary-region/global/" class="taxo">Global</a></span></div></div>
+<div id="custom_html-7" class="widget_text widget widget_custom_html"><div class="widget_text widgetinner"><div class="textwidget custom-html-widget"><!--<center>
+<a href="http://www.ipsnews.net/news/headlines"  target="_blank"><img src="http://cdn.ipsnews.net/_adv/KA-Portrait240.jpg" border="0" alt="Kofi Annan"></a>
+</center>-->
+
+
+    <script type="text/javascript">
+    (function($) { $(document).ready(function(){
+$("#slideshowX > div:gt(0)").hide();
+
+setInterval(function() {
+  $('#slideshowX > div:first')
+    .fadeOut(2000)
+    .next()
+    .fadeIn(2000)
+    .end()
+    .appendTo('#slideshowX');
+}, 6500);
+    })})(jQuery)
+    </script> 
+
+<style>
+
+#slideshowX { 
+    position: relative; 
+    width: 300px; 
+    height: 280px; 
+}
+
+#slideshowX > div { 
+    position: absolute; 
+}
+
+</style>
+
+
+
+<div id="slideshowX">
+
+   <div>
+    <img src="http://cdn.ipsnews.net/_adv/shirin.jpg" width="300" height="280" alt="Shirin Ebadi" title="Shirin Ebadi">
+   </div>
+   <div>
+     <img src="http://cdn.ipsnews.net/_adv/mairead300x300b.jpg" width="300" height="280" alt="Mairead Maguire" title="Mairead Maguire">
+   </div>
+
+
+   <div>
+    <img src="http://cdn.ipsnews.net/_adv/KA-Portrait300.jpg" width="300" height="280" alt="Kofi Annan" title="Kofi Annan">
+   </div>
+   <div>
+     <img src="http://cdn.ipsnews.net/_adv/ban-ki-moon300x280b.jpg" width="300" height="280" alt="Ban Ki-Moon" title="Ban Ki-Moon">
+   </div>
+   <div>
+     <img src="http://cdn.ipsnews.net/_adv/muhammad-yunus-3.jpg" width="300" height="280" alt="Muhammad Yunus" title="Muhammad Yunus">
+   </div>
+   <div>
+     <img src="http://cdn.ipsnews.net/_adv/horta3a.jpg" width="300" height="280" alt="José Ramos-Horta" title="José Ramos-Horta">
+   </div>
+   <div>
+     <img src="http://cdn.ipsnews.net/_adv/horta3.jpg" width="300" height="280" alt="José Ramos-Horta" title="José Ramos-Horta">
+   </div>
+
+</div></div></div></div>
+<div id="text-73" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><DIV ALIGN=RIGHT>ADVERTISEMENT
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ips 300 x 600 large skyscraper -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-6412117467229435"
+     data-ad-slot="9713413980"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ADVERTISEMENT</DIV></div>
+		</div></div>
+</div><!--WPFC_FOOTER_START--><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-361073-1', 'ipsnews.net');
+  ga('send', 'pageview');
+</script>
+<!-- Google analytics --><div class="clear"></div>
+</div><!-- end of wrapper -->
+<div id="footer">
+<div class="foot_menu_wrapper">
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
+<ul id="menu-regional" class="foot_menu"><li id="menu-item-102161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102161"><a href="http://www.ipsnews.net/news/regional-categories/africa/">Africa</a></li>
+<li id="menu-item-102162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102162"><a href="http://www.ipsnews.net/news/regional-categories/asia-pacific/">Asia-Pacific</a></li>
+<li id="menu-item-102163" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-102163"><a href="http://www.ipsnews.net/news/regional-categories/europe/">Europe</a></li>
+<li id="menu-item-102164" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102164"><a href="http://www.ipsnews.net/news/regional-categories/latin-america-and-caribbean/">Latin America &amp; the Caribbean</a></li>
+<li id="menu-item-102165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102165"><a href="http://www.ipsnews.net/news/regional-categories/middle-east/">Middle East &amp; North Africa</a></li>
+<li id="menu-item-102166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102166"><a href="http://www.ipsnews.net/news/regional-categories/north-america/">North America</a></li>
+<li id="menu-item-102167" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-parent current-post-parent menu-item-102167"><a href="http://www.ipsnews.net/news/regional-categories/global/">Global</a></li>
+</ul><ul id="menu-subscriptions" class="foot_menu"><li id="menu-item-106148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106148"><a href="http://www.ipsnews.net/follow-ips/">Newsletter</a></li>
+<li id="menu-item-105787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105787"><a href="http://www.ipsnews.net/rss-feeds/">RSS</a></li>
+<li id="menu-item-106957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106957"><a href="http://www.ipsnews.net/subscribe/">Subscribe</a></li>
+<li id="menu-item-106770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106770"><a href="http://www.ipsnews.net/reprinting-articles/">Reprint / Republish</a></li>
+<li id="menu-item-107164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107164"><a href="http://www.ips.org" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.ips.org']);">Institutional site</a></li>
+</ul><ul id="menu-contact-footer" class="foot_menu"><li id="menu-item-105771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105771"><a href="http://www.ipsnews.net/contact-us/">Contact Us</a></li>
+<li id="menu-item-105927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105927"><a href="http://www.ipsnews.net/our-partners/">Our Partners</a></li>
+<li id="menu-item-99996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99996"><a href="https://www.mightycause.com/organization/Ipsnews">Donate</a></li>
+<li id="menu-item-105772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105772"><a href="http://www.ipsnews.net/about-us/">About Us</a></li>
+<li id="menu-item-105772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105772"><a href="http://www.ipsnews.net/our-team/">Our Team</a></li>
+</ul><ul id="menu-other-options-site" class="foot_menu"><li id="menu-item-106149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106149"><a href="http://www.ipsnews.net/follow-ips/">Follow IPS</a></li>
+<li id="menu-item-100000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100000"><a href="http://twitter.com/ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://twitter.com']);">Twitter</a></li>
+<li id="menu-item-100001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100001"><a href="http://facebook.com/ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://facebook.com']);">Facebook</a></li>
+<li id="menu-item-100002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100002"><a href="https://plus.google.com/s/ipsnews" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://plus.google.com']);">Google +</a></li>
+</ul>
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
+</div>
+<div class="clear"></div>
+<p class="copy">IPS is an international communication institution with a global news agency at its core,
+raising the voices of the South  <br>and civil society on issues of development, globalisation, human rights and the environment <br>
+<a href='http://www.ipsnews.net/copyright/'>Copyright &copy; 2020  IPS-Inter Press Service. All rights reserved. </a> - <a href='http://www.ipsnews.net/terms-conditions/'>Terms &amp; Conditions </a>
+</p>
+
+<style type="text/css">
+    #wpfront-notification-bar 
+    {
+        background: #fad000;
+        background: -moz-linear-gradient(top, #fad000 0%, #fad000 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fad000), color-stop(100%,#fad000));
+        background: -webkit-linear-gradient(top, #fad000 0%,#fad000 100%);
+        background: -o-linear-gradient(top, #fad000 0%,#fad000 100%);
+        background: -ms-linear-gradient(top, #fad000 0%,#fad000 100%);
+        background: linear-gradient(to bottom, #fad000 0%, #fad000 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fad000', endColorstr='#fad000',GradientType=0 );
+    }
+
+    #wpfront-notification-bar div.wpfront-message
+    {
+        color: #004d91;
+    }
+
+    #wpfront-notification-bar a.wpfront-button
+    {
+        background: #004d91;
+        background: -moz-linear-gradient(top, #004d91 0%, #004d91 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#004d91), color-stop(100%,#004d91));
+        background: -webkit-linear-gradient(top, #004d91 0%,#004d91 100%);
+        background: -o-linear-gradient(top, #004d91 0%,#004d91 100%);
+        background: -ms-linear-gradient(top, #004d91 0%,#004d91 100%);
+        background: linear-gradient(to bottom, #004d91 0%, #004d91 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004d91', endColorstr='#004d91',GradientType=0 );
+
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar-open-button
+    {
+        background-color: #004d91;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close 
+    {
+        border: 1px solid #004d91;
+        background-color: #004d91;
+        color: #fad000;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close:hover 
+    {
+        border: 1px solid #ffffff;
+        background-color: #ffffff;
+    }
+</style>
+
+<div id="wpfront-notification-bar-spacer" style="display: none;">
+<div id="delnorber" class="delnorber">
+    <div id="wpfront-notification-bar-open-button" class="bottom wpfront-top-shadow"></div>
+    <div id="wpfront-notification-bar" class="wpfront-fixed ">
+                    <div class="wpfront-close">X</div>
+        <table cellspacing="0" cellpadding="0" border="0">
+              <tr>
+                <td rowspan="3" width="100"> &nbsp; &nbsp; </td>
+                <td colspan="2"><hr style="border: solid #004d91; border-width: 1px 0 0; clear: both; margin: 22px 0 21px; height: 0;"></td>
+                <td rowspan="3" width="100"> &nbsp; &nbsp; </td>
+              </tr>
+              <tr>
+                <td>
+                    <div class="wpfront-message">
+                       <div class="ncont">
+    <div><img src="http://cdn.ipsnoticias.net/wp-content/themes/ips-spa/images/logo-IPS.jpg"><br /><br /></div>
+    <div><div class="wpfront-norber">You have the Power to Make a Difference</div><br /><br /><div class="wpfront-norber2">Would you consider a $20.00 contribution today that will help to keep the IPS news wire active? Your contribution will make a huge difference. </div></div>
+    <div><br /><a class="wpfront-button" href="https://www.mightycause.com/organization/Ipsnews" target="_blank">Make a Difference</a>                                                                      </div>
+</div>                    </div></td><td>
+                    <div>
+                                            </div>
+               </td>
+              </tr>
+			              <tr>
+                <td colspan="2"><hr style="border: solid #004d91; border-width: 1px 0 0; clear: both; margin: 22px 0 21px; height: 0;"></td>
+              </tr>
+</table>
+    </div>
+</div>
+
+</div>
+
+<style type="text/css">
+.ncont {
+    font-size: 0; /*fix white space*/
+}
+.ncont > div {
+    font-size: 16px; /*reset font size*/
+    display: inline-block;
+    vertical-align: top;
+    width: 33.33%;
+
+    box-sizing: border-box;
+    text-align: center;
+}
+@media (max-width: 480px) { /*breakpoint*/
+    .ncont > div {
+        display: block;
+        width: 100%;
+    }
+}
+
+.wpfront-norber
+{
+font-family:"Open Sans", sans-serif;
+font-size:22px;
+font-weight:bold;
+line-height:normal;
+text-align: left;
+/*text-shadow: -3px 3px 3px #827d82;*/
+}
+
+.wpfront-norber2
+{
+font-family:"Open Sans", sans-serif;
+font-size:18px;
+font-weight: bold;
+line-height:normal;
+text-align: left;
+/*text-shadow: -3px 3px 3px #827d82;*/
+}</style>
+<script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":2,"height":0,"fixed_position":"on","animate_delay":0.5,"close_button":true,"button_action_close_bar":"on","auto_close_after":0,"display_after":3,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":"on","keep_closed_for":0,"position_offset":0,"display_scroll":"on","display_scroll_offset":100});</script><!-- Powered by WPtouch: 4.1.1 --><script type='text/javascript' src='http://www.ipsnews.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ipsnews.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://www.ipsnews.net/wp-includes/js/wp-embed.min.js'></script>
+</div><!-- /footer -->  
+<script type="text/javascript">
+(function($) { $(document).ready(function(){
+$('#lang').hover(function () {    
+$('#lang ul').stop(true, true).fadeIn();
+}, function () {
+$('#lang ul').stop(true, true).fadeOut();
+});
+$('.print_this').click(function(e) {
+e.preventDefault();
+if(!$('#header_print').length) {
+var hr = '<hr class="print" />';
+$('#mainmenu').after(hr);
+}
+if(!$('#footer_print').length) {
+var pie = '<div id="footer_print"><hr class="print" />http://www.ipsnews.net/2020/10/working-animals-role-in-sdgs-and-addressing-climate-change-pandemic-crises/<br />&copy; Copyright IPS. All rights reserved.<hr class="print" /></div>';                  
+$('.archive .entry').after(pie);
+}
+window.print();
+setTimeout(function() { 
+$('#header_print, #footer_print').remove();
+},
+1500
+);
+});
+})})(jQuery)	
+</script>
+</body>
+</html>

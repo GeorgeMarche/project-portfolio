@@ -1,0 +1,956 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Ministry of Health & Family Welfare-Government of India">
+<meta name="description" content="Ministry of Health & Family Welfare-Government of India">
+<meta name="keywords" content="Ministry of Health & Family Welfare-Government of India, Department, Health, Government, Govt, India, Delhi, Family, Welfare, Child, Mother, Disease, Heart, Eye, Ear, Blind">
+<title>Home :: Central TB Division</title>
+<!--[if IE 7 ]>
+<style type="text/css">
+html{overflow-x: hidden;}
+.topsearchmain{
+width:90% !important;
+}
+</style>
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://tbcindia.gov.in/creamtheme.css">
+<link type="text/css" rel="stylesheet" href="https://tbcindia.gov.in/print.css" media="print">
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery-1.4.4.js"></script>
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery1.9.0.js"></script>
+<script>  var Js190 = jQuery.noConflict(true);</script>
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery.ui.core.js"></script> 
+<script type="text/javascript" src="https://tbcindia.gov.in/js/custom_result.js"></script>
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery.ui.widget.js"></script> 
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery.ui.autocomplete.js"></script> 
+<script type="text/javascript" src="https://tbcindia.gov.in/js/jquery.ui.position.js"></script> 
+<script src="https://tbcindia.gov.in/js/auto.js"> </script> 
+<script type="text/javascript" src="https://tbcindia.gov.in/js/amazon_scroller.js"></script>
+<script type="text/javascript" src="https://tbcindia.gov.in/js/mootools.js"></script>
+<script type="text/javascript" src="https://tbcindia.gov.in/js/visualslideshow.js"></script>
+<script language="javascript" type="text/javascript">
+			Js190(document).ready(function() { 
+				
+ Js190(".amazon_scroller").amazon_scroller({
+                    scroller_title_show: 'disable',
+                    scroller_time_interval: '5000',
+                    scroller_window_background_color: "#ffffff",
+                    scroller_window_padding: '10',
+                    scroller_border_size: '0',
+                    scroller_border_color: '#000',
+                    scroller_images_width: '173.5',
+                    scroller_images_height: '10%',
+                    scroller_title_size: '0',
+                    scroller_title_color: 'black',
+                    scroller_show_count: '5',
+                    directory: 'images'
+                });
+				
+				Js190(".printfriendly a").click(function() { 
+								$("link").attr("href",$(this).attr('rel')); 
+								return false; 
+				}); 
+			});
+				
+			$(document).bind('keydown', function(e) {
+                var code = (e.keyCode ? e.keyCode : e.which);
+				
+                if (e.ctrlKey && e.keyCode == 80) {
+					//alert("Print");
+                     $("link").attr("href",$('.printfriendly a').attr('rel'));
+					 $('#style-normal').css("")
+					 window.print();
+                   // return false;
+                }            
+            });
+			
+			$(document).ready(function() { 
+				Js190('body').css('font-size','100%');
+				Js190('.contentmain1').css('color','#000000');
+				Js190('.contentmain1').css('background-color','#ffffff');
+				Js190('.contentmain1 a').css('color','SaddleBrown');
+				Js190('.contentmain1 a:hover').css('color','SaddleBrown');
+			});
+			
+</script>
+<link type="text/css" href="https://tbcindia.gov.in/css/jquery.ui.all.css" rel="stylesheet"> 
+<link href="https://tbcindia.gov.in/css/custom_result.css" rel="stylesheet" type="text/css">
+<script> 
+settings = new Array(); 
+settings["searchServer"] = "http://goisas.nic.in"; 
+settings["textBoxId"] = "q"; 
+settings["callBackFunction"]="callBack"; 
+loadSuggestionControls(settings); 
+
+function callBack() 
+{ 
+	settings["q"]=document.getElementById('q').value; 
+	settings["count"] = "10"; 
+	settings["site"] = "mohfw.nic.in";
+	loadResultControls(settings);
+}
+ 
+settings = new Array(); 
+settings["searchServer"] = "http://goisas.nic.in"; 
+settings["textBoxId"] = "q"; 
+settings["q"]=""; 
+settings["site"] = "mohfw.nic.in";
+loadResultControls(settings);
+ 
+function modifySettings(key1) 
+{ 
+	 if(document.getElementById('q').value != null){ 
+	 	$('.contentmain1').hide();
+		$('.contentmain').hide();
+		$('#result_area').remove();
+		$('.left').after('<div id="result_area" align="left"></div>');
+		//$('.content-container1').after('<div id="result_area" align="left"></div>');
+		$("#result_area").show();
+		
+		 settings[key1]=document.getElementById('q').value; 
+		 settings["count"] = "10"; 
+		 settings["site"] = "mohfw.nic.in"; 
+		 loadResultControls(settings); 
+	 } 
+} 
+</script>
+</head>
+<body>
+<div class="big-wrapper">
+<div class="container">
+    <div class="header1"><div class="up">
+<div class="skipbox">
+<div class="lefttopskip">
+	<a class="mainlink" title="Skip Navigation" href="#maincont" style="font-size: 11px;">Skip Navigation</a>
+</div>
+<div class="lefttopfont" align="center">
+<a class="mainlink resizefont" title="Increase Font Size" href="/?font=Increase"><img alt="Increase Size" src="images/increase-font-icon.gif" style="vertical-align:middle;"></a>
+<a class="mainlink resizefont" title="Normal Font Size" href="/?font=Normal"><img alt="Default Size" src="images/normal-font-icon.gif" style="vertical-align:middle;"></a>
+<a class="mainlink resizefont" title="Decrease Font Size" href="/?font=Decrease"><img alt="Decrease Size" src="images/decrease-font-icon.gif" style="vertical-align:middle;"></a>
+</div>
+<div class="lefttoptheme">
+<span>Select Theme</span><br>
+<a class="mainlink resizefont" title="Blue Theme" href="/?theme=Blue"><img alt="Blue Theme" src="images/small-blue.png" style="vertical-align: middle;"></a>
+<a class="mainlink resizefont" title="Green Theme" href="/?theme=Green"><img alt="Green Theme" src="images/small-green.png" style="vertical-align: middle;"></a>
+<a class="mainlink resizefont" title="Brown Theme" href="/?theme=Brown"><img alt="Brown Theme" src="images/small-brown.png" style="vertical-align: middle;"></a>
+<a class="mainlink resizefont" title="Brown Theme" href="/?theme=Cream"><img alt="Cream Theme" src="images/small-cream.png" style="vertical-align: middle;"></a>
+
+
+
+<a class="mainlink resizefont" title="Standard View" href="/?Background=Light"><img alt="Standard View" src="images/a-light.gif" style="vertical-align: middle;"></a>
+<a class="mainlink resizefont" title="High Contrast View" href="/?Background=Dark"><img alt="High Contrast View" src="images/a-dark.gif" style="vertical-align: middle;"></a>
+</div>
+</div>
+<div class="toprightmenu">
+			<div class="toprightmenusub">
+			
+			<div class="feedback" style="color:blue; font-size:13px;"><b>Nikshay Sampark:</b> 1800-11-6666&nbsp;&nbsp;</div>
+			
+			<div class="feedback"><span class="sitemap">&nbsp;</span><a class="mainlink" title="Sitemap" href="sitemap.php">Sitemap</a>&nbsp;|&nbsp;</div>
+			<div class="feedback"><span class="help">&nbsp;</span><a class="mainlink" title="HELP" href="index1.php?lang=1&amp;level=0&amp;linkid=551&amp;lid=3065" >HELP</a>&nbsp;|&nbsp;</div>
+			
+			<div class="feedback" >
+			
+			<!--<form action="searchresult.php?lang=1" method="post">-->
+			<div class="topsearchmain">
+			<div class="searchtxt">
+			<input type="text" name="q" id="q" class="searchtxttxt" onkeyup="javascript:if(event.keyCode==13){modifySettings('q');}"/> 
+
+			<!--<input class="searchtxttxt" type="text" id="key" name="key">-->
+			</div>
+			<div class="searchbtn">
+			<button class="searchbtnbtn" type="submit" name="Update" onclick="modifySettings('q');"></button>
+			</div>
+			</div>
+<!--</form>--></div>
+
+    </div>
+</div>
+</div>
+<div class="header" title="Ministry of Health & Family Welfare - Government of India"><img title="Ministry of Health & Family Welfare - Government of India" alt="Ministry of Health & Family Welfare - Government of India" src="images/SaddleBrown-header.jpg" width="100%"></div>
+
+</div>
+       <div class="urlbar"><script type="text/javascript">
+	function chkSearch()
+	{
+	var mikExp = /[$\\,\\.\\<\\>\\!\\@\\\#%\^\&\*\(\)\[\]\+\_\{\}\`\~\=\|]/;
+	
+	if (document.srForm.key.value=="")
+	{
+		alert("Please Enter Key ");
+		document.srForm.key.focus();
+		document.srForm.key.select();
+		return false;
+	}
+	
+	if(document.srForm.key.value.search(mikExp) != -1) 
+	{
+		alert("Sorry, but the following characters\n\r\n\r@ ! $ % ^ & * # ( ) [ ] \\ { + } ` ~ = > < | \n\r\n\rare not allowed!\n");
+		document.srForm.key.focus();
+		document.srForm.key.select();
+		return false;
+	}
+    
+   if (document.srForm.key.value.length<=1)
+	{   
+
+		alert("Single Character is not Allowed");
+		document.srForm.key.focus();
+		document.srForm.key.select();
+		return false;
+	}
+	
+	if (document.srForm.key.value=='Search')
+		{
+		  alert("Please Enter Value");
+		  document.srForm.key.focus();
+		  return false;
+
+		}
+	}
+    
+    
+    function txt_focus()
+    {
+        var val = document.getElementById('key');
+        if(val.value == "Search")
+        {
+            val.value = "";
+        }
+    }
+	function txt_focus_out()
+    {
+        var val = document.getElementById('key');
+        if(val.value == "")
+        {
+            val.value = "Search";
+        }
+    }
+</script>
+
+
+<ul class="css3menu1" style="width:100%" >
+
+
+<li style="width:11.1%;"><a href="index.php" title="Home" >Home</a>
+
+
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:9.8%;"><a title="About us" href="index4.php?lang=1&amp;level=0&amp;linkid=399&amp;lid=2768" >About us</a>
+
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:13%;"><a title="Thematic Areas" href="index4.php?lang=1&amp;level=0&amp;linkid=381&amp;lid=2747" >Thematic Areas</a>
+	            	
+	            	<ul class="css3menu2" >
+	            	                   		 
+<li ><a  title="National Strategic Plan to End TB in India 2020-25 (Draft Copy)" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5448&amp;lid=3528" >National Strategic Plan to End TB in India 2020-25 (Draft Copy)<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Elected Representative Handbooks" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5356&amp;lid=3449" >Elected Representative Handbooks</a></li>
+                   		 
+<li ><a  title="Priority Population" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5422&amp;lid=3504" >Priority Population</a></li>
+                   		 
+<li ><a  title="Adverse Drug Reaction (ADRs) - TB" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5435&amp;lid=3516" >Adverse Drug Reaction (ADRs) - TB<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="eBook" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4649&amp;lid=3242" >eBook<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="State Initiatives" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5216&amp;lid=3351" >State Initiatives<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Guidelines" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4571&amp;lid=3176" >Guidelines<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Laboratory and Diagnostic Services" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4145&amp;lid=2790" >Laboratory and Diagnostic Services</a></li>
+                   		 
+<li ><a  title="Pediatric TB" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4149&amp;lid=2791" >Pediatric TB<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Direct Benefit Transfer" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4802&amp;lid=3316" >Direct Benefit Transfer<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Airborne Infection Control" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4519&amp;lid=3015" >Airborne Infection Control</a></li>
+                   		 
+<li ><a  title="TB and Comorbidities" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4154&amp;lid=2793" >TB and Comorbidities</a></li>
+                   		 
+<li ><a  title="PMDT" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4150&amp;lid=2794" >PMDT</a></li>
+                   		 
+<li ><a  title="HRD & Training" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4144&amp;lid=2795" >HRD & Training</a></li>
+                   		 
+<li ><a  title="Procurement & Supply Chain Management" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4152&amp;lid=2796" >Procurement & Supply Chain Management<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Finance and Planning" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4143&amp;lid=2797" >Finance and Planning</a></li>
+                   		 
+<li ><a  title="Public Private Partnership" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4151&amp;lid=2798" >Public Private Partnership</a></li>
+                   		 
+<li ><a  title="Monitoring and Evaluation" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4147&amp;lid=2803" >Monitoring and Evaluation<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Research" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4153&amp;lid=2802" >Research<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="TB Surveillance & Notification" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4529&amp;lid=3135" >TB Surveillance & Notification</a></li>
+                   		 
+<li ><a  title="Archives" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4869&amp;lid=3131" >Archives</a></li>
+	            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:9.8%;"><a title="ACSM / IEC" href="index4.php?lang=1&amp;level=0&amp;linkid=606&amp;lid=2800" >ACSM / IEC</a>
+	            	
+	            	<ul class="css3menu2" >
+	            	                   		 
+<li ><a  title="IEC MATERIAL 2020" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5469&amp;lid=3542" >IEC MATERIAL 2020<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="IEC MATERIAL 2019" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5371&amp;lid=3447" >IEC MATERIAL 2019</a></li>
+                   		 
+<li ><a  title="IEC MATERIAL 2018" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5387&amp;lid=3471" >IEC MATERIAL 2018</a></li>
+                   		 
+<li ><a  title="Sponsored Radio Programme" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5399&amp;lid=3483" >Sponsored Radio Programme</a></li>
+                   		 
+<li ><a  title="eGSA" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4834&amp;lid=3329" >eGSA</a></li>
+                   		 
+<li ><a  title="Nikshay Patrika" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4836&amp;lid=3309" >Nikshay Patrika<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Campaign" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4832&amp;lid=3271" >Campaign</a></li>
+                   		 
+<li ><a  title="Radio Spots" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4838&amp;lid=3189" >Radio Spots</a></li>
+                   		 
+<li ><a  title="Documentaries" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4833&amp;lid=3185" >Documentaries</a></li>
+                   		 
+<li ><a  title="TV Spots / TVCs" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4841&amp;lid=3192" >TV Spots / TVCs<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Posters" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4837&amp;lid=3188" >Posters</a></li>
+                   		 
+<li ><a  title="Exhibition Panels" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4835&amp;lid=3186" >Exhibition Panels</a></li>
+                   		 
+<li ><a  title="NTEP / RNTCP Logo" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4839&amp;lid=3190" >NTEP / RNTCP Logo<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="Street Plays / Nukkad Natak" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4840&amp;lid=3191" >Street Plays / Nukkad Natak</a></li>
+                   		 
+<li ><a  title="Daily Regimen" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4843&amp;lid=3340" >Daily Regimen</a></li>
+                   		 
+<li ><a  title="Branding RNTCP Backdrop" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4849&amp;lid=3342" >Branding RNTCP Backdrop</a></li>
+                   		 
+<li ><a  title="eNews" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5226&amp;lid=3359" >eNews</a></li>
+
+<li><a  href="showfile.php?lid=3370" title="Nikshay E - News (4th -6th January 2019)&nbsp;PDF, 933 KB" target="_blank">Nikshay E - News (4th -6th January 2019)</a></li>
+
+                   		 
+<li ><a  title="Nikshay Poshan Yojana" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5275&amp;lid=3385" >Nikshay Poshan Yojana</a></li>
+                   		 
+<li ><a  title="TB HIV" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4842&amp;lid=3339" >TB HIV</a></li>
+	            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:13%;"><a title="Performance Reports" href="index4.php?lang=1&amp;level=0&amp;linkid=380&amp;lid=2746" >Performance Reports</a>
+	            	
+	            	<ul class="css3menu2" >
+	            	                   		 
+<li ><a  title="Quarterly Reports" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4158&amp;lid=2806" >Quarterly Reports</a></li>
+                   		 
+<li ><a  title="Annual Reports" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4160&amp;lid=2807" >Annual Reports<img alt='New' border=0 src='images/new.gif'></a></li>
+                   		 
+<li ><a  title="State Reports" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4227&amp;lid=2875" >State Reports</a></li>
+                   		 
+<li ><a  title="Other Reports" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4159&amp;lid=2808" >Other Reports<img alt='New' border=0 src='images/new.gif'></a></li>
+	            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:9.8%;"><a title="FAQs" href="index4.php?lang=1&amp;level=0&amp;linkid=382&amp;lid=2748" >FAQs</a>
+	            	
+	            	<ul class="css3menu2" >
+	            		            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:13%;"><a title="Success Stories" href="index4.php?lang=1&amp;level=0&amp;linkid=383&amp;lid=2749" >Success Stories</a>
+
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:9.8%;"><a title="E-Citizen/Tender" href="index4.php?lang=1&amp;level=0&amp;linkid=384&amp;lid=2751" >E-Citizen/Tender</a>
+	            	
+	            	<ul class="css3menu2" >
+	            	
+<li><a  href="showfile.php?lid=2769" title="Citizens charter&nbsp;PDF, 136 KB" target="_blank">Citizens charter</a></li>
+
+                   		 
+<li ><a  title="E-Tender" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4521&amp;lid=3129" >E-Tender</a></li>
+                             
+<li ><a  title="Circular" href="circular.php?lang=1">Circular</a></li>
+
+                    		 
+<li ><a  title="Subordinate Legislation" href="index1.php?lang=1&amp;level=1&amp;sublinkid=4769&amp;lid=3298" >Subordinate Legislation</a></li>
+	            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              <li style="width:9.8%;"><a title="Contact Us" href="index4.php?lang=1&amp;level=0&amp;linkid=409&amp;lid=2778" >Contact Us</a>
+	            	
+	            	<ul class="css3menu2" style='right:0px !important;'>
+	            	
+<li><a  onclick="javascript:if(confirm('We are going to http://104.211.89.157/Reports/DtosDirectory')==true){ return true;}else{ return false}"   href="showlink.php?id=3069" title="DTO Directory" target="_blank">DTO Directory</a></li>
+
+
+<li><a  onclick="javascript:if(confirm('We are going to http://104.211.89.157/Reports/StosDirectory')==true){ return true;}else{ return false}"   href="showlink.php?id=3068" title="STO Directory" target="_blank">STO Directory</a></li>
+
+                   		 
+<li ><a  title="CTD Officers" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5431&amp;lid=3512" >CTD Officers<img alt='New' border=0 src='images/new.gif'></a></li>
+	            	            </ul>
+	            	          
+                    
+                     
+                        	          </li>
+                        	       
+                    
+                    
+              
+
+
+</ul> 
+<script type="text/javascript">
+$(document).ready(function()
+{	
+	$(".css3menu1").accessibleDropDown();
+});
+
+$.fn.accessibleDropDown = function ()
+{
+	var el = $(this);
+	
+	/* Setup dropdown menus for IE 6 */
+	
+	$("li", el).mouseover(function() {
+		$(this).addClass("hover");
+	}).mouseout(function() {
+		$(this).removeClass("hover");
+	});
+	
+	/* Make dropdown menus keyboard accessible */
+	
+	$("a", el).focus(function() {
+		$(this).parents("li").addClass("hover");
+	}).blur(function() {
+		$(this).parents("li").removeClass("hover");
+	});
+}
+</script>
+</div>
+</div>
+<head>
+<style>
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+.modal-body {padding: 2px 16px;}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+</style>
+</head>
+<body onload="codeAddress()">
+<div class="content-container1 homepagemiddelmain" id="maincont">
+<div class="hzmarquee"><div class="hzmarqueecontrol">
+<img src="images/cream-stop.png" alt="Stop" title="Stop" id="control" width="24" onclick="controlhzmarquee('stop','cream-start.png','cream-stop.png');"></div>
+<script type="text/javascript">
+function controlhzmarquee(action,image1,image2)
+{
+//	alert(action);
+	if(action=="stop"){
+		Js190('#control').attr('alt','Start');
+		Js190('#control').attr('title','Start');
+		Js190('#control').attr('src','images/'+image1);
+		Js190('#control').attr('onclick',"controlhzmarquee('start','"+image2+"','"+image1+"');");
+		//$('#hzmarquee').stop();
+		document.getElementById('hzmarquee').stop();
+	}else{
+		Js190('#control').attr('alt','Stop');
+		Js190('#control').attr('title','Stop');
+		Js190('#control').attr('src','images/'+image1);
+		Js190('#control').attr('onclick',"controlhzmarquee('stop','"+image2+"','"+image1+"');");
+		//$('#hzmarquee').start();
+		document.getElementById('hzmarquee').start();
+	}
+}
+</script>
+<marquee behavior="scroll" direction="left" scrollamount="3" id="hzmarquee">
+</marquee>
+
+
+</div>
+<div class="right"><div class="highlights">                    
+                    <div class="news"><label><a href="./index4.php?lang=1&level=0&linkid=414&lid=2786">News &amp; Highlights</a></label>
+					
+					<div class="newsmarqueecontrol">
+					<img src="images/cream-stop.png" alt="Stop" title="Stop" id="newscontrol" width="24" onclick="controlnewsmarquee('stop','cream-start.png','cream-stop.png');">
+<!--<img src="images/start.png" alt="Stop" title="Stop" id="stop" width="24" onclick="javascript:control('start');" />-->
+</div>
+<script type="text/javascript">
+function controlnewsmarquee(action,image1,image2)
+{
+//	alert(action);
+	if(action=="stop"){
+		Js190('#newscontrol').attr('alt','Start');
+		Js190('#newscontrol').attr('title','Start');
+		Js190('#newscontrol').attr('src','images/'+image1);
+		Js190('#newscontrol').attr('onclick',"controlnewsmarquee('start','"+image2+"','"+image1+"');");
+		//$('#hzmarquee').stop();
+		document.getElementById('newsmarquee').stop();
+	}else{
+		Js190('#newscontrol').attr('alt','Stop');
+		Js190('#newscontrol').attr('title','Stop');
+		Js190('#newscontrol').attr('src','images/'+image1);
+		Js190('#newscontrol').attr('onclick',"controlnewsmarquee('stop','"+image2+"','"+image1+"');");
+		//$('#hzmarquee').start();
+		document.getElementById('newsmarquee').start();
+	}
+}
+</script>
+
+					</div>
+                    <marquee height="330px" behavior="scroll" direction="up"  scrolldelay="250" class="newsmarquee" id="newsmarquee" loop="true">
+                    
+                        <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Result: EoI evaluation for NTSU & STSUsPDF, 2045 KB" href="showfile.php?lid=3555">Result: EoI evaluation for NTSU & STSUs<br><span class='rdate'>( Release Date :12/10/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[2045 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Call for Operational Research ProposalsDOCX, 14 KB" href="showfile.php?lid=3553">Call for Operational Research Proposals<br><span class='rdate'>( Release Date :08/10/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>	<span class="filesizefont">[14 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="DO on Rapid Response Plan to mitigate impact of COVID-19 Pandemic on TB Epidemic and National TB Elimination Program (NTEP) activities in India - RegPDF, 1060 KB" href="showfile.php?lid=3551">DO on Rapid Response Plan to mitigate impact of COVID-19 Pandemic on TB Epidemic and National TB Elimination Program (NTEP) activities in India - Reg<br><span class='rdate'>( Release Date :07/09/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[1060 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="Patient interviews for verification of reported data for "PROGRAM TOWARDS ELIMINATION OF TUBERCULOSIS"" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5468&amp;lid=3541">Patient interviews for verification of reported data for "PROGRAM TOWARDS ELIMINATION OF TUBERCULOSIS"<br><span class='rdate'>( Release Date :28/07/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="Training Modules for Programme Managers and Medical Officers (NTEP)" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5465&amp;lid=3540">Training Modules for Programme Managers and Medical Officers (NTEP)<br><span class='rdate'>( Release Date :07/07/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="VC Meeting with Manufacturers for Child Friendly formulationsPDF, 555 KB" href="showfile.php?lid=3539">VC Meeting with Manufacturers for Child Friendly formulations<br><span class='rdate'>( Release Date :07/07/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[555 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="India TB Report 2020PDF, 14790 KB" href="showfile.php?lid=3538">India TB Report 2020<br><span class='rdate'>( Release Date :24/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[14790 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="JMM Report 2019PDF, 65308 KB" href="showfile.php?lid=3536">JMM Report 2019<br><span class='rdate'>( Release Date :24/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[65308 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Direct Benefit Transfer Manual for National Tuberculosis Elimination ProgrammePDF, 7293 KB" href="showfile.php?lid=3535">Direct Benefit Transfer Manual for National Tuberculosis Elimination Programme<br><span class='rdate'>( Release Date :24/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[7293 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Nikshay Patrika Volume I Issue III Jan-Mar 2020PDF, 12987 KB" href="showfile.php?lid=3537">Nikshay Patrika Volume I Issue III Jan-Mar 2020<br><span class='rdate'>( Release Date :24/06/2020 )</span></a> [PDF] 	<span class="filesizefont">[12987 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Minutes of the Bid Opening Meeting held on 11th June 2020 for Expression of Interest (EOI) received from agencies/firms for Technical Support Units under National Tuberculosis Elimination ProgrammePDF, 1562 KB" href="showfile.php?lid=3534">Minutes of the Bid Opening Meeting held on 11th June 2020 for Expression of Interest (EOI) received from agencies/firms for Technical Support Units under National Tuberculosis Elimination Programme<br><span class='rdate'>( Release Date :23/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[1562 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="DO letter for transition to NIKSHAY online portal for Drug Resistant TB under National TB Elimination Program (NTEP)" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5454&amp;lid=3533">DO letter for transition to NIKSHAY online portal for Drug Resistant TB under National TB Elimination Program (NTEP)<br><span class='rdate'>( Release Date :15/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Meeting invitation to Indian Manufacturers to discuss on Child friendly formulations for DRTB treatment on 16.06.2020(Tuesday), 11.00 - 12.00 NoonPDF, 563 KB" href="showfile.php?lid=3532">Meeting invitation to Indian Manufacturers to discuss on Child friendly formulations for DRTB treatment on 16.06.2020(Tuesday), 11.00 - 12.00 Noon<br><span class='rdate'>( Release Date :15/06/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[563 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                
+                                    <div class="text12 text12new">
+                                        <a  onclick="javascript:if(confirm('We are going to https://drive.google.com/file/d/1TLGk-6PBrPyLqBhe9lN4lWnsNLMBLVra/view?usp=sharing')==true){ return true;}else{ return false}"  class="sublink2" target="_blank" title="Ministry of Health & Family Welfare seeks inputs on National Strategic Plan to End Tuberculosis In India 2020–2025 (Draft Copy) from all stakeholders by 2nd June 2020" href="showlink.php?id=3530">Ministry of Health & Family Welfare seeks inputs on National Strategic Plan to End Tuberculosis In India 2020–2025 (Draft Copy) from all stakeholders by 2nd June 2020<br><span class='rdate'>( Release Date :26/05/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                    </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="Corrigendum - Extension of Submission & Opening of EOI of NTSU in Delhi / NCR and STSU in 9 states under World Bank Project" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5424&amp;lid=3506">Corrigendum - Extension of Submission & Opening of EOI of NTSU in Delhi / NCR and STSU in 9 states under World Bank Project<br><span class='rdate'>( Release Date :26/05/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="DO letter to Principal Secretaries (Health) of States for NTEP services05, 585 KB" href="showfile.php?lid=3527">DO letter to Principal Secretaries (Health) of States for NTEP services<br><span class='rdate'>( Release Date :18/05/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[585 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 text12new">
+                                        <a class="sublink2" target="_blank" title="Advisory to STOs dated 13th May 2020PDF, 3082 KB" href="showfile.php?lid=3526">Advisory to STOs dated 13th May 2020<br><span class='rdate'>( Release Date :14/05/2020 )</span><img alt='New' border=0 src='images/new.gif'></a> [PDF] 	<span class="filesizefont">[3082 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="Guidelines for States/UTs for NTEP activities during COVID 19 Pandemic and Lockdown situations" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5427&amp;lid=3508">Guidelines for States/UTs for NTEP activities during COVID 19 Pandemic and Lockdown situations<br><span class='rdate'>( Release Date :28/04/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 text12new">
+                                    <a  class="sublink2" title="Directives regarding TB services during Covid19 emergency period" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5428&amp;lid=3509">Directives regarding TB services during Covid19 emergency period<br><span class='rdate'>( Release Date :01/04/2020 )</span><img alt='New' border=0 src='images/new.gif'></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 ">
+                                    <a  class="sublink2" title="Call for EOI for Non-Government Principal Recipients under the Global Fund for period (2021-2024)" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5415&amp;lid=3499">Call for EOI for Non-Government Principal Recipients under the Global Fund for period (2021-2024)<br><span class='rdate'>( Release Date :03/02/2020 )</span></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Call for EOI for Sub Recipient under CTD for the Global Fund grant (2021-2024)PDF, 408 KB" href="showfile.php?lid=3501">Call for EOI for Sub Recipient under CTD for the Global Fund grant (2021-2024)<br><span class='rdate'>( Release Date :14/02/2020 )</span></a> [PDF] 	<span class="filesizefont">[408 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Corrigendum Notice-EoI for SR proposal under CTD for the Global Fund grant (2021-24)PDF, 75 KB" href="showfile.php?lid=3502">Corrigendum Notice-EoI for SR proposal under CTD for the Global Fund grant (2021-24)<br><span class='rdate'>( Release Date :28/02/2020 )</span></a> [PDF] 	<span class="filesizefont">[75 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Internship Programme Central TB DivisionPDF, 2490 KB" href="showfile.php?lid=3457">Internship Programme Central TB Division<br><span class='rdate'>( Release Date :28/11/2019 )</span></a> [PDF] 	<span class="filesizefont">[2490 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 ">
+                                    <a  class="sublink2" title="Employer Led Model for Tuberculosis Care and Prevention" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5363&amp;lid=3452">Employer Led Model for Tuberculosis Care and Prevention<br><span class='rdate'>( Release Date :03/10/2019 )</span></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 ">
+                                    <a  class="sublink2" title="Elected Representative Handbooks" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5362&amp;lid=3449">Elected Representative Handbooks<br><span class='rdate'>( Release Date :03/10/2019 )</span></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 ">
+                                    <a  class="sublink2" title="India Tb Report 2019" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5365&amp;lid=3450">India Tb Report 2019<br><span class='rdate'>( Release Date :03/10/2019 )</span></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Guidelines for condemnation & replacement of TB Lab equipmentPDF, 600 KB" href="showfile.php?lid=3426">Guidelines for condemnation & replacement of TB Lab equipment<br><span class='rdate'>( Release Date :10/06/2019 )</span></a> [PDF] 	<span class="filesizefont">[600 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                <div class="text12 ">
+                                    <a  class="sublink2" title="FROM TB SURVIVORS TO TB CHAMPIONS: A TRAINING CURRICULUM" href="index1.php?lang=1&amp;level=1&amp;sublinkid=5364&amp;lid=3451">FROM TB SURVIVORS TO TB CHAMPIONS: A TRAINING CURRICULUM<br><span class='rdate'>( Release Date :03/10/2019 )</span></a>
+                                </div>
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Policy Framework to address TB" href="showfile.php?lid=3446">Policy Framework to address TB<br><span class='rdate'>( Release Date :01/10/2019 )</span></a>                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="MOU Signed with Ministries of AyushPDF, 3331 KB" href="showfile.php?lid=3437">MOU Signed with Ministries of Ayush<br><span class='rdate'>( Release Date :01/08/2019 )</span></a> [PDF] 	<span class="filesizefont">[3331 KB]</span>
+                                    </div>
+                                    
+                                <div class="icon5"><img alt="News & Highlights" src="images/right_news.png" width="12"></div>
+                                                                
+                                                                    
+                                    <div class="text12 ">
+                                        <a class="sublink2" target="_blank" title="Vacancy for Programme Officer for India CCM Secretariat for GFATMPDF, 668 KB" href="showfile.php?lid=3436">Vacancy for Programme Officer for India CCM Secretariat for GFATM<br><span class='rdate'>( Release Date :30/07/2019 )</span></a> [PDF] 	<span class="filesizefont">[668 KB]</span>
+                                    </div>
+                                    
+                                						
+						                    </marquee>                
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<div class="left">				<a href="https://www.nikshay.in"  target="_blank"   onclick="javascript:if(confirm('We are going to https://www.nikshay.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/5372337247NIkshay_logo.png" width="160" height="58" border="0" class="textbottom" alt="Nikshay" title="Nikshay"></a>
+							<a href="https://reports.nikshay.in/"  target="_blank"   onclick="javascript:if(confirm('We are going to https://reports.nikshay.in/')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/6007179141image.png" width="160" height="58" border="0" class="textbottom" alt="Notification Report" title="Notification Report"></a>
+							<a href="https://tbcindia.gov.in/index1.php?lang=1&level=1&sublinkid=4836&lid=3309"  target="_blank"   onclick="javascript:if(confirm('We are going to https://tbcindia.gov.in/index1.php?lang=1&level=1&sublinkid=4836&lid=3309')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/3466243942banner_nk.jpg" width="160" height="58" border="0" class="textbottom" alt="Nikshay Patrika" title="Nikshay Patrika"></a>
+							<a href="index1.php?lang=1&level=1&linkid=552&lid=3067"  target="_blank"   onclick="javascript:if(confirm('We are going to index1.php?lang=1&level=1&linkid=552&lid=3067')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/8681028122777031455sto_dtos.jpg" width="160" height="58" border="0" class="textbottom" alt="Directory of STOs " title="Directory of STOs "></a>
+							<a href="http://nrhm.gov.in"  target="_blank"   onclick="javascript:if(confirm('We are going to http://nrhm.gov.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/5617175900nhm.png" width="160" height="58" border="0" class="textbottom" alt="National Health Mission" title="National Health Mission"></a>
+							<a href="index1.php?lang=1&level=2&sublinkid=4759&lid=3292"  target="_blank"   onclick="javascript:if(confirm('We are going to index1.php?lang=1&level=2&sublinkid=4759&lid=3292')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/8465571402antitbdrug.jpg" width="160" height="58" border="0" class="textbottom" alt="ANTI TB Drugs" title="ANTI TB Drugs"></a>
+			</div>
+<div class="contentmain"><div>
+<div id="show" class="slideshow">
+<div class="slideshow-images">
+<noscript>
+</noscript>
+			<a class="withjsgallery divmain" target="_blank" id="slidea-1" href="WriteReadData/p92g8/60501182321_Released_India_TB_Report_2020_on_24th_June_2020.jpg"><img id="slide-1" src="WriteReadData/p92g8/60501182321_Released_India_TB_Report_2020_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey, Secretary (H), OSD (H), AS &amp; FA (H)  released India TB Report 2020 on 24th June 2020" title="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey, Secretary (H), OSD (H), AS &amp; FA (H)  released India TB Report 2020 on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-2" href="WriteReadData/p92g8/65500787232_Released_DBT_Mannual_for_NTEP_on_24th_June_2020.jpg"><img id="slide-2" src="WriteReadData/p92g8/65500787232_Released_DBT_Mannual_for_NTEP_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Hon&#039;ble Minister of State, Secretary (H), OSD (H), AS &amp; FA, AS (H), Head ICMR, DGHS, DDG (TB)  released DBT Mannual for NTEP on 24th June 2020" title="Hon&#039;ble Minister of Health, Hon&#039;ble Minister of State, Secretary (H), OSD (H), AS &amp; FA, AS (H), Head ICMR, DGHS, DDG (TB)  released DBT Mannual for NTEP on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-3" href="WriteReadData/p92g8/62247647523_Released_Training_Manual_for_Programme_Managers_and_Medical_Officers_on_24th_June_2020.jpg"><img id="slide-3" src="WriteReadData/p92g8/62247647523_Released_Training_Manual_for_Programme_Managers_and_Medical_Officers_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health Dr. Harsh Vardhan released Training Manual for Programme Managers and Medical Officers on 24th June 2020" title="Hon&#039;ble Minister of Health Dr. Harsh Vardhan released Training Manual for Programme Managers and Medical Officers on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-4" href="WriteReadData/p92g8/60501182324_Released_Nikshay_Patrika_on_24th_June_2020.jpg"><img id="slide-4" src="WriteReadData/p92g8/60501182324_Released_Nikshay_Patrika_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Minister of State, Secretary (H), OSD (H), AS (H), AS &amp; FA (H), DGHS, DDG (TB), Head ICMR, ADDG (TB) released Nikshay Patrika on 24th June 2020" title="Hon&#039;ble Minister of Health, Minister of State, Secretary (H), OSD (H), AS (H), AS &amp; FA (H), DGHS, DDG (TB), Head ICMR, ADDG (TB) released Nikshay Patrika on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-5" href="WriteReadData/p92g8/88437851075_Released_Joint_Monitoring_Mission_2019_on_24th_June_2020.jpg"><img id="slide-5" src="WriteReadData/p92g8/88437851075_Released_Joint_Monitoring_Mission_2019_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Hon&#039;ble Minister of State, Secretary (H), OSD (H), AS &amp; FA, AS (H), DGHS released Joint Monitoring Mission 2019 on 24th June 2020" title="Hon&#039;ble Minister of Health, Hon&#039;ble Minister of State, Secretary (H), OSD (H), AS &amp; FA, AS (H), DGHS released Joint Monitoring Mission 2019 on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-6" href="WriteReadData/p92g8/39383288526_Issued_the_Certificate_of_Appreciation_to_States_on_24th_June_2020.jpg"><img id="slide-6" src="WriteReadData/p92g8/39383288526_Issued_the_Certificate_of_Appreciation_to_States_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey issued the Certificate of Appreciation to States on 24th June 2020" title="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey issued the Certificate of Appreciation to States on 24th June 2020"></a>
+						<a class="withjsgallery divmain" target="_blank" id="slidea-7" href="WriteReadData/p92g8/86393288526_Released_Certificate_of_Appreciation_to_States_UTs_on_24th_June_2020.JPG"><img id="slide-7" src="WriteReadData/p92g8/86393288526_Released_Certificate_of_Appreciation_to_States_UTs_on_24th_June_2020.JPG" alt="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey  released Certificate of Appreciation to States &amp; UTs on 24th June 2020" title="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey  released Certificate of Appreciation to States &amp; UTs on 24th June 2020"></a>
+			<noscript>
+<a  id="slideans-1" class="divmain" target="_blank" href="WriteReadData/p92g8/60501182321_Released_India_TB_Report_2020_on_24th_June_2020.jpg"><img id="slidens-8" src="WriteReadData/p92g8/60501182321_Released_India_TB_Report_2020_on_24th_June_2020.jpg" alt="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey, Secretary (H), OSD (H), AS &amp; FA (H)  released India TB Report 2020 on 24th June 2020" title="Hon&#039;ble Minister of Health, Dr. Harsh Vardhan &amp; Hon&#039;ble Minister of State, Shri Ashwini Kumar Choubey, Secretary (H), OSD (H), AS &amp; FA (H)  released India TB Report 2020 on 24th June 2020"></a>
+	<a class="next" href="index.php?slide=2">
+	<img width="25" src="images/blue-Next.png" alt="Previous">	</a>
+</noscript>
+</div>
+
+</div>
+</div>
+</div>
+  <div class="bottomslide"><div class="amazon_scroller_slider amazon_scroller withoutjs">
+			<div class="amazon_scroller_mask">
+                <ul>
+										 <li><a href="http://etaal.gov.in"  target="_blank"  onclick="javascript:if(confirm('We are going to http://etaal.gov.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/6631176581index.jpg" height="60" alt="etaal" title="etaal"></a></li>
+												 <li><a href="http://india.gov.in"  target="_blank"  onclick="javascript:if(confirm('We are going to http://india.gov.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/43311835232296595489india1_gov_in.jpg" height="60" alt="National Portal of India" title="National Portal of India"></a></li>
+												 <li><a href="index4.php?lang=1&level=0&linkid=549&lid=3063"  target="_blank"  onclick="javascript:if(confirm('We are going to index4.php?lang=1&level=0&linkid=549&lid=3063')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/4260630121ebook2.jpg" height="60" alt="DMU Report" title="DMU Report"></a></li>
+												 <li><a href="vacancies.php"  target="_blank"  onclick="javascript:if(confirm('We are going to vacancies.php')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/3017054294ebook3.jpg" height="60" alt="Vacancies" title="Vacancies"></a></li>
+												 <li><a href="https://mohfw.eoffice.gov.in"  target="_blank"  onclick="javascript:if(confirm('We are going to https://mohfw.eoffice.gov.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/8947155685e-book.jpg" height="60" alt="eOffice" title="eOffice"></a></li>
+												 <li><a href="index1.php?lang=1&level=0&linkid=415&lid=2824"  target="_blank"  onclick="javascript:if(confirm('We are going to index1.php?lang=1&level=0&linkid=415&lid=2824')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/7369489053RTI.jpg" height="60" alt="Right To Information(RTI)" title="Right To Information(RTI)"></a></li>
+												 <li><a href="http://dial.gov.in/"  target="_blank"  onclick="javascript:if(confirm('We are going to http://dial.gov.in/')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/1158257861dial.jpg" height="60" alt="Common Man&#039;s Interface for Welfare Schemes" title="Common Man&#039;s Interface for Welfare Schemes"></a></li>
+												 <li><a href="http://pgportal.gov.in"  target="_blank"  onclick="javascript:if(confirm('We are going to http://pgportal.gov.in')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/3378036871Untitled-2.jpg" height="60" alt="PORTAL FOR PUBLIC GRIEVANCES" title="PORTAL FOR PUBLIC GRIEVANCES"></a></li>
+												 <li><a href="http://www.mcc.nic.in/"  target="_blank"  onclick="javascript:if(confirm('We are going to http://www.mcc.nic.in/')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/59991861178.jpg" height="60" alt="Medical Counselling" title="Medical Counselling"></a></li>
+												 <li><a href="index1.php?lang=1&level=0&linkid=549&lid=3063"  target="_blank"  onclick="javascript:if(confirm('We are going to index1.php?lang=1&level=0&linkid=549&lid=3063')==true){ return true;}else{ return false}" ><img src="WriteReadData/p92g8/8866219098media-gallery1.jpg" height="60" alt="Media Gallery " title="Media Gallery "></a></li>
+						                </ul>
+            </div>
+			<ul class="amazon_scroller_nav">
+                <li></li>
+                <li></li>
+            </ul>
+			<div style="clear: both"></div>
+</div>
+<noscript>
+<div class="amazon_scroller_slider amazon_scroller withoutjs_amazon_scroller">
+			<div class="amazon_scroller_mask withoutjs_amazon_scroller_mask" style="">
+			                <ul id="s_1">
+			  <li class="controlleft"><a href="http://NIC-SERVER/mohfw/index.php#s_1"><img src="images/arrow-left-1.gif" alt="Left"></a></li>
+			 						 <li><a href="http://etaal.gov.in"  target="_blank" ><img src="WriteReadData/p92g8/6631176581index.jpg" height="60" alt="etaal" title="etaal"></a></li>
+												 <li><a href="http://india.gov.in"  target="_blank" ><img src="WriteReadData/p92g8/43311835232296595489india1_gov_in.jpg" height="60" alt="National Portal of India" title="National Portal of India"></a></li>
+												 <li><a href="index4.php?lang=1&level=0&linkid=549&lid=3063"  target="_blank" ><img src="WriteReadData/p92g8/4260630121ebook2.jpg" height="60" alt="DMU Report" title="DMU Report"></a></li>
+												 <li><a href="vacancies.php"  target="_blank" ><img src="WriteReadData/p92g8/3017054294ebook3.jpg" height="60" alt="Vacancies" title="Vacancies"></a></li>
+												 <li><a href="https://mohfw.eoffice.gov.in"  target="_blank" ><img src="WriteReadData/p92g8/8947155685e-book.jpg" height="60" alt="eOffice" title="eOffice"></a></li>
+														 <li class="controlright"><a href="http://NIC-SERVER/mohfw/index.php#s_2"><img  src="images/arrow-right-1.gif" alt="Right"></a></li>
+								 </ul>
+								 <ul id="s_2">
+									<li class="controlleft"><a href="http://NIC-SERVER/mohfw/index.php#s_1"><img src="images/arrow-left-1.gif" alt="Left"></a></li>
+													 <li><a href="index1.php?lang=1&level=0&linkid=415&lid=2824"  target="_blank" ><img src="WriteReadData/p92g8/7369489053RTI.jpg" height="60" alt="Right To Information(RTI)" title="Right To Information(RTI)"></a></li>
+												 <li><a href="http://dial.gov.in/"  target="_blank" ><img src="WriteReadData/p92g8/1158257861dial.jpg" height="60" alt="Common Man&#039;s Interface for Welfare Schemes" title="Common Man&#039;s Interface for Welfare Schemes"></a></li>
+												 <li><a href="http://pgportal.gov.in"  target="_blank" ><img src="WriteReadData/p92g8/3378036871Untitled-2.jpg" height="60" alt="PORTAL FOR PUBLIC GRIEVANCES" title="PORTAL FOR PUBLIC GRIEVANCES"></a></li>
+												 <li><a href="http://www.mcc.nic.in/"  target="_blank" ><img src="WriteReadData/p92g8/59991861178.jpg" height="60" alt="Medical Counselling" title="Medical Counselling"></a></li>
+												 <li><a href="index1.php?lang=1&level=0&linkid=549&lid=3063"  target="_blank" ><img src="WriteReadData/p92g8/8866219098media-gallery1.jpg" height="60" alt="Media Gallery " title="Media Gallery "></a></li>
+									 <li class="controlright"><a href="http://NIC-SERVER/mohfw/index.php#s_3"><img src="images/arrow-right-1.gif" alt="Right"></a></li>
+			 </ul>
+			 </div>
+			<div style="clear: both"></div>
+</div>
+</noscript>
+</div>
+</div>
+<div class="footer"><div class="bottom">
+<div class="footer1">
+							<div class="footer-box">
+							<h3>Disclaimer</h3>
+							<a title="Disclaimer" href="index1.php?lang=1&level=0&linkid=392&lid=2761"><img src="WriteReadData/p92g8/1677378372discliamer.png" alt="Disclaimer" title="Disclaimer"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Web Information Manager</h3>
+							<a title="Web Information Manager" href="index1.php?lang=1&level=0&linkid=401&lid=2770"><img src="WriteReadData/p92g8/7402928769footer-big-logo.png" alt="Web Information Manager" title="Web Information Manager"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Copy right policy</h3>
+							<a title="Copy right policy" href="index1.php?lang=1&level=0&linkid=395&lid=2764"><img src="WriteReadData/p92g8/1618191964copyright.png" alt="Copy right policy" title="Copy right policy"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Privacy Policy</h3>
+							<a title="Privacy Policy" href="index1.php?lang=1&level=0&linkid=402&lid=2771"><img src="WriteReadData/p92g8/2595540228privacy.png" alt="Privacy Policy" title="Privacy Policy"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Terms &amp; condition</h3>
+							<a title="Terms &amp; condition" href="index1.php?lang=1&level=0&linkid=407&lid=2776"><img src="WriteReadData/p92g8/1339191055terms.png" alt="Terms &amp; condition" title="Terms &amp; condition"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Website Policies</h3>
+							<a title="Website Policies" href="index1.php?lang=1&level=0&linkid=403&lid=2772"><img src="WriteReadData/p92g8/2053985727website.png" alt="Website Policies" title="Website Policies"></a>
+						</div>
+												<div class="footer-box">
+							<h3>Hyper Linking Policy</h3>
+							<a title="Hyper Linking Policy" href="index1.php?lang=1&level=0&linkid=408&lid=2777"><img src="WriteReadData/p92g8/3020066995hyperlinking.png" alt="Hyper Linking Policy" title="Hyper Linking Policy"></a>
+						</div>
+						</div>
+<div class="footer2">
+	<span id="footer-site-logo" class="footer-nic-logo" title="Central TB Division"></span>
+<div class="footer2-main">
+	<span class="footerspan_visitors">Visitors Upto October 12, 2020: 23927573</span>
+	<span class="footerspan_last_updated_time">
+	Page Last Updated On : February 14, 2020	</span>
+	<!--<span id="google_translate_element"></span><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
+	<span class="footerspan">Designed Developed &amp; Hosted By <a href="http://www.nic.in" target="_blank"><img width="30"  style="vertical-align:middle;" src="images/nic.png" alt="NIC" title="NIC"></a></span><span class="footerspan">Content owned &amp; Provided by Central TB Division, Ministry of Health &amp; Family Welfare, Government of India</span>
+	<span class="footerspan">[Best view in Chrome 31.0.1650.63 m,Firefox 27.0,Internet Explorer 8]</span>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$('#footer-site-logo').click(function(){
+	window.open("http://www.tbcindia.nic.in","_blank");
+})
+</script>
+
+
+</div>
+</div>
+</body>

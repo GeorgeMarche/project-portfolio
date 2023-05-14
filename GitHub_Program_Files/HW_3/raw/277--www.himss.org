@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <title>Healthcare Information and Management Systems Society | HIMSS</title>
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async="async"></script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","publisher":{"@type":"Organization","name":"HIMSS","logo":{"@type":"ImageObject","url":"https:\/\/www.himss.org\/sites\/all\/themes\/hde\/logo.svg"}},"headline":"Healthcare Information and Management Systems Society","image":"https:\/\/www.himss.org\/sites\/hde\/files\/default_media\/himssorg_article.png","author":"dane","editor":"dane","url":"https:\/\/www.himss.org\/node\/143349","datePublished":"2020-02-11","dateCreated":"2020-02-11","dateModified":"2020-10-14","description":"At HIMSS, we\u2019re building a brighter future for the global health ecosystem so that everyone, everywhere, has access to care that works."}</script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script>var DFPSlots = {"leaderboard":{"label":"Leaderboard","sizes":[[728,90],[970,90],[970,250]],"pos":["leaderboard1","leaderboard2","leaderboard3"],"slot":"\/1914674\/himss\/leaderboard"},"box":{"label":"Box","sizes":[[300,250],[300,600]],"pos":["right1","right2","right3"],"slot":"\/1914674\/himss\/box"},"box_mobile":{"label":"Box - Mobile","sizes":[[300,250]],"pos":["mobi-box1","mobi-box2","mobi-box3"],"slot":"\/1914674\/himss\/box_mobile"},"prescroll":{"label":"Pre-Scroll","sizes":[[1400,500]],"pos":[false],"slot":"\/1914674\/himss\/prescroll"},"anchor":{"label":"Anchor","sizes":[[1400,500]],"pos":[false],"mobile":false,"slot":"\/1914674\/himss\/anchor"},"anchor_mobile":{"label":"Anchor - Mobile","sizes":[[320,50]],"pos":[false],"mobile":true,"slot":"\/1914674\/himss\/anchor_mobile"}};</script>
+<script>var DFPSlotsLoaded = [];</script>
+<script>var DFPSlotsTargeting = {"path":"node-143349","pagetype":"node","bundle":"landing","story_id":"143349"};</script>
+<script>var DFPSlotsRefresh = {"interval":30};</script>
+<meta charset="utf-8" />
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"language":"en","country":"US","sitename":"HIMSS","entity_type":"node","type":"landing","id":"143349","title":"Healthcare Information and Management Systems Society","userUid":"97","created":"20200211","author":"dane","words count":19,"links count":0,"video embed":"N","comments":0,"sponsored":"N","featured":"N","status":"published","resourceType":false,"marketo_params":"type=landing\u0026id=143349\u0026title=Healthcare%20Information%20and%20Management%20Systems%20Society"});</script>
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:site_name" content="HIMSS" />
+<link rel="shortlink" href="https://www.himss.org/" />
+<link rel="canonical" href="https://www.himss.org/" />
+<meta name="twitter:site" content="@HIMSS" />
+<meta property="og:url" content="https://www.himss.org/node/143349" />
+<meta property="og:title" content="Healthcare Information and Management Systems Society" />
+<meta name="twitter:url" content="https://www.himss.org/node/143349" />
+<meta name="twitter:image" content="https://www.himss.org/sites/hde/files/default_media/himssorg_open_graph.png" />
+<meta name="twitter:image:width" content="1024" />
+<meta name="twitter:image:height" content="512" />
+<meta property="og:image" content="https://www.himss.org/sites/hde/files/default_media/himssorg_open_graph.png" />
+<meta property="og:image:url" content="https://www.himss.org/sites/hde/files/default_media/himssorg_open_graph.png" />
+<meta property="og:image:secure_url" content="https://www.himss.org/sites/hde/files/default_media/himssorg_open_graph.png" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="512" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<script type="text/javascript">/*! lazysizes - v5.2.2 */
+
+!function(e){var t=function(u,D,f){"use strict";var k,H;if(function(){var e;var t={lazyClass:"lazyload",loadedClass:"lazyloaded",loadingClass:"lazyloading",preloadClass:"lazypreload",errorClass:"lazyerror",autosizesClass:"lazyautosizes",srcAttr:"data-src",srcsetAttr:"data-srcset",sizesAttr:"data-sizes",minSize:40,customMedia:{},init:true,expFactor:1.5,hFac:.8,loadMode:2,loadHidden:true,ricTimeout:0,throttleDelay:125};H=u.lazySizesConfig||u.lazysizesConfig||{};for(e in t){if(!(e in H)){H[e]=t[e]}}}(),!D||!D.getElementsByClassName){return{init:function(){},cfg:H,noSupport:true}}var O=D.documentElement,a=u.HTMLPictureElement,P="addEventListener",$="getAttribute",q=u[P].bind(u),I=u.setTimeout,U=u.requestAnimationFrame||I,l=u.requestIdleCallback,j=/^picture$/i,r=["load","error","lazyincluded","_lazyloaded"],i={},G=Array.prototype.forEach,J=function(e,t){if(!i[t]){i[t]=new RegExp("(\\s|^)"+t+"(\\s|$)")}return i[t].test(e[$]("class")||"")&&i[t]},K=function(e,t){if(!J(e,t)){e.setAttribute("class",(e[$]("class")||"").trim()+" "+t)}},Q=function(e,t){var i;if(i=J(e,t)){e.setAttribute("class",(e[$]("class")||"").replace(i," "))}},V=function(t,i,e){var a=e?P:"removeEventListener";if(e){V(t,i)}r.forEach(function(e){t[a](e,i)})},X=function(e,t,i,a,r){var n=D.createEvent("Event");if(!i){i={}}i.instance=k;n.initEvent(t,!a,!r);n.detail=i;e.dispatchEvent(n);return n},Y=function(e,t){var i;if(!a&&(i=u.picturefill||H.pf)){if(t&&t.src&&!e[$]("srcset")){e.setAttribute("srcset",t.src)}i({reevaluate:true,elements:[e]})}else if(t&&t.src){e.src=t.src}},Z=function(e,t){return(getComputedStyle(e,null)||{})[t]},s=function(e,t,i){i=i||e.offsetWidth;while(i<H.minSize&&t&&!e._lazysizesWidth){i=t.offsetWidth;t=t.parentNode}return i},ee=function(){var i,a;var t=[];var r=[];var n=t;var s=function(){var e=n;n=t.length?r:t;i=true;a=false;while(e.length){e.shift()()}i=false};var e=function(e,t){if(i&&!t){e.apply(this,arguments)}else{n.push(e);if(!a){a=true;(D.hidden?I:U)(s)}}};e._lsFlush=s;return e}(),te=function(i,e){return e?function(){ee(i)}:function(){var e=this;var t=arguments;ee(function(){i.apply(e,t)})}},ie=function(e){var i;var a=0;var r=H.throttleDelay;var n=H.ricTimeout;var t=function(){i=false;a=f.now();e()};var s=l&&n>49?function(){l(t,{timeout:n});if(n!==H.ricTimeout){n=H.ricTimeout}}:te(function(){I(t)},true);return function(e){var t;if(e=e===true){n=33}if(i){return}i=true;t=r-(f.now()-a);if(t<0){t=0}if(e||t<9){s()}else{I(s,t)}}},ae=function(e){var t,i;var a=99;var r=function(){t=null;e()};var n=function(){var e=f.now()-i;if(e<a){I(n,a-e)}else{(l||r)(r)}};return function(){i=f.now();if(!t){t=I(n,a)}}},e=function(){var v,m,c,h,e;var y,z,g,p,C,b,A;var n=/^img$/i;var d=/^iframe$/i;var E="onscroll"in u&&!/(gle|ing)bot/.test(navigator.userAgent);var _=0;var w=0;var N=0;var M=-1;var x=function(e){N--;if(!e||N<0||!e.target){N=0}};var W=function(e){if(A==null){A=Z(D.body,"visibility")=="hidden"}return A||!(Z(e.parentNode,"visibility")=="hidden"&&Z(e,"visibility")=="hidden")};var S=function(e,t){var i;var a=e;var r=W(e);g-=t;b+=t;p-=t;C+=t;while(r&&(a=a.offsetParent)&&a!=D.body&&a!=O){r=(Z(a,"opacity")||1)>0;if(r&&Z(a,"overflow")!="visible"){i=a.getBoundingClientRect();r=C>i.left&&p<i.right&&b>i.top-1&&g<i.bottom+1}}return r};var t=function(){var e,t,i,a,r,n,s,l,o,u,f,c;var d=k.elements;if((h=H.loadMode)&&N<8&&(e=d.length)){t=0;M++;for(;t<e;t++){if(!d[t]||d[t]._lazyRace){continue}if(!E||k.prematureUnveil&&k.prematureUnveil(d[t])){R(d[t]);continue}if(!(l=d[t][$]("data-expand"))||!(n=l*1)){n=w}if(!u){u=!H.expand||H.expand<1?O.clientHeight>500&&O.clientWidth>500?500:370:H.expand;k._defEx=u;f=u*H.expFactor;c=H.hFac;A=null;if(w<f&&N<1&&M>2&&h>2&&!D.hidden){w=f;M=0}else if(h>1&&M>1&&N<6){w=u}else{w=_}}if(o!==n){y=innerWidth+n*c;z=innerHeight+n;s=n*-1;o=n}i=d[t].getBoundingClientRect();if((b=i.bottom)>=s&&(g=i.top)<=z&&(C=i.right)>=s*c&&(p=i.left)<=y&&(b||C||p||g)&&(H.loadHidden||W(d[t]))&&(m&&N<3&&!l&&(h<3||M<4)||S(d[t],n))){R(d[t]);r=true;if(N>9){break}}else if(!r&&m&&!a&&N<4&&M<4&&h>2&&(v[0]||H.preloadAfterLoad)&&(v[0]||!l&&(b||C||p||g||d[t][$](H.sizesAttr)!="auto"))){a=v[0]||d[t]}}if(a&&!r){R(a)}}};var i=ie(t);var B=function(e){var t=e.target;if(t._lazyCache){delete t._lazyCache;return}x(e);K(t,H.loadedClass);Q(t,H.loadingClass);V(t,L);X(t,"lazyloaded")};var a=te(B);var L=function(e){a({target:e.target})};var T=function(t,i){try{t.contentWindow.location.replace(i)}catch(e){t.src=i}};var F=function(e){var t;var i=e[$](H.srcsetAttr);if(t=H.customMedia[e[$]("data-media")||e[$]("media")]){e.setAttribute("media",t)}if(i){e.setAttribute("srcset",i)}};var s=te(function(t,e,i,a,r){var n,s,l,o,u,f;if(!(u=X(t,"lazybeforeunveil",e)).defaultPrevented){if(a){if(i){K(t,H.autosizesClass)}else{t.setAttribute("sizes",a)}}s=t[$](H.srcsetAttr);n=t[$](H.srcAttr);if(r){l=t.parentNode;o=l&&j.test(l.nodeName||"")}f=e.firesLoad||"src"in t&&(s||n||o);u={target:t};K(t,H.loadingClass);if(f){clearTimeout(c);c=I(x,2500);V(t,L,true)}if(o){G.call(l.getElementsByTagName("source"),F)}if(s){t.setAttribute("srcset",s)}else if(n&&!o){if(d.test(t.nodeName)){T(t,n)}else{t.src=n}}if(r&&(s||o)){Y(t,{src:n})}}if(t._lazyRace){delete t._lazyRace}Q(t,H.lazyClass);ee(function(){var e=t.complete&&t.naturalWidth>1;if(!f||e){if(e){K(t,"ls-is-cached")}B(u);t._lazyCache=true;I(function(){if("_lazyCache"in t){delete t._lazyCache}},9)}if(t.loading=="lazy"){N--}},true)});var R=function(e){if(e._lazyRace){return}var t;var i=n.test(e.nodeName);var a=i&&(e[$](H.sizesAttr)||e[$]("sizes"));var r=a=="auto";if((r||!m)&&i&&(e[$]("src")||e.srcset)&&!e.complete&&!J(e,H.errorClass)&&J(e,H.lazyClass)){return}t=X(e,"lazyunveilread").detail;if(r){re.updateElem(e,true,e.offsetWidth)}e._lazyRace=true;N++;s(e,t,r,a,i)};var r=ae(function(){H.loadMode=3;i()});var l=function(){if(H.loadMode==3){H.loadMode=2}r()};var o=function(){if(m){return}if(f.now()-e<999){I(o,999);return}m=true;H.loadMode=3;i();q("scroll",l,true)};return{_:function(){e=f.now();k.elements=D.getElementsByClassName(H.lazyClass);v=D.getElementsByClassName(H.lazyClass+" "+H.preloadClass);q("scroll",i,true);q("resize",i,true);q("pageshow",function(e){if(e.persisted){var t=D.querySelectorAll("."+H.loadingClass);if(t.length&&t.forEach){U(function(){t.forEach(function(e){if(e.complete){R(e)}})})}}});if(u.MutationObserver){new MutationObserver(i).observe(O,{childList:true,subtree:true,attributes:true})}else{O[P]("DOMNodeInserted",i,true);O[P]("DOMAttrModified",i,true);setInterval(i,999)}q("hashchange",i,true);["focus","mouseover","click","load","transitionend","animationend"].forEach(function(e){D[P](e,i,true)});if(/d$|^c/.test(D.readyState)){o()}else{q("load",o);D[P]("DOMContentLoaded",i);I(o,2e4)}if(k.elements.length){t();ee._lsFlush()}else{i()}},checkElems:i,unveil:R,_aLSL:l}}(),re=function(){var i;var n=te(function(e,t,i,a){var r,n,s;e._lazysizesWidth=a;a+="px";e.setAttribute("sizes",a);if(j.test(t.nodeName||"")){r=t.getElementsByTagName("source");for(n=0,s=r.length;n<s;n++){r[n].setAttribute("sizes",a)}}if(!i.detail.dataAttr){Y(e,i.detail)}});var a=function(e,t,i){var a;var r=e.parentNode;if(r){i=s(e,r,i);a=X(e,"lazybeforesizes",{width:i,dataAttr:!!t});if(!a.defaultPrevented){i=a.detail.width;if(i&&i!==e._lazysizesWidth){n(e,r,a,i)}}}};var e=function(){var e;var t=i.length;if(t){e=0;for(;e<t;e++){a(i[e])}}};var t=ae(e);return{_:function(){i=D.getElementsByClassName(H.autosizesClass);q("resize",t)},checkElems:t,updateElem:a}}(),t=function(){if(!t.i&&D.getElementsByClassName){t.i=true;re._();e._()}};return I(function(){H.init&&t()}),k={cfg:H,autoSizer:re,loader:e,init:t,uP:Y,aC:K,rC:Q,hC:J,fire:X,gW:s,rAF:ee}}(e,e.document,Date);e.lazySizes=t,"object"==typeof module&&module.exports&&(module.exports=t)}("undefined"!=typeof window?window:{});</script>
+<script src="/sites/all/themes/hde/fonts/fonts.js" async="async"></script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcOVlRTChAEXFFSBQgCVw==",licenseKey:"bf70f03321",applicationID:"48002951"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var i,o=t("ee"),a=t(23),c={};try{i=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,i.indexOf("dev")!==-1&&(c.dev=!0),i.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&o.on("internal-error",function(t){r(t.stack)}),c.dev&&o.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:i(c||new UncaughtException(t,e,n),!0)}catch(f){try{o("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function i(t,e){var n=e?null:s.now();o("err",[t,n])}var o=t("handle"),a=t(24),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),s.xhrWrappable&&t(10),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){o("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var i=t("ee"),o=t("handle"),a=t(9),c=t(8),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof x&&o("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),c.on(m,function(){this.bstStart=y.now()}),c.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function i(t){c.inPlace(t,[u,d],"-",o)}function o(t,e){return t[1]}var a=t("ee").get("events"),c=t("wrap-function")(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var c=r.apply(this,t);return i.emit(n+"start",[t,a],c),c.then(function(t){return i.emit(n+"end",[null,t],c),t},function(t){throw i.emit(n+"end",[t],c),t})})}var i=t("ee").get("fetch"),o=t(24),a=t(23);e.exports=i;var c=window,s="fetch-",f=s+"body-",u=["arrayBuffer","blob","json","text","formData"],d=c.Request,l=c.Response,p=c.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(c,"fetch",s),i.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),i.emit(s+"done",[null,e],n)}else i.emit(s+"done",[t],n)}))},{}],7:[function(t,e,n){var r=t("ee").get("history"),i=t("wrap-function")(r);e.exports=r;var o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,e,n){var r=t("ee").get("raf"),i=t("wrap-function")(r),o="equestAnimationFrame";e.exports=r,i.inPlace(window,["r"+o,"mozR"+o,"webkitR"+o,"msR"+o],"raf-"),r.on("raf-start",function(t){t[0]=i(t[0],"fn-")})},{}],9:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var o=t("ee").get("timer"),a=t("wrap-function")(o),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=o,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),o.on(s+u,r),o.on(c+u,i)},{}],10:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",c)}function o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),o(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function r(t){if(!c(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||s(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&s(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function i(t,e){return"00-"+e+"-"+t+"-01"}function o(t,e,n,r,i){var o=0,a="",c=1,s="",f="";return i+"@nr="+o+"-"+c+"-"+n+"-"+r+"-"+t+"-"+a+"-"+s+"-"+f+"-"+e}function a(t,e,n,r,i,o){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var c={v:[0,1],d:{ty:"Browser",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(c.d.tk=o),btoa(JSON.stringify(c))}function c(t){return f()&&s(t)}function s(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function l(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var p=t(20),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:c}},{}],12:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=s(e),t.sameOrigin=t.parsedOrigin.sameOrigin}function o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(13),f=t(11).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(17),m=t(16),w=t(14),v=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<l;c++)e.addEventListener(d[c],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof v&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof v&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.parsedOrigin=s(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if("string"==typeof t[0]){var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)})}},{}],13:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement("a"),n=window.location,i={};e.href=t,i.port=e.port;var o=e.href.split("://");!i.port&&o[1]&&(i.port=o[1].split("/")[0].split("@").pop().split(":")[1]),i.port&&"0"!==i.port||(i.port="https"===o[0]?"443":"80"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],"/"!==i.pathname.charAt(0)&&(i.pathname="/"+i.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,c=e.hostname===document.domain&&e.port===n.port;return i.sameOrigin=a&&(!e.hostname||c),"/"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?i(t.response):"text"===n||""===n||void 0===n?i(t.responseText):void 0}var i=t(16);e.exports=r},{}],15:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(23),c=t(24),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=i(l+e,!0,"api")}),u.addPageAction=i(l+"addPageAction",!0),u.setCurrentRouteName=i(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((i?"":"no-")+"fn-start",[f.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],17:[function(t,e,n){var r=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(r=+i[1]),e.exports=r},{}],18:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(25);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],19:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d("timing",["fi",e,n])}}function c(t){d("pageHide",[l.now(),t])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var s,f,u,d=t("handle"),l=t("loader"),p=t(22),h=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(m){}f=new PerformanceObserver(i);try{f.observe({entryTypes:["largest-contentful-paint"]})}catch(m){}u=new PerformanceObserver(o);try{u.observe({type:"layout-shift",buffered:!0})}catch(m){}}if("addEventListener"in document){var w=!1,v=["click","keydown","mousedown","pointerdown","touchstart"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(c)}},{}],20:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var i,o="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",c=0;c<o.length;c++)i=o[c],"x"===i?a+=t().toString(16):"y"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return a}function i(){return a(16)}function o(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return o.join("")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],21:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=s[1])}e.exports={agent:i,version:o,match:r}},{}],22:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],23:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],24:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],25:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?s(t,c,o):o()}function n(n,r,i,o){if(!l.aborted||o){t&&t(n,r,i);for(var a=e(i),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||i(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:a,aborted:!1};return x}function o(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(23),u={},d={},l=e.exports=i();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(g,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=t(18),c=t("handle"),s=t(23),f=t("ee"),u=t(21),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1184.min.js"},y=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:a.getLastTimestamp(),now:a,origin:v,features:{},xhrWrappable:y,userAgent:u};t(15),t(19),l[p]?(l[p]("DOMContentLoaded",o,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",i),d[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var b=0},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var i=t("ee"),o=t(24),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,i){function nrWrapper(){var r,a,c,s;try{a=this,r=o(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,i],c])}u(e+"start",[r,a,i],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,i,o){i||(i="");var a,c,s,f="-"===i.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+i:i,o,c))}function u(n,r,i){if(!s||e){var o=s;s=!0;try{t.emit(n,r,i,e)}catch(a){l([a,n,r,i])}s=o}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var i in t)c.call(t,i)&&(e[i]=t[i]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=i),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,12,4,3]);</script>
+<meta itemprop="image" content="sites/all/themes/hde/images/favicons/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="sites/all/themes/hde/images/favicons/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="sites/all/themes/hde/images/favicons/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="sites/all/themes/hde/images/favicons/faviconexports/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="sites/all/themes/hde/images/favicons/faviconexports/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="sites/all/themes/hde/images/favicons/faviconexports/favicon-16x16.png" />
+<link rel="manifest" href="sites/all/themes/hde/images/favicons/faviconexports/site.webmanifest" />
+<link rel="mask-icon" href="sites/all/themes/hde/images/favicons/faviconexports/safari-pinned-tab.svg" />
+<meta name="msapplication-TileColor" content="#283c98" />
+<meta name="theme-color" content="#283c98" />
+<script>/*
+  AUTOASSETS
+    bases: viewmode--full | viewmode--full--landing
+    group: 999
+    directory: ds
+*/
+</script>
+<script>/*
+  AUTOASSETS
+    bases: viewmode--c4 | viewmode--c4--testimonial
+    group: 999
+    directory: ds
+*/
+</script>
+<script>/*
+  AUTOASSETS
+    bases: viewmode--c5 | viewmode--c5--f2f_events
+    group: 999
+    directory: ds
+*/
+</script>
+<script>/*
+  AUTOASSETS
+    bases: viewmode--c5 | viewmode--c5--event
+    group: 999
+    directory: ds
+*/
+</script>
+<script>/*
+  AUTOASSETS
+    bases: viewmode--h1 | viewmode--h1--landing
+    group: 999
+    directory: ds
+*/
+</script>
+<link rel="dns-prefetch" href="//addthis.com" />
+<link rel="dns-prefetch" href="//m.addthis.com" />
+<link rel="dns-prefetch" href="//s7.addthis.com" />
+<link rel="dns-prefetch" href="//googletagmanager.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="dns-prefetch" href="//snap.licdn.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//static.ads-twitter.com" />
+<link rel="dns-prefetch" href="//analytics.twitter.com" />
+<link rel="dns-prefetch" href="//pixel.sitescout.com" />
+<link rel="dns-prefetch" href="//vars.hotjar.com" />
+<link rel="dns-prefetch" href="//script.hotjar.com" />
+<link rel="dns-prefetch" href="//static.hotjar.com" />
+<link rel="dns-prefetch" href="//in.hotjar.com" />
+<link rel="dns-prefetch" href="//c.lytics.io" />
+<link rel="dns-prefetch" href="//api.lytics.io" />
+<link rel="dns-prefetch" href="//bam.nr-data.net" />
+<link rel="dns-prefetch" href="//js-agent.newrelic.com" />
+<link rel="dns-prefetch" href="//munchkin.marketo.net" />
+<link rel="dns-prefetch" href="//app-ab05.marketo.com" />
+<link rel="dns-prefetch" href="//adservice.google.com" />
+<link rel="dns-prefetch" href="//googleads.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//centro.pixel.ad" />
+<link rel="dns-prefetch" href="//sitescout.com" />
+<link rel="dns-prefetch" href="//px.ads.linkedin.com" />
+<link rel="dns-prefetch" href="//www.facebook.com" />
+<link rel="dns-prefetch" href="//t.co" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/fonts.js" as="script" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/fonts.css" as="style" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/Verlag/woff2/Verlag-Bold.woff2" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/Verlag/woff2/Verlag-BoldItalic.woff2" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/Verlag/woff2/Verlag-Book.woff2" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/Verlag/woff2/Verlag-Light.woff2" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="/sites/all/themes/hde/fonts/Verlag/woff2/Verlag-XLight.woff2" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="https://use.typekit.net/af/bd543f/0000000000000000000175e2/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="https://use.typekit.net/af/4b70da/0000000000000000000175e3/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="https://use.typekit.net/af/3a1800/0000000000000000000175dc/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3" as="font" type="font/woff2" crossorigin="" />
+<link rel="preload" href="https://use.typekit.net/af/2b603b/0000000000000000000175de/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3" as="font" type="font/woff2" crossorigin="" />
+<link rel="preconnect" href="//www.himss.org" />
+<link rel="preconnect" href="//use.typekit.net" />
+<link rel="shortcut icon" href="/sites/all/themes/hde/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.himss.org/node/143349" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TFHM67W');</script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=himss"></script>
+
+    <link rel="stylesheet" media="all" href="/sites/hde/files/css/css_HHHeAHEOY8Rn-4-SaaNJjRvACarLNQgkHwdsB9xPsdA.css" />
+<link rel="stylesheet" media="all" href="/sites/hde/files/css/css_zg3kZ4fbnymFbeeLiDRh3j-BvqTaXga3cS96-Vz5nuU.css" />
+<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/hde/files/css/css_aI1GmbvBBzusym36kb-6TTnXhzVL3RZeXLGlnDS9mzI.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/hde/files/js/js_b8Yp3W86wzrNBwI1OgRfopocFUw4bA_ld42NT9_Qi3c.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="layout-no-sidebars page-node-143349 container-disable path-frontpage node--type-landing">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFHM67W" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg d-flex navbar-light px-3 py-0 py-lg-3 shadow-0 justify-content-center">
+        <a href="/"
+       title="Himss.org" rel="home"
+       class="navbar-brand font-weight-bold d-block p-0 m-0 ml-n2 ml-lg-0 ml-xl-n2">
+      <img
+              src="/sites/all/themes/hde/images/logo/HIMSSlogo_Hwhitelogotype_RGB.svg"
+              width="200" height="80" alt="Homepage"/>
+    </a>
+
+        
+<div id="main-menu-desktop-wrapper">
+            <ul class="clearfix navbar-nav">
+                              <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                              <a href="/who-we-are" id="main_1" class="nav-link dropdown-toggle text-uppercase" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/142758" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142758" data-drupal-entity-bundle="landing">WHO WE ARE</a>
+                  <div aria-labelledby="main_1"
+         class="dropdown-menu second-level-menu rounded-0 pt-1 pb-0 mt-0 border-0 mb-0 bg-white">
+      <div class="container p-0 d-inline-block w-auto">
+        <div class="list-group dropdown-item bg-white pr-4" id="list-tab-main_1"
+             role="tablist">
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_1_tab_1-parent" href="/who-we-are" data-id="#main_1_tab_1-child"
+              role="tab">About Us</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_1_tab_2-parent" href="https://external-himss.icims.com/" data-id="#main_1_tab_2-child"
+              role="tab">Careers at HIMSS</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_1_tab_3-parent" href="/who-we-are-executive-leadership" data-id="#main_1_tab_3-child"
+              role="tab">LEADERSHIP</a>
+                  </div>
+      </div>
+      <div class="col-4 p-0 d-inline-block align-top">
+        <div class="tab-content" id="nav-tabContent-main_1">
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_1_tab_1-child"
+              role="tabpanel"
+              aria-labelledby="main_1_tab_1-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_1_tab_1-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_1_tab_2-child"
+              role="tabpanel"
+              aria-labelledby="main_1_tab_2-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_1_tab_2-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_1_tab_3-child"
+              role="tabpanel"
+              aria-labelledby="main_1_tab_3-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_1_tab_3-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="background-canvas dropdown-menu rounded-0 pt-4 mt-0 mb-0 bg-white">
+    </div>
+  
+        </li>
+                              <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                              <a href="/what-we-do-initiatives" id="main_2" class="nav-link dropdown-toggle text-uppercase" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/142727" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142727" data-drupal-entity-bundle="landing">WHAT WE DO</a>
+                  <div aria-labelledby="main_2"
+         class="dropdown-menu second-level-menu rounded-0 pt-1 pb-0 mt-0 border-0 mb-0 bg-white">
+      <div class="container p-0 d-inline-block w-auto">
+        <div class="list-group dropdown-item bg-white pr-4" id="list-tab-main_2"
+             role="tablist">
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_2_tab_1-parent" href="/what-we-do-initiatives" data-id="#main_2_tab_1-child"
+              role="tab">INITIATIVES</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_2_tab_2-parent" href="/what-we-do-solutions" data-id="#main_2_tab_2-child"
+              role="tab">SOLUTIONS</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_2_tab_3-parent" href="/what-we-do-opportunities" data-id="#main_2_tab_3-child"
+              role="tab">OPPORTUNITIES</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_2_tab_4-parent" href="/what-we-do-public-policy-advocacy" data-id="#main_2_tab_4-child"
+              role="tab">PUBLIC POLICY AND ADVOCACY</a>
+                  </div>
+      </div>
+      <div class="col-4 p-0 d-inline-block align-top">
+        <div class="tab-content" id="nav-tabContent-main_2">
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_2_tab_1-child"
+              role="tabpanel"
+              aria-labelledby="main_2_tab_1-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_2_tab_1-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_2_tab_2-child"
+              role="tabpanel"
+              aria-labelledby="main_2_tab_2-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_2_tab_2-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_2_tab_3-child"
+              role="tabpanel"
+              aria-labelledby="main_2_tab_3-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_2_tab_3-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_2_tab_4-child"
+              role="tabpanel"
+              aria-labelledby="main_2_tab_4-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_2_tab_4-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="background-canvas dropdown-menu rounded-0 pt-4 mt-0 mb-0 bg-white">
+    </div>
+  
+        </li>
+                              <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                              <a href="/membership-types/individual" id="main_3" class="nav-link dropdown-toggle text-uppercase" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/142954" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142954" data-drupal-entity-bundle="landing">MEMBERSHIP</a>
+                  <div aria-labelledby="main_3"
+         class="dropdown-menu second-level-menu rounded-0 pt-1 pb-0 mt-0 border-0 mb-0 bg-white">
+      <div class="container p-0 d-inline-block w-auto">
+        <div class="list-group dropdown-item bg-white pr-4" id="list-tab-main_3"
+             role="tablist">
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_3_tab_1-parent" href="/membership-types/individual" data-id="#main_3_tab_1-child"
+              role="tab">TYPES AND BENEFITS</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_3_tab_2-parent" href="/chapters" data-id="#main_3_tab_2-child"
+              role="tab">PARTICIPATION</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_3_tab_3-parent" href="/membership/himss-member-directory" data-id="#main_3_tab_3-child"
+              role="tab">DIRECTORY</a>
+                  </div>
+      </div>
+      <div class="col-4 p-0 d-inline-block align-top">
+        <div class="tab-content" id="nav-tabContent-main_3">
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_3_tab_1-child"
+              role="tabpanel"
+              aria-labelledby="main_3_tab_1-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_3_tab_1-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_3_tab_2-child"
+              role="tabpanel"
+              aria-labelledby="main_3_tab_2-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_3_tab_2-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_3_tab_3-child"
+              role="tabpanel"
+              aria-labelledby="main_3_tab_3-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_3_tab_3-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="background-canvas dropdown-menu rounded-0 pt-4 mt-0 mb-0 bg-white">
+    </div>
+  
+        </li>
+                              <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                              <a href="/resources-all" id="main_4" class="nav-link dropdown-toggle text-uppercase" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/143272" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="143272" data-drupal-entity-bundle="landing">RESOURCES</a>
+                  <div aria-labelledby="main_4"
+         class="dropdown-menu second-level-menu rounded-0 pt-1 pb-0 mt-0 border-0 mb-0 bg-white">
+      <div class="container p-0 d-inline-block w-auto">
+        <div class="list-group dropdown-item bg-white pr-4" id="list-tab-main_4"
+             role="tablist">
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_4_tab_1-parent" href="/resources-all" data-id="#main_4_tab_1-child"
+              role="tab">RESOURCE CENTER</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_4_tab_2-parent" href="/certification" data-id="#main_4_tab_2-child"
+              role="tab">CERTIFICATION</a>
+                  </div>
+      </div>
+      <div class="col-4 p-0 d-inline-block align-top">
+        <div class="tab-content" id="nav-tabContent-main_4">
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_4_tab_1-child"
+              role="tabpanel"
+              aria-labelledby="main_4_tab_1-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_4_tab_1-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_4_tab_2-child"
+              role="tabpanel"
+              aria-labelledby="main_4_tab_2-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_4_tab_2-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="background-canvas dropdown-menu rounded-0 pt-4 mt-0 mb-0 bg-white">
+    </div>
+  
+        </li>
+                              <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                              <a href="/news" id="main_5" class="nav-link dropdown-toggle text-uppercase" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/142961" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142961" data-drupal-entity-bundle="landing">NEWS</a>
+                  <div aria-labelledby="main_5"
+         class="dropdown-menu second-level-menu rounded-0 pt-1 pb-0 mt-0 border-0 mb-0 bg-white">
+      <div class="container p-0 d-inline-block w-auto">
+        <div class="list-group dropdown-item bg-white pr-4" id="list-tab-main_5"
+             role="tablist">
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_5_tab_1-parent" href="/news/covid-19-weekly-roundup" data-id="#main_5_tab_1-child"
+              role="tab">COVID-19 Updates</a>
+                                                                                  <a  class="list-group-item list-group-item-action my-1 border-0 text-uppercase"
+              id="main_5_tab_2-parent" href="/news" data-id="#main_5_tab_2-child"
+              role="tab">HIMSS News</a>
+                  </div>
+      </div>
+      <div class="col-4 p-0 d-inline-block align-top">
+        <div class="tab-content" id="nav-tabContent-main_5">
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_5_tab_1-child"
+              role="tabpanel"
+              aria-labelledby="main_5_tab_1-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_5_tab_1-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                      <div
+              class="p-0 tab-pane tab-content fade menu-third-level "
+              id="main_5_tab_2-child"
+              role="tabpanel"
+              aria-labelledby="main_5_tab_2-child">
+              <div class="wysiwyg-editor-cards"
+                   aria-labelledby="main_5_tab_2-child">
+                              </div>
+              <div class="card-entity-reference">
+                              </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+    <div class="background-canvas dropdown-menu rounded-0 pt-4 mt-0 mb-0 bg-white">
+    </div>
+  
+        </li>
+                              <li class="nav-item dropdown megamenu">
+                              <a href="/events" id="main_6" class="nav-link text-uppercase" data-toggle="" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/142960" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142960" data-drupal-entity-bundle="landing">EVENTS</a>
+              
+        </li>
+          </ul>
+  
+</div>
+<div id="main-menu-mobile-wrapper" class="d-none">
+  <a class="mburger mburger--collapse mr-n3" href="#main-menu-mobile">
+    <b></b>
+    <b></b>
+    <b></b>
+  </a>
+  <nav  class="clearfix navbar-nav" id="main-menu-mobile">
+                <ul>
+                      <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                                                          <span>
+              WHO WE ARE
+            </span>
+            
+                    <ul>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/who-we-are" title="Who We Are" data-drupal-link-system-path="node/142758" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142758" data-drupal-entity-bundle="landing">About Us</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="https://external-himss.icims.com/">Careers at HIMSS</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/who-we-are-executive-leadership" title="Leadership" data-drupal-link-system-path="node/144474" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144474" data-drupal-entity-bundle="landing">LEADERSHIP</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                                                          <span>
+              WHAT WE DO
+            </span>
+            
+                    <ul>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/what-we-do-initiatives" data-drupal-link-system-path="node/142727" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142727" data-drupal-entity-bundle="landing">INITIATIVES</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/what-we-do-solutions" data-drupal-link-system-path="node/142725" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142725" data-drupal-entity-bundle="landing">SOLUTIONS</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/what-we-do-opportunities" data-drupal-link-system-path="node/142724" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142724" data-drupal-entity-bundle="landing">OPPORTUNITIES</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/what-we-do-public-policy-advocacy" data-drupal-link-system-path="node/142726" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142726" data-drupal-entity-bundle="landing">PUBLIC POLICY AND ADVOCACY</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                                                          <span>
+              MEMBERSHIP
+            </span>
+            
+                    <ul>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/membership-types/individual" data-drupal-link-system-path="node/142954" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142954" data-drupal-entity-bundle="landing">TYPES AND BENEFITS</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/chapters" title="Participation" data-drupal-link-system-path="node/142972" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142972" data-drupal-entity-bundle="landing">PARTICIPATION</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/membership/himss-member-directory" data-drupal-link-system-path="node/142959" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142959" data-drupal-entity-bundle="basic_page">DIRECTORY</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                                                          <span>
+              RESOURCES
+            </span>
+            
+                    <ul>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/resources-all" title="resources" data-drupal-link-system-path="node/143272" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="143272" data-drupal-entity-bundle="landing">RESOURCE CENTER</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/certification" data-drupal-link-system-path="node/142979" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142979" data-drupal-entity-bundle="landing">CERTIFICATION</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="nav-item dropdown megamenu menu-item--expanded dropdown">
+                                                          <span>
+              NEWS
+            </span>
+            
+                    <ul>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/news/covid-19-weekly-roundup" data-drupal-link-system-path="node/144022" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144022" data-drupal-entity-bundle="landing">COVID-19 Updates</a>
+                  </li>
+                      <li class="list-group-item list-group-item-action my-1 border-0 text-uppercase">
+                                <a href="/news" data-drupal-link-system-path="node/142961" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142961" data-drupal-entity-bundle="landing">HIMSS News</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                      <li class="nav-item dropdown megamenu">
+                                <a href="/events" data-drupal-link-system-path="node/142960" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142960" data-drupal-entity-bundle="landing">EVENTS</a>
+                  </li>
+          </ul>
+  
+  </nav>
+</div>
+
+
+
+
+
+        <form class="form-inline user-links-menu mr-3">
+      
+      <div id="user-menu-panel-desktop" class="dropdown d-flex flex-row">
+                  <a href="https://sso.himss.org/Login.aspx?vi=13&amp;vt=499da9b3fefc913b46e0a822a168ab32aebaa63a99fbe4bdd06ee72bc00c3779d32620b44dd54e22721a75d21fc07ba9" class="external-processed">SIGN IN</a>
+                      <a href="/membership-join">JOIN</a>
+                        </div>
+
+      <div id="user-menu-panel-mobile" class="container">
+                              <div class="menu-item join py-2">
+              <a href="/membership-join">JOIN</a>
+            </div>
+                    <div class="menu-item login py-3">
+            <a href="https://sso.himss.org/Login.aspx?vi=13&amp;vt=499da9b3fefc913b46e0a822a168ab32aebaa63a99fbe4bdd06ee72bc00c3779d32620b44dd54e22721a75d21fc07ba9" class="external-processed">SIGN IN</a>
+          </div>
+              </div>
+    </form>
+
+        <div class="dropdown search-form">
+      <a class="shadow-none bg-transparent border-0"
+         href="#collapse-search" role="button"
+         id="navbar-search" data-toggle="collapse"
+         aria-controls="collapse-search" aria-expanded="false">
+        <i class="fa search-icon"></i>
+      </a>
+    </div>
+    <div class="collapse no-transition pt-0 pt-md-1" id="collapse-search">
+              
+<form class="views-exposed-form bef-exposed-form views-exposed-form-site-search-site-search" data-drupal-selector="views-exposed-form-site-search-site-search-5f873a7bbf6ee" action="/site-search" method="get" id="views-exposed-form-site-search-site-search-5f873a7bbf6ee" accept-charset="UTF-8">
+  
+
+<div class="filter-form-custom filter-exposed-form-site-search col">
+  
+
+
+  <fieldset class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-search-api-fulltext form-item-search-api-fulltext form-group col-auto">
+          
+                <input data-drupal-selector="edit-search-api-fulltext-site-search-5f873a7bbf708" data-search-api-autocomplete-search="site_search" class="form-autocomplete form-text form-control" data-autocomplete-path="/search_api_autocomplete/site_search?display=site_search&amp;&amp;filter=search_api_fulltext" type="text" id="edit-search-api-fulltext-site-search-5f873a7bbf708" name="search_api_fulltext" value="" size="30" maxlength="128" />
+
+                  </fieldset>
+
+
+
+  <fieldset class="js-form-item js-form-type-select form-type-select js-form-item-sort-by form-item-sort-by form-group col-auto">
+          <label for="edit-sort-by">Sort by:</label>
+                
+<select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="search_api_relevance" selected="selected">Relevance</option><option value="created">Most Recent</option></select>
+                  </fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group col-auto" id="edit-actions"><input data-drupal-selector="edit-submit-site-search-5f873a7bbf6f4" type="submit" id="edit-submit-site-search-5f873a7bbf6f4" value="Apply Filter" class="button js-form-submit form-submit btn btn-primary form-control" />
+<input data-drupal-selector="edit-reset-site-search-5f873a7bbf6fe" type="submit" id="edit-reset-site-search-5f873a7bbf6fe" name="op" value="Reset Filters" class="button js-form-submit form-submit btn btn-primary form-control" />
+</div>
+
+</div>
+
+
+</form>
+
+  <div class="search-glass-icon">
+    <button type="submit" data-drupal-selector="edit-submit-site-search" class="d-none js-form-submit form-submit btn btn-primary form-control submit-search bg-transparent w-auto border-0 shadow-none custom-search-icon"><i class="fa fa-search color-dark-blue"></i></button>
+
+  </div>
+
+    </div>
+  </nav>
+</header>
+
+            <div class="highlighted-content">
+          <div data-drupal-messages-fallback class="hidden"></div>
+<div class="block block-ctools block-entity-viewnode">
+  
+    
+      <div class="content">
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+      <div class="field field--name-field-attached-content-static field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+  <div class="paragraph-h1 w-100">
+          <div class="block-h1 overflow-hidden">
+      <div class="h-content d-flex flex-column justify-content-end justify-content-md-center">
+        <div class="background-shadow">
+          <div
+            class="container pb-0 pb-md-5 overflow-hidden h-container-bg"             style="background-image: url(https://www.himss.org/sites/hde/files/media/image/2020/10/05/global-health-equity-week.png)"
+            >
+            <div class="row">
+              <div class="col-md-6">
+                <div class="h-content-sub">
+                                      <h1 class="white mt-4">Global Health Equity Week</h1>
+                                                        <h3 class="white mt-4">Join us for this global action week celebrating the power of information and technology to improve access to healthcare for all.</h3>
+                                                        <a href="/event-global-health-equity-week"
+                       class="button primary white mt-4 mb-sm-0 mb-4"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144717" data-drupal-entity-bundle="landing">
+                      Support Healthy Communities
+                    </a>
+                                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+
+    </div>
+  </div>
+
+
+      </div>
+      
+  
+        <div id="page" class="content-area container">
+      <div class="row">
+        
+        
+                
+
+                  
+                      <section id="main-content" class="main-content col col-sm-12" id="content" role="main">
+                
+
+<article role="article" class="node node--type-landing node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+      <div class="field field--name-field-attached-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="container field__item">
+
+  <div class="paragraph-b1 py-5">
+    
+
+  <div class="block-b1">
+    <div class="block-content overflow-hidden row">
+      <div class="col-wrapper">
+                          <div class="overflow-hidden">
+              <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/paragraph_b1_xl_l/public/media/image/2020/10/05/cybersecurity-in-healthcare.jpg?itok=7VghLAtW 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/paragraph_b1_xl_l/public/media/image/2020/10/05/cybersecurity-in-healthcare.jpg?itok=7VghLAtW 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/paragraph_b1_medium/public/media/image/2020/10/05/cybersecurity-in-healthcare.jpg?itok=BwjEAjca 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/paragraph_b1_s/public/media/image/2020/10/05/cybersecurity-in-healthcare.jpg?itok=XH4NWjbu 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/paragraph_b1_s/public/media/image/2020/10/05/cybersecurity-in-healthcare.jpg?itok=XH4NWjbu" />
+
+  </picture>
+
+          </div>
+                <article class="content-section-body mb-4">
+                      <div class="topic text-uppercase mt-4">
+              Cybersecurity and Privacy
+            </div>
+                                <h2>
+              <a href="/resources/cybersecurity-healthcare"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144242" data-drupal-entity-bundle="landing">A Guide to Cybersecurity in Healthcare</a>
+            </h2>
+                                <p>Protect your electronic information and assets from unauthorized access, use and disclosure. Discover how to identify cyberthreats, understand best practices, and demystify laws and regulations related to cybersecurity in healthcare.</p>
+
+                  </article>
+              </div>
+      <div class="col-wrapper">
+                <div class="featured-content d-flex flex-column align-self-baseline">
+                      <section class="featured-items">
+                              <article class="item mb-4">
+                  <div class="row">
+                    <div class="col order-1 order-md-0 mt-3 mt-md-0 invisible">
+                                              <div class="topic text-uppercase">
+                          Logistics
+                        </div>
+                                                                    <h3 class="font-weight-normal">
+                          <a href="/resources/accelerating-supply-chain-innovation"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144790" data-drupal-entity-bundle="resource_library">Accelerating Supply Chain Innovation</a>
+                        </h3>
+                                                                    <div class="line-clamp-3">
+                          <p>Our guest on this episode of the Accelerate Health Podcast is making the industry think differently about supply chain innovation.</p>
+
+                        </div>
+                                          </div>
+                    <div class="col-12 col-md-4 order-0 order-md-1">
+                                            <div class="d-flex justify-content-center overflow-hidden">
+                          <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_xl/public/media/image/2020/10/14/supplychain.png?itok=_ck5IbhD 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_l/public/media/image/2020/10/14/supplychain.png?itok=64HanLpV 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_m/public/media/image/2020/10/14/supplychain.png?itok=d5Qeam4p 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/supplychain.png?itok=AU956tFq 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/supplychain.png?itok=AU956tFq" />
+
+  </picture>
+
+                      </div>
+                    </div>
+                  </div>
+                                  </article>
+                              <article class="item mb-4">
+                  <div class="row">
+                    <div class="col order-1 order-md-0 mt-3 mt-md-0 invisible">
+                                              <div class="topic text-uppercase">
+                          Logistics
+                        </div>
+                                                                    <h3 class="font-weight-normal">
+                          <a href="/resources/navigating-key-stakeholder-pathways-healthcare-innovators"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144792" data-drupal-entity-bundle="resource_library">Navigating Key Stakeholder Pathways for Healthcare Innovators</a>
+                        </h3>
+                                                                    <div class="line-clamp-3">
+                          <p>Sample pathway for navigating how to collaborate on innovation with health systems.</p>
+
+                        </div>
+                                          </div>
+                    <div class="col-12 col-md-4 order-0 order-md-1">
+                                            <div class="d-flex justify-content-center overflow-hidden">
+                          <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_xl/public/media/image/2020/10/14/navigating-key-stakeholder-pathways-for-healthcare-innovators-160x160.png?itok=Hr7Zzy2U 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_l/public/media/image/2020/10/14/navigating-key-stakeholder-pathways-for-healthcare-innovators-160x160.png?itok=Ofc_Uxd_ 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_m/public/media/image/2020/10/14/navigating-key-stakeholder-pathways-for-healthcare-innovators-160x160.png?itok=dmqG04YS 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/navigating-key-stakeholder-pathways-for-healthcare-innovators-160x160.png?itok=y1llMmMn 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/navigating-key-stakeholder-pathways-for-healthcare-innovators-160x160.png?itok=y1llMmMn" />
+
+  </picture>
+
+                      </div>
+                    </div>
+                  </div>
+                                  </article>
+                              <article class="item mb-4">
+                  <div class="row">
+                    <div class="col order-1 order-md-0 mt-3 mt-md-0 invisible">
+                                              <div class="topic text-uppercase">
+                          Digital Health
+                        </div>
+                                                                    <h3 class="font-weight-normal">
+                          <a href="/news/himss-forrester-survey-assesses-supply-chain-management-covid-19-pandemic"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144787" data-drupal-entity-bundle="news">HIMSS-Forrester Survey Assesses Supply Chain Management in COVID-19 Pandemic</a>
+                        </h3>
+                                                                    <div class="line-clamp-3">
+                          <p>HIMSS and Forrester are partnering to assess supply chain management technologies and processes related to COVID-19.</p>
+
+                        </div>
+                                          </div>
+                    <div class="col-12 col-md-4 order-0 order-md-1">
+                                            <div class="d-flex justify-content-center overflow-hidden">
+                          <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_xl/public/media/image/2020/10/14/himssforrester-survey-assess-supply-chain-management-in-covid19-pandemic.png?itok=aDw12LVX 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_l/public/media/image/2020/10/14/himssforrester-survey-assess-supply-chain-management-in-covid19-pandemic.png?itok=r8abpu_z 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_m/public/media/image/2020/10/14/himssforrester-survey-assess-supply-chain-management-in-covid19-pandemic.png?itok=2fl88Fuu 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/png" data-srcset="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/himssforrester-survey-assess-supply-chain-management-in-covid19-pandemic.png?itok=TuBY9Q1_ 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/paragraph_c3_s/public/media/image/2020/10/14/himssforrester-survey-assess-supply-chain-management-in-covid19-pandemic.png?itok=TuBY9Q1_" />
+
+  </picture>
+
+                      </div>
+                    </div>
+                  </div>
+                                  </article>
+                          </section>
+                  </div>
+              </div>
+    </div>
+  </div>
+
+  </div>
+</div>
+              <div class="row d-block field__item">
+
+  <div class="paragraph-b2 w-100">
+      <div
+    class="block-b2 overflow-hidden d-flex flex-column justify-content-end justify-content-md-center"
+    style=" background-image: url(https://www.himss.org/sites/hde/files/media/image/2019/11/03/image-brand-feature-home.jpg); ">
+    <div class="container">
+      <div class="row">
+        <div
+          class="col-md-7 offset-md-5 content-section d-flex flex-column px-lg-5">
+                      <h4 class="blue-light topic text-uppercase">
+              HIMSS21 Call for Proposals
+            </h4>
+                                <h2 class="mt-4">
+              <a href="https://www.himssconference.org/program/call-for-proposals" >Your podium awaits. HIMSS21 seeks proposals to present education sessions across 17 topic categories. </a>
+            </h2>
+          
+                    
+                                <div>
+              <a href="https://www.himssconference.org/program/call-for-proposals" class="button primary white mt-4" >
+                Share Your Expertise
+              </a>
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+</div>
+              <div class="container field__item">  <div class="my-5 row paragraph paragraph--type--block-reference paragraph--view-mode--default">
+          
+  <div class="w-100 field field--name-field-views-reference field--type-viewsreference field--label-visually_hidden">
+    <div class="field__label visually-hidden">Select Views Reference</div>
+              <div class="field__item">
+<div class="viewsreference--view-title h2 my-4 col-auto">
+    Upcoming Events
+</div>
+<div class="views-element-container col-auto"><div class="view view-events view-id-events view-display-id-block_upcoming_events_list js-view-dom-id-af2032b18a6f497e9617a040cc688af405a939e41432e12cc9ac891ff800178a">
+  
+    
+      
+      <div class="view-content row">
+      
+
+<div class="upcoming-events-block col-12">
+  <div class="row">
+          
+                    
+      <div  class="views-row d-flex flex-md-self-align-stretch w-100 pt-4 pt-md-0 col-xl-6 col-md-4">
+
+    <div class="card-c5 w-100 h-100 overflow-hidden">
+    <div class="card-img">
+              <a href="/events/himss-virtual-career-fair"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144367" data-drupal-entity-bundle="event">
+            <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_xl/public/media/image/2020/09/15/virtual-career-fair.jpg?itok=7x4-tKFG 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_l/public/media/image/2020/09/15/virtual-career-fair.jpg?itok=sPrurIpY 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_md/public/media/image/2020/09/15/virtual-career-fair.jpg?itok=ecbZnx_Y 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_s/public/media/image/2020/09/15/virtual-career-fair.jpg?itok=z2Tx7XGX 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/card_c5_xl/public/media/image/2020/09/15/virtual-career-fair.jpg?itok=7x4-tKFG" />
+
+  </picture>
+
+        </a>
+                </div>
+    <div class="content p-3">
+      <div class="additional-info-top pb-2">
+                  <div class="date">
+            
+            <div class="field field--name-field-date-range field--type-daterange field--label-hidden field__item"><span class="date-display-range">October 21, 2020</span></div>
+      
+          </div>
+                              </div>
+      <div class="title">
+                  <a href="/events/himss-virtual-career-fair"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144367" data-drupal-entity-bundle="event">
+            <span>HIMSS Virtual Career Fair</span>
+          </a>
+              </div>
+              <div class="type pt-2">
+          Webinar
+        </div>
+          </div>
+  </div>
+
+</div>
+          
+                    
+      <div  class="views-row d-flex flex-md-self-align-stretch w-100 pt-4 pt-md-0 col-xl-3 col-md-4">
+
+    <div class="card-c5 w-100 h-100 overflow-hidden">
+    <div class="card-img">
+              <a href="/events/covid-19-interoperability-rules-roadbetter-data-better-interoperability"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144639" data-drupal-entity-bundle="event">
+            <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_xl/public/CMS-Expanding-Patient-Access-to-Data-in-Interoperability-Proposed-Regulation-1024x512.jpg?itok=VXUQhAkt 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_l/public/CMS-Expanding-Patient-Access-to-Data-in-Interoperability-Proposed-Regulation-1024x512.jpg?itok=PPBYAPzI 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_md/public/CMS-Expanding-Patient-Access-to-Data-in-Interoperability-Proposed-Regulation-1024x512.jpg?itok=H92nwqGP 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_s/public/CMS-Expanding-Patient-Access-to-Data-in-Interoperability-Proposed-Regulation-1024x512.jpg?itok=mp5dZTO3 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="CMS Expanding Patient Access to Data in Interoperability Proposed Regulation" title="" class="lazyload" data-src="/sites/hde/files/styles/card_c5_xl/public/CMS-Expanding-Patient-Access-to-Data-in-Interoperability-Proposed-Regulation-1024x512.jpg?itok=VXUQhAkt" />
+
+  </picture>
+
+        </a>
+                </div>
+    <div class="content p-3">
+      <div class="additional-info-top pb-2">
+                  <div class="date">
+            
+            <div class="field field--name-field-date-range field--type-daterange field--label-hidden field__item"><span class="date-display-range">October 23, 2020</span></div>
+      
+          </div>
+                              </div>
+      <div class="title">
+                  <a href="/events/covid-19-interoperability-rules-roadbetter-data-better-interoperability"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="144639" data-drupal-entity-bundle="event">
+            <span>COVID-19:  Interoperability Rules of the Road…Better Data, Better Interoperability</span>
+          </a>
+              </div>
+              <div class="type pt-2">
+          Webinar
+        </div>
+          </div>
+  </div>
+
+</div>
+          
+                    
+      <div  class="views-row d-flex flex-md-self-align-stretch w-100 pt-4 pt-md-0 col-xl-3 col-md-4">
+
+    <div class="card-c5 w-100 h-100 overflow-hidden">
+    <div class="card-img">
+              <a href="/event-accelerate-health"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="143522" data-drupal-entity-bundle="f2f_events">
+            <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_xl/public/external/brand.himss.org/m/344f4d59060ef600/webimage-GettyImages-1189923466.jpg?itok=98UzlmJC 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_l/public/external/brand.himss.org/m/344f4d59060ef600/webimage-GettyImages-1189923466.jpg?itok=MDL2jUQb 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_md/public/external/brand.himss.org/m/344f4d59060ef600/webimage-GettyImages-1189923466.jpg?itok=zLOjPgBW 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/jpeg" data-srcset="/sites/hde/files/styles/card_c5_s/public/external/brand.himss.org/m/344f4d59060ef600/webimage-GettyImages-1189923466.jpg?itok=q36r8PUG 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="GettyImages-1189923466" title="GettyImages-1189923466" class="lazyload" data-src="/sites/hde/files/styles/card_c5_xl/public/external/brand.himss.org/m/344f4d59060ef600/webimage-GettyImages-1189923466.jpg?itok=98UzlmJC" />
+
+  </picture>
+
+        </a>
+                </div>
+    <div class="content p-3">
+      <div class="additional-info-top pb-2">
+                  <div class="date">
+            
+            <div class="field field--name-field-date-range-date-only field--type-daterange field--label-hidden field__item">November 18, 2020</div>
+      
+          </div>
+                          <div class="location">Digital Series</div>
+                      </div>
+      <div class="title">
+                  <a href="/event-accelerate-health"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="143522" data-drupal-entity-bundle="f2f_events">
+            <span>Accelerate Health</span>
+          </a>
+              </div>
+              <div class="type pt-2">
+          Webinar
+        </div>
+          </div>
+  </div>
+
+</div>
+      </div>
+</div>
+
+<div class="content-footer mx-auto">
+  <a href="/events" class="button secondary dark-blue mt-5"> Browse all </a>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+      </div>
+</div>
+              <div class="container field__item">
+
+  <div class="container">
+    <hr>
+  </div>
+
+</div>
+              <div class="container field__item">  <div class="my-5 row paragraph paragraph--type--block-reference paragraph--view-mode--default">
+          
+  <div class="w-100 field field--name-field-views-reference field--type-viewsreference field--label-visually_hidden">
+    <div class="field__label visually-hidden">Select Views Reference</div>
+              <div class="field__item"><div class="views-element-container col-auto"><div class="view view-testimonial view-id-testimonial view-display-id-block_testimonial_slider js-view-dom-id-3cdc7b84ad3659aea79b59d51155a0863e14dcc2a5b5931c0c46198a2397ba20">
+  
+    
+      
+      <div class="view-content row">
+      
+
+
+          
+
+    <div class="container">
+      <div class="row">
+        <div class="slick-default macros-ss1 w-100 overflow-hidden">
+          <div class="slider-ss1 mb-0">
+                          
+
+    <div class="card-c4 mb-lg-4 mb-0">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2 offset-md-1 my-4 my-md-0 d-none d-lg-block">
+                      <div class="author-photo d-flex justify-content-center">
+                <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_author_photo_xl/public/media/image/2020/10/08/joia-clear-perry.png?itok=uaGH0YHV 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_author_photo_l_md_xs_sm/public/media/image/2020/10/08/joia-clear-perry.png?itok=qnmTojqy 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_author_photo_l_md_xs_sm/public/media/image/2020/10/08/joia-clear-perry.png?itok=qnmTojqy 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_author_photo_l_md_xs_sm/public/media/image/2020/10/08/joia-clear-perry.png?itok=qnmTojqy 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/card_c4_author_photo_l_md_xs_sm/public/media/image/2020/10/08/joia-clear-perry.png?itok=qnmTojqy" />
+
+  </picture>
+
+            </div>
+                  </div>
+        <div
+          class="col-lg-6 col-md-10 offset-lg-0 offset-md-1">
+                      <div
+              class="row no-gutters h2 blue-dark content-body italic mb-4 mb-xl-5">
+              “Communities have the answers to be the change. Our job is to listen and amplify their voices! Communities are poised to be changemakers and need the support of technology to amplify and connect their work.” 
+            </div>
+                    <div class="row no-gutters sub-content mb-2 mt-4 mt-sm-2 mt-xl-2 d-flex align-items-center">
+            <div class="col-md-6 pr-0 pr-md-4 author-info">
+                              <div class="author-name"> Joia Crear Perry, MD, FACOG  </div>
+                                            <div class="job-title"> President, National Birth Equity Collaborative </div>
+                          </div>
+
+                          <div
+                class="col-md-6 pl-0 pl-md-4 my-md-0 mt-4 mb-2 company-logo overflow-hidden">
+                  <picture>
+                  <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 75em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_company_logo_xl/public/media/image/2020/10/08/nbec-logo.png?itok=nZQPHpKN 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 62em) and (max-width: 74.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_company_logo_l_md_s/public/media/image/2020/10/08/nbec-logo.png?itok=Fl3cnyOG 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 48em) and (max-width: 61.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_company_logo_xl/public/media/image/2020/10/08/nbec-logo.png?itok=nZQPHpKN 1x"/>
+              <source srcset="modules/custom/administration/assets/img/lazysizes-1x1.png" media="all and (min-width: 34em) and (max-width: 47.99em)" type="image/png" data-srcset="/sites/hde/files/styles/card_c4_company_logo_xl/public/media/image/2020/10/08/nbec-logo.png?itok=nZQPHpKN 1x"/>
+                  <img src="modules/custom/administration/assets/img/lazysizes-1x1.png" alt="" title="" class="lazyload" data-src="/sites/hde/files/styles/card_c4_company_logo_l_md_s/public/media/image/2020/10/08/nbec-logo.png?itok=Fl3cnyOG" />
+
+  </picture>
+
+              </div>
+                      </div>
+        </div>
+
+                  <div class="col-lg-2 col-md-10 offset-lg-0 offset-md-1 my-4 my-lg-0">
+            <a href="/membership-participation/communities"
+               class="button primary dark-blue"  data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142974" data-drupal-entity-bundle="landing"> Be the Change</a>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+                      </div>
+          <div
+            class="slide-control d-flex flex-row justify-content-center mt-md-4 mt-3">
+            <a role='button'
+               class="slide-arrow my-auto slide-prev"></a>
+            <div class="slide-dots"></div>
+            <a role='button'
+               class="slide-arrow my-auto slide-next"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+    </div>
+  
+          </div>
+</div>
+</div>
+          </div>
+
+      </div>
+</div>
+          </div>
+  
+  </div>
+</article>
+
+
+            </section>
+          
+                  
+
+        
+              </div>
+    </div>
+  
+            <div id="page-bottom">
+        <div class="main-bottom">
+          
+        </div>
+      </div>
+      
+  
+
+<footer>
+  <div class="container pb-4">
+    <div class="row ">
+      <div class="col-md-6 col-12 col-lg-3">
+        <div class="row footer-logo">
+                    <a href="/"
+             title="Himss.org" rel="home"
+             class="navbar-brand font-weight-bold d-block">
+            <img
+              src="/sites/all/themes/hde/images/logo/HIMSSlogo_Hwhitelogotype_RGB.svg"
+              width="225" height="70" alt="Homepage"/>
+          </a>
+        </div>
+        <div class="footer-contact-info mx-0">
+          <div class="footer-contact">
+                        
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p>33 West Monroe Street, Suite 1700<br />
+Chicago, IL 60603-5616 </p>
+<div class="phone">Phone: 312.664.4467</div>
+<div class="fax">Fax: 312.664.6143</div>
+</div>
+      
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-xl-7 d-none d-lg-block">
+        <div class="footer-main">
+                    
+              <ul class="nav nav navbar-nav">
+                    <li class="nav-item">
+                <a href="/what-we-do-initiatives" class="nav-link" data-drupal-link-system-path="node/142727" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142727" data-drupal-entity-bundle="landing">WHAT WE DO</a>
+              </li>
+                <li class="nav-item">
+                <a href="/resources-all" class="nav-link" data-drupal-link-system-path="node/143272" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="143272" data-drupal-entity-bundle="landing">RESOURCES</a>
+              </li>
+                <li class="nav-item">
+                <a href="/events" class="nav-link" data-drupal-link-system-path="node/142960" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="142960" data-drupal-entity-bundle="landing">EVENTS</a>
+              </li>
+        </ul>
+  
+
+
+        </div>
+      </div>
+      <div class="footer-right-social col-md-6 col-12 col-xl-2 col-lg-3 pr-md-0 pl-xl-0 flex-grow-1 ml-xl-n2 mw-100">
+        <div class="footer-title footer-connect text-uppercase">
+          Connect
+        </div>
+                                          
+
+  <form action="/subscription" method="POST"
+        class="himss-subscription mktoForm">
+    <div class="form-content">
+      <input type="hidden" name="sub_product_updates" value="true"/>
+      <div class="mktoFormRow">
+  <div class="mktoFieldWrap">
+    <input type="text" name="FirstName"
+           value="test@himss.org" hidden>
+    <input type="text" name="LastName"
+           value="test@himss.org" hidden>
+    <label for="EmailAddress" id="LblEmail" class="mktoLabel m-0"
+           style="width: 150px;">
+      Get the latest on HIMSS events and resources.
+    </label>
+    <div class="mktoClear"></div>
+    <div class="marketoWrapper mb-2 mt-1">
+      <input id="Email" name="EmailAddress" placeholder="Email Address"
+             maxlength="255" aria-labelledby="LblEmail" type="email"
+             class="mktoField mktoEmailField"
+             style="width: 150px;">
+      <div class="mktoButtonRow">
+        <span class="mktoButtonWrap mktoSimple">
+          <button type="submit" class="mktoButton">Submit</button>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+    <div class="form-success element-hidden hidden">
+      <p class="text-uppercase m-0">Thank you</p><a href="https://cloud.emailhimss.org/UpdatePreferences" style="color:white;text-decoration:underline;" rel="noopener" target="_blank">Manage your subscriptions</a>
+    </div>
+    <div class="form-failure element-hidden hidden">
+      Subscribe error, please contact the customer service. Thank you
+    </div>
+  </form>
+
+        <div class="nav footer-social">
+                    
+            <div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__item"><p><a class="nav-link fa fa-3x fa-facebook-official" href="https://www.facebook.com/HIMSSpage" target="_blank" title="Follow HIMSS on Facebook" rel="nofollow"></a> <a class="nav-link fa fa-3x fa-twitter" href="https://twitter.com/himss" target="_blank" title="Follow HIMSS on Twitter" rel="nofollow"></a> <a class="nav-link fa fa-3x fa-linkedin" href="https://www.linkedin.com/company/himss/" target="_blank" title="Connect with HIMSS on LinkedIn" rel="nofollow"></a> <a class="nav-link fa fa-3x fa-youtube" href="http://youtube.com/himss" title="Subscribe to HIMSS on YouTube" rel="nofollow"></a> <a class="nav-link fa fa-3x fa-instagram" href="https://www.instagram.com/himssglobal" title="Subscribe to HIMSS on Instagram" rel="nofollow"></a></p>
+</div>
+      
+        </div>
+      </div>
+    </div>
+    <div class="footer-info mx-0 mt-2 mt-md-5">
+            
+              <ul class="nav">
+                    <li class="nav-item">
+                <span class="nav-link">© 2020 Healthcare Information and Management Systems Society, Inc. (HIMSS). All rights reserved.</span>
+              </li>
+                <li class="nav-item">
+                <a href="/himss-legal" class="nav-link" data-drupal-link-system-path="node/29651" data-drupal-route-name="entity.node.canonical" data-drupal-entity-type="node" data-drupal-entity-id="29651" data-drupal-entity-bundle="basic_page">Legal/Privacy Policy</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/143349","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"administration\/chapter-suggestion-cookie,administration\/eu_compliance_settings_button,base_theme\/bootstrap,base_theme\/global-styling,base_theme\/polyfill,better_exposed_filters\/general,bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_barrio\/node,core\/html5shiv,datalayer\/behaviors,datalayer\/helper,enterprise_ads\/enterprise_ads.theme,eu_cookie_compliance\/eu_cookie_compliance_bare,hde\/autoassets_card\/b1,hde\/autoassets_card\/b2,hde\/autoassets_card\/c4,hde\/autoassets_card\/c5,hde\/autoassets_card\/h1,hde\/autoassets_ds\/viewmode__full__landing,hde\/autoassets_html,hde\/autoassets_include\/app,hde\/autoassets_menu\/menu__footer,hde\/autoassets_node\/node__landing,hde\/autoassets_region\/footer,hde\/autoassets_region\/header,hde\/autoassets_views\/view,hde\/autoassets_views\/view__events__block_upcoming_events_list,hde\/himss-subscription,hde\/line-clamp.config,hde\/mmenu-js.config,hde\/slick.config.slider-ss1,hde\/url-search-params,hde\/views-exposed-form-site-search,layout_discovery\/onecol,paragraphs\/drupal.paragraphs.unpublished,search_api_autocomplete\/search_api_autocomplete,system\/base,views\/views.module","theme":"hde","theme_token":null},"ajaxTrustedUrl":{"\/site-search":true},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info w-100 mt-3 mb-3\u0022\u003E\n  \u003Cdiv class=\u0022container text-left\u0022\u003E\n    \u003Cdiv class=\u0022row\u0022\u003E\n      \u003Cdiv class=\u0022col-sm-8\u0022\u003E\u003Cdiv class=\u0022gdpr-body\u0022\u003EThis site uses cookies to personalize content and improve site efficiency. Information about your use of the site may be shared with third parties in accordance with our \u003Ca class=\u0022font-weight-bold font-italic\u0022 href=\u0022\/about\/legal#privacy\u0022\u003EPrivacy Policy\u003C\/a\u003E. By accepting all non-essential cookies, you consent to the use of such cookies and agree that we can save cookies on your device. By rejecting all non-essential cookies, you can still use the site but some functionality within the site may be impacted. Please refer to our \u003Ca class=\u0022font-weight-bold font-italic\u0022 href=\u0022\/about\/legal#cookie\u0022\u003ECookie Policy\u003C\/a\u003E for a more detailed description of the essential and non-essential cookies used on this site and to update your cookie settings at any time.\u003C\/div\u003E\u003C\/div\u003E\n      \u003Cdiv class=\u0022col-sm-3 eu-cookie-compliance-buttons text-center\u0022\u003E\n        \u003Cdiv class=\u0022d-flex flex-column justify-content-center align-items-center h-100 w-100\u0022\u003E\n          \u003Cbutton type=\u0022button\u0022\n                  class=\u0022agree-button eu-cookie-compliance-agree-button mb-3 px-3\u0022\u003E\n            Accept All Non-Essential Cookies \n          \u003C\/button\u003E\n                      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-more-button px-3\u0022\u003E\n              Reject All Non-Essential Cookies\n            \u003C\/button\u003E\n                  \u003C\/div\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info w-100 mt-3 mb-3\u0022\u003E\n  \u003Cdiv class=\u0022container text-left\u0022\u003E\n    \u003Cdiv class=\u0022row\u0022\u003E\n      \u003Cdiv class=\u0022col-sm-8\u0022\u003E\u003C\/div\u003E\n      \u003Cdiv class=\u0022col-sm-3 eu-cookie-compliance-buttons text-center\u0022\u003E\n        \u003Cdiv class=\u0022d-flex flex-column justify-content-center align-items-center h-100 w-100\u0022\u003E\n          \u003Cbutton type=\u0022button\u0022\n                  class=\u0022agree-button eu-cookie-compliance-agree-button mb-3 px-3\u0022\u003E\n            Accept All Non-Essential Cookies \n          \u003C\/button\u003E\n                      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-more-button px-3\u0022\u003E\n              Reject All Non-Essential Cookies\n            \u003C\/button\u003E\n                  \u003C\/div\u003E\n      \u003C\/div\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/about\/legal#privacy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_in","whitelisted_cookies":"ShowSubscribeLightbox\r\nRTP cookies\r\ndont_change_locale\r\nMunchkin\r\nDrupal\r\nAWS\r\nLytics\r\nMarketing automation webtrackingcookie (\u201cMunchkin\u201d)","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":true,"fix_first_cookie_category":true,"select_all_categories_by_default":false},"autoassets_loaded_css":["sites\/all\/themes\/hde\/css\/ds\/viewmode--full--landing.css","sites\/all\/themes\/hde\/css\/region\/footer.css","sites\/all\/themes\/hde\/css\/region\/header.css","sites\/all\/themes\/hde\/css\/menu\/menu--footer.css","sites\/all\/themes\/hde\/css\/card\/b2.css","sites\/all\/themes\/hde\/css\/card\/c4.css","sites\/all\/themes\/hde\/css\/card\/h1.css","sites\/all\/themes\/hde\/css\/card\/c5.css","sites\/all\/themes\/hde\/css\/card\/b1.css","sites\/all\/themes\/hde\/css\/node\/node--landing.css","sites\/all\/themes\/hde\/css\/views\/view--events--block_upcoming_events_list.css","sites\/all\/themes\/hde\/css\/views\/view.css","sites\/all\/themes\/hde\/css\/include\/app.css","sites\/all\/themes\/hde\/css\/html.css"],"autoassets_loaded_js":["sites\/all\/themes\/hde\/js\/include\/app.js"],"user":{"uid":0,"permissionsHash":"2703182ee4d0aa09da3e1a87baeabf7249bbc9566234ae4d01a2d44f1901a7f0"}}</script>
+<script src="/sites/hde/files/js/js_RX_5xaC4nTk0FOVxU8iszNuhKi0bhWf3hcRB9RPzUDQ.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+<script src="/sites/hde/files/js/js_2kgos6aK2PmX-V6yVg6mGybLJX3oE52yd7u_rHPtOFg.js"></script>
+<script src="//cdn.jsdelivr.net/npm/css-vars-ponyfill@2"></script>
+<script src="//unpkg.com/stickybits@3.5.7/dist/stickybits.min.js"></script>
+<script src="/sites/hde/files/js/js_7pr0fTYZ0buLLa_-GVCM5oENKiB7RLEhrtAEE7FjZ7M.js"></script>
+<script src="/libraries/mburger-css/dist/mburger.js?qi4tzp" type="module"></script>
+<script src="/sites/hde/files/js/js_qEwYPTAsC8UI3k-U0qSKUSCBBwCl_EUERmDSL9Z4qag.js"></script>
+<script src="//unpkg.com/@ungap/url-search-params@0.1.4/min.js"></script>
+<script src="/sites/hde/files/js/js_VTFFEdWEQSQdMUfLXuj3Af9BUTdYhNngIrDNjuwKR40.js"></script>
+
+            <div id="bootstrap-sizer">
+        <div class="d-block d-sm-none d-md-none d-lg-none d-xl-none" data-size="xs"></div>
+        <div class="d-none d-sm-block d-md-none d-lg-none d-xl-none" data-size="sm"></div>
+        <div class="d-none d-sm-none d-md-block d-lg-none d-xl-none" data-size="md"></div>
+        <div class="d-none d-sm-none d-md-none d-lg-block d-xl-none" data-size="lg"></div>
+        <div class="d-none d-sm-none d-md-none d-lg-none d-xl-block" data-size="xl"></div>
+      </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bf70f03321","applicationID":"48002951","transactionName":"NVBSZ0AFXERUVxJQWQwacVBGDV1ZGkQHXlM9VlFQWgE=","queueTime":0,"applicationTime":20,"atts":"GRdREQgfT0o=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

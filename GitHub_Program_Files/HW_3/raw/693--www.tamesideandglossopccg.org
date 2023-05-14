@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head id="head"><title>
+	/ - NHS Tameside and Glossop Clinical Commissioning Group
+</title><meta name="description" content="(root)" /> 
+<meta charset="UTF-8" /> 
+<meta name="keywords" content="nhs, tameside, glossop, ccg" /> 
+<script>
+  var serviceUrl = "//api.reciteme.com/asset/js?key=";
+  var serviceKey = "2116bcbe2eeb91a7a94835b992ddc24ba3fb557a";
+  var options = {};  // Options can be added as needed
+  var autoLoad = false;
+  var enableFragment = "#reciteEnable";
+
+  var loaded=[],frag=!1;window.location.hash===enableFragment&&(frag=!0);function loadScript(c,b){var a=document.createElement("script");a.type="text/javascript";a.readyState?a.onreadystatechange=function(){if("loaded"==a.readyState||"complete"==a.readyState)a.onreadystatechange=null,void 0!=b&&b()}:void 0!=b&&(a.onload=function(){b()});a.src=c;document.getElementsByTagName("head")[0].appendChild(a)}function _rc(c){c+="=";for(var b=document.cookie.split(";"),a=0;a<b.length;a++){for(var d=b[a];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(c))return d.substring(c.length,d.length)}return null}function loadService(c){for(var b=serviceUrl+serviceKey,a=0;a<loaded.length;a++)if(loaded[a]==b)return;loaded.push(b);loadScript(serviceUrl+serviceKey,function(){"function"===typeof _reciteLoaded&&_reciteLoaded();"function"==typeof c&&c();Recite.load(options);Recite.Event.subscribe("Recite:load",function(){Recite.enable()})})}"true"==_rc("Recite.Persist")&&loadService();if(autoLoad&&"false"!=_rc("Recite.Persist")||frag)document.addEventListener?document.addEventListener("DOMContentLoaded",function(c){loadService()}):loadService();
+</script><link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/base.css" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/normalize.css" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/owl.carousel.css" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/print.css" media="print" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/grid-md.css" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/grid-lg.css" media="all and (min-width: 1440px)" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/theme-md.css" />
+<link rel="stylesheet" href="/Sites/NHSTGCCG/theme/css/theme-lg.css" media="all and (min-width: 1440px)">
+
+<!--<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script> DI Removed 23/03/2020 -->
+<script src="/Sites/NHSTGCCG/theme/js/modernizr.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5751125-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-5751125-12');
+    
+</script> 
+<link href="/Sites/NHSTGCCG/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/Sites/NHSTGCCG/favicon.ico" type="image/x-icon" rel="icon"/>
+<link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?_webpartlayouts=652" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR Unknown ENGB ContentBody" >
+    
+    <form method="post" action="/" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="yxaJJ7p45ucNhSBllW8qJp37VeKBU3hQYPGNfQeGP/9mAndkmLltvPgO4nwWG0l3/qKznVb2afn4sf1aQVFGjJGhIfZs7+fsaCT4nmuH7A0=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="lng" id="lng" value="en-GB" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(540); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(540); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yHbAWFgGlfZgyJvz2sLdF2iclwVYJCkhZF5EYAmILYsQRfSY4R043ndmuM6wVutR9ttM99d7Ecpfhh77Gp4j_BYVQivy--YHaxblZ6nXmkjempiyZ_YeoRXESDPXqVekFlm4PAE_HlT0pzOiKcH6G9E1&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<header>
+  
+    <div class="cp-header">
+        <div class="cp-header-main">
+            <div class="container">
+                <div class="row cf">
+                    <div class="col-md-12">
+                      <div class="cp-links">
+                            <ul class="cp-list-unstyled">
+                                <ul class="cp-list-unstyled">
+	<li><a class="reciteme" href="#" title="Accessibility">Accessibility</a></li>
+	<li><a href="/accessibilitystatement">Accessibility Statement</a></li>
+	<li><a href="/" title="Home">Home</a></li>
+	<li><a href="/about-us" title="About us">About</a></li>
+	<li><a href="/corporate">Corporate</a></li>
+	<li><a href="/useful-resources">Useful resources</a></li>
+	<li><a href="/contact-us">Contact us</a></li>
+</ul>
+
+                            </ul>
+                        </div>
+                        <div class="cp-search">
+                            <div id="p_lt_ctl02_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl02_SmartSearchBox_txtWord" id="p_lt_ctl02_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl02$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl02_SmartSearchBox_txtWord" class="form-control" placeholder="Search" />
+    
+    <input type="image" name="p$lt$ctl02$SmartSearchBox$btnImageButton" id="p_lt_ctl02_SmartSearchBox_btnImageButton" alt="Search" />
+    <div id="p_lt_ctl02_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row cf">
+                <div class="col-md-12">
+                    <a title="Homepage" href="/">
+                        <img class="cp-logo" src="/Sites/NHSTGCCG/theme/images/nhs-logo.png" alt="NHS Tameside and Glossop Clinical Commissioning Group" title="NHS Tameside and Glossop Clinical Commissioning Group" style="float: right; padding: 20px 0; max-width: 240px; width: 100%; border: none;" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="cp-header-lower">
+            <div class="container">
+                <div class="row cf">
+                    <div class="col-md-12">
+                        <nav>
+                            <div class="cp-main-nav">
+                                <ul class="cp-list-unstyled">
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/your-health">
+                                            Your health
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="Your Health" src="/Sites/NHSTGCCG/theme/images/your-health-4.jpg" title="Your Health" />
+<div class="content">
+<h4>We want to help people in Tameside and Glossop live longer, healthier lives.</h4>
+</div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Dementia" href="/your-health/dementia">Dementia</a></li><li><a title="Lung conditions" href="/your-health/living-with-a-lung-condition">Lung conditions</a></li><li><a title="Lung cancer" href="/your-health/lung-cancer">Lung cancer</a></li><li><a title="Asthma" href="/your-health/asthma">Asthma</a></li><li><a title="Chronic Obstructive Pulmonary Disease" href="/your-health/living-with-a-lung-condition/chronic-obstructive-pulmonary-disease">Chronic Obstructive Pulmonary Disease</a></li><li><a title="Flu" href="/your-health/flu">Flu</a></li><li><a title="Patient choice" href="/your-health/patient-choice">Patient choice</a></li><li><a title="Children&#39;s health information" href="/your-health/children-s-health-information">Children&#39;s health information</a></li><li><a title="Learning Disabilities Mortality Review (LeDer) Programme" href="/your-health/learning-disabilities-mortality-review-(leder)-pro">Learning Disabilities Mortality Review (LeDer) Programme</a></li><li><a title="Effective Use of Resources" href="/your-health/effective-use-of-resources">Effective Use of Resources</a></li><li><a title="NHS Continuing Health Care" href="/your-health/nhs-continuing-health-care">NHS Continuing Health Care</a></li><li><a title="Care Navigation" href="/your-health/care-navigation">Care Navigation</a></li><li><a title="Pharmacists Tameside" href="/your-health/care-navigation/tameside/pharmacists-tameside">Pharmacists Tameside</a></li><li><a title="Opticians Tameside" href="/your-health/care-navigation/tameside/opticians">Opticians Tameside</a></li><li><a title="Opticians Glossop" href="/your-health/care-navigation/glossop/opticians">Opticians Glossop</a></li><li><a title="Pharmacists Glossop" href="/your-health/care-navigation/glossop/pharmacists">Pharmacists Glossop</a></li>
+</ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/get-involved">
+                                            Get involved
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="Get Involved" src="/Sites/NHSTGCCG/theme/images/get-involved-1.jpg" title="Get Involved" />
+<div class="content">
+<h3><span>Empowerment and Partnership</span></h3>
+
+<p><span>Ensuring local people have input to the development and delivery of health and care services</span></p>
+</div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Urgent Care Consultation" href="/get-involved/urgent-care-consultation">Urgent Care Consultation</a></li><li><a title="Intermediate Care Consultation" href="/get-involved/intermediate-care-consultation">Intermediate Care Consultation</a></li><li><a title="Patient Participation Groups" href="/get-involved/patient-participation-groups">Patient Participation Groups</a></li><li><a title="Patient Neighbourhood Groups" href="/get-involved/patient-neighbourhood-groups">Patient Neighbourhood Groups</a></li><li><a title="Care Opinion" href="/get-involved/care-opinion">Care Opinion</a></li><li><a title="The work of our PNGs" href="/get-involved/patient-neighbourhood-groups/the-work-of-our-pngs">The work of our PNGs</a></li><li><a title="Tameside &amp; Glossop Partnership Engagement Network (PEN)" href="/get-involved/tameside-glossop-partnership-engagement-network-(p">Tameside &amp; Glossop Partnership Engagement Network (PEN)</a></li><li><a title="The Big Conversation" href="/get-involved/the-big-conversation">The Big Conversation</a></li><li><a title="Budget Conversation 2020/21" href="/get-involved/budget-conversation-2020-21">Budget Conversation 2020/21</a></li>
+</ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/local-services">
+                                            Local services
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="Local Services" src="/Sites/NHSTGCCG/theme/images/campaign-spotlight.jpg" title="Local Services" />
+<div class="content">
+<h4>If you become unwell or injured make sure you choose the right service.</h4>
+</div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Local services" href="/local-services/local-services">Local services</a></li><li><a title="GP online services" href="/local-services/gp-online-services">GP online services</a></li><li><a title="Accident and Emergency" href="/local-services/accident-and-emergency">Accident and Emergency</a></li><li><a title="Residential and nursing home managers" href="/local-services/residential-and-nursing-home-managers">Residential and nursing home managers</a></li><li><a title="Mental Health Services" href="/local-services/mental-health-services">Mental Health Services</a></li><li><a title="GP practices" href="/local-services/gp-practices">GP practices</a></li><li><a title="Dementia events and training" href="/local-services/residential-and-nursing-home-managers/dementia-events-and-training">Dementia events and training</a></li><li><a title="Pharmacists Tameside" href="/local-services/pharmacists-tameside">Pharmacists Tameside</a></li><li><a title="Opticians Tameside" href="/local-services/opticians-tameside">Opticians Tameside</a></li><li><a title="Opticians Glossop" href="/local-services/opticians">Opticians Glossop</a></li><li><a title="Pharmacists Glossop" href="/local-services/pharmacists-glossop">Pharmacists Glossop</a></li><li><a title="Urgent Treatment (incl. walk-in)" href="/local-services/urgent-treatment-(incl-walk-in)">Urgent Treatment (incl. walk-in)</a></li>
+</ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/news">
+                                            News
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="News" src="/Sites/NHSTGCCG/theme/images/news-1.jpg" title="News" />
+<div class="content">
+<h4>Information about&nbsp;current news affecting local people in Tameside and Glossop.</h4>
+</div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Ordering medicines and deliveries during COVID-19" href="/news/ordering-medicines-and-deliveries-during-covid-19"><small>14 October 2020</small> <br /> Ordering medicines and deliveries during COVID-19</a></li><li><a title="The Healthy Hyde Team wins prestigious British Medical Journal Award" href="/news/the-healthy-hyde-team-wins-prestigious-british-med"><small>09 October 2020</small> <br /> The Healthy Hyde Team wins prestigious British Medical Journal Award</a></li><li><a title="How to access your GP during the pandemic" href="/news/how-to-access-your-gp-during-the-pandemic"><small>01 October 2020</small> <br /> How to access your GP during the pandemic</a></li><li><a title="Help available for elderly at risk of malnutrition" href="/news/help-available-for-elderly-at-risk-of-malnutri-(1)"><small>28 September 2020</small> <br /> Help available for elderly at risk of malnutrition</a></li>
+</ul>
+<a class="cp-main-nav-link" href="/news">More News</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/campaigns">
+                                            Campaigns
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="Campaigns" src="/Sites/NHSTGCCG/theme/images/healthy-eating-4.jpg" title="Campaigns" />
+<div class="content">
+<h5>Informing and educating</h5>
+<strong>Campaigns about local services to enable people to help themselves to remain healthy and reduce the need for medical treatment.</strong></div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Right Treatment Right Place" href="/campaigns/right-treatment-right-place">Right Treatment Right Place</a></li><li><a title="3 before GP" href="/campaigns/3-before-gp">3 before GP</a></li><li><a title="5 Ways to Wellbeing" href="/campaigns/5-ways-to-wellbeing">5 Ways to Wellbeing</a></li><li><a title="#Knowmore" href="/campaigns/knowmore">#Knowmore</a></li><li><a title="Smoking Cessation" href="/campaigns/smoking-cessation">Smoking Cessation</a></li><li><a title="Keep Antibiotics Working" href="/campaigns/keep-antibiotics-working">Keep Antibiotics Working</a></li>
+</ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="has-children">
+                                        <a class="cp-main-nav-link" href="/clinical">
+                                            Clinical
+                                        </a>
+                                        <div class="cp-sub-nav">
+                                            <div class="row cf">
+                                                <div class="col-md-6">
+                                                    <div class="spotlight">
+                                                        <img alt="Clinical" src="/Sites/NHSTGCCG/theme/images/clinical-3.jpg" title="Clinical" />
+<div class="content">
+<h4>This area contains clinical information and is for use by healthcare professionals.</h4>
+</div>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <ul class="cp-list-unstyled">
+<li><a title="Effective Use of Resources" href="/clinical/effective-use-of-resources">Effective Use of Resources</a></li><li><a title="e-Referrals" href="/clinical/e-referrals">e-Referrals</a></li><li><a title="Getting Help" href="/clinical/getting-help">Getting Help</a></li><li><a title="HCP Emergency Services" href="/clinical/hcp-emergency-services">HCP Emergency Services</a></li><li><a title="Falls" href="/clinical/falls">Falls</a></li><li><a title="Medicines Management" href="/clinical/medicines-management">Medicines Management</a></li><li><a title="Optometry Services" href="/clinical/optometry-services">Optometry Services</a></li><li><a title="Advance Care Planning" href="/clinical/advance-care-planning">Advance Care Planning</a></li><li><a title="GP Infection Prevention" href="/clinical/gp-infection-prevention">GP Infection Prevention</a></li><li><a title="Interpreting Services" href="/clinical/interpreting-services">Interpreting Services</a></li>
+</ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<main>
+  <div class="cp-carousel">
+<div class="owl-carousel" id="cp-carousel">
+<div class="owl-item-bg" style="background-image: url(&quot;/Sites/NHSTGCCG/theme/images/carousel/carouselbg1.jpg&quot;);">
+<div class="container">
+<div class="carousel-content purple welcome welcome" data-title="Welcome" id="welcome">
+<h1>Welcome to NHS Tameside and Glossop Clinical Commissioning Group (CCG).</h1>
+<h5>Our aim is to improve the health and lives of nearly 250,000 people across Tameside and Glossop through the services we commission.</h5>
+We are a membership organisation led by our local GPs across Ashton, Denton, Glossop, Hyde and Stalybridge.<br />
+<a class="cp-btn button2" href="/about-us">About us</a>&nbsp;<br />
+&nbsp;
+<h2 style="margin: 0cm 0cm 0pt; text-align: center;"><a href="/coronavirusaccessingprimarycare"><span style="color: rgb(255, 255, 255);">Coronavirus (COVID-19): Service changes, support and guidance</span></a></h2>
+</div>
+</div>
+</div>
+
+<div class="owl-item-bg" style="background-image: url(&quot;/Sites/NHSTGCCG/theme/images/carousel/carouselbg2.jpg&quot;);">
+<div class="container">
+<div class="carousel-content lightblue get-involved Get-involved" data-title="Get Involved" id="Get-involved">
+<h1>Get Involved</h1>
+<ol>
+<li>
+  <h5><a href="/get-involved/budget-conversation-2020-21">Budget Conversation 2020/21</a></h5>
+</li><li>
+  <h5><a href="/get-involved/budget-conversation-2020-21-outcome">Budget Conversation 2020/21 Outcome</a></h5>
+</li><li>
+  <h5><a href="/get-involved/patient-participation-groups">Patient Participation Groups</a></h5>
+</li>
+</ol></div>
+</div>
+</div>
+
+<div class="owl-item-bg" style="background-image: url(&quot;/Sites/NHSTGCCG/theme/images/carousel/carouselbg3.jpg&quot;);">
+<div class="container">
+<div class="carousel-content midgreen news News" data-title="News" id="News">
+<h1>Latest News</h1>
+
+<p><ul class="cp-list-unstyled">
+<li>
+  <span class="tiny">14 Oct 2020</span>
+  <a title="Ordering medicines and deliveries during COVID-19" href="/news/ordering-medicines-and-deliveries-during-covid-19">
+    <h5>Ordering medicines and deliveries during COVID-19</h5>
+  </a>
+  <p>Residents are being advised on how they can help pharmacies in Tameside and Glossop this winter meet the demands for the supply of medicines and...</p>
+</li>
+<li>
+  <span class="tiny">09 Oct 2020</span>
+  <a title="The Healthy Hyde Team wins prestigious British Medical Journal Award" href="/news/the-healthy-hyde-team-wins-prestigious-british-med">
+    <h5>The Healthy Hyde Team wins prestigious British Medical Journal Award</h5>
+  </a>
+  <p>The award for Primary Care Team of the Year was given to The Hyde Healthy Team at this year&rsquo;s prestigious 12th British Medical Journal (BMJ...</p>
+</li>
+
+</ul>
+<a class="cp-btn button2" href="/news">More News</a></p>
+</div>
+</div>
+</div>
+
+<div class="owl-item-bg" style="background-image: url(&quot;/Sites/NHSTGCCG/theme/images/carousel/carouselbg5.jpg&quot;);">
+<div class="container">
+<div class="carousel-content darkgreen campaigns Campaigns" data-title="Campaigns" id="Campaigns">
+<h1>Campaigns</h1>
+<ol>
+<li style="height: 100px;">
+<span style="width: 20%; float: left; text-align:center;"></span>
+<span style="width: 80%; float: right;">
+  <a href="/campaigns/keep-antibiotics-working" title="Keep Antibiotics Working">
+    <h5>Keep Antibiotics Working</h5>
+  </a>
+  <p></p>
+</span>
+</li><li style="height: 100px;">
+<span style="width: 20%; float: left; text-align:center;"></span>
+<span style="width: 80%; float: right;">
+  <a href="/campaigns/right-treatment-right-place" title="Right Treatment Right Place">
+    <h5>Right Treatment Right Place</h5>
+  </a>
+  <p></p>
+</span>
+</li>
+</ol>
+<a class="cp-btn button2" href="/campaigns">More Campaigns</a></div>
+</div>
+</div>
+</div>
+</div>
+
+  
+
+</main>
+<footer>
+    <div class="cp-footer">
+        <div class="cp-footer-top">
+            <div class="container">
+                <div class="row cf">
+                    <div class="col-md-10 col-md-offset-1">
+                        <p class="cp-copy">
+                            ©
+                            <script>document.write(new Date().getFullYear());</script> NHS Tameside and Glossop Clinical Commissioning Group.
+                        </p>
+                        <div class="cp-social">
+                            <p>Follow us on</p>
+<a class="Facebook" href="https://www.facebook.com/TGCCG" target="_blank" title="Facebook"><img alt="Facebook" src="/Sites/NHSTGCCG/theme/images/facebook.png" title="Facebook" /> </a><a class="Twitter" href="https://twitter.com/TGCCG" target="_blank" title="Twitter"><img alt="Twitter" src="/Sites/NHSTGCCG/theme/images/twitterlogo.png" title="Twitter" /> </a><a class="Pinterest" href="https://www.pinterest.com/TGCCG" target="_blank" title="Pinterest"><img alt="Pinterest" src="/Sites/NHSTGCCG/theme/images/pinterest.png" title="Pinterest" /> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cp-footer-main">
+            <div class="container">
+                <div class="row cf">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="cp-footer-column">
+                            <div class="cp-links purple">
+                                <ul class="cp-list-unstyled">
+	<li><a href="/"><span>Home</span> </a></li>
+	<li>
+	<div class="cp-sub-nav">
+	<ul class="cp-list-unstyled">
+		<li><a href="/copyright-notice">Copyright notice</a></li>
+		<li><a href="/terms-and-conditions">Terms and Conditions</a></li>
+		<li><a href="/privacynotice">Privacy Notice</a></li>
+		<li><a href="/disclaimer">Disclaimer</a></li>
+		<li><a href="/contact-us">Contact</a></li>
+		<li><a href="/legal">Legal</a></li>
+	</ul>
+	</div>
+	</li>
+</ul>
+
+                            </div>
+                        </div>
+                        <div class="cp-footer-column">
+                            <div class="cp-links yellow">
+                                <ul class="cp-list-unstyled">
+	<li><span>Quick links</span>
+	<div class="cp-sub-nav">
+	<ul class="cp-list-unstyled">
+		<li><a href="https://portal.midosweb.co.uk/Home/Search?loginId=Ywc%2FO%2FiR8hxQ7z2Rbin6hS5gv0O0sgxHXNOESE5aEX96lp5DA4YQIOf%2BdfDH9ubf" target="_blank">Find NHS services near you</a></li>
+		<li><a href="/local-services/gp-online-services">GP online services</a></li>
+		<li><a href="/your-health">Your health</a></li>
+		<li><a href="http://www.nhs.uk/pages/home.aspx" target="_blank" title="NHS website">NHS</a></li>
+		<li><a href="/campaigns/smoking-cessation">Smoking Cessation</a></li>
+		<li><a href="/campaigns/right-treatment-right-place">Right Treatment Right Place</a></li>
+		<li><a href="/clinical/medicines-management/antibiotic-prescribing">Antibiotics Awareness</a></li>
+		<li><a href="https://www.tamesideandglossopccg.org/news/bankholiday">Pharmacy and GP opening times</a></li>
+	</ul>
+	</div>
+	</li>
+</ul>
+
+                            </div>
+                        </div>
+                        <div class="cp-footer-column">
+                            <div class="cp-links orange">
+                                <ul class="cp-list-unstyled">
+	<li><span>Services</span>
+	<div class="cp-sub-nav">
+	<ul class="cp-list-unstyled">
+		<li><a href="/local-services/gp-practices">GP Practices</a></li>
+		<li><a href="/local-services/nonurgent-patient-transport-services">Non urgent patient transport services</a></li>
+		<li><a href="https://www.tamesideandglossopccg.org/Local-Services/Pharmacists-Glossop">Pharmacists - Glossop</a></li>
+		<li><a href="https://www.tamesideandglossopccg.org/Local-Services/Pharmacists-Tameside">Pharmacists - Tameside</a></li>
+		<li><a href="https://www.tamesideandglossopccg.org/local-services/local-services/urgent-treatment-(incl-walk-in)">Urgent Treatment (incl. walk-in)</a></li>
+		<li><a href="/local-services/accident-and-emergency">Hospitals / A+E</a></li>
+	</ul>
+	</div>
+	</li>
+</ul>
+
+                            </div>
+                        </div>
+                        <div class="cp-footer-column">
+                            <div class="cp-links green">
+                                <span>Contact</span>
+<div class="cp-sub-nav">
+<address>Headquarters,</address>
+
+<address>NHS Tameside and Glossop Clinical Commissioning Group,</address>
+
+<address>Tameside One,<br />
+Market Place,<br />
+Ashton-under-Lyne,<br />
+Tameside,<br />
+OL6 6BH<br />
+&nbsp;</address>
+
+<address>Telephone: 0161 342 5500</address>
+
+<address>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</address>
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row cf">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="cp-footer-bottom">
+                        <a href="https://www.tameside.gov.uk" target="_blank"><img src="/Sites/NHSTGCCG/theme/images/tameside-borough.jpg" alt="Tameside Metropolitan Borough Council" title="Tameside Metropolitan Borough Council" style="width: 141px" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/Sites/NHSTGCCG/theme/js/jquery-1.11.1.min.js"><\/script>')</script><!--; jQuery.noConflict();-->
+<script src="/Sites/NHSTGCCG/theme/js/main.js"></script>
+<!--<script src="/Sites/NHSTGCCG/theme/js/search.js"></script> DI Removed 29/09/2018 -->
+<script src="/Sites/NHSTGCCG/theme/js/owl.carousel.min.js"></script>
+<script>
+    jQuery(".reciteme").click(function(i,e){
+        loadService();
+        return false;
+    });
+</script>
+    
+    </form>
+</body>
+</html>

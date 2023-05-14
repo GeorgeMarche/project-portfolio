@@ -1,0 +1,1 @@
+b'\n\nDianna Cohen Portfolio\n\n\n\n\n\xa0\n\n\n\n\n\n\n\n\nWelcome to DiannaCohen.com\n\nSite should open in a new window. If it fails to do so, click here\nThis site and all its contents \xa92007 Dianna Cohen. All rights reserved. \n  Site art direction by Wayne M. DeSelle / www.deselle.com \n\n\n\n\n\n\n\n\n\n\xa0\n\n\n'

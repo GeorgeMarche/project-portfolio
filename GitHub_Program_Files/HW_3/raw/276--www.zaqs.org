@@ -1,0 +1,402 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html">
+<meta http-equiv="expires" content="0">
+<link rel="canonical" href="https://www.zaqs.org/business.html">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zaqs.org/business.html">
+<meta name="description" content="Top Business Headlines" property="og:description">
+<meta property="og:title" content="Business News" />
+<meta property="og:url" content="https://www.zaqs.org/business.html" />
+<meta property="og:image" content="https://www.zaqs.org/shared/worldmap.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<title>Business News Aggregator - ZAQS.org</title>
+<link rel="stylesheet" href="styles/bootstrap.min.css">
+<link rel="stylesheet" href="styles/zaqs.css">
+
+<link href="styles/picpage-bs.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="styles/desktop-bs.css">
+<style>
+
+</style>
+</head>
+<body>
+<div class='main'>
+<div class='topbanner'>
+    <div class='topbannermenu'>
+        <div class='menu-about-sitemap'><a href="news.php?page=signup">Sign Up</a><a href="news.php?page=login">Log In</a><a href="news.php?page=custom&ref=business">Customize</a><a href="news.php?page=sitemap">Status</a><a href="about.html">About</a><a href="news.php?page=contact">Contact</a></div>
+        <div class='menu-mobile-lang'><a href = "https://m.zaqs.org/news.php?cat=business">Mobile Site</a> <a href ="https://es.zaqs.org/">Español</a></div>
+
+    </div>
+</div>
+<div class='bannerheader'>
+    <p class='datestring'>Page Updated: Wednesday, October 14, 2020 2:25 PM ET</p>
+    <form action="search.php" method="get" class='searchbox'>
+        <div class='sinput'>
+            <input type="text" name="search" class="form-control form-control-sm">
+        </div>
+        <div class='sbutton'>
+            <button class="btn btn-sm btn-outline-dark" type="submit">Search</button>
+        </div>
+    </form>
+    <a class='logo' href="news.php"><img src="ZAQS.gif"></a>
+<nav class='feedmenu'><a href="news.php?page=feed&topic=bitcoin" class=''>Cryptocurrency</a>
+<a href="news.php?page=feed&topic=coffee" class=''>Coffee</a>
+<a href="news.php?page=feed&topic=dogs" class=''>Dogs</a>
+<a href="news.php?page=feed&topic=police" class=''>Police</a>
+<a href="news.php?page=feed&topic=ufo" class=''>UFO</a>
+<a href="https://www.creators.com/read/horoscopes-by-holiday" target='_blank' rel='noopener noreferrer'>Horoscopes</a>
+<a href="https://www.accuweather.com/" target='_blank' rel='noopener noreferrer'>Weather</a>
+</nav>
+</div>
+
+
+<div class='threepane' id='category'>
+<div class='midcol'>
+<div class='leftcol'>
+  <nav class='catmenu'>
+    <a href = "home.html">Home</a>
+    <a href = "front.html">Top Stories</a>
+    <a href = "world.html">World</a>
+    <a href = "usnews.html">US News</a>
+    <a href = "politics.html">Politics</a>
+    <a href = "business.html" class='active'>Business</a>
+    <a href = "sports.html">Sports</a>
+    <a href = "entertainment.html">Entertainment</a>
+    <a href = "opinion.html">Opinion</a>
+    <a href = "technology.html">Technology</a>
+    <a href = "health.html">Health</a>
+    <a href = "science.html">Science</a>
+    <a href = "environment.html">Environment</a>
+    <a href = "weird.html">Weird</a>
+  </nav>
+</div>
+<h2 class='maintitle'><a href = "business.html">Business</a>
+</h2> <div class='headline-col'>
+  <input type=checkbox id='business0' class='headline-main-checkbox'>
+   <label for='business0'>
+   <div class='pic-col'>
+   <a href="https://static01.nyt.com/images/2020/10/14/science/14VIRUS-TRIALPAUSE1/14VIRUS-TRIALPAUSE1-facebookJumbo.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/newyorktimes-business-covid.jpg" class=''>
+   </a>
+   <a href="https://www.nytimes.com/2020/10/14/health/covid-clinical-trials.html" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+New York Times
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://nypost.com/2020/10/14/markets-only-expect-covid-19-vaccine-to-be-half-effective/" class = '' target = '_blank' rel='noopener noreferrer'>Markets only expect COVID-19 vaccine to be 50 percent effective:</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=newyorkpost'>New York Post</a> - 3 hours ago</p>
+    <p class='hl-text-desc'>Stock markets are bracing for a coronavirus vaccine that&#8217;s approved this year to only be 50- to 60-percent effective, according to a prominent hedge-fund manager. Investors generally expect an</p>
+    <p class='rel-opener'>&Lt; 22 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.nytimes.com/2020/10/14/health/covid-clinical-trials.html" target="_blank">Matter - 3 Covid-19 Trials Have Been Paused for Safety. That's a Good Thing. Experts were comforted that companies are following safety precautions. They pointed out that pauses in vaccine trials are common, but pauses in treatment trials like Eli Lilly's are rare. By - Carl Zimmer</a> &nbsp; New York Times - 1 hour ago</p>
+    <p><a href = "http://montrealgazette.com/pmn/business-pmn/air-cargo-industry-not-yet-ready-for-covid-19-vaccine-distribution-survey/wcm/0fb8455d-3c0f-4b24-923b-094f171104b4" target="_blank">Air cargo industry not yet ready for COVID-19 vaccine distribution: survey -- "I think what is going to likely happen is there will be public-private partnerships between governments, international freight forwarders and airlines"</a> &nbsp; Montreal Gazette - 3 hours ago</p>
+    <p><a href = "http://www.abc.net.au/news/2020-10-14/asx-drop-wall-street-covid19-vaccine-delay/12764202" target="_blank">ASX ends seven-day winning streak on COVID-19 vaccine delays</a> &nbsp; Australian Broadcasting Corp - 6 hours ago</p>
+    <p><a href = "https://www.iol.co.za/business-report/companies/south-africas-biovac-in-talks-to-manufacture-covid-19-vaccines-6156e2c4-3646-4e66-91ad-d6651c6e57f3" target="_blank">South Africa's Biovac in talks to manufacture Covid-19 vaccines -- By Reuters</a> &nbsp; Independent Online - 6 hours ago</p>
+     <p><a href = "news.php?cat=business&topic=covid" class=moreheadlines>More Headlines...</a></p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business1' class='headline-main-checkbox'>
+   <label for='business1'>
+   <div class='pic-col'>
+   <a href="https://cbsnews2.cbsistatic.com/hub/i/r/2013/01/23/477df90c-a645-11e2-a3f0-029118418759/thumbnail/1200x630/1c4b1951bde8eefc8f8125423ee52874/AP655420274355.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/cbsnews-business-pandemic.jpg" class=''>
+   </a>
+   <a href="https://www.cbsnews.com/news/jpmorgan-ceo-jamie-dimon-stimulus-third-quarter-earnings/" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+CBS News
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.cbsnews.com/news/jpmorgan-ceo-jamie-dimon-stimulus-third-quarter-earnings/" class = '' target = '_blank' rel='noopener noreferrer'>JPMorgan Chase CEO Jamie Dimon calls for more federal stimulus spending</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=cbsnews'>CBS News</a> - 1 hour ago</p>
+    <p class='hl-text-desc'>Chief of largest bank warns of "considerable pain and suffering" if pandemic pushes U.S. into "double-dip" recession.</p>
+    <p class='rel-opener'>&Lt; 12 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "http://www.xinhuanet.com/english/2020-10/14/c_139440477.htm" target="_blank">IMF chief says maintaining policy support to households, firms critical for pandemic recovery</a> &nbsp; Xinhua - 2 hours ago</p>
+    <p><a href = "https://www.rt.com/business/503467-pandemic-poor-get-poorer/" target="_blank">Covid pandemic will make poor poorer & rich richer, chief research analyst tells Boom Bust</a> &nbsp; Russia Today - 4 hours ago</p>
+    <p><a href = "https://www.thestar.com/business/2020/10/14/canadas-housing-market-defies-a-pandemic.html" target="_blank">Business -- Canada's housing market defies a pandemic</a> &nbsp; Toronto Star - 4 hours ago</p>
+    <p><a href = "https://business.financialpost.com/real-estate/north-americas-biggest-housing-bubble-risk-defies-a-pandemic" target="_blank">Canada, home of North America's biggest housing bubble risk, defies pandemic with price hikes across the country -- Median home price expected to reach $693,000 by the end of the year, a 7 per cent increase from the end of 2019</a> &nbsp; National Post - 4 hours ago</p>
+     <p><a href = "news.php?cat=business&topic=pandemic" class=moreheadlines>More Headlines...</a></p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business2' class='headline-main-checkbox'>
+   <label for='business2'>
+   <div class='pic-col'>
+   <a href="https://www.gannett-cdn.com/presto/2020/01/08/USAT/84894d1b-58d3-43f0-bf62-cef073d59c9e-HyperX-Cloud-Flight-S-TJ-Donegan.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/usatoday-business-amazon2.jpg" class=''>
+   </a>
+   <a href="https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-best-deals-playstation-games-accessories-headsets/5876570002/" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+USA Today
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-best-deals-playstation-games-accessories-headsets/5876570002/" class = '' target = '_blank' rel='noopener noreferrer'>The best deals on Playstation games, headsets, and more</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=usatoday'>USA Today</a> - 52 minutes ago</p>
+    <p class='hl-text-desc'>To help you get the most out of your Playstation fun, we&#39;ve rounded up the best deals available on Amazon&#39;s Prime Day super sale—here&#39;s how to save.</p>
+    <p class='rel-opener'>&Lt; 14 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-best-smart-home-deals-google-alexa-homekit-and-more/5920031002/" target="_blank">The best smart home deals on Google, Alexa, Homekit and more -- Amazon Prime Day 2020 is overflowing with the best smart home deals on top-notch picks, including Google, Alexa, Homekit and more</a> &nbsp; USA Today - 1 hour ago</p>
+    <p><a href = "https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-robot-vacuum-sale-amazon-save-you-tons/5876524002/" target="_blank">This Amazon Prime Day robot vacuum sale will save you tons -- This robot vacuum sale from Amazon Prime Day 2020 includes deals on top-rated brands such as iRobot, Shark and more—get the details.</a> &nbsp; USA Today - 1 hour ago</p>
+    <p><a href = "https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-these-car-seat-deals-too-good-miss/5906447002/" target="_blank">Amazon has deep discounts on car seats for Prime Day -- Get all the best car seat deals for your little one this Amazon Prime Day 2020—shop our top picks.</a> &nbsp; USA Today - 1 hour ago</p>
+    <p><a href = "https://www.usatoday.com/story/tech/reviewedcom/2020/10/14/prime-day-2020-best-deals-shop-home-depots-competing-prime-day-sale/5920083002/" target="_blank">The best deals to shop from Home Depot's competing Prime Day sale -- Home Depot is slashing prices on kitchenware, furniture, and more during the final hours of Amazon Prime Day.</a> &nbsp; USA Today - 2 hours ago</p>
+     <p><a href = "news.php?cat=business&topic=amazon" class=moreheadlines>More Headlines...</a></p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business3' class='headline-main-checkbox'>
+   <label for='business3'>
+   <div class='pic-col'>
+   <a href="https://www.turkishminute.com/wp-content/uploads/2019/02/court.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/turkishminute-business-top.jpg" class=''>
+   </a>
+   <a href="https://www.turkishminute.com/2020/10/14/lower-turkish-court-unlawfully-defies-top-courts-decision-to-retry-former-lawmaker/" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+Turkish Minute
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.turkishminute.com/2020/10/14/lower-turkish-court-unlawfully-defies-top-courts-decision-to-retry-former-lawmaker/" class = '' target = '_blank' rel='noopener noreferrer'>Lower Turkish court unlawfully defies top court’s decision to retry former lawmaker - Turkish Minute</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=turkishminute'>Turkish Minute</a> - 2 hours ago</p>
+    <p class='hl-text-desc'>A lower court on Tuesday resisted implementing a ruling by Turkey’s Constitutional Court (AYM), which in September had ordered a retrial of Enis Berberoğlu, a former journalist and previously a member of parliament from the main opposition Republican People’s Party (CHP). The İstanbul 14th High Criminal Court&nbsp;refused to acknowledge the AYM ruling, which is binding [&hellip;]</p>
+    <p class='rel-opener'>&Lt; 8 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.turkishminute.com/2020/10/14/turkish-govt-accuses-top-court-member-of-hinting-at-coup-detat/" target="_blank">Turkish gov't accuses top court member of hinting at coup d'état</a> &nbsp; Turkish Minute - 5 hours ago</p>
+    <p><a href = "https://www.bnnbloomberg.ca/video/christine-pooles-top-picks~2055107" target="_blank">Christine Poole's Top Picks</a> &nbsp; CTV News - 41 minutes ago</p>
+    <p><a href = "http://www.businessinsider.com/fannie-mae-single-family-leadership-shakeup-reorganization-gse-mortgage-lending-2020-10" target="_blank">Mortgage giant Fannie Mae is shaking up leadership in its largest business, with 2 top execs leaving</a> &nbsp; Business Insider - 1 hour ago</p>
+    <p><a href = "https://www.latimes.com/entertainment-arts/story/2020-10-14/mario-kart-live-is-not-just-a-racing-game-its-a-whole-new-way-to-view-my-home" target="_blank">'Mario Kart Live's' augmented reality tops 'Pokémon Go' and makes home a playground</a> &nbsp; Los Angeles Times - 28 minutes ago</p>
+    <p><a href = "https://www.irishtimes.com/business/financial-services/businesses-run-by-demanding-from-the-top-down-more-likely-to-fail-expert-1.4380837" target="_blank">Businesses run by 'demanding from the top down' more likely to fail - expert</a> &nbsp; Irish Times - 3 hours ago</p>
+    <p><a href = "https://www.usatoday.com/story/money/columnist/2020/10/14/joe-biden-how-his-presidency-would-affect-your-small-business/5902453002/" target="_blank">Looking at Biden's top 6 proposals for small&#8230;</a> &nbsp; USA Today - 3 hours ago</p>
+    <p><a href = "https://www.manilatimes.net/2020/10/15/business/companies/asia-ceo-awards-bestows-top-honor-on-ang/780723/" target="_blank">Asia CEO Awards bestows top honor on Ang</a> &nbsp; Manila Times - 1 hour ago</p>
+    <p><a href = "https://www.hollywoodreporter.com/news/hollywood-heavyweights-among-top-donors-to-anti-trump-lincoln-project" target="_blank">Hollywood Heavyweights Among Top Donors to Anti-Trump Lincoln Project</a> &nbsp; Hollywood Reporter - 48 minutes ago</p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business4' class='headline-main-checkbox'>
+   <label for='business4'>
+   <div class='pic-col'>
+   <a href="https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/09/16/nobu-marbella.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/eveningstandard-business-uk.jpg" class=''>
+   </a>
+   <a href="https://www.standard.co.uk/business/brexit-expat-bank-account-a4570756.html" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+Evening Standard
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.standard.co.uk/business/brexit-expat-bank-account-a4570756.html" class = '' target = '_blank' rel='noopener noreferrer'>What to do if your UK bank is closing your expat account after Brexit</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=eveningstandard'>Evening Standard</a> - 1 hour ago</p>
+    <p class='hl-text-desc'>As Britain leaves the EU, UK banks are having to close thousands of expats' bank accounts and credit cards because the government failed to gain so-called &quot;passporting&quot; rights for financial services.</p>
+    <p class='rel-opener'>&Lt; 8 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.cbsnews.com/news/chase-first-banking-checking-account-parents-teach-kids-saving-spending/" target="_blank">Bank account helps kids learn to save and spend -- Parents can set allowances through Chase Mobile app, and each child gets their own debit card. -- Oct 13</a> &nbsp; CBS News - 2 hours ago</p>
+    <p><a href = "https://www.express.co.uk/finance/crusader/1347082/HSBC-bank-account-access-homeless" target="_blank">HSBC boosts bank account access for homeless people – The Crusader</a> &nbsp; Daily Express - 6 hours ago</p>
+    <p><a href = "https://www.bbc.com/news/business-54539268" target="_blank">Banks warned over expat account closures</a> &nbsp; BBC News - 6 hours ago</p>
+    <p><a href = "https://www.thestar.com/business/2020/10/14/boc-deputy-pandemic-means-central-banks-must-move-faster-on-digital-currency-plans.html" target="_blank">Business - BoC deputy: pandemic means central banks must 'move faster' on digital currency plans - 2 hrs ago</a> &nbsp; Toronto Star - 20 minutes ago</p>
+    <p><a href = "https://www.theglobeandmail.com/business/article-covid-19s-impact-on-how-people-shop-means-central-banks-must-move/" target="_blank">COVID-19′s impact on how people shop means central banks must move faster on digital currency: BoC deputy</a> &nbsp; The Globe and Mail - 33 minutes ago</p>
+    <p><a href = "https://www.standard.co.uk/business/less-than-zero-bank-ponders-move-into-negative-interest-rates-a4570651.html" target="_blank">Less than zero: Bank ponders move into negative interest rates</a> &nbsp; Evening Standard - 3 hours ago</p>
+    <p><a href = "https://www.standard.co.uk/business/metro-bank-banks-business-banking-covid19-rishi-sunak-bounceback-loans-a4570631.html" target="_blank">Banks are hurting the UK by pulling out of business banking</a> &nbsp; Evening Standard - 3 hours ago</p>
+    <p><a href = "https://news.sky.com/story/what-bank-results-tell-us-about-the-us-economy-ahead-of-the-election-12103971" target="_blank">What bank results tell us about the US economy ahead of the election</a> &nbsp; Sky News - 3 hours ago</p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business5' class='headline-main-checkbox'>
+   <label for='business5'>
+   <div class='pic-col'>
+   <a href="https://nypost.com/wp-content/uploads/sites/2/2020/10/wells-fargo-profit-plunge-e1602696347726.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/newyorkpost-business-third.jpg" class=''>
+   </a>
+   <a href="https://nypost.com/2020/10/14/wells-fargo-third-quarter-profit-plunges-57-percent/" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+New York Post
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://nypost.com/2020/10/14/wells-fargo-third-quarter-profit-plunges-57-percent/" class = '' target = '_blank' rel='noopener noreferrer'>Wells Fargo third-quarter profit plunges 57 percent</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=newyorkpost'>New York Post</a> - 13 minutes ago</p>
+    <p class='hl-text-desc'>Wells Fargo fell short of Wall Street estimates for third-quarter profit Wednesday with the bank reporting a 57 percent drop in profit, clocking nearly $1 billion in expenses tied to a years-long</p>
+    <p class='rel-opener'>&Lt; 7 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.channelnewsasia.com/news/business/singapore-s-third-quarter-gdp-shrinks-at-slower-pace-of-7-after-13283764" target="_blank">Singapore's third-quarter GDP shrinks at slower pace of 7% after economy gradually reopens following circuit breaker | Video</a> &nbsp; Channel NewsAsia - 3 hours ago</p>
+    <p><a href = "https://www.theglobeandmail.com/business/article-tim-hortons-owner-restaurant-brands-sees-54-drop-in-third-quarter/" target="_blank">Tim Hortons owner Restaurant Brands sees 5.4% drop in third-quarter sales</a> &nbsp; The Globe and Mail - 4 hours ago</p>
+    <p><a href = "http://www.businessinsider.com/grayscale-investments-digital-asset-investment-report-bitcoin-crypto-2020-10" target="_blank">The world's largest digital currency asset manager took in $1 billion in new investment in the third quarter. Here's why investors are feeling so bullish about bitcoin and ethereum.</a> &nbsp; Business Insider - 5 hours ago</p>
+    <p><a href = "https://www.channelnewsasia.com/news/business/restaurant-brands-expects-burger-king-third-quarter-sales-to-drop-13283026" target="_blank">Restaurant Brands expects Burger King third quarter sales to drop</a> &nbsp; Channel NewsAsia - 5 hours ago</p>
+    <p><a href = "https://apnews.com/article/charlotte-north-carolina-earnings-9b030a79af2841bfd0c358bd9bc80f0f" target="_blank">Bank of America profit falls 15.6% in third quarter</a> &nbsp; AP News - 6 hours ago</p>
+    <p><a href = "https://abcnews.go.com/Business/wireStory/bank-america-profits-falls-16-quarter-73604170" target="_blank">Bank of America profit falls 16% in third quarter</a> &nbsp; ABC News - 6 hours ago</p>
+    <p><a href = "https://www.albawaba.com/business/pr/qf-third-georgetown-diplomatic-training-workshop-qf-offers-strategies-peace-world" target="_blank">QF: Third Georgetown Diplomatic Training Workshop at QF Offers Strategies for Peace in a World of Conflict</a> &nbsp; Albawaba - 6 hours ago</p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business6' class='headline-main-checkbox'>
+   <label for='business6'>
+   <div class='pic-col'>
+   <a href="https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/timesofindia-business-global1.jpg" class=''>
+   </a>
+   <a href="https://timesofindia.indiatimes.com/business/india-business/india-will-be-a-global-investment-hotspot-survey-finds/articleshow/78663271.cms" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+Times of India
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.iol.co.za/business-report/companies/mgim-acquires-uks-seneca-investment-managers-463dc913-8056-47ef-9228-915c3611d06b" class = '' target = '_blank' rel='noopener noreferrer'>MGIM acquires UK&#x27;s Seneca Investment Managers</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=iol'>Independent Online</a> - 4 hours ago</p>
+    <p class='hl-text-desc'>Momentum Metropolitan Holdings’ UK-based subsidiary Momentum Global Investment Management (MGIM) said it acquired Seneca Investment Managers, for an undisclosed amount</p>
+    <p class='rel-opener'>&Lt; 6 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "http://www.businessinsider.com/rich-lesser-ceo-bcg-climate-change-2020-10" target="_blank">The CEO of Boston Consulting Group reveals the steps he's taking to address the global climate crisis, starting with a $400 million investment and a reduction in business travel</a> &nbsp; Business Insider - 2 hours ago</p>
+    <p><a href = "https://timesofindia.indiatimes.com/business/india-business/india-will-be-a-global-investment-hotspot-survey-finds/articleshow/78663271.cms" target="_blank">India will be a global investment hotspot, survey finds</a> &nbsp; Times of India - 3 hours ago</p>
+    <p><a href = "https://www.irishtimes.com/business/technology/irish-investment-firm-sells-data-centre-group-at-significant-profit-1.4380811" target="_blank">Irish investment firm sells data centre group at significant profit</a> &nbsp; Irish Times - 3 hours ago</p>
+    <p><a href = "https://www.straitstimes.com/business/economy/gic-looks-to-integrate-climate-change-into-investment-portfolio" target="_blank">GIC looks to integrate climate change into investment portfolio</a> &nbsp; The Straits Times - 6 hours ago</p>
+    <p><a href = "https://www.upi.com/Defense-News/2020/10/13/Army-to-reduce-demands-training-requirements-for-deployments/4451602617650/" target="_blank">Defense News -- Army to reduce demands, training requirements for deployments -- The Army plans to reduce the demands of rotational deployments and decrease requirements for brigade and battalion level training to improve unit dynamics and prioritize investment in troops.</a> &nbsp; UPI - 3 hours ago</p>
+    <p><a href = "https://www.columbian.com/news/2020/oct/14/fisher-investments-announces-completion-of-five-story-office-building/" target="_blank">Fisher Investments announces completion of five-story office building in Camas</a> &nbsp; The Columbian - 3 hours ago</p>
+  </div>
+ </div>
+ <div class='headline-col'>
+  <input type=checkbox id='business7' class='headline-main-checkbox'>
+   <label for='business7'>
+   <div class='pic-col'>
+   <a href="https://www.baltimoresun.com/resizer/0LhA5ZDXoSwFgxkQeizK_GZuONY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FOQGIKBPQFGQ3GNUOEFREUW5UI.jpg" target='_blank' rel='noopener noreferrer' class='pic-image'>
+    <img src = "images/baltimoresun-usnews-coronavirus2.jpg" class=''>
+   </a>
+   <a href="https://www.baltimoresun.com/coronavirus/bs-md-coronavirus-cases-deaths-positivity-20201014-yofuwt6tazelrj75zrizffb5cm-story.html" target='_blank' rel='noopener noreferrer' class = 'pic-title figure-caption'>
+The Baltimore Sun
+   </a>
+  </div>
+    <h3 class='hl-text-lead'><a href = "https://www.baltimoresun.com/coronavirus/bs-md-daily-coronavirus-updates-20200319-k3zo35wudvhehb5yklyjv6jjem-story.html" class = '' target = '_blank' rel='noopener noreferrer'>Maryland coronavirus updates: Maryland schools announce reopening plans</a></h3>
+    <p class= 'hl-text-src'><a href='news.php?cat=business&amp;site=baltimoresun'>The Baltimore Sun</a> - 3 hours ago</p>
+    <p class='hl-text-desc'>Here&#039;s a daily round up of the coronavirus news in the state of Maryland.</p>
+    <p class='rel-opener'>&Lt; 8 &Gt;</p>
+   </label>
+   <div class='related-headlines'>
+    <p><a href = "https://www.baltimoresun.com/coronavirus/bs-md-coronavirus-cases-deaths-positivity-20201014-yofuwt6tazelrj75zrizffb5cm-story.html" target="_blank">Maryland reports 575 cases, 9 deaths as coronavirus hospitalizations continue to climb</a> &nbsp; The Baltimore Sun - 4 hours ago</p>
+    <p><a href = "https://www.mercurynews.com/2020/10/14/watch-santa-clara-county-public-health-department-on-reaching-orange-coronavirus-risk-level-oct-14/" target="_blank">Watch: Santa Clara County Public Health Department on reaching orange coronavirus risk level, Oct. 14</a> &nbsp; The Mercury News - 43 minutes ago</p>
+    <p><a href = "https://www.mercurynews.com/2020/10/13/santa-clara-alameda-counties-reach-orange-coronavirus-tier-when-indoor-dining-could-resume/" target="_blank">Santa Clara County reaches 'orange' coronavirus tier: Here's when indoor dining could resume</a> &nbsp; The Mercury News - 4 hours ago</p>
+    <p><a href = "https://www.channelnewsasia.com/news/business/youtube-bans-coronavirus-vaccine-misinformation-13283466" target="_blank">YouTube bans coronavirus vaccine misinformation</a> &nbsp; Channel NewsAsia - 4 hours ago</p>
+    <p><a href = "https://www.foxbusiness.com/markets/wells-fargo-earnings-q3-2020" target="_blank">Wells Fargo swings to profit as coronavirus blow softens</a> &nbsp; Fox News - 4 hours ago</p>
+    <p><a href = "http://www.ibtimes.com/wheres-my-2nd-stimulus-check-coronavirus-relief-talks-drag-ahead-presidential-3062132" target="_blank">Coronavirus Stimulus Talks Drag On</a> &nbsp; International Business Times - 3 hours ago</p>
+    <p><a href = "https://abcnews.go.com/Business/wireStory/coronavirus-lockdown-20-deepens-divisions-israel-73608537" target="_blank">Coronavirus lockdown 2.0 deepens divisions in Israel</a> &nbsp; ABC News - 3 hours ago</p>
+    <p><a href = "https://video.foxbusiness.com/v/6200516967001/?playlist_id&" target="_blank">Dr. Mike: Can you catch coronavirus twice?</a> &nbsp; Fox News - 2 hours ago</p>
+  </div>
+ </div>
+<nav class='related-headlines-more'><a href = 'news.php?cat=business&num=1'>More Business...</a></nav>
+    </div>
+<div class = 'recentcol'>
+<div class='imagebox'>
+ <a href="https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-onomy_77373599.jpg" target='_blank' rel='noopener noreferrer'>
+  <img src = "images/mercurynews-health-month.jpg">
+ </a>
+ <a href="https://www.mercurynews.com/2020/10/14/g-20-suspends-poor-nations-debt-payments-for-6-months/" target='_blank' rel='noopener noreferrer'>
+  <p>The Mercury News - G-20 suspends poor nations' debt payments for 6 months</p>
+ </a>
+</div>
+ <div class='frontrightbox'><h2>Latest Headlines</h2>
+<p>Recent 'Business', 'Market', and 'Economy' headlines</p></p>
+ <div class='headlinelist'>
+<div class=headlinetext>
+ <a href = "https://www.turkishminute.com/2020/10/14/postmortem-photos-of-inmate-point-to-criminal-neglect-in-turkish-prisons-amid-pandemic/" target='_blank' rel='noopener noreferrer'>Postmortem photos of inmate point to criminal neglect in Turkish prisons...</a>
+ <p><a href='news.php?site=turkishminute&cat=business'>Turkish Minute</a> - 1 minute ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://business.financialpost.com/news/economy/trudeau-plans-to-keep-borders-closed-until-covid-19-cases-drop" target='_blank' rel='noopener noreferrer'>Trudeau plans to keep borders closed until COVID-19 cases drop -- 'The States is not in a place where we would feel comfortable reopening those borders'</a>
+ <p><a href='news.php?site=nationalpost&cat=business'>National Post</a> - 2 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.businessinsider.co.za/trending/facebook-hunter-biden-new-york-post-story-fact-checkers-2020-10" target='_blank' rel='noopener noreferrer'>Facebook chokes the spread of a controversial story about Biden's son while it's fact-checked - Facebook spokesperson Andy Stone said Wednesday Facebook is "reducing the distribution" of the New York Post article while it's being fact-checked. 37m ago</a>
+ <p><a href='news.php?site=news24&cat=business'>News 24</a> - 3 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.walesonline.co.uk/sport/rugby/rugby-news/rugby-ban-cardiff-swansea-lifted-19104638" target='_blank' rel='noopener noreferrer'>Rugby ban in Cardiff and Swansea lifted but restrictions remain in eight other areas of Wales</a>
+ <p><a href='news.php?site=walesonline&cat=business'>WalesOnline</a> - 3 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.iol.co.za/business-report/international/softbank-restarts-buybacks-as-asset-sales-swell-cash-pile-eaa306bb-5108-4fc9-aa99-3de3a6151559" target='_blank' rel='noopener noreferrer'>SoftBank restarts buybacks as asset sales swell cash pile - By Reuters - 50m ago - SoftBank Group resumed its share buybacks in September, after an enforced pause in August due to asset sales, saying on Wednesday it spent 40 billion yen (R6.27 billion) of its growing cash pile.</a>
+ <p><a href='news.php?site=iol&cat=business'>Independent Online</a> - 5 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.baltimoresun.com/business/bs-bz-gbc-annual-meeting-20201014-kv4fojn7tfe4lmsaptdz6sbguy-story.html" target='_blank' rel='noopener noreferrer'>Incoming Greater Baltimore Committee chair Calvin Butler will work to improve inclusion</a>
+ <p><a href='news.php?site=baltimoresun&cat=business'>The Baltimore Sun</a> - 9 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.timesofisrael.com/at-knesset-hearing-tiktok-slammed-for-failing-to-stop-spread-of-anti-semitism/" target='_blank' rel='noopener noreferrer'>At Knesset hearing, TikTok slammed for failing to stop spread of anti-Semitism</a>
+ <p><a href='news.php?site=timesofisrael&cat=business'>Times of Israel</a> - 11 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.express.co.uk/finance/personalfinance/1346776/life-insurance-breast-cancer-awareness-month-pre-existing-medical-conditions" target='_blank' rel='noopener noreferrer'>Cancer survivor urges people not to rule out life insurance - 'you may still be eligible' LIFE INSURANCE can provide a valuable safety net for those concerned about looking after their...</a>
+ <p><a href='news.php?site=dailyexpress&cat=business'>Daily Express</a> - 11 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.chron.com/news/article/Armenia-Azerbaijan-tensions-rise-amid-claims-of-15647376.php" target='_blank' rel='noopener noreferrer'>Armenia, Azerbaijan tensions rise amid claims of new attacks</a>
+ <p><a href='news.php?site=houstonchronicle&cat=business'>Houston Chronicle</a> - 12 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.mercurynews.com/2020/10/14/g-20-suspends-poor-nations-debt-payments-for-6-months/" target='_blank' rel='noopener noreferrer'>G-20 suspends poor nations' debt payments for 6 months</a>
+ <p><a href='news.php?site=mercurynews&cat=business'>The Mercury News</a> - 12 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.bostonglobe.com/2020/10/13/business/trade-body-rules-eu-can-put-tariffs-4-bln-us-goods/" target='_blank' rel='noopener noreferrer'>Trade body rules EU can put tariffs on $4 bln of US goods</a>
+ <p><a href='news.php?site=bostonglobe&cat=business'>Boston Globe</a> - 13 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://pagesix.com/2020/10/14/the-office-stars-uncle-was-imprisoned-by-fidel-castro/" target='_blank' rel='noopener noreferrer'>'The Office' star's uncle was imprisoned by Fidel Castro</a>
+ <p><a href='news.php?site=newyorkpost&cat=business'>New York Post</a> - 13 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.reuters.com/article/us-j-f-brazil-crime/parent-of-brazils-jbs-pleads-guilty-to-u-s-foreign-bribery-charges-idUSKBN26Z2FZ" target='_blank' rel='noopener noreferrer'>Parent of Brazil's JBS pleads guilty to U.S. foreign bribery charges</a>
+ <p><a href='news.php?site=reuters&cat=business'>Reuters</a> - 13 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.irishtimes.com/business/markets/european-shares-subdued-as-investors-weigh-covid-19-setbacks-1.4381051" target='_blank' rel='noopener noreferrer'>European shares subdued as investors weigh Covid-19 setbacks</a>
+ <p><a href='news.php?site=irishtimes&cat=business'>Irish Times</a> - 14 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://lancasteronline.com/business/nation/tribal-clashes-over-governors-sacking-kill-6-in-east-sudan/article_3fcb35f5-3e03-5074-ade3-ddddf929d4e2.html" target='_blank' rel='noopener noreferrer'>Tribal clashes over governor's sacking kill 6 in east Sudan</a>
+ <p><a href='news.php?site=lancasteronline&cat=business'>Lancaster Online</a> - 15 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.fin24.com/fin24/economy/governments-broadcasting-overhaul-whats-in-it-for-netflix-multichoice-and-the-sabc-20201014" target='_blank' rel='noopener noreferrer'>for subscribers - Government's broadcasting overhaul: What's in it for Netflix, MultiChoice and the SABC? 5h ago</a>
+ <p><a href='news.php?site=news24&cat=business'>News 24</a> - 16 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.npr.org/2020/10/14/923621814/why-an-auto-plant-closure-looms-large-in-ohios-presidential-contest" target='_blank' rel='noopener noreferrer'>Why An Auto Plant Closure Looms Large In Presidential Contest In Ohio</a>
+ <p><a href='news.php?site=npr&cat=business'>NPR</a> - 17 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://api.cxense.com/public/widget/click/Dw6UmHfj1INdLV9oKeMQLCd5jb7GMhscH8N_CSJS1Qm1lEgeBZNgt1EAqz7mKd2yGz8nrEyoB0sSu1iSp5L65scLTohSUiF2M47nG01fNw0TMuo2CcAMyt3BhTv-UfpEyZHaDi884MEdU_MoEABYOApY_DsVpa5f4O_31Pn2iyTmFCkQjRzzLCV5HGdhCKR32lLrgg5jjlsnVtyzSt_Nmbg8bmTV8bWeEmgGc9CBOYUzevbZRD0bqkSmfCycW8S8ap8GhMhLVA781GzWittClUa56Ww5ZqBqUyqO4WWwpSEi97GReUrizqqnIKimHAtmdhizS67LjvUVRMpZOhkuh_pzADzB7AT1Jfpd9fI18rcBxElnZtPoOGx3_8IsSjuXFij0sagMwmmoGGYbU6yBcBsxdhr5YY8Tzd7RiVDesX6P2vuCGwzL5-s3jg-oFKcZ6GYs5r2KxNYcW_Tn8Dr1Qy3RNNBaMtskLC9R_D0bsMlNndVTJWxO3ybqeVMDXsIgGsXvr73JtfNzqTHT6OSEPNN9OEfoEkGB1qqezxMezeBE2tmy06o52mv3MkWzec-n9Kc37Mcvs5VxepiIKbwjlI829JpEGGaFy9N3ffaRHktzZdTneOUuJtC1NXBugrzsa6rVhFvQEOrI-kDyU88CNdcyHdzvyEiorE2tuYKm5bcVohYPobZnIrtYBUIP0lNd4o6DN75G0" target='_blank' rel='noopener noreferrer'>Speaker Azhar tells Ku Li motion of no confidence not a priority (updated)</a>
+ <p><a href='news.php?site=starmy&cat=business'>The Star (Malaysia)</a> - 17 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://apnews.com/article/business-wholesale-trade-unemployment-washington-economy-6323e99bff838ee4e079a3ec2d2d35aa" target='_blank' rel='noopener noreferrer'>Washington unemployment rate drops to 7.8%</a>
+ <p><a href='news.php?site=apnews&cat=business'>AP News</a> - 17 minutes ago</p>
+</div>
+<div class=headlinetext>
+ <a href = "https://www.tulsaworld.com/news/world/tribal-clashes-over-governors-sacking-kill-6-in-east-sudan/article_43da28dc-724f-5cc3-a29b-9d15a37ed958.html" target='_blank' rel='noopener noreferrer'>Tribal clashes over governor's sacking kill 6 in east Sudan</a>
+ <p><a href='news.php?site=tulsaworld&cat=business'>Tulsa World</a> - 18 minutes ago</p>
+</div>
+ </div>
+ <a class='home-link' href = "news.php?cat=business&num=1">More Headlines...</a>
+</div></div>
+
+</div>
+<div class='footer' id='category'>
+  <nav class='catmenu'>
+    <a href = "home.html">Home</a>
+    <a href = "front.html">Top Stories</a>
+    <a href = "world.html">World</a>
+    <a href = "usnews.html">US News</a>
+    <a href = "politics.html">Politics</a>
+    <a href = "business.html" class='active'>Business</a>
+    <a href = "sports.html">Sports</a>
+    <a href = "entertainment.html">Entertainment</a>
+    <a href = "opinion.html">Opinion</a>
+    <a href = "technology.html">Technology</a>
+    <a href = "health.html">Health</a>
+    <a href = "science.html">Science</a>
+    <a href = "environment.html">Environment</a>
+    <a href = "weird.html">Weird</a>
+  </nav>
+</div>
+</div>
+</body>
+</html>
+

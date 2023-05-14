@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/assets/images/favicon.ico" />
+	<title>STRATA &#8211; SerTRaline for AnxieTy in adults with a diagnosis of Autism. A randomised controlled trial (STRATA)</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//uk.files.campus.edublogs.org.s3.amazonaws.com' />
+<link rel="alternate" type="application/rss+xml" title="STRATA &raquo; Feed" href="https://strata.blogs.bristol.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="STRATA &raquo; Comments Feed" href="https://strata.blogs.bristol.ac.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="STRATA &raquo; About the study Comments Feed" href="https://strata.blogs.bristol.ac.uk/about-the-study/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/strata.blogs.bristol.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://strata.blogs.bristol.ac.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uobwp-style-css'  href='https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='uobwp-style-blog-css'  href='https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/css/uob-blog.css?ver=20180305' type='text/css' media='all' />
+<link rel='stylesheet' id='uobwp-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C400%2C700&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/css/scheme/bright-purple.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css'  href='https://strata.blogs.bristol.ac.uk/?sccss=1&#038;ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/strata.blogs.bristol.ac.uk\/wp-admin\/admin-ajax.php";
+var msreader_featured_posts = {"saving":"Saving...","post_featured":"This post is featured","feature":"Feature","unfeature":"Unfeature"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://strata.blogs.bristol.ac.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://strata.blogs.bristol.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://strata.blogs.bristol.ac.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://strata.blogs.bristol.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://strata.blogs.bristol.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="Bristol Blogs" />
+
+<link rel="canonical" href="https://strata.blogs.bristol.ac.uk/" />
+<link rel='shortlink' href='https://strata.blogs.bristol.ac.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://strata.blogs.bristol.ac.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrata.blogs.bristol.ac.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://strata.blogs.bristol.ac.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrata.blogs.bristol.ac.uk%2F&#038;format=xml" />
+<link rel="shortcut icon" href="https://cpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/favicon/favicon.png" /><link rel="pingback" href="https://strata.blogs.bristol.ac.uk/xmlrpc.php"><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PJ4S8RX');</script>
+
+<!-- End Google Tag Manager --><style type="text/css">#wp-admin-bar-abm-login{display:block!important}body .wp-video-shortcode video,body video.wp-video-shortcode{margin:0;padding:0;background:0 0;border:none;box-shadow:none;min-width:0;height:auto;min-height:0}.screen-reader-text:not(button){clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}</style></head>
+
+<body class="home page-template-default page page-id-2">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+					
+		
+        <div class="site-branding-wrapper">
+            <div class="logo-and-branding">
+                <div class="uob-logo-wrapper">
+                    <a href="https://www.bristol.ac.uk/"><img src="https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/assets/images/uob-logo.svg" class="uob-logo"></a>
+
+                </div>
+                <div class="site-branding">
+                    <p class="site-title">
+                        <a href="https://strata.blogs.bristol.ac.uk/" rel="home">STRATA</a>
+                    </p>
+                    						<p class="site-description">SerTRaline for AnxieTy in adults with a diagnosis of Autism. A randomised controlled trial (STRATA)</p>
+					                </div>
+            </div>
+            <!-- .site-branding -->
+        </div>
+
+
+
+		<nav id="site-navigation" class="main-navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+			<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-46"><a href="https://strata.blogs.bristol.ac.uk/" aria-current="page">About the study</a></li><li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://strata.blogs.bristol.ac.uk/central-study-team/">Central Study team</a></li><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://strata.blogs.bristol.ac.uk/co-investigators/">Co-investigators</a></li><li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://strata.blogs.bristol.ac.uk/taking-part/">Taking part</a></li><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://strata.blogs.bristol.ac.uk/strata-sites/">STRATA sites</a></li><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://strata.blogs.bristol.ac.uk/researcher-documents/">Researcher documents</a></li><li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://strata.blogs.bristol.ac.uk/latest-news/">Latest news</a></li><li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://strata.blogs.bristol.ac.uk/how-we-use-information-from-patients/">How we use information from patients</a></li><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://strata.blogs.bristol.ac.uk/australia/">Australia</a></li><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://strata.blogs.bristol.ac.uk/ppi-members/">Autistic Advisory Group</a></li><li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://strata.blogs.bristol.ac.uk/acknowledgements/">Acknowledgements</a></li></ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-2" class="post-2 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">About the study</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<p><a href="https://strata.blogs.bristol.ac.uk/files/2020/02/StrataLogo.png"><img class="alignnone size-medium wp-image-24" src="https://strata.blogs.bristol.ac.uk/files/2020/02/StrataLogo-300x119.png" alt="" width="300" height="119" srcset="https://strata.blogs.bristol.ac.uk/files/2020/02/StrataLogo-300x119.png 300w, https://strata.blogs.bristol.ac.uk/files/2020/02/StrataLogo.png 503w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>The STRATA website is under construction</p>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-2 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area">
+	<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://strata.blogs.bristol.ac.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"></ul></section><section id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widget-title">Navigation</h2><div class="menu-navigation-container"><ul id="menu-navigation" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-46"><a href="https://strata.blogs.bristol.ac.uk/" aria-current="page">About the study</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="https://strata.blogs.bristol.ac.uk/central-study-team/">Central Study team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://strata.blogs.bristol.ac.uk/co-investigators/">Co-investigators</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://strata.blogs.bristol.ac.uk/taking-part/">Taking part</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://strata.blogs.bristol.ac.uk/strata-sites/">STRATA sites</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://strata.blogs.bristol.ac.uk/researcher-documents/">Researcher documents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://strata.blogs.bristol.ac.uk/latest-news/">Latest news</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://strata.blogs.bristol.ac.uk/how-we-use-information-from-patients/">How we use information from patients</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://strata.blogs.bristol.ac.uk/australia/">Australia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://strata.blogs.bristol.ac.uk/ppi-members/">Autistic Advisory Group</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://strata.blogs.bristol.ac.uk/acknowledgements/">Acknowledgements</a></li>
+</ul></div></section></aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+				<div class="footer-copyright">
+            &copy; 2020 University of Bristol | <a href="https://www.bristol.ac.uk/style-guides/web/policies/legal/terms/">Terms of use</a>
+	    </div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJ4S8RX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><script type='text/javascript' src='https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://strata.blogs.bristol.ac.uk/wp-content/themes/uob-blog-theme/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://strata.blogs.bristol.ac.uk/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+
+</body>
+</html>

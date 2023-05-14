@@ -1,0 +1,1848 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="fr-FR"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- wolf-teal-8ft5 -->
+<base href="">
+<meta charset="utf-8" />
+<title>ONU Femmes France</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1569310836776-IBDYT9LTDJDI09THAIV3/ke17ZwdGBToddI8pDm48kKja2-jkbtQY3t-V3dAxfAtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7XxG-9FZQiNMT_ZdcQnlMXarzwBx5Ee42OMi64XGN7xQlSrXCWgk-CFGB5W6ZmN7bQ/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.onufemmes.fr"/>
+<meta property="og:site_name" content="ONU Femmes France"/>
+<meta property="og:title" content="ONU Femmes France"/>
+<meta property="og:url" content="https://www.onufemmes.fr"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Faire de l'égalité des genres une réalité dans le monde."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1569310845984/2_bG1f3lO6aDCvVRUe0A-Vzg.png?format=1500w"/>
+<meta property="og:image:width" content="256"/>
+<meta property="og:image:height" content="255"/>
+<meta itemprop="name" content="ONU Femmes France"/>
+<meta itemprop="url" content="https://www.onufemmes.fr"/>
+<meta itemprop="description" content="Faire de l'égalité des genres une réalité dans le monde."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1569310845984/2_bG1f3lO6aDCvVRUe0A-Vzg.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1569310845984/2_bG1f3lO6aDCvVRUe0A-Vzg.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1569310845984/2_bG1f3lO6aDCvVRUe0A-Vzg.png?format=1500w"/>
+<meta name="twitter:title" content="ONU Femmes France"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1569310845984/2_bG1f3lO6aDCvVRUe0A-Vzg.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.onufemmes.fr"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Faire de l'égalité des genres une réalité dans le monde."/>
+<meta name="description" content="Faire de l'égalité des genres une réalité dans le monde." />
+<script type="text/javascript" src="//use.typekit.net/ik/5QoATTVa6KwwLVCAajvVT7b94l3cHDxvwOK8O1NMo86feCSIfFHN4UJLFRbh52jhWDmRFDy8Zc93FR93wQ8c5QJkZeJuw2mRjy7MMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdP37O1izdejliemydfXtZ1buO1FUiABkZWF3jAF8OcFzdPUyjamTiY8Djhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1Oco8ifUySkolZPUCdhFydeyzSabCdhouZcmldAmDOcZkOYFUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCihNCZKuXZABCOQyci290SaBujW48Sagyjh90jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaikozd1mcZAulZWw0Z1JCiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCiaiaO1izdejliemydfXtZ1buO1FUiABkZWF3jAF8OcFzdPJwSY4zpe8ljPu0daZyJ68DdhZTjPu3Scv7fbRKHyMMeMw6MKG4fHvgIMMjgfMfH6GJCwbgIMMjgPMfH6qJK3IbMg6YJMJ7fbRRHyMMeMX6MKG4fJ3gIMMjIPMfH6GJa_vgIMIjMkMfH6GJt_vgIMIjgfMfH6GJtdvgIMIjgPMfH6GJodvgIMIjgKMfH6GJh_vgIMIjgkMfqMYAuwxugb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Alice:400|Roboto:500,700,400,700i,400i,500i,900|Roboto:700,700i,400i,400,300"/>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-6b59cae011c746b9c2e6a-min.fr-FR.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-6b59cae011c746b9c2e6a-min.fr-FR.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-62dc230f1ad4895bef316-min.fr-FR.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-62dc230f1ad4895bef316-min.fr-FR.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-dfbe08451882e7a66d3de-min.fr-FR.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-dfbe08451882e7a66d3de-min.fr-FR.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-5879813d7751ffd6d80fd-min.fr-FR.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-03a5305221e9f3857f5d3fbff2cd9bbe-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-1fc5f0a14984325d93912-min.fr-FR.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-6f5dce222a402eacd0def-min.fr-FR.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-1e8a762808391e4b0bd8945da50793ac-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-5ce262207590c52e9c80b-min.fr-FR.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-f54a0c28291bc349896e6-min.fr-FR.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-f794dccd3bb871fc0cbc0bb7ad024168-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-1739c1661ee1c564e1646-min.fr-FR.js"},"squarespace-commerce-cart":{"js":"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-b088fc30db940b4d4dbe0-min.fr-FR.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-afeb96ba160fb642a2d98c892a956065-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-c23a311e2802b46f5c770-min.fr-FR.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-1e8a762808391e4b0bd8945da50793ac-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-aca2bbddef4b4c8313bf7-min.fr-FR.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-6a6b595df20512e1e19d7-min.fr-FR.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-324206c32fe014be8c03d1fc0fc24568-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-fbe9bc0a41a4b12e6f362-min.fr-FR.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-0382532ad06472383048f-min.fr-FR.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-ab29a1d7016d1c935b90e-min.fr-FR.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-be3941e8670fdf6e04adb-min.fr-FR.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-dc4e0002d41870276250c9f39af29958-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-50d3f512bc259c817cfe5-min.fr-FR.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-a55d15ee96afaaa04470eab76ad468f8-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-ff69a183024e1101b7a1e-min.fr-FR.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a2c8b6bdfdc4244e4f3e1-min.fr-FR.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-1ddb96e5a9826307fc992-min.fr-FR.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-207da8872118254c0a795bf9b187c205-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-7f16f789871c8d37d1224-min.fr-FR.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a42025b1225ebb49c8bc1-min.fr-FR.js"},"squarespace-share-buttons":{"js":"//assets.squarespace.com/universal/scripts-compressed/share-buttons-76a14ba745b5c75b9af0e-min.fr-FR.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-16bb6fc9dbf312d3d31b8-min.fr-FR.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-9e2f9140ed3ee9145cdfd-min.fr-FR.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-8aa4ceed291868c86a0ef-min.fr-FR.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-4f212ab97f9bc590002bb2ff55f69409-min.fr-FR.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-24101b00f9c44611008c1-min.fr-FR.js"}},"pageType":1,"website":{"id":"5c78efe065019f922db505cb","identifier":"wolf-teal-8ft5","websiteType":1,"contentModifiedOn":1602498971360,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"fr-FR","timeZone":"America/New_York","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"ONU Femmes France","fullSiteTitle":"ONU Femmes France","siteDescription":"","logoImageId":"5df0f8c34ba53f72844973a1","socialLogoImageId":"5d89c87c684c2a65c347c442","shareButtonOptions":{"7":true,"1":true,"2":true,"6":true,"8":true,"4":true,"3":true},"logoImageUrl":"//static1.squarespace.com/static/5c78efe065019f922db505cb/t/5df0f8c34ba53f72844973a1/1602498971360/","socialLogoImageUrl":"//static1.squarespace.com/static/5c78efe065019f922db505cb/t/5d89c87c684c2a65c347c442/1602498971360/","authenticUrl":"https://www.onufemmes.fr","internalUrl":"https://wolf-teal-8ft5.squarespace.com","baseUrl":"https://www.onufemmes.fr","primaryDomain":"www.onufemmes.fr","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":60,"screenname":"Facebook","addedOn":1568476367227,"profileUrl":"https://www.facebook.com/onufemmesfrance/","iconEnabled":true,"serviceName":"facebook-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1568476399296,"profileUrl":"https://twitter.com/ONUFemmesFR","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":64,"screenname":"Instagram","addedOn":1568476440605,"profileUrl":"https://www.instagram.com/onufemmesfr/","iconEnabled":true,"serviceName":"instagram-unauth"},{"serviceId":65,"screenname":"LinkedIn","addedOn":1569181498172,"profileUrl":"https://www.linkedin.com/company/onu-femmes-france ","iconEnabled":true,"serviceName":"linkedin-unauth"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"31db23af11e7b688f3bdf0d147fb2c448aa013a3f72f0543286349653653d138","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5c78efe065019f922db505ce","websiteId":"5c78efe065019f922db505cb","subjects":[],"country":"US","state":"VA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":2,"showOnScroll":false,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":30,"enableMobile":true,"enabledPages":["5d8907d9ec73f74965f5c857","5d861c9e4f66404594349d03"],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"trialAssistantEnabled":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"En utilisant ce site, vous acceptez notre utilisation des cookies. Nous utilisons des cookies pour vous fournir une exp\u00E9rience am\u00E9lior\u00E9e et pour optimiser le bon fonctionnement de notre site web.","cookieBannerTheme":"LIGHT","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"BUTTON","cookieBannerCtaText":"J'accepte"},"websiteCloneable":false,"collection":{"title":"Home","id":"5d8907d9ec73f74965f5c857","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"2","tweak-blog-list-item-image-aspect-ratio-grid":"4:3 Four-Three","tweak-blog-list-item-image-aspect-ratio-stacked":"3:2 Standard","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"25px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Columns","tweak-header-bottom-overlay-on-index-gallery":"true","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"4","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Slideshow","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"Pages with Backgrounds Only","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Fade","tweak-product-list-items-per-row":"2","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"true","tweak-site-border-show":"false","tweak-site-border-width":"10px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","betaFeatureFlags":["domains_transfer_flow_improvements","ORDERS-SERVICE-check-digital-good-access-with-service","commerce_subscription_order_delay","demo_content_improvement","domain_deletion_via_registrar_service","domains_allow_async_gsuite","commerce_setup_wizard","domain_locking_via_registrar_service","commerce_pdp_survey_modal","ORDERS-SERVICE-reset-digital-goods-access-with-service","generic_iframe_loader_for_campaigns","seven_one_theme_mapper_v3","commerce_category_id_discounts_enabled","seven_one_image_effects","gallery_captions_71","domains_use_new_domain_connect_strategy","ORDER_SERVICE-submit-reoccurring-subscription-order-through-service","seven_one_image_overlay_opacity","newsletter_block_captcha","campaigns_single_opt_in","commerce-recaptcha-enterprise","crm_campaigns_sending","seven_one_fonts_panel_v2","domains_universal_search","commerce_tax_panel_v2","donations_customer_accounts","seven-one-menu-overlay-theme-switcher","commerce_product_composer_ab_test","nested_categories_migration_enabled","mobile_preview_page_editing","dg_downloads_from_fastly","domains_transfer_flow_hide_preface","seven_one_portfolio_hover_layouts","seven-one-main-content-preview-api","gallery_settings_71","commerce_minimum_order_amount","ORDER_SERVICE-submit-subscription-order-through-service","seven_one_header_editor_update","commerce_restock_notifications","commerce_activation_experiment_add_payment_processor_card","commerce_instagram_product_checkout_links","domain_info_via_registrar_service","local_listings","seven-one-content-preview-section-api"],"yuiEliminationExperimentList":[{"name":"statsMigrationJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"ContributionConfirmed-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"TextPusher-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MenuItemWithProgress-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"imageProcJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"QuantityChangePreview-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CompositeModel-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"HasPusherMixin-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"INACTIVE"},{"name":"ProviderList-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MediaTracker-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"pushJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"internal-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"BillingPanel-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"PopupOverlayEditor-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CoverPagePicker-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"}],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.onufemmes.fr/home?format=rss" />
+<script type="application/ld+json">{"url":"https://www.onufemmes.fr","name":"ONU Femmes France","description":"","image":"//static1.squarespace.com/static/5c78efe065019f922db505cb/t/5df0f8c34ba53f72844973a1/1602498971360/","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5c78efe065019f922db505cb/67/55f0aac0e4b0f0a5b7e0b22e/5c78efe065019f922db505e1/341-05142015/1602498971341/site.css?&filterFeatures=false"/><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TWWH3GX');</script>
+<!-- End Google Tag Manager --><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5d8907d9ec73f74965f5c857" class="tweak-social-icons-style-regular tweak-social-icons-shape-square tweak-site-width-option-full-background tweak-icon-weight-light  tweak-site-ajax-loading-enable tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-stacked ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-top-right ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-top-right ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-active tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square  tweak-header-secondary-nav-hover-style-button tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-icon-only tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-pages-with-backgrounds-only  tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-light tweak-header-bottom-overlay-on-index-gallery tweak-index-gallery-layout-slideshow   tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-middle-center tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-columns tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-plus ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-hide tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-outline tweak-mobile-overlay-menu-primary-button-shape-pill   tweak-mobile-overlay-menu-secondary-button-style-outline tweak-mobile-overlay-menu-secondary-button-shape-pill tweak-quote-block-alignment-center  tweak-blog-meta-primary-category tweak-blog-meta-secondary-date tweak-blog-list-style-grid  tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-43-four-three tweak-blog-list-item-image-aspect-ratio-stacked-32-standard tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-below-excerpt tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-below-title tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-fade tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title  tweak-product-list-filter-display-top tweak-product-list-filter-alignment-center tweak-product-item-nav-show-none tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-right tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-pill tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-solid tweak-product-item-details-add-to-cart-button-shape-pill tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-hover  tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center  image-block-card-content-position-center image-block-card-text-alignment-left  image-block-overlap-content-position-center image-block-overlap-text-alignment-left  image-block-collage-content-position-center image-block-collage-text-alignment-left  image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show    tweak-share-buttons-standard-background-color native-currency-code-usd collection-5d8907d9ec73f74965f5c857 collection-type-index collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-logo-image has-social has-parallax-images has-parallax-images enable-load-effects has-primary-nav has-secondary-nav has-index-gallery-first" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//static1.squarespace.com/static/5c78efe065019f922db505cb/t/5df0f8c34ba53f72844973a1/1602498971360/?format=1500w" alt="ONU Femmes France" class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="nos-actions">
+            <span class="Mobile-overlay-nav-item--folder-label">NOS ACTIONS</span>
+          </button>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="nos-actualites-1">
+            <span class="Mobile-overlay-nav-item--folder-label">NOS ACTUALITES</span>
+          </button>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="nos-soutiens">
+            <span class="Mobile-overlay-nav-item--folder-label">NOS SOUTIENS</span>
+          </button>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="a-propos">
+            <span class="Mobile-overlay-nav-item--folder-label">A PROPOS</span>
+          </button>
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="https://donner-onufemmesfr.iraiser.eu/?cid=1" class="Mobile-overlay-nav-item">
+        JE FAIS UN DON
+      </a>
+    
+  
+
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="nos-actions">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="nos-actions">
+        <span class="Mobile-overlay-folder-item--toggle-label">Retour</span>
+      </button>
+      
+        
+          <a href="/independance-economique-egalite-professionnelle" class="Mobile-overlay-folder-item">
+            Indépendance économique et égalité professionnelle
+          </a>
+        
+      
+        
+          <a href="/leadership-politique-paix-environnement" class="Mobile-overlay-folder-item">
+            Leadership politique - Paix - Environnement
+          </a>
+        
+      
+        
+          <a href="/lutte-contre-les-violences-et-stereotypes-de-genre" class="Mobile-overlay-folder-item">
+            Lutte contre les violences et les stéréotypes de genre
+          </a>
+        
+      
+        
+          <a href="/nos-actions-en-france" class="Mobile-overlay-folder-item">
+            Nos actions en France
+          </a>
+        
+      
+        
+          <a href="/generation-egalite" class="Mobile-overlay-folder-item">
+            Génération Egalité
+          </a>
+        
+      
+        
+          <a href="/heforshe" class="Mobile-overlay-folder-item">
+            HeForShe
+          </a>
+        
+      
+        
+          <a href="/orange-day" class="Mobile-overlay-folder-item">
+            Orange Day
+          </a>
+        
+      
+        
+          <a href="/agenda-2030" class="Mobile-overlay-folder-item">
+            Agenda 2030
+          </a>
+        
+      
+    </div>
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="nos-actualites-1">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="nos-actualites-1">
+        <span class="Mobile-overlay-folder-item--toggle-label">Retour</span>
+      </button>
+      
+        
+          <a href="/nos-actualites" class="Mobile-overlay-folder-item">
+            Articles
+          </a>
+        
+      
+        
+          <a href="/newsletters" class="Mobile-overlay-folder-item">
+            Newsletters
+          </a>
+        
+      
+    </div>
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="nos-soutiens">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="nos-soutiens">
+        <span class="Mobile-overlay-folder-item--toggle-label">Retour</span>
+      </button>
+      
+        
+          <a href="/nos-marraines" class="Mobile-overlay-folder-item">
+            Nos marraines
+          </a>
+        
+      
+        
+          <a href="/nos-partenaires" class="Mobile-overlay-folder-item">
+            Nos partenaires 
+          </a>
+        
+      
+    </div>
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="a-propos">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="a-propos">
+        <span class="Mobile-overlay-folder-item--toggle-label">Retour</span>
+      </button>
+      
+        
+          <a href="/onu-femmes-france" class="Mobile-overlay-folder-item">
+            ONU Femmes France
+          </a>
+        
+      
+        
+          <a href="/onu-femmes" class="Mobile-overlay-folder-item">
+            ONU Femmes
+          </a>
+        
+      
+        
+          <a href="/nous-contacter" class="Mobile-overlay-folder-item">
+            Nous contacter
+          </a>
+        
+      
+    </div>
+  
+
+        
+  
+
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5ed8b4278553fe38e9c11a56"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5c7901ba4785d3457d9e1014"></div>
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Recherche" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+              <div class="Header-social" data-nc-element="social">
+                
+  <nav class="SocialLinks" data-content-field="connected-accounts">
+    <div class="SocialLinks-inner">
+    <a href="https://www.facebook.com/onufemmesfrance/" target="_blank" class="SocialLinks-link facebook-unauth" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#facebook-unauth-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#facebook-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://twitter.com/ONUFemmesFR" target="_blank" class="SocialLinks-link twitter-unauth" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#twitter-unauth-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#twitter-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://www.instagram.com/onufemmesfr/" target="_blank" class="SocialLinks-link instagram-unauth" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#instagram-unauth-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#instagram-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://www.linkedin.com/company/onu-femmes-france " target="_blank" class="SocialLinks-link linkedin-unauth" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#linkedin-unauth-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#linkedin-unauth-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </nav>
+
+              </div>
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--index-gallery">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/nos-actions" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">NOS ACTIONS</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/independance-economique-egalite-professionnelle" class="Header-nav-folder-item" data-test="template-nav">Indépendance économique et égalité professionnelle</a>
+          
+        
+          
+            <a href="/leadership-politique-paix-environnement" class="Header-nav-folder-item" data-test="template-nav">Leadership politique - Paix - Environnement</a>
+          
+        
+          
+            <a href="/lutte-contre-les-violences-et-stereotypes-de-genre" class="Header-nav-folder-item" data-test="template-nav">Lutte contre les violences et les stéréotypes de genre</a>
+          
+        
+          
+            <a href="/nos-actions-en-france" class="Header-nav-folder-item" data-test="template-nav">Nos actions en France</a>
+          
+        
+          
+            <a href="/generation-egalite" class="Header-nav-folder-item" data-test="template-nav">Génération Egalité</a>
+          
+        
+          
+            <a href="/heforshe" class="Header-nav-folder-item" data-test="template-nav">HeForShe</a>
+          
+        
+          
+            <a href="/orange-day" class="Header-nav-folder-item" data-test="template-nav">Orange Day</a>
+          
+        
+          
+            <a href="/agenda-2030" class="Header-nav-folder-item" data-test="template-nav">Agenda 2030</a>
+          
+        
+      </span>
+    </span><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/nos-actualites-1" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">NOS ACTUALITES</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/nos-actualites" class="Header-nav-folder-item" data-test="template-nav">Articles</a>
+          
+        
+          
+            <a href="/newsletters" class="Header-nav-folder-item" data-test="template-nav">Newsletters</a>
+          
+        
+      </span>
+    </span><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/nos-soutiens" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">NOS SOUTIENS</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/nos-marraines" class="Header-nav-folder-item" data-test="template-nav">Nos marraines</a>
+          
+        
+          
+            <a href="/nos-partenaires" class="Header-nav-folder-item" data-test="template-nav">Nos partenaires </a>
+          
+        
+      </span>
+    </span><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/a-propos" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">A PROPOS</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/onu-femmes-france" class="Header-nav-folder-item" data-test="template-nav">ONU Femmes France</a>
+          
+        
+          
+            <a href="/onu-femmes" class="Header-nav-folder-item" data-test="template-nav">ONU Femmes</a>
+          
+        
+          
+            <a href="/nous-contacter" class="Header-nav-folder-item" data-test="template-nav">Nous contacter</a>
+          
+        
+      </span>
+    </span>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//static1.squarespace.com/static/5c78efe065019f922db505cb/t/5df0f8c34ba53f72844973a1/1602498971360/?format=1500w" alt="ONU Femmes France" class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="https://donner-onufemmesfr.iraiser.eu/?cid=1" class="Header-nav-item">JE FAIS UN DON</a>
+  </div>
+
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="5d8907d9ec73f74965f5c857" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="nouvelle-galerie-1" class="Index-gallery" data-controller="IndexGallery" data-collection-id="5ed8b4278553fe38e9c11a56">
+        <div class="Index-gallery-wrapper">
+          <button class="Index-gallery-control Index-gallery-control--left">
+            <svg class="Icon Icon--caretLarge--left" viewBox="0 0 23 48">
+              <use xlink:href="/assets/ui-icons.svg#caret-left-icon--large"></use>
+            </svg>
+            <svg class="Icon Icon--caretSmall--left" viewBox="0 0 9 16">
+              <use xlink:href="/assets/ui-icons.svg#caret-left-icon--small"></use>
+            </svg>
+          </button>
+          <button class="Index-gallery-control Index-gallery-control--right">
+            <svg class="Icon Icon--caretLarge--right" viewBox="0 0 23 48">
+              <use xlink:href="/assets/ui-icons.svg#caret-right-icon--large"></use>
+            </svg>
+            <svg class="Icon Icon--caretSmall--left" viewBox="0 0 9 16">
+              <use xlink:href="/assets/ui-icons.svg#caret-right-icon--small"></use>
+            </svg>
+          </button>
+          
+            <div class="Index-gallery-indicators">
+              <button class="Index-gallery-indicators-item"><span class="Index-gallery-indicators-item-inner"></span></button><button class="Index-gallery-indicators-item"><span class="Index-gallery-indicators-item-inner"></span></button>
+            </div>
+          
+          
+
+            <article class="Index-gallery-item">
+
+              <div class="Index-gallery-item-inner">
+
+                
+
+                
+                  <a href="/don-coronavirus" class="Index-gallery-item-image">
+                
+                  <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1591261044586-QWTOU5W1A77490F46YP6/ke17ZwdGBToddI8pDm48kA-pNALjjLe6plxSp1gq_DN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua95dwQfNq4VbySEZ7rQNEM3KfnBuxP1yHRWW_bUEGC0JvwGh1qtNWvMhYKnvaKhbA/bannercovid19.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1591261044586-QWTOU5W1A77490F46YP6/ke17ZwdGBToddI8pDm48kA-pNALjjLe6plxSp1gq_DN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua95dwQfNq4VbySEZ7rQNEM3KfnBuxP1yHRWW_bUEGC0JvwGh1qtNWvMhYKnvaKhbA/bannercovid19.png" data-image-dimensions="1689x1125" data-image-focal-point="0.5,0.5" alt="bannercovid19.png"  data-load="false" />
+                
+                  </a>
+                
+
+                
+
+              </div>
+
+            </article>
+
+          
+
+            <article class="Index-gallery-item">
+
+              <div class="Index-gallery-item-inner">
+
+                
+
+                
+                  <a href="https://donner-onufemmesfr.iraiser.eu/?cid=3" class="Index-gallery-item-image">
+                
+                  <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1598355986261-QV89IM77H9LV45T70QJ2/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/Photo+_+Lebanese+woman%2C+Gemmayze%2C+August+7%2C+2020%2C+credit+Dar+Al+Mussawir.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1598355986261-QV89IM77H9LV45T70QJ2/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/Photo+_+Lebanese+woman%2C+Gemmayze%2C+August+7%2C+2020%2C+credit+Dar+Al+Mussawir.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="Photo _ Lebanese woman, Gemmayze, August 7, 2020, credit Dar Al Mussawir.jpg"  data-load="false" />
+                
+                  </a>
+                
+
+                
+
+              </div>
+
+            </article>
+
+          
+        </div>
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="articles" class="Index-page"  data-collection-id="5c7904dfc83025e136c63acd" data-parallax-id="5c7904dfc83025e136c63acd" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1601992325106" id="page-5c7904dfc83025e136c63acd"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1600673227004_5571"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Dernières actualités</h2></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1600673227004_6239"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="62.841530054644814" data-block-type="5" id="block-yui_3_17_2_1_1600329329278_6449"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="https://www.onufemmes.fr/nos-actualites/2020/9/22/15-octobre-onu-femmes-france-vous-invite-a-son-forum-digital-pour-celebrer-lagenda-femmes-paix-et-securite"
+                
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601992253731-IMO1ODOMFWJIWXIDMTNC/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/le+15+Octobre%2C+participez+au+forum.png" alt="15 octobre 2020 : ONU Femmes France vous invite à son forum digital pour célébrer l’Agenda Femmes, Paix et Sécurité - Lire la suite &gt;" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601992253731-IMO1ODOMFWJIWXIDMTNC/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/le+15+Octobre%2C+participez+au+forum.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601992253731-IMO1ODOMFWJIWXIDMTNC/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/le+15+Octobre%2C+participez+au+forum.png" data-image-dimensions="1024x512" data-image-focal-point="0.5,0.5" alt="le 15 Octobre, participez au forum.png"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="">15 octobre 2020 : ONU Femmes France vous invite à son forum digital pour célébrer l’Agenda Femmes, Paix et Sécurité</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class=""><a href="https://www.onufemmes.fr/nos-actualites/2020/9/22/15-octobre-onu-femmes-france-vous-invite-a-son-forum-digital-pour-celebrer-lagenda-femmes-paix-et-securite">Lire la suite &gt;</a></p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1551435012599_4207"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-slide-up
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="https://www.onufemmes.fr/nos-actualites/interview-du-dr-mukwege-prix-nobel-de-la-paix-2018"
+                
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601558296740-SQP5OKDZT9QBYFH21526/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/interview++%281%29.png" alt="Interview du Dr. Denis Mukwege, Prix Nobel de la Paix 2018 - Lire la suite &gt;" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601558296740-SQP5OKDZT9QBYFH21526/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/interview++%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601558296740-SQP5OKDZT9QBYFH21526/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/interview++%281%29.png" data-image-dimensions="1024x512" data-image-focal-point="0.5,0.5" alt="interview  (1).png"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><p class=""></p><p class="">Interview du Dr. Denis Mukwege, Prix Nobel de la Paix 2018</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p class=""><a href="https://www.onufemmes.fr/nos-actualites/interview-du-dr-mukwege-prix-nobel-de-la-paix-2018">Lire la suite &gt;</a></p><p class=""></p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="accueilcampagnes" class="Index-page"  data-collection-id="5c78f5a08165f539b175c024" data-parallax-id="5c78f5a08165f539b175c024" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1601896246703" id="page-5c78f5a08165f539b175c024"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.11547344110854503" data-block-type="21" id="block-yui_3_17_2_1_1568280606259_13201"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1600330073391_14202"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/heforshe"
+                
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600779447581-SAN1CO0K70R1F27KL5KZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/heforshe.jpg" alt="#HeForSheAtHome - " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600779447581-SAN1CO0K70R1F27KL5KZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/heforshe.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600779447581-SAN1CO0K70R1F27KL5KZ/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmFk_H6M1tkD9NpL7mXac0oVSXdFfjxR5AjcLwGSebOiGBsFzzcw3xKxvyC_6CFFG_/heforshe.jpg" data-image-dimensions="1080x1080" data-image-focal-point="0.5,0.5" alt="heforshe.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class=""><a href="/heforshe">#HeForSheAtHome</a></p></div></div>
+              
+
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1600330073391_20126"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/generation-egalite"
+                
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600330377432-S8DQ720PNF1HBEY651UN/ke17ZwdGBToddI8pDm48kH7bcx_p807l_7aJvGUB_uN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0moOD8BDhkEvmr_flZVBtwIChsuiQhyTIkjVQ5JuE40aqe9Md01nIM06lR7f9JJmiQ/G%C3%A9n%C3%A9ration+Egalit%C3%A9" alt="#GenerationEgalite - " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600330377432-S8DQ720PNF1HBEY651UN/ke17ZwdGBToddI8pDm48kH7bcx_p807l_7aJvGUB_uN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0moOD8BDhkEvmr_flZVBtwIChsuiQhyTIkjVQ5JuE40aqe9Md01nIM06lR7f9JJmiQ/G%C3%A9n%C3%A9ration+Egalit%C3%A9" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600330377432-S8DQ720PNF1HBEY651UN/ke17ZwdGBToddI8pDm48kH7bcx_p807l_7aJvGUB_uN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0moOD8BDhkEvmr_flZVBtwIChsuiQhyTIkjVQ5JuE40aqe9Md01nIM06lR7f9JJmiQ/G%C3%A9n%C3%A9ration+Egalit%C3%A9" data-image-dimensions="2500x2499" data-image-focal-point="0.5,0.5" alt="Génération Egalité"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class=""><a href="/generation-egalite">#GenerationEgalite</a></p></div></div>
+              
+
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1600330073391_31994"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/orange-day-2019"
+                
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600846561022-AFHCV8HTRF04XOTY3KXA/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/FB+AVEC+LOGO.jpg" alt="#LeFeminicideDansLaLoi - " /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600846561022-AFHCV8HTRF04XOTY3KXA/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/FB+AVEC+LOGO.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1600846561022-AFHCV8HTRF04XOTY3KXA/ke17ZwdGBToddI8pDm48kGDpvalPb1SqHoCn1hwN0Y57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmQPoRzxSr1hzN-vPBHt7YyLLXgctAyUJRqJUUGWVDK_ZzIgvsybGcZEPqUYiXY8im/FB+AVEC+LOGO.jpg" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="FB AVEC LOGO.jpg"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class=""><a href="/orange-day-2019">#LeFeminicideDansLaLoi</a></p></div></div>
+              
+
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1551432956415_55504"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1568283383540_37605"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-stack
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="https://mailchi.mp/onufemmes/onu-femmes-france-newsletter-mensuelle-n29-octobre"
+                target="_blank"
+          
+              
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset
+                
+                  content-fit
+                
+              "
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601557994201-OPQEMIUC68SQSN9M0MOK/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/NL+Oct+20+r%C3%A9dac+cheffe" alt=" - La rédac’ cheffe du mois : Annick Cojean" /></noscript>
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601557994201-OPQEMIUC68SQSN9M0MOK/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/NL+Oct+20+r%C3%A9dac+cheffe" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1601557994201-OPQEMIUC68SQSN9M0MOK/ke17ZwdGBToddI8pDm48kG4VqDreF-qTqyP-RyQBlzwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcz9FKOkYZZtCaZTQFz_pq4njr3fQnFjhxZuT9qSS4BtKI42iWDYN3Yj3ILGKtJgbC/NL+Oct+20+r%C3%A9dac+cheffe" data-image-dimensions="1024x512" data-image-focal-point="0.5,0.5" alt="NL Oct 20 rédac cheffe"  />
+            <div class="image-overlay"></div>
+          
+            </a>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class=""><strong>La rédac’ cheffe du mois : Annick Cojean</strong></p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block newsletter-block sqs-block-newsletter" data-block-type="51" id="block-yui_3_17_2_1_1551432956415_65060"><div class="sqs-block-content">
+
+
+<div class="newsletter-form-wrapper
+  
+  newsletter-form-wrapper--layoutFloat
+  newsletter-form-wrapper--alignLeft
+  
+  "
+  >
+  <form
+     class="newsletter-form"
+     data-form-id="5c78ffea24a69426265f97ce"
+     
+     autocomplete="on"
+     method="POST"
+     onsubmit="return (function (form) {
+    Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+      (new Y.Squarespace.FormSubmit(form)).submit({
+        formId: '5c78ffea24a69426265f97ce',
+        collectionId: '5c78f5a08165f539b175c024',
+        objectName: 'page-5c78f5a08165f539b175c024'
+      });
+    });
+    return false;
+  })(this);">
+    <header class="newsletter-form-header">
+      <h2 class="newsletter-form-header-title">Inscrivez vous à notre Newsletter !</h2>
+      <div class="newsletter-form-header-description"><p class="">Tous les deux mois, recevez nos actualités et découvrez la sélection de nos rédac’ chef.fe.s</p></div>
+    </header>
+    <div class="newsletter-form-body">
+      <div class="newsletter-form-fields-wrapper form-fields" style="vertical-align: bottom;">
+        
+        
+          
+            <div id="email-yui_3_17_2_1_1551432956415_65065" class="newsletter-form-field-wrapper form-item field email required" style="vertical-align: bottom;">
+              <label class="newsletter-form-field-label title" for="email-yui_3_17_2_1_1551432956415_65065-field">Adresse email</label>
+              <input id="email-yui_3_17_2_1_1551432956415_65065-field" class="newsletter-form-field-element field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" placeholder="Adresse e-mail" />
+            </div>
+          
+        
+          
+        
+      </div>
+      <div data-animation-role="button" class="newsletter-form-button-wrapper submit-wrapper" style="vertical-align: bottom;">
+        <button class="newsletter-form-button sqs-system-button sqs-editable-button-layout sqs-editable-button-style sqs-editable-button-shape" type="submit" value="Je m'inscris"><span class="newsletter-form-spinner sqs-spin light large"></span><span class="newsletter-form-button-label">Je m'inscris</span><span class="newsletter-form-button-icon"></span></button>
+      </div>
+      
+        <div class="model"></div>
+        
+      
+    </div>
+    <div class="newsletter-form-footnote"></div>
+    <div class="hidden form-submission-text">Merci !</div>
+    <div class="hidden form-submission-html" data-submission-html=""></div>
+  </form>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1591262879839_15868"><div class="sqs-block-content"><h3 style="text-align:right;white-space:pre-wrap;"><a href="/nos-actualites">Retrouvez toutes nos actualités  &gt;</a></h3></div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="actions" class="Index-page"  data-collection-id="5c78fbf09140b7e617a1e773" data-parallax-id="5c78fbf09140b7e617a1e773" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1569357575976" id="page-5c78fbf09140b7e617a1e773"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1551432727906_3978"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-overlay-hover
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:783.0px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/independance-economique-egalite-professionnelle"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:66.92208862304688%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196862025-ZXO1BYV4PC47RU9YJQM5/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/vert1.png" alt="ONU Femmes vise à favoriser l'accès des femmes au travail rémunéré et aux ressources économiques, à lutter contre les discriminations dans le domaine professionnel et à obtenir une répartition juste du travail et des soins domestiques non rémunérés." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196862025-ZXO1BYV4PC47RU9YJQM5/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/vert1.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196862025-ZXO1BYV4PC47RU9YJQM5/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/vert1.png" data-image-dimensions="783x524" data-image-focal-point="0.5,0.5" alt="ONU Femmes vise à favoriser l'accès des femmes au travail rémunéré et aux ressources économiques, à lutter contre les discriminations dans le domaine professionnel et à obtenir une répartition juste du travail et des soins domestiques non rémunérés." data-load="false" data-image-id="5d78c8fd1872770a23cbe193" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">ONU Femmes vise à favoriser l'accès des femmes au travail rémunéré et aux ressources économiques, à lutter contre les discriminations dans le domaine professionnel et à obtenir une répartition juste du travail et des soins domestiques non rémunérés.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1551432727906_5243"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-overlay-hover
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:783.0px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/lutte-contre-les-violences-et-stereotypes-de-genre"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:66.92208862304688%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196917285-4DNKQ6VU2UJJTGZHKLYN/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/orange2.png" alt="Les violences faites aux femmes et aux filles existent dans la sphère privée comme publique sous de multiples formes. ONU Femmes travaille à l'élimination de ces violences, notamment à travers des actions de prévention et en demandant le renforcement et l'application des législations sanctionnant ces violations." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196917285-4DNKQ6VU2UJJTGZHKLYN/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/orange2.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568196917285-4DNKQ6VU2UJJTGZHKLYN/ke17ZwdGBToddI8pDm48kMrkkWrjCq_uxpRw7v6TF4FZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgk7eB_M1s5YYa38niC_iGbsMOrqTUnQUkQCZTFtt3Vo/orange2.png" data-image-dimensions="783x524" data-image-focal-point="0.5,0.5" alt="Les violences faites aux femmes et aux filles existent dans la sphère privée comme publique sous de multiples formes. ONU Femmes travaille à l'élimination de ces violences, notamment à travers des actions de prévention et en demandant le renforcement et l'application des législations sanctionnant ces violations." data-load="false" data-image-id="5d78c935e6076d760e50fdaf" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Les violences faites aux femmes et aux filles existent dans la sphère privée comme publique sous de multiples formes. ONU Femmes travaille à l'élimination de ces violences, notamment à travers des actions de prévention et en demandant le renforcement et l'application des législations sanctionnant ces violations.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1551432727906_6471"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-overlay-hover
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1041.0px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/leadership-politique-paix-environnement"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:66.95484924316406%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1569357567713-6Y87TCVCYZ7RXE7X2C8C/ke17ZwdGBToddI8pDm48kAyD8kUyAH6n3PBJZVjb-GgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccRrwFviMX5R1kNw4IjSPTEj6rFY6KaQnsUqWbsg9Lcag75Qib4H2MC05z29jCye5/bleu2.png" alt="ONU Femmes agit pour accroître la représentation des femmes au sein des instances politiques et gouvernementales, pour renforcer l'implication des femmes dans la prévention et le réglement des conflits et promouvoir la prospérité de chacun.e tout en protégeant la planète." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1569357567713-6Y87TCVCYZ7RXE7X2C8C/ke17ZwdGBToddI8pDm48kAyD8kUyAH6n3PBJZVjb-GgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccRrwFviMX5R1kNw4IjSPTEj6rFY6KaQnsUqWbsg9Lcag75Qib4H2MC05z29jCye5/bleu2.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1569357567713-6Y87TCVCYZ7RXE7X2C8C/ke17ZwdGBToddI8pDm48kAyD8kUyAH6n3PBJZVjb-GgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccRrwFviMX5R1kNw4IjSPTEj6rFY6KaQnsUqWbsg9Lcag75Qib4H2MC05z29jCye5/bleu2.png" data-image-dimensions="1041x697" data-image-focal-point="0.5,0.5" alt="ONU Femmes agit pour accroître la représentation des femmes au sein des instances politiques et gouvernementales, pour renforcer l'implication des femmes dans la prévention et le réglement des conflits et promouvoir la prospérité de chacun.e tout en protégeant la planète." data-load="false" data-image-id="5d8a7eff96d6bf7e37d202ea" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">ONU Femmes agit pour accroître la représentation des femmes au sein des instances politiques et gouvernementales, pour renforcer l'implication des femmes dans la prévention et le réglement des conflits et promouvoir la prospérité de chacun.e tout en protégeant la planète.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="faire-un-don" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5c7901ba4785d3457d9e1014" data-parallax-id="5c7901ba4785d3457d9e1014" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1601308224310" id="page-5c7901ba4785d3457d9e1014"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.12254901960784313" data-block-type="21" id="block-yui_3_17_2_1_1551434299325_6428"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1551434299325_4174"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:672.0px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+                style="padding-bottom:45.238094329833984%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198521402-3IXRJK22U6O0Q7M4W355/ke17ZwdGBToddI8pDm48kPW1ONqEmKjjfadiIqA1uxFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpycXvpJeGjoDB8sFS8PrqPrTFPNSrkJ3jA8ag37-vXCUrrlWMujv_BvAFv6QCAzs4I/Image2.png" alt="Image2.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198521402-3IXRJK22U6O0Q7M4W355/ke17ZwdGBToddI8pDm48kPW1ONqEmKjjfadiIqA1uxFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpycXvpJeGjoDB8sFS8PrqPrTFPNSrkJ3jA8ag37-vXCUrrlWMujv_BvAFv6QCAzs4I/Image2.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198521402-3IXRJK22U6O0Q7M4W355/ke17ZwdGBToddI8pDm48kPW1ONqEmKjjfadiIqA1uxFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpycXvpJeGjoDB8sFS8PrqPrTFPNSrkJ3jA8ag37-vXCUrrlWMujv_BvAFv6QCAzs4I/Image2.png" data-image-dimensions="672x304" data-image-focal-point="0.5,0.5" alt="Image2.png" data-load="false" data-image-id="5d78cf79913a06645e361bc0" data-type="image" />
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1551434299325_10275"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Nous croyons que l’égalité réelle entre les femmes et les hommes est à notre portée. Vous pouvez nous aider à y parvenir. Un don à ONU Femmes France nous permet de mettre en œuvre des actions pour améliorer l’égalité femmes-hommes en France et à travers le monde.</p></div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1551434299325_5489"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-8 span-8"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="5.922551252847381" data-block-type="21" id="block-yui_3_17_2_1_1551434299325_7148"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1568195024858_65433"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:423.0px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="https://donner-onufemmesfr.iraiser.eu/?cid=1"
+              
+          >
+            
+          <div
+              
+                style="padding-bottom:19.858156204223633%;"
+              
+              class="
+                image-block-wrapper
+                
+          
+        
+                has-aspect-ratio
+              "
+              data-animation-role="image"
+              
+  
+
+          >
+            <noscript><img src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198598516-FOYVD5208X1NGHWCLO7W/ke17ZwdGBToddI8pDm48kMn76feTuRF_U-SmPL5QvOLlfiSMXz2YNBs8ylwAJx2qLijIv1YpVq4N1RMuCCrb3iJz4vYg48fcPCuGX417dna7GUvLX9p5C34kpyMyGaIessTD_TtAt6S7mCYHTfQmrAoyyEsAbPHhHcQMU6bWQFI/Image3.png" alt="Image3.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198598516-FOYVD5208X1NGHWCLO7W/ke17ZwdGBToddI8pDm48kMn76feTuRF_U-SmPL5QvOLlfiSMXz2YNBs8ylwAJx2qLijIv1YpVq4N1RMuCCrb3iJz4vYg48fcPCuGX417dna7GUvLX9p5C34kpyMyGaIessTD_TtAt6S7mCYHTfQmrAoyyEsAbPHhHcQMU6bWQFI/Image3.png" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568198598516-FOYVD5208X1NGHWCLO7W/ke17ZwdGBToddI8pDm48kMn76feTuRF_U-SmPL5QvOLlfiSMXz2YNBs8ylwAJx2qLijIv1YpVq4N1RMuCCrb3iJz4vYg48fcPCuGX417dna7GUvLX9p5C34kpyMyGaIessTD_TtAt6S7mCYHTfQmrAoyyEsAbPHhHcQMU6bWQFI/Image3.png" data-image-dimensions="423x84" data-image-focal-point="0.5,0.5" alt="Image3.png" data-load="false" data-image-id="5d78cfc6c35aea5ebb380a71" data-type="image" />
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1569265247736_15146"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class="">Photo: ONU Femmes/Allison Joyce</p></div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568283375180-1SSO59OO4UH2W7TWGOIP/ke17ZwdGBToddI8pDm48kMnHRrpWSlSCB9XabjgyantZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz4FkPJA585QYBg9EjPvRpkIxxB_SdP_xzqtxyFDizV5aadH9FfX0OATazAJGndjd8/42674243044_dd1d60049b_z.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5c78efe065019f922db505cb/1568283375180-1SSO59OO4UH2W7TWGOIP/ke17ZwdGBToddI8pDm48kMnHRrpWSlSCB9XabjgyantZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz4FkPJA585QYBg9EjPvRpkIxxB_SdP_xzqtxyFDizV5aadH9FfX0OATazAJGndjd8/42674243044_dd1d60049b_z.jpg" data-image-dimensions="640x427" data-image-focal-point="0.5,0.5" alt="42674243044_dd1d60049b_z.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#nouvelle-galerie-1" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Nouvelle Galerie</span></div>
+          </a>
+        
+          <a href="#articles" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Articles</span></div>
+          </a>
+        
+          <a href="#accueilcampagnes" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Campagnes</span></div>
+          </a>
+        
+          <a href="#actions" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Actions</span></div>
+          </a>
+        
+          <a href="#faire-un-don" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Faire un don</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Blocs en haut du pied de page" data-type="block-field" data-updated-on="1600329202168" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_14_1508259365927_6344"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-large social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.facebook.com/onufemmesfrance/" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/ONUFemmesFR" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.instagram.com/onufemmesfr/" target="_blank" class="sqs-svg-icon--wrapper instagram-unauth" aria-label="Instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/company/onu-femmes-france " target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1508178717394_35681"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">ONU FEMMES FRANCE</h3><p class="" style="white-space:pre-wrap;"><a href="/a-propos">Qui sommes-nous ?</a><br><a href="/nous-contacter">Nous contacter</a> <br><a href="https://www.onufemmes.fr/nos-actualites/2020/2/24/offre-demploi-onu-femmes-france-cherche-sonsa-future-office-manager">Nous rejoindre</a></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1600329002012_7071"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">AGIR avec NOUs</h3><p class="" style="white-space:pre-wrap;"><a href="/pourquoi-nous-soutenir">Pourquoi nous soutenir </a>                                   <a href="/comment-simpliquer">Comment s’impliquer</a><br><a href="/a-quoi-servent-vos-dons">A quoi servent vos dons</a><br><a href="/devenir-partenaire">Devenir partenaire</a></p></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_3_1508345645420_17466"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">CAMPAGNES</h3><p class="" style="white-space:pre-wrap;"><a href="/generation-egalite">#GénérationEgalité </a>                                      <a href="/heforshe">#HeForShe</a><br><a href="/orange-day">#OrangeDay</a><br><a href="https://www.onufemmes.fr/nos-actualites/2019/11/22/le-fminicide-parlons-en-lefeminicidedanslaloi">#LeFéminicideDansLaLoi</a></p></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1551438055006_14168"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">DOCUMENTATION</h3><p class="" style="white-space:pre-wrap;"><a href="/rapports-annuels-et-documentation">Publications</a><br><a href="https://medium.com/onu-femmes-france" target="_blank">Blog</a><br></p></div></div></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Blocs au milieu du pied de page" data-type="block-field" data-updated-on="1452386857557" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container" data-layout-label="Blocs en bas du pied de page" data-type="block-field" data-updated-on="1569402587751" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1569081556900_5965"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_4_1507656299310_28440"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Copyright © 2019. ONU Femmes Comité National France. Tous droits réservés.</p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="/mentions-legales" target="_blank">Mentions légales </a></p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="51.515151515151516" data-block-type="21" id="block-yui_3_17_2_1_1569081556900_13179"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1568476552252_9206"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1568476552252_10076"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/341/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWWH3GX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-unauth-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="linkedin-unauth-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol></svg>
+
+  </body>
+</html>

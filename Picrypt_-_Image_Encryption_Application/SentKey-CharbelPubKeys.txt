@@ -1,0 +1,5 @@
+Use to decrypt 'Picrypted-C:/Users/gmarc/AppData/Local/Programs/Python/Python39/spongebob.jpg':
+
+k_e = 591
+iv = 184
+p = 701

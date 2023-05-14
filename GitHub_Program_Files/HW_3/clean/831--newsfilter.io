@@ -1,0 +1,1 @@
+b'Contact support@newsfilter.io if you want to use the API.'

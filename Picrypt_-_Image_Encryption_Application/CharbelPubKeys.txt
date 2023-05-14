@@ -1,0 +1,5 @@
+Send this to Charbel:
+
+beta = 353
+p = 701
+alpha = 442

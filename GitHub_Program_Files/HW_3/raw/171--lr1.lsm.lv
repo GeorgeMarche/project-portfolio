@@ -1,0 +1,1202 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>LR1 / Latvijas Radio</title>
+	<link rel="stylesheet" media="screen" href="/public/styles/default.css?v=221">
+	<link rel="stylesheet" media="screen" href="/public/styles/1.css?v=221">
+	<link rel="stylesheet" media="screen" href="//static.lsm.lv/header/style.css?9">
+	<script src="//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+	<script src="/public/scripts/tools.js?v=36"></script>
+	<script src="/public/scripts/common.js?v=36"></script>
+<link rel="apple-touch-icon" type="image/png" href="/favicon/lr1-favicon-180x180.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/lr1-favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/lr1-favicon-16x16.png" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon/lr1-favicon.ico" />
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=no" />
+<script>if (typeof(jwplayer) !== "undefined") { jwplayer.key="H9h5mP08gQRupIFNzzhKClSDIAQiAEgb57LDZQ=="; } </script></head>
+<body class="theme_default">
+
+		<header id="unitedHeader" class="unitedHeaderlr">
+			<div class="container">
+				<section id="unitedHeaderTop" class="clearfix">
+					<nav>
+						<p><span class="vrl-icon-twitter"></span><a target="_blank" href="https://twitter.com/LatvijasRadio1">Twitter</a></p><p><span class="vrl-icon-facebook"></span><a target="_blank" href="https://www.facebook.com/LatvijasRadio1/?fref=nf">Facebook</a></p><p><span class="vrl-icon-instagram"></span><a target="_blank" href="https://www.instagram.com/latvijasradio/ ">Instagram</a></p><p><span class="vrl-icon-youtube"></span><a target="_blank" href="https://www.youtube.com/user/LatvijasRadio">Youtube</a></p><p><span class="vrl-icon-rss"></span><a href="https://lr1.lsm.lv//lv/rss-saraksts/">RSS</a></p>
+					</nav>
+					<ul>
+						<li class="unitedLinkDate">Trešdiena, 2020. gada 14. oktobris</li>
+						<li class="unitedSep">&bull;</li>
+						<li class="unitedLinkNames">Vārda diena: Minna, Vilhelmīne</li>
+						<li class="unitedSep">&bull;</li>
+						<li class="unitedLinkWeather">Rīgā +14.0°C, - vējš 0m/s, 761mm Hg, 86%</li>
+					</ul>
+				</section>
+				
+				<section id="unitedTabs" class="clearfix">
+					<div id="unitedLSMTitle">
+						<a class="unitedLSMLongTitle" href="http://www.lsm.lv/">Latvijas Sabiedriskie Mediji</a> 
+						<i>&bull;</i> 
+						<a class="unitedLSMShortTitle" href="http://www.lsm.lv/">LSM.LV</a>
+					</div>
+					<div id="unitedTabsCont">
+						<ul>
+							<li class=" "><a target="_self" href="http://www.latvijasradio.lv/">Latvijas Radio</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class="unitedHeaderActive "><a target="_self" href="http://lr1.latvijasradio.lv/">LR1</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class=" "><a target="_self" href="http://lr2.latvijasradio.lv/">LR2</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class=" "><a target="_self" href="http://klasika.lsm.lv/lv/lr3/">LR3</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class=" "><a target="_self" href="http://lr4.latvijasradio.lv/">LR4</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class=" "><a target="_blank" href="http://www.pieci.lv">PIECI.LV</a></li><li class="unitedSep"><a href="javascript:;">|</a></li><li class="  bc"><a target="_self" href="http://naba.lsm.lv/lv/naba/">NABA</a></li>
+							<li class="unitedLinkSecondary fc"><a href="http://www.lsm.lv/lv/">Ziņas</a></li><li class="unitedLinkSecondary "><a href="http://www.ltv.lv/">Televīzija</a></li><li class="unitedLinkSecondary "><a href="http://replay.lsm.lv/lv/">Replay.lv</a></li>
+						</ul>
+					</div>
+					<div id="unitedTabsDropdown">
+						<select onchange="this.value ? document.location=this.value : null">
+							<option value="">Izvēlēties portālu</option>
+							<option value="http://www.lsm.lv/lv/">Ziņas</option><option value="http://www.ltv.lv/">Televīzija</option><option value="http://replay.lsm.lv/lv/">Replay.lv</option><option value="http://www.latvijasradio.lv/">Latvijas Radio</option><option value="http://lr1.latvijasradio.lv/">LR1</option><option value="http://lr2.latvijasradio.lv/">LR2</option><option value="http://klasika.lsm.lv/lv/lr3/">LR3</option><option value="http://lr4.latvijasradio.lv/">LR4</option><option value="http://www.pieci.lv">PIECI.LV</option><option value="http://naba.lsm.lv/lv/naba/">NABA</option>
+						</select>
+					</div>
+					<a class="lsm-bernistaba-link" href="https://bernistaba.lsm.lv?utm_source=lr&amp;utm_medium=header-logo&amp;utm_campaign=header-logo" target="_blank"><img src="/public/assets/design/lsm-bernistaba-logo.svg" alt="LSM Bērnistaba"></a>
+				</section>
+			</div>
+		</header>
+		
+<script type="text/javascript"> 
+	<!--//--><![CDATA[//><!--
+	var pp_gemius_identifier = '0niVT_NeUPeCXfwsshuYCHamroDZBxtm9Xr0sla8Hxr.G7'; 
+
+	// lines below shouldn't be edited 
+	function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};}; 
+	gemius_pending('gemius_hit'); gemius_pending('gemius_event'); 
+	gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); 
+
+	(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); 
+	gt.setAttribute('defer','defer'); 
+	gt.src=l+'://galv.hit.gemius.pl/xgemius.js'; 
+	s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script'); 
+	//--><!]]> 
+</script><div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=333291070134108";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<script type="text/javascript">
+	LR.fastInit();
+	/**
+	Latvijas Radio
+	*/
+</script>
+
+
+
+<div class="outer-wrap">
+	<header id="main-header">
+	<div class="container">
+		<div id="main-nav">
+            <a href="javascript:;" class="sprite sprite-play visible-lg" onclick="LR.Live.openPlayer(1)" id="live-btn"></a>
+			
+			<div class="hidden-xs">
+				<table>
+				    <tr>
+				        <td><div class="m"><a href="http://www.latvijasradio.lv/lv/lr/" target="_self">Sākums</a></div></td><td><div class="m has-menu"><a href="javascript:;" target="_self">Raidījumi</a><div class="submenu"><div class="submenu-inner"><ul class=" first"><li><a target="_self" href="/lv/lr1/raidijumi/atvertie-faili/">Atvērtie faili</a></li><li><a target="_self" href="/lv/lr1/raidijumi/augstak-par-zemi/">Augstāk par zemi</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/burtu-burvis/">Burtu Burvis</a></li><li><a target="_self" href="/lv/lr1/raidijumi/brivais-mikrofons/">Brīvais mikrofons</a></li><li><a target="_self" href="/lv/lr1/raidijumi/burvju-burti-lv100/">#100burvjuburtiLV</a></li><li><a target="_self" href="/lv/lr1/raidijumi/diplomatiskas-pusdienas/">Diplomātiskās pusdienas</a></li><li><a target="_self" href="/lv/lr1/raidijumi/divas-puslodes/">Divas puslodes</a></li><li><a target="_self" href="/lv/lr1/raidijumi/dziives-ritmi-muzika/">Dzīves ritmi mūzikā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/dzheza-klubs/">Džeza klubs</a></li><li><a target="_self" href="/lv/piedavajumi/euranet-plus/">Euranet Plus</a></li><li><a target="_self" href="/lv/lr1/raidijumi/eiro-fokusa/">Eiro fokusā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/septini-gadsimti-lidz-valstij/">Gadsimts ar savu valsti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/globalais-latvietis-21-gadsimts/">Globālais latvietis. 21. gadsimts</a></li><li><a target="_self" href="/lv/lr1/raidijumi/greizie-rati/">Greizie rati</a></li><li><a target="_self" href="/lv/lr1/raidijumi/gimenes-studija/">Ģimenes studija</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/ieludz-radioteatris/">Ielūdz Radioteātris</a></li></ul><ul class=" "><li><a target="_self" href="/lv/lr1/raidijumi/istenibas-izteiksme-15-minutes/">Īstenības izteiksme 15 minūtēs</a></li><li><a target="_self" href="/lv/lr1/raidijumi/ka-labak-dziivot/">Kā labāk dzīvot</a></li><li><a target="_self" href="/lv/lr1/raidijumi/kolnasata/">Kolnasāta</a></li><li><a target="_self" href="/lv/lr1/raidijumi/krustpunkta/">Krustpunktā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/kulturas-rondo/">Kultūras Rondo</a></li><li><a target="_self" href="/lv/lr1/raidijumi/labriit/">Labrīt</a></li><li><a target="_self" href="/lv/lr1/raidijumi/labu-nakti/">Labu nakti - pasakas</a></li><li><a target="_self" href="/lv/lr1/raidijumi/laikaritu-raksti/">Laika Ritu Raksti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/latgales-stunda-latgolys-stunde/">Latgolys stuņde (Latgales apraide)</a></li><li><a target="_self" href="/lv/lr1/raidijumi/lieliskais-piecinieks/">Lieliskais piecinieks</a></li><li><a target="_self" href="/lv/lr1/raidijumi/monopols/">Monopols</a></li><li><a target="_self" href="/lv/lr1/raidijumi/neatkaribas-kars-1919/">Neatkarības karš. 1919</a></li><li><a target="_self" href="/lv/lr1/raidijumi/nepartrauktiba.-latvijas-arlietu-dienestam-100/">Nepārtrauktība. Latvijas ārlietu dienestam 100</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pari-mums-pashiem/">Pāri mums pašiem</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pecpusdiena/">Pēcpusdiena</a></li><li><a target="_self" href="/lv/lr1/raidijumi/piespele/">Piespēle</a></li></ul><ul class="last "><li><a target="_self" href="/lv/lr1/raidijumi/pievienota-vertiba/">Pievienotā vērtība</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pret-goliatu/">Pret Goliātu</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pusdiena/">Pusdiena</a></li><li><a target="_self" href="/lv/lr1/raidijumi/radio-maza-lasiitava/">Radio mazā lasītava</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/radioteatris-berniem/">Radioteātris bērniem</a></li><li><a target="_self" href="/lv/lr1/raidijumi/reiz-radio/">Reiz radio...</a></li><li><a target="_self" href="/lv/lr1/raidijumi/stiprie-stasti/">Stiprie stāsti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/sii-diena-vesture/">Šī diena vēsturē</a></li><li><a target="_self" href="/lv/lr1/raidijumi/siis-dienas-aciim/">Šīs dienas acīm</a></li><li><a target="_self" href="/lv/lr1/raidijumi/svetrits/">Svētrīts</a></li><li><a target="_self" href="/lv/lr1/raidijumi/vietu-lietas-latvija/">Vietu lietas Latvijā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zelta-poga/">Zelta poga</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinamais-nezinamaja/">Zināmais nezināmajā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinjas-vieglaja-valoda/">Ziņas vieglajā valodā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinu-raidijumi/">Ziņu raidījumi</a></li></ul></div></div></div></td><td><div class="m"><a href="/lv/lr1/frekvences/" target="_self">Frekvences</a></div></td><td><div class="m"><a href="/lv/lr1/personiibas/" target="_self">Personības</a></div></td><td><div class="m"><a href="/lv/lr1/programma/" target="_self">Programma</a></div></td><td><div class="m"><a href="/lv/radioteatris/" target="_self">Radioteātris</a></div></td><td><div class="m"><a href="/lv/lr/arhivs/" target="_self">Arhīvs</a></div></td>				        <td class="spacer">&nbsp;</td>
+				        <td class="search-menu"><div class="m"><a href="/lv/meklet/"><span class="icon-search2"></span></a></div></td>
+				        <td class="live-menu"><div class="m"><a href="javascript:;" onclick="LR.Live.openPlayer(1)">Tiešraide</a></div></td>
+				        <td id="live-menu-spacer" class="visible-lg"><div></div></td>
+				    </tr>
+				</table>
+			</div>      
+			
+			<div id="mobile-header" class="visible-xs">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobile-main-menu">
+					<i>Izvēlne</i>
+					<span class="icon-mobile_menu"></span>
+				</button>
+				
+				<div class="mobile-items visible-xs">
+					<a href="javascript:;" onclick="LR.Live.openPlayer(1)">Tiešraide</a>
+				</div>
+			</div>
+			
+			
+        </div>
+		
+	    <figure id="site-logo">
+			<a href="/lv/">&nbsp;</a>
+		</figure>
+	</div>
+</header>
+	
+<div class="visible-xs">
+	<div class="collapse navbar-collapse" id="mobile-main-menu">
+		<div class="container">
+			<ul>
+				<li><a href="http://www.latvijasradio.lv/lv/lr/">Sākums</a></li><li><a href="javascript:;">Raidījumi</a><ul><li><a target="_self" href="/lv/lr1/raidijumi/atvertie-faili/">Atvērtie faili</a></li><li><a target="_self" href="/lv/lr1/raidijumi/augstak-par-zemi/">Augstāk par zemi</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/burtu-burvis/">Burtu Burvis</a></li><li><a target="_self" href="/lv/lr1/raidijumi/brivais-mikrofons/">Brīvais mikrofons</a></li><li><a target="_self" href="/lv/lr1/raidijumi/burvju-burti-lv100/">#100burvjuburtiLV</a></li><li><a target="_self" href="/lv/lr1/raidijumi/diplomatiskas-pusdienas/">Diplomātiskās pusdienas</a></li><li><a target="_self" href="/lv/lr1/raidijumi/divas-puslodes/">Divas puslodes</a></li><li><a target="_self" href="/lv/lr1/raidijumi/dziives-ritmi-muzika/">Dzīves ritmi mūzikā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/dzheza-klubs/">Džeza klubs</a></li><li><a target="_self" href="/lv/piedavajumi/euranet-plus/">Euranet Plus</a></li><li><a target="_self" href="/lv/lr1/raidijumi/eiro-fokusa/">Eiro fokusā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/septini-gadsimti-lidz-valstij/">Gadsimts ar savu valsti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/globalais-latvietis-21-gadsimts/">Globālais latvietis. 21. gadsimts</a></li><li><a target="_self" href="/lv/lr1/raidijumi/greizie-rati/">Greizie rati</a></li><li><a target="_self" href="/lv/lr1/raidijumi/gimenes-studija/">Ģimenes studija</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/ieludz-radioteatris/">Ielūdz Radioteātris</a></li><li><a target="_self" href="/lv/lr1/raidijumi/istenibas-izteiksme-15-minutes/">Īstenības izteiksme 15 minūtēs</a></li><li><a target="_self" href="/lv/lr1/raidijumi/ka-labak-dziivot/">Kā labāk dzīvot</a></li><li><a target="_self" href="/lv/lr1/raidijumi/kolnasata/">Kolnasāta</a></li><li><a target="_self" href="/lv/lr1/raidijumi/krustpunkta/">Krustpunktā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/kulturas-rondo/">Kultūras Rondo</a></li><li><a target="_self" href="/lv/lr1/raidijumi/labriit/">Labrīt</a></li><li><a target="_self" href="/lv/lr1/raidijumi/labu-nakti/">Labu nakti - pasakas</a></li><li><a target="_self" href="/lv/lr1/raidijumi/laikaritu-raksti/">Laika Ritu Raksti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/latgales-stunda-latgolys-stunde/">Latgolys stuņde (Latgales apraide)</a></li><li><a target="_self" href="/lv/lr1/raidijumi/lieliskais-piecinieks/">Lieliskais piecinieks</a></li><li><a target="_self" href="/lv/lr1/raidijumi/monopols/">Monopols</a></li><li><a target="_self" href="/lv/lr1/raidijumi/neatkaribas-kars-1919/">Neatkarības karš. 1919</a></li><li><a target="_self" href="/lv/lr1/raidijumi/nepartrauktiba.-latvijas-arlietu-dienestam-100/">Nepārtrauktība. Latvijas ārlietu dienestam 100</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pari-mums-pashiem/">Pāri mums pašiem</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pecpusdiena/">Pēcpusdiena</a></li><li><a target="_self" href="/lv/lr1/raidijumi/piespele/">Piespēle</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pievienota-vertiba/">Pievienotā vērtība</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pret-goliatu/">Pret Goliātu</a></li><li><a target="_self" href="/lv/lr1/raidijumi/pusdiena/">Pusdiena</a></li><li><a target="_self" href="/lv/lr1/raidijumi/radio-maza-lasiitava/">Radio mazā lasītava</a></li><li><a target="_blank" href="/lv/lr1/raidijumi/radioteatris-berniem/">Radioteātris bērniem</a></li><li><a target="_self" href="/lv/lr1/raidijumi/reiz-radio/">Reiz radio...</a></li><li><a target="_self" href="/lv/lr1/raidijumi/stiprie-stasti/">Stiprie stāsti</a></li><li><a target="_self" href="/lv/lr1/raidijumi/sii-diena-vesture/">Šī diena vēsturē</a></li><li><a target="_self" href="/lv/lr1/raidijumi/siis-dienas-aciim/">Šīs dienas acīm</a></li><li><a target="_self" href="/lv/lr1/raidijumi/svetrits/">Svētrīts</a></li><li><a target="_self" href="/lv/lr1/raidijumi/vietu-lietas-latvija/">Vietu lietas Latvijā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zelta-poga/">Zelta poga</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinamais-nezinamaja/">Zināmais nezināmajā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinjas-vieglaja-valoda/">Ziņas vieglajā valodā</a></li><li><a target="_self" href="/lv/lr1/raidijumi/zinu-raidijumi/">Ziņu raidījumi</a></li></ul></li><li><a href="/lv/lr1/frekvences/">Frekvences</a></li><li><a href="/lv/lr1/personiibas/">Personības</a></li><li><a href="/lv/lr1/programma/">Programma</a></li><li><a href="/lv/radioteatris/">Radioteātris</a></li><li><a href="/lv/lr/arhivs/">Arhīvs</a></li><li><a href="/lv/tiesraide/">Tiešraide</a></li><li><a href="/lv/meklet/">Meklēšana</a></li>			</ul>
+		</div>
+	</div>
+</div>
+    
+    <div id="header-artwork"></div>
+    
+	<div class="inner-wrap">
+		<section class="block compact-block hot-topic-block"><div class="container"><div id="breaking-news"><div class="hot-topic"><p><span>Karstā ziņa › </span><a href="https://www.lsm.lv/raksts/zinas/latvija/sabiedriskas-vietas-bus-jalieto-maskas-ierobezojumi-ari-privatiem-pasakumiem.a377796/">Sabiedriskās vietās jālieto maskas. Valdība noteikusi papildu ierobežojumus, lai mazinātu Covid-19 izplatību</a></p></div></div></div></section>
+		
+<section class="block">
+	<div class="container">
+		<div class="row channel-start">
+	<div class="col-xs-12 col-sm-6 col-md-3 column-sidebar">
+					<h3>Pašlaik ēterā</h3>
+			
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/"><img class="responsive" alt="" src="https://pic.latvijasradio.lv/public/assets/media/7/e/msmall_61b4dbc7.jpg" ></a></figure>
+			<div class="data">
+		</div><div class="large-caption"><h2><a href="/lv/lr1/raidijumi/krustpunkta/">Krustpunktā</a></h2></div>
+		</div>
+		<div class="guide-descr text-content short-text"><p>"Mūsu valsts šobrīd piedzīvo gana ievērojamu otro Covid-19 vilni, kas faktiski ir lielāks nekā tas, kas bija pavasarī. Visas sabiedrības, ne tikai valdības, mērķis ir darīt vis, lai šo vilni samazinātu, lai apturētu," raidījumā <em>Krustpunktā</em> atzīst valdības vadītājs Krišjānis Kariņš (Jaunā Vienotība).</p><br />
+</div><div class="show-more">
+				<a href="javascript:;">Rādīt vairāk</a>
+			</div>				<div class="hosts-block">
+					<h6>Studijā</h6>
+					<ul class="hosts">
+													<li>
+								<a href="/lv/personibas/aidis-tomsons"><img alt="" src="/public/assets/authors/icon_Aidis9c5a8.jpg">
+									<span class="tip">Aidis Tomsons <span></span></span>
+								</a>
+							</li>
+														<li>
+								<a href="/lv/personibas/evija-unama"><img alt="" src="/public/assets/authors/icon_Evija25ae8.jpg">
+									<span class="tip">Evija Unāma <span></span></span>
+								</a>
+							</li>
+												</ul>
+				</div>
+				<ul class="links"><li><a target="_self" href="javascript:;" onclick="LR.Live.openPlayer(1, 'video')"><span class="icon-live"></span> Skatīties</a></li><li><a target="_self" href="javascript:;" onclick="LR.Live.openPlayer(1)"><span class="icon-sound"></span> Klausīties</a></li><li><a target="_self" href="javascript:;" onclick="LR.Common.openPopup('?rt=articles&ac=contactForm&showid=113', 450, 780)"><span class="icon-mail"></span> Nosūtīt ziņu</a></li><li><a target="_blank" href="http://twitter.com/krustpunkta" onclick=""><span class="icon-twitter"></span> Twitter</a></li></ul>	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-md-push-5 column-featured">
+						<h3>Drīzumā</h3>
+				<div class="news-list3">
+					
+		<div class="small-thumb ">
+			<div class="pic-box">
+				<a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/izskaust-cietsirdibu-un-iztureties-ar-cienu-pret-mazakajiem-bral.a135400/"><img class="responsive" src="https://pic.latvijasradio.lv/public/assets/media/e/2/msmall_0648d1f7.jpg" alt="Izskaust cietsirdību un izturēties ar cieņu pret &quot;mazākajiem brāļiem&quot;"></a>
+			</div>
+			<article>
+				<time>15. oktobris, 9:07</time>
+				<p class="article"><strong><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/izskaust-cietsirdibu-un-iztureties-ar-cienu-pret-mazakajiem-bral.a135400/">Izskaust cietsirdību un izturēties ar cieņu pret "mazākajiem brāļiem"</a></strong></p>
+				<a class="showname" href="/lv/lr1/raidijumi/ka-labak-dziivot/">Kā labāk dzīvot</a>
+			</article>
+		</div>
+		
+		<div class="small-thumb ">
+			<div class="pic-box">
+				<a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/nobela-premija-kimija-pieskirta-par-genu-redigesanas-tehnologiju.a135409/"><img class="responsive" src="https://pic.latvijasradio.lv/public/assets/media/c/4/msmall_bff8d795.jpg" alt="Nobela prēmija ķīmijā piešķirta par gēnu rediģēšanas tehnoloģiju"></a>
+			</div>
+			<article>
+				<time>15. oktobris, 10:07</time>
+				<p class="article"><strong><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/nobela-premija-kimija-pieskirta-par-genu-redigesanas-tehnologiju.a135409/">Nobela prēmija ķīmijā piešķirta par gēnu rediģēšanas tehnoloģiju</a></strong></p>
+				<a class="showname" href="/lv/lr1/raidijumi/zinamais-nezinamaja/">Zināmais nezināmajā</a>
+			</article>
+		</div>
+		
+		<div class="small-thumb ">
+			<div class="pic-box">
+				<a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/glebs-pantelejevs-aicina-uz-izstadi-hormonija.a135410/"><img class="responsive" src="https://pic.latvijasradio.lv/public/assets/media/0/d/msmall_758a95cb.jpg" alt="Gļebs Panteļejevs aicina uz izstādi &quot;Hormonija&quot;"></a>
+			</div>
+			<article>
+				<time>15. oktobris, 11:07</time>
+				<p class="article"><strong><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/glebs-pantelejevs-aicina-uz-izstadi-hormonija.a135410/">Gļebs Panteļejevs aicina uz izstādi "Hormonija"</a></strong></p>
+				<a class="showname" href="/lv/lr1/raidijumi/kulturas-rondo/">Kultūras Rondo</a>
+			</article>
+		</div>
+		
+		<div class="small-thumb ">
+			<div class="pic-box">
+				<a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/19-rigas-brivosta-iegadajusies-divas-piestatnes.-cik-pamatots-ir.a135456/"><img class="responsive" src="https://pic.latvijasradio.lv/public/assets/media/6/e/msmall_9e82e3f1.jpg" alt="#19 Rīgas brīvosta iegādājusies divas piestātnes. Cik pamatots ir vērienīgais darījums"></a>
+			</div>
+			<article>
+				<time>15. oktobris, 12:31</time>
+				<p class="article"><strong><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/19-rigas-brivosta-iegadajusies-divas-piestatnes.-cik-pamatots-ir.a135456/">#19 Rīgas brīvosta iegādājusies divas piestātnes. Cik pamatots ir vērienīgais darījums</a></strong></p>
+				<a class="showname" href="/lv/lr1/raidijumi/atvertie-faili/">Atvērtie faili</a>
+			</article>
+		</div>
+						</div>
+					</div>
+	<div class="col-xs-12 col-sm-12 col-md-5 col-md-pull-4 column-spotlight">
+		<h3>Iesakām</h3>
+		
+		
+		<span class="pic-box">
+			<a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/reirs-nodod-budzetu-saeimai-radosie-cilveki-proteste-pret-izmain.a135471/" target="_self">
+			<img src="https://pic.latvijasradio.lv/public/assets/media/f/6/mlarge_dcd2525c.jpg" class="responsive" alt="">
+			<span class="play"></span>
+			<span class="article-icons"></span>
+			</a>
+		</span>
+					
+			<h2><a href="/lv/lr1/raidijumi/pecpusdiena/">Pēcpusdiena</a> <time>Šodien, 16:05</time></h2>
+			
+			<p>Reirs nodod budžetu Saeimai, radošie cilvēki protestē pret izmaiņām nodokļu režīmā</p>
+				</div>
+</div>
+
+	</div>
+</section>
+
+<section class="block highlight-ultralight">
+	<div class="container">
+		<div class="schedule-line carousel" data-skip="6">
+	<div class="item">
+		<span class="time">LR1</span>
+		<span class="caption" title="">
+			<a href="https://lr1.lsm.lv/lv/lr1/programma/">Visa programma</a>
+		</span>
+	</div>
+			<div id="item_4388814" class="item past ">
+			<span class="time"><i>19:00</i> </span>
+			<span class="caption" title="Ziņas">
+				Ziņas			</span>
+		</div>
+				<div id="item_4388816" class="item past ">
+			<span class="time"><i>19:07</i> </span>
+			<span class="caption" title="Monopols">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/monopols/">Monopols</a>			</span>
+		</div>
+				<div id="item_4388819" class="item past ">
+			<span class="time"><i>20:00</i> </span>
+			<span class="caption" title="Ziņas">
+				Ziņas			</span>
+		</div>
+				<div id="item_4388820" class="item past ">
+			<span class="time"><i>20:05</i> </span>
+			<span class="caption" title="Kā labāk dzīvot">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/ka-labak-dziivot/">Kā labāk dzīvot</a>			</span>
+		</div>
+				<div id="item_4388821" class="item past ">
+			<span class="time"><i>20:45</i> </span>
+			<span class="caption" title="Labu nakti">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/labu-nakti/">Labu nakti - pasakas</a>			</span>
+		</div>
+				<div id="item_4388823" class="item past ">
+			<span class="time"><i>21:00</i> </span>
+			<span class="caption" title="Ziņas vieglajā valodā">
+				Ziņas vieglajā valodā			</span>
+		</div>
+				<div id="item_4388824" class="item  now">
+			<span class="time"><i>21:05</i> <span class="badge badge-important">Tagad</span></span>
+			<span class="caption" title="Krustpunktā">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/krustpunkta/">Krustpunktā</a>			</span>
+		</div>
+				<div id="item_4388827" class="item  ">
+			<span class="time"><i>22:00</i> </span>
+			<span class="caption" title="Ziņas">
+				Ziņas			</span>
+		</div>
+				<div id="item_4388828" class="item  ">
+			<span class="time"><i>22:05</i> </span>
+			<span class="caption" title="Ielūdz Radioteātris">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/ieludz-radioteatris/">Ielūdz Radioteātris</a>			</span>
+		</div>
+				<div id="item_4557081" class="item  ">
+			<span class="time"><i>22:49</i> </span>
+			<span class="caption" title="Mūzika">
+				Mūzika			</span>
+		</div>
+				<div id="item_4388830" class="item  ">
+			<span class="time"><i>23:00</i> </span>
+			<span class="caption" title="Ziņas">
+				Ziņas			</span>
+		</div>
+				<div id="item_4388831" class="item  ">
+			<span class="time"><i>23:03</i> </span>
+			<span class="caption" title="Dienas notikumu apskats">
+				Dienas notikumu apskats			</span>
+		</div>
+				<div id="item_4388832" class="item  ">
+			<span class="time"><i>23:30</i> </span>
+			<span class="caption" title="Krustpunktā - reģionos">
+				Krustpunktā - reģionos			</span>
+		</div>
+				<div id="item_4388836" class="item  ">
+			<span class="time"><i>00:00</i> </span>
+			<span class="caption" title="Nakts ziņas">
+				Nakts ziņas			</span>
+		</div>
+				<div id="item_4388838" class="item  ">
+			<span class="time"><i>00:03</i> </span>
+			<span class="caption" title="Kultūras Rondo">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/kulturas-rondo/">Kultūras Rondo</a>			</span>
+		</div>
+				<div id="item_4388839" class="item  ">
+			<span class="time"><i>00:52</i> </span>
+			<span class="caption" title="Mūzika">
+				Mūzika			</span>
+		</div>
+				<div id="item_4388840" class="item  ">
+			<span class="time"><i>01:00</i> </span>
+			<span class="caption" title="Nakts ziņas">
+				Nakts ziņas			</span>
+		</div>
+				<div id="item_4388841" class="item  ">
+			<span class="time"><i>01:03</i> </span>
+			<span class="caption" title="Dienas notikumu apskats">
+				Dienas notikumu apskats			</span>
+		</div>
+				<div id="item_4388842" class="item  ">
+			<span class="time"><i>01:30</i> </span>
+			<span class="caption" title="Mūzika">
+				Mūzika			</span>
+		</div>
+				<div id="item_4388843" class="item  ">
+			<span class="time"><i>02:00</i> </span>
+			<span class="caption" title="Nakts ziņas">
+				Nakts ziņas			</span>
+		</div>
+				<div id="item_4388844" class="item  ">
+			<span class="time"><i>02:02</i> </span>
+			<span class="caption" title="Monopols">
+				<a href="http://lr1.lsm.lv/lv/lr1/raidijumi/monopols/">Monopols</a>			</span>
+		</div>
+			<div class="item">
+		<span class="time">LR1</span>
+		<span class="caption" title="Monopols">
+			<a href="https://lr1.lsm.lv/lv/lr1/programma/">Visa programma</a>
+		</span>
+	</div>
+</div>
+	
+<script>
+	$(function(){
+		LR.Program.slider.init();
+	});
+</script>
+
+	</div>
+</section>
+
+<section class="block highlight-light">
+	<div class="container">
+		<h1><a href="/lv/tema/sabiedriskie-mediji.b251/">Sabiedriskie mediji</a><small></small></h1>
+
+			<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/labriit/sabiedriskie-mediji-lietuva-un-igaunija-apvienoti-un-arpus-rekla.a135336/"><img class="responsive" alt="Sabiedriskie mediji Lietuvā un Igaunijā: apvienoti un ārpus reklāmas tirgus" src="https://pic.latvijasradio.lv/public/assets/media/b/7/msmall_3fe2bd0a.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/labriit/sabiedriskie-mediji-lietuva-un-igaunija-apvienoti-un-arpus-rekla.a135336/">Sabiedriskie mediji Lietuvā un Igaunijā: apvienoti un ārpus reklāmas tirgus</a> </h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/labriit/deputate-finansejuma-sistema-ir-lielakais-trukums-toposaja-sabie.a135201/"><img class="responsive" alt="Deputāte: Finansējuma sistēma ir lielākais trūkums topošajā sabiedrisko mediju likumā" src="https://pic.latvijasradio.lv/public/assets/media/c/b/msmall_3f9c9556.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/labriit/deputate-finansejuma-sistema-ir-lielakais-trukums-toposaja-sabie.a135201/">Deputāte: Finansējuma sistēma ir lielākais trūkums topošajā sabiedrisko mediju likumā</a> </h4><time>8. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/labriit/artuss-kaimins-sabiedrisko-elektronisko-plassazinas-lidzeklu-pad.a134822/"><img class="responsive" alt="Artuss Kaimiņš: Sabiedrisko elektronisko plašsaziņas līdzekļu padomei finansējums būs" src="https://pic.latvijasradio.lv/public/assets/media/3/c/msmall_5811ed21.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/labriit/artuss-kaimins-sabiedrisko-elektronisko-plassazinas-lidzeklu-pad.a134822/">Artuss Kaimiņš: Sabiedrisko elektronisko plašsaziņas līdzekļu padomei finansējums būs</a> </h4><time>29. septembris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/politiki-rosina-sabiedriska-medija-galveno-redaktoru-iecel-ta-va.a134520/"><img class="responsive" alt="Politiķi rosina: sabiedriskā medija galveno redaktoru ieceļ tā valde" src="https://pic.latvijasradio.lv/public/assets/media/b/7/msmall_3fe2bd0a.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/politiki-rosina-sabiedriska-medija-galveno-redaktoru-iecel-ta-va.a134520/">Politiķi rosina: sabiedriskā medija galveno redaktoru ieceļ tā valde</a> </h4><time>21. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			
+<p class="more"><a href="/lv/tema/sabiedriskie-mediji.b251/">Vairāk</a></p>
+
+
+<div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/atvertie-faili/">Atvērtie faili</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/18-sasniedzot-pilngadibu-sistemas-berniem-trukst-atbalsta-patsta.a135134/"><img class="responsive" alt="#18 Sasniedzot pilngadību, &quot;sistēmas bērniem&quot; trūkst atbalsta patstāvīgas dzīves sākumam" src="https://pic.latvijasradio.lv/public/assets/media/c/b/msmall_6e1c607a.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/18-sasniedzot-pilngadibu-sistemas-berniem-trukst-atbalsta-patsta.a135134/">#18 Sasniedzot pilngadību, "sistēmas bērniem" trūkst atbalsta patstāvīgas dzīves sākumam</a> <span class="badge">1</span></h4><time>8. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/17-ja-vien-sienas-prastu-runat-petam-ipasumu-krapsanas-shemu.a134870/"><img class="responsive" alt="#17 Ja vien sienas prastu runāt: pētām īpašumu krāpšanas shēmu" src="https://pic.latvijasradio.lv/public/assets/media/f/b/msmall_17d543d7.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/17-ja-vien-sienas-prastu-runat-petam-ipasumu-krapsanas-shemu.a134870/">#17 Ja vien sienas prastu runāt: pētām īpašumu krāpšanas shēmu</a> <span class="badge">7</span></h4><time>1. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/16-valdiba-pieteikusi-ostu-reformu-vai-ietekmigas-biznesa-intere.a134624/"><img class="responsive" alt="#16 Valdība pieteikusi ostu reformu: vai ietekmīgas biznesa intereses to neapstādinās" src="https://pic.latvijasradio.lv/public/assets/media/1/1/msmall_cb12d426.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/16-valdiba-pieteikusi-ostu-reformu-vai-ietekmigas-biznesa-intere.a134624/">#16 Valdība pieteikusi ostu reformu: vai ietekmīgas biznesa intereses to neapstādinās</a> </h4><time>24. septembris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/15-tievesanas-programmas-cik-kvalificeti-ir-padomdeveji-un-cik-p.a134307/"><img class="responsive" alt="#15 Tievēšanas programmas: Cik kvalificēti ir padomdevēji un cik pamatoti - paši padomi" src="https://pic.latvijasradio.lv/public/assets/media/c/a/msmall_0ae48619.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/atvertie-faili/15-tievesanas-programmas-cik-kvalificeti-ir-padomdeveji-un-cik-p.a134307/">#15 Tievēšanas programmas: Cik kvalificēti ir padomdevēji un cik pamatoti - paši padomi</a> </h4><time>17. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><h1><a href="/lv/tema/koronaviruss-covid-19.b363/">Koronavīruss Covid-19</a><small></small></h1>
+
+			<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vk-iekslietu-ministrijas-darbinieku-piemaksam-par-covid-19-laika.a135480/"><img class="responsive" alt="VK: Iekšlietu ministrijas darbinieku piemaksām par Covid-19 laika darbu jābūt taisnīgām" src="https://pic.latvijasradio.lv/public/assets/media/5/a/msmall_4185e454.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vk-iekslietu-ministrijas-darbinieku-piemaksam-par-covid-19-laika.a135480/">VK: Iekšlietu ministrijas darbinieku piemaksām par Covid-19 laika darbu jābūt taisnīgām</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/"><img class="responsive" alt="Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā" src="https://pic.latvijasradio.lv/public/assets/media/7/e/msmall_61b4dbc7.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/">Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā</a> <span class="badge">6</span></h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/labriit/es-atveselosanas-mehanisma-finansejums-bus-milzigs-grudiens-latv.a135437/"><img class="responsive" alt="ES Atveseļošanās mehānisma finansējums būs milzīgs grūdiens Latvijas ekonomikai" src="https://pic.latvijasradio.lv/public/assets/media/6/f/msmall_057fa83c.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/labriit/es-atveselosanas-mehanisma-finansejums-bus-milzigs-grudiens-latv.a135437/">ES Atveseļošanās mehānisma finansējums būs milzīgs grūdiens Latvijas ekonomikai</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vairak-jalieto-maskas.-noteikti-jauni-ierobezojumi-covid-19-izpl.a135421/"><img class="responsive" alt="Vairāk jālieto maskas. Noteikti jauni ierobežojumi Covid-19 izplatības mazināšanai" src="https://pic.latvijasradio.lv/public/assets/media/b/e/msmall_f5262202.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vairak-jalieto-maskas.-noteikti-jauni-ierobezojumi-covid-19-izpl.a135421/">Vairāk jālieto maskas. Noteikti jauni ierobežojumi Covid-19 izplatības mazināšanai</a> <span class="badge">1</span></h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			
+<p class="more"><a href="/lv/tema/koronaviruss-covid-19.b363/">Vairāk</a></p>
+
+
+<div class="module">
+	<h2>Klausītākie</h2>
+	<div class="row">
+					<div class="col-xs-12 col-sm-3">
+				
+		<div class="news-thumb size-medium img-rounded ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/"><img class="responsive" alt="Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā" src="https://pic.latvijasradio.lv/public/assets/media/7/e/msmall_61b4dbc7.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><strong>Krustpunktā</strong><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/">Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā</a> <span class="badge">6</span></h4><time>Šodien</time>
+		</div>
+		</div>
+					</div>
+						<div class="col-xs-12 col-sm-3">
+				
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/sejas-maskas-iesaka-lietot-mediciniskas-vai-kvalitativakas-un-pa.a135354/"><img class="responsive" alt="Sejas maskas: iesaka lietot medicīniskās vai kvalitatīvākās un pārbaudītākās higiēniskās" src="https://pic.latvijasradio.lv/public/assets/media/7/b/msmall_d165ae84.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><strong>Kā labāk dzīvot</strong><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/sejas-maskas-iesaka-lietot-mediciniskas-vai-kvalitativakas-un-pa.a135354/">Sejas maskas: iesaka lietot medicīniskās vai kvalitatīvākās un pārbaudītākās higiēniskās</a> <span class="badge">5</span></h4><time>Vakar</time>
+		</div>
+		</div>
+					</div>
+						<div class="col-xs-12 col-sm-3">
+				
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/profesors-girts-brigis-varam-piedzivot-bridi-kad-izejot-uz-ielas.a135278/"><img class="responsive" alt="Profesors Ģirts Briģis: Varam piedzīvot brīdi, kad izejot uz ielas būs jāliek maskas" src="https://pic.latvijasradio.lv/public/assets/media/2/7/msmall_bc31b618.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><strong>Krustpunktā</strong><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/profesors-girts-brigis-varam-piedzivot-bridi-kad-izejot-uz-ielas.a135278/">Profesors Ģirts Briģis: Varam piedzīvot brīdi, kad izejot uz ielas būs jāliek maskas</a> <span class="badge">5</span></h4><time>12. oktobris</time>
+		</div>
+		</div>
+					</div>
+						<div class="col-xs-12 col-sm-3">
+				
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/specialisti-ar-dzivesstila-parmainam-var-krietni-samazinat-trauk.a135396/"><img class="responsive" alt="Speciālisti: Ar dzīvesstila pārmaiņām var krietni samazināt traukšanos pretī diabētam" src="https://pic.latvijasradio.lv/public/assets/media/6/5/msmall_26b79432.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><strong>Kā labāk dzīvot</strong><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/specialisti-ar-dzivesstila-parmainam-var-krietni-samazinat-trauk.a135396/">Speciālisti: Ar dzīvesstila pārmaiņām var krietni samazināt traukšanos pretī diabētam</a> <span class="badge">1</span></h4><time>Šodien</time>
+		</div>
+		</div>
+					</div>
+				</div>
+</div><div class="module module--full_layout">			<h1><a href="/lv/lr1/raidijumi/krustpunkta/">Krustpunktā</a><small></small></h1>
+				
+	
+				<div class="row">
+				<div class="col-xs-12 col-sm-4">
+					
+		<div class="news-thumb size-large img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/"><img class="responsive" alt="Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā" src="https://pic.latvijasradio.lv/public/assets/media/7/e/mlarge_61b4dbc7.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h2><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/valdibas-vaditajs-aicina-ieverot-drosibas-pasakumus-lai-apturetu.a135397/">Valdības vadītājs aicina ievērot drošības pasākumus, lai apturētu Covid-19 vilni Latvijā</a> <span class="badge">6</span></h2><time>Šodien</time>
+		</div>
+		</div>
+					
+				</div>
+				
+				<div class="col-xs-12 col-sm-8">
+											<div class="row thumbnail-row">
+															<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/diskute-satversmes-tiesas-tiesnesa-amata-pieci-kandidati.a135362/"><img class="responsive" alt="Diskutē Satversmes tiesas tiesneša amata pieci kandidāti" src="https://pic.latvijasradio.lv/public/assets/media/e/8/msmall_d6230700.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/diskute-satversmes-tiesas-tiesnesa-amata-pieci-kandidati.a135362/">Diskutē Satversmes tiesas tiesneša amata pieci kandidāti</a> <span class="badge">1</span></h4><time>Vakar</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/profesors-girts-brigis-varam-piedzivot-bridi-kad-izejot-uz-ielas.a135278/"><img class="responsive" alt="Profesors Ģirts Briģis: Varam piedzīvot brīdi, kad izejot uz ielas būs jāliek maskas" src="https://pic.latvijasradio.lv/public/assets/media/2/7/msmall_bc31b618.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/profesors-girts-brigis-varam-piedzivot-bridi-kad-izejot-uz-ielas.a135278/">Profesors Ģirts Briģis: Varam piedzīvot brīdi, kad izejot uz ielas būs jāliek maskas</a> <span class="badge">5</span></h4><time>12. oktobris</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktuali-arvien-pieaug-saslimstiba-ar-covid-deputatu-adamovicu-iz.a135234/"><img class="responsive" alt="Aktuali: arvien pieaug saslimstība ar Covid; deputātu Adamoviču izdot kriminālvajāšanai" src="https://pic.latvijasradio.lv/public/assets/media/5/9/msmall_bf79c65d.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktuali-arvien-pieaug-saslimstiba-ar-covid-deputatu-adamovicu-iz.a135234/">Aktuali: arvien pieaug saslimstība ar Covid; deputātu Adamoviču izdot kriminālvajāšanai</a> <span class="badge">1</span></h4><time>9. oktobris</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/gaisa-kvalitate-riga-un-latvija-ka-rikoties-ja-piesarnojums-pars.a135181/"><img class="responsive" alt="Gaisa kvalitāte Rīgā un Latvijā: Kā rīkoties, ja piesārņojums pārsniedz normas" src="https://pic.latvijasradio.lv/public/assets/media/8/8/msmall_db5bb752.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/gaisa-kvalitate-riga-un-latvija-ka-rikoties-ja-piesarnojums-pars.a135181/">Gaisa kvalitāte Rīgā un Latvijā: Kā rīkoties, ja piesārņojums pārsniedz normas</a> <span class="badge">2</span></h4><time>8. oktobris</time>
+		</div>
+		</div>
+										</div>
+														</div>
+												<div class="row thumbnail-row">
+															<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/krustpunkta-izvaicajam-konkurences-padomes-priekssedetaju-juri-g.a135075/"><img class="responsive" alt="Krustpunktā izvaicājam Konkurences padomes priekšsēdētāju Juri Gaiķi" src="https://pic.latvijasradio.lv/public/assets/media/3/3/msmall_a92d65c6.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/krustpunkta-izvaicajam-konkurences-padomes-priekssedetaju-juri-g.a135075/">Krustpunktā izvaicājam Konkurences padomes priekšsēdētāju Juri Gaiķi</a> <span class="badge">2</span></h4><time>7. oktobris</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/turisma-nozare-strauji-cietusi-covid-ietekme.-kada-ir-tas-nakotn.a135067/"><img class="responsive" alt="Tūrisma nozare strauji cietusi Covid ietekmē. Kāda ir tās nākotne un kā palīdzēt?" src="https://pic.latvijasradio.lv/public/assets/media/e/6/msmall_efbb7a2d.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/turisma-nozare-strauji-cietusi-covid-ietekme.-kada-ir-tas-nakotn.a135067/">Tūrisma nozare strauji cietusi Covid ietekmē. Kāda ir tās nākotne un kā palīdzēt?</a> </h4><time>6. oktobris</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/krustpunkta-liela-intervija-viens-no-novicok-raditajiem-zinatnie.a134943/"><img class="responsive" alt="Krustpunktā Lielā intervija: Viens no &quot;Novičok&quot; radītājiem, zinātnieks Vils Mirzajanovs" src="https://pic.latvijasradio.lv/public/assets/media/1/6/msmall_c2b59c88.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/krustpunkta-liela-intervija-viens-no-novicok-raditajiem-zinatnie.a134943/">Krustpunktā Lielā intervija: Viens no "Novičok" radītājiem, zinātnieks Vils Mirzajanovs</a> <span class="badge">7</span></h4><time>5. oktobris</time>
+		</div>
+		</div>
+										</div>
+																<div class="col-xs-12 col-sm-3">
+									
+		<div class="news-thumb size-medium  ">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktualitates-lokalie-ierobezojumi-covid-sakara-latvija-viesojas-.a134942/"><img class="responsive" alt="Aktualitātes: Lokālie ierobežojumi Covid sakarā; Latvijā viesojas Francijas prezidents" src="https://pic.latvijasradio.lv/public/assets/media/d/0/msmall_2ac20bc7.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktualitates-lokalie-ierobezojumi-covid-sakara-latvija-viesojas-.a134942/">Aktualitātes: Lokālie ierobežojumi Covid sakarā; Latvijā viesojas Francijas prezidents</a> <span class="badge">4</span></h4><time>2. oktobris</time>
+		</div>
+		</div>
+										</div>
+														</div>
+										</div>
+			</div>
+			</div><div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/ka-labak-dziivot/">Kā labāk dzīvot</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/specialisti-ar-dzivesstila-parmainam-var-krietni-samazinat-trauk.a135396/"><img class="responsive" alt="Speciālisti: Ar dzīvesstila pārmaiņām var krietni samazināt traukšanos pretī diabētam" src="https://pic.latvijasradio.lv/public/assets/media/6/5/msmall_26b79432.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/specialisti-ar-dzivesstila-parmainam-var-krietni-samazinat-trauk.a135396/">Speciālisti: Ar dzīvesstila pārmaiņām var krietni samazināt traukšanos pretī diabētam</a> <span class="badge">1</span></h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/sejas-maskas-iesaka-lietot-mediciniskas-vai-kvalitativakas-un-pa.a135354/"><img class="responsive" alt="Sejas maskas: iesaka lietot medicīniskās vai kvalitatīvākās un pārbaudītākās higiēniskās" src="https://pic.latvijasradio.lv/public/assets/media/7/b/msmall_d165ae84.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/sejas-maskas-iesaka-lietot-mediciniskas-vai-kvalitativakas-un-pa.a135354/">Sejas maskas: iesaka lietot medicīniskās vai kvalitatīvākās un pārbaudītākās higiēniskās</a> <span class="badge">5</span></h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/labs-miegs-ir-svarigs-to-atgut-var-palidzet-rezima-ieverosana.a135272/"><img class="responsive" alt="Labs miegs ir svarīgs: To atgūt var palīdzēt režīma ievērošana" src="https://pic.latvijasradio.lv/public/assets/media/c/4/msmall_739d8d67.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/labs-miegs-ir-svarigs-to-atgut-var-palidzet-rezima-ieverosana.a135272/">Labs miegs ir svarīgs: To atgūt var palīdzēt režīma ievērošana</a> </h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/latviesu-valodas-stunda-kopa-ar-diti-liepu-un-andreju-veisbergu.a135177/"><img class="responsive" alt="Latviešu valodas stunda kopā ar Diti Liepu un Andreju Veisbergu" src="https://pic.latvijasradio.lv/public/assets/media/1/7/msmall_77d99dd6.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/ka-labak-dziivot/latviesu-valodas-stunda-kopa-ar-diti-liepu-un-andreju-veisbergu.a135177/">Latviešu valodas stunda kopā ar Diti Liepu un Andreju Veisbergu</a> <span class="badge">4</span></h4><time>9. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/zinamais-nezinamaja/">Zināmais nezināmajā</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/jauniem-medikamentiem-jabut-drosiem-un-efektiviem.-tam-nepiecies.a135356/"><img class="responsive" alt="Jauniem medikamentiem jābūt drošiem un efektīviem. Tam nepieciešami klīniskie pētījumi" src="https://pic.latvijasradio.lv/public/assets/media/0/a/msmall_c28946b1.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/jauniem-medikamentiem-jabut-drosiem-un-efektiviem.-tam-nepiecies.a135356/">Jauniem medikamentiem jābūt drošiem un efektīviem. Tam nepieciešami klīniskie pētījumi</a> <span class="badge">2</span></h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/nobela-premija-fizika-2020.-gada-pieskirta-par-melno-caurumu-pet.a135355/"><img class="responsive" alt="Nobela prēmija fizikā 2020. gadā piešķirta par melno caurumu pētījumiem" src="https://pic.latvijasradio.lv/public/assets/media/b/c/msmall_e4eab44d.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/nobela-premija-fizika-2020.-gada-pieskirta-par-melno-caurumu-pet.a135355/">Nobela prēmija fizikā 2020. gadā piešķirta par melno caurumu pētījumiem</a> <span class="badge">1</span></h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/vai-uz-veneras-ir-dziviba-kad-starship-dosies-uz-marsu.a135226/"><img class="responsive" alt="Vai uz Venēras ir dzīvība? Kad “Starship” dosies uz Marsu?" src="https://pic.latvijasradio.lv/public/assets/media/7/0/msmall_5cf12d28.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/vai-uz-veneras-ir-dziviba-kad-starship-dosies-uz-marsu.a135226/">Vai uz Venēras ir dzīvība? Kad “Starship” dosies uz Marsu?</a> <span class="badge">2</span></h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/dietu-vesture-kur-cilveki-zinasanas-par-labako-esanas-rezimu-sme.a135178/"><img class="responsive" alt="Diētu vēsture: kur cilvēki zināšanas par labāko ēšanas režīmu smēlās senatnē" src="https://pic.latvijasradio.lv/public/assets/media/4/a/msmall_85c78862.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/dietu-vesture-kur-cilveki-zinasanas-par-labako-esanas-rezimu-sme.a135178/">Diētu vēsture: kur cilvēki zināšanas par labāko ēšanas režīmu smēlās senatnē</a> <span class="badge">2</span></h4><time>8. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/kulturas-rondo/">Kultūras Rondo</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/pasakuma-iepazistinas-ar-tris-rakstnieku-devumu-kulturpolitikas-.a135441/"><img class="responsive" alt="Pasākumā iepazīstinās ar trīs rakstnieku devumu kultūrpolitikas izveidē pirms 100 gadiem" src="https://pic.latvijasradio.lv/public/assets/media/4/5/msmall_f320698d.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/pasakuma-iepazistinas-ar-tris-rakstnieku-devumu-kulturpolitikas-.a135441/">Pasākumā iepazīstinās ar trīs rakstnieku devumu kultūrpolitikas izveidē pirms 100 gadiem</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/lidz-ar-iespeju-materialus-aplukot-digitali-aug-interese-par-kin.a135363/"><img class="responsive" alt="Līdz ar iespēju materiālus aplūkot digitāli aug interese par Kinofotofonodokumentu arhīvu" src="https://pic.latvijasradio.lv/public/assets/media/a/9/msmall_b2e61b9e.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/lidz-ar-iespeju-materialus-aplukot-digitali-aug-interese-par-kin.a135363/">Līdz ar iespēju materiālus aplūkot digitāli aug interese par Kinofotofonodokumentu arhīvu</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/lnb-aplukojama-neliela-tacu-ipasa-izstade-boriss-berzins.-lapasp.a135388/"><img class="responsive" alt="LNB aplūkojama neliela, taču īpaša izstāde - &quot;Boriss Bērziņš. Lapaspuses&quot;" src="https://pic.latvijasradio.lv/public/assets/media/1/8/msmall_232ede0b.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/lnb-aplukojama-neliela-tacu-ipasa-izstade-boriss-berzins.-lapasp.a135388/">LNB aplūkojama neliela, taču īpaša izstāde - "Boriss Bērziņš. Lapaspuses"</a> <span class="badge">3</span></h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/emila-darzina-muzikas-skola-jubileju-sagaida-ar-koncertu-restart.a135231/"><img class="responsive" alt="Emīla Dārziņa mūzikas skola jubileju sagaida ar koncertu &quot;Restart - 75&quot;" src="https://pic.latvijasradio.lv/public/assets/media/c/d/msmall_a31aa65b.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/kulturas-rondo/emila-darzina-muzikas-skola-jubileju-sagaida-ar-koncertu-restart.a135231/">Emīla Dārziņa mūzikas skola jubileju sagaida ar koncertu "Restart - 75"</a> </h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/gimenes-studija/">Ģimenes studija</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/emocionala-vardarbiba-biezi-vecaki-versas-pret-bernu-neapzinati-.a135399/"><img class="responsive" alt="Emocionālā vardarbība: Bieži vecāki vēršas pret bērnu neapzināti, mīlot viņu" src="https://pic.latvijasradio.lv/public/assets/media/d/8/msmall_62ad8dd5.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/emocionala-vardarbiba-biezi-vecaki-versas-pret-bernu-neapzinati-.a135399/">Emocionālā vardarbība: Bieži vecāki vēršas pret bērnu neapzināti, mīlot viņu</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/valdorfpedagogijas-un-montessori-macisanas-metozu-atskirigais-un.a135299/"><img class="responsive" alt="Valdorfpedagoģijas un Montessori mācīšanas metožu atšķirīgais un kopīgais" src="https://pic.latvijasradio.lv/public/assets/media/9/e/msmall_b1f44e7e.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/valdorfpedagogijas-un-montessori-macisanas-metozu-atskirigais-un.a135299/">Valdorfpedagoģijas un Montessori mācīšanas metožu atšķirīgais un kopīgais</a> </h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/petijumi-latvijas-zidainu-uzturs-nav-pilnvertigs.-ka-veidot-saba.a135185/"><img class="responsive" alt="Pētījumi: Latvijas zīdaiņu uzturs nav pilnvērtīgs. Kā veidot sabalansētu mazuļa ēdienkarti" src="https://pic.latvijasradio.lv/public/assets/media/f/4/msmall_c4dd0f88.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/petijumi-latvijas-zidainu-uzturs-nav-pilnvertigs.-ka-veidot-saba.a135185/">Pētījumi: Latvijas zīdaiņu uzturs nav pilnvērtīgs. Kā veidot sabalansētu mazuļa ēdienkarti</a> <span class="badge">1</span></h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/berna-ienaksana-gimene-ir-parbaudijums.-livas-un-edgara-spuravu-.a135228/"><img class="responsive" alt="Bērna ienākšana ģimenē ir pārbaudījums. Līvas un Edgara Spuravu attiecību stāsts" src="https://pic.latvijasradio.lv/public/assets/media/4/2/msmall_7c74174f.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/gimenes-studija/berna-ienaksana-gimene-ir-parbaudijums.-livas-un-edgara-spuravu-.a135228/">Bērna ienākšana ģimenē ir pārbaudījums. Līvas un Edgara Spuravu attiecību stāsts</a> </h4><time>9. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><h1><a href="/lv/tema/arpolitika-tuvplana.b381/">Ārpolitika tuvplānā</a><small></small></h1>
+
+			<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/diplomatiskas-pusdienas/gvineja-nabadziga-afrikas-valsts-kura-gaidamas-prezidenta-velesa.a135344/"><img class="responsive" alt="Gvineja: nabadzīga Āfrikas valsts, kurā gaidāmas prezidenta vēlēšanas" src="https://pic.latvijasradio.lv/public/assets/media/a/c/msmall_5165e036.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/diplomatiskas-pusdienas/gvineja-nabadziga-afrikas-valsts-kura-gaidamas-prezidenta-velesa.a135344/">Gvineja: nabadzīga Āfrikas valsts, kurā gaidāmas prezidenta vēlēšanas</a> </h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/diplomatiskas-pusdienas/cehija-gaidamas-velesanas-pilis-pilsetas-ka-filmu-zvaigznes-un-a.a134588/"><img class="responsive" alt="Čehija: gaidāmas vēlēšanas, pilis, pilsētas kā filmu zvaigznes un alus" src="https://pic.latvijasradio.lv/public/assets/media/c/b/msmall_27fe2fb4.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/diplomatiskas-pusdienas/cehija-gaidamas-velesanas-pilis-pilsetas-ka-filmu-zvaigznes-un-a.a134588/">Čehija: gaidāmas vēlēšanas, pilis, pilsētas kā filmu zvaigznes un alus</a> <span class="badge">1</span></h4><time>29. septembris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/divas-puslodes/kinas-japanas-attiecibu-dialogs.-lukasenko-slepena-kronesana.a134631/"><img class="responsive" alt="Ķīnas - Japānas attiecību dialogs. Lukašenko slepenā &quot;kronēšana&quot;" src="https://pic.latvijasradio.lv/public/assets/media/1/a/msmall_418755ca.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/divas-puslodes/kinas-japanas-attiecibu-dialogs.-lukasenko-slepena-kronesana.a134631/">Ķīnas - Japānas attiecību dialogs. Lukašenko slepenā "kronēšana"</a> <span class="badge">2</span></h4><time>24. septembris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktualitates-arpolitika.-izjautajam-arlietu-ministru-edgaru-rink.a134622/"><img class="responsive" alt="Aktualitātes ārpolitikā. Izjautājam ārlietu ministru Edgaru Rinkēviču" src="https://pic.latvijasradio.lv/public/assets/media/8/f/msmall_02557bf0.jpg" ></a><span class="article-icons"><i class="icon-video"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/krustpunkta/aktualitates-arpolitika.-izjautajam-arlietu-ministru-edgaru-rink.a134622/">Aktualitātes ārpolitikā. Izjautājam ārlietu ministru Edgaru Rinkēviču</a> <span class="badge">2</span></h4><time>24. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			
+<p class="more"><a href="/lv/tema/arpolitika-tuvplana.b381/">Vairāk</a></p>
+
+
+<div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/latgales-stunda-latgolys-stunde/">Latgolys stuņde (Latgales apraide)</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/latgalisi-pasauli-par-pandemeju-i-aktualitatem.a135304/"><img class="responsive" alt="Latgalīši pasaulī par pandemeju i aktualitatem" src="https://pic.latvijasradio.lv/public/assets/media/4/0/msmall_286bfd52.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/latgalisi-pasauli-par-pandemeju-i-aktualitatem.a135304/">Latgalīši pasaulī par pandemeju i aktualitatem</a> </h4><time>9. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/latvisu-viesturiskus-zemu-lykuma-nusladzusais-fokuss--latgola.a134994/"><img class="responsive" alt="Latvīšu viesturiskūs zemu lykuma nūslādzūšais fokuss – Latgola" src="https://pic.latvijasradio.lv/public/assets/media/8/e/msmall_cc42cb37.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/latvisu-viesturiskus-zemu-lykuma-nusladzusais-fokuss--latgola.a134994/">Latvīšu viesturiskūs zemu lykuma nūslādzūšais fokuss – Latgola</a> </h4><time>2. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/starp-seliju-un-latgali-ilukstes-novads.a134750/"><img class="responsive" alt="Starp Sēliju un Latgali - Ilūkstes novads" src="https://pic.latvijasradio.lv/public/assets/media/7/d/msmall_e2d5e4a3.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/starp-seliju-un-latgali-ilukstes-novads.a134750/">Starp Sēliju un Latgali - Ilūkstes novads</a> </h4><time>25. septembris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/daugovpils-nuvods-jau-cytugod-puortaps-augsdaugovys-nuvoda.a134427/"><img class="responsive" alt="Daugovpiļs nūvods jau cytugod puortaps Augšdaugovys nūvodā" src="https://pic.latvijasradio.lv/public/assets/media/3/2/msmall_d9337385.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/latgales-stunda-latgolys-stunde/daugovpils-nuvods-jau-cytugod-puortaps-augsdaugovys-nuvoda.a134427/">Daugovpiļs nūvods jau cytugod puortaps Augšdaugovys nūvodā</a> </h4><time>18. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/monopols/">Monopols</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/monopols/operdziedataja-marlena-keine-izrades-diena-censos-ieverot-klusum.a135129/"><img class="responsive" alt="Operdziedātāja Marlēna Keine: Izrādes dienā cenšos ievērot klusumu" src="https://pic.latvijasradio.lv/public/assets/media/1/7/msmall_f9db6510.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/monopols/operdziedataja-marlena-keine-izrades-diena-censos-ieverot-klusum.a135129/">Operdziedātāja Marlēna Keine: Izrādes dienā cenšos ievērot klusumu</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/monopols/andris-poga-pandemijas-laiks-paradija-muzika-profesijas-trauslum.a135128/"><img class="responsive" alt="Andris Poga: Pandēmijas laiks parādīja mūziķa profesijas trauslumu pret ārējiem apstākļiem" src="https://pic.latvijasradio.lv/public/assets/media/2/f/msmall_be65b36d.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/monopols/andris-poga-pandemijas-laiks-paradija-muzika-profesijas-trauslum.a135128/">Andris Poga: Pandēmijas laiks parādīja mūziķa profesijas trauslumu pret ārējiem apstākļiem</a> </h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/monopols/grafologe-anita-millere-glitrakstisana-ir-vajadziga-gan-berniem-.a135127/"><img class="responsive" alt="Grafoloģe Anita Millere: Glītrakstīšana ir vajadzīga gan bērniem, gan pieaugušajiem " src="https://pic.latvijasradio.lv/public/assets/media/d/0/msmall_c3027f0e.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/monopols/grafologe-anita-millere-glitrakstisana-ir-vajadziga-gan-berniem-.a135127/">Grafoloģe Anita Millere: Glītrakstīšana ir vajadzīga gan bērniem, gan pieaugušajiem </a> </h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/monopols/rezisore-ilze-burkovska-jakobsena-sevi-par-rezisori-saku-saukt-n.a134946/"><img class="responsive" alt="Režisore Ilze Burkovska-Jakobsena: Sevi par režisori sāku saukt nesen" src="https://pic.latvijasradio.lv/public/assets/media/6/8/msmall_0343b54b.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/monopols/rezisore-ilze-burkovska-jakobsena-sevi-par-rezisori-saku-saukt-n.a134946/">Režisore Ilze Burkovska-Jakobsena: Sevi par režisori sāku saukt nesen</a> </h4><time>9. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div>
+	</div>
+</section>
+
+<section class="block highlight-dark">
+	<div class="container">
+		<div class="row">
+	<div class="col-xs-12 col-sm-6"><div class="module module--two_items">			<h1><a href="/lv/lr1/raidijumi/stiprie-stasti/">Stiprie stāsti</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/stiprie-stasti/didzis-dreimanis-remtes-pagasta-izveidojis-mini-zoodarzu-silavas.a135214/"><img class="responsive" alt="Didzis Dreimanis Remtes pagastā izveidojis mini zoodārzu &quot;Silavas&quot;" src="https://pic.latvijasradio.lv/public/assets/media/d/e/msmall_1c8c7e33.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/stiprie-stasti/didzis-dreimanis-remtes-pagasta-izveidojis-mini-zoodarzu-silavas.a135214/">Didzis Dreimanis Remtes pagastā izveidojis mini zoodārzu "Silavas"</a> </h4><time>10. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/stiprie-stasti/zirgu-setas-untumi-saimniece-ligita-harcevska-zirgus-sauc-par-dz.a134950/"><img class="responsive" alt="Zirgu sētas &#039;&#039;Untumi&quot; saimniece Ligita Harčevska zirgus sauc par dzīvesveidu" src="https://pic.latvijasradio.lv/public/assets/media/f/3/msmall_295c36af.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/stiprie-stasti/zirgu-setas-untumi-saimniece-ligita-harcevska-zirgus-sauc-par-dz.a134950/">Zirgu sētas ''Untumi" saimniece Ligita Harčevska zirgus sauc par dzīvesveidu</a> </h4><time>3. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><p class="more"><a href=" layoutid=">Vairāk</a></p></div>
+	<div class="col-xs-12 col-sm-6"><div class="module module--two_items">			<h1><a href="/lv/lr1/raidijumi/augstak-par-zemi/">Augstāk par zemi</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/augstak-par-zemi/folkloras-draugu-kopa-saviesi-svin-40.-dzimsanas-dienu-saviesi-k.a135269/"><img class="responsive" alt="Folkloras draugu kopa &quot;Savieši&quot; svin 40. dzimšanas dienu! &quot;Savieši&quot; kādreiz un tagad" src="https://pic.latvijasradio.lv/public/assets/media/6/e/msmall_7eca7e1b.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/augstak-par-zemi/folkloras-draugu-kopa-saviesi-svin-40.-dzimsanas-dienu-saviesi-k.a135269/">Folkloras draugu kopa "Savieši" svin 40. dzimšanas dienu! "Savieši" kādreiz un tagad</a> </h4><time>11. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/augstak-par-zemi/veidenbaums-top-monografija-par-dzejnieku-muzikas-loma-vina-dzej.a134939/"><img class="responsive" alt="Veidenbaums: top monogrāfija par dzejnieku; mūzikas loma viņa dzejas dzīvotspējā" src="https://pic.latvijasradio.lv/public/assets/media/2/2/msmall_a9f18e26.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/augstak-par-zemi/veidenbaums-top-monografija-par-dzejnieku-muzikas-loma-vina-dzej.a134939/">Veidenbaums: top monogrāfija par dzejnieku; mūzikas loma viņa dzejas dzīvotspējā</a> </h4><time>4. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div></div>
+</div><div class="row">
+	<div class="col-xs-12 col-sm-6"><div class="module module--two_items">			<h1><a href="/lv/lr1/raidijumi/reiz-radio/">Reiz radio...</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/reiz-radio/latvijas-radio-kora-skanejums-laiku-lokos.a134969/"><img class="responsive" alt="Latvijas Radio kora skanējums laiku lokos" src="https://pic.latvijasradio.lv/public/assets/media/0/8/msmall_025c292a.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/reiz-radio/latvijas-radio-kora-skanejums-laiku-lokos.a134969/">Latvijas Radio kora skanējums laiku lokos</a> </h4><time>4. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/reiz-radio/radiozaki-un-pirmie-radio-aparati-latvija.a134704/"><img class="responsive" alt="&quot;Radiozaķi&quot; un pirmie radio aparāti Latvijā" src="https://pic.latvijasradio.lv/public/assets/media/9/1/msmall_5e2aad1f.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/reiz-radio/radiozaki-un-pirmie-radio-aparati-latvija.a134704/">"Radiozaķi" un pirmie radio aparāti Latvijā</a> </h4><time>27. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><p class="more"><a href=" layoutid=">Vairāk</a></p></div>
+	<div class="col-xs-12 col-sm-6"><div class="module module--two_items">			<h1><a href="/lv/lr1/raidijumi/laikaritu-raksti/">Laika Ritu Raksti</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/laikaritu-raksti/velu-laika-dziesmas-dzied-dzied-folkloras-draugu-kopa-skandiniek.a135113/"><img class="responsive" alt="Veļu laika dziesmas dzied dzied folkloras draugu kopa &quot;Skandinieki&quot; un grupa &quot;DER&quot;" src="https://pic.latvijasradio.lv/public/assets/media/6/a/msmall_84144afa.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/laikaritu-raksti/velu-laika-dziesmas-dzied-dzied-folkloras-draugu-kopa-skandiniek.a135113/">Veļu laika dziesmas dzied dzied folkloras draugu kopa "Skandinieki" un grupa "DER"</a> </h4><time>11. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-6">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/laikaritu-raksti/dziju-var-krasot-ari-senu-novarijuma.-stasta-mikologe-diana-meie.a133993/"><img class="responsive" alt="Dziju var krāsot arī sēņu novārījumā. Stāsta mikoloģe Diāna Meiere" src="https://pic.latvijasradio.lv/public/assets/media/e/d/msmall_f90cb12d.jpg" ></a><span class="article-icons"><i class="icon-photo"></i></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/laikaritu-raksti/dziju-var-krasot-ari-senu-novarijuma.-stasta-mikologe-diana-meie.a133993/">Dziju var krāsot arī sēņu novārījumā. Stāsta mikoloģe Diāna Meiere</a> </h4><time>27. septembris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div><p class="more"><a href=" layoutid=">Vairāk</a></p></div>
+</div><h1><a href="/lv/tema/ekonomika.b44/">Ekonomika</a><small></small></h1>
+
+			<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/eiro-fokusa/ari-lietuva-gatavojas-atvert-elektroenergijas-tirgu-majsaimnieci.a135468/"><img class="responsive" alt="Arī Lietuva gatavojas atvērt elektroenerģijas tirgu mājsaimniecībām" src="https://pic.latvijasradio.lv/public/assets/media/d/5/msmall_c5f726fe.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/eiro-fokusa/ari-lietuva-gatavojas-atvert-elektroenergijas-tirgu-majsaimnieci.a135468/">Arī Lietuva gatavojas atvērt elektroenerģijas tirgu mājsaimniecībām</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vk-iekslietu-ministrijas-darbinieku-piemaksam-par-covid-19-laika.a135480/"><img class="responsive" alt="VK: Iekšlietu ministrijas darbinieku piemaksām par Covid-19 laika darbu jābūt taisnīgām" src="https://pic.latvijasradio.lv/public/assets/media/5/a/msmall_4185e454.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/vk-iekslietu-ministrijas-darbinieku-piemaksam-par-covid-19-laika.a135480/">VK: Iekšlietu ministrijas darbinieku piemaksām par Covid-19 laika darbu jābūt taisnīgām</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/reirs-nodod-budzetu-saeimai-radosie-cilveki-proteste-pret-izmain.a135471/"><img class="responsive" alt="Reirs nodod budžetu Saeimai, radošie cilvēki protestē pret izmaiņām nodokļu režīmā" src="https://pic.latvijasradio.lv/public/assets/media/f/6/msmall_dcd2525c.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/pecpusdiena/reirs-nodod-budzetu-saeimai-radosie-cilveki-proteste-pret-izmain.a135471/">Reirs nodod budžetu Saeimai, radošie cilvēki protestē pret izmaiņām nodokļu režīmā</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr1">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/labriit/es-atveselosanas-mehanisma-finansejums-bus-milzigs-grudiens-latv.a135437/"><img class="responsive" alt="ES Atveseļošanās mehānisma finansējums būs milzīgs grūdiens Latvijas ekonomikai" src="https://pic.latvijasradio.lv/public/assets/media/6/f/msmall_057fa83c.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/labriit/es-atveselosanas-mehanisma-finansejums-bus-milzigs-grudiens-latv.a135437/">ES Atveseļošanās mehānisma finansējums būs milzīgs grūdiens Latvijas ekonomikai</a> </h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			
+<p class="more"><a href="/lv/tema/ekonomika.b44/">Vairāk</a></p>
+
+
+<div class="module module--four_items_single">			<h1><a href="/lv/lr1/raidijumi/sii-diena-vesture/">Šī diena vēsturē</a><small></small></h1>
+				
+	
+				<div class="row">
+									<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium img-rounded img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/14.-oktobris.-noslegts-miera-ligums-somiju-un-padomju-krieviju.a135438/"><img class="responsive" alt="14. oktobris. Noslēgts miera līgums Somiju un Padomju Krieviju" src="https://pic.latvijasradio.lv/public/assets/media/b/9/msmall_992dae58.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/14.-oktobris.-noslegts-miera-ligums-somiju-un-padomju-krieviju.a135438/">14. oktobris. Noslēgts miera līgums Somiju un Padomju Krieviju</a> <span class="badge">1</span></h4><time>Šodien</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/13.-oktobris.-francijas-karalis-filips-iv-uzsaka-templiesu-orede.a20968/"><img class="responsive" alt="13. oktobris. Francijas karalis Filips IV uzsāka templiešu oredeņa sagrāvi" src="https://pic.latvijasradio.lv/public/assets/media/1/3/msmall_3c86d279.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/13.-oktobris.-francijas-karalis-filips-iv-uzsaka-templiesu-orede.a20968/">13. oktobris. Francijas karalis Filips IV uzsāka templiešu oredeņa sagrāvi</a> <span class="badge">1</span></h4><time>Vakar</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/12.-oktobris.-ano-sesijas-laika-psrs-lideris-nikita-hruscovs-lai.a6537/"><img class="responsive" alt="12. oktobris. ANO sesijas laikā PSRS līderis Ņikita Hruščovs laiž darbā kurpi" src="https://pic.latvijasradio.lv/public/assets/media/3/d/msmall_c7842665.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/12.-oktobris.-ano-sesijas-laika-psrs-lideris-nikita-hruscovs-lai.a6537/">12. oktobris. ANO sesijas laikā PSRS līderis Ņikita Hruščovs laiž darbā kurpi</a> <span class="badge">1</span></h4><time>12. oktobris</time>
+		</div>
+		</div>
+							</div>
+										<div class="col-xs-12 col-sm-3">
+						
+		<div class="news-thumb size-medium  img-border channel-lr">
+			<figure><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/11.-oktobris.-oslo-nogalina-salamana-rusdi-satanisko-varsmu-izsd.a15015/"><img class="responsive" alt="11. oktobris. Oslo nogalina Salamana Rušdī &quot;Sātanisko vārsmu&quot; izsdevēju Viljamu Nīgardu" src="https://pic.latvijasradio.lv/public/assets/media/6/5/msmall_d0496499.jpg" ></a><span class="article-icons"></span></figure>
+			<div class="data"><h4><a href="https://lr1.lsm.lv/lv/raksts/sii-diena-vesture/11.-oktobris.-oslo-nogalina-salamana-rusdi-satanisko-varsmu-izsd.a15015/">11. oktobris. Oslo nogalina Salamana Rušdī "Sātanisko vārsmu" izsdevēju Viljamu Nīgardu</a> <span class="badge">2</span></h4><time>11. oktobris</time>
+		</div>
+		</div>
+							</div>
+								</div>
+			</div>
+	</div>
+</section>
+
+	</div>
+
+	<footer id="main-footer">
+	<section class="block highlight-ultradark">
+		<div class="container">
+
+			<div class="footer-row clearfix">
+				<figure id="footer-logo"></figure>
+
+				<nav>
+					<div class="row thumbnail-row">
+			<div class="col-xs-6 col-sm-3">
+			<ul>
+				<li class="heading"><h3><a href="/lv/par-mums/radio/" target="_self">Par mums</a></h3></li>
+				<ul>
+											<li class="lnk"><a href="/lv/par-mums/radio/" target="_self">Radio</a></li>
+												<li class="lnk"><a href="/lv/par-mums/radio-vadiba/" target="_self">Radio vadība</a></li>
+												<li class="lnk"><a href="/lv/par-mums/strategija/" target="_self">Stratēģija</a></li>
+												<li class="lnk"><a href="/lv/par-mums/ricibas-kodekss/" target="_self">Rīcības kodekss</a></li>
+												<li class="lnk"><a href="/lv/par-mums/informacija-presei/" target="_self">Informācija presei</a></li>
+												<li class="lnk"><a href="/lv/par-mums/logo/" target="_self">Logo</a></li>
+												<li class="lnk"><a href="/lv/par-mums/logo-vadlinijas/" target="_self">Logo izmantošanas vadlīnijas</a></li>
+												<li class="lnk"><a href="/lv/par-mums/privacy-policy/" target="_self">Autortiesību atruna un Privātuma politika</a></li>
+												<li class="lnk"><a href="/lv/par-mums/rekviziti/" target="_self">Rekvizīti</a></li>
+												<li class="lnk"><a href="/lv/par-mums/vakances/" target="_self">Vakances</a></li>
+												<li class="lnk"><a href="/lv/par-mums/frekvences/" target="_self">Frekvences</a></li>
+												<li class="lnk"><a href="/lv/par-mums/kontakti/" target="_self">Kontakti</a></li>
+										</ul>
+			</ul>
+		</div>
+				<div class="col-xs-6 col-sm-3">
+			<ul>
+				<li class="heading"><h3><a href="/lv/finanses/finansu-parskati/" target="_self">Finanses</a></h3></li>
+				<ul>
+											<li class="lnk"><a href="/lv/finanses/atalgojuma-likmes/" target="_self">Atalgojuma likmes</a></li>
+												<li class="lnk"><a href="/lv/finanses/izsoles/" target="_self">Izsoles</a></li>
+												<li class="lnk"><a href="/lv/finanses/finansu-parskati/" target="_self">Finanšu pārskati</a></li>
+												<li class="lnk"><a href="/lv/finanses/iepirkumi/" target="_self">Iepirkumi</a></li>
+										</ul>
+			</ul>
+		</div>
+		<div class="clearfix visible-xs"></div>		<div class="col-xs-6 col-sm-3">
+			<ul>
+				<li class="heading"><h3><a href="/lv/reklama/cenas/" target="_self">Reklāma</a></h3></li>
+				<ul>
+											<li class="lnk"><a href="/lv/reklama/sadarbibas-partneri/" target="_self">Sadarbības partneri - aģentūras</a></li>
+												<li class="lnk"><a href="/lv/reklama/sponsoresana/" target="_self">Sponsorēšana</a></li>
+												<li class="lnk"><a href="/lv/reklama/cenas/" target="_self">Cenas</a></li>
+												<li class="lnk"><a href="/lv/reklama/kontakti/" target="_self">Kontakti</a></li>
+										</ul>
+			</ul>
+		</div>
+				<div class="col-xs-6 col-sm-3">
+			<ul>
+				<li class="heading"><h3><a href="/lv/piedavajumi/kursi/" target="_self">Piedāvājumi</a></h3></li>
+				<ul>
+											<li class="lnk"><a href="/lv/lietotnes/" target="_self">Lietotnes</a></li>
+												<li class="lnk"><a href="/lv/radioteatris/" target="_self">Radioteātris</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/saeimas-sedes/" target="_self">Saeimas sēdes</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/euranet-plus/" target="_self">Euranet Plus</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/fonotekas-ieraksti/" target="_self">Fonotēkas ieraksti</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/kursi/" target="_self">Kursi</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/pakalpojumu-izcenojumi/" target="_self">Pakalpojumu izcenojumi</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/vadlinijas-sadarbibai-ar-partneriem/" target="_self">Vadlīnijas sadarbībai ar partneriem</a></li>
+												<li class="lnk"><a href="/lv/piedavajumi/kriteriji-sadarbibas-partnera-izvertesanai-un-atzisanai-par-augsta-riska-partneri/" target="_self">Kritēriji sadarbības partnera izvērtēšanai un atzīšanai par augsta riska partneri</a></li>
+										</ul>
+			</ul>
+		</div>
+		<div class="clearfix visible-xs"></div><div class="clearfix visible-sm visible-md visible-lg"></div></div>				</nav>
+			</div>
+
+			<p class="developer">
+				Izstrādāts <a href="http://www.codeart.lv/" id="codeart" target="_blank">codeart.lv</a>
+			</p>
+			
+			<p class="copyright">
+				&copy; Latvijas Radio, 2020<br>
+				Jebkādu materiālu pilnīga vai daļēja izmantošana atļauta tikai ar rakstisku Valsts SIA «Latvijas Radio» atļauju.
+			</p>
+
+		</div>
+	</section>
+</footer>
+	<div class="social-window">
+	<a href="javascript:;" onclick="socialWindowclose();" class="social-window__close"><em>&times;</em></a>
+	<div class="social-window__title">SEKO MUMS:</div>
+	<ul class="social-window__links">
+		<li><a class="icn" target="_blank" rel="nofollow" onclick="window.open('?rt=site&ac=socclick&lnk=https%3A%2F%2Ftwitter.com%2FLatvijasRadio1&r=1&acc=twitter','_blank')"  href="javascript:;"><span class="vrl-icon-twitter"></span></a><a class="lnk" target="_blank" href="https://twitter.com/LatvijasRadio1"></a></li> <li><a class="icn" target="_blank" rel="nofollow" onclick="window.open('?rt=site&ac=socclick&lnk=https%3A%2F%2Fwww.facebook.com%2FLatvijasRadio1%2F%3Ffref%3Dnf&r=1&acc=facebook','_blank')"  href="javascript:;"><span class="vrl-icon-facebook"></span></a><a class="lnk" target="_blank" href="https://www.facebook.com/LatvijasRadio1/?fref=nf"></a></li> <li><a class="icn" target="_blank" rel="nofollow" onclick="window.open('?rt=site&ac=socclick&lnk=https%3A%2F%2Fwww.instagram.com%2Flatvijasradio%2F+&r=1&acc=instagram','_blank')"  href="javascript:;"><span class="vrl-icon-instagram"></span></a><a class="lnk" target="_blank" href="https://www.instagram.com/latvijasradio/ "></a></li> <li><a class="icn" target="_blank" rel="nofollow" onclick="window.open('?rt=site&ac=socclick&lnk=https%3A%2F%2Fwww.youtube.com%2Fuser%2FLatvijasRadio&r=1&acc=youtube','_blank')"  href="javascript:;"><span class="vrl-icon-youtube"></span></a><a class="lnk" target="_blank" href="https://www.youtube.com/user/LatvijasRadio"></a></li>	</ul>
+</div>
+
+<script>
+	var b = $('.social-window');
+
+	function socialWindowclose() {
+		b.removeClass('open');
+
+		$.post('?rt=site&ac=closefollow');
+	};
+
+	setTimeout(function(){
+		b.addClass('open');
+	}, 2000);
+
+</script>
+
+
+</div>
+
+
+<script>
+		LR.Live.link = 'http://www.latvijasradio.lv/lv/tiesraide/';
+	LR.audio.playerLink = '/lv/pleijeris/';
+	LR.Weather.link = '?rt=site&ac=weatherblockdata';
+	LR.Banners.bannerExpUrl = '?rt=banners&ac=addView&ed0e47c183b9e4b2f67a8a7a14d6b70a=1b1c4339c92bfb8d8858da6e3283e37c&id=_id_';
+</script>
+
+
+		<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-8131399-2']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		</script>
+		
+		<script>
+			$('body').addClass('channel-lr1');
+
+			LR.Lang['CLOSE'] = 'Aizvērt';
+			LR.Lang['HIDE_MENU'] = 'Slēpt izvēlni';
+    		LR.Lang['SHOW_MENU'] = 'Izvēlne';
+    		LR.Lang['SHOW_MORE'] = 'Rādīt vairāk';
+    		LR.Lang['SHOW_LESS'] = 'Rādīt mazāk';
+    		LR.Lang['DOWNLOAD'] = 'Saglabāt';
+    		LR.Lang['EMBED'] = 'Embed';
+			LR.audio.playerEmbed = '?rt=media&ac=playerembed';
+			LR.domain = 'https://lr1.lsm.lv';
+    	</script>
+		</body>
+</html>

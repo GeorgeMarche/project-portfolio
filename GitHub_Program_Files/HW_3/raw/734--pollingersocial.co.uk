@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jonathan Pollinger | Social Media Trainer</title>
+    <script language="javascript" type="text/javascript">
+		<!--
+		function imposeMaxLength(Object, MaxLen)
+		{
+  		return (Object.value.length <= MaxLen);
+		}
+		-->
+	</script>
+    
+		<style type="text/css">
+			.slide-excerpt { width: 40%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { left: 0; }
+			.flexslider { max-width: 1060px; max-height: 460px; }
+			.slide-image { max-height: 460px; }
+		</style>
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Jonathan Pollinger is a Cardiff Social Media Trainer specialising in social media workshops and one-to-one training for companies, organisations and charities across the UK and Europe."/>
+<link rel="canonical" href="https://pollingersocial.co.uk/" />
+<link rel="next" href="https://pollingersocial.co.uk/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Jonathan Pollinger | Social Media Trainer" />
+<meta property="og:description" content="Jonathan Pollinger is Cardiff Social Media Trainer specialising in social media workshops and one-to-one training for companies and charities based in South Wales and the South West." />
+<meta property="og:url" content="https://pollingersocial.co.uk/" />
+<meta property="og:site_name" content="Jonathan Pollinger - Social Media and Zoom Training" />
+<meta property="og:image" content="https://pollingersocial.co.uk/wp-content/uploads/2019/04/pollingersocial.co_.uk_.preview.png" />
+<meta property="og:image:secure_url" content="https://pollingersocial.co.uk/wp-content/uploads/2019/04/pollingersocial.co_.uk_.preview.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Jonathan Pollinger is a Cardiff Social Media Trainer specialising in social media workshops and one-to-one training for companies, organisations and charities across the UK and Europe." />
+<meta name="twitter:title" content="Jonathan Pollinger | Social Media Trainer" />
+<meta name="twitter:site" content="@pollingersocial" />
+<meta name="twitter:image" content="https://pollingersocial.co.uk/wp-content/uploads/2019/04/pollingersocial.co_.uk_.preview.png" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://pollingersocial.co.uk/#organization","name":"","url":"https://pollingersocial.co.uk/","sameAs":["https://twitter.com/pollingersocial"]},{"@type":"WebSite","@id":"https://pollingersocial.co.uk/#website","url":"https://pollingersocial.co.uk/","name":"Jonathan Pollinger - Social Media and Zoom Training","publisher":{"@id":"https://pollingersocial.co.uk/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://pollingersocial.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://pollingersocial.co.uk/#webpage","url":"https://pollingersocial.co.uk/","inLanguage":"en-US","name":"Jonathan Pollinger | Social Media Trainer","isPartOf":{"@id":"https://pollingersocial.co.uk/#website"},"about":{"@id":"https://pollingersocial.co.uk/#organization"},"description":"Jonathan Pollinger is a Cardiff Social Media Trainer specialising in social media workshops and one-to-one training for companies, organisations and charities across the UK and Europe."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//code.ionicframework.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jonathan Pollinger - Social Media and Zoom Training &raquo; Feed" href="https://pollingersocial.co.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jonathan Pollinger - Social Media and Zoom Training &raquo; Comments Feed" href="https://pollingersocial.co.uk/comments/feed/" />
+
+            <script type="text/javascript">//<![CDATA[
+            
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+            ga('create', 'UA-3762673-5', 'auto');
+            ga('send', 'pageview'); 
+                        
+            //]]></script>
+			<link rel='stylesheet' id='mp-theme-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/memberpress/css/ui/theme.css?ver=1.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='digital-pro-css'  href='https://pollingersocial.co.uk/wp-content/themes/digital-pro/style.css?ver=1.0.3' type='text/css' media='all' />
+<style id='digital-pro-inline-css' type='text/css'>
+
+		button,
+		input[type="button"],
+		input[type="reset"],
+		input[type="submit"],
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination .active a,
+		.button,
+		.entry-content a.button,
+		.footer-widgets-1,
+		.textwidget a.button {
+			background-color: #475c6a;
+		}
+
+		a:focus,
+		a:hover,
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination .active a,
+		.home.front-page .widget a:focus,
+		.home.front-page .widget a:hover,
+		.pagination a:focus,
+		.pagination a:hover {
+				border-color: #475c6a;
+		}
+
+		a:focus,
+		a:hover,
+		button:hover,
+		button:focus,
+		.content .entry-title a:hover,
+		.content .entry-title a:focus,
+		.footer-widgets a:focus,
+		.footer-widgets a:hover,
+		.front-page .front-page-3 a:focus,
+		.front-page .front-page-3 a:hover,
+		.front-page .front-page-2 ul.checkmark li:before,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.js nav button:focus,
+		.js .menu-toggle:focus,
+		.site-footer a:focus,
+		.site-footer a:hover {
+			color: #475c6a;
+		}
+		
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/components/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-font-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&#038;ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/block-editor/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/nux/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/editor/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/block-library/theme.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-edit-blocks-css'  href='https://pollingersocial.co.uk/wp-includes/css/dist/block-library/editor.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rainmaker-editor-block-cta-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-editor-block-cta/assets/css/rainmaker-editor-block-cta.min.css?ver=3.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='rainmaker-memberpress-extend-front-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-memberpress-extend/assets/css/rainmaker-memberpress-extend-front.css?ver=3.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='affwp-forms-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/affiliate-wp/assets/css/forms.min.css?ver=2.1.15' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ui/dist/assets/css/jquery-ui/jquery-ui.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lms-quiz-front-end-style-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/lms-quiz-system/css/front-end.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lms-sidebar-reset-css-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/lms-navigation-widget/assets/css/reset.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='lms-sidebar-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/lms-navigation-widget/assets/styles/default/css/lms-sidebar.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://pollingersocial.co.uk/wp-includes/css/dashicons.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rainmaker-rmui-frontend-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ui/dist/assets//css/rmui-frontend.min.css?ver=3.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lms-style-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-lms/assets/css/lms-style.css?ver=3.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Lora%3A400%2C400italic%2C700%2C700italic%7CPoppins%3A400%2C500%2C600%2C700&#038;ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bbpress-genesis-extend-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/bbpress-genesis-extend/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/simple-social-icons/css/style.css?ver=3.0.0' type='text/css' media='all' />
+<!--[if IE 9]>
+<link rel='stylesheet' id='digitalIE9-css'  href='https://pollingersocial.co.uk/wp-content/themes/digital-pro/style-ie9.css?ver=1.0.3' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='digital-front-styles-css'  href='https://pollingersocial.co.uk/wp-content/themes/digital-pro/style-front.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-simple-share-plugin-css-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-simple-share/assets/css/share.min.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-simple-share-genericons-css-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-simple-share/assets/css/genericons.min.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rainmaker-ninja-forms-extend-styles-frontend-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ninja-forms-extend/assets/css/rainmaker-ninja-forms-extend-styles-frontend.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-signature-css'  href='https://pollingersocial.co.uk/wp-content/plugins/bbp-signature/bbp-signature.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-tabs-stylesheet-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-tabs/style.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var abus_ajax = {"ajaxurl":"https:\/\/pollingersocial.co.uk\/admin\/admin-ajax.php","magicWord":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-admin-bar-user-switching-plugin/library/admin-bar-user-switching-plugin/assets/js/abus_script.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/pollingersocial.co.uk\/admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/lms-quiz-system/js/front-end.js?ver=5.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_scripts = {"ajaxurl":"https:\/\/pollingersocial.co.uk\/admin\/admin-ajax.php"};
+var jQueryCookieOpts = {"path":"\/","domain":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ui/dist/assets//js/jquery.cookie.min.js?ver=3.1.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_debug_vars = {"integrations":{"woocommerce":"WooCommerce","memberpress":"MemberPress"},"version":"2.1.15","currency":"GBP"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/affiliate-wp/assets/js/tracking.min.js?ver=2.1.15'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ui/dist/assets//js/jquery.fitvids.min.js?ver=3.1.0.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-ui/dist/assets//js/rmui.fitvids.min.js?ver=3.1.0.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/front-page.js?ver=1.0.3'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/backstretch.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BackStretchImg = {"src":"https:\/\/pollingersocial.co.uk\/wp-content\/uploads\/2019\/12\/newhomephoto.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/backstretch-set.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ss_podcasting_scripts = {"ajaxurl":"https:\/\/pollingersocial.co.uk\/admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-simple-podcasting/assets/js/player.js?ver=3.1.0.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-simple-share/assets/js/sharrre/jquery.sharrre.min.js?ver=0.1.0'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-simple-share/assets/js/waypoints.min.js?ver=0.1.0'></script>
+<link rel='https://api.w.org/' href='https://pollingersocial.co.uk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pollingersocial.co.uk/xmlrpc.php?rsd" />
+<link rel="stylesheet" href="https://pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/cookies-for-comments/css.php?k=f48c2f5b7fb4ca0f7896273f55e079a2&amp;t=1209450085" type="text/css" media="screen" /><style type="text/css"> .enews .screenread { display:none; } </style><meta property="fb:pages" content="107721955934442" />
+		<style type="text/css">
+			#wpadminbar .quicklinks #wp-admin-bar-abus_switch_to_user ul li .ab-item { height: auto; }
+			#abus_user_results { background-color: #000000; }
+		</style>
+			<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'ref';
+		AFFWP.expiration = 1;
+		AFFWP.debug = 0;
+
+
+		AFFWP.referral_credit_last = 0;
+		</script>
+<!--header scripts--><meta name="p:domain_verify" content="96d28db6c8e62672bec45357779e2c67"/>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '807134059306906');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=807134059306906&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><link rel="Shortcut Icon" href="//pollingersocial.co.uk/wp-content/uploads/2018/11/fav2.ico" type="image/x-icon" />
+
+	<link rel="stylesheet" type="text/css" href="//pollingersocial.co.uk?custom-css=1&#038;csblog=1&#038;cscache=5&#038;csrev=19"/>
+	</head>
+<body class="home blog digital-pro custom-header header-full-width full-width-content front-page" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li></ul><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><h1 class="site-title" itemprop="headline"><a href="https://pollingersocial.co.uk/">Jonathan Pollinger - Social Media and Zoom Training</a></h1><p class="site-description" itemprop="description">Quality social media and Zoom training, workshops and courses both in person and virtual from Cardiff based freelance social media and Zoom trainer Jonathan Pollinger</p></div><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-8922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8922"><a href="https://pollingersocial.co.uk/social-media-training/" itemprop="url"><span itemprop="name">Training</span></a></li>
+<li id="menu-item-9991" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-9991"><a href="https://pollingersocial.co.uk/social-media-training-courses-cardiff-cheltenham/" itemprop="url"><span itemprop="name">Workshops</span></a></li>
+<li id="menu-item-9948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9948"><a href="https://pollingersocial.co.uk/subscribe-socialmediadailyweekly/" itemprop="url"><span itemprop="name">News</span></a></li>
+<li id="menu-item-8921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8921"><a href="https://pollingersocial.co.uk/blog/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-8944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8944"><a href="https://pollingersocial.co.uk/jonathan-pollinger-freelance-social-media-trainer-testimonials/" itemprop="url"><span itemprop="name">Testimonials</span></a></li>
+<li id="menu-item-8919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8919"><a href="https://pollingersocial.co.uk/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-8920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8920"><a href="https://pollingersocial.co.uk/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul></div></nav></div></header><h2 class="screen-reader-text">Main Content</h2><div id="front-page-1" class="front-page-1"><div class="widget-area fadeup-effect"><div class="wrap"><section id="media_image-4" class="widget widget_media_image"><div class="widget-wrap"><img width="150" height="150" src="https://pollingersocial.co.uk/wp-content/uploads/2019/03/180x180pixels-150x150.png" class="image wp-image-9180  attachment-thumbnail size-thumbnail" alt="" style="max-width: 100%; height: auto;" srcset="https://pollingersocial.co.uk/wp-content/uploads/2019/03/180x180pixels-150x150.png 150w, https://pollingersocial.co.uk/wp-content/uploads/2019/03/180x180pixels-100x100.png 100w, https://pollingersocial.co.uk/wp-content/uploads/2019/03/180x180pixels.png 178w" sizes="(max-width: 150px) 100vw, 150px" /></div></section>
+</div></div></div><div id="front-page-2" class="front-page-2"><div class="wrap"><div class="flexible-widgets widget-area fadeup-effect widget-full"><section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h3 class="widgettitle widget-title">How to use social media and Zoom workshops</h3>
+<div class="textwidget custom-html-widget">✅ <strong><a href="https://www.nilc.co.uk/courses/business-skills/social-media/introduction-to-social-media-for-business/"><font size="5">Introduction to social media for business</font></a></strong><br>
+✅ <strong><a href="https://nilc.co.uk/courses/business-skills/social-media/advanced-social-media-for-business/"><font size="5">Advanced social media for business</font></a></strong><br>
+✅ <strong><a href="https://nilc.co.uk/courses/business-skills/social-media/power-up-your-business-with-facebook/"><font size="5">Power up your business with Facebook</font></a></strong><br>
+✅ <strong><a href="https://nilc.co.uk/courses/business-skills/social-media/power-up-your-business-with-instagram/"><font size="5">Power up your business with Instagram</font></a></strong><br>
+✅ <strong><a href="https://nilc.co.uk/courses/business-skills/social-media/power-up-your-business-with-linkedin/"><font size="5">Power up your business with LinkedIn</font></a></strong><br>
+✅ <strong><a href="https://nilc.co.uk/courses/business-skills/social-media/power-up-your-business-with-twitter/"><font size="5">Power up your business with Twitter</font></a></strong><br>
+✅ <strong><a href="https://www.nilc.co.uk/courses/business-skills/zoom/how-to-use-zoom-like-a-pro/"><font size="5">How to use Zoom like a pro</font></a></strong></div></div></section>
+</div></div></div><div id="front-page-3" class="front-page-3"><div class="wrap"><div class="flexible-widgets widget-area fadeup-effect widget-full"><section id="search-4" class="widget widget_search"><div class="widget-wrap"><h3 class="widgettitle widget-title">Search</h3>
+<form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="https://pollingersocial.co.uk/" role="search"><label class="search-form-label screen-reader-text" for="searchform-5f87392e43bbd4.10712503">Search this website</label><input class="search-form-input" type="search" itemprop="query-input" name="s" id="searchform-5f87392e43bbd4.10712503" placeholder="Search this website"><input class="search-form-submit" type="submit" value="Search"><meta itemprop="target" content="https://pollingersocial.co.uk/?s={s}"></form></div></section>
+</div></div></div><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><div id="journal" class="widget-area fadeup-effect"><div class="wrap"><h2 class="widgettitle widget-title center">Latest posts</h2><article class="post-10045 post type-post status-publish format-standard has-post-thumbnail category-blog category-zoom tag-meetings tag-presentation tag-presentations tag-videoconferencing tag-virtual tag-webinars tag-zoom tag-zoomvideo entry" itemscope itemtype="https://schema.org/CreativeWork"><a class="entry-image-link" href="https://pollingersocial.co.uk/improve-how-you-look-and-sound-on-zoom/" aria-hidden="true" tabindex="-1"><img width="1000" height="700" src="https://pollingersocial.co.uk/wp-content/uploads/2020/09/e0e6be01-c315-4dea-a249-0f804ccf2261-1000x700.jpg" class="alignright post-image entry-image" alt="New features on Zoom" itemprop="image" /></a><header class="entry-header"><p class="entry-meta"><span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="https://pollingersocial.co.uk/author/jonathan-pollinger/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Jonathan Pollinger</span></a></span> / <time class="entry-time" itemprop="datePublished" datetime="2020-09-06T13:42:13+00:00">September 6, 2020</time> </p><h2 class="entry-title" itemprop="headline"><a class="entry-title-link" rel="bookmark" href="https://pollingersocial.co.uk/improve-how-you-look-and-sound-on-zoom/">Improve how you look and sound on Zoom</a></h2>
+</header><div class="entry-content" itemprop="text"><p>Over the past month Zoom has released a raft of new features for the desktop app that can improve how you look and sound in your meetings, as both a host and a &#x02026;</p><p class="more-link-wrap"> <a href="https://pollingersocial.co.uk/improve-how-you-look-and-sound-on-zoom/" class="more-link">[Read more...] <span class="screen-reader-text">about Improve how you look and sound on Zoom</span></a></p></div></article><article class="post-5145 post type-post status-publish format-standard has-post-thumbnail category-blog category-social-media-ideas-tips tag-business tag-job-insights tag-linkedin tag-linkedin-learning tag-linkedin-premium tag-linkedin-premium-business tag-linkedin-training tag-networking tag-premium tag-save-searches tag-social-media tag-social-media-training entry" itemscope itemtype="https://schema.org/CreativeWork"><a class="entry-image-link" href="https://pollingersocial.co.uk/linkedin-premium-is-it-worth-it/" aria-hidden="true" tabindex="-1"><img width="970" height="700" src="https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920.jpg" class="alignright post-image entry-image" alt="LinkedIn Premium" itemprop="image" srcset="https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920.jpg 1920w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-300x217.jpg 300w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-768x554.jpg 768w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-1024x739.jpg 1024w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-504x364.jpg 504w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-200x144.jpg 200w, https://pollingersocial.co.uk/wp-content/uploads/2019/11/business-31525861920-600x433.jpg 600w" sizes="(max-width: 970px) 100vw, 970px" /></a><header class="entry-header"><p class="entry-meta"><span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="https://pollingersocial.co.uk/author/jonathan-pollinger/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Jonathan Pollinger</span></a></span> / <time class="entry-time" itemprop="datePublished" datetime="2020-09-02T13:34:36+00:00">September 2, 2020</time> </p><h2 class="entry-title" itemprop="headline"><a class="entry-title-link" rel="bookmark" href="https://pollingersocial.co.uk/linkedin-premium-is-it-worth-it/">LinkedIn Premium &#8211; is it worth it?</a></h2>
+</header><div class="entry-content" itemprop="text"><p>If you're a business professional looking to network, obtain leads and makes sales, LinkedIn is a must have item in your business toolkit. It's also super &#x02026;</p><p class="more-link-wrap"> <a href="https://pollingersocial.co.uk/linkedin-premium-is-it-worth-it/" class="more-link">[Read more...] <span class="screen-reader-text">about LinkedIn Premium &#8211; is it worth it?</span></a></p></div></article><article class="post-9985 post type-post status-publish format-standard has-post-thumbnail category-blog category-social-media-ideas-tips tag-conversion tag-cpa tag-cta tag-facebook tag-facebook-ad-tips tag-facebook-ads tag-facebook-advertising tag-facebook-for-business tag-facebook-marketing tag-social-media entry" itemscope itemtype="https://schema.org/CreativeWork"><a class="entry-image-link" href="https://pollingersocial.co.uk/6-ways-to-reduce-facebook-ad-cost-per-acquisition/" aria-hidden="true" tabindex="-1"><img width="1000" height="633" src="https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads.png" class="alignright post-image entry-image" alt="6 ways to reduce Facebook Ad CPA" itemprop="image" srcset="https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads.png 1200w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-300x190.png 300w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-768x486.png 768w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-1024x648.png 1024w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-504x319.png 504w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-200x127.png 200w, https://pollingersocial.co.uk/wp-content/uploads/2017/02/facebook-ads-600x380.png 600w" sizes="(max-width: 1000px) 100vw, 1000px" /></a><header class="entry-header"><p class="entry-meta"><span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="https://pollingersocial.co.uk/author/jonathan-pollinger/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Jonathan Pollinger</span></a></span> / <time class="entry-time" itemprop="datePublished" datetime="2020-03-02T13:30:12+00:00">March 2, 2020</time> </p><h2 class="entry-title" itemprop="headline"><a class="entry-title-link" rel="bookmark" href="https://pollingersocial.co.uk/6-ways-to-reduce-facebook-ad-cost-per-acquisition/">6 ways to reduce Facebook Ad Cost Per Acquisition</a></h2>
+</header><div class="entry-content" itemprop="text"><p>A few clients have been in touch lately about the rising cost of Facebook's CPA (Cost Per Acquisition) or increasingly variable CPAs. Below are some ideas that &#x02026;</p><p class="more-link-wrap"> <a href="https://pollingersocial.co.uk/6-ways-to-reduce-facebook-ad-cost-per-acquisition/" class="more-link">[Read more...] <span class="screen-reader-text">about 6 ways to reduce Facebook Ad Cost Per Acquisition</span></a></p></div></article><div class="archive-pagination pagination"><div class="pagination-next alignright"><a href="https://pollingersocial.co.uk/page/2/" >Next Page &#x000BB;</a></div></div></div></div></main></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><p>&#x000A9;&nbsp;2018&#x02013;2020 Jonathan Pollinger - Social Media Trainer</p><p class="privacy-policy-link-footer">   <a href="https://pollingersocial.co.uk/privacy-policy/" title="Privacy Policy">       Privacy Policy   </a></p><nav class="nav-secondary" aria-label="Secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-secondary-menu" class="menu genesis-nav-menu menu-secondary js-superfish"><li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-96"><a href="/" aria-current="page" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://pollingersocial.co.uk/blog/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-7370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7370"><a href="https://pollingersocial.co.uk/social-media-training/" itemprop="url"><span itemprop="name">Social Media Training</span></a></li>
+<li id="menu-item-7368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7368"><a href="https://pollingersocial.co.uk/jonathan-pollinger-freelance-social-media-trainer-testimonials/" itemprop="url"><span itemprop="name">Testimonials</span></a></li>
+<li id="menu-item-7011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7011"><a href="https://pollingersocial.co.uk/about/" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://pollingersocial.co.uk/contact/" itemprop="url"><span itemprop="name">Contact</span></a></li>
+</ul></div></nav></div></footer></div><style>.flex-direction-nav { display:none; }</style><script type='text/javascript'>jQuery(document).ready(function($) {  if ( typeof jQuery.flexslider === "function" ) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 900,slideshowSpeed: 7000});}});</script><!--footer scripts--><style type="text/css" media="screen"></style><style type="text/css" media="screen"></style><script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/bbpress/templates/default/js/editor.js?ver=2.5.14-6684'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/zero-spam/zero-spam.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/lms-navigation-widget/assets/js/lms-navigation-module.js?ver=2.3.4'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.10.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=2.10.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/fadeup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/site-header.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DigitalL10n = {"mainMenu":"Menu","subMenu":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/external/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='//www.google.com/recaptcha/api.js?ver=3.1.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var RainmakerAntiSpamRecaptchaClientData = {"formSelector":"","submitSelector":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-anti-spam/assets/js/rainmaker-anti-spam-recaptcha-client.js?ver=3.1.0.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/mu-plugins/rainmaker/library/internal/rainmaker-gateway-blubrry/assets/js/test-plugin-scripts.js?ver=3.1.0.1'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/jquery.scrollTo.min.js?ver=2.1.2'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-content/themes/digital-pro/js/jquery.localScroll.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='//pollingersocial.co.uk/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type="text/javascript">jQuery(document).ready(function($) { $(".ui-tabs").tabs(); });</script>
+</body></html>

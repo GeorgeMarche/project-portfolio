@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="es-ES" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Más allá...
+</title>
+<link rel="stylesheet" href="http://www.garciabautista.net/blog/wp-content/themes/fancier/style.css" type="text/css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.garciabautista.net/blog/wp-content/themes/fancier/css/ie.css" /><![endif]-->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.garciabautista.net/blog/xmlrpc.php" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Más allá... &raquo; Feed" href="http://www.garciabautista.net/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Más allá... &raquo; RSS de los comentarios" href="http://www.garciabautista.net/blog/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.garciabautista.net\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='custom-style-css'  href='http://www.garciabautista.net/blog/wp-content/themes/fancier/css/comments.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fancy_default_font-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans&#038;ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-stats-css'  href='http://www.garciabautista.net/blog/wp-content/plugins/wp-stats/stats-css.css?ver=2.50' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.garciabautista.net/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.garciabautista.net/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.garciabautista.net/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.garciabautista.net/blog/?wordfence_logHuman=1&hid=0AE26F5330EC426ABF25EBD7DBE94AB5');
+</script><style>/* CSS added by WP Meta and Date Remover*//* Remove meta from post */
+.entry-meta {
+display:none !important;
+}
+
+/* Remove meta from home page */
+.home .entry-meta { 
+display: none; 
+}
+/* WPTheme 2015 Metadata Removal */
+.entry-footer {
+display:none !important;
+}
+
+/* WPTheme 2015 Metadata Removal */
+.home .entry-footer { 
+display: none; 
+}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<link rel="stylesheet" href="http://www.garciabautista.net/blog/wp-content/plugins/wassup/css/wassup-widget.css?ver=1.9" type="text/css" />
+<script type="text/javascript">
+//<![CDATA[
+	var screen_res=screen.width+" x "+screen.height;
+	if(screen_res==" x ") screen_res=window.screen.width+" x "+window.screen.height;
+	if(screen_res==" x ") screen_res=screen.availWidth+" x "+screen.availHeight;
+	if(screen_res!=" x "){document.cookie = "wassup_screen_res492a28a1da097b414c791f2445d4fc58=" + encodeURIComponent(screen_res)+ "; path=/blog/; domain=";}
+//]]>
+</script> 
+</head>
+
+<body class="home blog">
+
+<div id="wrapper">
+<div id="container">
+
+<div id="header">
+<div class="siteinfo">
+<h1><a href="http://www.garciabautista.net/blog/">Más allá&#8230;</a></h1></div>
+<div class="site-description">BLOG y  ARCHIVOS de  Jose Manuel García Bautista</div>
+
+		<div id="topnav">	
+		<div class="menu"><ul>
+<li class="page_item page-item-730"><a href="http://www.garciabautista.net/blog/app-jose-manuel-garcia-bautista/">►APP Jose Manuel García Bautista</a></li>
+<li class="page_item page-item-129"><a href="http://www.garciabautista.net/blog/aviso-legal/">►AVISO LEGAL</a></li>
+<li class="page_item page-item-25"><a href="http://www.garciabautista.net/blog/biografia/">►BIOGRAFÍA</a></li>
+<li class="page_item page-item-119"><a href="http://www.garciabautista.net/blog/contacto/">►CONTACTO</a></li>
+<li class="page_item page-item-2"><a href="http://www.garciabautista.net/blog/sample-page/">►MEDIOS COMUNICACIÓN</a></li>
+<li class="page_item page-item-1046"><a href="http://www.garciabautista.net/blog/%e2%96%balibros/">►MIS LIBROS</a></li>
+<li class="page_item page-item-110"><a href="http://www.garciabautista.net/blog/podcast/">►PODCAST</a></li>
+<li class="page_item page-item-244"><a href="http://www.garciabautista.net/blog/web/">►WEB</a></li>
+</ul></div>
+		
+		
+    	</div> 
+<!-- SITEINFO END -->
+<!-- TOPBANNER END -->
+
+<div class="header-search">
+	<form method="get" name="searchform" id="searchform" action="http://www.garciabautista.net/blog">
+<input type="text" value="Search" name="s" id="s" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';"/>
+</form>
+
+		</div>
+<div id="main">
+<div class="innerwrap">
+
+<div id="content">
+<div id="contentinner">
+
+<div id="post-entry">
+<div  id="post-1772" class="post-1772 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-historia">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/las-titulaciones-en-parapsicologia-y-su-realidadaceptacion-academica-en-espana/" title="LAS &#8216;TITULACIONES&#8217; EN PARAPSICOLOGÍA Y SU REALIDAD/ACEPTACIÓN ACADÉMICA EN ESPAÑA"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-Parapsicologia-2.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-Parapsicologia-2.jpg 1250w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-Parapsicologia-2-300x169.jpg 300w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-Parapsicologia-2-768x433.jpg 768w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-Parapsicologia-2-1024x578.jpg 1024w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/las-titulaciones-en-parapsicologia-y-su-realidadaceptacion-academica-en-espana/" rel="bookmark" title="LAS &#8216;TITULACIONES&#8217; EN PARAPSICOLOGÍA Y SU REALIDAD/ACEPTACIÓN ACADÉMICA EN ESPAÑA">LAS &#8216;TIT...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/las-titulaciones-en-parapsicologia-y-su-realidadaceptacion-academica-en-espana/">LAS 'TITULACIONES' EN PARAPSICOLOGÍA Y SU REALIDAD/ACEPTACIÓN ACADÉMICA EN ESPAÑA
+Por: Jose Manuel García Bautista
+En nuestra sociedad actual es mucha la oferta que recibimos a diario ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/las-titulaciones-en-parapsicologia-y-su-realidadaceptacion-academica-en-espana/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1766" class="post-1766 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-historia">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/donde-estudiar-parapsicologia/" title="¿DÓNDE ESTUDIAR PARAPSICOLOGÍA?"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-parapsicologia.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-parapsicologia.jpg 1250w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-parapsicologia-300x169.jpg 300w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-parapsicologia-768x433.jpg 768w, http://www.garciabautista.net/blog/wp-content/uploads/2020/01/CC-parapsicologia-1024x578.jpg 1024w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/donde-estudiar-parapsicologia/" rel="bookmark" title="¿DÓNDE ESTUDIAR PARAPSICOLOGÍA?">¿DÓNDE ESTUD...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/donde-estudiar-parapsicologia/">¿DÓNDE ESTUDIAR PARAPSICOLOGÍA?
+Desde su concepción la “parapsicología” se ubica al límite de los fenómenos psíquicos comunes. Si deseas estudiarla te presentamos la definición de parapsicología, ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/donde-estudiar-parapsicologia/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1750" class="post-1750 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/maldiciones-mas-alla-de-la-realidad/" title="MALDICIONES, MÁS ALLÁ DE LA REALIDAD"><img width="225" height="133" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-186-maldiciones-egipcias-2_20137096_20190228134127-1.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-186-maldiciones-egipcias-2_20137096_20190228134127-1.jpg 675w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-186-maldiciones-egipcias-2_20137096_20190228134127-1-300x178.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/maldiciones-mas-alla-de-la-realidad/" rel="bookmark" title="MALDICIONES, MÁS ALLÁ DE LA REALIDAD">MALDICIONES, M...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/maldiciones-mas-alla-de-la-realidad/">MALDICIONES, MÁS ALLÁ DE LA REALIDAD
+Por: Jose Manuel García Bautista
+Hay muchos tipos, desde la verbal hasta el conjuro o ritual, las conscientes y las inconscientes, ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/maldiciones-mas-alla-de-la-realidad/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1749" class="post-1749 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/objetos-malditos/" title="OBJETOS MALDITOS"><img width="225" height="133" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-185-maldicion-1_20133930_20190222124808.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-185-maldicion-1_20133930_20190222124808.jpg 675w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-185-maldicion-1_20133930_20190222124808-300x178.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/objetos-malditos/" rel="bookmark" title="OBJETOS MALDITOS">OBJETOS MALDIT...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/objetos-malditos/">OBJETOS MALDITOS
+Por: Jose Manuel García Bautista
+Relatamos casos de obras de arte malditas y cómo pueden llegar a transmitir esa negatividad en forma de maldición.
+En no ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/objetos-malditos/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1748" class="post-1748 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-historia">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/epidemias-mortales-en-sevilla/" title="EPIDEMIAS MORTALES EN SEVILLA"><img width="225" height="133" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-188-epidemias-en-sevilla_20144594_20190313102337.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-188-epidemias-en-sevilla_20144594_20190313102337.jpg 675w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-188-epidemias-en-sevilla_20144594_20190313102337-300x178.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/epidemias-mortales-en-sevilla/" rel="bookmark" title="EPIDEMIAS MORTALES EN SEVILLA">EPIDEMIAS MORT...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/epidemias-mortales-en-sevilla/">EPIDEMIAS MORTALES EN SEVILLA
+Por: Jose Manuel García Bautista
+La Historia nos conduce a tiempos siempre pasados, hechos cierto, hechos reales, la grandeza de otros tiempos, el ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/epidemias-mortales-en-sevilla/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1747" class="post-1747 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/casos-imposibles-y-misteriosos-de-sevilla/" title="CASOS IMPOSIBLES Y MISTERIOSOS DE SEVILLA"><img width="225" height="118" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-195-casos-misteriosos_20183185_20190517123457.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-195-casos-misteriosos_20183185_20190517123457.jpg 620w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-195-casos-misteriosos_20183185_20190517123457-300x158.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/casos-imposibles-y-misteriosos-de-sevilla/" rel="bookmark" title="CASOS IMPOSIBLES Y MISTERIOSOS DE SEVILLA">CASOS IMPOSIBL...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/casos-imposibles-y-misteriosos-de-sevilla/">CASOS IMPOSIBLES Y MISTERIOSOS DE SEVILLA
+Por: Jose Manuel García Bautista
+Los cementerios son lugares donde descansan cientos de cuerpos de fallecidos y donde a veces ocurren ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/casos-imposibles-y-misteriosos-de-sevilla/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1746" class="post-1746 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/fantasmas-apariciones-y-psicofonias/" title="FANTASMAS, APARICIONES Y PSICOFONÍAS"><img width="225" height="133" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-200-aparicion_20186100_20190522110411.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-200-aparicion_20186100_20190522110411.jpg 675w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/eca-200-aparicion_20186100_20190522110411-300x178.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/fantasmas-apariciones-y-psicofonias/" rel="bookmark" title="FANTASMAS, APARICIONES Y PSICOFONÍAS">FANTASMAS, APA...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/fantasmas-apariciones-y-psicofonias/">FANTASMAS, APARICIONES Y PSICOFONÍAS
+Por: Jose Manuel García Bautista
+Fantasmas, apariciones, psicofonías, leyendas urbanas, seres de luz, objetos voladores no identificados y muchas historias paranormales, a caballo ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/fantasmas-apariciones-y-psicofonias/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1734" class="post-1734 post type-post status-publish format-standard has-post-thumbnail hentry category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/milagro-en-el-cementerio-de-san-fernando/" title="MILAGRO EN EL CEMENTERIO DE SAN FERNANDO"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-cristo-mieles-rostro-kinh-620x34940abc.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-cristo-mieles-rostro-kinh-620x34940abc.jpg 619w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-cristo-mieles-rostro-kinh-620x34940abc-300x169.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/milagro-en-el-cementerio-de-san-fernando/" rel="bookmark" title="MILAGRO EN EL CEMENTERIO DE SAN FERNANDO">MILAGRO EN EL ...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/milagro-en-el-cementerio-de-san-fernando/">MILAGRO EN EL CEMENTERIO DE SAN FERNANDO
+Por: Jose Manuel García Bautista
+Uno de los lugares más bellos que podemos encontrar dentro del cementerio de Sevilla, del ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/milagro-en-el-cementerio-de-san-fernando/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1733" class="post-1733 post type-post status-publish format-standard has-post-thumbnail hentry category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/simbologia-oculta-en-la-iglesia-de-los-luises/" title="SIMBOLOGIA OCULTA EN LA IGLESIA DE LOS LUISES"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-Luises-Pasion-Cristo-krqH-620x349@abc.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-Luises-Pasion-Cristo-krqH-620x349@abc.jpg 620w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-Luises-Pasion-Cristo-krqH-620x349@abc-300x169.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/simbologia-oculta-en-la-iglesia-de-los-luises/" rel="bookmark" title="SIMBOLOGIA OCULTA EN LA IGLESIA DE LOS LUISES">SIMBOLOGIA OCU...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/simbologia-oculta-en-la-iglesia-de-los-luises/">SIMBOLOGIA OCULTA EN LA IGLESIA DE LOS LUISES
+Por: Jose Manuel García Bautista
+Me gusta caminar por Sevilla y admirar todo lo que nos tiene que ofrecer esta ciudad cargada ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/simbologia-oculta-en-la-iglesia-de-los-luises/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1732" class="post-1732 post type-post status-publish format-standard has-post-thumbnail hentry category-divulgacion category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/el-fantasma-de-la-barriada-de-palmete/" title="EL FANTASMA DE LA BARRIADA DE PALMETE"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-fantasma-palmete-kPiD-620x349@abc-1.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-fantasma-palmete-kPiD-620x349@abc-1.jpg 620w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-fantasma-palmete-kPiD-620x349@abc-1-300x169.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/divulgacion/" rel="category tag">Divulgación</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/el-fantasma-de-la-barriada-de-palmete/" rel="bookmark" title="EL FANTASMA DE LA BARRIADA DE PALMETE">EL FANTASMA DE...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/el-fantasma-de-la-barriada-de-palmete/">EL FANTASMA DE LA BARRIADA DE PALMETE
+Por: Jose Manuel García Bautista
+La barriada sevillana de Palmete es un lugar popular que no se ha prodigado en tener muchos ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/el-fantasma-de-la-barriada-de-palmete/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1731" class="post-1731 post type-post status-publish format-standard has-post-thumbnail hentry category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/cuando-el-hospital-y-el-paseo-mas-grande-del-mundo-estaban-en-sevilla/" title="CUANDO EL HOSPITAL Y EL PASEO MÁS GRANDE DEL MUNDO ESTABAN EN SEVILLA"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-alameda-sevilla-knEG-620x349@abc.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-alameda-sevilla-knEG-620x349@abc.jpg 620w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/ABC-alameda-sevilla-knEG-620x349@abc-300x169.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/cuando-el-hospital-y-el-paseo-mas-grande-del-mundo-estaban-en-sevilla/" rel="bookmark" title="CUANDO EL HOSPITAL Y EL PASEO MÁS GRANDE DEL MUNDO ESTABAN EN SEVILLA">CUANDO EL HOSP...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/cuando-el-hospital-y-el-paseo-mas-grande-del-mundo-estaban-en-sevilla/"> 
+CUANDO EL HOSPITAL Y EL PASEO MÁS GRANDE DEL MUNDO ESTABAN EN SEVILLA
+Por: Jose Manuel García Bautista
+Corría el siglo XVI. Catalina de Ribera y don Fadrique Henríquez de ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/cuando-el-hospital-y-el-paseo-mas-grande-del-mundo-estaban-en-sevilla/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+<div  id="post-1730" class="post-1730 post type-post status-publish format-standard has-post-thumbnail hentry category-historia category-investigacion">
+ <div class="post-meta"> 
+<div class="thumb"><a href="http://www.garciabautista.net/blog/edificios-encantados-donde-pasar-miedo-en-sevilla/" title="EDIFICIOS ENCANTADOS DONDE PASAR MIEDO EN SEVILLA"><img width="225" height="127" src="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-hospital-sanpablo-sevilla-kE7F-620x349@abc.jpg" class="aligncenter wp-post-image" alt="" srcset="http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-hospital-sanpablo-sevilla-kE7F-620x349@abc.jpg 620w, http://www.garciabautista.net/blog/wp-content/uploads/2019/07/abc-hospital-sanpablo-sevilla-kE7F-620x349@abc-300x169.jpg 300w" sizes="(max-width: 225px) 100vw, 225px" /></a></div><div class="cat"><a href="http://www.garciabautista.net/blog/category/historia/" rel="category tag">Historia</a>, <a href="http://www.garciabautista.net/blog/category/investigacion/" rel="category tag">Investigación</a></div><div class="tim"></div>
+<h2><a href="http://www.garciabautista.net/blog/edificios-encantados-donde-pasar-miedo-en-sevilla/" rel="bookmark" title="EDIFICIOS ENCANTADOS DONDE PASAR MIEDO EN SEVILLA">EDIFICIOS ENCA...</a></h2>
+<div class="post-author">
+						Posted by </div>
+<hr>
+
+<div class="post-content"><a href="http://www.garciabautista.net/blog/edificios-encantados-donde-pasar-miedo-en-sevilla/">EDIFICIOS ENCANTADOS DONDE PASAR MIEDO EN SEVILLA
+
+Por: Jose Manuel García Bautista
+Reconozco que todas las ciudades del mundo tienen mil y un lugares evocadores que nos ...</a></div>
+
+<!--<div class="post-date"></div>-->
+<!-- <a class="readmore" href="http://www.garciabautista.net/blog/edificios-encantados-donde-pasar-miedo-en-sevilla/#more" class="more-link">Read more</a>-->
+</div>
+</div><!-- POST META END -->
+
+	<div class="clearfix"></div>
+				<div class="posts-navigation">
+					<div class="posts-navigation-next"><a href="http://www.garciabautista.net/blog/page/2/" >Previous</a></div>
+					<div class="posts-navigation-prev"></div>
+					<div class="clearfix"></div>
+				</div>
+
+</div><!-- POST ENTRY END -->
+
+
+
+</div><!-- CONTENTINNER END -->
+
+</div><!-- CONTENT END -->
+
+
+
+
+
+
+<div class="clearfix"></div>
+</div><!-- INNERWRAP END -->
+</div><!-- MAIN END -->
+</div><!-- CONTENTINNER END -->
+	</div> <!-- content -->
+<div id="footer">
+	<div class="wrap">
+		<div class="widgets_area">
+			 <li id="calendar-4" class="widget widget_calendar"><h6>Calendario</h6><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>octubre 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Lunes">L</th>
+		<th scope="col" title="Martes">M</th>
+		<th scope="col" title="Miércoles">X</th>
+		<th scope="col" title="Jueves">J</th>
+		<th scope="col" title="Viernes">V</th>
+		<th scope="col" title="Sábado">S</th>
+		<th scope="col" title="Domingo">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.garciabautista.net/blog/2020/01/">&laquo; Ene</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td id="today">14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li><li id="rss-4" class="widget widget_rss"><h6><a class="rsswidget" href="http://feeds.feedburner.com/vocesdelmisterio"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.garciabautista.net/blog/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget" href="https://revistavocesdelmisterio.wordpress.com/">Información RSS</a></h6><ul><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/14/voces-del-misterio-investigacion-2-fenomenos-paranormales-en-la-casa-del-distrito-centro-2/'>Voces del Misterio INVESTIGACIÓN 2: Fenómenos paranormales en la casa del Distrito Centro</a></li><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/13/rutas-misteriosas-16-y-17-de-octubre-sevilla-paranormal-y-alameda-paranormal-4/'>Rutas misteriosas 16 y 17 de octubre: SEVILLA PARANORMAL y ALAMEDA PARANORMAL</a></li><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/13/voces-del-misterio-especial-profecias-del-covid-19-sus-origenes-conspiracionmisterios-y-cronica-de-la-pandemia-2/'>Voces del Misterio ESPECIAL: Profecías del Covid-19, sus orígenes, Conspiración,misterios y crónica de la Pandemia</a></li><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/13/ministerio-de-defensa-entrega-archivos-de-un-caso-ovni-en-bariloche-argentina/'>Ministerio de Defensa entrega archivos de un caso OVNI en Bariloche, Argentina</a></li><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/13/nobel-de-fisica-2020-afirma-que-si-hubo-un-antes-del-big-bang-e-incluso-podemos-verlo/'>Nobel de Física 2020 afirma que sí hubo un antes del Big Bang e incluso podemos verlo</a></li><li><a class='rsswidget' href='https://revistavocesdelmisterio.wordpress.com/2020/10/12/rutas-misteriosas-16-y-17-de-octubre-sevilla-paranormal-y-alameda-paranormal-5/'>Rutas misteriosas 16 y 17 de octubre: SEVILLA PARANORMAL y ALAMEDA PARANORMAL</a></li></ul></li><li id="recent-comments-4" class="widget widget_recent_comments"><h6>Comentarios recientes</h6><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.garciabautista.com' rel='external nofollow' class='url'>Gª. Bautista</a></span> en <a href="http://www.garciabautista.net/blog/sample-page/#comment-104">►MEDIOS COMUNICACIÓN</a></li><li class="recentcomments"><span class="comment-author-link">Jorge Fernández Gentile</span> en <a href="http://www.garciabautista.net/blog/sample-page/#comment-103">►MEDIOS COMUNICACIÓN</a></li></ul></li>		<li id="recent-posts-4" class="widget widget_recent_entries">		<h6>Entradas recientes</h6>		<ul>
+					<li>
+				<a href="http://www.garciabautista.net/blog/las-titulaciones-en-parapsicologia-y-su-realidadaceptacion-academica-en-espana/">LAS &#8216;TITULACIONES&#8217; EN PARAPSICOLOGÍA Y SU REALIDAD/ACEPTACIÓN ACADÉMICA EN ESPAÑA</a>
+						</li>
+					<li>
+				<a href="http://www.garciabautista.net/blog/donde-estudiar-parapsicologia/">¿DÓNDE ESTUDIAR PARAPSICOLOGÍA?</a>
+						</li>
+					<li>
+				<a href="http://www.garciabautista.net/blog/maldiciones-mas-alla-de-la-realidad/">MALDICIONES, MÁS ALLÁ DE LA REALIDAD</a>
+						</li>
+					<li>
+				<a href="http://www.garciabautista.net/blog/objetos-malditos/">OBJETOS MALDITOS</a>
+						</li>
+					<li>
+				<a href="http://www.garciabautista.net/blog/epidemias-mortales-en-sevilla/">EPIDEMIAS MORTALES EN SEVILLA</a>
+						</li>
+				</ul>
+		</li>		<li id="pages-3" class="widget widget_pages"><h6>Páginas</h6>		<ul>
+			<li class="page_item page-item-730"><a href="http://www.garciabautista.net/blog/app-jose-manuel-garcia-bautista/">►APP Jose Manuel García Bautista</a></li>
+<li class="page_item page-item-129"><a href="http://www.garciabautista.net/blog/aviso-legal/">►AVISO LEGAL</a></li>
+<li class="page_item page-item-25"><a href="http://www.garciabautista.net/blog/biografia/">►BIOGRAFÍA</a></li>
+<li class="page_item page-item-119"><a href="http://www.garciabautista.net/blog/contacto/">►CONTACTO</a></li>
+<li class="page_item page-item-2"><a href="http://www.garciabautista.net/blog/sample-page/">►MEDIOS COMUNICACIÓN</a></li>
+<li class="page_item page-item-1046"><a href="http://www.garciabautista.net/blog/%e2%96%balibros/">►MIS LIBROS</a></li>
+<li class="page_item page-item-110"><a href="http://www.garciabautista.net/blog/podcast/">►PODCAST</a></li>
+<li class="page_item page-item-244"><a href="http://www.garciabautista.net/blog/web/">►WEB</a></li>
+		</ul>
+		</li><li id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.garciabautista.net/blog/">
+				<div>
+					<label class="screen-reader-text" for="s">Buscar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Buscar" />
+				</div>
+			</form></li><li id="text-2" class="widget widget_text"><h6>Correo electrónico</h6>			<div class="textwidget"><p>correo@garciabautista.net</p>
+<p>© Jose Manuel García Bautista</p>
+<p>Prohibida la reproducción, total o parcial, de cualquier texto sin la autorización del autor. Protegido bajo derechos de autor y amparado por la Ley.</p>
+</div>
+		</li>		</div>
+		
+				  <div class="clear"></div>	  
+	
+					
+		</div>
+<div id="footer-right">
+<a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+			<span class="sep"> | </span>
+			Theme: Fancier by <a href="http://wpmole.com/" rel="designer">WPMole</a>.</div><!-- FOOTER right END -->
+<div class="clearfix"></div>
+
+</div><!-- FOOTER END -->
+
+</div><!-- CONTAINER END -->
+</div><!-- WRAPPER END -->
+<!--
+<p class="small"> WassUp 1.9 timestamp: 2020-10-14 06:46:10PM UTC (08:46PM)<br />
+Si el tiempo mostrado no coincide con el real, es que la página esta en caché.</p> -->
+<script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.0";
+                    var wp_product_version = "wpp-5.3.0";
+                    var wp_blog_version = "4.7";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.7","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.0","anonymous_profile_id":"wp-f6aa7810829bfc3a857d176937ec1e25","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":true,"addthis_sidebar_enabled":true,"addthis_mobile_toolbar_enabled":true,"addthis_above_showon_home":true,"addthis_above_showon_posts":true,"addthis_above_showon_pages":true,"addthis_above_showon_archives":true,"addthis_above_showon_categories":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"home","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {"share":{"theme":"transparent","position":"left","numPreferredServices":5},"sharedock":{"counts":true,"position":"bottom","numPreferredServices":4}};
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=wp-f6aa7810829bfc3a857d176937ec1e25 "
+                    async="async"
+                >
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <link rel='stylesheet' id='addthis_output-css'  href='http://www.garciabautista.net/blog/wp-content/plugins/addthis/css/output.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.garciabautista.net/blog/wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+<!--wp_footer--></body>
+</html>

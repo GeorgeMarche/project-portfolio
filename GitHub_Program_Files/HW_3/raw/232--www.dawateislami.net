@@ -1,0 +1,2131 @@
+	<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class=""> <!--<![endif]-->
+<head>
+	  		<title>Learn about Islam and Islamic knowledge with an Islamic Organization</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+<meta name="build-version" content="2.0.0"/>
+<meta name="build-date" content="Monday, May 20, 2019" />
+<meta name="description" content="Dawat e Islami is an international non-profit Islamic organization which is propagating Islamic knowledge and enlighting the message of Islam across the globe.">
+<meta name="keywords" content="islamic website, islamic organization, islam, islamic knowledge, islamic information">
+	
+<meta property="og:title" content="Dawateislami - Islamic Website of an Islamic Organization">	
+<meta property="og:url" content="https://www.dawateislami.net">
+<meta property="og:description" content="Islamic website of an Islamic organization for preaching & educating Islam it's knowledge and information in the light of Quran and Sunnah.">
+<meta property="og:image" content="https://www.dawateislami.net/img/logo-dawat-e-islami_share.jpg">
+	
+<meta property="fb:pages" content="147615988064" />
+<meta property="fb:pages" content="202140939917822" />
+<meta property="fb:pages" content="306212019416482" />
+<meta property="fb:pages" content="224624054330641" />
+<meta property="fb:pages" content="479065435458297" />
+<meta name="google-site-verification" content="lsKCgyB2EIEC8VR7HzkCxzqLVo9tpPj7WMe10ReGfmg" />
+<link href="https://www.dawateislami.net/" rel="canonical">
+
+
+
+
+<!-- Favicon -->
+
+<link rel="icon" type="image/x-icon" href="/img/favicon.ico?2.0.0">
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?2.0.0">
+	  	  
+  <!-- Normalize CSS -->
+<link rel="stylesheet" href="/css/normalize.css">
+<!-- Main CSS -->
+<link rel="stylesheet" href="/css/main.css">
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<!-- Animate CSS -->
+<link rel="stylesheet" href="/css/animate.min.css">
+<!-- Font-awesome CSS-->
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<!-- Owl Caousel CSS -->
+<link rel="stylesheet" href="/vendor/OwlCarousel/owl.carousel.min.css">
+<link rel="stylesheet" href="/vendor/OwlCarousel/owl.theme.default.min.css">
+<!-- Main Menu CSS -->
+<link rel="stylesheet" href="/css/meanmenu.min.css">
+<!-- Magnific CSS -->
+<link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
+<!-- Switch Style CSS -->
+<link rel="stylesheet" href="/css/hover-min.css">
+<!-- Madani Channel Style CSS -->
+<link rel="stylesheet" href="/css/channel.css">
+<link rel="stylesheet" href="/css/custom-bootstrap-margin-padding.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/style.css">
+<!-- For IE -->
+<link rel="stylesheet" type="text/css" href="/css/ie-only.css" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/css/flag-icon.min.css" rel="stylesheet">
+<!-- Modernizr Js -->
+<script src="/js/modernizr-2.8.3.min.js"></script>
+
+<link rel="icon" href="https://www.dawateislami.net/images/logo-color.png">
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9851062-2"></script>		<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	
+	gtag('config', 'UA-9851062-2');		</script>
+</head>
+
+<body>
+<!--[if lt IE 8]>
+<p class="browserupgrade">You are using an 
+<strong>outdated</strong> browser. Please 
+<a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
+</p>
+<![endif]-->
+<!-- Add your site or application content here -->
+<!-- Preloader Start Here -->
+<!-- <div id="preloader"></div> -->
+<!-- Preloader End Here -->
+<div id="wrapper" class="wrapper">
+		<!-- Header Area Start Here -->
+		
+		<header>
+    <div id="header-layout1" class="header-style1">
+        <div class="main-menu-area bg-primarytextcolor header-menu-fixed" id="sticker">
+            <div class="container">
+              
+                <div class="row no-gutters d-flex align-items-center row_Res_height">
+                    <div class="col-lg-12 text-center">
+                      <div class="d-sm-none d-md-none d-lg-block d-none pt-10">
+                        <img src="/assets/khutba_desktop.png" alt="khutba" style="height:28px;">
+                      </div>
+                      <div class="d-md-block d-lg-none d-sm-block pt-5 pb-5">
+                        <img src="/assets/bismillah_responsive.png" alt="khutba" class="res-khutba">
+                      </div>
+                    </div>
+                    <div class="col-lg-1 d-none d-lg-block">
+                        <div class="logo-area">
+                            <a href="/">
+                                <img src="/img/logo.png" alt="logo" class="img-fluid" style="height: 35px;">
+                            </a>
+                        </div>
+                    </div>
+                   
+                    <div class="d-md-block d-lg-none top-header-dropdown">
+                        <div class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="javascript:void(0);" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe" aria-hidden="true"></i> Country</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown09">
+                 <a class="dropdown-item" href="https://news.dawateislami.net"><span class="flag-icon flag-icon-pk"> </span>  Pakistan</a>
+                                 <a class="dropdown-item" href="http://www.dawateislamiusa.com"><span class="flag-icon flag-icon-us"> </span>  USA</a>
+                                  <a class="dropdown-item" href="https://www.dawateislami.net.au"><span class="flag-icon flag-icon-au"> </span>  Australia</a>
+                                  <a class="dropdown-item" href="http://www.dawateislamicanada.net"><span class="flag-icon flag-icon-ca"> </span>  Canada</a>
+                                  <a class="dropdown-item" href="http://www.dawateislamikorea.com"><span class="flag-icon flag-icon-kr"> </span>  Korea</a>
+                                  <a class="dropdown-item" href="https://www.dawateislami.net/hongkong/"><span class="flag-icon flag-icon-hk"> </span>  Hong Kong</a>
+                            </div>
+                        </div>
+                        <div class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe" aria-hidden="true"></i> Language</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown09">
+                                								<a class="dropdown-item" href="https://www.arabicdawateislami.net/"><i class="fa fa-globe" aria-hidden="true"></i> Arabic</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-10 col-lg-10 position-static min-height-none">
+                        <div class="ne-main-menu">
+                            <nav id="dropdown">
+                                <ul>
+                                  <li class="active ">
+                                       <a href="/">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us">About Us</a>
+                                    </li>
+                                    <li><a href="https://www.dawateislami.net/medialibrary/">Media</a></li>
+                                    <li>
+                                        <a href="https://prayertimes.dawateislami.net/">Prayer Timings</a>
+                                    </li>
+                                    
+                                    <li>
+                                       <a href="/rohaniilaj/istikhara">Ruhani Ilaj</a>
+                                    </li>
+                                    
+                                    
+                                     <li>
+                                        <a href="#">Donation </a>
+                                        <ul class="ne-dropdown-menu">
+                                            <li class="active">
+                                               <a href="/make-a-donation/">Why Donate to us?</a>
+                                            </li>
+                                            <li>
+                                               <a href="/onlinedonation/">Donate Now</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    
+                                     <li>
+                                        <a href="#">Magazine </a>
+                                        <ul class="ne-dropdown-menu">
+                                            <li class="active">
+                                               <a href="http://www.dawateislami.net/magazine/">Online Magazine</a>
+                                            </li>
+                                            <li>
+                                               <a href="https://www.dawateislami.net/magazine/ur/archive">Archive Magazine</a>
+                                            </li>
+                                            <li>
+                                               <a href="http://www.tcscouriers.com/pk/Tracking/Default.aspx">TCS Tracking</a>
+                                            </li>
+                                            <li>
+                                              <a href="http://mulphilog.com/">OCS Tracking</a>
+                                            </li>
+                                            <li>
+                                               <a href="http://ep.gov.pk/track.asp">Post Office Tracking</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    
+                                 
+                                    <li><a href="/downloads/islamic-apps">Mobile Apps</a></li>
+
+                                      <li>
+                                        <a href="#">More Services</a>
+                                        <ul class="ne-dropdown-menu">
+                      <li>
+                        <a href="#" class="new-class-for-lg-block" id="new_class_for_lg_block"><i class="fa fa-chevron-left"></i> &nbsp;&nbsp; Personalities </a>
+                        <ul class="ne-dropdown-menu new-class-for-lg-none" style="left: -240px !important;
+  top: 0px !important;
+  background:#2cd0b2 !important;" id="new_class_for_lg_none" >
+                           <li><a href="http://www.aboutmuhammad.net" target="_blank">The Holy Prophet صلی اللہ علیہ واٰلہ وسلم</a></li>
+                           <li><a href="https://abdulqadirjilani.net/" target="_blank">Sheikh Abdul Qadir Jilani</a></li>
+                           <li><a href="http://imamahmedraza.com" target="_blank">Imam Ahmed Raza Khan</a></li>
+                           <li><a href="http://www.ilyasqadri.com" target="_blank">About Ameer-e-Ahlesunnat</a></li>
+                           <li><a href="https://personalities.dawateislami.net/hajiubaidraza/" target="_blank">Haji Ubaid Ahmed Raza</a></li>
+                        </ul>
+                      </li>
+                      <!--  -->
+                      <li>
+                        <a href="#" class="new-class-for-lg-block" id="new_class_for_lg_block_two"><i class="fa fa-chevron-left"></i>&nbsp;&nbsp; Departments </a>
+                        <ul class="ne-dropdown-menu new-class-for-lg-none" id="new_class_for_lg_none_two"  style="left: -240px !important;
+  top: 0px !important;
+  background:#2cd0b2 !important;">
+ <li><a href="https://daruliftaahlesunnat.net/home/ur">Darulifta Ahlesunnat</a></li>
+<li><a href="https://www.dawateislami.org/">Organizational website</a></li>
+
+
+ <li><a href="https://www.dawateislami.net/islamicportal/ur/farzuloom/">Farz Uloom</a></li>
+
+  <li><a href="http://www.darulmadinah.net/">Dar-ul-Madina</a></li>
+
+  <li><a href="https://departments.dawateislami.net/islamibahan/">Islamic Sisters</a></li>
+
+   <li><a href="https://www.jamiatulmadina.net/">Jamia-tul-Madina</a></li>
+
+  <li><a href="https://departments.dawateislami.net/madaniqafila/">Madani Qafila</a></li>
+
+   <li><a href="https://www.quranteacher.net/">Madrasa-tul-Madina Online</a></li>
+
+<li><a href="https://www.madrasatulmadina.net/">Madarsa tul Madinah</a></li>
+
+  <li><a href="https://hajjumrah.dawateislami.net/">Hajj-o-Umrah</a></li>
+
+  <li><a href="https://departments.dawateislami.net/majlisetarajim/">Majlis Tarajim</a></li>
+
+    <li><a href="https://tajheezotakfeen.dawateislami.net">Tajheez-o-Takfeen</a></li>
+
+  <li><a href="https://departments.dawateislami.net/tawizateattaria">Tawizat-e-Attaria</a></li>
+
+   <li><a href="http://www.madanicourses.com/">Madani Courses</a></li>
+
+
+  <li><a href="https://departments.dawateislami.net/ahkamehajj/">Ahkam-e-Hajj</a></li>
+
+  <li><a href="https://madanichannel.tv/islam/streaming/watch-live-madani-channel.htm">madani channel</a></li>
+
+  <li><a href="https://dawateislami.social/">Social Media</a></li>
+
+
+  <li><a href="https://departments.dawateislami.net/madanibaharain/">Madani Baharain</a></li> 
+  
+
+  <li><a href="https://tree-plantation.dawateislami.net/">Tree Plantation</a></li>
+
+  <li><a href="https://tajiran.dawateislami.net/">Majlis Tajiran</a></li>
+
+    <li><a href="https://buildamasjid.net/">Khuddam-ul-Masajid</a></li>
+
+
+                        </ul>
+                      </li>
+                      <!--  -->
+                    <!--   <li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments <i class="fa fa-chevron-down"></i></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="http://departs.dawateislami.net/html/faizanequran/">Faizan-e-Quran</a></li>
+                            <li><a href="http://departs.dawateislami.net/html/madanibaharain/">Madani Baharain</a></li> 
+                            <li><a href="http://madaniinamat.blogspot.com/">Madani Inamaat</a></li>
+                            <li><a href="http://departs.dawateislami.net/html/majlis-khususi-islami-bhai/">Majlis Khususi Islami Bhai</a></li>
+                            <li><a href="http://departs.dawateislami.net/html/shobaetaleem/">Shoba Taleem</a></li>
+                            <li><a href="http://departs.dawateislami.net/html/khuddamulmasajid/">Khuddam-ul-Masajid</a></li>
+                            <li><a href="https://www.dawateislami.net/islamicportal/ur/farzuloom/">Farz Uloom</a></li>
+                            <li><a href="http://www.darulmadinah.net/">Dar-ul-Madina</a></li>
+                            <li><a href="https://departments.dawateislami.net/islamibahan/">Islamic Sisters</a></li>
+                            <li><a href="https://www.jamiatulmadina.net/">Jamia-tul-Madina</a></li>
+                            <li><a href="https://departments.dawateislami.net/madaniqafila/">Madani Qafila</a></li>
+                            <li><a href="https://www.quranteacher.net/">Madrasa-tul-Madina Online</a></li>
+                            <li><a href="https://www.madrasatulmadina.net/">Madarsa tul Madinah</a></li>
+                            <li><a href="https://hajjumrah.dawateislami.net/">Hajj-o-Umrah</a></li>
+                          <li><a href="https://departments.dawateislami.net/toqeet/">Majlis Tauqeet</a></li> 
+                            <li><a href="https://departments.dawateislami.net/majlisetarajim/">Majlis Tarajim</a></li>
+                            <li><a href="https://tajheezotakfeen.dawateislami.net">Tajheez-o-Takfeen</a></li>
+                            <li><a href="https://departments.dawateislami.net/tawizateattaria">Tawizat-e-Attaria</a></li>
+                            <li><a href="http://www.madanicourses.com/">Madani Courses</a></li>
+                            <li><a href="https://departments.dawateislami.net/ahkamehajj/">Ahkam-e-Hajj</a></li>
+                            <li><a href="https://dawateislami.social/">Social Media</a></li>
+                            <li><a href="https://departments.dawateislami.net/madanibaharain/">Madani Baharain</a></li>
+                            <li><a href="https://tree-plantation.dawateislami.net/">Tree Plantation</a></li>
+                            <li><a href="https://tajiran.dawateislami.net/">Majlis Tajiran</a></li>
+                            <li><a href="https://buildamasjid.net/">Khuddam-ul-Masajid</a></li>
+                          </ul>
+
+                          </li>
+                      </li> -->
+                      <li>
+                                           <a href="/careers/">Careers</a>
+                                        </li>
+                      <li>
+                                           <a href="/blog/">Blog</a>
+                                        </li>
+                                <li><a href="/gallery/">Gallery</a></li>
+                                <li><a href="/downloads/">Downloads</a></li>
+                      <li><a href="/pamphlets/">Haftawar Bayanat</a></li>
+                      <li><a href="/radio">Radios</a></li>
+                      <li><a href="https://news.dawateislami.net">Updates</a></li>
+                      
+                      <li><a href="/careers/volunteer">Become a Volunteer</a></li>
+                      <li><a href="https://www.dawateislami.net/medialibrary/filter?cid=278">Public Service Message</a></li>
+                      <li><a href="/map">Location</a></li>
+                      <!--<li class="visible-sm"><a href="/prayertimes/">Prayer Timings</a></li>-->
+                                <li><a href="/feedback">Feedback</a></li>
+                                <!-- <li><a href="/about-us">About Us</a></li> -->
+                                        </ul>
+                                    </li>
+                                    
+                                    
+                                    
+                                    
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                 
+           
+                </div>
+            </div>
+      <section class="bg-accent border-bottom add-cus-top-margin">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6 col-md-12 col-sm-12" style="padding-right: 0px;    padding-left: 9px;">
+                <ul class="news-info-list text-center--md" style="width: 100%;">
+                  <li>
+                     <a href="https://www.dawateislami.net/quran/" onclick="gtagClick('Home-Quran','Al-Quran','https://www.dawateislami.net/quran/')" class="" style="color: #444444;"><img src="/resources/assets/quran-icon.png" style="height: 20px;"> Quran</a></li>
+                  <li>
+                     <a href="https://www.dawateislami.net/bookslibrary/" onclick="gtagClick('Home-Books-Library','Books Library','https://www.dawateislami.net/bookslibrary/')" style="color: #444444;"><img src="/resources/assets/book-icon.png" style="height: 20px;"> Books</a></li>
+                  <li>
+                     <a href="https://www.quranteacher.net" onclick="gtagClick('Home-Online Courses','Online Courses','https://www.quranteacher.net')" style="color: #444444;"><img src="/resources/assets/online.png" style="height: 20px;"> Online Courses</a></li>
+                  <li class="d-lg-none ">
+                     <a href="https://www.dawateislami.net/islam/streaming/watch-live-madani-channel.htm" style="color: #444444;"><img src="/resources/assets/channel_logo.png" style="height: 25px;margin-top: -9px;"> Madani Channel</a>
+                  </li>
+                  
+                </ul>
+              </div>
+              <div class="col-lg-6 col-md-3 col-sm-3 d-none d-lg-block d-md-none d-sm-none" style=" padding: 0px 5px;">
+                <div class="row">
+                <div class="col-lg-5 p-0 text-right">
+                  <a href="/islam/streaming/watch-live-madani-channel.htm" class="madani-channel"><img src="/resources/assets/channel_logo.png" style="height: 25px;margin-top: -9px;"> Madani Channel</a>
+                </div>
+                <div class="nav-item dropdown col-lg-3 text-right p-0">
+                  <a class="select-dropdown dropdown-toggle" href="javascript:void(0);" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-flag" aria-hidden="true"></i> Country</a>
+                  <div class="dropdown-menu" aria-labelledby="dropdown09" style="    width: 95%;">
+                    <a class="dropdown-item" href="https://dawateislami.co.uk"><span class="flag-icon flag-icon-gb"> </span>  UK</a>
+                    <a class="dropdown-item" href="http://www.dawateislamiusa.com"><span class="flag-icon flag-icon-us"> </span>  USA</a>
+                    <a class="dropdown-item" href="https://www.dawateislami.net.au"><span class="flag-icon flag-icon-au"> </span>  Australia</a>
+                    <a class="dropdown-item" href="http://www.dawateislamicanada.net"><span class="flag-icon flag-icon-ca"> </span>  Canada</a>
+                    <a class="dropdown-item" href="http://www.dawateislamikorea.com"><span class="flag-icon flag-icon-kr"> </span>  Korea</a>
+                    <a class="dropdown-item" href="https://www.dawateislami.net/hongkong/"><span class="flag-icon flag-icon-hk"> </span>  Hong Kong</a>
+                  </div>
+                </div>
+                <div class="nav-item dropdown col-lg-4 text-left p-0">
+                  <a class="select-dropdown-language dropdown-toggle" href="#" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe" aria-hidden="true"></i> Language</a>
+                  <div class="dropdown-menu" aria-labelledby="dropdown09">
+                    <a class="dropdown-item" href="/ar"><i class="fa fa-globe" aria-hidden="true"></i> Arabic</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        </div>
+    
+    </div>
+</header>  		
+		
+		
+            <!-- Header Area End Here -->
+            <!-- News Info List Area Start Here -->
+
+            <section style=" height: 130px;background-color: white;"></section>
+            <!-- News Info List Area End Here -->
+            <!-- Top Story Area Start Here -->
+           
+			<section class="bg-body section-space-default pad_res pb-0" >
+			    <div class="container">
+				        <div class="row">
+				           <div class="col-lg-8 col-md-12">
+                <div class="mb-20-r ne-isotope">
+                    <div class="topic-border color-cinnabar mb-30">
+                        <div class="topic-box-lg color-cinnabar">Announcements</div>
+                        
+                    </div>
+                    <div class="featuredContainer" style="position: relative; height: 536px;">
+                        <div class="row politics" style="position: absolute; left: 0px; top: 0px;">
+						<div class="col-md-6 col-sm-12">
+                                <div class="img-overlay-70 img-scale-animate mb-30">
+                                    <a href="https://news.dawateislami.net/" onclick="gtagClick('Home-Announcements','Madani News','https://news.dawateislami.net/')">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/promotional-banner/630-dawateislami-news.jpg" alt="Madani News" class="img-fluid width-100" style="height: 500px;">
+                                    </a>
+                                    <div class="mask-content-lg">
+                                        <h2 class="title-medium-light size-lg">
+                                            <a href="https://news.dawateislami.net/" onclick="gtagClick('Home-Announcements','Madani News','https://news.dawateislami.net/')">Dawateislami Kay Tehat Madani Kamon Ki Updates Janne Kay Liay Visit Kijiye</a>
+                                        </h2>
+                                    </div>
+                                </div>
+                         </div>
+                            <div class="col-md-6 col-sm-12">
+
+							<div class="media mb-25">
+                                    <a class="width38-lg width40-md img-opacity-hover" href="https://news.dawateislami.net/muktalif-maqamat-per-audition-ka-silsila" onclick="gtagClick('Home-Announcements','Gujrat, Wah Cantt aur Sargodha Me Auditions','https://news.dawateislami.net/muktalif-maqamat-per-audition-ka-silsila')">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3078-zehni-azmaish.jpg" alt="Gujrat, Wah Cantt aur Sargodha Me Auditions" class="img-fluid" style="width: 144px; height: 104px;">
+                                    </a>
+                                    <div class="media-body">
+                                        <h3 class="title-medium-dark size-md mb-none">
+                                            <a href="https://news.dawateislami.net/muktalif-maqamat-per-audition-ka-silsila" onclick="gtagClick('Home-Announcements','Gujrat, Wah Cantt aur Sargodha Me Auditions','https://news.dawateislami.net/muktalif-maqamat-per-audition-ka-silsila')">Gujrat, Wah Cantt aur Sargodha Me Auditions</a>
+                                        </h3>
+										<p style="font-size: 15px;"  class="mb-0">Zehni Azmaish Season 12 Kay Liay Auditions Jari</p>
+                                    </div>
+					</div>
+					
+						<div class="media mb-25">
+                                    <a class="width38-lg width40-md img-opacity-hover" href="https://news.dawateislami.net/18-october-ko-students-ijtimaa-hoga" onclick="gtagClick('Home-Announcements','Students Ijtima - 18-Oct-2020','https://news.dawateislami.net/18-october-ko-students-ijtimaa-hoga')">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3082-student-ijitma.jpg" alt="Students Ijtima - 18-Oct-2020" class="img-fluid" style="width: 144px; height: 104px;">
+                                    </a>
+                                    <div class="media-body">
+                                        <h3 class="title-medium-dark size-md mb-none">
+                                            <a href="https://news.dawateislami.net/18-october-ko-students-ijtimaa-hoga" onclick="gtagClick('Home-Announcements','Students Ijtima - 18-Oct-2020','https://news.dawateislami.net/18-october-ko-students-ijtimaa-hoga')">Students Ijtima - 18-Oct-2020</a>
+                                        </h3>
+										<p style="font-size: 15px;" class="mb-0">Universities, Colleges aur Schools Kay Students Zaror Shirkat Karen</p>
+                                    </div>
+						</div>
+						
+						<div class="media mb-25">
+                                    <a class="width38-lg width40-md img-opacity-hover" href="https://www.quranteacher.net/quran-memorization-course" onclick="gtagClick('Home-Announcements','Apne Bachon Ko Hafiz-e-Quran Banaeay','https://www.quranteacher.net/quran-memorization-course')">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3075-hifz-quran.jpg" alt="Apne Bachon Ko Hafiz-e-Quran Banaeay" class="img-fluid" style="width: 144px; height: 104px;">
+                                    </a>
+                                    <div class="media-body">
+                                        <h3 class="title-medium-dark size-md mb-none">
+                                            <a href="https://www.quranteacher.net/quran-memorization-course" onclick="gtagClick('Home-Announcements','Apne Bachon Ko Hafiz-e-Quran Banaeay','https://www.quranteacher.net/quran-memorization-course')">Bachon Ko Hafiz-e-Quran Banaeay</a>
+                                        </h3>
+										<p style="font-size: 15px;" class="mb-0">Abhi Online Course Me Admission Lijiye</p>
+                                    </div>
+						</div>
+						
+
+					
+									 <div class="media mb-25">
+                                    <a class="width38-lg width40-md img-opacity-hover" href="https://news.dawateislami.net/islambad-me-nomuslim-ka-qubool-e-isalam" onclick="gtagClick('Home-Announcements','Welcome to Islam','https://news.dawateislami.net/islambad-me-nomuslim-ka-qubool-e-isalam')">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3058-new-muslims.jpg" alt="Welcome to Islam" class="img-fluid" style="width: 144px; height: 104px;">
+                                    </a>
+                                    <div class="media-body">
+                                        <h3 class="title-medium-dark size-md mb-none">
+                                            <a href="https://news.dawateislami.net/islambad-me-nomuslim-ka-qubool-e-isalam" onclick="gtagClick('Home-Announcements','Welcome to Islam','https://news.dawateislami.net/islambad-me-nomuslim-ka-qubool-e-isalam')">Welcome to Islam</a>
+                                        </h3>
+										<p style="font-size: 15px;"  class="mb-0">Islamabad Me Aik Non-Muslim Ne Islam Qabol Karlia. Detail</p>
+                                    </div>
+                   </div>
+					
+					
+					
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+				           <div class="sidebar-break-md col-lg-4 col-md-12">
+                <div class="sidebar-box">
+                    <div class="topic-border color-apple mb-30 width-100">
+                        <div class="topic-box-lg color-apple">Ameer-e-Ahle Sunnat</div>
+                    </div>
+					<div class="mb-25">
+                        <div class="img-scale-animate mb-20">
+                            <a href="https://www.dawateislami.net/medialibrary/81805" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Mobile Game Kay Zareay Jua (Gambling)','https://www.dawateislami.net/medialibrary/81805')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/promotional-banner/786-mobile-game-k-zarye-jouwa.jpg" alt="Mobile Game Kay Zareay Jua (Gambling)" class="img-fluid width-100">
+                            </a>
+                        </div>
+                        <h3 class="title-semibold-dark size-lg mb-15">
+                            <a href="https://www.dawateislami.net/medialibrary/81805" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Mobile Game Kay Zareay Jua (Gambling)','https://www.dawateislami.net/medialibrary/81805')">Mobile Game Kay Zareay Jua (Gambling)</a>
+                        </h3>
+                        <p>Juay Kay Zareay Paise Hasil Karna Kaisa? Janeay Ameer-e-Ahle Sunnat aur Mufti Sahab Ki Zabani
+                        </p>
+                    </div>
+                    <div class="media mb-10">
+                        <a class="img-opacity-hover" href="https://news.dawateislami.net/shan-e-imam-ahmad-raza" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Haftawar Risala','https://news.dawateislami.net/shan-e-imam-ahmad-raza')">
+                            <img src="https://data2.dawateislami.net/static/images/main-website/banners/3086-shan-e-imam-ahmed-raza.jpg" alt="news" class="img-fluid" style="width: 94px; height: 69px;">
+                        </a>
+                        <div class="media-body">
+                            <!-- <div class="post-date-dark">
+                                <ul>
+                                    <li>
+                                        <span>
+                                            <i class="fa fa-calendar" aria-hidden="true"></i>
+                                        </span>07 May To 04 June, 2019</li>
+                                </ul>
+                            </div> -->
+                            <h3 class="title-medium-dark size-md mb-none">
+                                <a href="https://news.dawateislami.net/shan-e-imam-ahmad-raza" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Haftawar Risala','https://news.dawateislami.net/shan-e-imam-ahmad-raza')"> Haftawar Risala</a>
+                            </h3>
+                            <p style="font-size: 15px;">
+                                Shan e Imam Ahmad Raza Kay Liay Click Kijiye
+                            </p>
+                        </div>
+                    </div>
+                    <div class="media mb-10">
+                        <a class="img-opacity-hover" href="https://www.dawateislami.net/medialibrary/program?pn=&search=&pro=696&lang=ur&d=0" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Audio Books','https://www.dawateislami.net/medialibrary/program?pn=&search=&pro=696&lang=ur&d=0')">
+                            <img src="https://data2.dawateislami.net/static/images/main-website/banners/2027-audio-book.jpg" alt="news" class="img-fluid" style="width: 94px; height: 69px;">
+                        </a>
+                        <div class="media-body">
+                            <!-- <div class="post-date-dark">
+                                <ul>
+                                    <li>
+                                        <span>
+                                            <i class="fa fa-calendar" aria-hidden="true"></i>
+                                        </span>September 30, 2017</li>
+                                </ul>
+                            </div> -->
+                            <h3 class="title-medium-dark size-md mb-none">
+                                <a href="https://www.dawateislami.net/medialibrary/program?pn=&search=&pro=696&lang=ur&d=0" onclick="gtagClick('Home-Ameer-e-Ahle Sunnat','Audio Books','https://www.dawateislami.net/medialibrary/program?pn=&search=&pro=696&lang=ur&d=0')"> Audio Books</a>
+                            </h3>
+                            <p style="font-size: 15px;">Ameer-e-Ahle Sunnat Kay Targheeb Shuda Rasail Audio Me</p>
+                        </div>
+                    </div>
+					
+
+                </div>
+            </div>
+				        </div>
+				      
+			        
+			        
+			    </div>
+			</section>
+			
+			<section class="bg-body section-space-default pad_res pt-0 pb-0" >
+			    <div class="container">
+				        <div class="row">
+				           <script src="/js/jquery-2.2.4.min.js " type="text/javascript"></script>
+<style>
+    .style_small_div{
+    display: block;
+    text-align: center;
+    border: 5px solid #dddddd00;
+    padding: 5px;
+    box-shadow: 0px 0px 5px #00000033, inset 0px 0px 1px #00000033;
+    transition: 0.5s;
+}
+.style_small_div .media-body{
+    margin-top: 10px;
+	margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.new_web_icons_hr{
+    margin: 5px 0px;
+}
+.style_small_div .media-body h3{
+    height: 50px;
+}
+
+.btn-webSites{
+    background-color: transparent;
+    color: #0089ff;
+    border: 2px solid #0089ff;
+    width: auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    transition: .5s;
+    font-weight: bold;
+}
+.btn-webSites:hover{
+    color: white !important;
+    background: #0089ff;
+}
+.show_more_div{
+    display: none;
+}
+    </style>
+
+<div class="col-lg-8 col-md-12">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="topic-border color-ecstasy mb-30 width-100">
+                            <div class="topic-box-lg color-ecstasy">Kids Corner</div>
+                        </div>
+                        <div class="mb-25">
+                            <div class="img-scale-animate mb-20">
+                                <a href="https://www.dawateislami.net/medialibrary/71761" onclick="gtagClick('Home-Kids Corner','Urs-e-Aala Hazrat aur Ghulam Rasool','https://www.dawateislami.net/medialibrary/71761')">
+                                    <img src="https://data2.dawateislami.net/static/images/main-website/promotional-banner/756-aala-hazrat.jpg" alt="Urs-e-Aala Hazrat aur Ghulam Rasool" class="img-fluid width-100">
+                                </a>
+                            </div>
+                            <h3 class="title-semibold-dark size-lg mb-15">
+                                <a href="https://www.dawateislami.net/medialibrary/71761" onclick="gtagClick('Home-Kids Corner','Urs-e-Aala Hazrat aur Ghulam Rasool','https://www.dawateislami.net/medialibrary/71761')">Urs-e-Aala Hazrat aur Ghulam Rasool</a>
+                            </h3>
+                            <p>Aala Hazrat Imam Ahmed Raza Khan Ki Seerat Kay Baray Me Ghulam Rasool aur Faizan Ki Pyari Batain. Watch Animated Video</p>
+                        </div>
+						
+                        <div class="media mb-30">
+                            <a class="img-opacity-hover" href="https://www.dawateislami.net/medialibrary/program?pro=2143" onclick="gtagClick('Home-kids corner','Islam For Kids','https://www.dawateislami.net/medialibrary/program?pro=2143')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/banners/3040-islam-for-kids.jpg" alt="Islam For Kids" class="img-fluid">
+                            </a>
+                            <div class="media-body">
+                                <h3 class="title-medium-dark size-md mb-none">
+                                    <a href="https://www.dawateislami.net/medialibrary/program?pro=2143" onclick="gtagClick('Home-kids corner','Islam For Kids','https://www.dawateislami.net/medialibrary/program?pro=2143')">Bachon Ko Quran Parhna Sekhain... Islam For Kids. Must Watch</a>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="topic-border color-cod-gray mb-30 width-100">
+                            <div class="topic-box-lg color-cod-gray">Events & Updates</div>
+                        </div>
+                        <div class="row show-item4-md">
+							<div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative">
+                                    <a href="https://www.dawateislami.net/bookslibrary/4560" onclick="gtagClick('Home-Events','Mah-e-Rabi-ul-Awwal Ki Amad Amad','https://www.dawateislami.net/bookslibrary/4560')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3087-rabi-ul-awwal.jpg" alt="Mah-e-Rabi-ul-Awwal Ki Amad Amad" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://www.dawateislami.net/bookslibrary/4560" onclick="gtagClick('Home-Events','Mah-e-Rabi-ul-Awwal Ki Amad Amad','https://www.dawateislami.net/bookslibrary/4560')">Mah-e-Rabi-ul-Awwal Ki Amad Amad</a>
+                                    </h3>
+                                </div>
+                            </div>
+							<div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative">
+                                    <a href="https://www.dawateislami.net/medialibrary/81028" target=”_blank” onclick="gtagClick('Home-events','Qaseeda Burda Shareef','https://www.dawateislami.net/medialibrary/81028')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3069-qaseeda-burda.jpg" alt="Qaseeda Burda Shareef" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Application</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://www.dawateislami.net/medialibrary/81028" target=”_blank” onclick="gtagClick('Home-events','Qaseeda Burda Shareef','https://www.dawateislami.net/medialibrary/81028')">Qaseeda Burda Shareef 3 Different Languages</a>
+                                    </h3>
+                                </div>
+                            </div>
+							
+						<div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative mt-25">
+                                    <a href="https://www.arabicdawateislami.net/blog/287" onclick="gtagClick('Home-events','Who was Imam Ahmad Raza ? Read in Arabic Language','https://www.arabicdawateislami.net/blog/287')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3078-imam-ahmed-raza.png" alt="Who was Imam Ahmad Raza ? Read in Arabic Language" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Fadgets</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://www.arabicdawateislami.net/blog/287" onclick="gtagClick('Home-events','Who was Imam Ahmad Raza ? Read in Arabic Language','https://www.arabicdawateislami.net/blog/287')">Who was Imam Ahmad Raza ? Read in Arabic Language</a>
+                                    </h3>
+                                </div>
+                         </div>
+							
+							
+							
+                            <div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative mt-25">
+                                    <a href="https://www.dawateislami.net/medialibrary/program?pro=2193" onclick="gtagClick('Home-events','Madani Channel Par Zauq-e-Naat Season 8 Ka Aaghaz','https://www.dawateislami.net/medialibrary/program?pro=2193')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3072-zauq-e-naat.jpg" alt="Madani Channel Par Zauq-e-Naat Season 8 Ka Aaghaz" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Technology</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://www.dawateislami.net/medialibrary/program?pro=2193" onclick="gtagClick('Home-events','Madani Channel Par Zauq-e-Naat Season 8 Ka Aaghaz','https://www.dawateislami.net/medialibrary/program?pro=2193')">Zauq-e-Naat Season 8</a>
+                                    </h3>
+                                </div>
+                            </div>
+							
+                            <div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative mt-25">
+                                    <a href="https://news.dawateislami.net/8-days-madani-qaida-course-in-indonesia" onclick="gtagClick('Home-events','Indonesia Me Madani Qaida Course','https://news.dawateislami.net/8-days-madani-qaida-course-in-indonesia')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3083-madani-qaida-course.jpg" alt="Indonesia Me Madani Qaida Course" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Accessories</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://news.dawateislami.net/8-days-madani-qaida-course-in-indonesia" onclick="gtagClick('Home-Events','Indonesia Me Madani Qaida Course','https://news.dawateislami.net/8-days-madani-qaida-course-in-indonesia')">Indonesia Me Madani Qaida Course</a>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-4 col-sm-6 col-6">
+                                <div class="position-relative mt-25">
+                                    <a href="https://news.dawateislami.net/1october-se-imamt-cours-ka-aagaz" onclick="gtagClick('Home-Events','Mukhtalif Cities Me Imamat Course Ka Aaghaz','https://news.dawateislami.net/1october-se-imamt-cours-ka-aagaz')" class="mb-10 img-opacity-hover">
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/banners/3084-imamat-course.jpg" alt="Mukhtalif Cities Me Imamat Course Ka Aaghaz" class="img-fluid m-auto width-100">
+                                    </a>
+                                    <!-- <div class="topic-box-top-xs">
+                                        <div class="topic-box-sm color-cod-gray mb-20">Software</div>
+                                    </div> -->
+                                    <h3 class="title-medium-dark size-md mb-none">
+                                        <a href="https://news.dawateislami.net/1october-se-imamt-cours-ka-aagaz" onclick="gtagClick('Home-Events','Mukhtalif Cities Me Imamat Course Ka Aaghaz','https://news.dawateislami.net/1october-se-imamt-cours-ka-aagaz')">Mukhtalif Cities Me Imamat Course Ka Aaghaz</a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+			
+			<div class="sidebar-break-md col-lg-4 col-md-12">
+                <div class="sidebar-box">
+                    <div class="topic-border color-cinnabar mb-30">
+                        <div class="topic-box-lg color-cinnabar">Departments</div>
+                        
+                    </div>
+                    <div class="mb-25">
+                        <div class="img-scale-animate mb-20">
+                            <a href="https://www.dawateislami.net/medialibrary/topic?kw=12104" onclick="gtagClick('Home-departments','Dawat-e-Islami Welfare','https://www.dawateislami.net/medialibrary/topic?kw=12104')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/promotional-banner/750-dawateislami-welfare.jpg" alt="Dawat-e-Islami Welfare" class="img-fluid width-100">
+                            </a>
+                        </div>
+                        <h3 class="title-semibold-dark size-lg mb-15">
+                            <a href="https://www.dawateislami.net/medialibrary/topic?kw=12104" onclick="gtagClick('Home-departments','Dawat-e-Islami Welfare','https://www.dawateislami.net/medialibrary/topic?kw=12104')">Dawat-e-Islami Welfare</a>
+                        </h3>
+                        <p>Lockdown, Thalassemia, Barishain Is Tarah Kay major disaster Me Kis Tarah Dawat-e-Islami Welfare Apna Kirdar Ada Karti Hay. Janne Kay Liay Click Kijiye</p>
+                    </div>
+					
+                    <div class="media mb-30">
+                            <a class="img-opacity-hover" href="https://www.dawateislami.net/map/" onclick="gtagClick('Home-departments','>Locations','https://www.dawateislami.net/map/')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/banners/906-locations.jpg" alt="departments locations" class="img-fluid">
+                            </a>
+                            <div class="media-body">
+                                <h3 class="title-medium-dark size-md mb-none">
+                                    <a href="https://www.dawateislami.net/map/" target="_blank" onclick="gtagClick('Home-departments','>Locations','https://www.dawateislami.net/map/')" >Locations of Ijtima, Madrasa-tul-Madina, Jamia-tul-Madina & Tawezat-e-Attaria</a>
+                                </h3>
+                            </div>
+                        </div>
+                </div>
+            </div>
+			
+			  <div class="col-lg-12 col-md-12">
+					<div class="row">
+					  <div class="col-12">
+						<div class="topic-border color-azure-radiance mb-5">
+						  <div class="topic-box-lg color-azure-radiance">Other Websites</div>
+						</div>
+					  </div>
+					</div>
+					<div class="featuredContainer pb-0">
+					  <div class="row">
+						<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+						  <div class="row keep-items-4-md">
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.aboutmuhammad.net/en/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/the-holy-prophet.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.aboutmuhammad.net/en/" target="_blank">The Holy Prophet <br> صلی اللہ علیہ واٰلہ وسلم</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://abdulqadirjilani.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/sheikh-abdul-qadir-jilani.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://abdulqadirjilani.net/" target="_blank">Sheikh Abdul Qadir Jilani</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://imamahmedraza.com/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/imam-ahmed-raza-khan.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://imamahmedraza.com/" target="_blank">Imam Ahmed Raza Khan</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="http://www.ilyasqadri.com/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/about-ameer-e-ahlesunnat.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="http://www.ilyasqadri.com/" target="_blank">About Ameer-e-Ahlesunnat</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://personalities.dawateislami.net/hajiubaidraza/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/haji-ubaid-ahmed-raza.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://personalities.dawateislami.net/hajiubaidraza/" target="_blank">Haji Ubaid Ahmed Raza</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://daruliftaahlesunnat.net/home/ur" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/darulifta-ahle-sunnat.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://daruliftaahlesunnat.net/home/ur" target="_blank">Darulifta Ahlesunnat</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.dawateislami.org/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/organizational-website.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.dawateislami.org/" target="_blank">Organizational website</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.dawateislami.net/islamicportal/ur/farzuloom/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/farz-uloom.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.dawateislami.net/islamicportal/ur/farzuloom/" target="_blank">Farz Uloom</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.darulmadinah.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/darul-madinah.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.darulmadinah.net/" target="_blank">Dar-ul-Madina</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://departments.dawateislami.net/islamibahan/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/islamic-sisters.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://departments.dawateislami.net/islamibahan/" target="_blank">Islamic Sisters</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.jamiatulmadina.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/jamia-tul-madina.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.jamiatulmadina.net/" target="_blank">Jamia-tul-Madina</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<!-- <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								  <a class="img-opacity-hover" href="https://departments.dawateislami.net/madaniqafila/" target="_blank">
+									  <img src="https://data2.dawateislami.net/static/images/main-website/magazine/waba-kyun-aati-hai.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								  </a>
+								  <div class="media-body">
+									  <h3 class="title-medium-dark size-md mb-none">
+									  <a href="https://departments.dawateislami.net/madaniqafila/" target="_blank">Madani Qafila</a>
+								  </h3>
+								  </div>
+							  </div>
+							  </div> -->
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.quranteacher.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/madrasa-tul-madina-online.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.quranteacher.net/" target="_blank">Madrasa-tul-Madina Online</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.madrasatulmadina.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/madarsa-tul-madinah.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.madrasatulmadina.net/" target="_blank">Madarsa tul Madinah</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://hajjumrah.dawateislami.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/hajj-o-umrah.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://hajjumrah.dawateislami.net/" target="_blank">Hajj-o-Umrah</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://departments.dawateislami.net/majlisetarajim/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/majlis-e-tarajim.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://departments.dawateislami.net/majlisetarajim/" target="_blank">Majlis Tarajim</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://tajheezotakfeen.dawateislami.net/#/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/tajheez-o-takfeen.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://tajheezotakfeen.dawateislami.net/#/" target="_blank">Tajheez-o-Takfeen</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://departments.dawateislami.net/tawizateattaria/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/tawezat-e-attaria.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://departments.dawateislami.net/tawizateattaria/" target="_blank">Tawizat-e-Attaria</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://www.madanicourses.com/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/madani-courses.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://www.madanicourses.com/" target="_blank">Madani Courses</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://departments.dawateislami.net/ahkamehajj/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/ahkam-e-hajj.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://departments.dawateislami.net/ahkamehajj/" target="_blank">Ahkam-e-Hajj</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://madanichannel.tv/islam/streaming/watch-live-madani-channel.htm" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/madani-channel.png" alt="Madani channel" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://madanichannel.tv/islam/streaming/watch-live-madani-channel.htm" target="_blank">Madani channel</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://dawateislami.social/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/social-media.png" alt="Social Media" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://dawateislami.social/" target="_blank">Social Media</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<!-- <div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								  <a class="img-opacity-hover" href="https://departments.dawateislami.net/madanibaharain/" target="_blank">
+									  <img src="https://data2.dawateislami.net/static/images/main-website/magazine/rizq-e-halal-ki-ahmiyat.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								  </a>
+								  <div class="media-body">
+									  <h3 class="title-medium-dark size-md mb-none">
+									  <a href="https://departments.dawateislami.net/madanibaharain/" target="_blank">Madani Baharain</a>
+								  </h3>
+								  </div>
+							  </div>
+							  </div> -->
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://tree-plantation.dawateislami.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/tree-plantation.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://tree-plantation.dawateislami.net/" target="_blank">Tree Plantation</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://tajiran.dawateislami.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/majlis-tajiran.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://tajiran.dawateislami.net/" target="_blank">Majlis Tajiran</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 col-6 mt-25 show_more_div">
+							  <div class="media style_small_div">
+								<a class="img-opacity-hover" href="https://buildamasjid.net/" target="_blank">
+								<img src="https://data2.dawateislami.net/static/images/main-website/banners/khuddam-ul-masajid.png" alt="Haftawar Risala" class="img-fluid" style="width: 100%;">
+								</a>
+								<div class="media-body">
+								  <h3 class="title-medium-dark size-md mb-none">
+									<a href="https://buildamasjid.net/" target="_blank">Khuddam-ul-Masajid</a>
+								  </h3>
+								  <hr class="new_web_icons_hr">
+								</div>
+							  </div>
+							</div>
+							<!--  -->
+							<div class="col-lg-12 col-md-12 col-sm-12 text-center mt-20">
+							  <a href="javascript:void(0);" id="show_more_div" class="btn btn-webSites"> View More Websites</a>
+							  <a href="javascript:void(0);" id="show_more_div_none" class="btn btn-webSites" style="display: none;"> No More Data</a>
+							</div>
+							<!--  -->
+							<!--  -->
+							<script type="text/javascript">
+							  $(function () {
+							  $(".show_more_div").slice(0, 12).show();
+							  $("#show_more_div").on('click', function (e) {
+								  e.preventDefault();
+								  $(".show_more_div:hidden").slice(0, 12).slideDown();
+								  if ($(".show_more_div:hidden").length == 0) {
+									  // $("#show_more_div_none").fadeIn('slow');
+									  $("#show_more_div").hide();
+								  }
+							  });
+							  });
+							</script>
+							<!--  -->
+						  </div>
+						</div>
+					  </div>
+					</div>
+				</div>
+				           				        </div>
+				      
+			        
+			        
+			    </div>
+			</section>
+			
+			<section class="bg-body section-space-default pt-0">
+	<div class="container">
+		<div class="row">
+		    <div class="col-12">
+		        <div class="ne-banner-layout1 mt-20-r text-center">
+		            <a href="https://play.google.com/store/apps/details?id=com.dawateislami.salameraza">
+		                <img src="https://data2.dawateislami.net/static/images/main-website/advertisement/4-kalam-e-ala-hazrat.jpg" alt="Kalam e Ala Hazrat " class="img-fluid">
+		            </a>
+		        </div>
+		    </div>
+		</div>
+	</div>
+</section>
+
+                       
+            <section class="bg-accent section-space-less30">
+                <div class="container">
+                    <div class="row">
+                    
+	                                               <div class="col-lg-4 col-md-12">
+                            <div class="topic-border color-cutty-sark mb-30 width-100">
+                                <div class="topic-box-lg color-cutty-sark">Ayat of the Day</div>
+                            </div>
+                            <div class="img-scale-animate mb-30">
+                                <!--  -->
+                                                                 <a href="https://www.dawateislami.net/quran/surah-al-baqarah/ayat-156/translation-1/tafseer" onclick="gtagClick('Home-Ayat','Ayat of the Day','https://www.dawateislami.net/quran/surah-al-baqarah/ayat-156/translation-1/tafseer')" ><img src="https://data2.dawateislami.net/static/images/main-website/quran/25-musibat-par-kahain.jpg" alt="Ayat of the Day" class="img-fluid width-100"></a>
+                           </div>
+                        </div>
+                                              
+                                              
+                                              
+            
+                                              
+                                              <div class="col-lg-4 col-md-12">
+                            <div class="topic-border color-pomegranate mb-30 width-100">
+                                <div class="topic-box-lg color-pomegranate">Hadees of the Day</div>
+                            </div>
+                            <div class="img-scale-animate mb-30">
+                                <a href="#" onclick="gtagClick('Home-Hadees','Hadees of the Day','#')"><img src="https://data2.dawateislami.net/static/images/main-website/hadees/64-jannat-k-chiragh.jpg" alt="Hadees of the Day" class="img-fluid width-100"></a>
+                            </div>
+                        </div>
+                                              
+                                              
+            
+                                              
+                                              
+                                              <div class="col-lg-4 col-md-12">
+                            <div class="topic-border color-web-orange mb-30 width-100">
+                                <div class="topic-box-lg color-web-orange">Fatwa of the Day</div>
+                            </div>
+                            <div class="img-scale-animate mb-30">
+                                <a href="https://daruliftaahlesunnat.net/detail/ur/1118/11" onclick="gtagClick('Home-Fatwa','Fatwa of the Day','https://daruliftaahlesunnat.net/detail/ur/1118/11')"><img src="https://data2.dawateislami.net/static/images/main-website/fatwa/83-safr-last-wednesday.jpg" alt="Fatwa of the Day" class="img-fluid width-100"></a>
+                            </div>
+                        </div>
+                                               
+            
+                    </div>
+                </div>
+            </section>
+              			<section class="bg-secondary-body section-space-less30">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="topic-border color-cinnabar mb-30">
+                    <div class="topic-box-lg color-cinnabar">Featured Media</div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-7 col-md-12">
+                                                <div class="img-overlay-90 mb-30">
+                            <div class="text-center">
+                                
+                                
+                                <a class="play-btn" href="/medialibrary/82150" onclick="gtagClick('Home-Media','Bachoun Ko Aisa Na Karne Dein','/medialibrary/82150')" target="_blank">
+                                    <img src="/img/icon-media.png" alt="play" class="img-fluid" >
+                                </a>
+                                
+                                
+                            </div>
+                            <img src="https://data2.dawateislami.net/download/media-images/82150.jpg" alt="news" class="img-fluid width-100 f-video-sec" >
+                            <div class="mask-content-lg hidden-mb">
+                                <div class="topic-box-sm color-white mb-20">Short Clips</div>
+                                <div class="post-date-light">
+                                    <ul>
+                                        <li>
+                                            <span>by</span>
+                                            <a href="">Dawateislami</a>
+                                        </li>
+                                        <li>
+                                            <span>
+                                            <i class="fa fa-calendar" aria-hidden="true"></i>
+                                                                                        </span>09 Oct, 2020</li>
+                                    </ul>
+                                </div>
+                                <h2 class="title-medium-light size-lg">
+                                    <a href="/medialibrary/82150" onclick="gtagClick('Home-Media','Bachoun Ko Aisa Na Karne Dein','/medialibrary/82150')" >Bachoun Ko Aisa Na Karne Dein</a>
+                                </h2>
+                            </div>
+                        </div>
+                                                
+                    </div>
+                    
+                    <div class="col-lg-5 col-md-12">
+                       
+	                   	                   	               			                   	                        <div class="media mb-30">
+	                            <a class="img-opacity-hover width26-lg" href="/medialibrary/82162" onclick="gtagClick('Home-Media','Value The Time','/medialibrary/82162')" target="_blank">
+	                                <img src="https://data2.dawateislami.net/download/media-images/82162.jpg" alt="Value The Time" class="img-fluid" style="height: 120px;">
+	                            </a>
+	                            <div class="media-body">
+	                                <div class="topic-box-sm color-white mb-20">Short Clips</div>
+	                                <h3 class="title-medium-light mb-none">
+	                                    <a href="/medialibrary/82162" onclick="gtagClick('Home-Media','Value The Time','/medialibrary/82162')">Value The Time</a>
+	                                </h3>
+	                            </div>
+	                        </div>
+	                    	               			                   	                        <div class="media mb-30">
+	                            <a class="img-opacity-hover width26-lg" href="/medialibrary/82206" onclick="gtagClick('Home-Media','Dainay Wala Hai Saccha Humara Nabi - ShortClip','/medialibrary/82206')" target="_blank">
+	                                <img src="https://data2.dawateislami.net/download/media-images/82206.jpg" alt="Dainay Wala Hai Saccha Humara Nabi - ShortClip" class="img-fluid" style="height: 120px;">
+	                            </a>
+	                            <div class="media-body">
+	                                <div class="topic-box-sm color-white mb-20">Short Clips</div>
+	                                <h3 class="title-medium-light mb-none">
+	                                    <a href="/medialibrary/82206" onclick="gtagClick('Home-Media','Dainay Wala Hai Saccha Humara Nabi - ShortClip','/medialibrary/82206')">Dainay Wala Hai Saccha Humara Nabi - ShortClip</a>
+	                                </h3>
+	                            </div>
+	                        </div>
+	                    	               			                   	                        <div class="media mb-30">
+	                            <a class="img-opacity-hover width26-lg" href="/medialibrary/82210" onclick="gtagClick('Home-Media','Charaghan Deikhney Kay Liye Aurtoun Ka Ghar Se Nikalna','/medialibrary/82210')" target="_blank">
+	                                <img src="https://data2.dawateislami.net/download/media-images/82210.jpg" alt="Charaghan Deikhney Kay Liye Aurtoun Ka Ghar Se Nikalna" class="img-fluid" style="height: 120px;">
+	                            </a>
+	                            <div class="media-body">
+	                                <div class="topic-box-sm color-white mb-20">Short Clips</div>
+	                                <h3 class="title-medium-light mb-none">
+	                                    <a href="/medialibrary/82210" onclick="gtagClick('Home-Media','Charaghan Deikhney Kay Liye Aurtoun Ka Ghar Se Nikalna','/medialibrary/82210')">Charaghan Deikhney Kay Liye Aurtoun Ka Ghar Se Nikalna</a>
+	                                </h3>
+	                            </div>
+	                        </div>
+	                    	               		
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                        <a href="/medialibrary" class="btn btn-videos">Latest Media</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>  			
+            <section class="bg-body section-space-default">
+                <div class="container">
+                    <div class="row">
+                                                <div class="col-lg-8 col-md-12">
+    <div class="row">
+        <div class="topic-border color-ecstasy mb-30 width-100">
+            <div class="topic-box-lg color-ecstasy">Books</div>
+        </div>
+        
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4614" onclick="gtagClick('Home-Book','Kalay Jadu Ka Ilaj','/bookslibrary/4614')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2273/bt2273.jpg" alt="Kalay Jadu Ka Ilaj" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>October 05,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4614" onclick="gtagClick('Home-Book','Kalay Jadu Ka Ilaj','/bookslibrary/4614')" >Kalay Jadu Ka Ilaj</a>
+                </h3>
+            </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4617" onclick="gtagClick('Home-Book','Sone Ka Anda','/bookslibrary/4617')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2276/bt2276.jpg" alt="Sone Ka Anda" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>October 07,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4617" onclick="gtagClick('Home-Book','Sone Ka Anda','/bookslibrary/4617')" >Sone Ka Anda</a>
+                </h3>
+            </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4625" onclick="gtagClick('Home-Book','Hatim Tai Kon Tha','/bookslibrary/4625')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2277/bt2277.jpg" alt="Hatim Tai Kon Tha" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>October 12,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4625" onclick="gtagClick('Home-Book','Hatim Tai Kon Tha','/bookslibrary/4625')" >Hatim Tai Kon Tha</a>
+                </h3>
+            </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4514" onclick="gtagClick('Home-Book','Shan e Imam Ahmad Raza','/bookslibrary/4514')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2208/bt2208.jpg" alt="Shan e Imam Ahmad Raza" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>September 08,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4514" onclick="gtagClick('Home-Book','Shan e Imam Ahmad Raza','/bookslibrary/4514')" >Shan e Imam Ahmad Raza</a>
+                </h3>
+            </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4560" onclick="gtagClick('Home-Book','Rabi ul Awwal Ki Khobiyan','/bookslibrary/4560')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2243/bt2243.jpg" alt="Rabi ul Awwal Ki Khobiyan" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>September 14,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4560" onclick="gtagClick('Home-Book','Rabi ul Awwal Ki Khobiyan','/bookslibrary/4560')" >Rabi ul Awwal Ki Khobiyan</a>
+                </h3>
+            </div>
+        </div>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="position-relative mb-40 text-center">
+            
+                
+                <a class="img-opacity-hover"  href="/bookslibrary/4571" onclick="gtagClick('Home-Book','Safar ul Muzaffar Ke 45 Mazameen','/bookslibrary/4571')">
+                    <img src="https://data2.dawateislami.net/Data/Books/Read/ur/2020/2245/bt2245.jpg" alt="Safar ul Muzaffar Ke 45 Mazameen" class="img-fluid mb-15" style="height: 250px;">
+                </a>
+                
+                <!-- <div class="topic-box-top-xs">
+                    <div class="topic-box-sm color-cod-gray mb-20">Apple</div>
+                </div> -->
+                <div class="post-date-dark">
+                    <ul>
+                        <li>
+                                                    <span>
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </span>September 19,2020</li>
+                                            </ul>
+                </div>
+                <h3 class="title-medium-dark size-lg mb-none">
+                    <a href="/bookslibrary/4571" onclick="gtagClick('Home-Book','Safar ul Muzaffar Ke 45 Mazameen','/bookslibrary/4571')" >Safar ul Muzaffar Ke 45 Mazameen</a>
+                </h3>
+            </div>
+        </div>
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+            <a href="/bookslibrary" onclick="gtagClick('Home-Book','','/bookslibrary')" class="btn btn-books">Latest Books</a>
+        </div>  
+        
+    </div>
+</div>                                                <div class="ne-sidebar sidebar-break-md col-lg-4 col-md-12 mb-0">
+    <div class="topic-border color-apple mb-30 width-100">
+        <div class="topic-box-lg color-apple">Applications</div>
+    </div>
+    <div class="sidebar-box item-box-dark-md">
+    	<div class="row">
+        	        <div class="media mb30-list bg-secondary-body col-lg-12 col-md-6 col-sm-6">
+	          	                <img src="https://data2.dawateislami.net/mobile/static/images/apps/119/logo.png" alt="news" class="img-fluid" style="height: 114px;width: 110px;">
+	          	            <div class="media-body media-padding10">
+	                <div >
+							                    	<a href="https://play.google.com/store/apps/details?id=com.dawateislami.naat_e_kalam&hl=en_US." class="topic-box-sm color-white mb-15 mr-20" ><i class="fa fa-android ft-16 " style="color: green;"></i></a> 
+	                    							                </div>
+	                
+	                <h3 class="title-medium-light mb-none">
+	                   Naat Collection
+	                    	                    	                </h3>
+	            </div>
+	        </div>
+   		
+        	        <div class="media mb30-list bg-secondary-body col-lg-12 col-md-6 col-sm-6">
+	          	                <img src="https://data2.dawateislami.net/mobile/static/images/apps/114/logo.png" alt="news" class="img-fluid" style="height: 114px;width: 110px;">
+	          	            <div class="media-body media-padding10">
+	                <div >
+							                    	<a href="https://play.google.com/store/apps/details?id=com.dawateislami.apps&hl=en_US" class="topic-box-sm color-white mb-15 mr-20" ><i class="fa fa-android ft-16 " style="color: green;"></i></a> 
+	                    							                </div>
+	                
+	                <h3 class="title-medium-light mb-none">
+	                   Dawateislami Digital Services
+	                    	                    	                </h3>
+	            </div>
+	        </div>
+   		
+        	        <div class="media mb30-list bg-secondary-body col-lg-12 col-md-6 col-sm-6">
+	          	                <img src="https://data2.dawateislami.net/mobile/static/images/apps/113/logo.png" alt="news" class="img-fluid" style="height: 114px;width: 110px;">
+	          	            <div class="media-body media-padding10">
+	                <div >
+							                    	<a href="https://play.google.com/store/apps/details?id=com.dawateislami.Rohani_Ilaj_Istikhara" class="topic-box-sm color-white mb-15 mr-20" ><i class="fa fa-android ft-16 " style="color: green;"></i></a> 
+	                    							                </div>
+	                
+	                <h3 class="title-medium-light mb-none">
+	                   Online Rohani Ilaaj & Istikhara
+	                    	                    	                </h3>
+	            </div>
+	        </div>
+   		
+        	        <div class="media mb30-list bg-secondary-body col-lg-12 col-md-6 col-sm-6">
+	          	                <img src="https://data2.dawateislami.net/mobile/static/images/apps/109/logo.png" alt="news" class="img-fluid" style="height: 114px;width: 110px;">
+	          	            <div class="media-body media-padding10">
+	                <div >
+							                    	<a href="https://play.google.com/store/apps/details?id=com.dawateislami.readandlistenweeklyislamicbooks" class="topic-box-sm color-white mb-15 mr-20" ><i class="fa fa-android ft-16 " style="color: green;"></i></a> 
+	                    							                </div>
+	                
+	                <h3 class="title-medium-light mb-none">
+	                   Read and Listen Islamic Books
+	                    	                    	                </h3>
+	            </div>
+	        </div>
+   		
+        	        <div class="media mb30-list bg-secondary-body col-lg-12 col-md-6 col-sm-6">
+	          	                <img src="https://data2.dawateislami.net/mobile/static/images/apps/93/logo.png" alt="news" class="img-fluid" style="height: 114px;width: 110px;">
+	          	            <div class="media-body media-padding10">
+	                <div >
+							                    	<a href="https://play.google.com/store/apps/details?id=com.dawateislami.AlQuran.Translation" class="topic-box-sm color-white mb-15 mr-20" ><i class="fa fa-android ft-16 " style="color: green;"></i></a> 
+	                    													<a href="https://itunes.apple.com/us/app/al-quran-tafseer-explanation/id1316967889?mt=8" class="topic-box-sm color-white mb-15 mr-20"><i class="fa fa-apple ft-16"></i> </a>
+							                </div>
+	                
+	                <h3 class="title-medium-light mb-none">
+	                   Al Quran with Tafseer (Explanation)
+	                    	                    	                </h3>
+	            </div>
+	        </div>
+   		
+                </div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12 text-center mt-20">
+            <a href="/downloads" class="btn btn-application">View More</a>
+        </div>
+    </div>
+
+</div>                    </div>
+                </div>
+            </section>
+            
+                         <section class="bg-accent section-space-less30">
+    <div class="container">
+        <div class="ne-isotope">
+            <div class="row">
+                <div class="col-12">
+                    <div class="topic-border color-azure-radiance mb-30">
+                        <div class="topic-box-lg color-azure-radiance">Magazine</div>
+                    </div>
+                </div>
+            </div>
+            <div class="featuredContainer">
+                <div class="row tenies">
+                   <!-- featuredContainer -->
+					<div class="col-xl-4 col-lg-7 col-md-6 col-sm-12">
+                        <div class="img-overlay-70 img-scale-animate mb-30 text-center">
+                            <a href="https://www.dawateislami.net/magazine/en">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/magazine/monthly-magazine-faizan-e-madina-safar-1442.jpg" alt="Monthly Magazine Faizan-e-Madina Safar-1442H" class="img-fluid width-100" style="height: 410px; width: auto;">
+                            </a>
+                            
+                            <div class="mask-content-lg">
+                                <div class="post-date-light">
+                                    <ul>
+                                        <li>
+                                    </ul>
+                                </div>
+                                <h2 class="title-medium-light size-lg">
+                                                                        <a href="https://www.dawateislami.net/magazine/en" onclick="gtagClick('Home-Magazine','Monthly Magazine Faizan-e-Madina Safar-1442H','https://www.dawateislami.net/magazine/en')" >Monthly Magazine Faizan-e-Madina Safar-1442H</a>
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+					
+					
+					<!-- Side Container -->
+                    <div class="col-xl-8 col-lg-5 col-md-6 col-sm-12">
+                        <div class="row keep-items-4-md">
+						
+						
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/ur/kuch-naikiaan-kamalen/jannat-ki-zamin" onclick="gtagClick('Home-Magazine','Jannat Mein Le Jane Wale Aamal','https://www.dawateislami.net/magazine/ur/kuch-naikiaan-kamalen/jannat-ki-zamin')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/jannat-ki-zamin.jpg" alt="Jannat Mein Le Jane Wale Aamal" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/ur/kuch-naikiaan-kamalen/jannat-ki-zamin" onclick="gtagClick('Home-Magazine','Jannat Mein Le Jane Wale Aamal','https://www.dawateislami.net/magazine/ur/kuch-naikiaan-kamalen/jannat-ki-zamin')">Jannat Mein Le Jane Wale Aamal</a>
+                                    </h3>
+                                </div>
+                            </div>
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/ur/hadees-shareef-aur-iski-sharah/allah-ke-hawale" onclick="gtagClick('Home-Magazine','Allah Ke Hawale','https://www.dawateislami.net/magazine/ur/hadees-shareef-aur-iski-sharah/allah-ke-hawale')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/allah-ke-hawale.jpg" alt="Allah Ke Hawale" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/ur/hadees-shareef-aur-iski-sharah/allah-ke-hawale" onclick="gtagClick('Home-Magazine','Allah Ke Hawale','https://www.dawateislami.net/magazine/ur/hadees-shareef-aur-iski-sharah/allah-ke-hawale')">Allah Ke Hawale</a>
+                                    </h3>
+                                </div>
+                            </div>
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/ur/tafseer-quran-e-kareem/auliya-aur-sufiya" onclick="gtagClick('Home-Magazine','Auliya Aur Sufiya Ki Pehchan','https://www.dawateislami.net/magazine/ur/tafseer-quran-e-kareem/auliya-aur-sufiya')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/auliya-aur-sufiya.jpg" alt="Auliya Aur Sufiya Ki Pehchan" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/ur/tafseer-quran-e-kareem/auliya-aur-sufiya" onclick="gtagClick('Home-Magazine','Auliya Aur Sufiya Ki Pehchan','https://www.dawateislami.net/magazine/ur/tafseer-quran-e-kareem/auliya-aur-sufiya')">Auliya Aur Sufiya Ki Pehchan</a>
+                                    </h3>
+                                </div>
+                            </div>
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/en/islamic-beliefs-and-information/what-is-shirk" onclick="gtagClick('Home-Magazine','What Is Shirk','https://www.dawateislami.net/magazine/en/islamic-beliefs-and-information/what-is-shirk')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/what-is-shirk.jpg" alt="What Is Shirk" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/en/islamic-beliefs-and-information/what-is-shirk" onclick="gtagClick('Home-Magazine','What Is Shirk','https://www.dawateislami.net/magazine/en/islamic-beliefs-and-information/what-is-shirk')">What Is Shirk</a>
+                                    </h3>
+                                </div>
+                            </div>
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/en/seerah-of-mustafa/i-am-not-like-you" onclick="gtagClick('Home-Magazine','I Am Not Like You','https://www.dawateislami.net/magazine/en/seerah-of-mustafa/i-am-not-like-you')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/i-m-not-like-you.jpg" alt="I Am Not Like You" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/en/seerah-of-mustafa/i-am-not-like-you" onclick="gtagClick('Home-Magazine','I Am Not Like You','https://www.dawateislami.net/magazine/en/seerah-of-mustafa/i-am-not-like-you')">I Am Not Like You</a>
+                                    </h3>
+                                </div>
+                            </div>
+						                            <div class="col-xl-4 col-lg-6 col-md-6 col-sm-4 col-6">
+                                <div class="mb-25 position-relative">
+                                    <a class="img-opacity-hover" href="https://www.dawateislami.net/magazine/en/plea/good-and-bad-actions" onclick="gtagClick('Home-Magazine','The Effects Of Good And Bad Actions','https://www.dawateislami.net/magazine/en/plea/good-and-bad-actions')" >
+                                        <img src="https://data2.dawateislami.net/static/images/main-website/magazine/good-and-bad-effects.jpg" alt="The Effects Of Good And Bad Actions" class="img-fluid width-100 mb-15">
+                                    </a>
+                                    
+                                    <h3 class="title-medium-dark size-md">
+                                        <a href="https://www.dawateislami.net/magazine/en/plea/good-and-bad-actions" onclick="gtagClick('Home-Magazine','The Effects Of Good And Bad Actions','https://www.dawateislami.net/magazine/en/plea/good-and-bad-actions')">The Effects Of Good And Bad Actions</a>
+                                    </h3>
+                                </div>
+                            </div>
+													
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                        <a href="/magazine" class="btn btn-Magazine">View More</a>
+                    </div>
+					
+					<!-- side Container -->
+					
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+            
+                         <section class="bg-secondary-accent section-space-less30">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="topic-border color-scampi mb-30 width-100">
+                                <div class="topic-box-lg color-scampi">Blogs</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="ne-carousel nav-control-top2 color-scampi" data-loop="true" data-items="4" data-margin="20" data-autoplay="true"
+                        data-autoplay-timeout="5000" data-smart-speed="2000" data-dots="false" data-nav="true" data-nav-speed="false"
+                        data-r-x-small="1" data-r-x-small-nav="true" data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true"
+                        data-r-x-medium-dots="false" data-r-small="2" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="3"
+                        data-r-medium-nav="true" data-r-medium-dots="false" data-r-Large="3" data-r-Large-nav="true" data-r-Large-dots="false">
+                         
+                                                 <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/211" onclick="gtagClick('Home-blog','Imam Ahmed Raza Khan Bahesiyat-e-sciencedan','/blog/211')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/206-imam-ahmed-raza-khan-bahesiyat-e-sciencedan.jpg" class="img-fluid width-100" style="height: 180px;" alt="Imam Ahmed Raza Khan Bahesiyat-e-sciencedan">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>November 15,2018</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/211" onclick="gtagClick('Home-blog','Imam Ahmed Raza Khan Bahesiyat-e-sciencedan','/blog/211')">Imam Ahmed Raza Khan Bahesiyat-e-sciencedan</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/233" onclick="gtagClick('Home-blog','Islam Aurat Ka Sab Se Bara Muhsin Hai','/blog/233')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/217-islam-aurat-ka-muhsin.jpg" class="img-fluid width-100" style="height: 180px;" alt="Islam Aurat Ka Sab Se Bara Muhsin Hai">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>February 27,2019</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/233" onclick="gtagClick('Home-blog','Islam Aurat Ka Sab Se Bara Muhsin Hai','/blog/233')">Islam Aurat Ka Sab Se Bara Muhsin Hai</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/236" onclick="gtagClick('Home-blog','Aqeeda Khatme Nabuwat Quran o Hadith Ki Roshni mey','/blog/236')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/220-aqeeda-khatme-nabuwat.jpg" class="img-fluid width-100" style="height: 180px;" alt="Aqeeda Khatme Nabuwat Quran o Hadith Ki Roshni mey">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>March 04,2019</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/236" onclick="gtagClick('Home-blog','Aqeeda Khatme Nabuwat Quran o Hadith Ki Roshni mey','/blog/236')">Aqeeda Khatme Nabuwat Quran o Hadith Ki Roshni mey</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/203" onclick="gtagClick('Home-blog',' Imam Ahmad Raza Khan Barelvi  Shaksiyat ki Nazar Main','/blog/203')">
+                                <img src=" https://data2.dawateislami.net/static/images/main-website/blog/203-aala-hazrat-shaksiyat-ki-nazar-main.jpg" class="img-fluid width-100" style="height: 180px;" alt=" Imam Ahmad Raza Khan Barelvi  Shaksiyat ki Nazar Main">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>October 12,2018</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/203" onclick="gtagClick('Home-blog',' Imam Ahmad Raza Khan Barelvi  Shaksiyat ki Nazar Main','/blog/203')"> Imam Ahmad Raza Khan Barelvi  Shaksiyat ki Nazar Main</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/205" onclick="gtagClick('Home-blog','Hassan ul Hind Imam Ahmed Raza Khan Bator e Sha'ir','/blog/205')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/205-imam-ahmed-raza-khan-bator-e-shair.jpg" class="img-fluid width-100" style="height: 180px;" alt="Hassan ul Hind Imam Ahmed Raza Khan Bator e Sha'ir">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>October 17,2018</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/205" onclick="gtagClick('Home-blog','Hassan ul Hind Imam Ahmed Raza Khan Bator e Sha'ir','/blog/205')">Hassan ul Hind Imam Ahmed Raza Khan Bator e Sha'ir</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/23" onclick="gtagClick('Home-blog','Sayyiduna Ali’s Devotion to Beloved Rasool','/blog/23')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/23-hazrat-ali-ka-ishq-e-rasool.jpg" class="img-fluid width-100" style="height: 180px;" alt="Sayyiduna Ali’s Devotion to Beloved Rasool">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>July 04,2016</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/23" onclick="gtagClick('Home-blog','Sayyiduna Ali’s Devotion to Beloved Rasool','/blog/23')">Sayyiduna Ali’s Devotion to Beloved Rasool</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/46" onclick="gtagClick('Home-blog','روئےزمین کا پہلا گھر','/blog/46')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/46-kaba-shareef.jpg" class="img-fluid width-100" style="height: 180px;" alt="روئےزمین کا پہلا گھر">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>January 13,2017</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/46" onclick="gtagClick('Home-blog','روئےزمین کا پہلا گھر','/blog/46')">روئےزمین کا پہلا گھر</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/84" onclick="gtagClick('Home-blog','How to Stay Safe from Difficulties?','/blog/84')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/84-balaon-say-hifazat-ka-tariqah.jpg" class="img-fluid width-100" style="height: 180px;" alt="How to Stay Safe from Difficulties?">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>July 24,2017</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/84" onclick="gtagClick('Home-blog','How to Stay Safe from Difficulties?','/blog/84')">How to Stay Safe from Difficulties?</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                <div class="hover-show-play-btn item-shadow-gray mb-30">
+                            <a class="" href="/blog/261" onclick="gtagClick('Home-blog','Surah Fatiha Ayat 1 Explanation | Translation And Tafseer In Audio','/blog/261')">
+                                <img src="https://data2.dawateislami.net/static/images/main-website/blog/229-surah-fatiha-verse-one-tilawat-tafseer-download.jpg" class="img-fluid width-100" style="height: 180px;" alt="Surah Fatiha Ayat 1 Explanation | Translation And Tafseer In Audio">
+                            </a>
+                            <div class="box-padding30 bg-body item-shadow-gray" style="height: 119px;">
+                                <div class="post-date-dark">
+                                    <ul>
+                                        <li>
+                                            <span>
+                                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                                            </span>July 27,2019</li>
+                                    </ul>
+                                </div>
+                                <h3 class="title-medium-dark">
+                                    <a href="/blog/261" onclick="gtagClick('Home-blog','Surah Fatiha Ayat 1 Explanation | Translation And Tafseer In Audio','/blog/261')">Surah Fatiha Ayat 1 Explanation | Translation And Tafseer In Audio</a>
+                                    
+                                    
+                                </h3>
+                            </div>
+                        </div>
+                                                
+                        
+                        
+                        
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                        <a href="/blog" class="btn btn-blogs">Latest Blogs</a>
+                    </div>  
+                </div>
+            </section>
+		
+		
+		<!--Footer Area Start Here -->
+            <footer>
+                <div class="footer-area-top">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-md-12 col-sm-12">
+                                <div class="footer-box">
+                                    <h2 class="title-bold-light title-bar-left text-uppercase"><img src="https://www.dawateislami.net/img/logo-white.png" alt="dawateislami" style="margin-top: -8px; width: 5%;"> Connect to Dawat-e-Islami</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <ul class="most-view-post">
+                                                <li>
+                                                    <div class="media">
+                                                        <div class="media-body"  style="margin-left: 0px;">
+                                                            <h3 class="title-medium-light size-md mb-10">
+                                                                <i class="fa fa-map-marker pr-10"></i> Aalami Madani Markaz, Faizan-e-Madina,
+                                                                <br> Near Capital Telephone Exchange, 
+                                                                <br> Main University Road,
+                                                                <br> Babul Madina Karachi - 75300,
+                                                                <br> Pakistan 
+                                                            </h3>
+                                                        </div>
+                                                    </div>
+                                                </li>
+
+                                            </ul>
+                                            <ul class="footer-social" style="margin-top: 30px;">
+                                                <li>
+                                                    <a href="https://www.facebook.com/dawateislami.net" title="facebook">
+                                                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://twitter.com/madanichannel" title="twitter">
+                                                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                        <!--    <li>
+                                                    <a href="https://plus.google.com/+dawateislami" title="google-plus">
+                                                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>-->
+                                                <li>
+                                                    <a href="https://www.youtube.com/MadaniChannel" title="youtube">
+                                                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.instagram.com/dawateislamiofficial" title="instagram">
+                                                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.flickr.com/photos/dawateislami" title="flickr">
+                                                        <i class="fa fa-flickr" aria-hidden="true"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <ul class="most-view-post">
+                                                <li>
+                                                    <div class="media">
+                                                        <div class="media-body" style="margin-left: 0px;">
+                                                            <a href="/about-us">
+                                                            <h3 class="title-medium-light size-md mb-10">
+                                                                <i class="fa fa-info pr-10"></i> About Us
+                                                            </h3>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="media">
+                                                        <div class="media-body" style="margin-left: 0px;">
+                                                            <h3 class="title-medium-light size-md mb-10">
+                                                                <i class="fa fa-phone pr-10"></i> (+92)21-34921388-93 
+                                                            </h3>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="media">
+                                                        <div class="media-body" style="margin-left: 0px;">
+                                                            <h3 class="title-medium-light size-md mb-10">
+                                                                <i class="fa fa-fax pr-10"></i> (+92)21-111-25-26-92  
+                                                            </h3>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="media">
+                                                        <div class="media-body" style="margin-left: 0px;">
+                                                            <h3 class="title-medium-light size-md mb-10">
+                                                                <i class="fa fa-envelope-o pr-10"></i>  support@dawateislami.net  
+                                                            </h3>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
+                                <div class="footer-box">
+                                    <h2 class="title-bold-light title-bar-left text-uppercase"><i class="fa fa-mobile" style="margin-right: 10px; font-size: 20px;"></i> Islamic Mobile Apps</h2>
+                                    <ul class="post-gallery shine-hover ">
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/quran-karim-application" onclick="gtagClick('Home-Quran-Karim-Application','Quran Karim Application','https://www.dawateislami.net/downloads/islamic-apps/quran-karim-application')">
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/60/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/al-quran-translation-app" onclick="gtagClick('Home-Al-Quran-Translation-App','Al-Quran Translation App','https://www.dawateislami.net/downloads/islamic-apps/al-quran-translation-app')" >
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/93/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/madani-qaida-application" onclick="gtagClick('Home-Madani-Qaida-Application','Madani-Qaida-Application','https://www.dawateislami.net/downloads/islamic-apps/madani-qaida-application')">
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/62/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/ilyas-qadri-application" onclick="gtagClick('Ilyas-Qadri-Application','Ilyas Qadri Application','https://www.dawateislami.net/downloads/islamic-apps/ilyas-qadri-application')">
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/61/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/madani-channel-application"  onclick="gtagClick('Madani-Channel-Application','Madani-Channel Application','https://www.dawateislami.net/downloads/islamic-apps/madani-channel-application')">
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/52/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.dawateislami.net/downloads/islamic-apps/prayer-times-&-qibla" onclick="gtagClick('Prayer-Times-&-Qibla','Prayer-Times App','https://www.dawateislami.net/downloads/islamic-apps/prayer-times-&-qibla')">
+                                                <figure>
+                                                    <img src="https://data2.dawateislami.net/mobile/static/images/apps/7/logo.png" alt="post" class="img-fluid img-footer">
+                                                </figure>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-area-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12 text-center">
+                                <p class="mb-0">Copyright © 2020 by I.T Department of Dawat-e-Islami.</p>
+                            </div>
+                            <div class="donation-btn">
+                                <a href="https://www.dawateislami.net/onlinedonation/" target="_blank"><img src="/assets/f_height.png" alt="donation" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+
+        
+            
+            
+            <!-- Footer Area End Here		
+		
+
+</div>	
+    
+	<!-- Wrapper End -->
+        <!-- jquery-->
+        <script src="/js/jquery-2.2.4.min.js " type="text/javascript"></script>
+        <!-- Plugins js -->
+        <script src="/js/plugins.js " type="text/javascript"></script>
+        <!-- Popper js -->
+        <script src="/js/popper.js " type="text/javascript"></script>
+        <!-- Bootstrap js -->
+        <script src="/js/bootstrap.min.js " type="text/javascript"></script>
+        <!-- WOW JS -->
+        <script src="/js/wow.min.js"></script>
+        <!-- Owl Cauosel JS -->
+        <script src="/vendor/OwlCarousel/owl.carousel.min.js " type="text/javascript"></script>
+        <!-- Meanmenu Js -->
+        <script src="/js/jquery.meanmenu.min.js " type="text/javascript"></script>
+        <!-- Srollup js -->
+        <script src="/js/jquery.scrollUp.min.js " type="text/javascript"></script>
+        <!-- jquery.counterup js -->
+        <script src="/js/jquery.counterup.min.js"></script>
+        <script src="/js/waypoints.min.js"></script>
+        <!-- Isotope js -->
+        <script src="/js/isotope.pkgd.min.js " type="text/javascript"></script>
+        <!-- Magnific Popup -->
+        <script src="/js/jquery.magnific-popup.min.js"></script>
+        <!-- Ticker Js -->
+        <script src="/js/ticker.js" type="text/javascript"></script>
+        <!-- Custom Js -->
+        <script src="/js/main.js?v=10" type="text/javascript"></script>
+		<script src="/js/skrollr.min.js" type="text/javascript"></script> 
+  		<script src="/js/storyjs-embed.js" type="text/javascript"></script>
+				<script src="/js/jquery.serializejson.min.js" type="text/javascript"></script>
+        <!-- <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" crossorigin="anonymous"></script> -->
+    </body>
+<script type="text/javascript">
+
+$('#txtSearch').bind('keypress', function (e){
+    if(e.keyCode == 13){
+		searchContent();
+		//$("#ui-id-1").attr("display","none")
+		$("#ui-id-1").hide();
+        return false;
+    }
+    return true;
+});
+		    
+$('#btn_search').click(function() {
+	searchContent();
+});
+	
+function searchContent() {
+	
+	if($('#txtSearch').val() == null || $('#txtSearch').val().trim().length <= 0) {
+		return false;
+	}
+
+	$('.searchResultspinner').show();
+	
+	var searchForm = $("#search_form");
+
+	var serializedData = JSON.stringify(searchForm.serializeJSON());
+	
+    $.ajax({
+		url : '/search',
+		type : 'POST',
+		data: serializedData,
+		contentType: 'application/json',
+		success : function(data) {
+			$("#searchResults").html(data);
+			$('.searchResultspinner').hide();
+		},
+		error : function() {
+			console.log("Some error there.");
+		}
+	});
+}
+
+function paginationCall(page) 
+{
+	$("#pageNumber").val(page);
+	searchContent();
+	return false;	
+}
+</script>
+<script type="text/javascript">
+	var new_class_for_lg_none = document.getElementById('new_class_for_lg_none');
+	var new_class_for_lg_block = document.getElementById('new_class_for_lg_block');
+	// function newclassforlgblock(){
+	// 	new_class_for_lg_none.style.display = "block";
+
+	// }
+	// function newclassforlgnone(){
+	// 	new_class_for_lg_none.style.display = "none !important";
+	// 	alert('asdasdasd');
+	// }
+	$(document).ready(function(){
+		$('#new_class_for_lg_block').on('click',function(){
+			$('#new_class_for_lg_none').show();
+			$('#new_class_for_lg_none_two').hide();
+		});
+		$('#new_class_for_lg_none').on('mouseleave',function(){
+			$('#new_class_for_lg_none').hide();
+		});
+		// $('#new_class_for_lg_block').on('mouseenter',function(){
+		// 	$('#new_class_for_lg_none').show();
+		// });
+		$('#new_class_for_lg_block_two').on('click',function(){
+			$('#new_class_for_lg_none_two').show();
+			$('#new_class_for_lg_none').hide();
+		});
+		$('#new_class_for_lg_none_two').on('mouseleave',function(){
+			$('#new_class_for_lg_none_two').hide();
+		});
+	});
+// 	$(document).keydown(function(objEvent) {
+//     if (objEvent.keyCode == 9) {  //tab pressed
+//         objEvent.preventDefault(); // stops its action
+//     }
+// });
+</script>
+</html>

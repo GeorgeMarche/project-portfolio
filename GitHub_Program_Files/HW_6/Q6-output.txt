@@ -1,0 +1,87 @@
+Number of retweets: 2724
+
+** TOP 30 TERMS **
+	1. 'us' -- 650 occurrences
+		548 tweets have the word 'us' in the text.
+	2. 'iran' -- 445 occurrences
+		0 tweets have the word 'iran' in the text.
+	3. 'trump' -- 307 occurrences
+		0 tweets have the word 'trump' in the text.
+	4. 'biden' -- 213 occurrences
+		3 tweets have the word 'biden' in the text.
+	5. 'israeli' -- 204 occurrences
+		0 tweets have the word 'israeli' in the text.
+	6. 'sanctions' -- 173 occurrences
+		173 tweets have the word 'sanctions' in the text.
+	7. 'un' -- 161 occurrences
+		508 tweets have the word 'un' in the text.
+	8. 'election' -- 146 occurrences
+		195 tweets have the word 'election' in the text.
+	9. 'palestinian' -- 139 occurrences
+		0 tweets have the word 'palestinian' in the text.
+	10. 'china' -- 126 occurrences
+		0 tweets have the word 'china' in the text.
+	11. 'rights' -- 123 occurrences
+		87 tweets have the word 'rights' in the text.
+	12. 'freepalestine' -- 118 occurrences
+		0 tweets have the word 'freepalestine' in the text.
+	13. 'saudiwaronyemen' -- 118 occurrences
+		0 tweets have the word 'saudiwaronyemen' in the text.
+	14. 'report' -- 109 occurrences
+		60 tweets have the word 'report' in the text.
+	15. 'government' -- 98 occurrences
+		23 tweets have the word 'government' in the text.
+	16. 'war' -- 95 occurrences
+		319 tweets have the word 'war' in the text.
+	17. 'warning' -- 92 occurrences
+		92 tweets have the word 'warning' in the text.
+	18. 'hungry,' -- 91 occurrences
+		91 tweets have the word 'hungry,' in the text.
+	19. 'issues' -- 91 occurrences
+		91 tweets have the word 'issues' in the text.
+	20. 'solemn' -- 91 occurrences
+		91 tweets have the word 'solemn' in the text.
+	21. 'military' -- 88 occurrences
+		100 tweets have the word 'military' in the text.
+	22. 'group' -- 87 occurrences
+		151 tweets have the word 'group' in the text.
+	23. 'russia' -- 87 occurrences
+		0 tweets have the word 'russia' in the text.
+	24. 'chief' -- 85 occurrences
+		84 tweets have the word 'chief' in the text.
+	25. 'world' -- 79 occurrences
+		33 tweets have the word 'world' in the text.
+	26. 'iranian' -- 74 occurrences
+		0 tweets have the word 'iranian' in the text.
+	27. 'vaccine' -- 73 occurrences
+		48 tweets have the word 'vaccine' in the text.
+	28. 'attack' -- 71 occurrences
+		74 tweets have the word 'attack' in the text.
+	29. 'president' -- 69 occurrences
+		129 tweets have the word 'president' in the text.
+	30. 'pentagon' -- 68 occurrences
+		0 tweets have the word 'pentagon' in the text.
+
+** TOP 10 REPEATED TWEETS **
+	1. 'b'@PressTV: Yemenis arent going hungry, theyre starving: #UN issues solemn warning\n\n#SaudiWarOnYemen \nhttps://t.co/rjx4pU4lcD'' -- 89 occurrences
+	2. 'b'@PressTV: Palestinian rights groups call for halt to Israeli military incursions into #Gaza\n\n#FreePalestine \n\nhttps://t.co/1jZTQOVftp'' -- 44 occurrences
+	3. 'b'@RonPaulInstitut: How About Shutting Down the CDC, FDA, and other Public Health Agencies?\nhttps://t.co/PaahnIR09d https://t.co/pgIIgfT'' -- 41 occurrences
+	4. 'b'@PressTV: #G77, #China call for immediate lifting of sanctions against #Iran\nhttps://t.co/OOgs90LuCi'' -- 39 occurrences
+	5. 'b'@PressTV: #Iran hawks Pompeo, Bolton made rich by Israeli lobby: Pentagon adviser \n\nhttps://t.co/PQWdWeOYnL'' -- 36 occurrences
+	6. 'b'@PressTV: World Food Programme sent expired medical, food supplies to #Yemen: Official \n\nhttps://t.co/1pjpjuy7GI'' -- 32 occurrences
+	7. 'b'@RonPaulInstitut: Neocons Poised to Join New Government\nhttps://t.co/QciwdOVryT https://t.co/fIqvLp2SOm'' -- 29 occurrences
+	8. 'b'@PressTV: Heavily armed #Trump supporters hit US streets \n\nhttps://t.co/1raepGOgYc'' -- 29 occurrences
+	9. 'b"@PressTV: Saudi warplanes bombard #Yemens residential areas in Ma'rib, al-Jawf \n\n#SaudiWarOnYemen \nhttps://t.co/LcAkGgxxyR"' -- 27 occurrences
+	10. 'b'@PressTV: #Iran rejects US media report on killing of senior al-Qaeda leader in Tehran \n\nhttps://t.co/kRv05XisD6'' -- 26 occurrences
+
+** TOP 10 REPEATED TWEETS OMITTING PRESSTV **
+	1. 'b'@RonPaulInstitut: How About Shutting Down the CDC, FDA, and other Public Health Agencies?\nhttps://t.co/PaahnIR09d https://t.co/pgIIgfT'' -- 41 occurrences
+	2. 'b'@RonPaulInstitut: Neocons Poised to Join New Government\nhttps://t.co/QciwdOVryT https://t.co/fIqvLp2SOm'' -- 29 occurrences
+	3. 'b'@marklevinshow: Will any Democrat leader anywhere condemn this?\nhttps://t.co/o2aKG8aylZ'' -- 23 occurrences
+	4. 'b'@RonPaulInstitut: Trump (Finally) Hires Neocon Slayer\nhttps://t.co/wZPBir8naC https://t.co/KmUlkJMylx'' -- 18 occurrences
+	5. 'b'@RonPaulInstitut: Expect Some State Governments to Resist a Countrywide Lockdown\nhttps://t.co/D1fOTfliMM https://t.co/mublYjp0t6'' -- 18 occurrences
+	6. 'b'@Doranimated: Iran pins its hopes on Biden |  https://t.co/tz87kwM6qe'' -- 18 occurrences
+	7. 'b'@LotusOak2: Bill Gates Vaccine Crime Record: 496,000 Paralyzed Children In India and More \n\nhttps://t.co/UFPDiQlABh'' -- 17 occurrences
+	8. 'b'@o_rips: Greece Will Require People to Text Government for Permission to Leave Home Under New Lockdown https://t.co/TGOenro84C'' -- 16 occurrences
+	9. 'b'@Bee42681881: British Cabinet Office Collaborates With French Brainwashing Guru To Change The Way We Think\n\nhttps://t.co/4tJFTrQqUJ'' -- 14 occurrences
+	10. 'b"@RonPaulInstitut: 'Dark Winter' - Biden's Coming Lockdown -- today on the Liberty Report:\nhttps://t.co/J1ZN7SVDEL https://t.co/wE1D9WEuM6"' -- 12 occurrences

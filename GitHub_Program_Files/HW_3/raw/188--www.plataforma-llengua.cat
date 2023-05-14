@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<!--[if IE 7]> 				 <html class="no-js lt-ie9 lt-ie8" lang="ca" > <![endif]-->
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="ca" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ca" > <!--<![endif]-->
+	<head>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+
+	<title>Plataforma per la llengua. l'ONG del català | Plataforma per la Llengua </title>
+	
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@llenguacat" />
+	<meta name="twitter:creator" content="@llenguacat" />
+	<meta property="og:site_name" content="Plataforma per la Llengua "/>
+	
+
+	<meta property="og:title" content="Plataforma per la llengua. l'ONG del català | Plataforma per la Llengua " />
+   	<meta property="og:type" content="website"/>
+
+
+	<meta name="twitter:title" content="Plataforma per la llengua. l'ONG del català | Plataforma per la Llengua " />
+
+
+	<meta property="og:url" content="https://www.plataforma-llengua.cat/"/>
+	<meta name="description" content="Som una organització no governamental que treballa per promoure la llengua catalana com a eina de cohesió social." />
+	<meta property="og:description" content="Som una organització no governamental que treballa per promoure la llengua catalana com a eina de cohesió social." />
+   	<meta property="og:image" content="https://www.plataforma-llengua.cat/media/comu/logo-og.jpg" />
+
+   	
+   	<meta name="twitter:url" content="https://www.plataforma-llengua.cat/" />
+   	<meta name="twitter:description" content="Som una organització no governamental que treballa per promoure la llengua catalana com a eina de cohesió social." />
+   	<meta name="twitter:image" content="https://www.plataforma-llengua.cat/media/comu/logo-og.jpg" />
+
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+
+    <link rel="stylesheet" href="/media/css/app_1601304803.css"  />
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/media/css/ie8_1414772499.css"  />
+	<![endif]-->
+    <script>;window.Modernizr=function(a,b,c){function y(a){j.cssText=a}function z(a,b){return y(m.join(a+";")+(b||""))}function A(a,b){return typeof a===b}function B(a,b){return!!~(""+a).indexOf(b)}function C(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:A(f,"function")?f.bind(d||b):f}return!1}var d="2.6.2",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n={svg:"http://www.w3.org/2000/svg"},o={},p={},q={},r=[],s=r.slice,t,u=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},v=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b).matches;var d;return u("@media "+b+" { #"+h+" { position: absolute; } }",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)["position"]=="absolute"}),d},w={}.hasOwnProperty,x;!A(w,"undefined")&&!A(w.call,"undefined")?x=function(a,b){return w.call(a,b)}:x=function(a,b){return b in a&&A(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=s.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(s.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(s.call(arguments)))};return e}),o.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:u(["@media (",m.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},o.svg=function(){return!!b.createElementNS&&!!b.createElementNS(n.svg,"svg").createSVGRect},o.inlinesvg=function(){var a=b.createElement("div");return a.innerHTML="<svg/>",(a.firstChild&&a.firstChild.namespaceURI)==n.svg},o.svgclippaths=function(){return!!b.createElementNS&&/SVGClipPath/.test(l.call(b.createElementNS(n.svg,"clipPath")))};for(var D in o)x(o,D)&&(t=D.toLowerCase(),e[t]=o[D](),r.push((e[t]?"":"no-")+t));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)x(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},y(""),i=k=null,function(a,b){function k(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a.documentElement;return c.innerHTML="x<style>"+b+"</style>",d.insertBefore(c.lastChild,d.firstChild)}function l(){var a=r.elements;return typeof a=="string"?a.split(" "):a}function m(a){var b=i[a[g]];return b||(b={},h++,a[g]=h,i[h]=b),b}function n(a,c,f){c||(c=b);if(j)return c.createElement(a);f||(f=m(c));var g;return f.cache[a]?g=f.cache[a].cloneNode():e.test(a)?g=(f.cache[a]=f.createElem(a)).cloneNode():g=f.createElem(a),g.canHaveChildren&&!d.test(a)?f.frag.appendChild(g):g}function o(a,c){a||(a=b);if(j)return a.createDocumentFragment();c=c||m(a);var d=c.frag.cloneNode(),e=0,f=l(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function p(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return r.shivMethods?n(c,a,b):b.createElem(c)},a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+l().join().replace(/\w+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c("'+a+'")'})+");return n}")(r,b.frag)}function q(a){a||(a=b);var c=m(a);return r.shivCSS&&!f&&!c.hasCSS&&(c.hasCSS=!!k(a,"article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}mark{background:#FF0;color:#000}")),j||p(a,c),a}var c=a.html5||{},d=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,e=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,f,g="_html5shiv",h=0,i={},j;(function(){try{var a=b.createElement("a");a.innerHTML="<xyz></xyz>",f="hidden"in a,j=a.childNodes.length==1||function(){b.createElement("a");var a=b.createDocumentFragment();return typeof a.cloneNode=="undefined"||typeof a.createDocumentFragment=="undefined"||typeof a.createElement=="undefined"}()}catch(c){f=!0,j=!0}})();var r={elements:c.elements||"abbr article aside audio bdi canvas data datalist details figcaption figure footer header hgroup mark meter nav output progress section summary time video",shivCSS:c.shivCSS!==!1,supportsUnknownElements:j,shivMethods:c.shivMethods!==!1,type:"default",shivDocument:q,createElement:n,createDocumentFragment:o};a.html5=r,q(b)}(this,b),e._version=d,e._prefixes=m,e.mq=v,e.testStyles=u,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+r.join(" "):""),e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))},Modernizr.addTest("ie8compat",function(){return!window.addEventListener&&document.documentMode&&document.documentMode===7});</script>
+	<!--[if lt IE 9]>
+	<script src="/media/js/vendor/respond.min_1414568812.js"></script>
+	<![endif]-->
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic" rel="stylesheet"/>
+
+	<link rel="shortcut icon" href="/media/comu/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/media/comu/plataforma-per-la-llengua-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/media/comu/plataforma-per-la-llengua-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/media/comu/plataforma-per-la-llengua-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/media/comu/plataforma-per-la-llengua-ipad-retina.png">
+	<link rel="apple-touch-icon-precomposed" href="https://www.plataforma-llengua.cat/media/comu/logo-og.png">
+	<link rel="start" href="/" title="Plataforma per la Llengua " >
+
+	<script type="text/javascript">/* <![CDATA[ */
+		var urlBase = '';
+	/* ]]> */</script>
+
+
+	<script type="text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-12948032-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Ads: 980599768 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-980599768"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	 
+	  gtag('config', 'AW-980599768');
+	</script>
+
+	<!-- The following line must be placed in the head tag -->
+<script type="text/javascript" src="https://p.teads.tv/teads-fellow.js" async="true"></script>
+<script>
+  window.teads_e = window.teads_e || [];
+  window.teads_adv_id = 29831;
+</script></head>
+	<body class="home">
+
+		<header class="main-header" role="banner">
+
+		<div class="row print-only">
+			<div class="columns">
+				<p><img src="/media/comu/logo-print.gif" alt=""/></p>
+			</div>
+		</div>
+
+		<div class="top hide-for-small">
+			<div class="tools">
+				<div class="row">
+					<div class="medium-9 columns">
+						<ul class="inline-list lang">
+							<li class="active">
+								<a title="Versió en català" hreflang="ca" xml:lang="ca" lang="ca" href="/">Català</a>
+							</li>
+							<li >
+								<a title="Version er occitan" hreflang="oc" xml:lang="oc" lang="oc" href="/oc_index/">Occitan</a>
+							</li>
+														<li >
+								<a title="English version" hreflang="en" xml:lang="en" lang="en" href="/en_index/">English</a>
+							</li>
+							<li >
+								<a title="Versión en español" hreflang="es" xml:lang="es" lang="es" href="/es_index/">Español</a>
+							</li>
+						</ul>
+					</div>
+					<div class="medium-9 columns">
+												<ul class="inline-list social right">
+							<li class="show-for-medium"><a href="#" data-reveal-id="cercadorModal"><span class="cercar"></span><span class="invisible">Cercar</span></a></li>
+														<li><a alt="Facebook" title="Facebook" href="https://www.facebook.com/PlataformaxLlengua"><span class="icona-xs facebook"></span><span class="invisible">Facebook</span></a></li>
+														<li><a alt="Twitter" title="Twitter" href="http://twitter.com/llenguacat"><span class="icona-xs twitter"></span><span class="invisible">Twitter</span></a></li>
+														<li><a alt="Youtube" title="Youtube" href="http://www.youtube.com/plataformaxllengua"><span class="icona-xs youtube"></span><span class="invisible">YouTube</span></a></li>
+														<li><a alt="Instagram" title="Instagram" href="http://instagram.com/plataformaperlallengua"><span class="icona-xs instagram"></span><span class="invisible">Instagram</span></a></li>
+														<li><a alt="Spotify" title="Spotify" href="http://open.spotify.com/user/plataformaperlallengua"><span class="icona-xs spotify"></span><span class="invisible">Spotify</span></a></li>
+														<li><a alt="Issuu" title="Issuu" href="http://issuu.com/plataformaperlallengua"><span class="icona-xs issuu"></span><span class="invisible">Issuu</span></a></li>
+														<li><a alt="Telegram" title="Telegram" href="https://t.me/plataformaperlallengua"><span class="icona-xs telegram"></span><span class="invisible">Telegram</span></a></li>
+														<li><a  alt="RSS" title="RSS" href="/que-fem/noticies/rss"><span class="icona-xs ico-rss"></span><span class="invisible">RSS</span></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div id="cercadorModal" class="reveal-modal small">
+				<form action="/cercador/" class="search text-center" id="s-3"  method="get">
+					<input type="search" id="cercador-3" name="keywords" placeholder=""/>
+					<input type="hidden" name="pag" value="1" />
+					<input class="button radius" type="submit" name="enviar" value="Cercar &#8594;" />
+				</form>
+			  <a class="close-reveal-modal">&#215;</a>
+			</div>
+			<div class="row">
+				<div class="medium-2 columns">
+					<h1><a href="/"><img src="/media/comu/logo-plataforma.png" alt="Plataforma per la Llengua" class="logo-top"/></a></h1>
+				</div>
+				<div class="medium-16 large-13 columns">
+					<nav role="navigation">
+						<h2 class="invisible">Navegació principal</h2>
+						<ul class="inline-list nav-main">
+    <li class=" has-dropdown">
+        <a href="/qui-som/">Qui som</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/qui-som/">L'ONG del català</a>
+            </li>
+            <li>
+                <a href="/qui-som/junta-executiva/">Qui som?</a>
+            </li>
+            <li>
+                <a href="/qui-som/historia/">Història</a>
+            </li>
+            <li>
+                <a href="/qui-som/objectius/">Objectius</a>
+            </li>
+            <li>
+                <a href="/qui-som/contacte/">Contacte</a>
+            </li>
+            <li>
+                <a href="/qui-som/galeria-imatges">Galeria d'imatges</a>
+            </li>
+            <li>
+                <a href="/territorials/">Territori</a>
+            </li>
+            <li>
+                <a href="/qui-som/treballa-nosaltres/">Treballa amb nosaltres</a>
+            </li>
+        </ul>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/que-fem/ambits-de-treball">Què fem</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/que-fem/noticies">Notícies</a>
+            </li>
+            <li>
+                <a href="/que-fem/ambits-de-treball">Àmbits de treball</a>
+            </li>
+            <li>
+                <a href="/que-fem/articles-opinio">Articles d'opinió</a>
+            </li>
+            <li>
+                <a href="/que-fem/estudis-i-publicacions">Estudis i publicacions</a>
+            </li>
+            <li>
+                <a href="/que-fem/eines-recursos/">Eines i recursos</a>
+            </li>
+            <li>
+                <a href="/que-fem/exits/">Èxits</a>
+            </li>
+            <li>
+                <a href="/que-fem/per-que-ho-fem/">Per què ho fem?</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/campanyes-en-curs">Campanyes en curs</a>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/serveis-formacions/#">Serveis i formacions</a>
+        <ul class="dropdown">
+            <li>
+                <a href="https://www.plataforma-llengua.cat/serveis-formacions/tallers-joves/">Tallers per a joves</a>
+            </li>
+            <li>
+                <a href="/que-fem/ambits-de-treball/queixes/">Servei de queixes i consultes</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/correccions/">Servei de correccions i traduccions</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/consultoria/">Servei de consultoria, assessoria i auditoria lingüística</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/formacio-personal/">Servei de formació per a personal</a>
+            </li>
+        </ul>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/col-labora/socis-subscripcio/">Col·labora</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/col-labora/socis-subscripcio/">Fes-te'n soci!</a>
+            </li>
+            <li>
+                <a href="/col-labora/avantatges-socis/">Avantatges i promocions</a>
+            </li>
+            <li>
+                <a href="/col-labora/atencio-al-soci">Atenció al soci</a>
+            </li>
+            <li>
+                <a href="/col-labora/donatius/">Fes un donatiu!</a>
+            </li>
+            <li>
+                <a href="/col-labora/voluntariat/">Fes-te'n voluntari!</a>
+            </li>
+            <li>
+                <a href="/microdonatius">Un petit gest pel català</a>
+            </li>
+        </ul>
+    </li>
+</ul>					</nav>
+				</div>
+				<div class="large-3 columns hide-for-medium">
+					<form action="/cercador/" class="search right" id="s-1" method="get">
+						<input type="search" id="cercador-1" name="keywords" placeholder="Cercar"/>
+						<input type="hidden" name="pag" value="1" />
+					</form>
+				</div>
+			</div>
+		</div>
+		<!-- /top -->
+
+		<div class="fixed contain-to-grid hide-for-print show-for-small">
+			<nav class="top-bar" role="navigation" data-options="back_text:&#8592; Tornar;">
+				<h2 class="invisible">Navegació principal</h2>
+				<ul class="title-area show-for-small">
+					<!-- Title Area -->
+					<li class="name"><a href="/"><img src="/media/comu/logo-m.jpg" alt="Plataforma per la Llengua"/></a></li>
+					<li class="toggle-topbar menu-icon"><a href="#"><span>Menú</span></a></li>
+				</ul>
+				<div class="top-bar-section">
+					<ul class="left">
+    <li class=" has-dropdown">
+        <a href="/qui-som/">Qui som</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/qui-som/">L'ONG del català</a>
+            </li>
+            <li>
+                <a href="/qui-som/junta-executiva/">Qui som?</a>
+            </li>
+            <li>
+                <a href="/qui-som/historia/">Història</a>
+            </li>
+            <li>
+                <a href="/qui-som/objectius/">Objectius</a>
+            </li>
+            <li>
+                <a href="/qui-som/contacte/">Contacte</a>
+            </li>
+            <li>
+                <a href="/qui-som/galeria-imatges">Galeria d'imatges</a>
+            </li>
+            <li>
+                <a href="/territorials/">Territori</a>
+            </li>
+            <li>
+                <a href="/qui-som/treballa-nosaltres/">Treballa amb nosaltres</a>
+            </li>
+        </ul>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/que-fem/ambits-de-treball">Què fem</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/que-fem/noticies">Notícies</a>
+            </li>
+            <li>
+                <a href="/que-fem/ambits-de-treball">Àmbits de treball</a>
+            </li>
+            <li>
+                <a href="/que-fem/articles-opinio">Articles d'opinió</a>
+            </li>
+            <li>
+                <a href="/que-fem/estudis-i-publicacions">Estudis i publicacions</a>
+            </li>
+            <li>
+                <a href="/que-fem/eines-recursos/">Eines i recursos</a>
+            </li>
+            <li>
+                <a href="/que-fem/exits/">Èxits</a>
+            </li>
+            <li>
+                <a href="/que-fem/per-que-ho-fem/">Per què ho fem?</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/campanyes-en-curs">Campanyes en curs</a>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/serveis-formacions/#">Serveis i formacions</a>
+        <ul class="dropdown">
+            <li>
+                <a href="https://www.plataforma-llengua.cat/serveis-formacions/tallers-joves/">Tallers per a joves</a>
+            </li>
+            <li>
+                <a href="/que-fem/ambits-de-treball/queixes/">Servei de queixes i consultes</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/correccions/">Servei de correccions i traduccions</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/consultoria/">Servei de consultoria, assessoria i auditoria lingüística</a>
+            </li>
+            <li>
+                <a href="/serveis-formacions/formacio-personal/">Servei de formació per a personal</a>
+            </li>
+        </ul>
+    </li>
+    <li class=" has-dropdown">
+        <a href="/col-labora/socis-subscripcio/">Col·labora</a>
+        <ul class="dropdown">
+            <li>
+                <a href="/col-labora/socis-subscripcio/">Fes-te'n soci!</a>
+            </li>
+            <li>
+                <a href="/col-labora/avantatges-socis/">Avantatges i promocions</a>
+            </li>
+            <li>
+                <a href="/col-labora/atencio-al-soci">Atenció al soci</a>
+            </li>
+            <li>
+                <a href="/col-labora/donatius/">Fes un donatiu!</a>
+            </li>
+            <li>
+                <a href="/col-labora/voluntariat/">Fes-te'n voluntari!</a>
+            </li>
+            <li>
+                <a href="/microdonatius">Un petit gest pel català</a>
+            </li>
+        </ul>
+    </li>
+</ul>
+					<ul class="left tools show-for-small">
+						<li class="has-dropdown">
+							<a href="#">Seleccioneu idioma</a>
+							<ul class="dropdown">
+								<li class="active">
+									<a title="Versió en català" hreflang="ca" xml:lang="ca" lang="ca" href="/">Català</a>
+								</li>
+								<li >
+									<a title="Version er occitan" hreflang="oc" xml:lang="oc" lang="oc" href="/oc_index/">Occitan</a>
+								</li>
+								<li >
+									<a title="English version" hreflang="en" xml:lang="en" lang="en" href="http://translate.google.com/translate?hl=en&amp;sl=ca&amp;tl=en&amp;u=https://www.plataforma-llengua.cat/">English</a>
+								</li>
+								<li >
+									<a title="Versión en español" hreflang="es" xml:lang="es" lang="es" href="/es_index/">Español</a>
+								</li>
+							</ul>
+						</li>
+						<li class="search">
+							<form action="/cercador/" class="search" id="s-2" method="post">
+								<div class="row collapse">
+									<div class="small-18 columns">
+										<label for="cercador-2">Cercador</label>
+									</div>
+									<div class="small-16 columns">
+										<input type="search" id="cercador-2" name="keywords" placeholder="Cercar"/>
+									</div>
+									<div class="small-2 columns">
+										<button type="submit">
+											<img src="/media/comu/bt-search.png" alt="Cercar"/>
+										</button>
+									</div>
+								</div>
+							</form>
+						</li>
+						<li class="social">
+														<a href="https://www.facebook.com/PlataformaxLlengua"><span class="icon-facebook"></span><span class="invisible">Facebook</span></a>
+														<a href="http://twitter.com/llenguacat"><span class="icon-twitter"></span><span class="invisible">Twitter</span></a>
+														<a href="http://www.youtube.com/plataformaxllengua"><span class="icon-youtube"></span><span class="invisible">YouTube</span></a>
+														<a href="http://instagram.com/plataformaperlallengua"><span class="icon-instagram"></span><span class="invisible">Instagram</span></a>
+														<a href="#"><span class="icon-feed2"></span><span class="invisible">RSS</span></a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+		<!-- /top-bar -->
+		<div class="curva-decoratius-interior hide-for-small">
+			<svg id="curva_vermell_avall" preserveAspectRatio="none" viewBox="0 0 100 100" height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0 0 C 50 100 50 100 100 0 Z"/>
+			</svg>
+		</div>
+			</header>
+	<!-- /header -->
+
+
+	
+			    <div class="slideshow-wrapper hide-for-small">
+			        <div class="preloader"></div>
+			        <ul data-orbit data-options="bullets:false; slide_number:false;animation:fade;timer_speed: 6000;resume_on_mouseout: true">
+			
+            <li>
+                <a href="https://canvia.cat/aturem-la-castellanitzacio-de-tv3/"><img src="/media/upload/gif/cache/af_pl_canvia_web_peticio_tv3_slide_web_pl_desktop_1602138401_1400.png" alt="Aturem la castellanització de TV3!" srcset="/media/upload/gif/cache/af_pl_canvia_web_peticio_tv3_slide_web_pl_desktop_1602138401_1600.png 2x"/></a>
+            </li>
+        
+            <li>
+                <a href="http://som10milions.cat/"><img src="/media/upload/gif/cache/af_pl_unitat_llengua_2019_slide_web_pl_fase_1_mapa_1575991790_1400.png" alt="Som 10 milions" srcset="/media/upload/gif/cache/af_pl_unitat_llengua_2019_slide_web_pl_fase_1_mapa_1575991790_1600.png 2x"/></a>
+            </li>
+        
+            <li>
+                <a href="https://canvia.cat/volem-disney-en-catala/"><img src="/media/upload/gif/cache/af_pl_disney_slide_web_pl_1585818789_1400.png" alt="#DisneyPlusEnCatalà" srcset="/media/upload/gif/cache/af_pl_disney_slide_web_pl_1585818789_1600.png 2x"/></a>
+            </li>
+        
+            <li>
+                <a href="http://onelink.to/jpajyq"><img src="/media/upload/gif/cache/af_pl_apparellat_slide_web_pl_desktop_1585317520_1400.png" alt="" srcset="/media/upload/gif/cache/af_pl_apparellat_slide_web_pl_desktop_1585317520_1600.png 2x"/></a>
+            </li>
+        
+            <li>
+                <a href="https://guiacatnord.cat/"><img src="/media/upload/gif/cache/pl_guia_catnord_slide_web_1537277080_1400.png" alt="" srcset="/media/upload/gif/cache/pl_guia_catnord_slide_web_1537277080_1600.png 2x"/></a>
+            </li>
+        
+			        </ul>
+			    </div>
+			    <!-- /slideshow-wrapper -->
+	<main class="main" role="main" id="main">
+		<section class="section news">
+			<div class="row">
+				<div class="medium-18 large-12 columns">
+					<h2>Notícies</h2>
+                        <div class="row">
+                        <div class="medium-9 columns">
+                            <article class="row">
+                                
+                        <div class="small-8 columns">
+                        <p><img src="/media/upload/gif/cache/12a19caf_40bf_4d98_a8b9_f407886dff62_1602083932_a160160.jpg" alt="La Plataforma per la Llengua i Parlem signen la renovació de l’acord de col·laboració" /></p>
+                        </div>
+                        
+                                <div class="small-10 columns">
+                                    <time datetime="2020-10-07">Dimecres,  7 d'octubre de 2020</time>
+                                    <h3><a href="/que-fem/noticies/4780/la-plataforma-per-la-llengua-i-parlem-signen-la-renovacio-de-lacord-de-collaboracio">La Plataforma per la Llengua i Parlem signen la renovació de l’acord de col·laboració</a></h3>
+                                </div>
+                            </article>
+                        </div>
+                    
+                        <div class="medium-9 columns">
+                            <article class="row">
+                                
+                        <div class="small-8 columns">
+                        <p><img src="/media/upload/gif/cache/af_pl_10_anys_instagram_flyer_fb_inst_generic_1601980838_a160160.png" alt="Instagram fa 10 anys que discrimina el català" /></p>
+                        </div>
+                        
+                                <div class="small-10 columns">
+                                    <time datetime="2020-10-06">Dimarts,  6 d'octubre de 2020</time>
+                                    <h3><a href="/que-fem/noticies/4775/instagram-fa-10-anys-que-discrimina-el-catala">Instagram fa 10 anys que discrimina el català</a></h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div><div class="row">
+                        <div class="medium-9 columns">
+                            <article class="row">
+                                
+                        <div class="small-8 columns">
+                        <p><img src="/media/upload/gif/cache/af_pl_eleccions_26_m_flyer_fb_ins_v1_1601980158_a160160.png" alt="El Parlament de les Illes Balears votarà instar el govern espanyol  a fer oficial el català a la Unió Europea" /></p>
+                        </div>
+                        
+                                <div class="small-10 columns">
+                                    <time datetime="2020-10-06">Dimarts,  6 d'octubre de 2020</time>
+                                    <h3><a href="/que-fem/noticies/4774/el-parlament-de-les-illes-balears-votara-instar-el-govern-espanyol-a-fer-oficial-el-catala-a-la-unio-europea">El Parlament de les Illes Balears votarà instar el govern espanyol  a fer oficial el català a la Unió Europea</a></h3>
+                                </div>
+                            </article>
+                        </div>
+                    
+                        <div class="medium-9 columns">
+                            <article class="row">
+                                
+                        <div class="small-8 columns">
+                        <p><img src="/media/upload/gif/cache/2864fd6e_9953_4f86_80fc_720e6023b4fc_1601993115_a160160.jpg" alt="La Plataforma per la Llengua presenta un nou nucli territorial a Igualada" /></p>
+                        </div>
+                        
+                                <div class="small-10 columns">
+                                    <time datetime="2020-10-05">Dilluns,  5 d'octubre de 2020</time>
+                                    <h3><a href="/que-fem/noticies/4779/la-plataforma-per-la-llengua-presenta-un-nou-nucli-territorial-a-igualada">La Plataforma per la Llengua presenta un nou nucli territorial a Igualada</a></h3>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                        <a href="/que-fem/noticies" class="button radius more small">Més notícies</a>
+                        				</div>
+
+				<div class="medium-18 columns show-for-medium">
+					<div class="row">
+						<div class="panel panel-3 caixa-socis medium-18 columns">
+							<div class="wrap">
+								<div class="contingut" style="background: none;">
+									<div class="row" >
+										<div class="columna-botons medium-18 columns">
+											<div class="row">
+												<div class="medium-9 columns">
+													<a style="padding: 1em; margin-bottom: 0;" href="https://www.plataforma-llengua.cat/col-labora/socis-subscripcio/" class="boto">Fes-te'n soci</a>
+												</div>
+												<div class="medium-9 columns">
+													<a style="padding: 1em; margin-bottom: 0;" href="https://www.plataforma-llengua.cat/col-labora/voluntariat/" class="boto groc">Fes-te'n voluntari</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="medium-9 columns panel panel-3">
+							<div class="wrap">
+								<h2>Subscriu-te al nostre butlletí!</h2>
+								<form action="/butlleti/" id="info2" method="post">
+									<div>
+										<label for="email-news">Deixa'ns el teu email i rebràs les nostres novetats.</label>
+										<div class="row collapse">
+											<div class="small-16 columns">
+												<input type="email" name="email" id="email-news" class="email-news" required/>
+
+												<input type="hidden" value="1" name="houdiniControl" class="houdiniControl" required/>
+												<input type="hidden" value="9049" name="llista" class="llista" required/>
+												<input type="hidden" value="1" name="enviar" id="enviar" required/>
+											</div>
+											<div class="small-2 columns">
+												<button type="submit" name="submit" class="button prefix">
+													<img src="/media/comu/fletxa-dreta.png" alt="Enviar"/>
+												</button>
+											</div>
+										</div>
+									</div>
+									<div class="legal2">
+										<label for="legal"><input type="checkbox" name="legal" value="1" required /><span>
+										He llegit i accepto la <a href="/privacitat/">política de privacitat*</a></span></label>
+									</div>
+								</form>
+							</div>
+						</div>
+						<div class="medium-9 columns end">
+							<a href="/que-fem/ambits-de-treball/queixes/"><img src="/media/comu/ca_banner-queixes-consultes.jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="large-6 columns hide-for-medium">
+
+					<div class="panel panel-3 caixa-socis">
+						<div class="wrap">
+							<div class="contingut">
+								<div class="row" >
+									<div class="small-6 medium-9 columns" style="position: relative;">
+									</div>
+									<div class="columna-botons small-12 medium-9 columns">
+										<a href="https://www.plataforma-llengua.cat/col-labora/socis-subscripcio/" class="boto">Fes-te'n soci</a>
+										<a href="https://www.plataforma-llengua.cat/col-labora/voluntariat/" class="boto groc">Fes-te'n voluntari</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-3">
+						<div class="wrap">
+							<h2>Subscriu-te al nostre butlletí!</h2>
+							<form action="/butlleti/" id="info" method="post">
+								<div>
+									<label for="email-news">Deixa'ns el teu email i rebràs les nostres novetats.</label>
+									<div class="row collapse">
+										<div class="small-16 columns">
+											<input type="email" name="email" id="email-news" class="email-news" required/>
+											<input type="hidden" value="1" name="houdiniControl" class="houdiniControl" required/>
+											<input type="hidden" value="9049" name="llista" class="llista" required/>
+											<input type="hidden" value="1" name="enviar" id="enviar" required/>
+										</div>
+										<div class="small-2 columns">
+											<button type="submit" name="subscribe_newsletter" class="button prefix">
+												<img src="/media/comu/fletxa-dreta.png" alt="Enviar"/>
+											</button>
+										</div>
+									</div>
+								</div>
+
+								<div class="legal">
+									<label for="legal"><input type="checkbox" name="legal" value="1" required /><span>
+									He llegit i accepto la <a href="/privacitat/">política de privacitat*</a></span></label>
+								</div>
+							</form>
+						</div>
+					</div>
+					<a style="margin-bottom: 2em; height: 87px;" href="/que-fem/ambits-de-treball/queixes/"><img src="/media/comu/ca_banner-queixes-consultes.jpg" /></a>
+				</div>
+			</div>
+		</section>
+		<!-- /news -->
+		<div class="curva-decoratius hide-for-small hide-for-medium">
+			<svg id="curva_groc_avall2" preserveAspectRatio="none" viewBox="0 0 100 100" height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0 0 C 50 100 50 100 100 0 Z"/>
+			</svg>
+		</div>
+		
+        <section class="destaquem">
+            <div class="wrap">
+                <div class="row">
+                    <div class="large-18 columns">
+                        <h2>Destaquem</h2>
+                        <div class="destacats">
+                        
+                <div class="item"><a href="https://www.plataforma-llengua.cat/col-labora/voluntariat/"><img src="/media/upload/gif/cache/voluntaris_destaquem_web_1598340513_261.png" alt="Poder viure plenament en català també depèn de tu"/></a></div>
+        
+                <div class="item"><a href="https://interactius.ara.cat/viureencatala"><img src="/media/upload/gif/cache/261x157_1588840088_261.png" alt="Guia per viure en català"/></a></div>
+        
+                <div class="item"><a href="https://www.plataforma-llengua.cat/actuaciolinguisticaintegral/"><img src="/media/upload/gif/cache/diseno_sin_titulo5_1589972959_261.png" alt="Plans d'Actuació Lingüística Integral"/></a></div>
+        
+                <div class="item"><a href="https://www.plataforma-llengua.cat/que-fem/estudis-i-publicacions/cat/59/informecat"><img src="/media/upload/gif/cache/af_pl_informe_cat_baner_web_v2_1589882465_261.png" alt="InformeCAT"/></a></div>
+        
+                <div class="item"><a href="http://apparellat.cat/"><img src="/media/upload/gif/cache/apparellat_1555420076_261.jpg" alt="Apparella't"/></a></div>
+        
+                <div class="item"><a href="https://www.plataforma-llengua.cat/campanyes/catalapp/"><img src="/media/upload/gif/cache/catalapp_web_1496231717_261.jpg" alt="CatalApp"/></a></div>
+        
+                <div class="item"><a href="https://www.plataforma-llengua.cat/col-labora/voluntaris-fgc/"><img src="/media/upload/gif/cache/tren_de_la_llengua_1487157340_261.png" alt="El tren de la llengua"/></a></div>
+        
+                <div class="item"><a href="https://www.softcatala.org/catalanitzador/"><img src="/media/upload/gif/cache/ordinador_1422024219_261.png" alt="El teu ordinador en Català"/></a></div>
+        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- /destaquem -->
+        		<section class="xarxes-socials">
+			<div class="curva-decoratius curva-xarxes-home hide-for-small hide-for-medium">
+				<svg id="curva_blanc_avall" preserveAspectRatio="none" viewBox="0 0 100 100" height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+					<path d="M0 0 C 50 100 50 100 100 0 Z"/>
+				</svg>
+			</div>
+			<div class="row">
+				<div class="medium-6 large-5 columns instagram">
+	<h2>A l'Instagram</h2>
+<ul class="small-block-grid-2"><li style="clear: both;"><a href="http://instagram.com/plataformaperlallengua"  ><img src="https://instagram.fmnl8-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/121505385_154827649654161_3827130902349382999_n.jpg?_nc_ht=instagram.fmnl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=2j4veejyWD0AX-dvCkl&oh=e9e02e0934fc96ca7569dc8782c15082&oe=5FB14AAA" alt="🛩 Saps que "Avions" no està en català a @disneypluses tot i existir la versió en la nostra llengua?
+.
+🖱️ Entra al centre d’ajuda de @disneyplus i demana que la incloguin 👉 help.disneyplus.com
+.
+⌨️ Com més peticions fem, més opcions d’aconseguir #DisneyPlusEnCatalà com més aviat millor!" title="🛩 Saps que "Avions" no està en català a @disneypluses tot i existir la versió en la nostra llengua?
+.
+🖱️ Entra al centre d’ajuda de @disneyplus i demana que la incloguin 👉 help.disneyplus.com
+.
+⌨️ Com més peticions fem, més opcions d’aconseguir #DisneyPlusEnCatalà com més aviat millor!" /></a></li><li style=""><a href="http://instagram.com/plataformaperlallengua"  ><img src="https://instagram.fmnl8-1.fna.fbcdn.net/v/t51.2885-15/e35/121400974_104492744724543_1793386680887320378_n.jpg?_nc_ht=instagram.fmnl8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=ATzkjoDU0hgAX9SttFD&_nc_tp=18&oh=abb2d596643f80ff0795afcfc615b838&oe=5FB16EB0" alt="📢 Avui fa un any que el Tribunal Suprem va condemnar a més de 100 anys de presó a nou homes i dones de pau per defensar els drets i les llibertats.
+.
+🎗 Denunciarem aquesta ignomínia fins que sigueu lliures.
+
+#LlibertatPresosPolítics" title="📢 Avui fa un any que el Tribunal Suprem va condemnar a més de 100 anys de presó a nou homes i dones de pau per defensar els drets i les llibertats.
+.
+🎗 Denunciarem aquesta ignomínia fins que sigueu lliures.
+
+#LlibertatPresosPolítics" /></a></li><li style="clear: both;"><a href="http://instagram.com/plataformaperlallengua"  ><img src="https://instagram.fmnl8-1.fna.fbcdn.net/v/t51.2885-15/e35/121605317_678683219727370_6558281872225482142_n.jpg?_nc_ht=instagram.fmnl8-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=s8sBqj-Hp_YAX9vh1VQ&se=7&_nc_tp=18&oh=ad24b98c3288f7828173fb920a60e6f7&oe=5FAED1C1" alt="💪 La força dels nostres socis permet assolir èxits en favor del català.
+.
+⚖️ Gràcies a ells hem aconseguit que les sentències judicials en català hagin trencat una dinàmica de 15 anys de caiguda i hagin augmentat un 11 % el 2019.
+
+Ajuda'ns! Fes-te'n soci 👉 www.plataforma-llengua.cat/socis" title="💪 La força dels nostres socis permet assolir èxits en favor del català.
+.
+⚖️ Gràcies a ells hem aconseguit que les sentències judicials en català hagin trencat una dinàmica de 15 anys de caiguda i hagin augmentat un 11 % el 2019.
+
+Ajuda'ns! Fes-te'n soci 👉 www.plataforma-llengua.cat/socis" /></a></li><li style=""><a href="http://instagram.com/plataformaperlallengua"  ><img src="https://instagram.fmnl8-1.fna.fbcdn.net/v/t51.2885-15/e15/121421887_159457679150450_6488891861731266313_n.jpg?_nc_ht=instagram.fmnl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PS2RWuwdKHwAX9iw8JP&_nc_tp=18&oh=d8f4f054de39e9d013e5885d344ce52d&oe=5F89C5E7" alt="⚽️ @quiqueferrecarbonell recorda que fa dècades que gaudim del futbol dels equips del País Valencià, que han deixat moments memorables. I si traslladem tots aquests moments al futbol del #FIFA21?
+.
+🖊 Signa la petició a www.canvia.cat!
+
+#FIFAenCatalà" title="⚽️ @quiqueferrecarbonell recorda que fa dècades que gaudim del futbol dels equips del País Valencià, que han deixat moments memorables. I si traslladem tots aquests moments al futbol del #FIFA21?
+.
+🖊 Signa la petició a www.canvia.cat!
+
+#FIFAenCatalà" /></a></li></ul>
+	<a href="http://instagram.com/plataformaperlallengua" class="button radius more small">Més imatges</a>
+</div>
+
+                <div class="medium-6 columns twitter large-push-1">
+                    <h2>Darreres piulades</h2>
+                    <ol>
+
+        <li class="row">
+            <div class="small-18 columns">
+            <p class="usr">llenguacat</p>
+            <p>📢 Avui fa un any que el Tribunal Suprem va condemnar a més de 100 anys de presó a nou homes i dones de pau per defe… <a target="_blank" href="https://t.co/5ERzh0iWaO">https://t.co/5ERzh0iWaO</a></p>
+            </div>
+        </li>
+        <li class="row">
+            <div class="small-18 columns">
+            <p class="usr">llenguacat</p>
+            <p>🎁 PROMOCIÓ DE LA SETMANA
+
+🎭 Ets soci de la <a href="http://www.twitter.com/llenguacat">@llenguacat</a>? Aprofita el 20 % de descompte en les entrades per "Aquest p… <a target="_blank" href="https://t.co/JYLpntCVcE">https://t.co/JYLpntCVcE</a></p>
+            </div>
+        </li>
+        <li class="row">
+            <div class="small-18 columns">
+            <p class="usr">llenguacat</p>
+            <p>RT <a href="http://www.twitter.com/PlataformaPV">@PlataformaPV</a>: Sabies que tens l'opció de demanar a les autoescoles que vols fer l'examen de conduir en valencià? 💭
+
+Sempre tenim dret a…</p>
+            </div>
+        </li>
+                    </ol>
+                    <a href="http://twitter.com/llenguacat" class="button radius more small">Més piulades</a>
+                </div>
+    <div class="medium-6 large-5 columns youtube">
+        <h2>Canal YouTube</h2>
+        <p><a href="https://www.youtube.com/watch?v=yV69UEi-uHg"><img src="https://i.ytimg.com/vi/yV69UEi-uHg/mqdefault.jpg" alt="#FIFAenCatalà- Berti ens mostra com seria la narració del Barça-Juventus en català al FIFA" /></a></p><h3><a href="https://www.youtube.com/watch?v=yV69UEi-uHg">#FIFAenCatalà- Berti ens mostra com seria la narració del Barça-Juventus en català al FIFA</a></h3>
+        <a href="http://www.youtube.com/plataformaxllengua" class="button radius more small">Més videos</a>
+    </div>
+    			</div>
+		</section>
+		<!-- /xarxes-socials -->
+		<div class="curva-decoratius hide-for-small hide-for-medium">
+			<svg id="curva_groc_avall" preserveAspectRatio="none" viewBox="0 0 100 100" height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0 0 C 50 100 50 100 100 0 Z"/>
+			</svg>
+		</div>
+		<section class="estudis">
+			<div class="row">
+				<div class="medium-6 columns publicacions ">
+					<h2>Estudis i publicacions</h2>
+					
+                        <div class="row">
+                            <div class="medium-9 small-9 columns caixeta"><a href="/que-fem/estudis-i-publicacions/267/informecat-2020"><img src="/media/upload/gif/cache/portada_informecat_2020_1592319301_a160160.JPG" alt="InformeCAT 2020" /></a><h3><a href="/que-fem/estudis-i-publicacions/267/informecat-2020">InformeCAT 2020</a></h3></div><div class="medium-9 small-9 columns caixeta"><a href="/que-fem/estudis-i-publicacions/264/a-la-notaria-defensa-els-teus-drets"><img src="/media/upload/gif/cache/notaries2020_pages_to_jpg_0001_1586330897_a160160.jpg" alt="A la notaria defensa els teus drets" /></a><h3><a href="/que-fem/estudis-i-publicacions/264/a-la-notaria-defensa-els-teus-drets">A la notaria defensa els teus drets</a></h3></div><div class="medium-9 small-9 columns caixeta"><a href="/que-fem/estudis-i-publicacions/261/benvinguts-al-valencia"><img src="/media/upload/gif/cache/benvinguts_al_valencia_pages_to_jpg_0001_1576836665_a160160.jpg" alt="Benvinguts al valencià!" /></a><h3><a href="/que-fem/estudis-i-publicacions/261/benvinguts-al-valencia">Benvinguts al valencià!</a></h3></div><div class="medium-9 small-9 columns caixeta"><a href="/que-fem/estudis-i-publicacions/260/comportament-linguistic-davant-dels-cossos-policials-espanyols"><img src="/media/upload/gif/cache/portadapolis_1576579731_a160160.jpg" alt="Comportament lingüístic davant dels cossos policials espanyols" /></a><h3><a href="/que-fem/estudis-i-publicacions/260/comportament-linguistic-davant-dels-cossos-policials-espanyols">Comportament lingüístic davant dels cossos policials espanyols</a></h3></div>
+                        </div>
+                        <div class="text-center"><p><a class="button radius small morend" href="/que-fem/estudis-i-publicacions">Més estudis i publicacions</a></p></div>
+                        				</div>
+								<div class="medium-6 columns exits ">
+					<h2>Èxit del mes</h2>
+					
+                        <div class="row">
+                            <div class="medium-18 small-18 columns caixeta"><a href="/que-fem/exits#61"><img src="/media/upload/gif/cache/volem_escola_en_algueres_1601553209_a385250.png" alt="Un pas més per introduir l’alguerès en l’ensenyament a Sardenya" /></a><h3><a href="/que-fem/exits#61">Un pas més per introduir l’alguerès en l’ensenyament a Sardenya</a></h3><p></p></div>
+                        </div>
+                        <div style="margin-top: 20px;" class="text-center"><p><a class="button radius small morend" href="/que-fem/exits">Més casos d'èxit</a></p></div>
+                        				</div>
+								<div class="medium-6 columns text-center donacions" >
+					<h2>Fes un donatiu</h2>
+					<p><a href="/col-labora/donatius/"><img src="/media/comu/imatge-donatiu.png" alt="Fes una donació"/></a></p>
+					<div class="text-center">
+						<h3><a href="/col-labora/donatius/">Ajuda'ns a defensar i promoure el català!</a></h3>
+						<p><a class="button radius small morend" href="/col-labora/donatius/">Ajuda'ns</a></p>
+					</div>
+				</div>
+			</div>
+
+		</section>
+		<!-- /estudis -->
+
+		
+                         <div class="white-popup mfp-hide form-portada ">
+                                <div class="medium-6 panel panel-3" style="position: relative;">
+                                    <button title="Tancar (Esc)" type="button" class="mfp-close" style="background: transparent !important;">×</button>
+                                    <div class="wrap">
+                                        <h2>Subscriu-te al nostre butlletí!</h2>
+                                        <form action="/butlleti/" id="info2" method="post">
+                                            <div>
+                                                <label for="email-news">Sigues el primer en conèixer totes les novetats de la Plataforma per la Llengua!</label>
+                                                <div class="row text-center">
+                                                    <div class="small-18 columns text-center">
+                                                        <input type="email" name="email" id="email-news" class="email-news" required="">
+
+                                                        <input type="hidden" value="9049" name="llista" class="llista" required="">
+                                                        <input type="hidden" value="1" name="enviar" id="enviar" required="">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="legal2">
+                                                <label for="legal"><input type="checkbox" name="legal" value="1" required=""><span>
+                                                He llegit i accepto la <a href="/privacitat/">política de privacitat*</a></span></label>
+                                            </div>
+                                            <div>
+                                                <button type="submit" name="submit" class="button radius acceptar">
+                                                    Subscriu-te
+                                                </button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                        </div>	</main>
+	<!-- /main -->
+
+		<footer role="contentinfo" class="main-footer ">
+		<div class="curva-decoratius hide-for-small">
+			<svg id="curva_peu_amunt" preserveAspectRatio="none" viewBox="0 0 100 100" height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0 100 C40 0 50 0 100 100 Z"/>
+			</svg>
+		</div>
+		<div class="wrapper">
+			<div class="row">
+
+				<div class="medium-4 columns peu-div-col localitzacio">
+				<p><img src="/media/comu/logo-plataforma.png" alt="Plataforma per la Llengua"/></p>
+Informa't					<p>
+						C/ Sant Honorat, 7<br />
+Principal 1a.<br />
+08002 Barcelona
+<br/>
+						Tel: 93 321 18 03<br/>
+						<a href="mailto:info@plataforma-llengua.cat">Correu electrònic</a>
+					</p>
+				</div>
+
+								<div class="medium-6 large-7 columns peu-div-col territorials">
+					<h2>Xarxa territorial</h2>
+					<ul class="xarxa">
+						<li>Catalunya
+							<ul style="display: inline-block; font-size: 1em; width:100%;">
+								<li><a href="/territorials/baixllobregat/">Baix Llobregat</a></li>
+								<li><a href="/territorials/barcelones/">Barcelonès</a></li>
+								<li><a href="/territorials/conflent/">Conflent</a></li>
+								<li><a href="/territorials/girones/">Gironès</a></li>
+								<li><a href="/territorials/maresme/">Maresme</a></li>
+								<li><a href="/territorials/vallesoccidental/">Vallès Occidental</a></li>
+							</ul>
+						</li>
+						<li><a href="/territorials/illes-balears/">Illes Balears</a></li>
+						<li><a href="/territorials/pais-valencia/">País Valencià</a></li>
+						<li><a href="/territorials/alguer/">l'Alguer</a></li>
+					</ul>
+				</div>
+								<div class="medium-4 large-3 columns peu-div-col menu">
+					<ul>
+						<li><a href="/qui-som/">Qui som</a></li>
+						<li><a href="/que-fem/ambits-de-treball/">Què fem</a></li>
+												<li><a href="/campanyes-en-curs/">Campanyes en curs</a></li>
+																		<li><a href="/serveis-formacions/">Serveis i formacions</a></li>
+						<li><a href="/col-labora/">Col·labora</a></li>
+						<li><a href="/transparencia/">Transparència</a></li>
+											</ul>
+				</div>
+				<div class="medium-4 columns peu-div-col copy ">
+					<p>© Plataforma per la Llengua</p>
+					<ul>
+						<li><a href="/avis-legal/">Avís Legal</a></li>
+						<li><a href="/privacitat/">Privacitat</a></li>
+						<li><a href="/politica-de-cookies/">Política de cookies</a></li>
+						<li><a href="/qui-som/contacte/">Contacte</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+	<!-- /footer -->
+
+	<a class="scrollup pujar hide-for-print" href="#main">Pujar</a>
+
+		<script>
+		var idioma = 'ca';
+	</script>	
+	<script src="/media/js/app.min_1574263062.js"></script>
+
+	<script>
+		$(document).foundation();
+	</script>
+
+	
+	<script>
+		$().ready(function(){
+			$('.mfp-img').click(function(event){
+				var vincle = $(this).parent().find('a').attr('href');
+				window.open(vincle,'_self');
+			});
+		});
+	</script>
+	</body>
+</html>

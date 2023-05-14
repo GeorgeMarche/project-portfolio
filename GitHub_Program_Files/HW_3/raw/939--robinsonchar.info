@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+<head>
+	<meta charset="UTF-8" />
+<meta name="description" content="" /><meta name="keywords" content="" /><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://robinsonchar.info/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<script>var et_site_url='https://robinsonchar.info';var et_post_id='17747';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Robinson Char &#8211; Haciendo Marketing</title>
+<style id="et-divi-userfonts">@font-face { font-family: "Inter"; font-display: swap;  src: url("https://robinsonchar.info/wp-content/uploads/et-fonts/Inter-Black.ttf") format("truetype"); }</style><link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Robinson Char &raquo; Feed" href="https://robinsonchar.info/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Robinson Char &raquo; Feed de los comentarios" href="https://robinsonchar.info/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/robinsonchar.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.4.5.8" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://robinsonchar.info/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://robinsonchar.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ibx-wpfomo-style-css'  href='https://robinsonchar.info/wp-content/plugins/wpfomify/assets/css/frontend.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://robinsonchar.info/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://robinsonchar.info/wp-content/themes/Divi/style.css?ver=4.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;subset=latin-ext%2Cgreek%2Cgreek-ext%2Cvietnamese%2Ccyrillic%2Clatin%2Ccyrillic-ext&#038;display=swap&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://robinsonchar.info/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/plugins/wpfomify/assets/js/jquery.cookie.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"robinsonchar_info"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4.2'></script>
+<link rel='https://api.w.org/' href='https://robinsonchar.info/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://robinsonchar.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://robinsonchar.info/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="https://robinsonchar.info/" />
+<link rel='shortlink' href='https://robinsonchar.info/' />
+<link rel="alternate" type="application/json+oembed" href="https://robinsonchar.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frobinsonchar.info%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://robinsonchar.info/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frobinsonchar.info%2F&#038;format=xml" />
+		<meta name="abstract" content="MasterMind Marketing">
+		<meta name="author" content="admin">
+		<meta name="classification" content="Apps, Blog, Dropshipping, facebook, Mercadeo, Otras, Radionline, Seminarios, Tecnología">
+		<meta name="copyright" content="Copyright Robinson Char - All rights Reserved.">
+		<meta name="designer" content="Elegant Themes">
+		<meta name="distribution" content="Global">
+		<meta name="language" content="es">
+		<meta name="publisher" content="Robinson Char">
+		<meta name="rating" content="General">
+		<meta name="resource-type" content="Document">
+		<meta name="revisit-after" content="3">
+		<meta name="subject" content="Apps, Blog, Dropshipping, facebook, Mercadeo, Otras, Radionline, Seminarios, Tecnología">
+		<meta name="template" content="Divi">
+		<meta name="robots" content="index,follow">
+		<meta name="example" content="custom: 2020-08-01">
+<!-- HFCM by 99 Robots - Snippet # 2: Robinson Char -->
+<!-- ManyChat -->
+<script src="//widget.manychat.com/117509214959738.js" async="async"></script>
+<!-- /end HFCM by 99 Robots -->
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '3481148275292492', {}, {
+    "agent": "wordpress-5.4.2-2.2.0"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=3481148275292492&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143813038-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143813038-1');
+</script>
+<link rel="icon" href="https://robinsonchar.info/wp-content/uploads/2019/07/icono.ico" sizes="32x32" />
+<link rel="icon" href="https://robinsonchar.info/wp-content/uploads/2019/07/icono.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://robinsonchar.info/wp-content/uploads/2019/07/icono.ico" />
+<meta name="msapplication-TileImage" content="https://robinsonchar.info/wp-content/uploads/2019/07/icono.ico" />
+<link rel="stylesheet" id="et-core-unified-tb-17875-tb-17986-17747-cached-inline-styles" href="https://robinsonchar.info/wp-content/et-cache/17747/et-core-unified-tb-17875-tb-17986-17747-1601382186932.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-17747 et-tb-has-template et-tb-has-header et-tb-has-footer et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		<header class="et-l et-l--header">
+			<div class="et_builder_inner_content et_pb_gutters3"><div id="menuFijo" class="et_pb_section et_pb_section_1_tb_header et_pb_with_background et_section_regular et_pb_section--fixed" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0_tb_header et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_header et_clickable  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span style="color: #ffffff;">robinsonchar.info</span></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_3_5 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_right et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-menu-principal" class="et-menu nav"><li class="et_pb_menu_page_id-810 menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-810"><a href="https://robinsonchar.info" aria-current="page">Inicio</a></li>
+<li class="et_pb_menu_page_id-17934 menu-item menu-item-type-post_type menu-item-object-page menu-item-17940"><a href="https://robinsonchar.info/blog/">Blog</a></li>
+<li class="et_pb_menu_page_id-18205 menu-item menu-item-type-post_type menu-item-object-page menu-item-18210"><a href="https://robinsonchar.info/autor/">Autor</a></li>
+<li class="et_pb_menu_page_id-18211 menu-item menu-item-type-post_type menu-item-object-page menu-item-18215"><a href="https://robinsonchar.info/podcast/">Podcast</a></li>
+<li class="et_pb_menu_page_id-17529 menu-item menu-item-type-post_type menu-item-object-page menu-item-18819"><a href="https://robinsonchar.info/radionline/">Radionline</a></li>
+<li class="et_pb_menu_page_id-17966 menu-item menu-item-type-post_type menu-item-object-page menu-item-17970"><a href="https://robinsonchar.info/contacto/">Contacto</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<a href="#" class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</a>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</header><!-- .et-l -->
+	<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-17747" class="post-17747 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_section_parallax et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" >
+				
+				<div class="et_parallax_bg_wrap"><div
+						class="et_parallax_bg"
+						style="background-image: url(https://robinsonchar.info/wp-content/uploads/2020/05/marketing-bg6.png);"
+					></div></div>
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><h3>PROFESIONAL DEL MARKETING DIGITAL</h3>
+<h1>ROBINSON CHAR</h1></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p>¡No necesitas Marketing si eres extraordinario!</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">CONTACTO</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_2_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img  alt="" title="10-tecnicas-con-las-que-diseñar-una-estrategia-de-marketing-digital-01" data-src="https://robinsonchar.info/wp-content/uploads/2020/05/10-tecnicas-con-las-que-diseñar-una-estrategia-de-marketing-digital-01.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/05/10-tecnicas-con-las-que-diseñar-una-estrategia-de-marketing-digital-01.png" alt="" title="10-tecnicas-con-las-que-diseñar-una-estrategia-de-marketing-digital-01" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner" data-et-multi-view="{&quot;schema&quot;:{&quot;content&quot;:{&quot;desktop&quot;:&quot;&lt;h2&gt;Comience Ahora&lt;\/h2&gt;\n&lt;p&gt;Comencemos a trabajar desde las plataformas digitales y le prometo maximizar su presupuesto. Yo lo asesoro en esta nueva etapa de su proceso comercial.&lt;\/p&gt;&quot;,&quot;tablet&quot;:&quot;&lt;h2 style=\&quot;text-align: center;\&quot;&gt;Comience Ahora&lt;\/h2&gt;\n&lt;p style=\&quot;text-align: center;\&quot;&gt;Comiencemos a trabajar desde las plataformas digitales y le prometo maximizar su presupuesto. Yo lo asesoro en esta nueva etapa de su proceso comercial.&lt;\/p&gt;&quot;,&quot;phone&quot;:&quot;&lt;h2 style=\&quot;text-align: center;\&quot;&gt;\u00a1Comencemos! &lt;\/h2&gt;\n&lt;p style=\&quot;text-align: center;\&quot;&gt;Le aseguro que cada minuto que pasa est\u00e1 dejando de ganar dinero. Ese costo por lead que tiene hoy puede ser mucho menor.  Le ayudo a maximizar su presupuesto de marketing.  \u00a1Comencemos!&lt;\/p&gt;&quot;}},&quot;slug&quot;:&quot;et_pb_text&quot;}" data-et-multi-view-load-tablet-hidden="true" data-et-multi-view-load-phone-hidden="true"><h2>Comience Ahora</h2>
+<p>Comencemos a trabajar desde las plataformas digitales y le prometo maximizar su presupuesto. Yo lo asesoro en esta nueva etapa de su proceso comercial.</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Contacto</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2 style="text-align: center;">¡Estoy listo para ayudarlo!</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_3 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_0 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_off et-pb-icon et-pb-icon-circle">&#xe076;</span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Campaña de Marketing Digital</span></h4>
+						<div class="et_pb_blurb_description"><p>Esta es la base de los negocios de hoy. La base tecnológica se volvió un elemento necesario para las empresas. Trabajemos en su plan de Marketing Digital.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_animated et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Lo quiero</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_1 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_off et-pb-icon et-pb-icon-circle">&#xe08b;</span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Social Media Management</span></h4>
+						<div class="et_pb_blurb_description"><p>Diseñemos un robusto ecosistema de redes sociales para su empresa. Analicemos que necesitamos para atender a su público y convertirlo en cliente recurrente.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_animated et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Lo quiero</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_2 et_animated  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_off et-pb-icon et-pb-icon-circle">&#xe077;</span></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Coaching</span></h4>
+						<div class="et_pb_blurb_description"><p>Le ayudo a entrenar a su equipo de trabajo en la configuración de un sistema automático de trabajo comercial. Que trabajen para el mismo objetivo.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb --><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_animated et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Lo quiero</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>¡Permita que lo ayude con su empresa!</h2>
+<p>Tengo 12 años de experiencia en el marketing digital trabajando marcas, empresas y emprendedores digitales en los diferentes sectores de la publicidad y el marketing.   El factor común que he visto de todos mis clientes durante estos años es la necesidad de maximizar los recursos y reducir los costos.  Ante este panorama he decidido programar esta serie de entrenamiento y capacitación digital para ayudar a las personas y empresas a lograr sus objetivos comerciales.  Póngase en contacto.</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Entrenamientos y Talleres de Trabajo</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_5 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_2_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img  alt="" title="" data-srcset="https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1.png 1000w, https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1-980x911.png 980w, https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1-480x446.png 480w"  data-src="https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1.png" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1.png" alt="" title="" srcset="https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1.png 1000w, https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1-980x911.png 980w, https://robinsonchar.info/wp-content/uploads/2020/05/phones-diagonal-1-480x446.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner" data-et-multi-view="{&quot;schema&quot;:{&quot;content&quot;:{&quot;desktop&quot;:&quot;&lt;h2&gt;Conectarse con su audiencia es f\u00e1cil si utiliza las herramientas correctas&lt;\/h2&gt;\n&lt;p&gt;Existe demasiadas herramientas en el mercado que prometen ayudarlo en su estrategias de Marketing. Puede que todas le sirvan pero saber cual necesitas es lo que puedo hacer por usted. Conversemos.&lt;\/p&gt;\n&lt;p&gt;&nbsp;&lt;\/p&gt;&quot;,&quot;tablet&quot;:&quot;&quot;,&quot;phone&quot;:&quot;&lt;h2 style=\&quot;text-align: center;\&quot;&gt;Conectarse con su audiencia es f\u00e1cil si utiliza las herramientas correctas&lt;\/h2&gt;\n&lt;p style=\&quot;text-align: center;\&quot;&gt;Existe demasiadas herramientas en el mercado que prometen ayudarlo en su estrategias de Marketing. Puede que todas le sirvan pero saber cual necesitas es lo que puedo hacer por usted. Conversemos.&lt;\/p&gt;\n&quot;}},&quot;slug&quot;:&quot;et_pb_text&quot;}" data-et-multi-view-load-tablet-hidden="true" data-et-multi-view-load-phone-hidden="true"><h2>Conectarse con su audiencia es fácil si utiliza las herramientas correctas</h2>
+<p>Existe demasiadas herramientas en el mercado que prometen ayudarlo en su estrategias de Marketing. Puede que todas le sirvan pero saber cual necesitas es lo que puedo hacer por usted. Conversemos.</p>
+<p>&nbsp;</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Contactar</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_section_regular section_has_divider et_pb_bottom_divider" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_6 et_pb_gutters3">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Trabajo Reciente</h2>
+<ul wfd-id="34846">
+<li wfd-id="34850">Socialmedia Managment USC</li>
+<li wfd-id="34850">Docente Diplomado Marketing Digital USC</li>
+<li wfd-id="34849">Desarrollo de estrategia Afiliatte Marketing</li>
+<li wfd-id="34848">Facebook &amp; Google Ads USC</li>
+<li wfd-id="34847">Community Manager USC</li>
+<li wfd-id="34847">Gestor TIC &#8211; Colombia</li>
+</ul></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_left et_pb_button_alignment_tablet_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_7 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Contactar</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img  alt="" title="" data-srcset="https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy.png 972w, https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy-480x451.png 480w"  data-src="https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy.png" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 972px, 100vw" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy.png" alt="" title="" srcset="https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy.png 972w, https://robinsonchar.info/wp-content/uploads/2020/05/laptop-clouds-copy-480x451.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 972px, 100vw" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner" data-et-multi-view="{&quot;schema&quot;:{&quot;content&quot;:{&quot;desktop&quot;:&quot;&lt;h2&gt;Lo que dicen los clientes&lt;\/h2&gt;&quot;,&quot;tablet&quot;:&quot;&quot;}},&quot;slug&quot;:&quot;et_pb_text&quot;}" data-et-multi-view-load-tablet-hidden="true"><h2>Lo que dicen los clientes</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_8 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_testimonial et_pb_testimonial_0 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_icon_off et_pb_testimonial_no_image">
+				
+				
+				<div style="background-image:url(https://robinsonchar.info/wp-content/uploads/2020/05/0.jpg)" class="et_pb_testimonial_portrait"></div>
+				<div class="et_pb_testimonial_description">
+					<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p><span>Robinson es un líder digital que ha demostrado a lo largo de los últimos años un amplio conocimiento y actualización de cara a compartir y transmitir su conocimiento. Es un profesional de referencia e influyente en el área de Marketing, Social Media y tecnología. He compartido en muchas ocaciones con él y su equipo en programas de radio, conferencias y encuentros digitales.</span></p></div></div> <!-- .et_pb_testimonial_description_inner -->
+					<span class="et_pb_testimonial_author">Johans Adrian Pelaez</span>
+					<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Digital Marketing</span><span class="et_pb_testimonial_separator">,</span> <span class="et_pb_testimonial_company">IEBS  Business School</span></p>
+				</div> <!-- .et_pb_testimonial_description -->
+			</div> <!-- .et_pb_testimonial -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_testimonial et_pb_testimonial_1 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_icon_off et_pb_testimonial_no_image">
+				
+				
+				<div style="background-image:url(https://robinsonchar.info/wp-content/uploads/2020/05/0-1.jpg)" class="et_pb_testimonial_portrait"></div>
+				<div class="et_pb_testimonial_description">
+					<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p><span class="lt-line-clamp__line" wfd-id="1005">He trabajado con Robinson en proyectos relacionados sobre</span><span> </span><span class="lt-line-clamp__line" wfd-id="1004">Marketing Online y Social Media Marketing en los cuales ha</span><span> </span><span class="lt-line-clamp__line" wfd-id="1003">demostrado plenamente sus habilidades. Es un profesional que</span><span> </span><span class="lt-line-clamp__line lt-line-clamp__line--last" wfd-id="1002">recomiendo 100%</span></p></div></div> <!-- .et_pb_testimonial_description_inner -->
+					<span class="et_pb_testimonial_author">Rodolfo Buitrago</span>
+					<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Consultor en Negocios Digitales</span><span class="et_pb_testimonial_separator">,</span> <span class="et_pb_testimonial_company">Seminarios.Online</span></p>
+				</div> <!-- .et_pb_testimonial_description -->
+			</div> <!-- .et_pb_testimonial -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_testimonial et_pb_testimonial_2 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_icon_off et_pb_testimonial_no_image">
+				
+				
+				<div style="background-image:url(https://robinsonchar.info/wp-content/uploads/2020/05/0-3.jpg)" class="et_pb_testimonial_portrait"></div>
+				<div class="et_pb_testimonial_description">
+					<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p><span class="lt-line-clamp__raw-line" wfd-id="2503">Robinson, trabajo como Docente en el Diplomado de Marketing Digital y social media, en la Universidad Santiago de Cali, compartiendo sus experiencias personales y laborales, en la creación e implementación de estrategias digitales para lograr convertir un seguir en un futuro comprador y fan de la marca. En la era digital, es vital contar con personas con conocimientos claros y concisos sobre el manejo de plataformas como lo son las redes sociales, ya que el desconocimiento nos puede llevar a cometer grandes errores perjudicando los objetivos postulados desde un comienzo.</span><span> </span></p></div></div> <!-- .et_pb_testimonial_description_inner -->
+					<span class="et_pb_testimonial_author">Nestor Sepulveda</span>
+					<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Director Marketing Digital</span><span class="et_pb_testimonial_separator">,</span> <span class="et_pb_testimonial_company">Himalaya Digital Agency</span></p>
+				</div> <!-- .et_pb_testimonial_description -->
+			</div> <!-- .et_pb_testimonial -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper">
+					<div class="et_pb_blog_grid clearfix  et_pb_text_align_center">
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns>
+			<article id="post-18927" class="et_pb_post clearfix et_pb_has_overlay et_pb_blog_item_0_0 post-18927 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-youtube">
+
+				<div class="et_pb_image_container"><a href="https://robinsonchar.info/la-excepcion-edsa-en-youtube/" class="entry-featured-image-url"><img  alt="La excepción EDSA en Youtube"  data-srcset="https://robinsonchar.info/wp-content/uploads/2020/09/youtube.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/09/youtube-400x250.jpg 480w "   width='400' height='250' data-src="https://robinsonchar.info/wp-content/uploads/2020/09/youtube-400x250.jpg" data-sizes="(max-width:479px) 479px, 100vw " class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/09/youtube-400x250.jpg" alt="La excepción EDSA en Youtube" class="" srcset="https://robinsonchar.info/wp-content/uploads/2020/09/youtube.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/09/youtube-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></noscript><span class="et_overlay" ></span></a></div> <!-- .et_pb_image_container -->
+														<h2 class="entry-title"><a href="https://robinsonchar.info/la-excepcion-edsa-en-youtube/">La excepción EDSA en Youtube</a></h2>
+				
+					<p class="post-meta"></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><div class="at-above-post-homepage addthis_tool" data-url="https://robinsonchar.info/la-excepcion-edsa-en-youtube/"></div>
+<p><!-- AddThis Advanced Settings above via filter on the_excerpt --><!-- AddThis Advanced Settings below via filter on the_excerpt --><!-- AddThis Advanced Settings generic via filter on the_excerpt --><!-- AddThis Share Buttons above via filter on the_excerpt --><!-- AddThis Share Buttons below via filter on the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="https://robinsonchar.info/la-excepcion-edsa-en-youtube/"></div>
+<p><!-- AddThis Share Buttons generic via filter on the_excerpt --></p>
+</div></div>			
+			</article> <!-- .et_pb_post -->
+				
+			<article id="post-18558" class="et_pb_post clearfix et_pb_has_overlay et_pb_blog_item_0_1 post-18558 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-mercadeo">
+
+				<div class="et_pb_image_container"><a href="https://robinsonchar.info/15-balizas-mentales-del-marketing/" class="entry-featured-image-url"><img  alt="15 balizas mentales del marketing"  data-srcset="https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing-400x250.jpg 480w "   width='400' height='250' data-src="https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing-400x250.jpg" data-sizes="(max-width:479px) 479px, 100vw " class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing-400x250.jpg" alt="15 balizas mentales del marketing" class="" srcset="https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/06/15-balizas-mentales-del-marketing-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></noscript><span class="et_overlay" ></span></a></div> <!-- .et_pb_image_container -->
+														<h2 class="entry-title"><a href="https://robinsonchar.info/15-balizas-mentales-del-marketing/">15 balizas mentales del marketing</a></h2>
+				
+					<p class="post-meta"></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><div class="at-above-post-homepage addthis_tool" data-url="https://robinsonchar.info/15-balizas-mentales-del-marketing/"></div>
+<p><!-- AddThis Advanced Settings above via filter on the_excerpt --><!-- AddThis Advanced Settings below via filter on the_excerpt --><!-- AddThis Advanced Settings generic via filter on the_excerpt --><!-- AddThis Share Buttons above via filter on the_excerpt --><!-- AddThis Share Buttons below via filter on the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="https://robinsonchar.info/15-balizas-mentales-del-marketing/"></div>
+<p><!-- AddThis Share Buttons generic via filter on the_excerpt --></p>
+</div></div>			
+			</article> <!-- .et_pb_post -->
+				
+			<article id="post-1519" class="et_pb_post clearfix et_pb_has_overlay et_pb_blog_item_0_2 post-1519 post type-post status-publish format-standard has-post-thumbnail hentry category-mercadeo category-otras">
+
+				<div class="et_pb_image_container"><a href="https://robinsonchar.info/12-tipologias-de-un-venderman/" class="entry-featured-image-url"><img  alt="12 tipologías de un «VenderMan»"  data-srcset="https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan-400x250.jpg 480w "   width='400' height='250' data-src="https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan-400x250.jpg" data-sizes="(max-width:479px) 479px, 100vw " class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan-400x250.jpg" alt="12 tipologías de un «VenderMan»" class="" srcset="https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan.jpg 479w, https://robinsonchar.info/wp-content/uploads/2020/03/12-tipologías-de-un-VenderMan-400x250.jpg 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></noscript><span class="et_overlay" ></span></a></div> <!-- .et_pb_image_container -->
+														<h2 class="entry-title"><a href="https://robinsonchar.info/12-tipologias-de-un-venderman/">12 tipologías de un «VenderMan»</a></h2>
+				
+					<p class="post-meta"></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><div class="at-above-post-homepage addthis_tool" data-url="https://robinsonchar.info/12-tipologias-de-un-venderman/"></div>
+<p><!-- AddThis Advanced Settings above via filter on the_excerpt --><!-- AddThis Advanced Settings below via filter on the_excerpt --><!-- AddThis Advanced Settings generic via filter on the_excerpt --><!-- AddThis Share Buttons above via filter on the_excerpt --><!-- AddThis Share Buttons below via filter on the_excerpt --></p>
+<div class="at-below-post-homepage addthis_tool" data-url="https://robinsonchar.info/12-tipologias-de-un-venderman/"></div>
+<p><!-- AddThis Share Buttons generic via filter on the_excerpt --></p>
+</div></div>			
+			</article> <!-- .et_pb_post -->
+				</div><!-- .et_pb_salvattore_content -->
+					</div>
+					</div> <!-- .et_pb_posts --> 
+				</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_pb_section_parallax et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" >
+				<div class="et_pb_top_inside_divider et-no-transition"></div>
+				<div class="et_parallax_bg_wrap"><div
+						class="et_parallax_bg"
+						style="background-image: url(https://robinsonchar.info/wp-content/uploads/2020/05/marketing-bg6.png);"
+					></div></div>
+				
+				
+					<div class="et_pb_row et_pb_row_10 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><h2>¿Listo para hacer un cambio real? ¡Construyamos esto juntos!</h2>
+<p><span wfd-id="50022"></span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_8_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_8 et_hover_enabled et_pb_bg_layout_dark" href="https://robinsonchar.info/contacto/" target="_blank">Contactar</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+						</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_with_border et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0_tb_footer  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_code_inner"><!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#d6d6d6; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://robinsonchar.us4.list-manage.com/subscribe/post?u=149206cf27b6778e9f36b2f3c&#038;id=8bfd2634c0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<label for="mce-EMAIL"><center>Escriba su email</center></label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_149206cf27b6778e9f36b2f3c_8bfd2634c0" tabindex="-1" value=""></div>
+    <div class="clear"><center><input type="submit" value="Suscribirse al blog" name="subscribe" id="mc-embedded-subscribe" class="button"></center></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: ES
+ */
+$.extend($.validator.messages, {
+  required: "Este campo es obligatorio.",
+  remote: "Por favor, rellena este campo.",
+  email: "Por favor, escribe una dirección de correo válida",
+  url: "Por favor, escribe una URL válida.",
+  date: "Por favor, escribe una fecha válida.",
+  dateISO: "Por favor, escribe una fecha (ISO) válida.",
+  number: "Por favor, escribe un número entero válido.",
+  digits: "Por favor, escribe sólo dígitos.",
+  creditcard: "Por favor, escribe un número de tarjeta válido.",
+  equalTo: "Por favor, escribe el mismo valor de nuevo.",
+  accept: "Por favor, escribe un valor con una extensión aceptada.",
+  maxlength: $.validator.format("Por favor, no escribas más de {0} caracteres."),
+  minlength: $.validator.format("Por favor, no escribas menos de {0} caracteres."),
+  rangelength: $.validator.format("Por favor, escribe un valor entre {0} y {1} caracteres."),
+  range: $.validator.format("Por favor, escribe un valor entre {0} y {1}."),
+  max: $.validator.format("Por favor, escribe un valor menor o igual a {0}."),
+  min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
+});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup--></div>
+			</div> <!-- .et_pb_code --><div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">*Aplica política de uso de datos</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<li
+            class='et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook et_pb_social_media_follow_network_0_tb_footer'><a
+              href='https://www.facebook.com/robinsoncharblog/'
+              class='icon et_pb_with_border'
+              title='Follow on Facebook'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-twitter et_pb_social_media_follow_network_1_tb_footer'><a
+              href='https://twitter.com/robinsonchar'
+              class='icon et_pb_with_border'
+              title='Follow on Twitter'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin et_pb_social_media_follow_network_2_tb_footer'><a
+              href='https://www.linkedin.com/in/robinsonchar/'
+              class='icon et_pb_with_border'
+              title='Follow on LinkedIn'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram et_pb_social_media_follow_network_3_tb_footer'><a
+              href='https://www.instagram.com/robinson_char/'
+              class='icon et_pb_with_border'
+              title='Follow on Instagram'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_4_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-youtube et_pb_social_media_follow_network_4_tb_footer'><a
+              href='https://www.youtube.com/user/robinsonchar'
+              class='icon et_pb_with_border'
+              title='Follow on Youtube'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li>
+			</ul> <!-- .et_pb_counters -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_tb_footer_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0_tb_footer et_pb_bg_layout_light" href="https://aprendofacil.online/" target="_blank">aprendofacil.online</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><a href="/cdn-cgi/l/email-protection#54373b3a203537203b14263b363d3a273b3a373c35267a3d3a323b"><span style="color: #999999;"><span class="__cf_email__" data-cfemail="a5c6cacbd1c4c6d1cae5d7cac7cccbd6cacbc6cdc4d78bcccbc3ca">[email&#160;protected]</span></span></a><span style="color: #999999;"> &#8211; Calle 26 No. 42 &#8211; 155 &#8211; Cali/Colombia &#8211; (0057) 3155355721</span></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</footer><!-- .et-l -->
+	    </div> <!-- #et-main-area -->
+
+			
+		</div><!-- #et-boc -->
+		</div> <!-- #page-container -->
+
+						<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+				var ibx_fomo = {
+					nonce: 'cd7964eb99',
+					conversions: [],
+					reviews: [],
+					ajaxurl: 'https://robinsonchar.info/wp-admin/admin-ajax.php',
+					custom_form_details: [],
+					post_id: 17747,
+					form_classes:   ["pp-subscribe-form","fl-subscribe-form"],
+				};                    
+			</script>
+				<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_image_0","style":"rollLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"1%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_0","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_2","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_1","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_3","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_blurb_2","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_button_4","style":"zoom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_1","style":"rollLeft","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"4%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_2","style":"rollRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"2%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+					var et_link_options_data = [{"class":"et_pb_text_0_tb_header","url":"https:\/\/robinsonchar.info\/","target":"_self"}];
+			</script>
+	<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.6"; } if (window.addthis_share === undefined) { window.addthis_share = {"passthrough":{"twitter":{"via":"robinsonchar"}},"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":{}}}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_language":"es","ui_atversion":"300","data_track_addressbar":true}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.6","plugin_mode":"WordPress","anonymous_profile_id":"wp-15ba96f560f54b74eae04a1db069f0ae","page_info":{"template":"home","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script><link rel='stylesheet' id='mediaelement-css'  href='https://robinsonchar.info/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://robinsonchar.info/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/robinsonchar.info\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/plugins/wpfomify/assets/js/frontend.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/robinsonchar.info\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/robinsonchar.info\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/robinsonchar.info\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"462685566e","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"669fa53ed2","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"17747","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/themes/Divi/js/custom.unified.js?ver=4.5.8'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/plugins/wpfomify/extensions/custom-form/assets/js/frontend-custom-form.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=5.4.2#pubid=wp-15ba96f560f54b74eae04a1db069f0ae'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-content/themes/Divi/core/admin/js/common.js?ver=4.5.8'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Est\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \u00faltima versi\u00f3n desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisi\u00f3n en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar el sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subt\u00edtulos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Ninguna","mejs.afrikaans":"Afrik\u00e1ans","mejs.albanian":"Albano","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e1n","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dan\u00e9s","mejs.dutch":"Holand\u00e9s","mejs.english":"Ingl\u00e9s","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Fin\u00e9s","mejs.french":"Franc\u00e9s","mejs.galician":"Gallego","mejs.german":"Alem\u00e1n","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00e9s","mejs.indonesian":"Indonesio","mejs.irish":"Irland\u00e9s","mejs.italian":"Italiano","mejs.japanese":"Japon\u00e9s","mejs.korean":"Coreano","mejs.latvian":"Let\u00f3n","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Malt\u00e9s","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00e9s","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espa\u00f1ol","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00e9s","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00e9s","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://robinsonchar.info/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4.2'></script>
+		
+			<span class="et_pb_scroll_top et-pb-icon"></span>
+	</body>
+</html>

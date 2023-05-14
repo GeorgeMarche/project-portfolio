@@ -1,0 +1,915 @@
+<!DOCTYPE html> <html class="" lang="en-GB" > <head> <!-- Barlesque 5.0.0 --> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> <meta name="description" content="今を生きる誰もが経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう世界中で大勢が願っているものの、私たちの先祖が闘った感染症の多くが残念ながら、撲滅されないまま残っている。" /> <meta name="keywords" content="" />   <title>パンデミックはどう終わる - BBC News</title>        <meta name="viewport" content="width=device-width, initial-scale=1.0" />  <meta property="fb:admins" content="100004154058350" />    
+<!--[if (gt IE 8) | (IEMobile)]><!-->
+<link rel="stylesheet" href="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/style/orb.min.css">
+<!--<![endif]-->
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/style/orb-ie.min.css">
+<![endif]-->
+
+  <!--orb.ws.require.lib--> <script class="js-require-lib" src="https://static.bbc.co.uk/frameworks/requirejs/lib.js"></script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.7.2", "jquery-1.4":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.4", "jquery-1.9":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.9.1", "jquery-1.12":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-1.12.0.min", "jquery-2.2":"https://static.bbc.co.uk/frameworks/jquery/0.4.1/sharedmodules/jquery-2.2.0.min", "istats-1":"//nav.files.bbci.co.uk/nav-analytics/0.1.0-43/js/istats-1", "swfobject-2":"https://static.bbc.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"https://static.bbc.co.uk/frameworks/demi/0.10.1/sharedmodules/demi-1", "gelui-1":"https://static.bbc.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"https://static.bbc.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "relay-1":"https://static.bbc.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"https://static.bbc.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"https://static.bbc.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"https://static.bbc.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"https://static.bbc.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"https://static.bbc.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: 'https://static.bbc.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>   <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON')); (function(){var m="ckns_policy",q="Thu, 01 Jan 1970 00:00:00 GMT",i={ads:true,personalisation:true,performance:true,necessary:true};function c(u){if(c.cache[u]){return c.cache[u]}var t=u.split("/"),v=[""];do{v.unshift((t.join("/")||"/"));t.pop()}while(v[0]!=="/");c.cache[u]=v;return v}c.cache={};function a(u){if(a.cache[u]){return a.cache[u]}var v=u.split("."),t=[];while(v.length&&"|co.uk|com|".indexOf("|"+v.join(".")+"|")===-1){if(v.length){t.push(v.join("."))}v.shift()}c.cache[u]=t;return t}a.cache={};function s(t,y,u){var E=[""].concat(a(window.location.hostname)),B=c(window.location.pathname),D="",w,C;for(var x=0,A=E.length;x<A;x++){w=E[x];for(var v=0,z=B.length;v<z;v++){C=B[v];D=t+"="+y+";"+(w?"domain="+w+";":"")+(C?"path="+C+";":"")+(u?"expires="+u+";":"");bbccookies.set(D,true)}}}window.bbccookies={POLICY_REFRESH_DATE_MILLIS:new Date(2015,4,21,0,0,0,0).getTime(),POLICY_EXPIRY_COOKIENAME:"ckns_policy_exp",_setEverywhere:s,cookiesEnabled:function(){var t="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(t+"=1");if(this.get().indexOf(t)>-1){e(t);return true}return false},get:function(){return document.cookie},getCrumb:function(t){if(!t){return null}return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(t).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},policyRequiresRefresh:function(){var u=new Date();u.setHours(0);u.setMinutes(0);u.setSeconds(0);u.setMilliseconds(0);if(bbccookies.POLICY_REFRESH_DATE_MILLIS<=u.getTime()){var t=bbccookies.getCrumb(bbccookies.POLICY_EXPIRY_COOKIENAME);if(t){t=new Date(parseInt(t));t.setYear(t.getFullYear()-1);return bbccookies.POLICY_REFRESH_DATE_MILLIS>=t.getTime()}else{return true}}else{return false}},_setPolicy:function(t){return f.apply(this,arguments)},readPolicy:function(){return l.apply(this,arguments)},_deletePolicy:function(){s(m,"",q)},_isConfirmed:function(){return n()!==null},_acceptsAll:function(){var t=l();return t&&!(j(t).indexOf("0")>-1)},_getCookieName:function(){return b.apply(this,arguments)},_showPrompt:function(){var t=((!this._isConfirmed()||this.policyRequiresRefresh())&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?t&&(window.orb.fig("no")||window.orb.fig("ck")):t},setDefaultCookiesSingleDomain:function(){f.apply(this,[])},_getPolicy:this.readPolicy};function b(u){var t=(""+u).match(/^([^=]+)(?==)/);return(t&&t.length?t[0]:"")}function j(t){return""+(t.ads?1:0)+(t.personalisation?1:0)+(t.performance?1:0)}function f(x){if(typeof x==="undefined"){x=i}if(typeof arguments[0]==="string"){var u=arguments[0],w=arguments[1];if(u==="necessary"){w=true}x=l();x[u]=w}else{if(typeof arguments[0]==="object"){x.necessary=true}}var v=new Date();v.setYear(v.getFullYear()+1);bbccookies.set(m+"="+j(x)+";domain=bbc.co.uk;path=/;expires="+v.toUTCString()+";");bbccookies.set(m+"="+j(x)+";domain=bbc.com;path=/;expires="+v.toUTCString()+";");bbccookies.set(m+"="+j(x)+";domain=bbci.co.uk;path=/;expires="+v.toUTCString()+";");var t=new Date(v.getTime());t.setMonth(t.getMonth()+1);bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+v.getTime()+";domain=bbc.co.uk;path=/;expires="+t.toUTCString()+";");bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+v.getTime()+";domain=bbc.com;path=/;expires="+t.toUTCString()+";");bbccookies.set(bbccookies.POLICY_EXPIRY_COOKIENAME+"="+v.getTime()+";domain=bbci.co.uk;path=/;expires="+t.toUTCString()+";");return x}function o(t){if(t===null){return null}var u=t.split("");return{ads:!!+u[0],personalisation:!!+u[1],performance:!!+u[2],necessary:true}}function n(){var t=new RegExp("(?:^|; ?)"+m+"=(\\d\\d\\d)($|;)"),u=document.cookie.match(t);if(!u){return null}return u[1]}function l(t){var u=o(n());if(!u){u=i}if(t){return u[t]}else{return u}}function e(t){return document.cookie=t+"=;expires="+q+";"}var g=!(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable);var k={},d={"personalisation":"ckps_.+|X-AB-iplayer-.+|ACTVTYMKR|BBC_EXAMPLE_COOKIE|BBCIplayer|BBCiPlayerM|BBCIplayerSession|BBCMediaselector|BBCPostcoder|bbctravel|CGISESSID|ed|food-view|forceDesktop|h4|IMRID|locserv|MyLang|myloc|NTABS|ttduserPrefs|V5|WEATHER|BBCScienceDiscoveryPlaylist_.+|bitratePref|correctAnswerCount|genreCookie|highestQuestionScore|incorrectAnswerCount|longestStreak|MSCSProfile|programmes-oap-expanded|quickestAnswer|score|servicePanel|slowestAnswer|totalTimeForAllFormatted|v|BBCwords|score|correctAnswerCount|highestQuestionScore|hploc|BGUID|BBCWEACITY|mstouch|myway|BBCNewsCustomisation|cbbc_anim|cbeebies_snd|bbcsr_usersx|cbeebies_rd|BBC-Latest_Blogs|zh-enc|pref_loc|m|bbcEmp.+|recs-.+|_lvd2|_lvs2|tick|_fcap_CAM1|_rcc2","performance":"ckpf_.+|optimizely.*|BBCLiveStatsClick|id|_em_.+|cookies_enabled|mbox|mbox-admin|mc_.+|omniture_unique|s_.+|sc_.+|adpolicyAdDisplayFrequency|ns_session|ns_cookietest|ns_ux|NO-SA|tr_pr1|gvsurvey|bbcsurvey|si_v|obuid|mm_.+|mmid|mmcore.+|mmpa.+|dtCookie|dtPC|rxVisitor|rxvt|dtSa|dtLatC","ads":"ckad_.+|rsi_segs|c","necessary":"optimizelyEndUserId|ckns_.+|BBC-UID|blq\\.dPref|idrxvr|s1|atidvisitor|atuserid|sa_labels|_cb_ls|_cb_svref|_chartbeat2|_chartbeat5|_chartbeat4|_cb|_cb_cp|SSO2-UID|BBC-H2-User|rmRpDetectReal|bbcComSurvey|IDENTITY_ENV|IDENTITY|IDENTITY-HTTPS|IDENTITY_SESSION|BBCCOMMENTSMODULESESSID|bbcBump.+|IVOTE_VOTE_HISTORY|pulse|BBCPG|BBCPGstat|ecos\\.dt|_sm_au_[c|d]"};function r(){var x=document.cookie.replace(/; +/g,";").split(";"),u,v=[];for(var w=0,t=x.length;w<t;w++){u=x[w];v.push(bbccookies._getCookieName(u))}return v}function h(w){var v=JSON.stringify(w);if(typeof(k[v])!=="undefined"){return k[v]}var u="";for(var t in w){if(w.hasOwnProperty(t)&&d[t]){if(w[t]===true){u+=(u?"|":"")+d[t]}}}k[v]=new RegExp("^("+(u?u:".*")+")$","i");return k[v]}bbccookies.getPolicyExpiryDateTime=function(){return bbccookies.POLICY_EXPIRY_COOKIENAME};bbccookies.purge=function(){var u=bbccookies.readPolicy(),w=r(),x;for(var v=0,t=w.length;v<t;v++){if(!bbccookies.isAllowed(w[v],u)){x=new Date();x.setTime(0);x=x.toUTCString();s(w[v],"deleted",x)}}};function p(){if(g){return}bbccookies.purge();contentLoaded(window,bbccookies.purge);if(window.addEventListener){window.addEventListener("beforeunload",bbccookies.purge,false)}else{if(window.attachEvent){window.attachEvent("onbeforeunload",bbccookies.purge)}else{window.onbeforeunload=bbccookies.purge}}}bbccookies.set=function(u,t){if(g){return document.cookie=u}var v=bbccookies._getCookieName(u);if(t||bbccookies.isAllowed(v)){return document.cookie=u}return null};bbccookies.isAllowed=function(v){var u=bbccookies.readPolicy();var t=h(u);return t.test(v)};p()})();
+/*!
+ * contentloaded.js
+ *
+ * Author: Diego Perini (diego.perini at gmail.com)
+ * Summary: cross-browser wrapper for DOMContentLoaded
+ * Updated: 20101020
+ * License: MIT
+ * Version: 1.2
+ *
+ * URL:
+ * http://javascript.nwbox.com/ContentLoaded/
+ * http://javascript.nwbox.com/ContentLoaded/MIT-LICENSE
+ *
+ */
+function contentLoaded(d,i){var c=false,h=true,k=d.document,j=k.documentElement,a=k.addEventListener,n=a?"addEventListener":"attachEvent",l=a?"removeEventListener":"detachEvent",b=a?"":"on",m=function(o){if(o.type==="readystatechange"&&k.readyState!="complete"){return}(o.type==="load"?d:k)[l](b+o.type,m,false);if(!c&&(c=true)){i.call(d,o.type||o)}},g=function(){try{j.doScroll("left")}catch(o){setTimeout(g,50);return}m("poll")};if(k.readyState==="complete"){i.call(d,"lazy")}else{if(!a&&j.doScroll){try{h=!d.frameElement}catch(f){}if(h){g()}}k[n](b+"DOMContentLoaded",m,false);k[n](b+"readystatechange",m,false);d[n](b+"load",m,false)}}if(typeof(require)==="function"&&!require.defined("orb/cookies")){define("orb/cookies",function(){return window.bbccookies})}; /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+(function(){window.orb={};window.orb.figState={ad:0,ap:0,ck:1,eu:1,mb:0,tb:0,uk:1,df:1};window.orb.fig=function(a){return(arguments.length)?window.orb.figState[a]:window.orb.figState};window.orb.fig.device={};window.orb.fig.geo={};window.orb.fig.user={};window.orb.fig.isDefault=function(){return window.orb.fig("df")};window.orb.fig.device.isTablet=function(){return window.orb.fig("tb")};window.orb.fig.device.isMobile=function(){return window.orb.fig("mb")};window.orb.fig.geo.isUK=function(){return window.orb.fig("uk")};window.orb.fig.geo.isEU=function(){return window.orb.fig("eu")};window.fig=window.fig||{};window.fig.manager={include:function(e){e=e||window;var g=false;var j=e.document,k=j.cookie,i=k.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/),h;if(i){i=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(e,i)}if(window.fig.async&&typeof JSON!="undefined"){var b=(document.cookie.match("(^|; )ckns_orb_cachedfig=([^;]*)")||0)[2];h=b?JSON.parse(b):null;if(h){this.setFig(e,h);g=true}}var a="https://fig.bbc.co.uk/frameworks/fig/1/fig.js";if(g){j.write('<script src="'+a+'" async><'+"/script>")}else{j.write('<script src="'+a+'"><'+"/script>")}},confirm:function(a){return true},setFig:function(a,b){(function(){a.orb=a.orb||{};a.orb.figState=b})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+ <script type="text/javascript"> define('orb/cookies', function() { return window.bbccookies; }); define('orb/fig', function() { return window.orb.fig; }); window.orb.fig.load = function (callback) { callback(window.orb.fig); }; </script> <script type="text/javascript"> (function() { window.bbcpage = { loadModule: function(deps) { return new Promise(function (resolve, reject) { window.require(deps, function () { resolve.apply(this, arguments); }, function (error) { reject(error); }); }) }, loadCSS: function (url, timeout) { return window.bbcpage.loadModule(['orb/lib/_$']) .then(function($) { return new Promise(function(resolve, reject) { var stylesheet = loadCSS(url); $.onloadCSS(stylesheet, function() { resolve(); }); if (timeout) { setTimeout(function () { reject(); }, timeout); } }); }); }, getLanguage: function() { return new Promise(function(resolve, reject) { resolve('en-GB'); }) }, trackRegion: function (region, labels) { return window.bbcpage.loadModule(['istats-1']) .then(function(istats) { var trackLabels = { region: region }; for (var label in labels) { trackLabels[label] = labels[label]; } var linkType = labels.linkType || 'internal'; istats.track(linkType, trackLabels); }); } }; var sanitiseCountry = function(country) { return country ? country.replace(/ /g, '') : undefined; }; var countryMatches = function(country, validCountries) { return country && typeof(country) === 'string' ? validCountries.indexOf(country.toUpperCase()) !== -1 : false; }; window.bbcuser = { getCountry: function() { return window.bbcpage.loadModule(['orb/fig']) .then(function(orbFig) { return new Promise(function(resolve, reject) { orbFig.load(function (fig) { if (fig.geo.isUK()) { resolve('gb'); } else if (fig.geo.isEU()) { resolve('eu'); } else { resolve(undefined); } }, function () { reject('Error determining country. Timeout?'); }); }); }); }, isUKCombined: function(country) { return new Promise(function(resolve, reject) { var uk = country ? countryMatches(sanitiseCountry(country), ["GB", "IM", "JE", "GY"]) : window.orb.fig('uk'); resolve(uk); }); }, isEU: function(country) { return new Promise(function(resolve, reject) { var eu = country ? countryMatches(sanitiseCountry(country), ["AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "EU", "FI", "FR", "GB", "GR", "HU", "HR", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"]) : window.orb.fig('eu'); resolve(eu); }); }, allowsPerformanceCookies: function() { return window.bbcpage.loadModule(['orb/cookies']) .then(function(bbccookies) { return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('performance'); }); }, allowsFunctionalCookies: function() { return window.bbcpage.loadModule(['orb/cookies']) .then(function(bbccookies) { return !!bbccookies.cookiesEnabled() && !!bbccookies.readPolicy('personalisation'); }); }, getCookieValue: function(cookieName) { return window.bbcpage.loadModule(['orb/cookies']) .then(function(bbccookies) { return bbccookies.get(cookieName); }); }, resetCookiesPreferences: function() { return window.bbcpage.loadModule(['orb/cookies']) .then(function(bbccookies) { bbccookies.setDefaultCookiesSingleDomain(); }); }, hasCookiesEnabled: function() { return window.bbcpage.loadModule(['orb/cookies']) .then(function(bbccookies) { return !!bbccookies.cookiesEnabled(); }); }, hasSeenCookieBanner: function() { return new Promise(function(resolve, reject) { resolve(document.cookie.indexOf('ckns_policy') !== -1); }); }, logEvent: function (verb, noun, extraLabels) { return window.bbcuser.allowsPerformanceCookies() .then(function(allowsCookies) { if (allowsCookies) { return window.bbcpage.loadModule(['istats-1']) .then(function(istats) { istats.log(verb, noun, extraLabels); }); } else { throw new Error('User cannot be tracked due to cookies preferences.'); } }); }, }; }()); </script> <!-- Nav Analytics : 0.0.1-246.fe6805f -->
+<script type="text/javascript">window.bbcFlagpoles_istats="ON",require.config({paths:{"istats-1":"https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-246.fe6805f/istats/istats-1"}}),require(["istats-1","orb/cookies"],function(t,a){if(a.isAllowed("s1")){var e=(o=document.location.href.match(/^(?:https|http):\/\/\w*\.(?:(int|test|stage|live|)\.)?bbc\.(?:co\.uk|com)/))?void 0===o[1]||""===o[1]||"live"===o[1]?"//sa.bbc.co.uk/bbc/bbc/s":"//sa.bbc.co.uk/bbc/"+o[1]+"/s":"//sa.bbc.co.uk/bbc/test/s";t.addCollector({name:"default",url:e,separator:"&"});var s="news.resource.idt.pandemics_timeline_japanese.page";t.setCountername(s),window.istats_countername&&t.setCountername(window.istats_countername),t.addLabels("ml_name=webmodule&ml_version=0.0.1-246.fe6805f")}var o});</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+    window.bbcFlagpoles_istats = 'ON';
+    window.orb = window.orb || {};
+
+    if (typeof bbccookies !== 'undefined' && bbccookies.isAllowed('s1')) {
+        var istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.resource.idt.pandemics_timeline_japanese.page&page_type=idt-story&pal_route=full_frame_index&app_type=responsive&language=en-GB&pal_webapp=indepthtoolkit&prod_name=news&app_name=news';
+        require(['istats-1'], function (istats) {
+            var counterName = (window.istats_countername) ? window.istats_countername : istatsTrackingUrl.match(/[\?&]name=([^&]*)/i)[1];
+            istats.setCountername(counterName);
+
+            istats.addLabels('page_type=idt-story&pal_route=full_frame_index&app_type=responsive&language=en-GB&pal_webapp=indepthtoolkit&prod_name=news&app_name=news');
+            var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/) || []).pop() || '';
+            istats.addLabels({
+                                        'blq_s': '4d',
+                    'blq_r': '2.7',
+                    'blq_v': 'default',
+                    'blq_e': 'pal',
+                                        'bbc_mc': (c ? 'ad' + c.charAt(0) + 'ps' + c.charAt(1) + 'pf' + c.charAt(2) : 'not_set')
+                }
+            );
+        });
+    }
+    /*]]>*/</script>
+ <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">  document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';  fig.manager.confirm(); </script> <script src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/script/orb/api.min.js"></script> <script src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/script/orb/font.min.js"></script> <script type="text/javascript"> var blq = { environment: function() { return 'live'; } } </script>   <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF' && (w.orb.fig("no") || w.orb.fig("uk"))) { w.document.write('<script type="text/javascript" src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/script/vendor/edr.min.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script>             <!-- BBCDOTCOM template: responsive webservice  -->
+        <!-- BBCDOTCOM head --><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || [], bbcdotcomScripts = [], tp = window.tp || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"https://static.bbc.co.uk/bbcdotcom/4.8.0/script" } }); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcom = { adverts: { keyValues: { set: function() {} } }, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setFlagpoles: function() {}, setVersion: function () {}, setJsPrefix: function() {}, setSwfPrefix: function() {}, setCssPrefix: function() {}, setConfig: function() {}, getAssetPrefix: function() {}, getJsPrefix: function () {}, getSwfPrefix: function () {}, getCssPrefix: function () {}, isOptimizelyEnabled: function() {}, isThirdPartyDisabled: function() {}, isThirdPartyDisabledEU: function() {}, setEU: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {}, get: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {}, log: function () {} }, addLoadEvent: function() {} }; /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/data">\x3C/script>'); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="https://www.bbc.com/wwscripts/flag">\x3C/script>'); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads/.test(window.location.href) || /(^|; )ads=on; /.test(document.cookie) || /; ads=on(; |$)/.test(document.cookie)) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "https://static.bbc.co.uk/bbcdotcom/4.8.0/"; if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.8.0/script/dist/bbcdotcom.dev.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="https://static.bbc.co.uk/bbcdotcom/4.8.0/script/dist/bbcdotcom.js">\x3C/script>'); } } })(); /*]]>*/ </script><script type="text/javascript"> if (window.bbcdotcom && bbcdotcom.data.stats == 1) { document.write('<link rel="dns-prefetch" href="//secure-us.imrworldwide.com/">'); document.write('<link rel="dns-prefetch" href="//me-cdn.effectivemeasure.net/">'); document.write('<link rel="dns-prefetch" href="//ssc.api.bbc.com/">'); } if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<link rel="dns-prefetch" href="//www.googletagservices.com/">'); document.write('<link rel="dns-prefetch" href="//bbc.gscontxt.net/">'); document.write('<link rel="dns-prefetch" href="//tags.crwdcntrl.net/">'); document.write('<link rel="dns-prefetch" href="//ad.crwdcntrl.net/">'); } </script><script type="text/javascript"> if (window.bbcdotcom && bbcdotcom.data.ads == 1) { document.write('<meta name="google-site-verification" content="auTeTTwSt_KBY_4iDoR00Lwb7-qzx1IgzJy6ztaWgEI" />'); } </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ var GDPR_COUNTRIES = ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'CH']; if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"","asyncEnabled":true,"disableInitialLoad":false,"advertInfoPageUrl":"https:\/\/www.bbc.com\/privacy\/cookies\/international\/","advertisementText":"Advertisement","analyticsEnabled":true,"thirdPartyDisabled":false,"sherlockEnabled":false,"permutiveEnabled":false,"appName":"indepthtoolkit","assetPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.8.0\/","customAdParams":[],"customStatsParams":[],"headline":"","id":"","inAssociationWithText":"in association with","keywords":"","language":"","orbTransitional":false,"optimizelyEnabled":true,"palEnv":"live","productName":"","sections":[],"comScoreEnabled":true,"comscoreSite":"bbc","comscoreID":"19293874","comscorePageName":"news.resources.idt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927","slots":"","sponsoredByText":"is sponsored by","adsByGoogleText":"Ads by Google","summary":"","type":"","features":{"testfeature":{"name":"testfeature","envs":["sandbox","int","test"],"on":true,"options":{},"override":null},"lxadverts":{"name":"lxadverts","envs":[],"on":true,"options":{},"override":null}},"staticBase":"\/bbcdotcom","staticHost":"https:\/\/static.bbc.co.uk","staticVersion":"4.8.0","staticPrefix":"https:\/\/static.bbc.co.uk\/bbcdotcom\/4.8.0","dataHttp":"tps.bbc.com","dataHttps":"www.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"www.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setFlagpoles(bbcdotcom.flag || {}); bbcdotcom.config.setAssetPrefix("https://static.bbc.co.uk/bbcdotcom/4.8.0/"); bbcdotcom.config.setVersion("4.8.0"); if (window.bbcuser && window.bbcuser.getCountry && typeof(window.bbcuser.getCountry) === 'function') { window.bbcuser.getCountry().then(function(countryCode) { var isEU = countryCode ? GDPR_COUNTRIES.indexOf(countryCode.toUpperCase()) !== -1 : false; bbcdotcom.config.setEU(isEU); }); } else if (window.orb && window.orb.fig && typeof(window.orb.fig) === 'function') { bbcdotcom.config.setEU(window.orb.fig('eu')); } document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 9]><script type="text/javascript">bbcdotcom.config.setIE9(true);\x3C/script><![endif]-->'); if (/[?|&]ex-dp/.test(window.location.href) || document.cookie.indexOf('ex-dp=') !== -1) { bbcdotcom.utils.addHtmlTagClass('bbcdotcom-ex-dp'); } } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isGrapeshotEnabled && bbcdotcom.config.isGrapeshotEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService() ) { var gs_channels="DEFAULT"; (function () { var gsurl = window.location.href.split("?")[0]; bbcdotcomScripts.push({src:'https://bbc.gscontxt.net/?url='+encodeURIComponent(gsurl)}); })(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isLotameActive && bbcdotcom.config.isLotameActive()&& bbcdotcom.config.isLotameEnabled && bbcdotcom.config.isLotameEnabled()){ (function () { var clientId, lotameUrl, lotameAudienceUrl; clientId = (bbcdotcom.config.isWorldService && bbcdotcom.config.isWorldService()) ? '10826' : '10816'; lotameUrl = 'https://tags.crwdcntrl.net/c/'+clientId+'/cc.js?ns='+clientId; lotameAudienceUrl = 'https://ad.crwdcntrl.net/5/c=10815/pe=y/var=ccauds'; bbcdotcomScripts.push({src:lotameUrl,id:"LOTCC"+clientId}); bbcdotcomScripts.push({src:lotameAudienceUrl}); })(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.config && bbcdotcom.config.isPermutiveEnabled && bbcdotcom.config.isPermutiveEnabled() && bbcdotcom.config.isWorldService && !bbcdotcom.config.isWorldService()){ (function () { !function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"e488cdb0-e7cb-4d91-9648-60d437d8e491","1bb84885-9325-4fef-adda-a208032b2715",{"consentRequired":true}); bbcdotcomScripts.push({src:'https://cdn.permutive.com/e488cdb0-e7cb-4d91-9648-60d437d8e491-web.js'}); })(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ /** * ASYNC waits to make any gpt requests until the bottom of the page */ if ( window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.ads && bbcdotcom.data.ads == 1 && bbcdotcom.config && bbcdotcom.config.isAsync && bbcdotcom.config.isAsync() && bbcdotcom.config.isAdsEnabled && bbcdotcom.config.isAdsEnabled() ) { (function () { bbcdotcomScripts.push({src:'https://securepubads.g.doubleclick.net/tag/js/gpt.js'}); })(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ /* Load Lotame, Grapeshot and GPT without blocking rendering but executing in order */ if ( window.bbcdotcom && bbcdotcom.config && bbcdotcomScripts.length > 0 ) { (function () { bbcdotcom.checkThirdPartyFirst(function(){ if (!bbcdotcom.config.isThirdPartyDisabledEU()){ bbcdotcomScripts.forEach(function(item) { var script = document.createElement('script'); script.async = false; if(item.id) script.id = item.id; script.src = item.src; document.head.appendChild(script); }); } }); })(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function() { window.bbcdotcom.head = true; }()); /*]]>*/ </script>             <!--NavID:0.2.0-152--> <link rel="stylesheet" href="//static.bbc.co.uk/id/0.37.24/style/id-cta.css" /> <link rel="stylesheet" href="//static.bbc.co.uk/id/0.37.24/style/id-cta-v5.css" /> <!--[if IE 8]><link href="//static.bbc.co.uk/id/0.37.24/style/ie8.css" rel="stylesheet"/> <![endif]--> <script type="text/javascript"> /* <![CDATA[ */ var map = {};  if (typeof(map['jssignals-1']) == 'undefined') { map['jssignals-1'] = 'https://static.bbc.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1'; }  require({paths: map}); /* ]]> */ </script>   <script src="//static.bbc.co.uk/id/0.37.24/modules/idcta/dist/idcta-1.min.js"></script>  <script type="text/javascript"> (function () { if (!window.require) { throw new Error('idcta: could not find require module'); } if(typeof(map) == 'undefined') { var map = {}; } if(!!document.createElementNS && !!document.createElementNS('http://www.w3.org/2000/svg', "svg").createSVGRect) { document.documentElement.className += ' id-svg'; } var ptrt = RegExp("[\\?&]ptrt=([^&#]*)").exec(document.location.href); var ENDPOINT_URL = '//' + ((window.location.protocol == "https:") ? ('ssl.bbc.co.uk').replace("www.", "ssl.") : ('ssl.bbc.co.uk').replace("ssl.", "www.")); var ENDPOINT_CONFIG = ('/idcta/config?callback&amp;locale=en-GB&ptrt=' + encodeURIComponent((ptrt ? ptrt[1] : document.location.href))).replace(/\&amp;/g, '&'); var ENDPOINT_TRANSLATIONS = '/idcta/translations?callback&locale=en-GB'; map['idapp-1'] = '//static.bbc.co.uk/idapp/0.72.58/modules/idapp/idapp-1'; map['idcta'] = '//static.bbc.co.uk/id/0.37.24/modules/idcta'; map['idcta/config'] = [ENDPOINT_URL + ENDPOINT_CONFIG, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackConfig']; map['idcta/translations'] = [ENDPOINT_URL + ENDPOINT_TRANSLATIONS, '//static.bbc.co.uk/id/0.37.24/modules/idcta/fallbackTranslations']; require({paths: map}); /* * Temporary code * To be removed when old id-statusbar-config is no longer supported */ define('id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); define('idcta/id-statusbar-config', ['idcta/id-config'], function(conf) { return conf; }); })(); </script>
+
+    <link rel="stylesheet" href="//mybbc.files.bbci.co.uk/notification-ui/3.8.4/css/main.min.css"/>
+    
+    <meta property="og:type" content="website" />
+<meta property="og:title" content="パンデミックはどう終わる - BBC News" />
+<meta property="og:article:section" content="World" />
+<meta property="og:url" content="https://www.bbc.co.uk/news/resources/idt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927" />
+<meta property="fb:app_id" content="1609039196070050" />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="パンデミックはどう終わる - BBC News">
+
+    <meta property="og:site_name" content="BBC News" />
+    <meta property="og:article:author" content="https://www.facebook.com/bbcnews" />
+    <meta property="og:locale" content="en_GB" />
+
+    <meta name="twitter:site" content="@BBCNews">
+    <meta name="twitter:creator" content="@BBCNews">
+    <meta name="twitter:domain" content="www.bbc.com">
+
+    <meta property="og:description" content="今を生きる誰もが経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう世界中で大勢が願っているものの、私たちの先祖が闘った感染症の多くが残念ながら、撲滅されないまま残っている。" />
+
+    <meta name="twitter:description" content="今を生きる誰もが経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう世界中で大勢が願っているものの、私たちの先祖が闘った感染症の多くが残念ながら、撲滅されないまま残っている。">
+
+    <meta property="og:image" content="https://news.files.bbci.co.uk/vj/live/idt-images/shorthand-pandemics_timeline/header_976x549_qq0bm.jpg" />
+
+    <meta name="twitter:image" content="https://news.files.bbci.co.uk/vj/live/idt-images/shorthand-pandemics_timeline/header_976x549_k1jb6.jpg">
+
+                <style type="text/css">
+.idt__afaanoromoo .orb-nav-search, .idt__afaanoromoo #idcta-statusbar,
+.idt__afrique #idcta-statusbar, .idt__korean .orb-nav-search, .idt__korean #idcta-statusbar,
+.idt__azeri #idcta-statusbar,
+.idt__amharic .orb-nav-search, .idt__amharic #idcta-statusbar,
+.idt__burmese #idcta-statusbar,
+.idt__gahuza #idcta-statusbar,
+.idt__gujarati .orb-nav-search, .idt__gujarati #idcta-statusbar,
+.idt__igbo .orb-nav-search, .idt__igbo #idcta-statusbar,
+.idt__hausa #idcta-statusbar,
+.idt__korean .orb-nav-search, .idt__korean #idcta-statusbar,
+.idt__kyrgyz #idcta-statusbar,
+.idt__marathi .orb-nav-search, .idt__marathi #idcta-statusbar,
+.idt__nepali #idcta-statusbar,
+.idt__pidgin .orb-nav-search, .idt__pidgin #idcta-statusbar,
+.idt__punjabi .orb-nav-search, .idt__punjabi #idcta-statusbar,
+.idt__serbian .orb-nav-search, .idt__serbian #idcta-statusbar,
+.idt__sinhala #idcta-statusbar,
+.idt__somali #idcta-statusbar,
+.idt__swahili #idcta-statusbar,
+.idt__tamil #idcta-statusbar,
+.idt__telugu .orb-nav-search, .idt__telugu #idcta-statusbar,
+.idt__thai .orb-nav-search, .idt__thai #idcta-statusbar,
+.idt__tigrinya .orb-nav-search, .idt__tigrinya #idcta-statusbar,
+.idt__yoruba .orb-nav-search, .idt__yoruba #idcta-statusbar {
+  display: none;
+}
+</style>
+              </head> <body class="idt__news">          <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial_ad" class="bbccom_display_none"></div><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/ </script></div><div id="bbccom_wallpaper_ad" class="bbccom_display_none"></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else if (typeof googletag !== "undefined" && typeof googletag.display === "function") { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); } }()); /*]]>*/ </script></div><script type="text/javascript"> /*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isAdsEnabled()) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isAnalyticsEnabled()) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function() { window.bbcdotcom.bodyFirst = true; }()); /*]]>*/ </script> <div id="cookiePrompt"></div> <div id="blq-global"> <div id="blq-pre-mast">  </div> </div>  <noscript><p style='position: absolute; top: -999em;'><img src='https://sa.bbc.co.uk/bbc/bbc/s?name=news.resource.idt.pandemics_timeline_japanese.page&ml_name=webmodule&ml_version=-1&blq_js_enabled=0&blq_s=4d&blq_r=2.7&blq_v=default&blq_e=pal&page_type=idt-story&pal_route=full_frame_index&app_type=responsive&language=en-GB&pal_webapp=indepthtoolkit&prod_name=news&app_name=news' height='1' width='1' alt=''></p></noscript>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies !== 'undefined' && bbccookies.isAllowed('s1')) { (function () { require(['istats-1'], function (istats) { istatsTrackingUrl = istats.getDefaultURL(); if (istats.isEnabled() && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n) { var j = document, f = j.location, b = ""; if (j.cookie.indexOf("st_ux=") != -1) { var k = j.cookie.split(";"); var e = "st_ux", h = document.domain, a = "/"; if (typeof ns_ != "undefined" && typeof ns_.ux != "undefined") { e = ns_.ux.cName || e; h = ns_.ux.cDomain || h; a = ns_.ux.cPath || a } for (var g = 0, f = k.length; g < f; g++) { var m = k[g].indexOf("st_ux="); if (m != -1) { b = "&" + decodeURI(k[g].substring(m + 6)) } } bbccookies.set(e + "=; expires=" + new Date(new Date().getTime() - 60).toGMTString() + "; path=" + a + "; domain=" + h); } window.ns_pixelUrl = n;  } }); })(); } else { window.istats = {enabled: false}; } /*]]>*/</script> <!-- End iStats (UX-CMC) -->  
+ <!--[if (gt IE 8) | (IEMobile)]><!--> <header id="orb-banner" role="banner"> <!--<![endif]--> <!--[if (lt IE 9) & (!IEMobile)]> <![if (IE 8)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8"> <![endif]> <![if (IE 7)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7"> <![endif]> <![if (IE 6)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6"> <![endif]> <![endif]--> <div id="orb-header"  class="orb-nav-pri orb-nav-pri-white b-header--white--black orb-nav-empty"  > <div class="orb-nav-pri-container b-r b-g-p"> <div class="orb-nav-section orb-nav-blocks"> <a href="/"> <img  src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> </a> </div> <section> <div class="orb-skip-links"> <h2>Accessibility links</h2> <ul>  <li><a href="#bbc-news-vj-full-width-container">Skip to content</a></li>  <li><a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a></li> </ul> </div> </section>  <div id="mybbc-wrapper" class="orb-nav-section orb-nav-id orb-nav-focus"> <div id="idcta-statusbar" class="orb-nav-section orb-nav-focus"> <a id="idcta-link" href="https://account.bbc.com/account?ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fresources%2Fidt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927"> <span id="idcta-username">BBC iD</span> </a> </div>  <script type="text/javascript"> require(['idcta/statusbar'], function(statusbar) { new statusbar.Statusbar({"id":"idcta-statusbar","publiclyCacheable":true}); }); </script>
+
+    <a id="notification-link" class="js-notification-link animated three" href="#">
+        <span class="hidden-span">Notifications</span>
+        <div class="notification-link--triangle"></div>
+        <div class="notification-link--triangle"></div>
+        <span id="not-num"></span>
+    </a>
+ </div>  <nav role="navigation" class="orb-nav"> <div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"> <h2>BBC navigation</h2> <ul>    <li  class="orb-nav-home orb-d"  > <a href="http://www.bbc.co.uk/">Home</a> </li>    <li  class="orb-nav-homedotcom orb-w"  > <a href="http://www.bbc.com/">Home</a> </li>    <li  class="orb-nav-news orb-d"  > <a href="http://www.bbc.co.uk/news">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/cbbc">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/cbeebies">CBeebies</a> </li>    <li  class="orb-nav-food"  > <a href="/food/">Food</a> </li>    <li  > <a href="/iwonder">iWonder</a> </li>    <li  > <a href="/education">Bitesize</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/travel/">Travel</a> </li>    <li  class="orb-nav-music"  > <a href="/music/">Music</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-arts"  > <a href="/arts/">Arts</a> </li>    <li  class="orb-nav-makeitdigital"  > <a href="/makeitdigital">Make It Digital</a> </li>    <li  > <a href="/taster">Taster</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/nature/">Nature</a> </li>    <li  class="orb-nav-local"  > <a href="/local/">Local</a> </li>    <li  class="orb-nav-tomorrowsworld orb-d"  > <a href="/tomorrowsworld">Tomorrow's World</a> </li>    <li id="orb-nav-more"><a href="#orb-footer" data-alt="More">Menu<span class="orb-icon orb-icon-arrow"></span></a></li> </ul> </div> </nav> <div class="orb-nav-section orb-nav-search orb-nav-oldsearch"> <a href="http://search.bbc.co.uk/search"> <img  src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/img/orb-search-dark.png" width="18" height="18" alt="Search the BBC" /> </a> <form class="b-f" id="orb-search-form" role="search" method="get" action="//search.bbc.co.uk/search" accept-charset="utf-8"> <div>  <input type="hidden" name="uri" value="/news/resources/idt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927" />   <label for="orb-search-q">Search the BBC</label> <input id="orb-search-q" type="text" name="q" placeholder="Search" /> <input type="image" id="orb-search-button" src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/img/orb-search-dark.png" width="17" height="17" alt="Search the BBC" /> <input type="hidden" name="suggid" id="orb-search-suggid" /> </div> </form> </div> </div> <div id="orb-panels"  > <script type="text/template" id="orb-panel-template"><![CDATA[ <div id="orb-panel-<%= panelname %>" class="orb-panel" aria-labelledby="orb-nav-<%= panelname %>"> <div class="orb-panel-content b-g-p b-r"> <%= panelcontent %> </div> </div> ]]></script> </div> </div> </header> <!-- Styling hook for shared modules only --> <div id="orb-modules">              
+
+
+<!--[if lt IE 7]> <div class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <div class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <div class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <div class="no-js"> <!--<![endif]-->
+
+    <div id="bbc-news-vj-full-width-container">
+        <script>
+    window.vjConfigObject = window.vjConfigObject || {};
+    window.vjConfigObject['newsspec-27678-pandemics-end-app'] = {"js":true,"output":{"wrapper":"full-width"},"name":"newsspec-27678-pandemics-end","version":"1.0.98","urlToOutputDir":"https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end","assetsPath":"https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets","includeName":"app","language":"japanese","languageCode":"ja","loremText":["多ヘカホ聞固ゅぶず件策けも信聞展ロミ勝寄ねーい持死ツワ事談1貫四げつッ付応キハリ芸7用ばゆ地世ヲ屋年再けスくイ響図たばフら全横ワキメチ間60千派子たぴてっ。掲72売ヘヲハセ沿言ヲオ業活よれ淀揺むへせ親求おレが就金ねは通愛議ヤソ父構気ったへ読坊斉遣こク。更キイサル福上の子転か旅豆どさげ物案見ケメ暮3性へぐ月女ーあを神田テケル講横ネ楽要マオトナ感関前くも中軍ヘナラ玉宣獲ょて。","85縮スハセ警質ぱねリ碁投5社へ保遊84月ウクサ情無こ大阜よえ反故お周八ヤヨ毎給川にちみ画放ヌ大錦ワ丸杯ゅンッゃ通表だね阻能墓筑英男ぶゅぼ。込オケソト可応初す九正へ読道ルヘ会行仲でろおだ掛泉帯ユオルレ脱定ロノハチ権応技マトワロ記惑れびずち家僚ま民売みせづ秋82林シ会契ツメサ上付ナヤロ抄寿崩巡じういふ。","教だが図74國無さゃづへ道話ヱソ窃就うおじて曲61宅く体棚か給和メサムネ注社サカワヱ品恵換ーんト的供コ来開チ上座順すぴ。月アヌ威芝え井航イかンよ権割8棋か一通ニヤフ権予ずしい費命覧ネ野属ッょフわ病講オ山朝す次執折権あげん。級供に強囲態もでぶ将昇ばけド組数明セソ括2済アテ光位28職ヲ明直スル碁加スほ古尊車岳犠なずり。","子権とすむ危銀ー座故づ江方せぎ画2生べもひ月化クゅ一減イ保提ウレ形待ホ即士やた用績制条向ぐば。文ヒフ通隠ネルウキ孫述むぽぴぞ済悪器ナ個25売ミラ復1発ト質事ょ明多勝幕ゃよる断検ー毎献ルカハ店情催うイと后回はんた。神ユエ教8禁ハヤコ陣今サカオヨ体38訃オ時立ヱサキケ著室英てわな堅問カノテ口一会な育記岩トドま活親は党以コレ前業ざ済圧編ざ。"],"textDirection":"ltr","serviceName":"japanese","serviceNameNative":"ニュース","AtiSiteStringTest":"NEWS_LANGUAGES_GNL_TEST","AtiSiteStringLive":"NEWS_LANGUAGES_GNL","AtiProducerString":"JAPANESE","vocab":{"IDT_title":"パンデミックはどう終わる","IDT_description":"今を生きる誰もが経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう世界中で大勢が願っているものの、私たちの先祖が闘った感染症の多くが残念ながら、撲滅されないまま残っている。","IDT_section":"世界","headline":"パンデミックはどう終わる","hero_img_alt":"女性と先祖","byline_author":"ビジュアル・ジャーナリズム・チーム","byline_date":"2020年10月5日","byline_category":"ニュース","byline_category_url":"https://www.bbc.com/japanese","animation_toggle_enabled":"アニメーション再生","animation_toggle_disabled":"アニメーション停止","intro_text":"今を生きる誰も経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう、世界中で大勢が願っているものの、残念ながら私たちの先祖が闘った感染症の多くが、撲滅されないまま残っている。","intro_cta":"過去のパンデミックがどう収束したか見るには、↓へスクロール。私たちの今後がどうなるのか、ヒントが得られるかもしれない。","intro_text_to_article_1":"こちらはジャスミン。","intro_photo_altText":"ジャスミンという名前の女性","intro_text_to_article_2":"私たちと同じように、ジャスミンの先祖もいくつかのパンデミックを生き延びた。","intro_text_to_article_3":"過去にどういう病気が世界を襲ったか振り返ってみる。","family_tree_altText":"ジャスミンの家系図。60世代をさかのぼり、腺ペストへと戻る","bubonic_title_text":"腺ペスト――まだ撲滅できていない難病","bubonic_title_date":"3回にわたり大流行した。<br>最も早いアウトブレイク（集団感染）は西暦541年","bubonic_text_1":"約60世代前のジャスミンの先祖たちは、腺ペストのアウトブレイクを何度か経験した。","bubonic_timeline_image_altText":"60世代前のジャスミンの先祖","bubonic_text_2":"ネズミに寄生するノミが媒介するバクテリアや、感染者が放出する飛沫が、大被害をもたらした。","bubonic_disease_image_title":"ペスト菌は特定のげっ歯類の間に広がる","bubonic_disease_image_altText":"ペスト菌のイラスト","bubonic_text_3":"ペスト菌は約2000年の間に数億人の命を奪った。","bubonic_text_4":"1346～1353年のペストが最悪のアウトブレイクとされている。","bubonic_animation_title":"ペストは過去に大勢の命を奪ったものの、<br>現在の致死率は抑えられている。","bubonic_animation_altText":"ペストによる死者、推定2億人の動画","bubonic_animation_source":"出典：世界保健機関（WHO）、学術研究","bubonic_text_5":"リンパ節の腫れを引き起こすこの伝染病は、厳しい隔離と衛生状態の改善などで、最終的に収束したとみられている。","bubonic_text_6":"感染拡大を抑制し収束させるには、そもそも病気がどうやって感染するのかを理解しなくてはならなかったと、英インペリアル・コレッジ・ロンドンのスティーヴン・ライリー教授（感染症伝染ダイナミクス専門）は言う。これは現在にも共通する知見だ。","bubonic_text_7":"「いったん知識を得て、その知識を共有すれば、感染をずっと少なく抑えるための対策が実施できる」","bubonic_text_8":"それでもペストの発生は現代も続いている。たとえば、今年7月には内モンゴル自治区で発生した。理論上は、ジャスミンが感染する可能性もまだあり得る。","bubonic_text_9":"ただし現在では被害の規模は小さく、抗生物質で十分な治療が可能だ。","smallpox_title_text":"天然痘――科学が撲滅したウイルス","smallpox_title_date":"記録されている最も早いアウトブレイクは1520年","smallpox_text_1":"ペストから数百年後、ジャスミンの先祖たちは今度は天然痘に直面する。","smallpox_timeline_image_altText":"20世代前のジャスミンの先祖","smallpox_text_2":"天然痘ウイルスが原因のこの病気は、特に多くの人命を奪ってきた。","smallpox_text_3":"全身に水疱（すいほう）性の発疹ができる病気で、最も激しいアウトブレイク時には感染者10人中3人が死亡していた。","smallpox_text_4":"感染者の鼻や口からの飛沫や発疹から感染する。","smallpox_disease_image_title":"天然痘ウイルスは動物では媒介されない","smallpox_disease_image_altText":"天然痘ウイルスの図","smallpox_text_5":"ペストと同様、天然痘は数億人の命を奪った。20世紀だけでも3億人が死亡している。","smallpox_animation_title":"天然痘の死者は少なくとも3億5000万人。<br>しかし今や、天然痘で亡くなる人はいない。","smallpox_animation_altText":"天然痘の死者、少なくとも3億5000万人を示す動画","smallpox_animation_source":"出典：世界保健機関（WHO）、学術研究","smallpox_text_6":"イギリスの医師エドワード・ジェンナーが1796年に開発したワクチンと、その後の専門家たちの努力によって、今では天然痘ウイルスは完全に撲滅された。ただし、それには200年近くかかった。","smallpox_text_7":"こうして人間の努力によって人間がかかる感染症が撲滅できたのは、いまだに天然痘のみ。ライリー教授はこれを、月面着陸に匹敵する人類最高の業績のひとつと呼ぶ。","smallpox_text_8":"「これほどの利益を生んだ公共投資はほかにないかもしれない」と、ライリー教授は言う。天然痘がなくなったことで国際社会は莫大なコストを削減できるようになったからだ。","smallpox_text_9":"この科学的成果のおかげで、ジャスミンと私たちが天然痘にかかる危険はもうない。","cholera_title_text":"コレラ――貧しい国に残る病","cholera_title_date":"現在まで各地で複数のアウトブレイク発生。1817年にパンデミック","cholera_text_1":"わずか8世代前、ジャスミンの曽々々々々々々々祖父母は、コレラの脅威に直面した。","cholera_timeline_image_altText":"8世代前のジャスミンの先祖","cholera_text_2":"WHOによると、汚染された食べ物や飲み物が感染源となるこの伝染病のパンデミックは過去7回発生し、数百万人が死亡している。","cholera_disease_image_title":"コレラ菌は汚染された水や食べ物から検出される","cholera_disease_image_altText":"コレラ菌の図","cholera_text_3":"欧米では衛生状態の改善によってコレラはほぼ発生しなくなったものの、多くの貧しい国では今なお頻繁に発生し、毎年10万～14万人が死亡する（WHO統計）。","cholera_animation_title":"コレラの死者は数百万人。今なお大勢が命を落とす","cholera_animation_altText":"コレラの死者推定4000万人超の動画","cholera_animation_source":"出典：世界保健機関（WHO）、 Ali M, Nelson AR, Lopez AL, Sack DA (2015) Updated Global Burden of Cholera in Endemic Countries","cholera_text_4":"「コレラ対策で大事なのは下水道だ」とライリー教授は言う。「下水処理がうまくいかないと、コレラはあっという間に広がる」。","cholera_text_5":"コレラにはワクチンがあり、治療も比較的簡単だ。しかし、ジャスミンがどこに住んでいるかによっては、まだコレラにかかり死亡する危険がある。","influenzas_title_text":"インフルエンザ――季節ごとの脅威","influenzas_title_date":"1800年代から2010年まで繰り返されるパンデミック","influenzas_text_1":"ジャスミンの家族はインフルエンザのパンデミックもたびたび経験してきた。特に被害が大きかったのは20世紀初頭、ジャスミンの曾々祖母父の時代だ。","influenzas_timeline_image_altText":"ジャスミンの曾々祖母父","influenzas_text_2":"「スペイン風邪」とも呼ばれる1918年のインフルエンザ・パンデミックは、近年で最も被害が甚大で、全世界で5000万～1億人が亡くなった。","influenzas_text_3":"現在の新型コロナウイルスと同様、隔離が感染拡大を抑制した。","influenzas_disease_image_title":"H1N1ウイルスがスペイン風邪パンデミックの原因だった","influenzas_disease_image_altText":"H1N1ウイルスの図","influenzas_text_4":"1918年と1920年にかけて感染が2回拡大した後、このH1N1の株は弱毒化し、今も毎年流行している。","influenzas_animation_title":"スペイン風邪で数百万人死亡<br>季節性インフルエンザによる死者は今も続く","influenzas_animation_altText":"スペイン風邪による死者推定5000万人以上を示す動画","influenzas_animation_note":"註： パンデミックとは異なる季節性インフルエンザ関連の現在の死者数","influenzas_animation_source":"出典： WHO、米疾病対策センター（CDC）","influenzas_text_5":"しかしこの後も他のインフルエンザのパンデミックが続いた。","influenzas_text_6":"1968年の「香港風邪」では100万人が亡くなり、今も季節性インフルエンザとして流行を繰り返す。H1N1ウイルスの一種が原因の豚インフルエンザも同様で、2009年に世界人口の約21％が感染した。","influenzas_text_7":"インフルエンザには今も「パンデミック化の恐れがある」とライリー教授は言う。ジャスミンも私たちも、インフルエンザのパンデミックを経験するかもしれない。","influenzas_text_8":"私たちは季節性インフルエンザにかかる恐れもある。季節性のインフルエンザによる死者は毎年数十万人にもなる。","hiv_title_text":"HIV/エイズ――今なお続く感染","hiv_title_date":"1981年から現在まで","hiv_text_1":"続いて約40年前、ジャスミンの両親はHIV/エイズの感染が拡大する時代を経験した。パンデミックだと言う意見もあるが、WHOは「世界的な感染拡大」と呼んでいた。","hiv_timeline_image_altText":"ジャスミンの両親","hiv_text_2":"ヒト免疫不全ウイルス（HIV）は、体液を通じて伝染する。これまでに世界中で3200万人以上が命を落としている。","hiv_disease_image_title":"HIVは人間の免疫系を攻撃する","hiv_disease_image_altText":"ヒト免疫不全ウイルス（HIV）の図","hiv_text_3":"HIVは潜伏期間と高い致死率ゆえに、「最悪のシナリオのウイルス」と呼んでもいいと、ライリー教授は言う。感染してもなかなか気付かないため、素早く伝染する。","hiv_text_4":"ただし、診断技術の進歩に加え、世界的な啓発運動によって性行動の変化や薬物利用者の安全な注射利用が広がり、感染拡大は抑制できるようになってきた。","hiv_text_5":"それでも、WHOによると2019年には推定69万人がエイズで死亡した。","hiv_animation_title":"HIV/エイズで数百万人が死亡した。<br>今なお数千人が命を落としている","hiv_animation_altText":"HIV/エイズによる推定死者数3200万人を示す動画","hiv_animation_source":"出典：WHO","hiv_text_6":"HIVを完治する方法はまだないものの、ジャスミンが医療体制の整った国に住み、抗ウイルス薬が使える状態にあるなら、健康で長生きすることができる。","hiv_text_7":"一方でジャスミンが貧しい国に住み、そのような医療へのアクセスがないなら、今なおエイズによるリスクは高い。","sars_title_text":"SARSとMERS――<br>対応が比較的に楽だったコロナウイルス","sars_title_date":"2002～2003年と2012年、そして現在","sars_text_1":"さらに2、30年後。ジャスミン自身が生まれた後、SARSやMERSの脅威がやってきた。","sars_timeline_image_altText":"現在のジャスミン","sars_text_2":"重症急性呼吸器症候群（SARS）は、コロナウイルスによる最初の深刻な大規模感染だった。WHOによると2002年から2003年にかけて、800人以上が死亡した。","sars_disease_image_title":"「SARS-COV」と呼ばれるSARSコロナウイルスは、<br>2003年に特定された","sars_disease_image_altText":"SARS-COVウイルスの図","sars_text_3":"しかし、2003年7月下旬の時点で新しい感染者の報告はなくなり、WHOは世界的な大規模感染は収束したと宣言した。","":"未発症の人が周囲にうつすことがほとんどなかったため、患者の検査と隔離、および空港検査によって、感染拡大を抑制することができた。","sars_text_4":"それから間もなくして、中東呼吸器症候群（MERS）の感染が拡大した。これもコロナウイルスによるもので、912人が死亡した。アラビア半島での感染がほとんどだった。","sars_text_5":"「MERS-COV」と呼ばれるウイルスに、たとえばイギリスで感染するリスクは非常に少ないものの、中東で感染する確率は今も高い。人間は多くの場合、ラクダから感染する。","sars_animation_title":"SARSによる死者は800人超","sars_animation_altText":"SARSによる死者800人超の動画","sars_animation_source":"出典：WHO","sars_text_6":"つまり、ジャスミンがMERSに感染する可能性はあるが、ほとんどの国でそのリスクは少ない。","covid-19_title_text":"COVID-19――前例のないコロナウイルス","covid-19_title_date":"2019年から現在","covid-19_text_1":"ジャスミンと私たちが生きている今のこの時代、私たちは新しいSARSコロナウイルスに直面している。この新型コロナウイルスが、COVID-19という感染症を引き起こす。","covid-19_timeline_image_altText":"ジャスミン","covid-19_text_2":"「SARS-COV-2」と呼ばれるこのウイルスは、2013年SARSウイルスの進化形。症状が軽いものから死に至るものまで多岐にわたることや、未発症の人の感染性が高いことなどから、伝染病の専門家たちから特異なウイルスとみなされている。","covid-19_text_3":"「多くの地域で抑制に失敗しているのはそのためだ」と、ライリー博士は言う。","covid-19_disease_image_title":"「SARS-COV-2」ウイルスは、<br>2003年のSARSウイルスと関連する","covid-19_disease_image_altText":"「SARS-COV-2」ウイルスの図","covid-19_text_4":"すでに100万人以上が亡くなったが、被害の全体像はさらにひどくなる見通し","covid-19_animation_title":"新型コロナウイルスですでに100万人以上が死亡した","covid-19_animation_altText":"新型コロナウイルスによる被害の全体像","covid-19_animation_source":"出典：米ジョンズ・ホプキンス大学","covid-19_text_5":"ワクチンや効果的な治療法を探す研究は続くものの、世界の大多数の人にとって感染リスクは続く。ジャスミンも私たちも、今なお危険にさらされている。","conclusion_title":"次はどうなる","conclusion_text_1":"今の社会で活動する新型コロナウイルスは、ウイルスや細菌といった新しい病原体が長年にわたり引き起こしてきた様々なパンデミックの、最新の形だ。","death_totals_chart_title":"特に甚大なパンデミックは時代を超えて<br>数億人規模の犠牲を出してきた","death_totals_chart_altText":"過去の大規模パンデミックによる死者数の動画","death_totals_chart_source":"出典：WHO、CDC、学術研究、米ジョンズ・ホプキンス大学","conclusion_text_2":"感染の仕組みについての知識向上や公衆衛生の啓蒙活動、新しい治療法やワクチンの開発などが、過去のパンデミックを終わらせてきた。","conclusion_text_3":"現在のパンデミック収束も、おそらく複数の要因が重なっての結果になるだろう。","conclusion_text_4":"「安全で、きわめて効果的」なワクチンによって収束するかもしれないが、そのようなワクチンが見つかると決まっているわけではないと、ライリー教授は言う。","conclusion_text_5":"むしろ、COVID-19に対して一定の抵抗力を獲得しつつ、共存する方法を見つける必要があるかもしれない。","conclusion_text_6":"「5年以内には確実に、できればそれよりもっと早くに、本当に効果的で世界中で使われるワクチンが見つかるか、あるいは何とかやり過ごしたおかげで十分な免疫を獲得したか、どちらにしろ小規模の集団発生の再発にも耐えられるようになっているだろう」と、ライリー教授は将来を見通す。","conclusion_text_7":"天然痘の撲滅からも分かるように、世界中の科学者が団結すれば、目覚しい成果が期待できる。","conclusion_text_8":"新型コロナウイルスは、未発症者からの感染が非常に多いため、従来の感染症に比べて対応が厄介だ。しかし解決法を求める「素晴らしい」世界的な取り組みが最終的には成果をもたらすと、ライリー教授は楽観している。","conclusion_text_9":"「世界全体でこのようなプロジェクトに共同で携わるのは、これが初めてだ。いずれかの時点で世界が成功を共有できるようになる時対する」と、ライリー教授は話す。","conclusion_text_10":"ただし、過去のパンデミックで人間社会を脅かした病原体のほとんどは、まだ居座っている。これは忘れないほうがいい。個々のパンデミックは収束しても、ウイルスやバクテリアや、それによる感染症はまだ残存している。","onward_journeys_title":"","onward_journey_1_summary":"","onward_journey_1_link":"","onward_journey_1_img_url":"","onward_journey_1_img_alt":"","onward_journey_2_summary":"","onward_journey_2_link":"","onward_journey_2_img_url":"","onward_journey_2_img_alt":"","onward_journey_3_summary":"","onward_journey_3_link":"","onward_journey_3_img_url":"","onward_journey_3_img_alt":"","credits_title":"製作","credits_para":"ルーシー・ロジャース、デビー・ロワゾー、リリー・ハイン、カトリオーナ・モリソン、ベッキー・ラッシュ。<br><br>歴史上のパンデミックについて教示してくださったインペリアル・コレッジ・ロンドンのスティーヴン・ライリー教授、ならびにWHOに感謝します。","title":"死者数","overall_death":"死者総数","current":"現在の死者数","disease_bubonic":"腺ペスト","disease_bubonic--total-deaths":"最大2億人","disease_bubonic--current-deaths":"584人","disease_bubonic--current-deaths-note":"2010～2015年","disease_smallpox":"天然痘","disease_smallpox--total-deaths":"少なくとも3億5000万人","disease_smallpox--current-deaths":"0","disease_cholera":"コレラ","disease_cholera--total-deaths":"推定4000万人","disease_cholera--current-deaths":"9万5000人","disease_cholera--current-deaths-note":"毎年の推定","disease_influenzas":"インフルエンザ","disease_influenzas--total-deaths":"スペイン風邪で5000万人以上","disease_influenzas--current-deaths":"季節性インフルエンザで最大65万人","disease_influenzas--current-deaths-note":"毎年の推定","disease_hiv":"HIV/エイズ","disease_hiv--total-deaths":"3200万人","disease_hiv--current-deaths":"69万人","disease_hiv--current-deaths-note":"2019年の最新数値","disease_sars":"SARS","disease_sars--total-deaths":"813人","disease_sars--current-deaths":"0","disease_covid-19":"COVID-19","disease_covid-19--total-deaths":"？","disease_covid-19--current-deaths":"100万人以上","disease_covid-19--current-deaths__final-animation":"100万人以上","key_low":"1000万人未満","key_medium":"1000万～1億人","key_high":"1億人以上","animation_note":"註：世界人口は時代と共に大きく増加した。<br>人口が今より少なかった当時の病気は、<br>今よりはるかに甚大な影響を社会に与えたと思われる。","restart_animation":"動画をまた見る","family_tree_mobile":"https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png","family_tree_desktop":"https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png","overall_death_toll_fallback_mobile":"https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/death_toll_640.png","overall_death_toll_fallback_desktop":"https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/death_toll_976.png"},"outputs":[{"wrapper":"full-width"},{"wrapper":"core"},{"wrapper":"embed"},{"wrapper":"envelope"},{"wrapper":"news-app"},{"wrapper":"syndication","photoCaption":"","photoURL":"","hyperlinkCallToAction":"Click here to see the BBC interactive"},{"wrapper":"facebook","height":960,"withMargins":"yes"},{"wrapper":"applenews","photoCaption":"","photoURL":"","hyperlinkCallToAction":"Click or tap here to see interactive content"}],"autoFixLintingErrors":false,"polyfill":true,"dynamicImports":false,"reactProject":false,"failFast":false,"includePath":{"responsive":true,"newsapps":true,"app-image":"https://placehold.it/640x360","app-clickable":true,"amp-clickable":true,"amp-image-height":360,"amp-image-width":640,"amp-image":"https://placehold.it/640x360","app-image-alt-text":"Click or tap here to see interactive content"},"languages":["afaanoromoo","amharic","arabic","bengali","english","gujarati","hindi","igbo","japanese","korean","kyrgyz","marathi","mundo","nepali","persian","portuguese","russian","serbian","sinhala","swahili","tamil","thai","turkish","zhongwen"],"destinationSection":{"english":"uk"},"uncompressedAppBudget":"(1024 * 1000) * 0.5","meta":{"title":null,"images":[{"thumbnail":null}],"hasBeenDeployed":false,"publication_date":null,"last_modified":null,"data_last_modified":"Mon Oct 12 2020 14:09:22 GMT+0100 (British Summer Time)","keywords":["vj","visual-journalism","visualjournalism","visual journalism"],"locations":{"regions":[]}},"defaultPort":1031,"usedPort":1031,"shadowDom":true,"projectNamespace":"newsspec-27678-pandemics-end","outputDir":"include/newsspec/27678-pandemics-end","includes":{"app":{"uuid":"fNtyplG1O"}},"pathToWrapperAssets":"https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/full-width","pathToInclude":"https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/japanese/app/full-width","pathToWrapperAssetsToInclude":"https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/japanese/app/full-width"};
+</script>
+<script>
+    window.timeLoadingStarted = Math.floor(Date.now() / 1000);
+</script>
+<div class="full-frame-scaffold-news-banner bbc-news-vj-direction--ltr" role="banner" aria-label="BBC ニュース">
+    <div role="navigation" aria-label="japanese">
+        <h2 class="navigation__heading sr-only">japanese navigation</h2>
+
+        <div class="full-frame-scaffold-news-banner__logo">
+            <a href="http://www.bbc.co.uk/japanese" class="full-frame-scaffold-news-banner__btn">
+                <img src="https://news.files.bbci.co.uk/include/vjassets/branding/v2/full-width/japanese.png" class="full-frame-scaffold-news-banner__img" alt="ニュース">
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+.bbc-news-vj-wrapper .bbc-news-visual-journalism-loading-spinner{position:absolute;top:5rem;left:calc(50% - 1rem);z-index:99}.bbc-news-vj-wrapper img.lazy{opacity:0;height:1px}.death-toll--covid{opacity:0}@font-face{font-family:'ReithSerif';font-weight:bold;src:url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSerif/latest/bold.woff2") format("woff2"),url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSerif/latest/bold.woff") format("woff"),url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSerif/latest/bold.eot") format("eot");font-display:swap}@font-face{font-family:'ReithSansLight';font-weight:300;src:url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSans/latest/light.woff2") format("woff2"),url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSans/latest/light.woff") format("woff"),url("https://ws-downloads.files.bbci.co.uk/fonts/ReithSans/latest/light.eot") format("eot");font-display:swap}@font-face{font-family:'Shonar Bangla';font-weight:300;src:url("https://ws-downloads.files.bbci.co.uk/fonts/ShonarBangla/v5.91/normal.woff") format("woff");font-display:swap}@-moz-keyframes gel-spin{0%{-moz-transform:rotate(0deg)}100%{-moz-transform:rotate(360deg)}}@-webkit-keyframes gel-spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}@-ms-keyframes gel-spin{0%{-ms-transform:rotate(0deg)}100%{-ms-transform:rotate(360deg)}}@keyframes gel-spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.bbc-news-visual-journalism-loading-spinner{display:block;margin:8px auto;width:32px;height:32px;max-width:32px;fill:#323232;-webkit-animation-name:gel-spin;-webkit-animation-duration:1s;-webkit-animation-iteration-count:infinite;-webkit-animation-timing-function:linear;-moz-animation-name:gel-spin;-moz-animation-duration:1s;-moz-animation-iteration-count:infinite;-moz-animation-timing-function:linear;animation-name:gel-spin;animation-duration:1s;animation-iteration-count:infinite;animation-timing-function:linear}
+﻿.bbc-news-vj-wrapper{font-family:"Hiragino Kaku Gothic Pro", "ﾋﾗギﾉ角ゴPro W3", "MS PGothic", "MS UI Gothic", Helvetica, Arial, sans-serif}
+
+</style>
+
+<div class="
+        bbc-news-vj-wrapper
+        bbc-news-vj-wrapper--full-width
+        bbc-news-vj-onbbcdomain
+        bbc-news-vj-direction--ltr
+        bbc-news-vj-language--japanese
+    "
+    data-include-name="app"
+    data-env="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end"
+    role="main">
+    <div id="loading-spinner"></div>
+    <div class="vj-header">
+        <div class="vj-header__hero-container">
+            <picture>
+                <source srcset="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/hero-desktop-4.jpg" alt="" media="(min-width: 1000px)" loading="lazy">
+                <source srcset="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/hero-mobile-4.jpg" alt="" loading="lazy">
+                <img src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/hero-desktop-4.jpg" alt="" loading="lazy"/>
+            </picture>
+        </div>
+        <div class="vj-header__headline-background">
+            <h1 class="vj-header__headline">パンデミックはどう終わる</h1>
+            <div class="story-timestamp">
+                <div class="story-meta">
+                    <ul class="story-metalist">
+            
+                          <li class="byline">
+                            ビジュアル・ジャーナリズム・チーム
+                          </li>
+            
+            
+                        <li class="timestamp">
+                          <time class="date">2020年10月5日</time>
+                        </li>
+                        <li>
+                          <a href="https://www.bbc.com/japanese">ニュース</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div><div class='static-content-container'>
+        <p class='highlight--bold'>今を生きる誰も経験したことのないパンデミックが進行中だ。ワクチンによって一気に問題が解決するよう、世界中で大勢が願っているものの、残念ながら私たちの先祖が闘った感染症の多くが、撲滅されないまま残っている。</p>
+        <p class='highlight--bold'>過去のパンデミックがどう収束したか見るには、↓へスクロール。私たちの今後がどうなるのか、ヒントが得られるかもしれない。</p>
+        <div class="enhanced" style="display: none">
+            <div class="toggle-container">
+                <label class="toggle__switch animation-toggle">
+                    <input type="checkbox" checked=true aria-labelledby="toggle-label"><span aria-hidden="true" class="toggle__slider"></span>
+                    <span id="toggle-label" aria-hidden="true" class="toggle__label">アニメーション再生</span>
+                </label>
+            </div>    </div>
+        <div class='image--family-tree tree--disease tree--covid-19 core-content-image fallback'>
+            <picture>
+                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)' class='family_tree tree--covid-19'>
+                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--covid-19' />
+            </picture>
+        </div>
+        <p>こちらはジャスミン。</p>
+        <p>私たちと同じように、ジャスミンの先祖もいくつかのパンデミックを生き延びた。</p>
+        <p class='highlight--bold'></p>
+        <p>過去にどういう病気が世界を襲ったか振り返ってみる。</p>
+                    </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--bubonic banner--spacing fallback' role="img"
+                            aria-label="60世代前のジャスミンの先祖">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--bubonic'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--bubonic' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>腺ペスト――まだ撲滅できていない難病</h2>
+                            <h3 class='image-date'>3回にわたり大流行した。<br>最も早いアウトブレイク（集団感染）は西暦541年</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>約60世代前のジャスミンの先祖たちは、腺ペストのアウトブレイクを何度か経験した。</p>
+                        <p>ネズミに寄生するノミが媒介するバクテリアや、感染者が放出する飛沫が、大被害をもたらした。</p>
+                        <h3 class="subtitle">ペスト菌は特定のげっ歯類の間に広がる</h3>
+                    <div class='image--disease disease--bubonic'>
+                        <img class='lazy disease disease--bubonic' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/bubonic.svg'
+                            alt="ペスト菌のイラスト">
+                        <noscript>
+                            <img class='disease disease--bubonic' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/bubonic.svg' alt="ペスト菌のイラスト">
+                        </noscript>
+                    </div>
+                    <p>ペスト菌は約2000年の間に数億人の命を奪った。</p>
+                        <p>1346～1353年のペストが最悪のアウトブレイクとされている。</p>
+                        <div class='toll--container toll--container--bubonic fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>ペストは過去に大勢の命を奪ったものの、<br>現在の致死率は抑えられている。</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='ペストによる死者、推定2億人の動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--bubonic_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--bubonic' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                                <div class='toll--text-container toll--text-container__now'>
+                                        <svg class='toll--arrow' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 56'><defs><style>.cls-1 {fill: none;} .arrow-colour {fill: none; stroke: #000; stroke-miterlimit: 10;} .arrow-head-colour {stroke: #000; fill: #000; stroke-miterlimit: 10;}</style></defs><title>arrow</title><path class='cls-1' d='M1.82,1.16s17.31,23.28.7,53.14' /><path class='arrow-colour' d='M4.8,6.34c4.08,8.46,9.65,26.51-2.28,48' /><polygon class='arrow-head-colour' points='2.88 10.63 5.34 7.45 9.34 7.01 1.82 1.16 2.88 10.63' /></svg>
+                                    <span class='toll--figure toll--final-text'>現在の死者数</span>
+                                    <span class='toll--figure toll--final-text'>*584人</span>
+                                </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>最大2億人</span>
+                            </div>
+                        <div class='toll--text-container'>
+                                <span class='toll--figure toll--note'>*2010～2015年</span>
+                                <span class='toll--figure toll--note'>註：世界人口は時代と共に大きく増加した。<br>人口が今より少なかった当時の病気は、<br>今よりはるかに甚大な影響を社会に与えたと思われる。</span>
+                            <span class='toll--figure toll--note'>出典：世界保健機関（WHO）、学術研究</span>
+                        </div>
+                    </div>
+                    <p>リンパ節の腫れを引き起こすこの伝染病は、厳しい隔離と衛生状態の改善などで、最終的に収束したとみられている。</p>
+                        <p>感染拡大を抑制し収束させるには、そもそも病気がどうやって感染するのかを理解しなくてはならなかったと、英インペリアル・コレッジ・ロンドンのスティーヴン・ライリー教授（感染症伝染ダイナミクス専門）は言う。これは現在にも共通する知見だ。</p>
+                        <p>「いったん知識を得て、その知識を共有すれば、感染をずっと少なく抑えるための対策が実施できる」</p>
+                        <p>それでもペストの発生は現代も続いている。たとえば、今年7月には内モンゴル自治区で発生した。理論上は、ジャスミンが感染する可能性もまだあり得る。</p>
+                        <p>ただし現在では被害の規模は小さく、抗生物質で十分な治療が可能だ。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--smallpox banner--spacing fallback' role="img"
+                            aria-label="20世代前のジャスミンの先祖">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--smallpox'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--smallpox' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>天然痘――科学が撲滅したウイルス</h2>
+                            <h3 class='image-date'>記録されている最も早いアウトブレイクは1520年</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>ペストから数百年後、ジャスミンの先祖たちは今度は天然痘に直面する。</p>
+                        <p>天然痘ウイルスが原因のこの病気は、特に多くの人命を奪ってきた。</p>
+                        <p>全身に水疱（すいほう）性の発疹ができる病気で、最も激しいアウトブレイク時には感染者10人中3人が死亡していた。</p>
+                        <p>感染者の鼻や口からの飛沫や発疹から感染する。</p>
+                        <h3 class="subtitle">天然痘ウイルスは動物では媒介されない</h3>
+                    <div class='image--disease disease--smallpox'>
+                        <img class='lazy disease disease--smallpox' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/smallpox.svg'
+                            alt="天然痘ウイルスの図">
+                        <noscript>
+                            <img class='disease disease--smallpox' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/smallpox.svg' alt="天然痘ウイルスの図">
+                        </noscript>
+                    </div>
+                    <p>ペストと同様、天然痘は数億人の命を奪った。20世紀だけでも3億人が死亡している。</p>
+                        <div class='toll--container toll--container--smallpox fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>天然痘の死者は少なくとも3億5000万人。<br>しかし今や、天然痘で亡くなる人はいない。</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='天然痘の死者、少なくとも3億5000万人を示す動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--smallpox_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--smallpox' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                                <div class='toll--text-container toll--text-container__now'>
+                                    <span class='toll--figure toll--final-text'>現在の死者数</span>
+                                    <span class='toll--figure toll--final-text'>0</span>
+                                </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>少なくとも3億5000万人</span>
+                            </div>
+                        <div class='toll--text-container'>
+                            <span class='toll--figure toll--note'>出典：世界保健機関（WHO）、学術研究</span>
+                        </div>
+                    </div>
+                    <p>イギリスの医師エドワード・ジェンナーが1796年に開発したワクチンと、その後の専門家たちの努力によって、今では天然痘ウイルスは完全に撲滅された。ただし、それには200年近くかかった。</p>
+                        <p>こうして人間の努力によって人間がかかる感染症が撲滅できたのは、いまだに天然痘のみ。ライリー教授はこれを、月面着陸に匹敵する人類最高の業績のひとつと呼ぶ。</p>
+                        <p>「これほどの利益を生んだ公共投資はほかにないかもしれない」と、ライリー教授は言う。天然痘がなくなったことで国際社会は莫大なコストを削減できるようになったからだ。</p>
+                        <p>この科学的成果のおかげで、ジャスミンと私たちが天然痘にかかる危険はもうない。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--cholera banner--spacing fallback' role="img"
+                            aria-label="8世代前のジャスミンの先祖">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--cholera'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--cholera' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>コレラ――貧しい国に残る病</h2>
+                            <h3 class='image-date'>現在まで各地で複数のアウトブレイク発生。1817年にパンデミック</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>わずか8世代前、ジャスミンの曽々々々々々々々祖父母は、コレラの脅威に直面した。</p>
+                        <p>WHOによると、汚染された食べ物や飲み物が感染源となるこの伝染病のパンデミックは過去7回発生し、数百万人が死亡している。</p>
+                        <h3 class="subtitle">コレラ菌は汚染された水や食べ物から検出される</h3>
+                    <div class='image--disease disease--cholera'>
+                        <img class='lazy disease disease--cholera' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/cholera.svg'
+                            alt="コレラ菌の図">
+                        <noscript>
+                            <img class='disease disease--cholera' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/cholera.svg' alt="コレラ菌の図">
+                        </noscript>
+                    </div>
+                    <p>欧米では衛生状態の改善によってコレラはほぼ発生しなくなったものの、多くの貧しい国では今なお頻繁に発生し、毎年10万～14万人が死亡する（WHO統計）。</p>
+                        <div class='toll--container toll--container--cholera fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>コレラの死者は数百万人。今なお大勢が命を落とす</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='コレラの死者推定4000万人超の動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--cholera_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--cholera' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                                <div class='toll--text-container toll--text-container__now'>
+                                        <svg class='toll--arrow' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 56'><defs><style>.cls-1 {fill: none;} .arrow-colour {fill: none; stroke: #000; stroke-miterlimit: 10;} .arrow-head-colour {stroke: #000; fill: #000; stroke-miterlimit: 10;}</style></defs><title>arrow</title><path class='cls-1' d='M1.82,1.16s17.31,23.28.7,53.14' /><path class='arrow-colour' d='M4.8,6.34c4.08,8.46,9.65,26.51-2.28,48' /><polygon class='arrow-head-colour' points='2.88 10.63 5.34 7.45 9.34 7.01 1.82 1.16 2.88 10.63' /></svg>
+                                    <span class='toll--figure toll--final-text'>現在の死者数</span>
+                                    <span class='toll--figure toll--final-text'>*9万5000人</span>
+                                </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>推定4000万人</span>
+                            </div>
+                        <div class='toll--text-container'>
+                                <span class='toll--figure toll--note'>*毎年の推定</span>
+                            <span class='toll--figure toll--note'>出典：世界保健機関（WHO）、 Ali M, Nelson AR, Lopez AL, Sack DA (2015) Updated Global Burden of Cholera in Endemic Countries</span>
+                        </div>
+                    </div>
+                    <p>「コレラ対策で大事なのは下水道だ」とライリー教授は言う。「下水処理がうまくいかないと、コレラはあっという間に広がる」。</p>
+                        <p>コレラにはワクチンがあり、治療も比較的簡単だ。しかし、ジャスミンがどこに住んでいるかによっては、まだコレラにかかり死亡する危険がある。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--influenzas banner--spacing fallback' role="img"
+                            aria-label="ジャスミンの曾々祖母父">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--influenzas'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--influenzas' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>インフルエンザ――季節ごとの脅威</h2>
+                            <h3 class='image-date'>1800年代から2010年まで繰り返されるパンデミック</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>ジャスミンの家族はインフルエンザのパンデミックもたびたび経験してきた。特に被害が大きかったのは20世紀初頭、ジャスミンの曾々祖母父の時代だ。</p>
+                        <p>「スペイン風邪」とも呼ばれる1918年のインフルエンザ・パンデミックは、近年で最も被害が甚大で、全世界で5000万～1億人が亡くなった。</p>
+                        <p>現在の新型コロナウイルスと同様、隔離が感染拡大を抑制した。</p>
+                        <h3 class="subtitle">H1N1ウイルスがスペイン風邪パンデミックの原因だった</h3>
+                    <div class='image--disease disease--influenzas'>
+                        <img class='lazy disease disease--influenzas' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/influenzas.svg'
+                            alt="H1N1ウイルスの図">
+                        <noscript>
+                            <img class='disease disease--influenzas' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/influenzas.svg' alt="H1N1ウイルスの図">
+                        </noscript>
+                    </div>
+                    <p>1918年と1920年にかけて感染が2回拡大した後、このH1N1の株は弱毒化し、今も毎年流行している。</p>
+                        <div class='toll--container toll--container--influenzas fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>スペイン風邪で数百万人死亡<br>季節性インフルエンザによる死者は今も続く</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='スペイン風邪による死者推定5000万人以上を示す動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--influenzas_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--influenzas' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                                <div class='toll--text-container toll--text-container__now'>
+                                        <svg class='toll--arrow' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 56'><defs><style>.cls-1 {fill: none;} .arrow-colour {fill: none; stroke: #000; stroke-miterlimit: 10;} .arrow-head-colour {stroke: #000; fill: #000; stroke-miterlimit: 10;}</style></defs><title>arrow</title><path class='cls-1' d='M1.82,1.16s17.31,23.28.7,53.14' /><path class='arrow-colour' d='M4.8,6.34c4.08,8.46,9.65,26.51-2.28,48' /><polygon class='arrow-head-colour' points='2.88 10.63 5.34 7.45 9.34 7.01 1.82 1.16 2.88 10.63' /></svg>
+                                    <span class='toll--figure toll--final-text'>現在の死者数</span>
+                                    <span class='toll--figure toll--final-text'>*季節性インフルエンザで最大65万人</span>
+                                </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>スペイン風邪で5000万人以上</span>
+                            </div>
+                        <div class='toll--text-container'>
+                                <span class='toll--figure toll--note'>*毎年の推定</span>
+                                <span class='toll--figure toll--note'>註： パンデミックとは異なる季節性インフルエンザ関連の現在の死者数</span>
+                            <span class='toll--figure toll--note'>出典： WHO、米疾病対策センター（CDC）</span>
+                        </div>
+                    </div>
+                    <p>しかしこの後も他のインフルエンザのパンデミックが続いた。</p>
+                        <p>1968年の「香港風邪」では100万人が亡くなり、今も季節性インフルエンザとして流行を繰り返す。H1N1ウイルスの一種が原因の豚インフルエンザも同様で、2009年に世界人口の約21％が感染した。</p>
+                        <p>インフルエンザには今も「パンデミック化の恐れがある」とライリー教授は言う。ジャスミンも私たちも、インフルエンザのパンデミックを経験するかもしれない。</p>
+                        <p>私たちは季節性インフルエンザにかかる恐れもある。季節性のインフルエンザによる死者は毎年数十万人にもなる。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--hiv banner--spacing fallback' role="img"
+                            aria-label="ジャスミンの両親">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--hiv'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--hiv' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>HIV/エイズ――今なお続く感染</h2>
+                            <h3 class='image-date'>1981年から現在まで</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>続いて約40年前、ジャスミンの両親はHIV/エイズの感染が拡大する時代を経験した。パンデミックだと言う意見もあるが、WHOは「世界的な感染拡大」と呼んでいた。</p>
+                        <p>ヒト免疫不全ウイルス（HIV）は、体液を通じて伝染する。これまでに世界中で3200万人以上が命を落としている。</p>
+                        <h3 class="subtitle">HIVは人間の免疫系を攻撃する</h3>
+                    <div class='image--disease disease--hiv'>
+                        <img class='lazy disease disease--hiv' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/hiv.svg'
+                            alt="ヒト免疫不全ウイルス（HIV）の図">
+                        <noscript>
+                            <img class='disease disease--hiv' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/hiv.svg' alt="ヒト免疫不全ウイルス（HIV）の図">
+                        </noscript>
+                    </div>
+                    <p>HIVは潜伏期間と高い致死率ゆえに、「最悪のシナリオのウイルス」と呼んでもいいと、ライリー教授は言う。感染してもなかなか気付かないため、素早く伝染する。</p>
+                        <p>ただし、診断技術の進歩に加え、世界的な啓発運動によって性行動の変化や薬物利用者の安全な注射利用が広がり、感染拡大は抑制できるようになってきた。</p>
+                        <p>それでも、WHOによると2019年には推定69万人がエイズで死亡した。</p>
+                        <div class='toll--container toll--container--hiv fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>HIV/エイズで数百万人が死亡した。<br>今なお数千人が命を落としている</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='HIV/エイズによる推定死者数3200万人を示す動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--hiv_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--hiv' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                                <div class='toll--text-container toll--text-container__now'>
+                                        <svg class='toll--arrow' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 56'><defs><style>.cls-1 {fill: none;} .arrow-colour {fill: none; stroke: #000; stroke-miterlimit: 10;} .arrow-head-colour {stroke: #000; fill: #000; stroke-miterlimit: 10;}</style></defs><title>arrow</title><path class='cls-1' d='M1.82,1.16s17.31,23.28.7,53.14' /><path class='arrow-colour' d='M4.8,6.34c4.08,8.46,9.65,26.51-2.28,48' /><polygon class='arrow-head-colour' points='2.88 10.63 5.34 7.45 9.34 7.01 1.82 1.16 2.88 10.63' /></svg>
+                                    <span class='toll--figure toll--final-text'>現在の死者数</span>
+                                    <span class='toll--figure toll--final-text'>*69万人</span>
+                                </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>3200万人</span>
+                            </div>
+                        <div class='toll--text-container'>
+                                <span class='toll--figure toll--note'>*2019年の最新数値</span>
+                            <span class='toll--figure toll--note'>出典：WHO</span>
+                        </div>
+                    </div>
+                    <p>HIVを完治する方法はまだないものの、ジャスミンが医療体制の整った国に住み、抗ウイルス薬が使える状態にあるなら、健康で長生きすることができる。</p>
+                        <p>一方でジャスミンが貧しい国に住み、そのような医療へのアクセスがないなら、今なおエイズによるリスクは高い。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--sars banner--spacing fallback' role="img"
+                            aria-label="現在のジャスミン">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--sars'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--sars' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>SARSとMERS――<br>対応が比較的に楽だったコロナウイルス</h2>
+                            <h3 class='image-date'>2002～2003年と2012年、そして現在</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>さらに2、30年後。ジャスミン自身が生まれた後、SARSやMERSの脅威がやってきた。</p>
+                        <p>重症急性呼吸器症候群（SARS）は、コロナウイルスによる最初の深刻な大規模感染だった。WHOによると2002年から2003年にかけて、800人以上が死亡した。</p>
+                        <h3 class="subtitle">「SARS-COV」と呼ばれるSARSコロナウイルスは、<br>2003年に特定された</h3>
+                    <div class='image--disease disease--sars'>
+                        <img class='lazy disease disease--sars' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/sars.svg'
+                            alt="SARS-COVウイルスの図">
+                        <noscript>
+                            <img class='disease disease--sars' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/sars.svg' alt="SARS-COVウイルスの図">
+                        </noscript>
+                    </div>
+                    <p>しかし、2003年7月下旬の時点で新しい感染者の報告はなくなり、WHOは世界的な大規模感染は収束したと宣言した。</p>
+                        <p>それから間もなくして、中東呼吸器症候群（MERS）の感染が拡大した。これもコロナウイルスによるもので、912人が死亡した。アラビア半島での感染がほとんどだった。</p>
+                        <p>「MERS-COV」と呼ばれるウイルスに、たとえばイギリスで感染するリスクは非常に少ないものの、中東で感染する確率は今も高い。人間は多くの場合、ラクダから感染する。</p>
+                        <div class='toll--container toll--container--sars fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>SARSによる死者は800人超</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='SARSによる死者800人超の動画'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--sars_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--sars' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>死者総数</span>
+                                <span class='toll--figure toll--initial-text'>813人</span>
+                            </div>
+                        <div class='toll--text-container'>
+                            <span class='toll--figure toll--note'>出典：WHO</span>
+                        </div>
+                    </div>
+                    <p>つまり、ジャスミンがMERSに感染する可能性はあるが、ほとんどの国でそのリスクは少ない。</p>
+                                        </div>
+                        <div class='transitionalItem image--family-tree tree--disease tree--covid-19 banner--spacing fallback' role="img"
+                            aria-label="ジャスミン">
+                            <div class="timeline">
+                                <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/time_travel.svg' alt="" class='year-bg' />
+                                <span></span>
+                            </div>
+                            <picture>
+                                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/desktop_tree.png media='(min-width: 600px)'
+                                    class='family_tree tree--covid-19'>
+                                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/mobile_tree.png class='family_tree tree--covid-19' />
+                            </picture>
+                        </div>            <div class='title--banner'>
+                            <div class='banner--divider'></div>
+                            <h2 class='image-title'>COVID-19――前例のないコロナウイルス</h2>
+                            <h3 class='image-date'>2019年から現在</h3>
+                        </div>
+                    <div class='static-content-container'>
+                    <p>ジャスミンと私たちが生きている今のこの時代、私たちは新しいSARSコロナウイルスに直面している。この新型コロナウイルスが、COVID-19という感染症を引き起こす。</p>
+                        <p>「SARS-COV-2」と呼ばれるこのウイルスは、2013年SARSウイルスの進化形。症状が軽いものから死に至るものまで多岐にわたることや、未発症の人の感染性が高いことなどから、伝染病の専門家たちから特異なウイルスとみなされている。</p>
+                        <p>「多くの地域で抑制に失敗しているのはそのためだ」と、ライリー博士は言う。</p>
+                        <h3 class="subtitle">「SARS-COV-2」ウイルスは、<br>2003年のSARSウイルスと関連する</h3>
+                    <div class='image--disease disease--covid-19'>
+                        <img class='lazy disease disease--covid-19' src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/covid-19.svg'
+                            alt="「SARS-COV-2」ウイルスの図">
+                        <noscript>
+                            <img class='disease disease--covid-19' src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/covid-19.svg' alt="「SARS-COV-2」ウイルスの図">
+                        </noscript>
+                    </div>
+                    <p>すでに100万人以上が亡くなったが、被害の全体像はさらにひどくなる見通し</p>
+                        <div class='toll--container toll--container--covid-19 fallback transitionalItem'>
+                        <div class='toll--heading-container'>
+                            <h3 class='toll--title toll--overall'>新型コロナウイルスですでに100万人以上が死亡した</h3>
+                        </div>
+                    
+                        <div class='animation-container' role='img'
+                        aria-label='新型コロナウイルスによる被害の全体像'>
+                            <div class='toll--key'>
+                                <span class='toll--key_high'>1億人以上</span>
+                                <span class='toll--key_medium'>1000万～1億人</span>
+                                <span class='toll--key_low'>1000万人未満</span>
+                            </div>
+                            <div class='toll--circle-container'>
+                                <svg class='toll--covid-19_overall' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                                <svg class='toll--covid-19' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'>
+                                    <circle cx='50' cy='50' r='50' />
+                                </svg>
+                            </div>
+                        </div>
+                            <div class='toll--text-container toll--text-container__now'>
+                                <span class='toll--figure toll--final-text'>死者総数</span>
+                                <span class='toll--figure toll--final-text'>？</span>
+                            </div>
+                            <div class='toll--text-container toll--text-container__pandemic'>
+                                <span class='toll--figure toll--overall toll--initial-text'>現在の死者数</span>
+                                <span class='toll--figure toll--initial-text'>100万人以上</span>
+                            </div>
+                        <div class='toll--text-container'>
+                            <span class='toll--figure toll--note'>出典：米ジョンズ・ホプキンス大学</span>
+                        </div>
+                    </div>
+                    <p>ワクチンや効果的な治療法を探す研究は続くものの、世界の大多数の人にとって感染リスクは続く。ジャスミンも私たちも、今なお危険にさらされている。</p>
+                            <h2>次はどうなる</h2>
+        <p>今の社会で活動する新型コロナウイルスは、ウイルスや細菌といった新しい病原体が長年にわたり引き起こしてきた様々なパンデミックの、最新の形だ。</p>
+        <div class="death-toll transitionalItem fallback" role="img"
+            aria-label="過去の大規模パンデミックによる死者数の動画">
+            <div class="death-toll--heading-container">
+                <h3 class='death-toll--title'>特に甚大なパンデミックは時代を超えて<br>数億人規模の犠牲を出してきた</h3>
+                <button class='death-toll__animation-button'>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.8 30.5"><path d="M13.5 3.8C6.2 3.6.2 9.3 0 16.6v.5c-.1 7.3 5.7 13.2 12.9 13.3h.5c7.2.2 13.1-5.5 13.3-12.7V17H24c.1 5.7-4.4 10.5-10.1 10.6h-.5c-5.7.2-10.5-4.3-10.7-10V17C2.6 11.2 7.3 6.3 13.3 6.2h2.8V3.8h-2.6zM19.8 5l-7.7-5v10l7.7-5z" fill="#222"/></svg>
+                    <span>動画をまた見る</span>
+                </button>
+            </div>
+            <picture>
+                <source srcset=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/death_toll_976.png media='(min-width: 600px)'>
+                <img src=https://downloads.bbc.co.uk/worldservice/images/projects/2020/pandemics/japanese/death_toll_640.png />
+            </picture>
+            <div class="death-toll--graphic-container">
+                <svg class="death-toll--circle" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="50" />
+                </svg>
+                <svg class="death-toll--covid" xmlns="http://www.w3.org/2000/svg" width="295" height="303" viewBox="0 0 295 303">
+                    <g id="Group_11846" transform="translate(-553 -4901)">
+                        <ellipse class="death-toll--covid__circle death-toll--covid__circle--small"cx="96.5" cy="98.5" rx="96.5" ry="98.5"
+                            transform="translate(604 4954)" stroke="#e99e9c"/>
+                        <ellipse  class="death-toll--covid__circle death-toll--covid__circle--medium" cx="119.5" cy="122.5" rx="119.5" ry="122.5"
+                            transform="translate(581 4930)" stroke="#d86461"/>
+                        <ellipse  class="death-toll--covid__circle death-toll--covid__circle--large" cx="146.5" cy="150.5" rx="146.5" ry="150.5"
+                            transform="translate(554 4902)" stroke="#9f0000"/>
+                    </g>
+                </svg>
+            </div>
+                <div class="death-toll--text-container death-toll--text-container__smallpox">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__smallpox">天然痘</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__smallpox">少なくとも3億5000万人</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__bubonic">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__bubonic">腺ペスト</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__bubonic">最大2億人</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__cholera">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__cholera">コレラ</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__cholera">推定4000万人</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__influenzas">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__influenzas">インフルエンザ</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__influenzas">スペイン風邪で5000万人以上</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__hiv">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__hiv">HIV/エイズ</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__hiv">3200万人</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__sars">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__sars">SARS</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__sars">813人</span>
+                </div>
+                <div class="death-toll--text-container death-toll--text-container__covid-19">
+                    <span class="death-toll--text death-toll--text__disease death-toll--text__covid-19">COVID-19</span>
+                    <span class="death-toll--text death-toll--text__figure death-toll--figure__covid-19">？</span>
+                </div>
+        </div>
+        <span class='death-toll--note death-toll--text'>註：世界人口は時代と共に大きく増加した。<br>人口が今より少なかった当時の病気は、<br>今よりはるかに甚大な影響を社会に与えたと思われる。</span>
+        <span class='death-toll--text death-toll--source'>出典：WHO、CDC、学術研究、米ジョンズ・ホプキンス大学</span>
+        <p>感染の仕組みについての知識向上や公衆衛生の啓蒙活動、新しい治療法やワクチンの開発などが、過去のパンデミックを終わらせてきた。</p>
+        <p>現在のパンデミック収束も、おそらく複数の要因が重なっての結果になるだろう。</p>
+    </div>
+        <picture>
+            <source srcset='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/conclusion_graphic_desktop.jpg' media='(min-width: 600px)'>
+            <img src='https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/conclusion_graphic_mobile.jpg' class='conclusion--graphic'/>
+        </picture>
+    <div class='static-content-container'>
+        <p>「安全で、きわめて効果的」なワクチンによって収束するかもしれないが、そのようなワクチンが見つかると決まっているわけではないと、ライリー教授は言う。</p>
+        <p>むしろ、COVID-19に対して一定の抵抗力を獲得しつつ、共存する方法を見つける必要があるかもしれない。</p>
+        <p>「5年以内には確実に、できればそれよりもっと早くに、本当に効果的で世界中で使われるワクチンが見つかるか、あるいは何とかやり過ごしたおかげで十分な免疫を獲得したか、どちらにしろ小規模の集団発生の再発にも耐えられるようになっているだろう」と、ライリー教授は将来を見通す。</p>
+        <p>天然痘の撲滅からも分かるように、世界中の科学者が団結すれば、目覚しい成果が期待できる。</p>
+        <p>新型コロナウイルスは、未発症者からの感染が非常に多いため、従来の感染症に比べて対応が厄介だ。しかし解決法を求める「素晴らしい」世界的な取り組みが最終的には成果をもたらすと、ライリー教授は楽観している。</p>
+        <p>「世界全体でこのようなプロジェクトに共同で携わるのは、これが初めてだ。いずれかの時点で世界が成功を共有できるようになる時対する」と、ライリー教授は話す。</p>
+        <p>ただし、過去のパンデミックで人間社会を脅かした病原体のほとんどは、まだ居座っている。これは忘れないほうがいい。個々のパンデミックは収束しても、ウイルスやバクテリアや、それによる感染症はまだ残存している。</p>
+    </div>
+    <div class="vj-footer">
+        <hr class="sub-divide">
+        <h2 class="vj-footer__title">製作</h2>
+        <p>ルーシー・ロジャース、デビー・ロワゾー、リリー・ハイン、カトリオーナ・モリソン、ベッキー・ラッシュ。<br><br>歴史上のパンデミックについて教示してくださったインペリアル・コレッジ・ロンドンのスティーヴン・ライリー教授、ならびにWHOに感謝します。</p>
+        <hr class="sub-divide">
+        <h2 class="vj-footer__title"></h2>
+        <ul class="onward-journeys">
+            <li class="onward-journey">
+                <a href="">
+                <img class="onward-journey--img lazy" src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src="" alt="">
+                <noscript>
+                    <img class="onward-journey--img" src="" alt="">
+                </noscript>
+                
+                </a>
+            </li>
+            <li class="onward-journey">
+                <a href="">
+                <img class="onward-journey--img lazy" src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src="" alt="">
+                <noscript>
+                    <img class="onward-journey--img" src="" alt="">
+                </noscript>
+                
+                </a>
+            </li>
+            <li class="onward-journey">
+                <a href="">
+                <img class="onward-journey--img lazy" src="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/app-project-assets/img/lazy-load-1.png" data-src="" alt="">
+                <noscript>
+                    <img class="onward-journey--img" src="" alt="">
+                </noscript>
+                
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<link href="https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/full-width/css/app.css?/?v=1.0.98.202010121316" rel="stylesheet" type="text/css" media="all" />
+<script>
+function cutsTheMustard() {
+    return (
+        document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#BasicStructure', '1.1') &&
+        'querySelector' in document &&
+        'localStorage' in window &&
+        'addEventListener' in window &&
+        'MutationObserver' in window // not supported in IE9 & IE10
+    );
+}
+
+                    if (cutsTheMustard()) {
+                                document.getElementById('loading-spinner').className = 'bbc-news-visual-journalism-loading-spinner';
+
+        var requireConfig = {
+                urlArgs: '/?v=1.0.98.202010121316',
+                baseUrl: 'https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/full-width/js/',
+            },
+            moduleToStartApp = 'https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/japanese/app.js',
+            wrapper = 'https://news.files.bbci.co.uk/include/newsspec/27678-pandemics-end/assets/full-width/js/wrapper';
+            requireConfig.paths = {
+                'news-vj-ati-event-tracking': 'https://news.files.bbci.co.uk/include/newsspec/js/vendor/news-vj-ati-event-tracking-1.0.27',
+            };
+
+        require.config(requireConfig);
+        require(['wrapper'], function (wrapper) {
+            wrapper.initwrapper(window.vjConfigObject['newsspec-27678-pandemics-end-app']);
+            require([moduleToStartApp]);
+        });
+
+                    }
+                    else if (window.require) {
+                        require(['istats-1'], function (istats) {
+                            istats.log('browser does not cut the mustard', 'newsspec-nonuser');
+                        });
+                    }    var chartbeatAttempts = 0;
+    var fireChartbeat = function () {
+        // mark page as having VJ content in chartbeat
+        var maxAttempts = 10;
+        var chartbeatExists = !!(window._sf_async_config);
+        var charbeatInitialised = chartbeatExists && window._sf_async_config.hasOwnProperty('sections');
+        if (charbeatInitialised) {
+            window._sf_async_config.sections = window._sf_async_config.sections.replace(', Visual Journalism', '') + ', Visual Journalism';
+        }
+        else if (chartbeatAttempts < maxAttempts) {
+            // there may be occasions where chartbeat isn't on the page, so we should stop after 10 attempts
+            window.setTimeout(function(){ fireChartbeat() }, 500);
+        }
+    };
+    if (document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+      fireChartbeat();
+    } else {
+      document.addEventListener("DOMContentLoaded", fireChartbeat);
+    }
+</script>
+
+            </div>
+
+</div>
+
+<!-- Chartbeat Web Analytics code - start -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '50924';
+    _sf_async_config.domain = 'www.bbc.co.uk';
+    _sf_async_config.sections = 'News, News - magazine, News - STY, News - magazine - STY';
+    _sf_async_config.path = window.document.location.href;
+    _sf_async_config.title = '';
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+
+<img src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~b254ccd5-01b1-4d5c-80c9-1c52f04d3927~RS~p~RS~0~RS~a~RS~Domestic~RS~u~RS~/news/resources/idt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927~RS~r~RS~0~RS~q~RS~0~RS~z~RS~1787~RS~" data-test-id="livestats" alt="" />
+
+      </div> <div id="orb-footer"  class="orb-footer orb-footer-grey b-footer--grey--white" >  <aside role="complementary"> <div id="orb-aside" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner" role="navigation"> <h2 class="orb-footer-lead">Explore the BBC</h2> <div class="orb-footer-primary-links"> <ul>    <li  class="orb-nav-home orb-d"  > <a href="http://www.bbc.co.uk/">Home</a> </li>    <li  class="orb-nav-homedotcom orb-w"  > <a href="http://www.bbc.com/">Home</a> </li>    <li  class="orb-nav-news orb-d"  > <a href="http://www.bbc.co.uk/news">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/cbbc">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/cbeebies">CBeebies</a> </li>    <li  class="orb-nav-food"  > <a href="/food/">Food</a> </li>    <li  > <a href="/iwonder">iWonder</a> </li>    <li  > <a href="/education">Bitesize</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/travel/">Travel</a> </li>    <li  class="orb-nav-music"  > <a href="/music/">Music</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-arts"  > <a href="/arts/">Arts</a> </li>    <li  class="orb-nav-makeitdigital"  > <a href="/makeitdigital">Make It Digital</a> </li>    <li  > <a href="/taster">Taster</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/nature/">Nature</a> </li>    <li  class="orb-nav-local"  > <a href="/local/">Local</a> </li>    <li  class="orb-nav-tomorrowsworld orb-d"  > <a href="/tomorrowsworld">Tomorrow's World</a> </li>    </ul> </div> </div> </div> </aside> <footer role="contentinfo"> <div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner"> <ul>        <li  > <a href="/terms/">Terms of Use</a> </li>    <li  > <a href="/aboutthebbc/">About the BBC</a> </li>    <li  > <a href="/privacy/">Privacy Policy</a> </li>    <li  > <a href="/privacy/cookies/about">Cookies</a> </li>    <li  > <a href="/accessibility/">Accessibility Help</a> </li>    <li  > <a href="/guidance/">Parental Guidance</a> </li>    <li  > <a href="/contact/">Contact the BBC</a> </li>        <li  > <a href="/bbcnewsletter">Get Personalised Newsletters</a> </li>    <li  class=" orb-w"  > <a href="http://advertising.bbcworldwide.com/">Advertise with us</a> </li>    <li  class=" orb-w"  > <a href="/privacy/cookies/international/">Ad choices</a> </li>    </ul> <small> <span class="orb-hilight">Copyright &copy; 2020 BBC.</span> The BBC is not responsible for the content of external sites. <a href="/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a> </small> </div> </div> </footer> </div>     <!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics && bbcdotcom.config && !bbcdotcom.config.isSportApp() && !bbcdotcom.config.isReel()) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.analytics.page, bbcdotcom.analytics); } /*]]>*/ </script><noscript><img src="//ssc.api.bbc.com/?c1=2&c2=19293874&ns_site=bbc&name=news.resources.idt-b254ccd5-01b1-4d5c-80c9-1c52f04d3927" height="1" width="1" alt=""></noscript><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.write, bbcdotcom.currencyProviders); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.checkThirdPartyFirst(bbcdotcom.currencyProviders.postWrite, bbcdotcom.currencyProviders); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function() { window.bbcdotcom.bodyLast = true; }()); /*]]>*/ </script></div><!-- BBCDOTCOM all code in page -->  <script type="text/javascript" id="orb-js-script" data-assetpath="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/" src="https://static.bbc.co.uk/frameworks/barlesque/5.0.0/orb/4/script/orb.min.js"></script>   
+    <script type="text/javascript">
+
+        require.config({
+            paths: {
+                "mybbc/templates": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/templates',
+                "mybbc/notifications": '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/js'
+            }
+        });
+
+        require(['mybbc/notifications/NotificationsMain', 'idcta/idcta-1'], function (NotificationsMain, idcta) {
+            var loadNotifications = function (fig) {
+                if (fig.geo.isUK()) {
+                    NotificationsMain.run(idcta, '//mybbc.files.bbci.co.uk/notification-ui/3.8.4/');
+                }
+            };
+            var orbFig = window.orb.fig;
+            if (typeof orbFig.load === 'function') {
+                // Use new async API from Orbit
+                orbFig.load(loadNotifications, loadNotifications);
+            } else {
+                // Use old sync-only API from PAL orbfig project
+                loadNotifications(orbFig);
+            }
+        });
+    </script>
+
+ <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script> <script>"use strict";define("orb/cookies-adapter",["orb/cookies"],function(c){function e(e){return c._setPolicy("ads",e),c._setPolicy("personalisation",e),c._setPolicy("performance",e),c._setPolicy("necessary",e)}return{isOrbitEnvironment:function(){return"object"==typeof bbccookies&&"function"!=typeof bbccookies._getCookieName},set:function(e,n){var o=new Date;if(o.setYear(o.getFullYear()+1),this.isOrbitEnvironment())return c.set(e,n,{domain:c._getCurrentDomain(),path:"/",expires:o});var i=window.location.host.match(/(.bbc(?:\.co\.uk))(:\d+)?(\/.*)?$/i),t=e+"="+n+";domain="+(i&&".bbc.co.uk"===i[1]?".bbc.co.uk":".bbc.com")+";path=/;expires="+o.toUTCString()+";";return c.set(t)},get:function(e){return this.isOrbitEnvironment()?c.get(e):c.getCrumb(e)},copyPolicyCookiesCrossDomain:function(e){if(this.isOrbitEnvironment())return c.copyPolicyCookiesCrossDomain(e);e()},setDefaultCookiesSingleDomain:function(){return this.isOrbitEnvironment()?c.setDefaultCookiesSingleDomain():e(!1)},setDefaultCookiesCrossDomain:function(){return this.isOrbitEnvironment()?c.setDefaultCookiesCrossDomain():e(!1)},optInToAllCookiesCrossDomain:function(){if(this.isOrbitEnvironment()){return c.setCookiePolicyCrossDomain({ads:!0,personalisation:!0,performance:!0,necessary:!0})}return e(!0)},isCookiePolicySet:function(){return this.isOrbitEnvironment()?c.isCookiePolicySet():null!==this.get("ckns_policy")}}}),require(["orb/lib/_script","orb/cookies-adapter"],function(s,r){var a="ckns_privacy",b="ckns_explicit",l="1";function t(){var e=r.get(b);return null!==e&&e===l}function u(e,n){e.style.display="none",n.style.display="none"}function k(e,n){t()||(e.style.display="none",n.style.display="block",window.bbcpage.trackRegion(n,{linkLocation:"nav-banner-cookies"}),window.bbcuser.logEvent("view","nav-banner-cookies"))}function c(){var e=document.getElementById("bbcprivacy"),n=document.getElementById("bbccookies");document.getElementById("bbcprivacy-continue-button").addEventListener("click",function(){u(e,n),k(e,n),window.bbcuser.logEvent("click-cta","nav-banner-privacy")}),document.getElementById("bbccookies-continue-button").addEventListener("click",function(){u(e,n),window.bbcuser.logEvent("click-continue","nav-banner-cookies"),r.optInToAllCookiesCrossDomain(),r.set(b,l)});var o,i,t,c=document.getElementById("bbccookies-settings").getElementsByTagName("a")[0];c.addEventListener("click",(o=!1,function(e){o||(r.copyPolicyCookiesCrossDomain(function(){o=!0,c.click()}),r.set(b,l),e.preventDefault())})),null!==r.get(a)?k(e,n):(t=n,(i=e).style.display="block",t.style.display="none",window.bbcpage.trackRegion(i,{linkLocation:"nav-banner-privacy"}),window.bbcuser.logEvent("view","nav-banner-privacy"),r.set(a,"1"))}function m(e,c,r){var n,o,i="https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-234.2cb3062/cookie-banner//cookie-prompt/",t=i+(o="en","string"==typeof(n=e)&&2<=n.length&&(o=n.trim().substring(0,2).toLowerCase()),-1!==["en","cy","gd","ga"].indexOf(o)?o:"en")+".min.js";window.bbcpage.loadCSS("https://nav.files.bbci.co.uk/orbit-webmodules/0.0.1-234.2cb3062/cookie-banner//cookie-prompt/bbccookies.min.css").then(function(){s.jsonp(t,function(e){var n=e.replace(/<<bbcUrlPrefix>>/g,function(){if(window.orb.bbcUrlPrefix){var e=window.orb.bbcUrlPrefix+"bbc.com",n=window.location.host.match(/(bbc(?:\.co\.uk))(:\d+)?(\/.*)?$/i);return n&&"bbc.co.uk"===n[1]&&(e=e.replace("bbc.com","bbc.co.uk")),e}return""}());document.getElementById("cookiePrompt").innerHTML=n;for(var o=document.querySelectorAll("[data-region-filter]"),i=0;i<o.length;i++){var t=o[i];t.getAttribute("data-region-filter")!==r&&(t.style.display="none")}c()},{callbackName:"cookiePrompt"})})}Promise.all([window.bbcuser.isUKCombined(),window.bbcuser.isEU(),window.bbcpage.getLanguage()]).then(function(e){var n=e[0];if(e[1]||n){var o=null!==r.get(a);if(!(r.isCookiePolicySet()&&t()&&o)){t()||r.set(b,"0"),r.isCookiePolicySet()||r.setDefaultCookiesSingleDomain();var i=n?"gb":"eu";m(e[2],c,i)}}}).catch(function(){m("en",c,"gb")})});</script>             <script type="text/javascript">require(["istats-1","orb/cookies"],function(o,t){if(t.isAllowed("s1"))try{if(!require.s.contexts._.config.paths.idcta)return void i();require(["idcta/idcta-1"],function(t){t&&"function"==typeof t.getIStatsLabels&&o.addLabels(t.getIStatsLabels()),i()},function(t){throw t})}catch(t){console&&"function"==typeof console.log&&console.log("an exception occurred while adding idcta labels to istats, invoking istats without them",t),i()}function i(){o.invoke()}});</script>  </body> </html>             

@@ -1,0 +1,1693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<script async type="application/javascript" src=""></script>
+<script type="text/javascript">
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 65669; // ACCOUNT NUMBER
+_sf_async_config.domain = 'lavozdelafrontera.com.mx'; // DOMAIN
+/** _sf_async_config.flickerControl = false; **/
+_sf_async_config.useCanonical = true;
+/** CONFIGURATION END **/
+var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_video.js"></script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<script> dataLayer = [{"pageType": "post"}];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T8JNJ8Z');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>La Voz de la Frontera</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="fragment" content="!">
+<link rel="alternate" type="application/rss+xml" title="frontpage - lavozdelafrontera" href="https://www.lavozdelafrontera.com.mx/rss.xml"/>
+<meta property="fb:article_style" content="Escenic"/>
+<meta property="fb:pages" content="341931715916394"/>
+<meta name="msapplication-TileImage" content="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/ico/windowsmetro-144.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/static/theme/solmx/lavozdelafrontera/ico/favicon.ico">
+<link rel="canonical" href="https://www.lavozdelafrontera.com.mx/"/>
+<link rel="preload" href="/static/fonts/glyphicons-halflings-regular.woff" as="style">
+<link rel="preload" href="/static/theme/solmx/base/fonts/Apres-Heavy.ttf" as="style">
+<link rel="preload" href="/static/theme/solmx/base/fonts/Apres-Thin.ttf" as="style">
+<link href="https://www.lavozdelafrontera.com.mx/static/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/base/css/solmx-base.min.319e6ba427afb360199e70cc1317cd4b.css" rel="stylesheet">
+<link href="https://www.lavozdelafrontera.com.mx/static/theme/solmx/lavozdelafrontera/css/solmx-lavozdelafrontera.min.7b928565e2f4c4e97066276a05a0d55d.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://www.lavozdelafrontera.com.mx/static/js/html5shiv.js"></script>
+<script src="https://www.lavozdelafrontera.com.mx/static/js/respond.min.js"></script>
+<![endif]-->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+</head>
+<body>
+<!-- Cookies Bloque -->
+<div id="oemaceptacion" style="display: none;">
+<div class="inner">
+<b>Acerca de las cookies en este sitio.</b><br/> Utilizamos cookies para personalizar y mejorar su experiencia en nuestro sitio y optimizar la publicidad que le ofrecemos.
+Visite nuestra <a href="/info/politica-de-privacidad/" target="_blank" class="info-text"> Pol&iacute;tica de cookies para saber m&aacute;s.</a> Al hacer clic en "aceptar", usted est&aacute; de acuerdo con el uso que hacemos de las cookies.<br/><br/>
+<a href="javascript:void(0);" class="ok" onclick="PonerCookie();"><b>Aceptar cookies</b></a>
+<a href="/info/politica-de-privacidad/" target="_blank" class="info">Leer m&aacute;s</a>
+</div>
+</div>
+<script>
+function getCookie(c_name){
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1){
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1){
+c_value = null;
+}else{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1){
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+function setCookie(c_name,value,exdays){
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=c_name + "=" + c_value + ";path=/";
+}
+if(getCookie('oemaviso')!="1"){
+document.getElementById("oemaceptacion").style.display="block";
+}
+function PonerCookie(){
+setCookie('oemaviso','1',365);
+document.getElementById("oemaceptacion").style.display="none";
+}
+</script>
+<!-- Cookies Bloque -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe title="Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-T8JNJ8Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Powered by Escenic Content Engine and Widget Framework. http://escenic.com -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+var gptAdSlots = [];
+googletag.cmd.push(function() {
+var top1 = googletag.sizeMapping()
+.addSize([1200, 100], [[970, 250], [970, 90], [728, 90]])
+.addSize([768, 100], [728, 90])
+.addSize([360, 100], [320, 100]).build();
+var top2 = googletag.sizeMapping()
+.addSize([1200, 100], [[970, 250], [970, 90], [728, 90]])
+.addSize([768, 100], [728, 90])
+.addSize([360, 100], [[320, 100], [300, 250]]).build();
+var box1 = googletag.sizeMapping()
+.addSize([1200, 100], [300, 250])
+.addSize([768, 100], [300, 250])
+.addSize([360, 100], [300, 250])
+.build();
+var box2 = googletag.sizeMapping()
+.addSize([1200, 100], [[300, 250], [300, 600]])
+.addSize([768, 100], [[300, 250], [300, 600]])
+.addSize([360, 100], [[300, 250], [300, 600]])
+.build();
+var smart = googletag.sizeMapping()
+.addSize([1200, 100], [[300, 250], [320, 100]])
+.addSize([768, 100], [[300, 250], [320, 100]])
+.addSize([300, 100], [[300, 250], [320, 100]])
+.build();
+var takeover = googletag.sizeMapping()
+.addSize([1200, 100], [900, 500])
+.addSize([1024, 100], [900, 500])
+.addSize([768, 100], [320, 480])
+.addSize([320, 100], [320, 480]).build();
+var skinhead = googletag.sizeMapping()
+.addSize([1200, 100], [980, 200])
+.addSize([768, 100], [728, 90])
+.addSize([360, 100], [320, 100]).build();
+gptAdSlots[1] = googletag.defineSlot('/2000002/lavozdelafrontera/home_skinhead', [980, 200], 'dfp-skinhead')
+.defineSizeMapping(skinhead)
+.addService(googletag.pubads())
+gptAdSlots[2] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top1', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top1')
+.defineSizeMapping(top1)
+.addService(googletag.pubads())
+gptAdSlots[3] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top5', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top5')
+.defineSizeMapping(top2)
+.addService(googletag.pubads())
+gptAdSlots[4] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top6', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top6')
+.defineSizeMapping(top2)
+.addService(googletag.pubads())
+gptAdSlots[5] = googletag.defineSlot('/2000002/lavozdelafrontera/home_Interstitial', [[320, 480], [900, 500]], 'dfp-takeover')
+.addService(googletag.pubads())
+.defineSizeMapping(takeover)
+gptAdSlots[6] = googletag.defineSlot('/2000002/lavozdelafrontera/home_box1', [300, 250], 'dfp-box1')
+.addService(googletag.pubads())
+.defineSizeMapping(box1)
+gptAdSlots[7] = googletag.defineSlot('/2000002/lavozdelafrontera/home_box2', [[300, 250], [300, 600]], 'dfp-box2')
+.addService(googletag.pubads())
+.defineSizeMapping(box2)
+gptAdSlots[8] = googletag.defineSlot('/2000002/lavozdelafrontera/home_box3', [[300, 250], [300, 600]], 'dfp-box3')
+.addService(googletag.pubads())
+.defineSizeMapping(box2)
+gptAdSlots[9] = googletag.defineSlot('/2000002/lavozdelafrontera/home_box4', [[300, 250], [300, 600]], 'dfp-box4')
+.addService(googletag.pubads())
+.defineSizeMapping(box2)
+gptAdSlots[10] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top2', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top2')
+.defineSizeMapping(top2)
+.addService(googletag.pubads())
+googletag.defineSlot('/2000002/lavozdelafrontera/home_1x1', [1, 1], 'dfp-1x1')
+.addService(googletag.pubads());
+googletag.defineSlot('/2000002/lavozdelafrontera/home_1x2', [1, 1], 'dfp-1x2')
+.addService(googletag.pubads());
+gptAdSlots[11] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top3', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top3')
+.defineSizeMapping(top2)
+.addService(googletag.pubads())
+gptAdSlots[12] = googletag.defineSlot('/2000002/lavozdelafrontera/home_top4', [[320, 100], [728, 90], [970, 90], [970, 250]], 'dfp-top4')
+.defineSizeMapping(top2)
+.addService(googletag.pubads())
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().setTargeting("site", 'lavozdelafrontera');
+googletag.pubads().setTargeting("environment", 'production');
+googletag.enableServices();
+});
+</script>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2&appId=138439670156572&autoLogAppEvents=1';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div>
+<div class="advertisment ">
+<div id="dfp-1x1">
+<script>googletag.cmd.push(function() { googletag.display('dfp-1x1'); });</script>
+</div>
+</div>
+<div>
+<script type="text/javascript">
+!function (d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (!d.getElementById(id)) {
+js = d.createElement(s);
+js.id = id;
+js.src = "https://platform.twitter.com/widgets.js";
+fjs.parentNode.insertBefore(js, fjs);
+}
+}(document, "script", "twitter-wjs");
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+</div>
+<div class="container">
+<header class="row " role="banner">
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.topbar-mobile"
+data-skip-profiles="large">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.topbar-desktop"
+data-skip-profiles="medium,small">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.navbar-mobile"
+data-skip-profiles="large">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.navbar-desktop"
+data-skip-profiles="medium,small">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.analysis-trending-tags"
+data-skip-profiles="medium,small">
+</div>
+</header>
+<div>
+<div class="advertisment ">
+<div id="dfp-top1">
+<script>googletag.cmd.push(function() { googletag.display('dfp-top1'); });</script>
+</div>
+</div>
+</div>
+<section role="main">
+<div class="advertisment ">
+<div id="dfp-1x2">
+<script>googletag.cmd.push(function() { googletag.display('dfp-1x2'); });</script>
+</div>
+</div>
+<section class="local
+top-1 ">
+<div class="teaser ">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<div class="container-share">
+<a data-href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html" target="_blank" rel="noreferrer" class="icon icon-facebook" href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html"></a>
+<a data-href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html" target="_blank" rel="noreferrer" class="icon icon-twitter" href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html"></a>
+</div>
+<div style="clear:both"></div>
+<a href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html">
+</a>
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html">
+<img src="https://www.lavozdelafrontera.com.mx/local/qrbacu-alumbrado-publico/ALTERNATES/LANDSCAPE_160/Alumbrado%20p%C3%BAblico"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/qrbacu-alumbrado-publico/BINARY/thumbnail/Alumbrado%20p%C3%BAblico"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Alumbrado público"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<h4 class="tit-top-story ">
+<a href="https://www.lavozdelafrontera.com.mx/local/analiza-ayuntamiento-perdida-del-dap-5887632.html">
+Analiza Ayuntamiento pérdida del DAP
+</a>
+</h4>
+<p class="extract ">
+Es el cobro de 17 pesos con 74 centavos que se realiza a los ciudadanos a través del recibo de la CFE por el concepto de servicio de alumbrado público
+</p>
+</div>
+</section>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/c482e99a-456b-405e-9111-314b03af451e"
+data-elementwidth="1140.0"
+data-skip-profiles="small">
+</div>
+<div class=" ">
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/3c725ed5-c25f-4c09-959c-147bd12fd42e"
+data-elementwidth="1140.0"
+data-skip-profiles="">
+</div>
+<div class="finde-home-movil ">
+<div id="FinD-movil"
+class=" ">
+<div>
+<script>
+$(document).ready(function(){
+$(".hard-news-row").css("margin-top", 0);
+if($("#notas-find-mobile .teaser").length){
+contHeight=$("#notas-find-mobile").css("height");
+minWidth = $("#findetitulo-mobile").css("min-height");
+if (parseInt(contHeight) < parseInt(minWidth)) {
+contHeight = minWidth;
+} else{
+contHeight=(parseInt(contHeight) + 20) +"px";
+}
+$("#related-label").css("height", contHeight);
+}
+else{
+$("#findetitulo-mobile").hide();
+$(".finde-home-movil").hide();
+$(".finde-home-movil").css("margin", 0);
+$(".finde-home-movil").css("padding", 0);
+}
+});
+</script>
+</div>
+<div id="findetitulo-mobile" class="hidden-sm hidden-md hidden-lg ">
+<img src="/static/theme/solmx/base/img/logotipo-FinD-horz.svg" alt="FinD">
+</div>
+<div id="notas-find-mobile" class="gallery-slider-soft hidden-sm hidden-md hidden-lg ">
+</div>
+</div>
+</div>
+</div>
+<section class="row hard-news-row " >
+<article class="col-sm-5 hard-news-1" >
+<div class="teaser ">
+<div>
+<a href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html">
+</a>
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html">
+<img src="https://www.lavozdelafrontera.com.mx/local/kak4gq-residuos-electronicos.jpeg/ALTERNATES/LANDSCAPE_160/residuos%20electro%CC%81nicos.jpeg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/kak4gq-residuos-electronicos.jpeg/BINARY/thumbnail/residuos%20electro%CC%81nicos.jpeg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="residuos electrónicos.jpeg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html">
+Baja California, en el top 3 de generación de residuos electrónicos
+</a>
+</h4>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<div class="container-share">
+<a data-href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html" target="_blank" rel="noreferrer" class="icon icon-facebook" href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html"></a>
+<a data-href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html" target="_blank" rel="noreferrer" class="icon icon-twitter" href="https://www.lavozdelafrontera.com.mx/local/baja-california-en-el-top-3-de-generacion-de-residuos-electronicos-5884640.html"></a>
+</div>
+<div style="clear:both"></div>
+<p class="summary ">
+El home office y la educación en línea impactarán en la generación de más residuos electrónicos
+</p>
+<ul class="list-unstyled ">
+<li>
+<a href="https://www.lavozdelafrontera.com.mx/local/rio-colorado-un-sitio-para-miles-de-aves-migratorias-5872814.html"> Río Colorado: un sitio para miles de aves migratorias</a>
+</li>
+<li>
+<a href="https://www.lavozdelafrontera.com.mx/local/reabren-puntos-verdes-en-mexicali-5849701.html"> Reabren “Puntos verdes” en Mexicali</a>
+</li>
+<li>
+<a href="https://www.lavozdelafrontera.com.mx/local/proponen-quemas-prescritas-en-san-pedro-martir-5872411.html"> Proponen quemas prescritas en San Pedro Mártir</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+<article class="col-sm-3 hard-news-2" >
+<div class="teaser ">
+<div>
+<a href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html">
+</a>
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html">
+<img src="https://www.lavozdelafrontera.com.mx/policiaca/efyxu6-hieren-a-dos-con-navaja-en-colonia-carbajal/ALTERNATES/LANDSCAPE_160/Hieren%20a%20dos%20con%20navaja%20en%20colonia%20Carbajal"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/policiaca/efyxu6-hieren-a-dos-con-navaja-en-colonia-carbajal/BINARY/thumbnail/Hieren%20a%20dos%20con%20navaja%20en%20colonia%20Carbajal"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Hieren a dos con navaja en colonia Carbajal"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/policiaca/"> Policiaca </a>
+</p>
+<div class="container-share">
+<a data-href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html" target="_blank" rel="noreferrer" class="icon icon-facebook" href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html"></a>
+<a data-href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html" target="_blank" rel="noreferrer" class="icon icon-twitter" href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html"></a>
+</div>
+<div style="clear:both"></div>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/policiaca/hieren-a-dos-con-navaja-en-colonia-carbajal-5887507.html">
+Hieren a dos con navaja en colonia Carbajal
+</a>
+</h4>
+<p class="summary ">
+Se continuó con operativos en los alrededores, pero al cierre de información aún no se tenía información sobre detenidos involucrados
+</p>
+</div>
+</div>
+<div class="teaser ">
+<div>
+<a href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html">
+</a>
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html">
+<img src="https://www.lavozdelafrontera.com.mx/local/qq56o8-pedro-ochoa-palacio.jpeg/ALTERNATES/LANDSCAPE_160/Pedro%20Ochoa%20Palacio.jpeg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/qq56o8-pedro-ochoa-palacio.jpeg/BINARY/thumbnail/Pedro%20Ochoa%20Palacio.jpeg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Pedro Ochoa Palacio.jpeg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<div class="container-share">
+<a data-href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html" target="_blank" rel="noreferrer" class="icon icon-facebook" href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html"></a>
+<a data-href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html" target="_blank" rel="noreferrer" class="icon icon-twitter" href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html"></a>
+</div>
+<div style="clear:both"></div>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/dos-funcionarios-de-bc-dan-positivo-a-covid-19-5884701.html">
+Dos funcionarios de BC dan positivo a Covid-19
+</a>
+</h4>
+<p class="summary ">
+El Secretario de Cultura en BC permanece en aislamiento domiciliario y en constante vigilancia médica
+</p>
+</div>
+</div>
+</article>
+<article class="col-sm-4 hard-news-3" >
+<div class="advertisment ">
+<div id="dfp-box1">
+<script>googletag.cmd.push(function() { googletag.display('dfp-box1'); });</script>
+</div>
+</div>
+<div class="teaser ">
+<a href="https://www.lavozdelafrontera.com.mx/local/cerradas-playas-en-rosarito-por-riesgo-sanitarios-5884732.html">
+</a>
+<div
+class="img-container pull-left "
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/cerradas-playas-en-rosarito-por-riesgo-sanitarios-5884732.html">
+<img src="https://www.lavozdelafrontera.com.mx/local/13jona-playas-de-rosarito.jpeg/ALTERNATES/LANDSCAPE_160/Playas%20de%20Rosarito.jpeg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/13jona-playas-de-rosarito.jpeg/BINARY/thumbnail/Playas%20de%20Rosarito.jpeg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Playas de Rosarito.jpeg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/cerradas-playas-en-rosarito-por-riesgo-sanitarios-5884732.html">
+Cerradas, Playas en Rosarito por riesgo sanitarios
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<a href="https://www.lavozdelafrontera.com.mx/local/pandemia-afecta-la-inversion-en-hortalizas-san-luis-rio-colorado-5884756.html">
+</a>
+<div
+class="img-container pull-left "
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/pandemia-afecta-la-inversion-en-hortalizas-san-luis-rio-colorado-5884756.html">
+<img src="https://www.tribunadesanluis.com.mx/incoming/nljn5-hortalizas.jpg/ALTERNATES/LANDSCAPE_160/hortalizas.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.tribunadesanluis.com.mx/incoming/nljn5-hortalizas.jpg/BINARY/thumbnail/hortalizas.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="hortalizas.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/pandemia-afecta-la-inversion-en-hortalizas-san-luis-rio-colorado-5884756.html">
+Pandemia afecta la inversión en hortalizas en SLRC
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<a href="https://www.lavozdelafrontera.com.mx/local/valle-de-puebla-con-altos-contagios-de-covid-19-5883299.html">
+</a>
+<div
+class="img-container pull-left "
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/local/valle-de-puebla-con-altos-contagios-de-covid-19-5883299.html">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/46r0xp-ambulancia-para-transportar-a-pacientes-con-covid-19/ALTERNATES/LANDSCAPE_160/Ambulancia%20para%20transportar%20a%20pacientes%20con%20covid-19"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/46r0xp-ambulancia-para-transportar-a-pacientes-con-covid-19/BINARY/thumbnail/Ambulancia%20para%20transportar%20a%20pacientes%20con%20covid-19"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Ambulancia para transportar a pacientes con covid-19"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div>
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/local/"> Local </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/valle-de-puebla-con-altos-contagios-de-covid-19-5883299.html">
+Valle de Puebla con altos contagios de Covid-19
+</a>
+</h4>
+</div>
+</div>
+<div id="widget-abc" class="widget-abc ">
+<iframe title="Estacion de radio principal" src="https://www.abcradio.com.mx/XEABCA_LaVozFrontera.html" style="width: 100%;" height="190"; scrolling="no"></iframe>
+<iframe title="Estacion de radio secundaria" src="https://www.abcradio.com.mx/XEMMM_LaVozFrontera.html" style="width: 100%;" height="190"; scrolling="no"></iframe>
+</div>
+</article>
+</section>
+<div class="advertisment ">
+<div id="dfp-top2">
+<script>googletag.cmd.push(function() { googletag.display('dfp-top2'); });</script>
+</div>
+</div>
+<div class=" ">
+</div>
+<div class="nolopierdas ">
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.softnews-desktop"
+data-skip-profiles="small">
+</div>
+</div>
+<div class="nolopierdas ">
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.softnews-mobile"
+data-skip-profiles="large,medium">
+</div>
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/245ece59-ff91-47c5-b60d-47b4a9f0fac1"
+data-elementwidth="1140.0"
+data-skip-profiles="large,medium">
+</div>
+<div id="clasificados-oem" class="clasificados-oem ">
+<object type="text/html" data="https://clasificados.lavozdelafrontera.com.mx/destacados" style="height: 270px;width: 100%;padding-top:10px;margin-bottom: 15px;"></object>
+</div>
+<div class=" ">
+<div class=" ">
+<div class="bordertop-orange ">
+<a class="tit-aside-deportes-bold" href="https://www.lavozdelafrontera.com.mx/analisis/">
+Analisis
+</a>
+</div>
+<section id="carousel-analisis-home" class="carrusel-op carouselAnalisis hidden-xs ">
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/ALTERNATES/SQUARE_160/avatar142Nueva.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/BINARY/thumbnail/avatar142Nueva.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="avatar142Nueva.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+Aquiles Tacho
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/en-voz-baja-5885813.html">
+En Voz Baja
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="local
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/gildardo-linarez-placencia">
+<img src="https://www.tribunadesanluis.com.mx/incoming/dygowd-gildardo-linares.png/ALTERNATES/SQUARE_160/Gildardo%20Linares.png"
+data-variant="SQUARE"
+data-src-template="https://www.tribunadesanluis.com.mx/incoming/dygowd-gildardo-linares.png/BINARY/thumbnail/Gildardo%20Linares.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Gildardo Linares.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/gildardo-linarez-placencia">
+Gildardo Linarez Placencia
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/los-fideicomisos-5885409.html">
+Los fideicomisos
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/victor-martinez-ceniceros">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/v61yel-victor-ceniceros.png/ALTERNATES/SQUARE_160/Victor%20Ceniceros.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/v61yel-victor-ceniceros.png/BINARY/thumbnail/Victor%20Ceniceros.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Victor Ceniceros.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/victor-martinez-ceniceros">
+Victor Martínez Ceniceros
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/la-tragedia-silenciosa-5885402.html">
+La tragedia silenciosa
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/maritza-l.-felix">
+<img src="https://www.tribunadesanluis.com.mx/incoming/28r2y4-maritza-l_felix-.png/ALTERNATES/SQUARE_160/MARITZA%20L_FELIX%20.png"
+data-variant="SQUARE"
+data-src-template="https://www.tribunadesanluis.com.mx/incoming/28r2y4-maritza-l_felix-.png/BINARY/thumbnail/MARITZA%20L_FELIX%20.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="MARITZA L_FELIX .png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/maritza-l.-felix">
+Maritza L. Félix
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/el-cinismo-del-presidente-5880887.html">
+El cinismo del Presidente
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/ALTERNATES/SQUARE_160/avatar142Nueva.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/BINARY/thumbnail/avatar142Nueva.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="avatar142Nueva.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+Aquiles Tacho
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/en-voz-baja-5881095.html">
+En Voz Baja
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/exaltacion-gonzalez1">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/v8blla-exaltacion-glez.png/ALTERNATES/SQUARE_160/Exaltacio%CC%81n%20Glez.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/v8blla-exaltacion-glez.png/BINARY/thumbnail/Exaltacio%CC%81n%20Glez.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Exaltación Glez.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/exaltacion-gonzalez1">
+Exaltación González
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/octubre-mes-rosa-5880862.html">
+Octubre, mes rosa
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/fernanda-flores-aguirre">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/2u2b4t-fernanda-flores.png/ALTERNATES/SQUARE_160/Fernanda%20Flores.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/2u2b4t-fernanda-flores.png/BINARY/thumbnail/Fernanda%20Flores.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Fernanda Flores.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/fernanda-flores-aguirre">
+Fernanda Flores Aguirre
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/mes-rosa-5876312.html">
+Mes rosa 
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="analisis
+media padding-right-xs padding-left-xs ">
+<div class="teaser ">
+<div>
+<div class="img-container pull-left author-photo"
+style="width: 40%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/ALTERNATES/SQUARE_160/avatar142Nueva.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/BINARY/thumbnail/avatar142Nueva.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="avatar142Nueva.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+<div class="media-body">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+Aquiles Tacho
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/en-voz-baja-5876599.html">
+En Voz Baja
+</a>
+</h4>
+</div>
+</div>
+</div>
+</section>
+<script>
+$(document).ready(function(){
+$(".carrusel-op").owlCarousel({
+items: ($(window).width() > 768 ? 4 : 2),
+navigation: ($(window).width() > 768),
+pagination: ($(window).width() < 768),
+scrollPerPage: true
+});
+});
+</script>
+</div>
+<div class=" ">
+<div id="analisis-mobile" class="hidden-md hidden-lg ">
+<div class="row">
+<div class="">
+<section>
+<div class="teaser ">
+<div class="img-container pull-left author-photo"
+style="width: 25%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/ALTERNATES/SQUARE_160/avatar142Nueva.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/lyhr5t-avatar142nueva.png/BINARY/thumbnail/avatar142Nueva.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="avatar142Nueva.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-opinion-teaserbody columnist-mobile">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/aquiles-tacho1">
+Aquiles Tacho
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/en-voz-baja-5885813.html">
+En Voz Baja
+</a>
+</h4>
+</div>
+</div>
+</section>
+</div>
+<div class="">
+<section>
+<div class="teaser ">
+<div class="img-container pull-left author-photo"
+style="width: 25%">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/gildardo-linarez-placencia">
+<img src="https://www.tribunadesanluis.com.mx/incoming/dygowd-gildardo-linares.png/ALTERNATES/SQUARE_160/Gildardo%20Linares.png"
+data-variant="SQUARE"
+data-src-template="https://www.tribunadesanluis.com.mx/incoming/dygowd-gildardo-linares.png/BINARY/thumbnail/Gildardo%20Linares.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Gildardo Linares.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-opinion-teaserbody columnist-mobile">
+<p class="author ">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/gildardo-linarez-placencia">
+Gildardo Linarez Placencia
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/local/los-fideicomisos-5885409.html">
+Los fideicomisos
+</a>
+</h4>
+</div>
+</div>
+</section>
+</div>
+<div class="">
+<section>
+<div class="teaser ">
+<div class="img-container pull-left author-photo"
+style="width: 25%">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/victor-martinez-ceniceros">
+<img src="https://www.lavozdelafrontera.com.mx/incoming/v61yel-victor-ceniceros.png/ALTERNATES/SQUARE_160/Victor%20Ceniceros.png"
+data-variant="SQUARE"
+data-src-template="https://www.lavozdelafrontera.com.mx/incoming/v61yel-victor-ceniceros.png/BINARY/thumbnail/Victor%20Ceniceros.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Victor Ceniceros.png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-opinion-teaserbody columnist-mobile">
+<p class="author ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/autor/victor-martinez-ceniceros">
+Victor Martínez Ceniceros
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/la-tragedia-silenciosa-5885402.html">
+La tragedia silenciosa
+</a>
+</h4>
+</div>
+</div>
+</section>
+</div>
+<div class="">
+<section>
+<div class="teaser ">
+<div class="img-container pull-left author-photo"
+style="width: 25%">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/maritza-l.-felix">
+<img src="https://www.tribunadesanluis.com.mx/incoming/28r2y4-maritza-l_felix-.png/ALTERNATES/SQUARE_160/MARITZA%20L_FELIX%20.png"
+data-variant="SQUARE"
+data-src-template="https://www.tribunadesanluis.com.mx/incoming/28r2y4-maritza-l_felix-.png/BINARY/thumbnail/MARITZA%20L_FELIX%20.png"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="MARITZA L_FELIX .png"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-opinion-teaserbody columnist-mobile">
+<p class="author ">
+<a href="https://www.tribunadesanluis.com.mx/analisis/autor/maritza-l.-felix">
+Maritza L. Félix
+</a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/el-cinismo-del-presidente-5880887.html">
+El cinismo del Presidente
+</a>
+</h4>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row lovistorow " >
+<div class="col-sm-4 " >
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.analysis-most-read"
+data-skip-profiles="">
+</div>
+</div>
+<div class="col-sm-4 " >
+<div class="advertisment ">
+<div id="dfp-box3">
+<script>googletag.cmd.push(function() { googletag.display('dfp-box3'); });</script>
+</div>
+</div>
+</div>
+<div class="col-sm-4 finance-teaser" >
+<div class="bordertop-orange ">
+<a class="tit-aside-deportes-bold" href="https://www.lavozdelafrontera.com.mx/finanzas/">
+Finanzas
+</a>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/economia-mexicana-pierde-impulso-advierte-fitch-ratings-5887181.html">
+<img src="https://www.elsoldemexico.com.mx/finanzas/qcx574-billetes-100-pesos-dinero.jpg/ALTERNATES/LANDSCAPE_160/Billetes%20100%20pesos%20dinero.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/finanzas/qcx574-billetes-100-pesos-dinero.jpg/BINARY/thumbnail/Billetes%20100%20pesos%20dinero.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Billetes 100 pesos dinero.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/economia-mexicana-pierde-impulso-advierte-fitch-ratings-5887181.html">
+Economía mexicana pierde impulso, advierte Fitch Ratings
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/advierten-que-reforma-al-infonavit-promovera-obras-irregulares-infonavit-entrega-dinero-trabajadores-terrenos-5886261.html">
+<img src="https://www.elsoldemexico.com.mx/finanzas/ilbabh-cuartoscuro_529990_impreso.jpg/ALTERNATES/LANDSCAPE_160/cuartoscuro_529990_impreso.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/finanzas/ilbabh-cuartoscuro_529990_impreso.jpg/BINARY/thumbnail/cuartoscuro_529990_impreso.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="cuartoscuro_529990_impreso.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/advierten-que-reforma-al-infonavit-promovera-obras-irregulares-infonavit-entrega-dinero-trabajadores-terrenos-5886261.html">
+Advierten que reforma al Infonavit promoverá obras irregulares
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/economia-ordena-suspension-inmediata-de-la-venta-de-20-marcas-de-queso-y-yogurt-lala-fud-philadelphia-y-otros-5885860.html">
+<img src="https://www.elsoldemexico.com.mx/mexico/g0ezx1-quesos-lacteos-fud-lala-economia.jpg/ALTERNATES/LANDSCAPE_160/quesos%20lacteos%20fud%20lala%20economia.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/mexico/g0ezx1-quesos-lacteos-fud-lala-economia.jpg/BINARY/thumbnail/quesos%20lacteos%20fud%20lala%20economia.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="quesos lacteos fud lala economia.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/economia-ordena-suspension-inmediata-de-la-venta-de-20-marcas-de-queso-y-yogurt-lala-fud-philadelphia-y-otros-5885860.html">
+Economía ordena "suspensión inmediata" de venta de 20 marcas de queso y yogurt
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/cofece-exige-un-canal-directo-con-la-corte-para-presentar-actos-de-inconstitucionalidad-5884112.html">
+<img src="https://www.elsoldemexico.com.mx/mexico/sociedad/fw6si5-suprema-corte/ALTERNATES/LANDSCAPE_160/Suprema%20Corte"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/mexico/sociedad/fw6si5-suprema-corte/BINARY/thumbnail/Suprema%20Corte"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Suprema Corte"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/finanzas/cofece-exige-un-canal-directo-con-la-corte-para-presentar-actos-de-inconstitucionalidad-5884112.html">
+Cofece exige un canal directo con la Corte para presentar actos de inconstitucionalidad
+</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+<div class="row cartones-encuesta-ad " >
+<div class="col-sm-4 " >
+<div class="tit-aside-cartoon ">
+<div class="bordertop-orange-cartoon"></div>
+<div class="tit-aside-cartoon-bold">Cartones</div>
+</div>
+<article class="analisis_corpus
+media cartoon ">
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 50%'>
+<a href="https://www.lavozdelafrontera.com.mx/analisis/corpus/quien-podra-mas...-5885433.html">
+<img src="https://www.lavozdelafrontera.com.mx/analisis/corpus/quien-podra-mas...-5885433.html/ALTERNATES/LANDSCAPE_160/%C2%BFQui%C3%A9n%20podr%C3%A1%20mas-..."
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/analisis/corpus/quien-podra-mas...-5885433.html/BINARY/thumbnail/%C2%BFQui%C3%A9n%20podr%C3%A1%20mas-..."
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="¿Quién podrá mas?..."
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<p class="kicker ">
+Corpus
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/corpus/quien-podra-mas...-5885433.html">
+¿Quién podrá mas?...
+</a>
+</h4>
+</div>
+</div>
+</article>
+<article class="analisis_ishus
+media cartoon ">
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 50%'>
+<a href="https://www.lavozdelafrontera.com.mx/analisis/ishus/de-regreso-a-la-edad-de-piedra-5880907.html">
+<img src="https://www.lavozdelafrontera.com.mx/analisis/ishus/de-regreso-a-la-edad-de-piedra-5880907.html/ALTERNATES/LANDSCAPE_160/De%20regreso%20a%20la%20Edad%20de%20Piedra"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/analisis/ishus/de-regreso-a-la-edad-de-piedra-5880907.html/BINARY/thumbnail/De%20regreso%20a%20la%20Edad%20de%20Piedra"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="De regreso a la Edad de Piedra"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="media-body">
+<p class="kicker ">
+Ishus
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/analisis/ishus/de-regreso-a-la-edad-de-piedra-5880907.html">
+De regreso a la Edad de Piedra
+</a>
+</h4>
+</div>
+</div>
+</article>
+</div>
+<div class="col-sm-4 " >
+<div class="local
+poll ">
+<div class="teaser ">
+<div class="tit-aside-bold ">
+<div class="bordertop-red"></div>
+<div class="tit-poll-bold">Pregunta del día</div>
+</div>
+<a href="https://www.lavozdelafrontera.com.mx/?widgetContentId=101&widgetName=teaser&elementwidth=380.0&resultItemId=5885581" rel="refresh" id="widgetURL-101" style="display: none">Reload</a>
+<div id="poll1015885581" class="wf-frame">
+<p><strong>¿Acudirá a algún juego de beisbol de Águilas de Mexicali durante la temporada?</strong></p>
+<form id="poll-101" method="post" action="/poll/vote.do">
+<fieldset>
+<input type="hidden" name="mentometerId" value="5885581" />
+<input type="hidden" name="publicationId" value="10" />
+<input type="hidden" name="forward" value="false" />
+<input type="radio" name="vote" value="svar1" id="poll_5885581_1" />
+<label for="poll_5885581_1">Así es</label>
+<input type="radio" name="vote" value="svar2" id="poll_5885581_2" />
+<label for="poll_5885581_2">No por seguridad</label>
+<input type="radio" name="vote" value="svar3" id="poll_5885581_3" />
+<label for="poll_5885581_3">No me interesa </label>
+<p id="pollError101" class="alert alert-error"
+style="display:none;">
+Selecciona una opción
+</p>
+<p>
+<input type="submit" value="Votar" class="btn" />
+<a href="https://www.lavozdelafrontera.com.mx/?pollResult=5885581#poll1015885581"
+onclick="return viewPollResult(5885581,this)" class="btn">Ver resultados</a>
+</p>
+</fieldset>
+</form>
+<script type="text/javascript">
+$(document).ready(function () {
+$("#poll-101 input[type=submit]").click(function () {
+var isVote = isVoteSelected('poll-101', 'pollError101');
+if (isVote) {
+submitPollAjax('poll-101');
+}
+return false;
+});
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 " >
+<div class="advertisment ">
+<div id="dfp-box2">
+<script>googletag.cmd.push(function() { googletag.display('dfp-box2'); });</script>
+</div>
+</div>
+</div>
+</div>
+<div class="row edicion-impresa " >
+<div class="col-sm-4 " >
+<div class="teaser ">
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="http://oem.pressreader.com/la-voz-de-la-frontera">
+<img src="https://www.lavozdelafrontera.com.mx/local/19vx1u-promo-portada-14-oct-2020.jpg/ALTERNATES/FREE_160/promo%20portada%2014%20oct%202020.jpg"
+data-variant="FREE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/19vx1u-promo-portada-14-oct-2020.jpg/BINARY/thumbnail/promo%20portada%2014%20oct%202020.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="promo portada 14 oct 2020.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</div>
+<div class="col-sm-4 " >
+<img src="/static/theme/solmx/base/img/Titulo-Newsletter.svg" alt="Newslwtter" />
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:300px;}
+#mc_embed_signup label {display:block;font-size:16px;padding-bottom:10px;font-weight: normal;}
+#mc_embed_signup input.email {font-family:"Tinos", "serif"; font-size: 15px; display:inline-block; padding:0 0.4em; margin:0 4% 10px 0; min-height:32px; width:55%; min-width:100px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
+#mc_embed_signup input.button {display:inline-block; width:35%; margin:0 0 10px 0; min-width:90px;background-color:#FC9527; font-size:16px;}
+</style>
+<div id="mc_embed_signup">
+<form action="https://elsoldemexico.us16.list-manage.com/subscribe?u=c04a811ee61dc85305bf7133b&id=905a4d70c0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL">Suscríbete a nuestro Boletín Informativo</label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="correo electrónico" required>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c04a811ee61dc85305bf7133b_905a4d70c0" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="col-sm-4 " >
+<div class="teaser ">
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://bwt.cbp.gov/ViewAllPorts.html?com=1&pas=1&ped=1&plist=2503">
+<img src="https://www.lavozdelafrontera.com.mx/local/garitas/g86n7-promo-garitas.jpg/ALTERNATES/FREE_160/promo%20garitas.jpg"
+data-variant="FREE"
+data-src-template="https://www.lavozdelafrontera.com.mx/local/garitas/g86n7-promo-garitas.jpg/BINARY/thumbnail/promo%20garitas.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="promo garitas.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="tit-republica-bold ">
+<a class="tit-republica-bold tit-aside-republica-bold" href="https://www.lavozdelafrontera.com.mx/republica/">
+República
+</a>
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/90f0c664-144f-4ace-b2ff-67b36ff57142"
+data-elementwidth="1140.0"
+data-skip-profiles="small">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/fbf20544-5123-482b-b891-89f6fc9cf454"
+data-elementwidth="1140.0"
+data-skip-profiles="large,medium">
+</div>
+<div class="row deportes-ultimo " >
+<div class="col-sm-8 " >
+<div class="bordertop-orange sports-title ">
+<a class="tit-aside-deportes-bold" href="https://www.lavozdelafrontera.com.mx/deportes/">
+Deportes
+</a>
+</div>
+<div class="row " >
+<div class="col-sm-6 " >
+<section>
+<div class="deportes
+tit-medium-teaser sports-big ">
+<div class="teaser ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html">
+</a>
+<div
+class="img-container picture"
+style='width: 100%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html">
+<img src="https://www.lavozdelafrontera.com.mx/deportes/mg6hfl-img_2953.jpg/ALTERNATES/LANDSCAPE_160/IMG_2953.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/deportes/mg6hfl-img_2953.jpg/BINARY/thumbnail/IMG_2953.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="IMG_2953.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget hard-news-1">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/"> Deportes </a>
+</p>
+<div class="container-share">
+<a data-href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html" target="_blank" rel="noreferrer" class="icon icon-facebook" href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html"></a>
+<a data-href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html" target="_blank" rel="noreferrer" class="icon icon-twitter" href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html"></a>
+</div>
+<div style="clear:both"></div>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/se-concretaba-el-sueno-5885598.html">
+Se concretaba el sueño
+</a>
+</h4>
+<p class="leadtext ">
+Hace 44 años, los Águilas de Mexicali daban su primer vuelo en la Liga Mexicana del Pacífico
+</p>
+<ul class="list-unstyled ">
+<li>
+<i class="glyphicon glyphicon-align-justify"></i>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/soles-no-puede-ante-panteras-5870149.html"> Soles no puede ante Panteras</a>
+</li>
+<li>
+<i class="glyphicon glyphicon-align-justify"></i>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/un-triunfo-diferente-5865983.html"> Un triunfo diferente</a>
+</li>
+<li>
+<i class="glyphicon glyphicon-align-justify"></i>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/va-la-urbana-por-el-boleto-5872863.html"> Va la Urbana por el boleto</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="col-sm-6 " >
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/regresan-canoistas-a-entrenamientos-5885608.html">
+<img src="https://www.lavozdelafrontera.com.mx/deportes/mq4igd-whatsapp-image-2020-10-13-at-14.05.03.jpeg/ALTERNATES/LANDSCAPE_160/WhatsApp%20Image%202020-10-13%20at%2014.05.03.jpeg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.lavozdelafrontera.com.mx/deportes/mq4igd-whatsapp-image-2020-10-13-at-14.05.03.jpeg/BINARY/thumbnail/WhatsApp%20Image%202020-10-13%20at%2014.05.03.jpeg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="WhatsApp Image 2020-10-13 at 14.05.03.jpeg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/"> Deportes </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/regresan-canoistas-a-entrenamientos-5885608.html">
+Regresan canoístas a entrenamientos
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/mexico-sostendra-partido-amistoso-ante-japon-5886512.html">
+<img src="https://www.elsoldemexico.com.mx/deportes/futbol/tzxyjp-seleccion-mexicana-cuartooscuro.jpeg/ALTERNATES/LANDSCAPE_160/selecci%C3%B3n%20mexicana-cuartooscuro.jpeg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/deportes/futbol/tzxyjp-seleccion-mexicana-cuartooscuro.jpeg/BINARY/thumbnail/selecci%C3%B3n%20mexicana-cuartooscuro.jpeg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="selección mexicana-cuartooscuro.jpeg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/"> Futbol </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/mexico-sostendra-partido-amistoso-ante-japon-5886512.html">
+México sostendrá partido amistoso ante Japón </a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/luis-hernandez-de-idolo-mundialista-a-padre-de-tiempo-completo-5884715.html">
+<img src="https://www.elsoldemexico.com.mx/deportes/zazjb7-luis-hernandez-ok.jpg/ALTERNATES/LANDSCAPE_160/luis%20hernandez%20OK.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/deportes/zazjb7-luis-hernandez-ok.jpg/BINARY/thumbnail/luis%20hernandez%20OK.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="luis hernandez OK.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/"> Futbol </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/luis-hernandez-de-idolo-mundialista-a-padre-de-tiempo-completo-5884715.html">
+Luis Hernández: de ídolo mundialista a padre de tiempo completo
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/cristiano-sigue-el-entrenamiento-de-portugal-desde-balcon-de-su-habitacion-futbol-covid-19-coronavirus-pandemia-contagios-epidemia-5883540.html">
+<img src="https://www.elsoldemexico.com.mx/deportes/futbol/32k5hh-cristiano-ronaldo.jpg/ALTERNATES/LANDSCAPE_160/Cristiano%20Ronaldo.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/deportes/futbol/32k5hh-cristiano-ronaldo.jpg/BINARY/thumbnail/Cristiano%20Ronaldo.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Cristiano Ronaldo.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/"> Futbol </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/futbol/cristiano-sigue-el-entrenamiento-de-portugal-desde-balcon-de-su-habitacion-futbol-covid-19-coronavirus-pandemia-contagios-epidemia-5883540.html">
+Cristiano sigue el entrenamiento de Portugal desde balcón de su habitación
+</a>
+</h4>
+</div>
+</div>
+<div class="teaser ">
+<div
+class="img-container pull-left picture"
+style='width: 40%'>
+<a href="https://www.lavozdelafrontera.com.mx/deportes/automotriz/suzuki-ertiga-xl7-espacio-ideal-para-siete-pasajeros-novedades-de-autos-5880810.html">
+<img src="https://www.elsoldemexico.com.mx/deportes/automotriz/tac934-perfil.jpg/ALTERNATES/LANDSCAPE_160/Perfil.jpg"
+data-variant="LANDSCAPE"
+data-src-template="https://www.elsoldemexico.com.mx/deportes/automotriz/tac934-perfil.jpg/BINARY/thumbnail/Perfil.jpg"
+data-proxy-image=""
+data-proxy-width=""
+style="width:100%"
+alt=""
+title="Perfil.jpg"
+class="media-object adaptive lazy "
+/>
+</a>
+</div>
+<div class="medium-teaser-widget sports-description">
+<p class="kicker ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/automotriz/"> Automotriz </a>
+</p>
+<h4 class="title ">
+<a href="https://www.lavozdelafrontera.com.mx/deportes/automotriz/suzuki-ertiga-xl7-espacio-ideal-para-siete-pasajeros-novedades-de-autos-5880810.html">
+Suzuki Ertiga XL7, espacio ideal para siete pasajeros </a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 " >
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/174e6ad6-5a4c-40b5-ac2e-41759c1fda51"
+data-elementwidth="380.0"
+data-skip-profiles="small">
+</div>
+</div>
+</div>
+<div class="advertisment ">
+<div id="dfp-top3">
+<script>googletag.cmd.push(function() { googletag.display('dfp-top3'); });</script>
+</div>
+</div>
+</section>
+<div>
+<div class="multimedia-container-home ">
+<div class="subtitle-multimedia-home">Multimedia</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/b96fd23f-86dc-42ce-a112-4e7d33a10c96"
+data-elementwidth="1140"
+data-skip-profiles="small">
+</div>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/default/wf.fragment/a33780ae-3876-44a2-9a4d-70c557e74c33"
+data-elementwidth="1140"
+data-skip-profiles="large,medium">
+</div>
+<div class="advertisment ">
+<div id="dfp-top4">
+<script>googletag.cmd.push(function() { googletag.display('dfp-top4'); });</script>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="wf-placeholder"
+data-loadURL="https://www.lavozdelafrontera.com.mx/barebone/wf.template/config.default.master.footer"
+data-skip-profiles="">
+</div>
+</footer>
+</div>
+<script>
+var trackerConfig = null;
+if (typeof auto != 'object') {
+trackerConfig = 'auto';
+}
+else {
+trackerConfig = auto;
+}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-753959-15', trackerConfig);
+ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+/* Front end properties configured in nursery */
+var FrontEndConfig = {"media.jwplayer.hls.enabled":"true","media.jwplayer.script.location":"https://cdn.jwplayer.com/libraries/oPRIp3DS.js","audioPlayer":"jwplayer","media.jwplayer.options.flashplayer":"https://ssl.p.jwpcdn.com/player/v/7.12.13/jwplayer.flash.swf","media.jwplayer.key":"VdL4cFN3cuNLW8u+NkB/4NaWTiLLyB9ztauLLXlgdgwnTixG","media.jwplayer.sharing.enabled":"true","lc.liveLoading.pollingInterval":"10","media.jwplayer.options.androidhls":"true","media.jwplayer.ga.enabled":"true","media.jwplayer.hls.mimeTypes":"vnd.apple.mpegURL,application/x-mpegURL","media.jwplayer.options.primary":"flash","videoPlayer":"jwplayer"};
+if (typeof(FrontEndConfig) == 'undefined') {
+FrontEndConfig = {};
+}
+FrontEndConfig.rootURL = "https://www.lavozdelafrontera.com.mx/";
+/* Client-side device detection */
+var WFClientTypeDef = {"small":"(max-width: 767px)","large":"(min-width: 992px)","medium":"(min-width: 768px) and (max-width: 991px)"};
+var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+$(function(){
+$.each(FrontEndConfig, function(key, value) {
+/* Regular properties other than JW Player setup options
+are being processed here */
+if (key.indexOf('media.jwplayer.options') < 0) {
+FrontEndConfig[key] = WFUtils.parseStringToJSONObject(value);
+}
+});
+});
+</script>
+<script type="text/javascript">
+/*Device width fix for Windows Phone 8 and IE 10*/
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+var msViewportStyle = document.createElement("style")
+msViewportStyle.appendChild(
+document.createTextNode(
+"@-ms-viewport{width:auto!important}"
+)
+)
+document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
+}
+</script>
+<script type="text/javascript" src="https://www.lavozdelafrontera.com.mx/static/js/jquery-1.10.2.min.js"></script>
+<script>(function ($, d) {
+$.each(readyQ, function (i, f) {
+$(f)
+});
+$.each(bindReadyQ, function (i, f) {
+$(d).bind("ready", f)
+})
+})(jQuery, document)</script>
+<script type="text/javascript" src="https://www.lavozdelafrontera.com.mx/static/js/wf-site.0e2c385f8b0bcb63bd16e9128c9c2806.js"></script>
+<script type="text/javascript">
+require(['https://www.lavozdelafrontera.com.mx/static/js/holder.js'], function () {});
+</script>
+<script type='text/javascript'>
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+_sf_async_config.sections = 'ece_frontpage';
+_sf_async_config.authors = '';
+/** CONFIGURATION END **/
+(function() {
+function loadChartbeat() {
+window._sf_endpt = (new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() {
+oldonload();
+loadChartbeat();
+};
+})();
+</script>
+</body>
+</html>

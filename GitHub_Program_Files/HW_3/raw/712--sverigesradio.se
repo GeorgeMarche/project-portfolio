@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <style>
+        .async-hide {
+            opacity: 0 !important;
+        }
+    </style>
+    <script>
+        (function(a, s, y, n, c, h, i, d, e) {
+            s.className += ' ' + y;
+            h.end = i = function() {
+                s.className = s.className.replace(RegExp(' ?' + y), '');
+            };
+            (a[n] = a[n] || []).hide = h;
+            setTimeout(function() {
+                    i();
+                    h.end = null;
+                },
+                c);
+        })(window,
+            document.documentElement,
+            'async-hide',
+            'dataLayer',
+            2000,
+            { 'GTM-MSXCJ4Q': true }
+        );
+    </script>
+
+<script type="application/json" id="ga-custom-dimensions">
+    {"dimension24":"304","dimension51":"true","dimension52":"false"}
+</script>
+
+<script id="_gaId" type="text/javascript">
+    var googleStatKey = '/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/långtidssjuka charlotte riskerar sin inkomst[s(7571001)]';
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'UA-3289092-1', 'auto');
+
+        ga('require', 'GTM-MSXCJ4Q');
+
+    var gaCustomDimensions = JSON.parse(document.getElementById('ga-custom-dimensions').textContent);
+    ga('set', 'page', googleStatKey);
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview', gaCustomDimensions);
+
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ 'event': 'optimize.activate' });
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+
+    
+            <meta name="author" content="Sveriges Radio" />
+        <meta name="description" content="M&#229;nga l&#229;ngtidssjuka i covid-19 &#228;r oroliga f&#246;r sin f&#246;rs&#246;rjning n&#228;r de beh&#246;ver vara fortsatt sjukskrivna.
+&quot;Man t&#228;nker vart ska jag ta v&#228;gen?&quot;, s&#228;ger Almungebon ..." />
+        <meta name="keywords" content="Upplandsnytt, Radio Uppland, P4, Upplandsradion, Sveriges Radio, Uppsala, nyheter, aktualiteter, Uppsala l&#228;n, Uppland, lokal gr&#228;vande journalistik i din radio, radionyheter, lokala nyheter, lokal sport, Upplandssporten, Nyheter P4 Uppland                 " />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="twitter:site" content="@sverigesradio" />
+        <meta name="twitter:creator" content="@p4uppland" />
+        <meta name="twitter:title" content="L&#229;ngtidssjuka Charlotte riskerar sin inkomst - P4 Uppland" />
+        <meta name="twitter:description" content="M&#229;nga l&#229;ngtidssjuka i covid-19 &#228;r oroliga f&#246;r sin f&#246;rs&#246;rjning n&#228;r de beh&#246;ver vara fortsatt sjukskrivna.
+&quot;Man t&#228;nker vart ska jag ta v&#228;gen?&quot;, s&#228;ger Almungebon ..." />
+        <meta name="twitter:image" content="https://static-cdn.sr.se/images/114/3f453df8-9991-4045-a2e6-37d0e0254770.jpg" />
+        <meta name="twitter:card" content="summary" />
+
+            <meta property="og:url" content="https://sverigesradio.se/artikel/7571001" />
+        <meta property="og:title" content="L&#229;ngtidssjuka Charlotte riskerar sin inkomst - P4 Uppland" />
+        <meta property="og:description" content="M&#229;nga l&#229;ngtidssjuka i covid-19 &#228;r oroliga f&#246;r sin f&#246;rs&#246;rjning n&#228;r de beh&#246;ver vara fortsatt sjukskrivna.
+&quot;Man t&#228;nker vart ska jag ta v&#228;gen?&quot;, s&#228;ger Almungebon ..." />
+        <meta property="og:image" content="https://static-cdn.sr.se/images/114/3f453df8-9991-4045-a2e6-37d0e0254770.jpg" />
+        <meta property="og:type" content="website" />
+
+        <link rel="canonical" href="https://sverigesradio.se/artikel/7571001" />
+    <link rel="preconnect" href="https://static-cdn.sr.se" />
+    <link rel="preconnect" href="https://trafficgateway.research-int.se" />
+    <link rel="dns-prefetch" href="https://analytics.codigo.se">
+    <link rel="dns-prefetch" href="https://static.smhivader.se" />
+    
+    <style type="text/css">
+    /*
+    This CSS resource incorporates links to font software which is
+    the valuable copyrighted property of Monotype Imaging and/or
+    its suppliers. You may not attempt to copy, install, redistribute, convert,
+    modify or reverse engineer this font software. Please contact Monotype Imaging
+    with any questions regarding Web Fonts:  http://webfonts.fonts.com
+    */
+
+    /*Avenir Roman*/
+    @font-face {
+        font-family: Avenir;
+        font-display: swap;
+        src: url("/dist/fonts/353dc12d-fb37-4fed-9186-d1c5103e819a.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir;
+        font-display: swap;
+        src: url("/dist/fonts/353dc12d-fb37-4fed-9186-d1c5103e819a.eot?iefix");
+        src: url("/dist/fonts/8de3f5b8-fbaa-49f9-88f2-abb9819a8cf7.woff?iefix") format("woff"),
+             url("/dist/fonts/a5760f6a-f37b-4c02-8132-71ed1dfc1df0.ttf") format("truetype"),
+             url("/dist/fonts/12b392b1-29e3-4914-92d3-cf207e1c5a6c.svg#12b392b1-29e3-4914-92d3-cf207e1c5a6c") format("svg");
+    }
+
+    /*Avenir Black*/
+    @font-face {
+        font-family: Avenir;
+        font-weight: bold;
+        font-display: swap;
+        src: url("/dist/fonts/60c9edc5-0526-4041-a3e7-db28207bace3.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir;
+        font-weight: bold;
+        font-display: swap;
+        src: url("/dist/fonts/60c9edc5-0526-4041-a3e7-db28207bace3.eot?iefix");
+        src: url("/dist/fonts/f798351f-44b7-4c7b-a8ba-00fd2a5cd3c8.woff?iefix") format("woff"),
+             url("/dist/fonts/a3f97274-8e6d-4c74-9dc3-ae988798ed5f.ttf") format("truetype"),
+             url("/dist/fonts/4629ed47-0ef9-4384-b6b9-9f5c6b9b7837.svg#4629ed47-0ef9-4384-b6b9-9f5c6b9b7837") format("svg");
+    }
+
+    /*Avenir Heavy*/
+    @font-face {
+        font-family: Avenir-Heavy;
+        font-display: swap;
+        src: url("/dist/fonts/e9427e66-afa8-4ceb-bb31-7a970fb469ea.eot?iefix") format("eot");
+    }
+
+    @font-face {
+        font-family: Avenir-Heavy;
+        font-display: swap;
+        src: url("/dist/fonts/e9427e66-afa8-4ceb-bb31-7a970fb469ea.eot?iefix");
+        src: url("/dist/fonts/748da442-9dd9-4a4d-8da0-b114e16e5d7f.woff?iefix") format("woff"),
+             url("/dist/fonts/6beeeb66-0b4e-4162-8788-8bf688b9829a.ttf") format("truetype"),
+             url("/dist/fonts/8afe744b-89a2-4ae2-a88e-05c6882580f3.svg#8afe744b-89a2-4ae2-a88e-05c6882580f3") format("svg");
+    }
+
+    /*Avenir Medium*/
+    @font-face {
+        font-family: Avenir-Medium;
+        font-display: swap;
+        src: url("/dist/fonts/AvenirLTPro-Medium.otf") format("opentype");
+    }
+
+    /* source-sans-pro-regular - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-regular.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-regular.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    /* source-sans-pro-600 - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 600;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-600.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+        url('/dist/fonts/source-sans-pro-v13-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-600.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    /* source-sans-pro-700 - latin */
+    @font-face {
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 700;
+        font-display: fallback;
+        src: url('/dist/fonts/source-sans-pro-v13-latin-700.eot'); /* IE9 Compat Modes */
+        src: local('Source Sans Pro Bold'),
+        local('SourceSansPro-Bold'),
+        url('/dist/fonts/source-sans-pro-v13-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.woff') format('woff'), /* Modern Browsers */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('/dist/fonts/source-sans-pro-v13-latin-700.svg#SourceSansPro') format('svg'); /* Legacy iOS */
+    }
+
+    .avenir {
+        font-family: Avenir, Arial, Sans-Serif;
+    }
+
+        .avenir h1 a {
+            font-family: Avenir, Arial, Sans-Serif;
+            font-weight: bold;
+        }
+
+        .avenir p {
+            font-family: Avenir, Arial, Sans-Serif;
+        }
+
+    .avenir-bold {
+        font-family: Avenir, Arial, Sans-Serif;
+        font-weight: bold;
+    }
+
+    .avenir-heavy {
+        font-family: Avenir-Heavy, Arial, Sans-Serif;
+    }
+</style>
+<link rel="stylesheet" href="https://fast.fonts.com/t/1.css?apiType=css&projectid=8eb2d7c4-edba-4b0c-b609-25f87be56ee5" media="print">
+
+
+    
+    <link rel="stylesheet" href="/dist/embed-site-3507e04e.css"><link rel="stylesheet" href="/dist/site-f799113b.css">
+
+    
+    
+    <script src="/dist/lazysizes-ea037fc2.js" async></script>
+
+    <link rel="image_src" type="image/jpeg" href="https://static-cdn.sr.se/images/114/3f453df8-9991-4045-a2e6-37d0e0254770.jpg" /><link rel="apple-touch-icon" href="/dist/images/apple-touch-icon-default.png" sizes="144x144" /><link rel="alternate" type="application/rss+xml" href="https://api.sr.se/api/rss/pod/3788" title="P4 Uppland" />
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/dist/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/dist/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/dist/favicon-16x16.png">
+<link rel="mask-icon" href="/dist/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+    <script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"NewsArticle","headline":"Långtidssjuka Charlotte riskerar sin inkomst","author":{"@type":"Organization","name":"Sveriges Radio"},"publisher":{"@type":"Organization","name":"Sveriges Radio","logo":{"@type":"ImageObject","url":"https://sverigesradio.se/dist/images/sverigesradio_structured_data_logo.png"}},"image":{"@type":"ImageObject","url":"https://static-cdn.sr.se/images/114/3f453df8-9991-4045-a2e6-37d0e0254770.jpg"},"datePublished":"2020-10-08T19:30:00.0000000Z","dateModified":"2020-10-08T19:30:00.0000000Z","mainEntityOfPage":{"@type":"WebPage","url":"https://sverigesradio.se/artikel/7571001"}}
+</script>
+
+    <link rel="manifest" href="/site.webmanifest">
+    <title>L&#229;ngtidssjuka Charlotte riskerar sin inkomst - P4 Uppland | Sveriges Radio</title>
+
+</head>
+<body id="p4" class="th-p4 th-p4-room undersida t8 unitid-114" data-unitid="114" data-version="16.0.3503" data-single-page-enabled="true">
+    <script type="text/javascript">
+        var _sf_startpt = (new Date()).getTime();
+        var ios = navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/iPad/i) ? " ios" : "";
+        document.body.className += " js-on" + ios;
+    </script>
+    
+
+
+
+<div data-require="modules/remove-element" class="no-javascript print--no">
+    <div class="sr-page__wrapper">
+        <div class="gutter">
+            <span>Du måste aktivera javascript för att sverigesradio.se ska fungera korrekt och för att kunna lyssna på ljud. Har du problem med vår sajt så finns hjälp på <a href="https://kundo.se/org/sverigesradio/" class="support-link">https://kundo.se/org/sverigesradio/</a></span>
+        </div>
+    </div>
+</div>
+
+<div id="navigate-to">
+    <a href="#main-content" tabindex="1">Navigera till innehåll</a>
+</div>
+
+
+<div data-require="modules/modal-helper">
+    <div class="global-fixed-height--main-menu">
+        <div data-global-vue-component="main-menu"></div>
+    </div>
+
+        <div id="cookie-message" class="cookie-message-wrapper">
+            <div data-global-vue-component="cookie-message"></div>
+        </div>
+
+    <div id="user-message-legacy" class="user-message print--no" style="display: none;">
+        <div class="user-message__wrapper">
+            <span class="user-message__content">
+                <span id="user-message-legacy-text" class="user-message__content-text">
+                    Tyvärr stödjer vi inte din version av webbläsare. Prova att använda en annan webbläsare, uppdatera till en nyare version.
+                    <a  href="/artikel/6400260" class="sr-lnk" >L&#228;s mer om problem i &#228;ldre webbl&#228;sare</a>
+                </span>
+            </span>
+        </div>
+    </div>
+
+    <div id="page-wrapper" class="sr-page__wrapper">
+
+        <div class="sr-page__content">
+            
+
+    <div class="container print--no">
+        
+        <div class="unit-header th-border-color">
+
+        <div class="unit-header__block">
+            <div class="unit-header__block unit-header__block--channel ">
+                <div class="ribbon th-bg-color" data-require="modules/local-header">
+    <div class="container">
+        <div class="ribbon__inner">
+            <a class="ribbon__link" href="/uppland" data-js="" title="Till startsidan f&#246;r p4 Uppland">
+                    <div class="ribbon__icon">
+                        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-p4"></use>
+</svg>
+
+                    </div>
+                                    <div class="ribbon__title">
+                        <span class="logo-header logo-header--small ribbon__title--text" data-js="">Uppland</span>
+                    </div>
+            </a>
+
+
+
+        </div>
+    </div>
+</div>
+
+            </div>
+
+
+        </div>
+
+
+            <nav class="container container--collapse global-fixed-height--unit-header-submenu">
+                	<nav role="navigation" class="program-menu nocontent" data-require="modules/program-menu">
+		<ul class="program-menu__list">
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/default.aspx?programid=114">
+                        <span>Start</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/kanalprogramlista.aspx?programid=218">
+                        <span>P4 program A-&#214;</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/tabla.aspx?programid=218">
+                        <span>Tabl&#229;</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/latlista.aspx?programid=218">
+                        <span>L&#229;tlistor</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/textarkiv.aspx?programid=114">
+                        <span>Arkiv</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/gruppsida.aspx?programid=114&amp;grupp=20175">
+                        <span>Om…</span>
+                    </a>
+				</li>
+				<li class="program-menu__list__item">
+                    <a class="program-menu__link " href="/sida/gruppsida.aspx?programid=114&amp;grupp=20235">
+                        <span>Tipsa!</span>
+                    </a>
+				</li>
+			<li class="program-menu__list__item program-menu__list__item--more more-item" style="visibility: hidden;">
+				<button class="program-menu__more-button more-button th-border-color">
+					<span class="more-button__label">
+						Mer
+						<span class="program-menu__more-button__icon">
+                            <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-arrowdown"></use>
+</svg>
+
+                        </span>
+					</span>
+                </button>
+			</li>
+		</ul>
+	</nav>
+
+            </nav>
+    </div>
+
+
+    </div>
+
+
+    <div class="container print--no">
+        
+    
+
+    </div>
+
+
+<main class="sr-page__columns two-col container" id="main-content">
+    <div class="two-col__inner">
+
+
+        <div class="two-col__main">
+            
+    <div class="main">
+        <div tabindex="-1" class="article-and-flow">
+    <article 
+    class="article-details ltr"
+    lang="sv"
+    dir="ltr">
+        <div class="article-details__gallery">
+            <div class="gallery">
+    <div class="gallery__image">
+        
+        <div class="gallery-image">
+    <figure class="gallery-image__image">
+            <div class="image image--default">
+        <img src="https://static-cdn.sr.se/images/114/3f453df8-9991-4045-a2e6-37d0e0254770.jpg?preset=768x432" class=""  alt="Charlotte Kerb&#233;n sitter p&#229; sin k&#246;ksstol med en hund i kn&#228;t." />
+    </div>
+
+        <figcaption class="gallery__caption">
+                <div class="gallery__caption-inner">
+                    Charlotte Kerb&#233;n. Foto: Julia Burman G&#246;rans/Sveriges Radio
+                </div>
+            
+        </figcaption>
+    </figure>
+</div>
+
+    </div>
+</div>
+
+        </div>
+    <div class="article-details__inner">
+        <header class="article-details__header">
+                <div class="article-details__theme">
+                    <a href="/sida/gruppsida.aspx?programid=114&amp;grupp=33686" class="publication-theme ">Coronaviruset</a>
+
+                </div>
+            <div class="article-details__header-primary">
+                    <div class="article-details__heading">
+                        <div class="audio-heading">
+        <div class="audio-heading__play">
+            <button class="audio-button"
+        data-require="modules/article-playlist"
+        data-audio-queue="{&quot;audios&quot;:[{&quot;id&quot;:7571001,&quot;type&quot;:&quot;publication&quot;,&quot;publicationId&quot;:7571001},{&quot;id&quot;:7570180,&quot;type&quot;:&quot;publication&quot;,&quot;publicationId&quot;:7571001},{&quot;id&quot;:7571746,&quot;type&quot;:&quot;publication&quot;,&quot;publicationId&quot;:7571001}],&quot;title&quot;:&quot;&quot;}"
+        data-audio-type="publication"
+        data-audio-id="7571001"
+        data-start-time="0"
+        data-should-save-statkey="true"
+        aria-label="Lyssna p&#229; L&#229;ngtidssjuka Charlotte riskerar sin inkomst"
+        data-statkey="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/l&#229;ngtidssjuka charlotte riskerar sin inkomst[s(7571001)]"
+         data-publication-id="7571001">
+    <span class="play-icon">
+    <svg focusable="false" class="play-icon-play-pause__svg" viewBox="0 0 60 60">
+        <g class="play-icon-play-pause__circle play-icon--black">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-circle"></use>
+        </g>
+        <g class="play-icon-play-pause__play-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-play"></use>
+        </g>
+        <g class="play-icon-play-pause__pause-symbol play-icon--white">
+            <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-pause"></use>
+        </g>
+    </svg>
+</span>
+
+</button>
+
+        </div>
+    <div class="audio-heading__title">
+        <h1 class="heading" >L&#229;ngtidssjuka Charlotte riskerar sin inkomst</h1>
+
+            <div class="audio-heading__meta">
+                    <div class="audio-heading__meta-item">
+                        <abbr title="2:04 minuter">2:04 min</abbr>
+
+                    </div>
+                    <div class="audio-heading__meta-item audio-heading__meta-item--space">
+                        <ul class="details-button-list details-button-list--horizontal ">
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/listen-later"
+        data-checked="false"
+        data-audio-type="publication"
+        data-audio-id="7571001"
+        data-gatrackcontext="artikelsida"
+        data-remove-aria-label="Ta bort fr&#229;n Min sida"
+        data-add-aria-label="L&#228;gg till p&#229; Min sida">
+    <span class="details-button__icon details-button__icon--listen-later">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-listenlater"></use>
+</svg>
+
+        <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-check"></use>
+</svg>
+
+    </span>
+    <span class="details-button__title">
+        Min sida
+    </span>
+    <span class="details-button__title details-button__title--added">
+        Finns p&#229; Min sida
+    </span>
+</button>
+</li>
+        <li class="details-button-list__button"><button class="details-button"
+        data-require="modules/share-button"
+        data-form-url="/sida/share/article/7571001">
+    <span class="details-button__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-share"></use>
+</svg>
+</span>
+    <span class="details-button__title">
+        Dela
+    </span>
+</button>
+</li>
+</ul>
+
+                    </div>
+            </div>
+    </div>
+</div>
+
+                    </div>
+                                <div class="article-details__meta">
+                    <div class="publication-metadata">
+    <div class="publication-metadata__item">
+        Publicerat torsdag 8 oktober kl 21.30
+    </div>
+</div>
+
+                </div>
+                    <div class="article-details__preamble">
+                        <div class="publication-preamble text-editor-content publication-preamble--plain" ><ul>
+<li>Många långtidssjuka i covid-19 är oroliga för sin försörjning när de behöver vara fortsatt sjukskrivna.</li>
+<li>"Man tänker vart ska jag ta vägen?", säger Almungebon Charlotte Kerbén som nyligen blev utförsäkrad.</li>
+<li>Försäkringskassan ser svårigheter och har bett Socialstyrelsen om beslutsstöd&nbsp;för patientgruppen.</li>
+</ul></div>
+                    </div>
+            </div>
+        </header>
+        <div data-require="modules/scroll-tracking" data-action="visar[läst_artikel]">
+                                                    <div class="article-details__section">
+                    <div class="publication-text text-editor-content" ><!-- Byline --><p class="byline">Julia Burman Görans<br><a class="internal-link" href="mailto:p4uppland@sverigesradio.se" target="_self">p4uppland@sverigesradio.se</a>&nbsp;<br>018-17 40 40</p></div>
+                </div>
+        </div>
+        <div data-require="modules/scroll-tracking" data-action="visar[artikelavslut]">
+                                                                <div data-require="modules/scroll-tracking"
+                     data-visible-percentage="10"
+                     data-action="visar[relationer]">
+                    <div class="article-details__section no-padding-mobile">
+                        <div data-vue-component="publication-relations" data-json="{&quot;items&quot;:[{&quot;id&quot;:7570180,&quot;title&quot;:&quot;Inga Stenlund &#228;r en av m&#229;nga som inte blir av med covid-19&quot;,&quot;publishDate&quot;:&quot;2020-10-07&quot;,&quot;imageUrl&quot;:&quot;https://static-cdn.sr.se/images/114/cfc6b471-8def-4084-a869-410bf837303b.jpg?preset=512x288&quot;,&quot;altText&quot;:&quot;&quot;,&quot;url&quot;:&quot;/artikel/7570180&quot;,&quot;audioId&quot;:7570180,&quot;audioType&quot;:&quot;publication&quot;,&quot;audioDuration&quot;:&quot;2:00 min&quot;,&quot;audioDurationAbbr&quot;:&quot;2:00 minuter&quot;},{&quot;id&quot;:7571746,&quot;title&quot;:&quot;Svenska covidf&#246;reningen: F&#246;r&#228;ndring m&#229;ste ske&quot;,&quot;publishDate&quot;:&quot;2020-10-09&quot;,&quot;imageUrl&quot;:&quot;https://static-cdn.sr.se/images/114/4b0bf39a-6547-426b-9c9e-0f54f07b672c.jpg?preset=512x288&quot;,&quot;altText&quot;:&quot;&quot;,&quot;url&quot;:&quot;/artikel/7571746&quot;,&quot;audioId&quot;:7571746,&quot;audioType&quot;:&quot;publication&quot;,&quot;audioDuration&quot;:&quot;1:59 min&quot;,&quot;audioDurationAbbr&quot;:&quot;1:59 minuter&quot;}],&quot;title&quot;:&quot;Relaterat&quot;}"></div>
+                    </div>
+                </div>
+                                                    <div class="article-details__section print--no">
+                    <div class="keyword-publication">
+    <div class="keyword-publication__list th-border-color">
+        <ul class="keyword-list clearfix">
+        <li class="keyword-list__item"><a  href="/gruppsida.aspx?programid=114&amp;grupp=33686" data-clickable-content="link" data-stat-key="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/l&#229;ngtidssjuka charlotte riskerar sin inkomst[s(7571001)]" data-stat-action="klick_artikel_grupptagg" data-require="modules/google-analytics-click-handler" class="tag-button" >Coronaviruset i Uppland</a></li>
+</ul>
+    </div>
+</div>
+                </div>
+                    </div>
+
+            <div class="global-fixed-height--app-banner app-banner print--no">
+        <div data-vue-component="app-banner"></div>
+    </div>
+
+
+    </div>
+    
+    <footer class="article-details__footer">
+            <div class="article-details__section article-details__section--no-padding article-details__section--no-margin print--no">
+                <div class="disclaimer-box disclaimer-box--large">
+    <div class="disclaimer-box__inner">
+        <div class="disclaimer-box__text">
+            <span class="text__block" >Grunden i v&#229;r journalistik &#228;r trov&#228;rdighet och opartiskhet. Sveriges Radio &#228;r oberoende i f&#246;rh&#229;llande till politiska, religi&#246;sa, ekonomiska, offentliga och privata s&#228;rintressen.</span>
+        </div>
+
+            <div class="disclaimer-box__link"><a class="internal-link-with-icon" href="/artikel/6709370">
+    L&#228;s g&#228;rna mer om hur vi bedriver v&#229;rt arbete.
+    <span class="internal-link-with-icon__icon">
+        <svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-arrowright"></use>
+</svg>
+
+    </span>
+</a>
+
+</div>
+            </div>
+</div>
+
+            </div>
+    </footer>
+</article>
+
+</div>
+    <div class="article-and-flow__flow">
+        <div data-require="modules/ajaxloader" data-content-url="/artikel/flow?unitid=114&amp;page=1&amp;artikel=7571001" data-delay-scroll="true" class="print--no">
+            <div class="ajax-target"></div>
+        </div>
+    </div>
+
+    </div>
+
+        </div>
+
+            <aside class="two-col__aside two-col__aside--bottom nocontent">
+                
+    <div data-require="modules/ajaxloader" data-content-url="/sida/ajax/aside?unitid=114&amp;statkey=%2Fsr%2Fprgsida%2Fp4%20uppland%5Bk%28218%29%5D%2Fp4%20uppland%5Bp%28114%29%5D%2Fl%C3%A5ngtidssjuka%20charlotte%20riskerar%20sin%20inkomst%5Bs%287571001%29%5D">
+    <div class="ajax-target"></div>
+</div>
+
+
+            </aside>
+    </div>
+
+        <section class="sr-page__bottom nocontent print--no">
+            
+    
+<div id="unit-footer" class="program-footer has-contact-info" data-statkey="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]" data-require="modules/page-footer-click-tracker" dir="ltr">
+    <div class="program-footer__image-wrapper">
+            <div class="image image--default">
+        <img src="/dist/images/onepixel.gif" data-src="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=768x432" class="program-footer__image lazyload"  alt="" />
+    </div>
+    <noscript>
+        <img src="https://static-cdn.sr.se/images/114/62f2c878-8743-4535-b9bc-5c0766324c2b.jpg?preset=768x432" class="program-footer__image"  alt="" />
+    </noscript>
+
+    </div>
+
+    <div class="program-footer__info th-bg-color-dark">
+        <div class="program-footer__heading">
+            <h1 class="heading" >Om P4 Uppland</h1>
+        </div>
+        <p class="teaser-text teaser-text--inverted" >P4 Uppland ger dig lokala nyheter, viktiga samh&#228;llsfr&#229;gor och underh&#229;llning. Vi granskar makten, bevakar sporten och f&#246;ljer kulturlivet.</p>
+    </div>
+
+    <div class="program-footer__links">
+            <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >E-post</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  href="mailto:p4uppland@sverigesradio.se" class="sr-btn sr-btn--icon sr-btn--svg sr-btn--text-ellipsis" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-email"></use>
+</svg>
+</span><span class="sr-btn__label" >p4uppland@sverigesradio.se</span></a>
+
+        </li>
+</ul>
+            </div>
+                    <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >F&#246;lj via</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Facebook" href="https://www.facebook.com/P4Uppland" data-stat-action="f&#246;lj_program[facebook]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-facebook"></use>
+</svg>
+</span><span class="sr-btn__label" >Facebook</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Twitter" href="https://twitter.com/p4uppland" data-stat-action="f&#246;lj_program[twitter]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-twitter"></use>
+</svg>
+</span><span class="sr-btn__label" >Twitter</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  title="F&#246;lj P4 Uppland p&#229; Instagram" href="https://instagram.com/p4uppland" data-stat-action="f&#246;lj_program[instagram]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-instagram"></use>
+</svg>
+</span><span class="sr-btn__label" >Instagram</span></a>
+
+        </li>
+</ul>
+            </div>
+                    <div class="program-footer__link-item">
+                <h2 class="header-label header-label--bold th-color-dark" >Prenumerera</h2>
+<ul class="button-list">
+        <li class="button-list__item">
+            <a  href="//api.sr.se/api/rss/pod/3788" target="_blank" rel="noopener" data-stat-action="f&#246;lj_program[poddradio_xml]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-podcast"></use>
+</svg>
+</span><span class="sr-btn__label" >Poddradio(xml)</span></a>
+
+        </li>
+        <li class="button-list__item">
+            <a  href="//api.sr.se/api/rss/program/114" target="_blank" rel="noopener" data-stat-action="f&#246;lj_program[rss]" class="sr-btn sr-btn--icon sr-btn--svg" ><span class="sr-btn__icon-container sr-btn__icon-container--svg" ><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-rss"></use>
+</svg>
+</span><span class="sr-btn__label" >RSS(text)</span></a>
+
+        </li>
+</ul>
+<a href="/gruppsida.aspx?programid=2332&amp;grupp=17024" class="caption caption--link">Hj&#228;lp med att prenumerera</a>
+            </div>
+    </div>
+</div>
+
+
+        </section>
+</main>
+
+
+        </div>
+        <div class="print--no">
+<div class="container">
+    <div class="support-info">
+        <div class="support-info__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-support"></use>
+</svg>
+</div>
+        <div class="support-info__text-wrapper">
+            <span class="support-info-header" >Har du fr&#229;gor eller f&#246;rslag g&#228;llande v&#229;ra webbtj&#228;nster?</span>
+            <p class="paragraph" >Kontakta g&#228;rna Sveriges Radios supportforum d&#228;r vi besvarar dina fr&#229;gor vardagar kl. 9-17.</p>
+        </div>
+        <div class="support-info__link"><a class="external-link-with-icon" href="https://kundo.se/org/sverigesradio/">
+    Bes&#246;k v&#229;rt supportforum<span class="external-link-with-icon__icon"><svg focusable="false" class="svg-sprite-icon  ">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-external"></use>
+</svg>
+</span>
+</a>
+
+</div>
+    </div>
+</div>
+            <footer class="global-footer nocontent">
+    <div class="global-footer__logo-wrapper">
+        <a href="/" class="global-footer__logo">
+            <span class="offscreen">Till startsidan</span>
+            <svg focusable="false" class="svg-sprite-icon svg-sprite-icon--fill-white svg-sprite-icon--stroke-">
+    <use xlink:href="/dist/svg-sprite-dcf38258b6b033e2.svg#sprite-sverigesradio"></use>
+</svg>
+
+        </a>
+    </div>
+    <div class="global-footer__back-to-top">
+        <a href="#topp" class="back-to-top" role="button" data-require="modules/scroll-to-top">
+            Tillbaka till toppen
+        </a>
+    </div>
+    <div class="global-footer__link-row">
+        <a href="/sida/default.aspx?programid=3113" class="global-footer__link">
+            Om företaget
+        </a>
+
+        <a href="/press" class="global-footer__link">
+            Pressinformation
+        </a>
+
+        <a href="https://karriar.sverigesradio.se/" target="_blank" rel="noopener" class="global-footer__link">
+            Jobba hos oss
+        </a>
+
+        <a href="/sverigesradiobloggen" class="global-footer__link">
+            Sveriges Radio-bloggen
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=1971594" class="global-footer__link">
+            Kontakta oss
+        </a>
+    </div>
+    <div class="global-footer__link-row">
+        <a href="https://www.teracom.se/privat/radio/" class="global-footer__link">
+            Frekvenser
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3756&amp;artikel=4771512" class="global-footer__link">
+            Om cookies
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=6956074" class="global-footer__link">
+            Om personuppgifter
+        </a>
+
+        <a href="https://kundo.se/org/sverigesradio/" class="global-footer__link">
+            Supportforum
+        </a>
+
+        <a href="/sida/artikel.aspx?programid=3756&amp;artikel=5885532" class="global-footer__link">
+            Om webbplatsen
+        </a>
+
+        <a href="/sida/sajtkarta.aspx" class="global-footer__link">
+            Sajtkarta
+        </a>
+    </div>
+    <div class="global-footer__legal-info">
+        <div class="global-footer__legal-info__primary-content">
+
+            <p class="global-footer__copyright copyright">Copyright Sveriges Radio 2020</p>
+
+                <span class="global-footer__legal-info__separator"></span>
+                <p class="global-footer__editor editor">Ansvarig utgivare: Alisa Bosnic</p>
+        </div>
+
+        <p>
+            Besöksadress (sthlm) för Sveriges Radio AB - Oxenstiernsgatan 20 - 10510 Stockholm - växel:
+            <a class="global-footer__link global-footer__link--thin" href="tel:+4687845000">
+                08-784 50 00
+            </a>
+        </p>
+
+        <a href="/sida/artikel.aspx?programid=3113&amp;artikel=2025794" class="global-footer__link global-footer__link--thin">
+            Fler besöksadresser
+        </a>
+    </div>
+</footer>
+
+        </div>
+
+<div class="offscreen" data-require="modules/sifo" data-orvesto-channel-name="p4-uppland" aria-hidden="true"></div>
+
+        
+    </div>
+
+    <script src="/dist/vendors-embed-site-abc0852e.js" async></script><script src="/dist/embed-site-3751b655.js" async></script><script src="/dist/site-d56744d9.js" async></script>
+
+    <script type="text/javascript">
+        function isOldBrowser() {
+            if (Object.freeze === undefined) return true;
+            return false;
+        }
+
+        if (isOldBrowser()) {
+            var lightbox = document.getElementById('user-message-legacy');
+            lightbox.style.display = 'block';
+        }
+    </script>
+</div>
+
+<div id="player-container" class="print--no player-container">
+    <div data-global-vue-component="site-app" data-hide-player="False"></div>
+</div>
+
+    <img id="topsy-publication" src="//sverigesradio.se/topsy/publicering/114/7571001.gif?ref=https%3a%2f%2fsverigesradio.se%2fartikel%2f7571001" alt="" />
+
+        <!-- Page generated ok -->
+    <span class="page-render-timestamp hidden" data-timestamp="2020-10-14 20:40:15"></span>
+    <input type="hidden" id="ga-stat-key" value="/sr/prgsida/p4 uppland[k(218)]/p4 uppland[p(114)]/l&#229;ngtidssjuka charlotte riskerar sin inkomst[s(7571001)]" />
+
+    <input type="hidden" id="api-url" value="//api.sr.se/" />
+<input type="hidden" id="topsy-url" value="//sverigesradio.se/" />
+<input type="hidden" id="embed-url" value="//embed.sr.se/" />
+<input type="hidden" id="is-hls-enabled" value="true" />
+<input type="hidden" id="svg-sprite-name" value="/dist/svg-sprite-dcf38258b6b033e2.svg" />
+
+</body>
+</html>

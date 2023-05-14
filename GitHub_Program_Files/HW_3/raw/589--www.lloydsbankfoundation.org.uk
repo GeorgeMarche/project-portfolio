@@ -1,0 +1,666 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml"; xmlns:fb="https://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Lloyds Bank Foundation</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="googlebot" content="NOODP" />
+            <link rel="canonical" href="https://www.lloydsbankfoundation.org.uk" />
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="Lloyds Bank Foundation">
+    <meta property="og:description" content="We partner with small and local charities across England and Wales, helping people overcome complex social issues.">
+    <meta property="og:url" content="https://www.lloydsbankfoundation.org.uk">
+    <meta name="twitter:title" content="Lloyds Bank Foundation">
+    <meta name="twitter:description" content="We partner with small and local charities across England and Wales, helping people overcome complex social issues.">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    
+        <meta property="og:image" content="https://www.lloydsbankfoundation.org.uk//media/paalaep2/home-page_700x350px-tile_asylum-seekers-and-refugees.jpg?center=0.39,0.67333333333333334&amp;mode=crop&amp;width=1200&amp;height=630&amp;rnd=132406830938030000">
+        <meta name="twitter:image" content="https://www.lloydsbankfoundation.org.uk//media/paalaep2/home-page_700x350px-tile_asylum-seekers-and-refugees.jpg?center=0.39,0.67333333333333334&amp;mode=crop&amp;width=600&amp;height=400&amp;rnd=132406830938030000">
+    
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+    
+
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicons/favicon.ico" />
+
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5BC93W9');</script>
+<!-- End Google Tag Manager -->    
+</head>
+<body>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BC93W9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <div class="search-bar">
+    <div class="wrap wrap-small">
+        <form method="get" action="/search-results">
+            <div class="form-item">
+                <input type="search" name="q" placeholder="Search..."/>
+            </div>
+            <div class="js-close-search close-search">
+                <span></span>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Fixed only needs adding when a sub navigation item is active -->
+<header class="">
+    <div class="wrap wrap-large">
+        <div class="top">
+            <a href="/" class="logo">
+                <img src="/assets/images/logo.svg" alt="Logo" title="Home">
+            </a>
+            <div class="links">
+                <ul class="social">
+                    <li><a href="https://www.facebook.com/lloydsbankfoundation" class="facebook"><img src="/assets/images/facebook-logo.svg" alt="F" title="Facebook"></a></li>
+                    <li><a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=LBFEW" class="twitter"><img src="/assets/images/twitter-logo.svg" alt="T" title="Twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/company/lloyds-bank-foundation/" class="linkedin"><img src="/assets/images/linkedin-logo.svg" alt="In" title="LinkedIn"></a></li>
+                    <li><a href="#" class="search js-search-bar"><img src="/assets/images/search.svg" alt="S" title="Search"></a></li>
+                </ul>
+                <ul class="navigation">
+                    <li><a href="https://www.lloydsbankfoundation.org.uk/about-us/contact-us">Get in touch</a></li>
+                    <li><a href="https://lloydsbankfoundationcommunity.force.com/charities">Charity Login</a></li>
+                </ul>
+            </div>
+            <div class="mobile-menu js-toggle-menu">
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <nav>
+        <div class="wrap wrap-large">
+            <ul>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/we-fund">We Fund</a>
+
+
+                    </li>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/we-develop">We Develop</a>
+
+
+                            <span class="js-toggle-children"></span>
+                            <ul>
+                                    <li>
+                                        <a href="/we-develop/support-for-charities">Support for Charities</a>
+                                    </li>
+                                    <li>
+                                        <a href="/we-develop/useful-resources">Useful Resources</a>
+                                    </li>
+                                    <li>
+                                        <a href="/we-develop/transforming-and-strengthening-services">Transforming and Strengthening Services</a>
+                                    </li>
+                                    <li>
+                                        <a href="/we-develop/learning-and-networks">Learning and Networks</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/we-influence">We Influence</a>
+
+
+                            <span class="js-toggle-children"></span>
+                            <ul>
+                                    <li>
+                                        <a href="/we-influence/our-research">Our Research</a>
+                                    </li>
+                                    <li>
+                                        <a href="/we-influence/influencing-policy">Influencing Policy</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/covid-19">COVID-19</a>
+
+
+                    </li>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/our-impact">Our Impact</a>
+
+
+                            <span class="js-toggle-children"></span>
+                            <ul>
+                                    <li>
+                                        <a href="/our-impact/success-stories">Success Stories</a>
+                                    </li>
+                                    <li>
+                                        <a href="/our-impact/impact-reports">Impact Reports</a>
+                                    </li>
+                                    <li>
+                                        <a href="/our-impact/who-we-support">Who We Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="/our-impact/news-and-blogs">News and Blogs</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <!-- ADD class 'showing' to the LI to have the child pages (Support for charities, Useful resources, Developing the sector) showing constantly -->
+                    <li>
+                        <a href="/about-us">About Us</a>
+
+
+                            <span class="js-toggle-children"></span>
+                            <ul>
+                                    <li>
+                                        <a href="/about-us/our-strategy">Our Strategy</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us/development-partner">Development Partner</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us/our-mission-and-values">Our Mission and Values</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us/meet-us">Meet Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us/work-for-us">Work for us</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-us/contact-us">Contact us</a>
+                                    </li>
+                            </ul>
+                    </li>
+            </ul>
+            <div class="mobile-only">
+                <form method="get" action="/search-results">
+                    <div class="form-item">
+                        <input type="search" name="q" placeholder="Search..." />
+                    </div>
+                    <div class="js-close-search close-search">
+                        <span></span>
+                    </div>
+                </form>
+                <ul class="navigation">
+                    <li><a href="#">Get in touch</a></li>
+                    <li><a href="/sitemap">Sitemap</a></li>
+                </ul>
+                <ul class="social">
+                    <li><a href="https://www.facebook.com/lloydsbankfoundation" class="facebook"><img src="/assets/images/facebook-logo.svg" alt="F" title="Facebook"></a></li>
+                    <li><a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=LBFEW" class="twitter"><img src="/assets/images/twitter-logo.svg" alt="T" title="Twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/company/lloyds-bank-foundation/" class="linkedin"><img src="/assets/images/linkedin-logo.svg" alt="In" title="LinkedIn"></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+    <main id="home">
+        
+
+
+    <section class="cover green" style="background-image: url(/media/3ohhyvpm/home-page_1920x450px-header_refugee-women-connect.jpg?center=0.36977777777777776,0.765&amp;mode=crop&amp;width=1400&amp;rnd=132174289285000000);" js-load-cover>
+        <div class="wrap wrap-large">
+            <div class="phoneimage"></div>
+                <div class="content">
+        <h1>Lloyds Bank Foundation</h1>
+        <p>We partner with small and local charities across England and Wales, helping people overcome complex social issues.</p>
+    </div>
+
+                <div class="play">
+                    <span class="js-play-video video-icon" data-content="//player.vimeo.com/video/336071047?color=ffffff"></span>
+                </div>
+        </div>
+    </section>
+    <style>
+        @media screen and (max-width:600px) {
+            .cover {
+                background-image:none!important;
+            }
+            .cover .phoneimage {
+                width:auto;
+                height:300px;
+                background-image:url(/media/3ohhyvpm/home-page_1920x450px-header_refugee-women-connect.jpg?center=0.36977777777777776,0.765&mode=crop&width=800&height=600&rnd=132174289285000000)!important;
+                background-position:center top;
+                background-size:cover;
+            }
+                section.cover .wrap .content {
+                    margin-top:0;
+
+                }
+            .video-icon {
+                top: calc(50% - 1.1rem);
+                left: calc(50% - 2.8rem);
+            }
+        }
+    </style>
+
+
+
+<section class="padded-medium" js-load-element-in>
+    <div class="wrap wrap-large">
+        <h2 class="with-skew">Who We Are</h2>
+        
+<div class="content-with-image">
+    <div class="wrapper">
+        <div class="image" js-load-element>
+            <img src="/media/fszbqmwz/700x400px-body_value-of-small.jpg?anchor=center&amp;mode=crop&amp;width=650&amp;height=360&amp;rnd=132161480039200000" alt="" />
+        </div>
+        <div class="content content-styled" js-load-element>
+            <p>We’re an independent charitable trust funded by the profits of Lloyds Banking Group. We partner with small and local charities with an annual income of £25k - £1million helping people overcome complex social issues such as mental health, homelessness and domestic abuse.</p>
+<p>Through core cost <a href="/we-fund" title="We Fund">funding</a>, <a href="/we-develop" title="We Develop">developmental support</a> and <a href="/we-influence" title="We Influence">influencing</a> policy and practice, we help those charities make life-changing impact.</p>
+<p><em><strong>Applications for the COVID Recovery Fund are now closed. <br /><br /></strong>Find out more about <a href="/covid-19/covid" title="Covid-19 Support">our response to COVID-19</a>. Last updated 11 September 2020 | </em><a href="/our-impact/news-and-blogs/paul-streets-supporting-charities-covid19" title="Paul Streets Supporting Charities COVID19">Paul Streets: Our thinking and approach</a></p>
+        </div>
+    </div>
+</div>
+    </div>
+</section>
+
+<section class="padded-medium" js-load-element-in>
+    <div class="wrap wrap-large">
+        <h2 class="with-skew"></h2>
+        <div class="sub-title"><p>We work in partnership with the charities we fund and others who share our vision. We listen, understand and respond to charities, through funding and providing developmental support we help them grow stronger and more sustainable. We influence policy and practice to help charities thrive in the future and to address the root causes and consequences of complex social issues.</p></div>
+    </div>
+    <div class="content-grid coloured-background desktop-three-wide tablet-two-wide tablet-padding-small mobile-one-wide">
+        <div class="wrap wrap-medium">
+            
+<div class="items padded-medium">
+        <a class="item green" href="/we-fund/addiction-and-dependency" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/jm3dyxs0/we-fund-csi_700x350px-grid-dependency.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132163064601730000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Addiction and Dependency</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/asylum-seekers-and-refugees" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/jinpj1q5/we-fund-csi_700x350px-grid-asylum-seekers.jpg?center=0.34666666666666668,0.55&amp;mode=crop&amp;width=600&amp;rnd=132406832766800000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Asylum Seekers and Refugees</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/care-leavers" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/5xigibcu/we-fund-csi_700x350px-grid-care-leavers.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132163064858600000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Care Leavers</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/domestic-abuse" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/vrwid5vu/home-page_700x350px-tile_domestic-abuse.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132194298320600000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Domestic Abuse</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/homeless-and-vulnerably-housed" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/eq5egilu/we-fund-csi_700x350px-grid-homelessness.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132163076148930000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Homeless and Vulnerably Housed</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/learning-disabilities" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/nk0hwqff/we-fund-csi_700x350px-grid-learning-disabilities.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132163093112800000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Learning Disabilities</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/mental-health" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/vzyb400g/we-fund-csi_700x350px-grid-mental-health.jpg?center=0.49,0.60666666666666669&amp;mode=crop&amp;width=600&amp;rnd=132181454613030000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Mental Health</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/offending-prison-or-community-service" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/ukpg21mk/we-fund-csi_700x350px-grid-offenders.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132163144773630000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Offending, Prison or Community Service</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/racial-equity" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/cwaghmc0/we-fund-csi_700x350px-grid-racial-equity_v2.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132406015508930000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Racial Equity</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/sexual-abuse-and-exploitation" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/4ivhkglp/home-page_700x350px-tile_sexual-abuse-and-exploitation.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132173382090400000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Sexual Abuse and Exploitation</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/trafficking-and-modern-slavery" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/rjflqut3/we-fund-csi_700x350px-grid-trafficking.jpg?center=0.49,0.35166666666666668&amp;mode=crop&amp;width=600&amp;rnd=132181454763030000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Trafficking and Modern Slavery</p>
+            </div>
+        </a>
+        <a class="item green" href="/we-fund/young-parents" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/suiifhkp/we-fund-csi_700x350px-grid-young-parents.jpg?center=0.48333333333333334,0.57833333333333337&amp;mode=crop&amp;width=600&amp;rnd=132181454812730000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Young Parents</p>
+            </div>
+        </a>
+</div>
+        </div>
+    </div>
+</section>
+
+<section class="padded-medium" js-load-element-in>
+    <div class="wrap wrap-large">
+        <h2 class="with-skew">More than just funders</h2>
+        <p class="sub-title">Small charities’ size and understanding of the people and local communities means they’re able to make life-changing impact where others can’t. But they are under-funded, under pressure and too often ignored. That’s why we’re more than just a funder — we work in partnership with the charities we fund and others who share our vision.</p>
+    </div>
+    <div class="content-grid grey-background desktop-three-wide tablet-three-wide reduced-space">
+        <div class="wrap wrap-large">
+            
+<div class="items padded-medium" id="390d86a2-f50d-4c32-9ed4-00c9d48b637f">
+            <a class="item green" href="/we-influence/our-research" js-load-element>
+                    <div class="image-wrapper showing-stat">
+            <div class="skew">
+                <div class="stat has-icon no-text">
+                        <div class="icon" style="background-image: url(/media/idcpxq0v/group-2573-2x.png?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132138945252770000);"></div>
+                                    </div>
+            </div>
+    </div>
+    <div class="content content-styled showing-stat">
+            <h4><span>Our Research</span></h4>
+            </div>
+
+            </a>
+            <a class="item orange" href="/we-influence/influencing-policy" js-load-element>
+                    <div class="image-wrapper showing-stat">
+            <div class="skew">
+                <div class="stat has-icon no-text">
+                        <div class="icon" style="background-image: url(/media/loudj1fi/group-2572-2x.png?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132138945241070000);"></div>
+                                    </div>
+            </div>
+    </div>
+    <div class="content content-styled showing-stat">
+            <h4><span>Policy Work</span></h4>
+            </div>
+
+            </a>
+            <a class="item blue" href="/we-develop/useful-resources" js-load-element>
+                    <div class="image-wrapper showing-stat">
+            <div class="skew">
+                <div class="stat has-icon no-text">
+                        <div class="icon" style="background-image: url(/media/du1nvhgf/path-1189-2x.png?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132138945302000000);"></div>
+                                    </div>
+            </div>
+    </div>
+    <div class="content content-styled showing-stat">
+            <h4><span>Resources for Charities</span></h4>
+            </div>
+
+            </a>
+</div>
+
+
+        </div>
+    </div>
+</section>
+
+
+
+    <section class="quote image-right margin-large">
+        <div class="wrap wrap-large">
+            <div class="image" style="background-image: url(/media/xmzio0z0/home-page_400x400px-quote-tile_kairos.jpg?anchor=center&amp;mode=crop&amp;width=500&amp;rnd=132161479910930000);"></div>
+            <div class="content">
+                <p>Our work is based on trust and relationships, so it takes months or even years. Other funders often want to see transformation within 12 months, but life isn’t like that. When we meet our service users they’re in crisis or survival mode. They aren’t ready to talk about change immediately. It takes years to deal with a lifetime of abuse, trauma and addiction and rebuild lives. We’re very fortunate that Lloyds Bank Foundation understand that and is willing to fund it all.</p>
+                    <h5>Rosie Hart, Director, Kairos Women Working Together</h5>
+            </div>
+        </div>
+    </section>
+
+<section class="padded-medium" js-load-element-in>
+    <div class="wrap wrap-large">
+        <h2 class="with-skew">Life-changing impact </h2>
+        <div class="sub-title"><p>We support over 700 small and local charities across England and Wales. Find out more about how they’re helping people overcome complex social issues and rebuild their lives.</p></div>
+    </div>
+    <div class="content-grid coloured-background desktop-three-wide tablet-three-wide tablet-padding-small mobile-one-wide reduced-space">
+        <div class="wrap wrap-medium">
+            
+<div class="items padded-medium">
+        <a class="item green" href="/our-impact/success-stories" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/nvohelcs/home-page_700x350px-tile_case-studies.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132161480186230000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Success Stories</p>
+            </div>
+        </a>
+        <a class="item orange" href="/our-impact/who-we-support" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/h0ag3dc1/home-page_700x350px-tile_what-we-ve-funded.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132161480189370000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Who We Support</p>
+            </div>
+        </a>
+        <a class="item blue" href="/our-impact/impact-reports" js-load-element>
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/n4lpxc2a/home-page_700x350px-tile_impact-report-3.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132183028610930000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Impact Reports</p>
+            </div>
+        </a>
+</div>
+        </div>
+    </div>
+</section>
+
+
+
+    <section class="quote image-right margin-large">
+        <div class="wrap wrap-large">
+            <div class="image" style="background-image: url(/media/kc5nc0nj/home-page_quote_bath-city-farm.jpg?anchor=center&amp;mode=crop&amp;width=500&amp;rnd=132193502870230000);"></div>
+            <div class="content">
+                <p>I don’t know what I would’ve done without Bath City Farm. I have no family and when I first came I felt like I’d landed at an airport full of friendly strangers. Now, they’re like a new family. We’re all different but share a similar positive attitude. I’ve done lots of courses here and spend a lot of time gardening. I love it.</p>
+                    <h5>Russell from Bath City Farm, a charity supported by Lloyds Bank Foundation </h5>
+            </div>
+        </div>
+    </section>
+
+<section class="keep-up-to-date padded-medium-top">
+    <div class="wrap wrap-large">
+        <h2 class="with-skew">Stay up to date</h2>
+    </div>
+    <div class="background--desktop-half background--tablet-half background--mobile-full ">
+    <div class="content-grid news-articles tablet-three-wide reduced-space">
+        <div class="wrap wrap-large">
+            
+
+<div class="items padded-medium" js-load-element>
+        <a class="item" href="/our-impact/news-and-blogs/11-simple-way-to-prevent-burnout">
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/gloh1jt4/bench.jpg?anchor=center&amp;mode=crop&amp;width=600&amp;rnd=132466521463000000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>With World Mental Health Day 2020 as our backdrop, consultancy firm Bird offer tips and reflectio...</p>
+                <p class="read-more"><span>Read more</span></p>
+            </div>
+        </a>
+        <a class="item" href="/our-impact/news-and-blogs/supporting-lloyds-bank-foundation-on-a-racial-equity-journey">
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" xlink:href="/media/g4ijz0xo/bonnie-and-ngozi.png?center=0.51875,0.70166666666666666&amp;mode=crop&amp;width=600&amp;rnd=132459568834970000" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>For a very long time, the foundation sector has generally taken an equality lens. Here, Bonnie an...</p>
+                <p class="read-more"><span>Read more</span></p>
+            </div>
+        </a>
+        <a class="item" href="/our-impact/news-and-blogs/danny-kruger-report-response">
+            <div class="image-wrapper">
+                    <svg class="svg-graphic" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                        <g><clipPath id="hex-mask"><polygon points="0 360,500 360,600 0,0 0"></polygon></clipPath></g>
+                        <image clip-path="url(#hex-mask)" height="100%" width="100%" preserveAspectRatio="xMidYMin slice"></image>
+                    </svg>
+            </div>
+            <div class="content">
+                <p>Our response to Danny Kruger&#39;s report: The report is welcome, we now urge the government not to d...</p>
+                <p class="read-more"><span>Read more</span></p>
+            </div>
+        </a>
+</div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+<section class="newsletter padded-large">
+    <div class="wrap wrap-large">
+        <div class="left">
+            <h3><a href="http://eepurl.com/dsQbS5" target="_blank" rel="noreferrer">Sign up to our newsletter</a></h3>
+            <p class="sub-title"><a href="http://eepurl.com/dsQbS5" target="_blank" rel="noreferrer">Receive monthly updates on what we&rsquo;ve been up to, what we have planned, news from the sector and access to free and helpful resources</a></p>
+        </div>
+        <div class="right">
+            <h3>Follow us</h3>
+            <ul class="social">
+                    <li><a href="https://www.facebook.com/lloydsbankfoundation" class=""><img src="/media/uyzk3euw/group-3188-2x.png" alt="" title="Facebook"></a></li>
+                    <li><a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=LBFEW" class=""><img src="/media/h4yfts2n/group-3187-2x.png" alt="" title="Twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/company/lloyds-bank-foundation/" class=""><img src="/media/tvph5lhd/group-3189-2x.png" alt="" title="LinkedIn"></a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+    </main>
+    <footer class="padded-medium">
+    <div class="wrap wrap-large">
+        <h4>©2020 <span>Lloyds Bank Foundation and its suppliers. All rights reserved.</span></h4>
+
+        <p>Company Limited by Guarantee. Registered Number 1971242. Registered Charity Number 327114.</p>
+<p>Registered Office Pentagon House, 52-54 Southwark Street, London SE1 1UN.</p>
+
+            <ul class="links">
+                    <li>
+                        <a href="/about-us/terms-and-conditions">Terms and Conditions</a>
+                    </li>
+                    <li>
+                        <a href="/about-us/copyright">Copyright</a>
+                    </li>
+                    <li>
+                        <a href="/about-us/privacy-and-data-protection">Privacy and Data Protection</a>
+                    </li>
+            </ul>
+
+        <ul class="contact">
+                <li>
+                    <a href="tel:03704111223"><img src="/assets/images/phone.png" /><span>0370 411 1223 </span></a>
+                </li>
+                            <li>
+                    <a href="mailto:enquiries@lloydsbankfoundation.org.uk"><img src="/assets/images/email.png" /><span>enquiries@lloydsbankfoundation.org.uk</span></a>
+                </li>
+        </ul>
+
+        <h4 class="wpnc">Website designed and developed by <a href="https://wpnc.agency" target="_blank" title="WPNC">WPNC</a></h4>
+
+            <img src="/media/x01n50eg/living-wage-funder.png" alt="" class="large large-0" />
+            <img src="/media/hg2ffmym/charity-awards-2019-winner.png" alt="" class="large large-1" />
+    </div>
+</footer>
+    <div class="modal-popup js-model">
+        <iframe width="825" height="472" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="close js-close-modal">Close</div>
+    </div>
+    
+    <div class="cookie-popup js-cookie" data-timeout="30">
+        <div class="wrap wrap-medium">
+            <h5>Cookies</h5>
+            <p>
+                By continuing to browse our site you’re agreeing to our use of cookies. For more info on what cookies are, and how we use them, <a href="/about-us/privacy-and-data-protection/">click here</a>.
+            </p>
+            <div class="form-item">
+                <a href="#" class="accept button yellow">Accept cookies</a>
+            </div>
+        </div>
+    </div>
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d88d470753237f9"></script>
+
+    <script src="/assets/js/partials/jquery.min.js"></script>
+    <script src="/assets/js/partials/jquery.validate.min.js"></script>
+    <script src="/assets/js/partials/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/assets/js/script.js"></script>
+    
+</body>
+</html>

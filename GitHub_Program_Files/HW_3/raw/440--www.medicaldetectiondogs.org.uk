@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.medicaldetectiondogs.org.uk/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://www.medicaldetectiondogs.org.uk';var et_post_id='55';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><script id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":false,"sys":[]};!function(){"use strict";!function(){window.DiviArea=window.DiviPopup={loaded:!1};var n=window.DiviArea,i=n.Hooks={},t={};function o(n,i,o){var e,r,c;if("string"==typeof n)if(t[n]){if(i)if((e=t[n])&&o)for(c=e.length;c--;)(r=e[c]).callback===i&&r.context===o&&(e[c]=!1);else for(c=e.length;c--;)e[c].callback===i&&(e[c]=!1)}else t[n]=[]}function e(n,i,o,e){if("string"==typeof n){var r={callback:i,priority:o,context:e},c=t[n];c?(c.push(r),c=function(n){var i,t,o,e,r=n.length;for(e=1;e<r;e++)for(i=n[e],t=e;t>0;t--)(o=n[t-1]).priority>i.priority&&(n[t]=o,n[t-1]=i);return n}(c)):c=[r],t[n]=c}}function r(n,i,o){var e,r;for("string"==typeof i&&(i=[i]),e=0;e<i.length;e++){var c=t[i[e]],f=!1,a=void 0;if(c){var l=c.length;for(r=0;r<l;r++)if(c[r])if("filter"===n)void 0!==(a=c[r].callback.apply(c[r].context,o))&&(o[0]=a);else{if(!c[r]||"function"!=typeof c[r].callback)return!1;c[r].callback.apply(c[r].context,o)}else f=!0;if(f)for(r=l;r--;)c[r]||c.splice(r,1)}}if("filter"===n)return o[0]}i.silent=function(){return i},n.removeFilter=i.removeFilter=function(n,i){o(n,i)},n.removeAction=i.removeAction=function(n,i){o(n,i)},n.applyFilters=i.applyFilters=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];return r("filter",n,i)},n.doAction=i.doAction=function(n){for(var i=[],t=arguments.length-1;t-- >0;)i[t]=arguments[t+1];r("action",n,i)},n.addFilter=i.addFilter=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addAction=i.addAction=function(n,i,t,o){e(n,i,parseInt(t||10,10),o||window)},n.addActionOnce=i.addActionOnce=function(n,i,t,r){e(n,i,parseInt(t||10,10),r||window),e(n,(function(){o(n,i)}),1+parseInt(t||10,10),r||window)}}()}();
+</script>
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Welcome to Medical Detection Dogs - Medical Detection Dogs</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.medicaldetectiondogs.org.uk/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Welcome to Medical Detection Dogs - Medical Detection Dogs" />
+	<meta property="og:url" content="https://www.medicaldetectiondogs.org.uk/" />
+	<meta property="og:site_name" content="Medical Detection Dogs" />
+	<meta property="article:modified_time" content="2020-09-15T14:32:10+00:00" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.medicaldetectiondogs.org.uk/#website","url":"https://www.medicaldetectiondogs.org.uk/","name":"Medical Detection Dogs","description":"Dogs saving lives","potentialAction":[{"@type":"SearchAction","target":"https://www.medicaldetectiondogs.org.uk/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.medicaldetectiondogs.org.uk/#webpage","url":"https://www.medicaldetectiondogs.org.uk/","name":"Welcome to Medical Detection Dogs - Medical Detection Dogs","isPartOf":{"@id":"https://www.medicaldetectiondogs.org.uk/#website"},"datePublished":"2015-10-29T13:54:23+00:00","dateModified":"2020-09-15T14:32:10+00:00","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.medicaldetectiondogs.org.uk/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link href="https://app.ecwid.com" rel="preconnect" crossorigin />
+<link href="https://ecomm.events" rel="preconnect" crossorigin />
+<link href="https://d1q3axnfhmyveb.cloudfront.net" rel="preconnect" crossorigin />
+<link href="https://dqzrr9k4bjpzk.cloudfront.net" rel="preconnect" crossorigin />
+<link href="https://d3j0zfs7paavns.cloudfront.net" rel="preconnect" crossorigin>
+<link rel="prefetch" href="https://app.ecwid.com/script.js?6506067&data_platform=wporg&lang=en" />
+<link rel="prerender" href="https://www.medicaldetectiondogs.org.uk/store/" />
+<link rel='dns-prefetch' href='//www.medicaldetectiondogs.org.uk' />
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Medical Detection Dogs &raquo; Feed" href="https://www.medicaldetectiondogs.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Medical Detection Dogs &raquo; Comments Feed" href="https://www.medicaldetectiondogs.org.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi Child v.0.1" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.medicaldetectiondogs.org.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwid-css-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/ecwid-shopping-cart/css/frontend.css?ver=6.10.6' type='text/css' media='all' />
+<link rel='stylesheet' id='vfb-pro-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/vfb-pro/public/assets/css/vfb-style.min.css?ver=2019.05.10' type='text/css' media='all' />
+<style id='vfb-pro-inline-css' type='text/css'>
+#vfbp-form-5 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-5.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-5.vfbp-form .vfb-radio label,#vfbp-form-5.vfbp-form .vfb-checkbox label,#vfbp-form-5.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-5.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-5.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-5.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-5.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-5.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-5.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-5.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-5.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-5.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-5.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-5.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-5.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-5.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-5.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-5.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-5.vfbp-form .btn-primary:hover {color: #fff;background-color: #286090;border-color: #204d74;}#vfbp-form-5.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-7 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-7.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-7.vfbp-form .vfb-radio label,#vfbp-form-7.vfbp-form .vfb-checkbox label,#vfbp-form-7.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-7.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-7.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-7.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-7.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-7.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-7.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-7.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-7.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-7.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-7.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-7.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-7.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-7.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-7.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-7.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-7.vfbp-form .btn-primary:hover {color: #fff;background-color: #286090;border-color: #204d74;}#vfbp-form-7.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-8 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-8.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-8.vfbp-form .vfb-radio label,#vfbp-form-8.vfbp-form .vfb-checkbox label,#vfbp-form-8.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-8.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-8.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-8.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-8.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-8.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-8.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-8.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-8.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-8.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-8.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-8.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-8.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-8.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-8.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-8.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-8.vfbp-form .btn-primary:hover {color: #fff;background-color: #cea460;border-color: #cea460;}#vfbp-form-8.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-16 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-16.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-16.vfbp-form .vfb-radio label,#vfbp-form-16.vfbp-form .vfb-checkbox label,#vfbp-form-16.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-16.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-16.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-16.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-16.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-16.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-16.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-16.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-16.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-16.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-16.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-16.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-16.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-16.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-16.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-16.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-16.vfbp-form .btn-primary:hover {color: #fff;background-color: #286090;border-color: #204d74;}#vfbp-form-16.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-28 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-28.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-28.vfbp-form .vfb-radio label,#vfbp-form-28.vfbp-form .vfb-checkbox label,#vfbp-form-28.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-28.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-28.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-28.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-28.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-28.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-28.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-28.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-28.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-28.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-28.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-28.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-28.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-28.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-28.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-28.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-28.vfbp-form .btn-primary:hover {color: #fff;background-color: #cea460;border-color: #cea460;}#vfbp-form-28.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-33 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-33.vfbp-form label {font-weight: normal;margin-bottom: 5px;color: #000000;}#vfbp-form-33.vfbp-form .vfb-radio label,#vfbp-form-33.vfbp-form .vfb-checkbox label,#vfbp-form-33.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-33.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-33.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-33.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-33.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-33.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-33.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-33.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-33.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-33.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-33.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-33.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-33.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-33.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-33.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-33.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-33.vfbp-form .btn-primary:hover {color: #fff;background-color: #286090;border-color: #204d74;}#vfbp-form-33.vfbp-form .vfb-well {background-color: #f5f5f5;border: 2px solid #000000;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}#vfbp-form-34 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-34.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #444;}#vfbp-form-34.vfbp-form .vfb-radio label,#vfbp-form-34.vfbp-form .vfb-checkbox label,#vfbp-form-34.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-34.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-34.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-34.vfbp-form .vfb-form-control:focus {border-color: #cf102d;}#vfbp-form-34.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-34.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-34.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-34.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-34.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-34.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-34.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-34.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-34.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-34.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-34.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-34.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 4px;}#vfbp-form-34.vfbp-form .btn-primary:hover {color: #fff;background-color: #cea460;border-color: #204d74;}#vfbp-form-34.vfbp-form .vfb-well {background-color: #f5f5f5;border: 1px solid #e3e3e3;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}.vfbp-form h2 
+{
+color: #cf102d;
+}#vfbp-form-35 {font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;}#vfbp-form-35.vfbp-form label {font-weight: bold;margin-bottom: 5px;color: #000000;}#vfbp-form-35.vfbp-form .vfb-radio label,#vfbp-form-35.vfbp-form .vfb-checkbox label,#vfbp-form-35.vfbp-form label.vfb-address-label {font-weight: normal;}#vfbp-form-35.vfbp-form .vfb-radio label {margin:0;}#vfbp-form-35.vfbp-form .vfb-form-control {color: #555;background-color: #fff;border: 1px solid #ccc;border-radius: 4px;}#vfbp-form-35.vfbp-form .vfb-form-control:focus {border-color: #66afe9;}#vfbp-form-35.vfbp-form .vfb-form-control::-moz-placeholder {color: #777;}#vfbp-form-35.vfbp-form .vfb-form-control::-webkit-input-placeholder {color: #777;}#vfbp-form-35.vfbp-form .vfb-form-control:-ms-input-placeholder {color: #777;}#vfbp-form-35.vfbp-form .vfb-help-block {color: #777;margin: 5px 0px;padding: 0px 0px;}#vfbp-form-35.vfbp-form .vfb-has-error .vfb-help-block,#vfbp-form-35.vfbp-form .vfb-has-error .vfb-control-label,#vfbp-form-35.vfbp-form .vfb-help-block .parsley-required {color: #a94442;}#vfbp-form-35.vfbp-form .vfb-has-error .vfb-form-control {border-color: #a94442;}#vfbp-form-35.vfbp-form .vfb-has-success .vfb-help-block,#vfbp-form-35.vfbp-form .vfb-has-success .vfb-control-label {color: #3c763d;}#vfbp-form-35.vfbp-form .vfb-has-success .vfb-form-control {border-color: #3c763d;}#vfbp-form-35.vfbp-form .btn-primary {color: #fff;background-color: #cf102d;font-size: 14px;font-weight: normal;border: 1px solid #cf102d;border-radius: 6px;}#vfbp-form-35.vfbp-form .btn-primary:hover {color: #fff;background-color: #cea460;border-color: #cea460;}#vfbp-form-35.vfbp-form .vfb-well {background-color: #f5f5f5;border: 2px solid #000000;border-radius: 4px;margin: 20px 0px;padding: 19px 19px;}
+</style>
+<link rel='stylesheet' id='wcpa-frontend-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woo-custom-product-addons/assets/css/frontend.min.css?ver=2.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.5.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.5.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='flexible_shipping_notices-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/flexible-shipping/assets/../vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/assets/css/notices.css?ver=3.14.4.212' type='text/css' media='all' />
+<link rel='stylesheet' id='give-styles-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give/assets/dist/css/give.css?ver=2.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='give_ffm_frontend_styles-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-form-field-manager/assets/css/give-ffm-frontend.min.css?ver=1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='give_ffm_datepicker_styles-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-form-field-manager/assets/css/give-ffm-datepicker.min.css?ver=1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='give-gift-aid-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-gift-aid/assets/css/give-gift-aid-frontend.min.css?ver=1.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='give-tributes-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-tributes/assets/css/give-tributes-public.min.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='css-divi-area-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/popups-for-divi/css/front.css?ver=2.2.3' type='text/css' media='all' />
+<style id='css-divi-area-inline-css' type='text/css'>
+.et_pb_section.popup{display:none}
+</style>
+<link rel='stylesheet' id='give_recurring_css-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-recurring/assets/css/give-recurring.css?ver=1.10.7' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi-child/style.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&#038;subset=latin-ext,latin,greek,greek-ext,vietnamese,cyrillic,cyrillic-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.medicaldetectiondogs.org.uk/wp-includes/css/dashicons.min.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/plupload/moxie.min.js?ver=1.3.5' id='moxiejs-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/plupload/plupload.min.js?ver=2.1.9' id='plupload-js'></script>
+<script type='text/javascript' id='plupload-handlers-js-extra'>
+/* <![CDATA[ */
+var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload one file.","http_error":"Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.","http_error_image":"Post-processing of the image likely failed because the server is busy or does not have enough resources. Uploading a smaller image may help. Suggested maximum size is 2500 pixels.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File cancelled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the Bin.","error_uploading":"\u201c%s\u201d has failed to upload.","unsupported_image":"This image cannot be displayed in a web browser. For best results, convert it to JPEG before uploading."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/plupload/handlers.min.js?ver=5.5.1' id='plupload-handlers-js'></script>
+<script type='text/javascript' id='give_ffm_frontend-js-extra'>
+/* <![CDATA[ */
+var give_ffm_frontend = {"ajaxurl":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php","error_message":"Please complete all required fields","submit_button_text":"Donate Now","nonce":"6965ba9e83","confirmMsg":"Are you sure?","i18n":{"timepicker":{"choose_time":"Choose Time","time":"Time","hour":"Hour","minute":"Minute","second":"Second","done":"Done","now":"Now"},"repeater":{"max_rows":"You have added the maximum number of fields allowed."}},"plupload":{"url":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php?nonce=7ea026a1a8","flash_swf_url":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-form-field-manager/assets/js/frontend/give-ffm-frontend.min.js?ver=1.4.9' id='give_ffm_frontend-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/popups-for-divi/js/ie-compat.js?ver=2.2.3' id='dap-ie-js'></script>
+<script type='text/javascript' id='give-tributes-common-js-extra'>
+/* <![CDATA[ */
+var give_tributes_common_vars = {"give_tribute_characters_left":"Characters left","ajax_url":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php","give_tribute_receipt_limit_exceed":"Sorry! You cannot add notify people more than 5."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-tributes/assets/js/give-tributes-common.min.js?ver=1.5.8' id='give-tributes-common-js'></script>
+<script type='text/javascript' id='ecwid-frontend-js-js-extra'>
+/* <![CDATA[ */
+var ecwidParams = {"useJsApiToOpenStoreCategoriesPages":"1","storeId":"6506067"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/ecwid-shopping-cart/js/frontend.js?ver=6.10.6' id='ecwid-frontend-js-js'></script>
+<script type='text/javascript' id='give-stripe-js-js-extra'>
+/* <![CDATA[ */
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"Medical Detection Dogs","checkoutBtnTitle":"Donate","publishable_key":"pk_live_0P1HUbdKLtKj1etV2opPkj6i","checkout_image":"","checkout_address":"on","checkout_processing_text":"Donation Processing...","give_version":"2.8.1","cc_fields_format":"multi","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"GB","preferred_locale":"en","stripe_card_update":"","stripe_becs_update":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://js.stripe.com/v3/?ver=2.8.1' id='give-stripe-js-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give/assets/dist/js/give-stripe.js?ver=2.8.1' id='give-stripe-onpage-js-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.8.1' id='babel-polyfill-js'></script>
+<script type='text/javascript' id='give-js-extra'>
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php","checkout_nonce":"cad4b83eda","currency":"GBP","currency_sign":"\u00a3","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.8.1","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php","ajaxNonce":"1d0c9692c8","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":2},"cookie_hash":"0b1b3c2d6a320ed03fc2512a8f819ffc","session_nonce_cookie_name":"wp-give_session_reset_nonce_0b1b3c2d6a320ed03fc2512a8f819ffc","session_cookie_name":"wp-give_session_0b1b3c2d6a320ed03fc2512a8f819ffc","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give/assets/dist/js/give.js?ver=2.8.1' id='give-js'></script>
+<script type='text/javascript' id='give-gift-aid-js-extra'>
+/* <![CDATA[ */
+var give_gift_aid_vars = {"gift_aid_site_url":"https:\/\/www.medicaldetectiondogs.org.uk","gift_aid_base_country":"GB"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-gift-aid/assets/js/give-gift-aid-frontend.min.js?ver=1.2.5' id='give-gift-aid-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-tributes/assets/js/give-tributes-public.min.js?ver=1.5.8' id='give-tributes-js'></script>
+<script type='text/javascript' id='give_recurring_script-js-extra'>
+/* <![CDATA[ */
+var Give_Recurring_Vars = {"email_access":"1","pretty_intervals":{"1":"Every","2":"Every two","3":"Every three","4":"Every four","5":"Every five","6":"Every six"},"pretty_periods":{"day":"Daily","week":"Weekly","month":"Monthly","quarter":"Quarterly","half-year":"Semi-Annually","year":"Yearly"},"messages":{"daily_forbidden":"The selected payment method does not support daily recurring giving. Please select another payment method or supported giving frequency.","confirm_cancel":"Are you sure you want to cancel this subscription?"},"multi_level_message_pre_text":"You have chosen to donate"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/give-recurring/assets/js/give-recurring.js?ver=1.10.7' id='give_recurring_script-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.5.1' id='es6-promise-js'></script>
+<script type='text/javascript' id='et-core-api-spam-recaptcha-js-extra'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"www_medicaldetectiondogs_org_uk"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.5.1' id='et-core-api-spam-recaptcha-js'></script>
+<link rel="https://api.w.org/" href="https://www.medicaldetectiondogs.org.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://www.medicaldetectiondogs.org.uk/wp-json/wp/v2/pages/55" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.medicaldetectiondogs.org.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.medicaldetectiondogs.org.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WooCommerce 4.5.2" />
+<link rel='shortlink' href='https://www.medicaldetectiondogs.org.uk/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.medicaldetectiondogs.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.medicaldetectiondogs.org.uk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.medicaldetectiondogs.org.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.medicaldetectiondogs.org.uk%2F&#038;format=xml" />
+<script data-cfasync="false" data-no-optimize="1" type="text/javascript">
+window.ec = window.ec || Object()
+window.ec.config = window.ec.config || Object();
+window.ec.config.enable_canonical_urls = true;
+window.ec.config.chameleon = window.ec.config.chameleon || Object();
+window.ec.config.chameleon.font = "auto";
+window.ec.config.chameleon.colors = "auto";
+
+</script>
+<script data-cfasync="false" type="text/javascript">
+window.ec = window.ec || Object();
+window.ec.config = window.ec.config || Object();
+window.ec.config.store_main_page_url = 'https://www.medicaldetectiondogs.org.uk/store/';		
+</script><meta name="generator" content="Give v2.8.1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="https://medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/animated_favicon1.gif" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.medicaldetectiondogs.org.uk/wp-content/et-cache/global/et-divi-customizer-global-16022501533709.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-55 theme-Divi give-recurring woocommerce-no-js give-divi et_color_scheme_red et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_smooth_scroll et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-info">
+									<span id="et-info-phone">+44 (0) 1296 655888</span>
+				
+									<a href="mailto:operations@medicaldetectiondogs.org.uk"><span id="et-info-email">operations@medicaldetectiondogs.org.uk</span></a>
+				
+				<ul class="et-social-icons">
+
+            <li class="et-social-icon et-social-facebook">
+            <a href="https://www.facebook.com/MedicalDetectionDogs" class="icon">
+                <span>Facebook</span>
+            </a>
+        </li>
+                <li class="et-social-icon et-social-twitter">
+            <a href="https://twitter.com/MedDetectDogs" class="icon">
+                <span>Twitter</span>
+            </a>
+        </li>
+
+<li class="et-social-icon et-social-youtube">
+<a href="https://www.youtube.com/channel/UCJXYrscrRAYB_csYX8MM3ZA" class="icon">
+<span>YouTube</span>
+</a>
+</li>
+
+<li class="et-social-icon et-social-instagram">
+<a href="https://www.instagram.com/medicaldetectiondogs" class="icon">
+<span>Instagram</span>
+</a>
+</li>
+
+            
+</ul>
+<span class="header-strapline">Dogs saving lives</span>
+				</div> <!-- #et-info -->
+
+			
+				<div id="et-secondary-menu">
+				<div class="et_duplicate_social_icons">
+								<ul class="et-social-icons">
+
+            <li class="et-social-icon et-social-facebook">
+            <a href="https://www.facebook.com/MedicalDetectionDogs" class="icon">
+                <span>Facebook</span>
+            </a>
+        </li>
+                <li class="et-social-icon et-social-twitter">
+            <a href="https://twitter.com/MedDetectDogs" class="icon">
+                <span>Twitter</span>
+            </a>
+        </li>
+
+<li class="et-social-icon et-social-youtube">
+<a href="https://www.youtube.com/channel/UCJXYrscrRAYB_csYX8MM3ZA" class="icon">
+<span>YouTube</span>
+</a>
+</li>
+
+<li class="et-social-icon et-social-instagram">
+<a href="https://www.instagram.com/medicaldetectiondogs" class="icon">
+<span>Instagram</span>
+</a>
+</li>
+
+            
+</ul>
+<span class="header-strapline">Dogs saving lives</span>
+
+							</div><a href="https://www.medicaldetectiondogs.org.uk/basket/" class="et-cart-info">
+				<span>0 Items</span>
+			</a>				</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+		
+	
+			<header id="main-header" data-height-onload="53">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.medicaldetectiondogs.org.uk/">
+						<img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2017/05/MDD-logo-HRH-CYMK-Header.jpg" alt="Medical Detection Dogs" id="logo" data-height-percentage="68" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="53" data-fixed-height="47">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-11399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11399"><a href="https://www.medicaldetectiondogs.org.uk/puppy-sponsorship"><span class="et_pb_button">Sponsor a Puppy</span></a></li>
+<li id="menu-item-19074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19074"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/name-a-puppy"><span class="et_pb_button">Name a Puppy</span></a></li>
+<li id="menu-item-5111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5111"><a href="https://www.medicaldetectiondogs.org.uk/giving"><span class="et_pb_button">Donate</span></a></li>
+<li id="menu-item-8523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item menu-item-8523"><a href="https://www.medicaldetectiondogs.org.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-651"><a href="https://www.medicaldetectiondogs.org.uk/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-11325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11325"><a href="https://www.medicaldetectiondogs.org.uk/about-us/">About us</a></li>
+	<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-658"><a href="https://www.medicaldetectiondogs.org.uk/about-us/bio-detection-dogs/">Bio Detection Dogs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-22842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22842"><a href="https://www.medicaldetectiondogs.org.uk/covid-19-detection-dogs/">COVID-19 Detection Dogs</a></li>
+		<li id="menu-item-12829" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-12829"><a href="https://www.medicaldetectiondogs.org.uk/cancer-detection/">Cancer detection</a></li>
+		<li id="menu-item-12828" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-12828"><a href="https://www.medicaldetectiondogs.org.uk/malaria-detection-dogs-2/">Malaria Detection Dogs</a></li>
+		<li id="menu-item-12830" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-12830"><a href="https://www.medicaldetectiondogs.org.uk/neurological-diseases/">Neurological diseases</a></li>
+		<li id="menu-item-17655" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17655"><a href="https://www.medicaldetectiondogs.org.uk/bacteria/">Bacteria Detection Dogs</a></li>
+		<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-681"><a href="https://www.medicaldetectiondogs.org.uk/the-science/">The science</a></li>
+		<li id="menu-item-2983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2983"><a href="https://www.medicaldetectiondogs.org.uk/the-dogs-nose-2/">The Dog’s Nose</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13378"><a href="https://www.medicaldetectiondogs.org.uk/maad-information/">Medical Alert Assistance Dogs</a></li>
+	<li id="menu-item-1964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1964"><a href="https://www.medicaldetectiondogs.org.uk/our-people/">Our people</a>
+	<ul class="sub-menu">
+		<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="https://www.medicaldetectiondogs.org.uk/about-us/claire-guest-ceo/">Claire Guest CEO</a></li>
+		<li id="menu-item-655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a href="https://www.medicaldetectiondogs.org.uk/about-us/trustees/">Trustees</a></li>
+		<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://www.medicaldetectiondogs.org.uk/our-ambassadors/">Our ambassadors</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10329"><a href="https://www.medicaldetectiondogs.org.uk/our-history/">Our history</a></li>
+	<li id="menu-item-16801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16801"><a href="https://www.medicaldetectiondogs.org.uk/welcome-days/">Welcome Days</a></li>
+	<li id="menu-item-14384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14384"><a href="https://www.medicaldetectiondogs.org.uk/speaker-request/">Request a Speaker</a></li>
+</ul>
+</li>
+<li id="menu-item-13207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13207"><a href="https://www.medicaldetectiondogs.org.uk/support-us-2/">Support Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-13206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13206"><a href="https://www.medicaldetectiondogs.org.uk/support-us-2/">Support Us</a></li>
+	<li id="menu-item-19619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19619"><a href="https://www.medicaldetectiondogs.org.uk/legacy/">Leave a Legacy</a></li>
+	<li id="menu-item-13202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13202"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/">Fundraise</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16425"><a href="https://www.medicaldetectiondogs.org.uk/legacy/">Leave a Legacy</a></li>
+		<li id="menu-item-10457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10457"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/trusts-foundations-and-major-gifts/">Trusts, foundations and major gifts</a></li>
+		<li id="menu-item-8665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8665"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/corporate-support/">Corporate Support</a>
+		<ul class="sub-menu">
+			<li id="menu-item-9054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9054"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/50challenge/">The £50 Challenge</a></li>
+		</ul>
+</li>
+		<li id="menu-item-8666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8666"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/schools-fundraising/">Schools Fundraising</a>
+		<ul class="sub-menu">
+			<li id="menu-item-9055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9055"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/50challenge/">The £50 Challenge</a></li>
+		</ul>
+</li>
+		<li id="menu-item-6076" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6076"><a href="https://www.medicaldetectiondogs.org.uk/amazon-wishlist/">Wishlist</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2088"><a href="https://www.medicaldetectiondogs.org.uk/events/">Events</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16800"><a href="https://www.medicaldetectiondogs.org.uk/welcome-days/">Welcome Days</a></li>
+		<li id="menu-item-5472" class="menu-item menu-item-type-post_type menu-item-object-project menu-item-5472"><a href="https://www.medicaldetectiondogs.org.uk/project/challenge-events/">Challenge events</a></li>
+		<li id="menu-item-17517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17517"><a href="https://www.medicaldetectiondogs.org.uk/events/canter-for-a-cure-mkec/">Canter for a Cure – MKEC</a></li>
+		<li id="menu-item-9776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9776"><a href="https://www.medicaldetectiondogs.org.uk/past-events/">Past Events</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5623"><a href="https://www.medicaldetectiondogs.org.uk/volunteer/">Volunteer</a></li>
+	<li id="menu-item-691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-691"><a href="https://www.medicaldetectiondogs.org.uk/about-us/careers/">Work for us</a></li>
+	<li id="menu-item-4202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4202"><a href="https://www.medicaldetectiondogs.org.uk/corporate-sponsorship/">Our Supporters</a></li>
+</ul>
+</li>
+<li id="menu-item-11331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11331"><a href="https://www.medicaldetectiondogs.org.uk/merchandise/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-11330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11330"><a href="https://www.medicaldetectiondogs.org.uk/merchandise/">Shop</a></li>
+	<li id="menu-item-11238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11238"><a href="https://www.medicaldetectiondogs.org.uk/giving-while-you-shop/">Give while you shop</a></li>
+	<li id="menu-item-7719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7719"><a href="https://www.medicaldetectiondogs.org.uk/merchandise/shop-with-our-supporters/">Shop with our Supporters</a></li>
+	<li id="menu-item-9828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9828"><a href="https://www.medicaldetectiondogs.org.uk/ebay-for-charity/">eBay for Charity</a></li>
+</ul>
+</li>
+<li id="menu-item-683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-683"><a href="https://www.medicaldetectiondogs.org.uk/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-11328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11328"><a href="https://www.medicaldetectiondogs.org.uk/news/">News</a></li>
+	<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="https://www.medicaldetectiondogs.org.uk/media-coverage/">Media coverage</a></li>
+	<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://www.medicaldetectiondogs.org.uk/sniff-magazine/">Sniff magazine</a></li>
+	<li id="menu-item-6882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6882"><a href="https://www.medicaldetectiondogs.org.uk/sign-up-for-our-e-news/">Sign up for our E-News</a></li>
+</ul>
+</li>
+<li id="menu-item-5809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5809"><a href="https://www.medicaldetectiondogs.org.uk/contact-us/">Contact us</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://www.medicaldetectiondogs.org.uk/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-55" class="post-55 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_slider_0 et_pb_slider et_slider_auto et_slider_speed_7000">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_0 et_clickable et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<div class="et_pb_slide_content"><p class="x_MsoNormal" align="center"><span>Medical Detection Dogs are helping the NHS and saving lives</span></p>
+<p class="x_MsoNormal" align="center"><span> </span><span>We need your support now more than ever</span></p>
+<p align="center"><span>Thank you</span></p></div>
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://www.medicaldetectiondogs.org.uk/donations/donate">Please make a donation</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_1">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							<div class="et_pb_slide_content"><p>Join the Medical Detection Dogs Welly Walk &#8211; From now until October 31st</p></div>
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://www.medicaldetectiondogs.org.uk/fundraising/wellywalk">Find out more</a></div>
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			
+				</div> <!-- .et_pb_slides -->
+				
+			</div> <!-- .et_pb_slider -->
+			
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0 et_clickable">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: center;"><span>We are delighted to receive a share of the government’s funding for COVID-19 research, however Medical Detection Dogs continues to need your support for this project and our other life-saving work</span></h1></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="/covid-19-detection-dogs">COVID-19 Detection Dogs</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><span>Discover the impact of our work</span></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<a href="/about-us/bio-detection-dogs"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/bio-detection-650px.jpg" alt="Bio Detection Dogs" title="" height="auto" width="auto" srcset="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/bio-detection-650px.jpg 650w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/bio-detection-650px-300x224.jpg 300w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/bio-detection-650px-510x381.jpg 510w" sizes="(max-width: 650px) 100vw, 650px" class="wp-image-11271" /></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Bio Detection Dogs</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><span>We carry out ground breaking research to improve early diagnosis of cancer and other diseases.</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_hover_enabled et_pb_bg_layout_light" href="/about-us/bio-detection-dogs">Find out more</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<a href="/maad-information"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/03/michelle-and-clive-650px.jpg" alt="Medical Alert Assistance Dogs" title="" height="auto" width="auto" srcset="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/03/michelle-and-clive-650px.jpg 650w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/03/michelle-and-clive-650px-300x224.jpg 300w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/03/michelle-and-clive-650px-510x381.jpg 510w" sizes="(max-width: 650px) 100vw, 650px" class="wp-image-10374" /></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Medical Alert Assistance Dogs</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><span>We train dogs to support people with life-threatening health conditions, saving their lives on a daily basis and helping the NHS by keeping them out of hospital.</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_hover_enabled et_pb_bg_layout_light" href="/maad-information">Find out more</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_with_border et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: center;">To all our supporters</h1>
+<p>We wanted to give you an update on what we here at MDD are doing to continue providing our life-saving service whilst at the same time minimising the risk of spreading Covid-19.</p>
+<p>Following the latest instruction from government, and in order to protect our staff and ensure that we can carry on with the essential services that people’s lives depend on, our operations will mostly be carried out remotely and electronically.</p>
+<p>Much of our effort at the moment is continuing to support our vulnerable clients, so please be aware that response times to general enquiries or non-essential communications are likely to be longer than normal. Rest assured every enquiry is important to us and we will endeavour to respond to each one in time.</p>
+<p>We are incredibly grateful for the donations we receive, which are more important now than ever because we predict fundraising activities will be affected, but it will also take us longer to thank you for those because of the reduction in the number of staff able to attend our Centre.</p>
+<p>Among all the concerning news at this time, we will try to keep a steady stream of good news on our social media pages, to help remind us all of the amazing abilities of our life-saving dogs and their impact on the people they help, which we couldn’t do without the amazing support you give us. Follow us on <a href="https://www.facebook.com/MedicalDetectionDogs">Facebook @MedicalDetectionDogs</a>, <a href="https://twitter.com/MedDetectDogs">Twitter @MedDetectDogs</a> and <a href="https://www.instagram.com/medicaldetectiondogs">Instagram@medicaldetectiondogs</a></p>
+<p>Thank you for your patience at this challenging time and please look after yourselves.</p>
+<p>The MDD team</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="https://www.medicaldetectiondogs.org.uk/giving/">Please help with a donation</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><span>Ways that you can help us to train more life-saving dogs</span></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				<a href="/fundraising"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/fundraising_home.jpg" alt="The £50 Challenge" title="" height="auto" width="auto" srcset="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/fundraising_home.jpg 366w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/fundraising_home-300x269.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" class="wp-image-11350" /></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Fundraise</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: centre;"><span>There are lots of ways in which you can get involved and support us.</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_cta_0 et_hover_enabled et_pb_promo  et_pb_text_align_center et_pb_bg_layout_dark et_pb_no_bg">
+				
+				
+				<div class="et_pb_promo_description et_multi_view_hidden"></div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="/fundraising">Find out more</a></div>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				<a href="/puppy-sponsorship"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/03/puppy_sponsorship_ava-1.jpg" alt="The £50 Challenge" title="" height="auto" width="auto" srcset="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/03/puppy_sponsorship_ava-1.jpg 366w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/03/puppy_sponsorship_ava-1-300x269.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" class="wp-image-14312" /></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;"><span>Puppy sponsorship</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: centre;">By sponsoring a Medical Detection Dogs puppy, you’ll be making a huge difference by helping to support their care and training.</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_cta_1 et_hover_enabled et_pb_promo  et_pb_text_align_center et_pb_bg_layout_dark et_pb_no_bg">
+				
+				
+				<div class="et_pb_promo_description et_multi_view_hidden"></div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="/puppy-sponsorship">Find out more</a></div>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				<a href="/volunteer"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/08/volunteer_home.jpg" alt="The £50 Challenge" title="" height="auto" width="auto" srcset="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/08/volunteer_home.jpg 366w, https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2019/08/volunteer_home-300x269.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" class="wp-image-16115" /></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Volunteer</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: centre;"><span>Volunteers are essential to the work we do, providing help and support to vital services from socialising our puppies through to driving and working in the office.</span></p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_cta_2 et_hover_enabled et_pb_promo  et_pb_text_align_center et_pb_bg_layout_dark et_pb_no_bg">
+				
+				
+				<div class="et_pb_promo_description et_multi_view_hidden"></div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="/volunteer">Find out more</a></div>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_with_border et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				<a href="https://www.medicaldetectiondogs.org.uk/fundraising/wellywalk"><span class="et_pb_image_wrap "><img loading="lazy" src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2020/09/welly_walk_final_logo_250px.png" alt="Welly Walk" title="Welly Walk Logo" height="auto" width="auto" class="wp-image-28734" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: center;"><span><strong>Join the Medical Detection Dogs Welly Walk</strong></span></h1>
+<h1 style="text-align: center;"><span><strong>From now until October 31st</strong></span></h1></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Autumn has arrived. Why not dig out those wellies—the jazzier the better—and take part in our brand new Welly Walk?</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_hover_enabled et_pb_bg_layout_light" href="https://www.medicaldetectiondogs.org.uk/fundraising/wellywalk">Find out more</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;">Sign up for our e-news</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_center et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;">Interested in hearing more about the hard work that we do? Why not sign up for our e-news to keep up to date with all the latest news, events and how you can be involved.</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_cta_3 et_hover_enabled et_pb_promo  et_pb_text_align_left et_pb_bg_layout_dark et_pb_no_bg">
+				
+				
+				<div class="et_pb_promo_description et_multi_view_hidden"></div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="/sign-up-for-our-e-news">Sign up for our e-news</a></div>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: center;">Latest News</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_post_slider et_pb_post_slider_0 et_pb_slider et_pb_post_slider_image_background et_pb_slider_fullwidth_off et_pb_slider_no_pagination et_slider_auto et_slider_speed_7000 et_pb_slider_with_overlay">
+				
+				
+				<div class="et_pb_slides">
+									<div class="et_pb_slide et_pb_media_alignment_center et_pb_bg_layout_dark et_pb_post_slide-28405"  >
+													<div class="et_pb_slide_overlay_container"></div>
+								<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+												<div class="et_pb_slide_description">
+															<h2 class="et_pb_slide_title"><a href="https://www.medicaldetectiondogs.org.uk/covid-19-detection-dogs-in-the-presence-of-royalty/">COVID-19 Detection Dogs in the presence of royalty</a></h2>
+								<div class="et_pb_slide_content
+																">
+									<div>Our Royal Patron, HRH The Duchess of Cornwall, was among the first in the...</div>								</div>
+														<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://www.medicaldetectiondogs.org.uk/covid-19-detection-dogs-in-the-presence-of-royalty/">Read More</a></div>						</div> <!-- .et_pb_slide_description -->
+											</div>
+				</div> <!-- .et_pb_container -->
+			</div> <!-- .et_pb_slide -->
+								<div class="et_pb_slide et_pb_media_alignment_center et_pb_bg_layout_dark et_pb_post_slide-26920"  >
+													<div class="et_pb_slide_overlay_container"></div>
+								<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+												<div class="et_pb_slide_description">
+															<h2 class="et_pb_slide_title"><a href="https://www.medicaldetectiondogs.org.uk/volunteers-needed-for-covid-19-detection-dog-trial/">Volunteers needed for COVID-19 detection dog trial</a></h2>
+								<div class="et_pb_slide_content
+																">
+									<div>Our COVID-19 detection dogs project team is now asking people in the for...</div>								</div>
+														<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://www.medicaldetectiondogs.org.uk/volunteers-needed-for-covid-19-detection-dog-trial/">Read More</a></div>						</div> <!-- .et_pb_slide_description -->
+											</div>
+				</div> <!-- .et_pb_container -->
+			</div> <!-- .et_pb_slide -->
+								<div class="et_pb_slide et_pb_media_alignment_center et_pb_bg_layout_dark et_pb_post_slide-21207"  >
+													<div class="et_pb_slide_overlay_container"></div>
+								<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+												<div class="et_pb_slide_description">
+															<h2 class="et_pb_slide_title"><a href="https://www.medicaldetectiondogs.org.uk/dr-claire-guest-talks-about-covid-19-dogs-on-bbc-radio-4-today/">Dr Claire Guest talks about COVID-19 Dogs on BBC Radio 4 Today</a></h2>
+								<div class="et_pb_slide_content
+																">
+									<div>22/04/2020 Interview starts at 1:24:33</div>								</div>
+														<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="https://www.medicaldetectiondogs.org.uk/dr-claire-guest-talks-about-covid-19-dogs-on-bbc-radio-4-today/">Read More</a></div>						</div> <!-- .et_pb_slide_description -->
+											</div>
+				</div> <!-- .et_pb_container -->
+			</div> <!-- .et_pb_slide -->
+				
+				</div> <!-- .et_pb_slides -->
+				
+			</div> <!-- .et_pb_slider -->
+			
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+	
+			
+		</div><!-- #et-boc -->
+							</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="text-7" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><center><h4 style="color: #666">Accredited by</h4><a href="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/aduk_logo-1.png"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/aduk_logo-1.png"></a><br><br>
+
+<a href="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/assistance_dogs_international.png"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/assistance_dogs_international.png"></a><br><br>
+
+<a href="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/ADEuNewLogo.png"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2015/11/ADEuNewLogo.png"></a>
+
+</center>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-5" class="fwidget et_pb_widget widget_text"><h4 class="title">Find us on</h4>			<div class="textwidget"><p><center><a href="https://www.facebook.com/MedicalDetectionDogs"target="_blank"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2016/08/facebook_round.png" /></a><br />
+<a href="https://twitter.com/MedDetectDogs"target="_blank"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2016/08/twitter_round.png" /></a><br />
+<a href="https://www.youtube.com/channel/UCJXYrscrRAYB_csYX8MM3ZA"target="_blank"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2016/08/youtube_round.png" /></a><br />
+<a href="https://www.instagram.com/medicaldetectiondogs"target="_blank"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2016/08/instagram_round.png" /></a><br />
+</center></p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-10" class="fwidget et_pb_widget widget_text"><h4 class="title">Regulation</h4>			<div class="textwidget"><center><a href="https://www.fundraisingregulator.org.uk/"target="_blank"><img src="https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2017/04/FR_RegLogo_Mono_HR.png" /></a></center>
+
+
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p>Patron:<br />
+<span style="font-weight:normal;">HRH The Duchess of Cornwall</span></p>
+<p><span style="font-weight:normal;">Medical Detection Dogs is a registered charity in England and Wales No. 1124533 and in Scotland No. SC044434</span></p>
+<p>Medical Detection Dogs<br />
+<span style="font-weight:normal;">Registered Company Number: 6399500 (England and Wales) </span></p>
+<p>Registered Office:<br />
+<span style="font-weight:normal;">3 Millfield<br />
+Greenway Business Park Winslow Road<br />
+Great Horwood<br />
+Milton Keynes<br />
+MK17 0NP</p>
+<p>© Copyright 2020</span></p>
+</div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-menu-for-footer" class="bottom-nav"><li id="menu-item-8524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item menu-item-8524"><a href="https://www.medicaldetectiondogs.org.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-3419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3419"><a href="https://www.medicaldetectiondogs.org.uk/about-us/">About us</a></li>
+<li id="menu-item-12077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12077"><a href="https://www.medicaldetectiondogs.org.uk/giving/">Donate</a></li>
+<li id="menu-item-8245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8245"><a href="https://www.medicaldetectiondogs.org.uk/support-us-2/">Support us</a></li>
+<li id="menu-item-8247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8247"><a href="https://www.medicaldetectiondogs.org.uk/fundraising/">Fundraising</a></li>
+<li id="menu-item-4199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4199"><a href="https://www.medicaldetectiondogs.org.uk/corporate-sponsorship/">Supporters</a></li>
+<li id="menu-item-5810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5810"><a href="https://www.medicaldetectiondogs.org.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-3423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3423"><a href="https://www.medicaldetectiondogs.org.uk/privacy/">Privacy</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+            <li class="et-social-icon et-social-facebook">
+            <a href="https://www.facebook.com/MedicalDetectionDogs" class="icon">
+                <span>Facebook</span>
+            </a>
+        </li>
+                <li class="et-social-icon et-social-twitter">
+            <a href="https://twitter.com/MedDetectDogs" class="icon">
+                <span>Twitter</span>
+            </a>
+        </li>
+
+<li class="et-social-icon et-social-youtube">
+<a href="https://www.youtube.com/channel/UCJXYrscrRAYB_csYX8MM3ZA" class="icon">
+<span>YouTube</span>
+</a>
+</li>
+
+<li class="et-social-icon et-social-instagram">
+<a href="https://www.instagram.com/medicaldetectiondogs" class="icon">
+<span>Instagram</span>
+</a>
+</li>
+
+            
+</ul>
+<span class="header-strapline">Dogs saving lives</span>
+<div id="footer-info">Website and IT Support provided by <a href="https://bespoke-it.solutions" target="_blank">Bespoke IT Solutions</a></div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script>
+/* Change text in Give donation form credit card frameset */
+try {var parentDOM = document.getElementById("give_cc_fields");
+var p = parentDOM.getElementsByTagName("LEGEND");
+p[0].innerHTML="Credit/Debit Card Info";
+} catch(error) { /* */ }
+</script>	<script type="text/javascript">
+				var et_link_options_data = [{"class":"et_pb_slide_0","url":"https:\/\/www.medicaldetectiondogs.org.uk\/donations\/donate\/","target":"_self"},{"class":"et_pb_row_0","url":"\/covid-19-detection-dogs","target":"_self"}];
+			</script>
+		<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=285371374820822";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22148800-3', 'auto');
+  ga('send', 'pageview');
+
+</script><link rel='stylesheet' id='basecss-css'  href='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/eu-cookie-law/css/style.css?ver=5.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.medicaldetectiondogs.org.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.5.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.5.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_25a338fbf39e33bd2004f79b8de8f1ca","fragment_name":"wc_fragments_25a338fbf39e33bd2004f79b8de8f1ca","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.5.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/flexible-shipping/assets/../vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/assets/js/notices.js?ver=3.14.4.212' id='flexible_shipping_notices-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/popups-for-divi/js/front.js?ver=2.2.3' id='js-divi-area-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.medicaldetectiondogs.org.uk\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"cf88638376","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"3e1d77e3ab","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"55","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.5' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.5' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' id='eucookielaw-scripts-js-extra'>
+/* <![CDATA[ */
+var eucookielaw_data = {"euCookieSet":"","autoBlock":"0","expireTimer":"0","scrollConsent":"0","networkShareURL":"","isCookiePage":"","isRefererWebsite":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.medicaldetectiondogs.org.uk/wp-content/plugins/eu-cookie-law/js/scripts.js?ver=3.1.5' id='eucookielaw-scripts-js'></script>
+<style id="et-builder-module-design-55-cached-inline-styles">@font-face{font-family:"Bradley Hand";font-display:swap;src:url("https://www.medicaldetectiondogs.org.uk/wp-content/uploads/et-fonts/Bradley-Hand-Bold.ttf") format("truetype")}.et_pb_slide_1{background-color:rgba(0,0,0,0)}.et_pb_slide_0{background-color:rgba(0,0,0,0)}.et_pb_image_5{text-align:center}.et_pb_slider .et_pb_slide_1 .et_pb_slide_description .et_pb_button_wrapper{text-align:center}body #page-container .et_pb_section .et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_more_button.et_pb_button{color:#cf102d!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button{color:#cf102d!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button{color:#cf102d!important;background-color:#ffffff}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button{color:#cf102d!important;background-color:#ffffff}.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title{font-size:48px!important;text-shadow:0.08em 0.08em 0.08em rgba(0,0,0,0.4)}.et_pb_fullwidth_slider_0,.et_pb_fullwidth_slider_0 .et_pb_slide{min-height:411px}.et_pb_fullwidth_slider_0 .et_pb_slide_description,.et_pb_slider_fullwidth_off.et_pb_fullwidth_slider_0 .et_pb_slide_description{padding-top:120px;padding-bottom:101px}.et_pb_row_0{background-image:url(https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2020/05/covid_front_page_banner_950px.jpg);border-radius:6px 6px 6px 6px;overflow:hidden;box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_row_0.et_pb_row{margin-top:20px!important}.et_pb_text_7.et_pb_text{color:#ffffff!important}.et_pb_text_8.et_pb_text{color:#ffffff!important}.et_pb_text_10.et_pb_text{color:#ffffff!important}.et_pb_text_16.et_pb_text{color:#ffffff!important}.et_pb_text_0 h1{color:#ffffff!important}.et_pb_text_18.et_pb_text{color:#ffffff!important}.et_pb_text_12.et_pb_text{color:#ffffff!important}.et_pb_text_0 h2{color:#ffffff!important;text-shadow:0em 0em 0.3em rgba(0,0,0,0.4)}.et_pb_text_0{padding-top:15px!important;padding-right:15px!important;padding-bottom:15px!important;padding-left:15px!important;margin-bottom:16px!important}body #page-container .et_pb_section .et_pb_button_0{border-width:1px!important;border-color:#ffffff}.et_pb_button_0,.et_pb_button_0:after{transition:all 300ms ease 0ms}.et_pb_button_2,.et_pb_button_2:after{transition:all 300ms ease 0ms}.et_pb_button_4,.et_pb_button_4:after{transition:all 300ms ease 0ms}.et_pb_button_1,.et_pb_button_1:after{transition:all 300ms ease 0ms}.et_pb_button_3,.et_pb_button_3:after{transition:all 300ms ease 0ms}.et_pb_row_4.et_pb_row{padding-bottom:0px!important;margin-bottom:0px!important;padding-bottom:0px}.et_pb_row_1.et_pb_row{padding-bottom:0px!important;margin-bottom:0px!important;padding-bottom:0px}.et_pb_text_14 h1{color:#cf102d!important}.et_pb_text_1.et_pb_text{color:#cf102d!important}.et_pb_text_4.et_pb_text{color:#cf102d!important}.et_pb_text_2.et_pb_text{color:#cf102d!important}.et_pb_text_1 p{line-height:1.6em}.et_pb_text_1{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:30px;line-height:1.6em}.et_pb_text_1 h1{font-size:32px;line-height:1.1em}.et_pb_image_0 .et_pb_image_wrap{border-width:4px;border-color:#ffffff}.et_pb_image_1 .et_pb_image_wrap{border-width:4px;border-color:#ffffff}.et_pb_image_0{-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-moz-box-shadow:0 2px 2px #666666;-webkit-box-shadow:0 2px 2px #666666;box-shadow:0 2px 2px #666666;width:100%;max-width:100%!important;text-align:left;margin-left:0}.et_pb_image_1{-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-moz-box-shadow:0 2px 2px #666666;-webkit-box-shadow:0 2px 2px #666666;box-shadow:0 2px 2px #666666;width:100%;max-width:100%!important;text-align:left;margin-left:0}.et_pb_image_2 .et_pb_image_wrap,.et_pb_image_2 img{width:100%}.et_pb_image_4 .et_pb_image_wrap,.et_pb_image_4 img{width:100%}.et_pb_image_0 .et_pb_image_wrap,.et_pb_image_0 img{width:100%}.et_pb_image_1 .et_pb_image_wrap,.et_pb_image_1 img{width:100%}.et_pb_image_3 .et_pb_image_wrap,.et_pb_image_3 img{width:100%}.et_pb_text_2{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:30px}.et_pb_text_4{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:30px}.et_pb_text_4 h1{font-size:34px}.et_pb_text_2 h1{font-size:34px}.et_pb_text_5.et_pb_text{color:#000000!important}.et_pb_text_3.et_pb_text{color:#000000!important}.et_pb_text_15.et_pb_text{color:#000000!important}.et_pb_text_5{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-size:18px}.et_pb_text_3{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-size:18px}body #page-container .et_pb_section .et_pb_button_1{color:#ffffff!important;background-color:#cf102d}body #page-container .et_pb_section .et_pb_button_2{color:#ffffff!important;background-color:#cf102d}body #page-container .et_pb_section .et_pb_button_2:hover{letter-spacing:0px!important}body #page-container .et_pb_section .et_pb_button_1:hover{letter-spacing:0px!important}body #page-container .et_pb_section .et_pb_button_4:hover{letter-spacing:0px!important}.et_pb_row_3{border-width:2px;border-color:#cf102d;box-shadow:0px 12px 18px -6px rgba(0,0,0,0.3)}.et_pb_row_3.et_pb_row{padding-top:20px!important;padding-right:20px!important;padding-bottom:20px!important;padding-left:20px!important;margin-bottom:20px!important;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px}.et_pb_text_6 h1{font-size:31px;color:#cf102d!important}.et_pb_section_3.et_pb_section{padding-top:0px;padding-bottom:0px;background-color:#cf102d!important}.et_pb_text_7{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:30px;margin-bottom:0px!important}.et_pb_text_7 h1{font-size:32px}.et_pb_image_2 .et_pb_image_wrap{border-width:2px;border-color:#ffffff}.et_pb_image_4 .et_pb_image_wrap{border-width:2px;border-color:#ffffff}.et_pb_image_3 .et_pb_image_wrap{border-width:2px;border-color:#ffffff}.et_pb_image_4{width:100%;max-width:100%!important;text-align:center}.et_pb_image_2{width:100%;max-width:100%!important;text-align:center}.et_pb_image_3{width:100%;max-width:100%!important;text-align:center}.et_pb_text_10{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:26px;margin-top:0px!important;margin-bottom:5px!important}.et_pb_text_16{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:26px;margin-top:0px!important;margin-bottom:5px!important}.et_pb_text_12{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:26px;margin-top:0px!important;margin-bottom:5px!important}.et_pb_text_8{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:26px;margin-top:0px!important;margin-bottom:5px!important}.et_pb_text_9{font-weight:700;margin-bottom:0px!important}.et_pb_text_13{font-weight:700;margin-bottom:0px!important}.et_pb_text_17{font-weight:700;margin-bottom:0px!important}.et_pb_text_11{font-weight:700;margin-bottom:0px!important}.et_pb_cta_0.et_pb_promo .et_pb_promo_description div{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;color:#cf102d!important}.et_pb_cta_1.et_pb_promo .et_pb_promo_description div{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;color:#cf102d!important}.et_pb_cta_2.et_pb_promo .et_pb_promo_description div{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;color:#cf102d!important}.et_pb_cta_2.et_pb_promo{padding-top:0px!important;padding-bottom:0px!important;margin-top:15px!important;margin-bottom:0px!important}.et_pb_cta_0.et_pb_promo{padding-top:0px!important;padding-bottom:0px!important;margin-top:15px!important;margin-bottom:0px!important}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button:hover{color:#ffffff!important}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button:hover{color:#ffffff!important}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button:hover{color:#ffffff!important}.et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button{transition:color 300ms ease 0ms}.et_pb_cta_3.et_pb_promo .et_pb_promo_button.et_pb_button{transition:color 300ms ease 0ms}.et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button{transition:color 300ms ease 0ms}.et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button{transition:color 300ms ease 0ms}.et_pb_cta_1.et_pb_promo{padding-top:0px!important;padding-bottom:0px!important;margin-top:16px!important;margin-bottom:0px!important}.et_pb_row_6{background-image:url(https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2020/09/welly_walk_foot-_and_paw_950px.jpg);background-color:#ffffff;border-radius:3px 3px 3px 3px;overflow:hidden;border-width:2px;border-color:#cf102d}.et_pb_row_6.et_pb_row{padding-top:10px!important;padding-right:10px!important;padding-bottom:10px!important;padding-left:10px!important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px}.et_pb_text_14{padding-top:25px!important;margin-bottom:11px!important}.et_pb_text_15{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;min-height:64px;margin-top:0px!important;margin-bottom:5px!important}.et_pb_button_4_wrapper .et_pb_button_4,.et_pb_button_4_wrapper .et_pb_button_4:hover{padding-top:0px!important}body #page-container .et_pb_section .et_pb_button_4{color:#ffffff!important;letter-spacing:0px;background-color:#cf102d}.et_pb_row_7.et_pb_row{padding-top:9px!important;padding-bottom:0px!important;padding-top:9px;padding-bottom:0px}.et_pb_divider_0{padding-bottom:0px}.et_pb_divider_0:before{border-top-color:#cea146;border-top-style:none;width:auto;top:0px;right:0px;left:0px}div.et_pb_section.et_pb_section_4{background-image:url(https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2018/07/e_news_signup-1.jpg)!important}.et_pb_cta_3.et_pb_promo .et_pb_promo_description div{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;color:#ffffff!important}.et_pb_cta_3.et_pb_promo{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important}.et_pb_text_18{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:26px;min-height:32px;padding-top:8px!important;padding-bottom:8px!important;margin-top:0px!important;margin-bottom:5px!important}.et_pb_post_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title,.et_pb_post_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title a{font-weight:700;font-size:18px!important}.et_pb_post_slider_0.et_pb_slider,.et_pb_post_slider_0.et_pb_slider.et_pb_bg_layout_dark{background-color:rgba(0,0,0,0)}.et_pb_post_slider_0 .et_pb_slide_description,.et_pb_slider_fullwidth_off.et_pb_post_slider_0 .et_pb_slide_description{padding-top:10px;padding-bottom:10px}.et_pb_post_slider_0{margin-top:10px!important}.et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_title{font-family:'Bradley Hand',Helvetica,Arial,Lucida,sans-serif!important;font-weight:700!important;font-size:79px!important}.et_pb_slide_0 p{line-height:1.6em!important}.et_pb_slider.et_pb_module .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_content{font-family:'Lato',Helvetica,Arial,Lucida,sans-serif!important;font-weight:700!important;font-size:39px!important;line-height:1.6em!important;text-shadow:0.08em 0.08em 0.08em rgba(0,0,0,0.4)!important}.et_pb_slider .et_pb_slide_0{background-image:url(https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2020/03/slider_v7_covid_message_v2-1.jpg);background-color:rgba(0,0,0,0)}.et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_title{font-size:54px!important}.et_pb_slider.et_pb_module .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_content{font-weight:700!important;font-size:34px!important}.et_pb_slider .et_pb_slide_1{background-image:url(https://www.medicaldetectiondogs.org.uk/wp-content/uploads/2020/09/welly_walk_banner_slider_2.jpg);background-color:rgba(0,0,0,0)}.et_pb_slider .et_pb_slide_1 .et_pb_slide_description,.et_pb_slider_fullwidth_off .et_pb_slide_1 .et_pb_slide_description{padding-top:280px!important}.et_pb_column_14{background-color:#000000}@media only screen and (max-width:980px){body #page-container .et_pb_section .et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_more_button.et_pb_button:after{opacity:0}.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title{font-size:48px!important}.et_pb_row_0.et_pb_row{margin-top:10px!important}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_4:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_2:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_4:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_2:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_1:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}.et_pb_image_1{text-align:center;margin-left:auto;margin-right:auto}.et_pb_image_0{text-align:center;margin-left:auto;margin-right:auto}.et_pb_row_3.et_pb_row{padding-top:10px!important;padding-right:10px!important;padding-bottom:10px!important;padding-left:10px!important;padding-top:10px!important;padding-right:10px!important;padding-bottom:10px!important;padding-left:10px!important}.et_pb_text_6 h1{font-size:26px}.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_image_4{margin-left:auto;margin-right:auto}.et_pb_image_5{margin-left:auto;margin-right:auto}.et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_title{font-size:59px!important}.et_pb_slider.et_pb_module .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_content{font-size:30px!important}.et_pb_slide_0 p{line-height:1.5em!important}.et_pb_slider .et_pb_slide_1 .et_pb_slide_description,.et_pb_slider_fullwidth_off .et_pb_slide_1 .et_pb_slide_description{padding-top:271px!important}}@media only screen and (max-width:767px){body #page-container .et_pb_section .et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_more_button.et_pb_button:after{opacity:0}.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title{font-size:46px!important}.et_pb_section_1.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px}.et_pb_row_0.et_pb_row{margin-top:5px!important}.et_pb_text_0{padding-top:5px!important;padding-right:5px!important;padding-bottom:5px!important;padding-left:5px!important}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_2:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_4:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_1:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_0.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_2.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_2:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_4:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_cta_1.et_pb_promo .et_pb_promo_button.et_pb_button:hover:after{opacity:1}.et_pb_text_7 p{line-height:1.2em}.et_pb_text_4 p{line-height:1.2em}.et_pb_text_2 p{line-height:1.2em}.et_pb_text_1 p{line-height:1.2em}.et_pb_text_1{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important}.et_pb_text_7{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important}.et_pb_row_2.et_pb_row{padding-top:0px!important;margin-top:0px!important;padding-top:0px!important}.et_pb_image_0{padding-top:0px;margin-top:0px!important;margin-left:auto;margin-right:auto}.et_pb_image_1{margin-left:auto;margin-right:auto}.et_pb_image_4{margin-left:auto;margin-right:auto}.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_5{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_row_3.et_pb_row{padding-top:5px!important;padding-right:5px!important;padding-bottom:5px!important;padding-left:5px!important;padding-top:5px!important;padding-right:5px!important;padding-bottom:5px!important;padding-left:5px!important}.et_pb_row_6.et_pb_row{padding-top:5px!important;padding-right:5px!important;padding-bottom:5px!important;padding-left:5px!important;padding-top:5px!important;padding-right:5px!important;padding-bottom:5px!important;padding-left:5px!important}.et_pb_text_6 h1{font-size:18px}.et_pb_section_3.et_pb_section{margin-top:0px;margin-bottom:0px}.et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_title{font-size:44px!important}.et_pb_slider.et_pb_module .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_content{font-size:22px!important}.et_pb_slider.et_pb_module .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_content{font-size:22px!important}.et_pb_slide_0 p{line-height:1.4em!important}.et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_title{font-size:28px!important}.et_pb_slider .et_pb_slide_1 .et_pb_slide_description,.et_pb_slider_fullwidth_off .et_pb_slide_1 .et_pb_slide_description{padding-top:303px!important}.et_pb_column_5{padding-top:0px;padding-bottom:0px}.et_pb_column_1{padding-top:0px;padding-bottom:0px}.et_pb_column_11{padding-top:0px;padding-bottom:0px}}</style><!-- Eu Cookie Law 3.1.5 --><div class="pea_cook_wrapper pea_cook_bottomcenter" style="color:#FFFFFF;background:rgb(221,51,51);background: rgba(221,51,51,0.85);"><p>We use cookies to understand your user experience. By continuing to use this site, you agree to the use of cookies. <a style="color:#FFFFFF;" href="#" id="fom">more information</a> <button id="pea_cook_btn" class="pea_cook_btn">Accept</button></p></div><div class="pea_cook_more_info_popover"><div class="pea_cook_more_info_popover_inner" style="color:#FFFFFF;background-color: rgba(221,51,51,0.9);"><p>The cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this.<br>
+<b>About cookies</b><br>
+Cookies are information packets sent by web servers to web browsers, and stored by the web browsers.<br>
+The information is then sent back to the server each time the browser requests a page from the server. This enables a web server to identify and track web browsers. Some cookies are deleted at the end of a session, others remain on your computer until you delete them or they reach an expiry date.<br>
+<b>Cookies on our website</b><br>
+Medical Detection Dogs uses the following cookies on this website, for the following purposes:<br>
+<b>Analytics </b>– We anonymously measure your use of this website to improve your experience <b>Social media </b> – Facebook, Twitter and other social websites need to know who you are to work properly<br>
+<b>Google cookies</b>
+Medical Detection Dogs uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google's privacy policy can be found on their site at <b>www.google.com/policies/privacy</b>.<br>
+<b>Refusing cookies</b><br>
+Most browsers allow you to refuse to accept cookies - these controls are usually found in settings and privacy. Please refer to your browser help function.<br>
+Blocking cookies will have a negative impact upon the usability of some websites.</p><p><a style="color:#FFFFFF;" href="#" id="pea_close">Close</a></p></div></div></body>
+</html>

@@ -1,0 +1,4528 @@
+
+
+ 
+ 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+      
+
+
+ 
+
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="shortcut icon" href="/content/dam/wbr-redesign/logos/wbg-favicon.png" type="image/png"/>
+	<meta name="viewport" content="width=device-width"/>
+	<meta charset="utf-8" />
+	<title>Somalia</title>
+	<meta name="keywords" content="Africa(AFR), Somalia(SO)"/>
+	<meta name="description" content="Latest news and information from the World Bank and its development work in Somalia.  Access Somalia's economy facts, statistics, project information, development research from experts and latest news."/> 
+	<meta name="language" content="en"/>
+	
+
+
+
+
+<meta property="og:title" content="Somalia"/>
+<meta property="og:site_name" content="World Bank"/>
+<meta property="og:description" content="Latest news and information from the World Bank and its development work in Somalia.  Access Somalia's economy facts, statistics, project information, development research from experts and latest news."/>
+<meta property="og:type" content="article"/>
+<meta property="og:test" content="https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"/>
+
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<meta property="og:image" content="https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"/>
+<meta property="og:url" content="https://www.worldbank.org/en/country/somalia"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="World Bank"/>
+<meta name="twitter:title" content="Somalia"/>
+<meta name="twitter:description" content="Latest news and information from the World Bank and its development work in Somalia.  Access Somalia's economy facts, statistics, project information, development research from experts and latest news."/>
+<meta name="twitter:image:src" content="https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg"/>
+<meta name="dcterms.title" content="Somalia" />
+<meta name="dcterms.type" content="Text/HTML" />
+<meta name="dcterms.identifier" content="https://www.worldbank.org/en/country/somalia"/>
+<meta name="dcterms.language" content="en" /> 
+
+
+     <link rel="canonical" href='https://www.worldbank.org/en/country/somalia'/>
+     <link rel="stylesheet" href="/etc/designs/wbrrdesign/clientlibs-wbrredsign.css" type="text/css">
+
+    
+    
+    <link rel="stylesheet" href="/etc/designs/wbrrdesign/clientlibs-wbrredsign/css/loop-icon.css" type="text/css">
+    
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel='stylesheet' type='text/css'/>
+		<link href="/etc/designs/wbrrdesign/clientlibs-wbrredsign/css/print.css" rel='stylesheet' type='text/css' media="print">
+    <script src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/jquery.min.js"></script>
+    
+          <script type="text/javascript" src="/etc/designs/wbr/components/wbgajax.js"></script>
+
+          
+
+		<script src="//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-858624ed9b5da800ebf8128fe3cf358874235ca9.js"></script>
+        
+
+    
+
+    
+ 
+
+
+    
+
+
+        
+    
+
+
+
+     
+<script src="/etc/designs/wbrrdesign/clientlibs-doingbusiness/js/kendo.all.min.js"></script>
+<script src="/etc/designs/wbrrdesign/clientlibs-doingbusiness/js/jszip.min.js"></script>
+     
+
+    
+
+</head>
+
+
+
+    
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+
+
+    
+
+
+
+
+
+
+
+
+<body>
+    
+  
+
+
+ 
+
+
+
+
+<!--cookie consent starts-->
+<div id="cookieconsentpopup" class="lp__cookie_tooltip" style="display: none;">
+    <div class="container">
+       <p>This site uses cookies to optimize functionality and give you the best possible experience. If you continue to navigate this website beyond this page, cookies will be placed on your browser. To learn more about cookies,&nbsp;<a href="https://www.worldbank.org/en/about/legal/privacy-notice">click here</a>.</p>
+
+        <button type="button" class="close accept-consent" aria-label="Close" tabindex="0">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+</div>
+<script> 
+    function wb_consent_setcookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expiration = "expires="+d.toUTCString();
+        document.cookie = cname + "=" + cvalue + "; " + expiration;
+    }        
+</script>
+<script>
+    jQuery(document).ready(function($) {
+        var consent_note = document.cookie.replace(/(?:(?:^|.*;\s*)consent_cookie\s*\=\s*([^;]*).*$)|^.*$/, '$1');
+        if(consent_note.indexOf("1")<0) {			
+            $("#cookieconsentpopup").show(); 
+        }else{
+            $("#cookieconsentpopup").hide(); 
+            
+        }
+        $(document).on("click", ".close", function(c) {
+            wb_consent_setcookie('consent_cookie','1',365);                    
+            $(this).closest(".lp__cookie_tooltip").hide();
+        })
+    });
+</script>
+<!--cookie consent ends-->
+
+
+
+
+
+
+      
+
+
+    <div id="fb-root"></div> 
+
+
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '115003692510821',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.10'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    
+
+
+    
+     
+    
+	<div data-ajax-component-wbg data-url="/wbg/aem/service/liveeventservicespring" data-ajax-query-parameters='language=en&pageName=/country/somalia/en' ></div>
+    
+    
+    
+
+
+
+
+
+<link href="/etc/designs/wbr/clientlibs/css/home-banner.css" type="text/css" rel="stylesheet">
+
+
+<div id="wb_banner" class="">
+    <span class="wb_banner_text">
+        <p><span>Learn how the World Bank Group is helping countries with COVID-19 (coronavirus).</span>
+            
+            
+            <span> </span><a class="btn-schedule" href="https://www.worldbank.org/en/who-we-are/news/coronavirus-covid19?intcid=wbw_xpl_banner_en_ext_Covid19"><span>Find Out</span></a></p>
+    </span>
+    <span class="wb_banner_descr"></span><input type="button" value="Close" onclick="wb_close();" />
+</div>
+
+
+
+
+
+<link rel="stylesheet" href="//live.worldbank.org/sites/default/files/wb_banner.css" type="text/css">
+
+
+
+
+
+
+<script>
+function wb_survey_yes(url) {
+	wb_note_setcookie('wb_note','1',1);
+	$('#survey').hide();
+	window.open(url,'_blank');
+}
+
+function wb_note_setcookie(cname, cvalue, exdays) {
+	var d = new Date();
+	d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	var expires = "expires="+d.toUTCString();
+	document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+
+function wb_close() {
+	document.getElementById('wb_banner').style.display = 'none';
+	wb_banner_setcookie("wb_banner","1",1);
+};
+
+</script>
+<script>jQuery(document).ready(function($) {
+			var wb_note = document.cookie.replace(/(?:(?:^|.*;\s*)wb_note\s*\=\s*([^;]*).*$)|^.*$/, '$1');
+			if(wb_note != 1) {			
+				$("#banner").show();
+				$('.delete_icon a').click(function() {
+					wb_note_setcookie('wb_note','1',1);
+					$('#banner').hide();					
+				});				
+			}
+		});</script>
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+<a tabindex="0" id="skip-to-main-content" class="visually-hidden focusable" href="#main">Skip to Main Navigation</a>
+<header>
+    <div class="lp__navbar lp__navbar_default navbar navbar-default class">
+        <div class="container">
+            <div class="navbar-header">
+      <a href="https://www.worldbank.org" class="navbar-brand g01v1-logo"><img title="World Bank Group logo" alt="World Bank Group logo" src="/content/dam/wbr/logo/logo-wb-header-en.svg" class="img-responsive"> </a>
+      </div><!-- End Logo Section -->
+<div class="lp__menuButton">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menuItems" aria-expanded="false" aria-controls="menuItems" aria-label="menu">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+</div>
+        <!-- End toggle menu Section -->
+     <div class="lp__menulist_wrappper visible-sm visible-xs">
+       <div class="navbar-collapse collapse lp__megamenu" id="menuItems">
+     <nav>
+                <div class="header-search-section">
+                    <form name="hiddensearch" id="globalsearchId-mob" action="" method="get" style="display:none" aria-hidden="true">
+                        <input id="global_search-mob" type="hidden" name="q" title="searchtexthidden1"> 
+                    </form>
+                    <label for="mobile-globalsearch" class="sr-only">Global Search</label>
+                    <form role="search" class="input-group" name="searchbox" onsubmit="javascript:return submit_search_form();">
+                        <input type="text" id="mobile-globalsearch" placeholder="Search worldbank.org" class="search-input-field-1 global_search_form_mobile" name="qterm_test" title=""> 
+                        <button type="submit" title="Search" class="search-submit-icon" onclick="javascript:submit_search_form();"><span class="sr-only" aria-hidden="true">Search button</span>
+                        </button>
+                    </form>
+                </div>
+           <ul>
+            <li class="lp__megamenu_list">
+                <a href="/en/who-we-are" class="lp__megamenu_item">WHO WE ARE</a>
+                <div class="lp__megamenu_blurb">Leadership, organization, and history</div>
+            </li>
+            <li class="lp__megamenu_list">
+                 <a href="/en/what-we-do" class="lp__megamenu_item">WHAT WE DO</a>
+                <div class="lp__megamenu_blurb">Projects, products, and services</div>
+            </li>
+            <li class="lp__megamenu_list">
+                <a href="/en/where-we-work" class="lp__megamenu_item">WHERE WE WORK</a>
+                 <div class="lp__megamenu_blurb">Countries and regions</div>
+            </li>
+            <li class="lp__megamenu_list">
+                 <a href="/en/understanding-poverty" class="lp__megamenu_item">UNDERSTANDING POVERTY</a>
+                <div class="lp__megamenu_blurb">Global data and statistics, research and publications, and topics in poverty and development</div>
+            </li>
+            <li class="lp__megamenu_list">
+                <a href="/en/work-with-us" class="lp__megamenu_item">WORK WITH US</a>
+                <div class="lp__megamenu_blurb">Jobs, procurement, training, and events</div>
+            </li>
+            <li class="lp__megamenu_list">
+                <a href="href=" https: www.worldbank.org en news class="lp__megamenu_item lp__news_link">News</a>
+            </li>
+        </ul>
+     </nav>
+     </div>
+     </div>
+     
+       <div class="lp__menulist_wrappper lp__megamenu hidden-sm hidden-xs">  
+          <nav class="megamenu">
+          <ul  class="nav navbar-nav" id="lp__megamenu">
+                  <li class="lp__megamenu_list">
+                    <a href="/en/who-we-are" class="lp__megamenu_item" aria-label="who we are">WHO WE ARE</a>
+                    <div class="lp__megamenu_dropdown hidden-xs hidden-sm">
+                      <div class="container">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-12">
+                              <div class="lp__megamenu_left_col">
+                              <div class="lp__megamenu_img">
+                                <img class="img-responsive" src="/content/dam/wbr-redesign/images/megamenu-whoweare.jpg" alt="megamenu-image-1" title="who we are" tabindex="0">
+                              </div>
+                              <p class="lp__megamenu_blurb" tabindex="0">With 189 member countries, staff from more than 170 countries, and offices in over 130 locations, the World Bank Group is a unique global partnership: five institutions working for sustainable solutions that reduce poverty and build shared prosperity in developing countries. &nbsp;</p>
+                              </div>
+                            </div><!--end left column-->  
+                             <div class="col-lg-8 col-md-8 col-sm-12">
+                                   <div class="lp__megamenu_right_col row">
+                  <div class="lp__megamenu_sublist col-lg-4 col-md-4 col-sm-4">
+                    <div class="h5" role="heading" aria-level="2" tabindex="0">About the World Bank</div>
+                    <ul>
+                      <li><a href="https://www.worldbank.org/en/about/what-we-do">Overview</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/leadership">Organization</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/partners">Partners</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/history">History</a></li>
+                      <li><a href="https://openknowledge.worldbank.org/handle/10986/16093">World Bank Group Strategy</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/archives">Archives</a></li>
+                    </ul>
+                  </div><!-- end col -->
+                  <div class="lp__megamenu_sublist col-lg-4 col-md-4 col-sm-4">
+                    <div class="h5" role="heading" aria-level="2" tabindex="0">Accountability</div>
+                    <ul>
+                    <li><a href="https://www.worldbank.org/en/about/annual-report">Annual Reports</a></li>
+                    <li><a href="https://www.worldbank.org/en/access-to-information">Access to Information</a></li>
+                    <li><a href="https://scorecard.worldbank.org/">Corporate Scorecard</a></li>
+                    <li><a href="https://www.worldbank.org/en/about/unit/integrity-vice-presidency">Integrity Vice Presidency</a></li>
+                    <li><a href="https://www.inspectionpanel.org/">Inspection Panel</a></li>
+                    <li><a href="https://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service">Grievance Redress Service</a></li>
+                    <li><a href="https://ieg.worldbankgroup.org/">Independent Evaluation Group</a></li>
+                    <li><a href="https://www.cao-ombudsman.org/">Compliance Advisor Ombudsman</a></li>
+                    <li><a href="https://policies.worldbank.org/sites/PPF3/Pages/PPFHome.aspx">Policies and Procedures</a></li>
+                  </ul>
+                  </div><!-- end col -->
+                  <div class="lp__megamenu_sublist col-lg-4 col-md-4 col-sm-4">
+                  <div class="h5" role="heading" aria-level="2" tabindex="0">Experts And Leaders</div>
+                    <ul>
+                      <li><a href="https://www.worldbank.org/en/about/president">Office of the President</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/leadership/governors">Boards of Governors</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/leadership/directors">Boards of Directors</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/leadership/managers">Leadership</a></li>
+                      <li><a href="https://www.worldbank.org/en/about/people/all">Experts</a></li>
+                    </ul>
+                  </div>
+                  <div class="col-lg-12 col-md-12 col-sm-12">
+                    <hr>
+                    <ul>
+                      <li>
+                        <a href="https://www.worldbank.org/en/news" class="lp__megamenu_highlight_cta">News</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div><!-- end col -->
+                             </div>
+                        </div>
+                    </div>
+                  </div>
+                  </li>
+                 <li class="lp__megamenu_list">
+                             <a href="/en/what-we-do" class="lp__megamenu_item" aria-label="what we do">WHAT WE DO</a>
+                              <div class="lp__megamenu_dropdown hidden-xs hidden-sm">
+                                <div class="container">
+                              <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-12">
+                              <div class="lp__megamenu_left_col">
+                              <div class="lp__megamenu_img">
+                                <img class="img-responsive" src="/content/dam/wbr-redesign/images/megamenu-whatwedo.jpg" alt="megamenu-image-1" title="who we are" tabindex="0">
+                              </div>
+                              <p class="lp__megamenu_blurb" tabindex="0">The World Bank Group works in every major area of development. &nbsp;We provide a wide array of financial products and technical assistance, and we help countries share and apply innovative knowledge and solutions to the challenges they face.</p>
+                              </div>
+                            </div><!--end left column-->  
+                            <div class="col-lg-8 col-md-8 col-sm-12">
+                                  <div class="lp__megamenu_right_col row">
+                    
+                          <div class="col-lg-7 col-md-7 col-sm-7">
+                            <div class="row">
+                              <div class="lp__megamenu_sublist col-lg-7 col-md-7 col-sm-7">
+                                <div class="h5" role="heading" aria-level="2" tabindex="0">Development Projects</div>
+                              <ul>
+                                <li><a href="https://projects.worldbank.org"><span class="lp__megamenu_highlight_item">Projects</span></a></li>
+                                <li><a href="https://projects.worldbank.org/country?lang=en&page=">By Country</a></li>
+                                <li><a href="https://projects.worldbank.org/sector?lang=en&page=">By Sector</a></li>
+                                <li><a href="https://projects.worldbank.org/theme?lang=en&page=">By Theme</a></li>
+                                 <li><a href="https://www.worldbank.org/en/projects-operations/country-strategies"><span class="lp__megamenu_highlight_item">Country Engagement</span></a></li>
+                                <li><a href="https://www.worldbank.org/en/projects-operations/environmental-and-social-policies">Environmental and Social Policies for Projects</a></li>
+                                  <li><a href="https://www.worldbank.org/en/projects-operations/products-and-services/procurement-projects-programs">Procurement for Projects and Programs</a></li>
+                                  <li><a href="https://www.worldbank.org/en/results"><span class="lp__megamenu_highlight_item">Results</span></a></li>
+                              </ul>
+                              </div>
+                              <div class="lp__megamenu_sublist col-lg-5 col-md-5 col-sm-5">
+                                <div class="h5" role="heading" aria-level="2" tabindex="0">Priorities</div>
+                              <ul>
+                                <li><a href="https://www.worldbank.org/en/publication/human-capital">Human Capital Project</a></li>
+                                <li><a href="https://www.worldbank.org/en/who-we-are/news/campaigns/2020/peoplepeaceprosperity">People, Peace, Prosperity</a></li>
+                              
+                            </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-5 col-md-5 col-sm-5">
+                            <div class="row">
+                              <div class="lp__megamenu_sublist col-lg-6 col-md-6 col-sm-6">
+                                <div class="h5" role="heading" aria-level="2" tabindex="0">Knowledge</div>
+                              <ul>
+                                <li><a href="https://www.worldbank.org/en/research">Research &amp; Publications</a></li>
+                                <li><a href="https://data.worldbank.org/">Data</a></li>
+                                <li><a href="https://olc.worldbank.org/">Learning</a></li>
+                                <li><a href="https://www.worldbank.org/en/topic">Development Topics</a></li>
+                                <li><a href="https://openknowledge.worldbank.org/">Open Knowledge Repository</a></li>
+                              </ul>
+                              </div>
+                              <div class="lp__megamenu_sublist col-lg-6 col-md-6 col-sm-6">
+                                  <div class="h5" role="heading" aria-level="2" tabindex="0">Products &amp; Services</div>
+                              <ul>
+                                <li><a href="https://www.worldbank.org/en/projects-operations/products-and-services">Financing Products &amp; Advisory Services</a></li>
+                                <li><a href="https://treasury.worldbank.org/">Treasury</a></li>
+                              </ul>
+                              </div>
+                            </div>
+                          </div>
+                    
+                          </div><!-- end col -->
+                          </div>
+                          </div><!-- end col -->
+                              </div>
+                            </div>
+                            </li>
+          <li class="lp__megamenu_list">
+                                    <a href="/en/where-we-work" class="lp__megamenu_item" aria-label="where we work">WHERE WE WORK</a>
+                                    <div class="lp__megamenu_dropdown hidden-xs hidden-sm">  
+                                      <div class="container">
+                                        <div class="row">
+                                      <div class="col-lg-5 col-md-5 col-sm-12">
+                                        <div class="lp__megamenu_left_col padd-32">
+                                 <div class="header-search-section lp__countrysearch">
+                              
+                              <div class="dropdown">
+                                    <label class="h5" for="search-country">Countries</label>
+                              <form data-csearch="https://www.worldbank.org/en/where-we-work" id="csearch" class="input-group" name="searchbox" onsubmit="javascript:WriteCookie();" method="get">   
+                                 <input type="text" autocomplete="on" onfocus="clearField(this)" placeholder="Country Name..." class="search-input-field-1 search_form_where_we_work" id="search-country" name="usrname" title="search"> 
+                              </form>
+                              <button type="button" class="lp__dropdown-toggle fa fa-angle-down" data-toggle="dropdown" aria-label="country dropdown"><span class="sr-only" aria-hidden="true">country dropdown</span></button>
+<ul class="tt-menu dropdown-menu">
+   <li class="tt-suggestion" data-original-index="0">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/afghanistan">Afghanistan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="1">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/albania">Albania</a>
+         <ul><li lang="sq"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/sq/country/albania">shqip</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="2">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/algeria">Algeria</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/algeria">Français</a></li>
+            <li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/algeria/ar">عربي</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="3">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/angola">Angola</a>
+         <ul>
+            <li lang="pt"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/angola">Português</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="4">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Antigua and Barbuda</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="5">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/argentina">Argentina</a>
+         <ul>
+            <li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/argentina">Español</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="6">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/armenia">Armenia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="7">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/austria">Austria</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="8">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/azerbaijan">Azerbaijan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="9">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/region/mena/brief/gcc">Bahrain</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="10">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/bangladesh">Bangladesh</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="11">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/belarus">Belarus</a>
+        <ul>
+           <li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/belarus">Русский</a></li>
+        </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="12">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/belgium">Belgium</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/belgium">Français</a></li>
+         </ul>
+  
+   </li>
+   <li class="tt-suggestion" data-original-index="13">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Belize</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="14">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/benin">Benin</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/benin">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="15">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/bhutan">Bhutan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="16">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/bolivia">Bolivia</a>
+         <ul>
+            <li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/bolivia">Español</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="17">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/bosniaandherzegovina">Bosnia and Herzegovina</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="18">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/botswana">Botswana</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="19">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/brazil">Brazil</a>
+        <ul>
+           <li lang="pt"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/brazil">Português</a></li>
+        </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="20">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/bulgaria">Bulgaria</a>
+         <ul>
+            <li lang="bg"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/bg/country/bulgaria">Български</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="21">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/burkinafaso">Burkina Faso</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/burkinafaso">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="22">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/burundi">Burundi</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/burundi">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="23">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caboverde">Cabo Verde</a>
+        <ul>
+           <li lang="pt"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/caboverde">Português</a></li>
+        </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="24">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/cambodia">Cambodia</a>
+         <ul>
+            <li lang="km"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/km/country/cambodia">ភាសាខ្មែរ</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="25">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/cameroon">Cameroon</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/cameroon">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="26">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/canada">Canada</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/canada">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="27">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centralafricanrepublic">Central African Republic</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/centralafricanrepublic">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="28">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/chad">Chad</a>
+         <ul>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://web.worldbank.org/WBSITE/EXTERNAL/ACCUEILEXTN/PAYSEXTN/AFRICAINFRENCHEXT/CHADINFRENCHEXT/0,,menuPK:464923~pagePK:141159~piPK:55000052~theSitePK:464694,00.html">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="29">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/chile">Chile</a>
+         <ul>
+            <li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/chile">Español</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="30">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/china">China</a>
+         <ul>
+            <li lang="zh"><a class="lang-list dropdown-item tt-menu-list" href="https://www.shihang.org//zh/country/china">中文</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="31">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/colombia">Colombia</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/colombia">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="32">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/comoros">Comoros</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/comoros">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="33">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/drc">Democratic Republic of Congo</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/drc">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="34">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/congo">Republic of Congo</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/congo">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="35">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/costarica">Costa Rica</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/costarica">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="36">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/cotedivoire">Cote d'Ivoire</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/cotedivoire">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="37">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/croatia">Croatia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="38">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Czech Republic</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="39">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/denmark">Denmark</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="40">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/djibouti">Djibouti</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="41">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Dominica</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="42">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/dominicanrepublic">Dominican Republic</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/dominicanrepublic">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="43">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/ecuador">Ecuador</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/ecuador">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="44">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/egypt">Egypt</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/egypt">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="45">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/elsalvador">El Salvador</a>
+        <ul><li lang="es"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/elsalvador">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="46">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/equatorialguinea">Equatorial Guinea</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="47">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/eritrea">Eritrea</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="48">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Estonia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="49">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/ethiopia">Ethiopia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="50">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/westerneurope">Europe (Western)</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="51">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Fiji</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="52">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/finland">Finland</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="53">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/france">France</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/france">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="54">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/gabon">Gabon</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/gabon">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="55">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/gambia">The Gambia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="56">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/georgia">Georgia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="57">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/germany">Germany</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="58">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/ghana">Ghana</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="59">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/greece">Greece</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="60">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Grenada</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="61">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/guatemala">Guatemala</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/guatemala">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="62">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/guinea">Guinea</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/guinea">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="63">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/guineabissau">Guinea-Bissau</a>
+         <ul><li lang="pt"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/guineabissau">Português</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="64">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Guyana</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="65">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/haiti">Haiti</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/haiti">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="66">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/honduras">Honduras</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/honduras">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="67">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Hungary</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="68">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/iceland">Iceland</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="69">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/india">India</a>
+         <ul><li lang="hi"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/hi/country/india">Hindi</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="70">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/indonesia">Indonesia</a>
+         <ul><li lang="in"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/in/country/indonesia">Bahasa</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="71">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/iran">Iran</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="72">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/iraq">Iraq</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTARABICHOME/EXTARABICCOUNTRIES/MENAINARABICEXT/IRAQINARABICEXTN/0,,menuPK:494417~pagePK:141159~piPK:51068265~theSitePK:494290,00.html">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="73">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://data.worldbank.org/country/israel">Israel</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="74">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/italy">Italy</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="75">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/jamaica">Jamaica</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="76">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/japan">Japan</a>
+         <ul><li lang="ja"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/ja/country/japan">日本語</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="77">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/jordan">Jordan</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/jordan">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="78">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/kazakhstan">Kazakhstan</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/kazakhstan">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="79">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/kenya">Kenya</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="80">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Kiribati</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="81">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/korea">Korea</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="82">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/kosovo">Kosovo</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="83">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/region/mena/brief/gcc">Kuwait</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="84">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/kyrgyzrepublic">Kyrgyz Republic</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/kyrgyzrepublic">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="85">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/lao">Lao PDR</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="86">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Latvia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="87">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/lebanon">Lebanon</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/lebanon">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="88">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/lesotho">Lesotho</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="89">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/liberia">Liberia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="90">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/libya">Libya</a>
+        <ul><li lang="ar"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/libya">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="91">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Lithuania</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="92">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/luxembourg">Luxembourg</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/luxembourg">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="93">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/macedonia">FYR of Macedonia</a>
+         <ul><li lang="mk"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/mk/country/macedonia">македонски</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="94">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/madagascar">Madagascar</a>
+        <ul><li lang="fr"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/madagascar">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="95">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/malawi">Malawi</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="96">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/malaysia">Malaysia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="97">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/maldives">Maldives</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="98">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mali">Mali</a>
+        <ul><li lang="fr"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/mali">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="99">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Marshall Islands</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="100">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mauritania">Mauritania</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/mauritania">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="101">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mauritius">Mauritius</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/mauritius">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="102">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mexico">Mexico</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/mexico">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="103">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">FS Micronesia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="104">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/moldova">Moldova</a>
+         <ul><li lang="ro"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/ro/country/moldova">română</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="105">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mongolia">Mongolia</a>
+         <ul><li lang="mn"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/mn/country/mongolia">Монгол</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="106">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/montenegro">Montenegro</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="107">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/morocco">Morocco</a>
+         <ul>
+            <li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/morocco">عربي</a></li>
+            <li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/morocco">Français</a></li>
+         </ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="108">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/mozambique">Mozambique</a>
+         <ul><li lang="pt"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/mozambique">Português</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="109">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/myanmar">Myanmar</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="110">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/namibia">Namibia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="111">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/nepal">Nepal</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="112">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/netherlands">Netherlands</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="113">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/nicaragua">Nicaragua</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/nicaragua">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="114">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/niger">Niger</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/niger">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="115">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/nigeria">Nigeria</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="116">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/norway">Norway</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="117">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/region/mena/brief/gcc">Oman</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="118">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pakistan">Pakistan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="119">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Palau</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="120">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/panama">Panama</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/panama">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="121">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/png">Papua New Guinea</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="122">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/paraguay">Paraguay</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/paraguay">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="123">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/peru">Peru</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/peru">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="124">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/philippines">Philippines</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="125">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/poland">Poland</a>
+         <ul><li lang="pl"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pl/country/poland">Polski</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="126">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/portugal">Portugal</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="127">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/region/mena/brief/gcc">Qatar</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="128">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/romania">Romania</a>
+         <ul><li  lang="ro"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/ro/country/romania">Română</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="129">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/russia">Russia</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/russia">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="130">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/rwanda">Rwanda</a>
+        <ul><li lang="fr"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/rwanda">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="131">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Samoa</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="132">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/saotome">Sao Tome and Principe</a>
+         <ul><li lang="pt"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/pt/country/saotome">Português</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="133">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/senegal">Senegal</a>
+        <ul><li lang="fr"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/senegal">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="134">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/serbia">Serbia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="135">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/seychelles">Seychelles</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/seychelles">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="136">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/sierraleone">Sierra Leone</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="137">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/singapore">Singapore</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="138">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Slovak Republic</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="139">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics">Slovenia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="140">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Solomon Islands</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="141">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/somalia">Somalia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="142">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/southafrica">South Africa</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="143">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/southsudan">South Sudan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="144">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/spain">Spain</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/spain">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="145">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/srilanka">Sri Lanka</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="146">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">St. Kitts and Nevis</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="147">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">St. Lucia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="148">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">St. Vincent and Grenadines</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="149">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/sudan">Sudan</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="150">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Suriname</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="151">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/swaziland">Swaziland</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="152">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/sweden">Sweden</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="153">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/switzerland">Switzerland</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="154">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/syria">Syria</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/syria">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="155">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/tajikistan">Tajikistan</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/tajikistan">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="156">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/tanzania">Tanzania</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="157">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/thailand">Thailand</a>
+         <ul><li lang="th"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/th/country/thailand">ภาษาไทย</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="158">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/timor-leste">Timor Leste (East Timor)</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="159">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/togo">Togo</a>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/togo">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="160">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Tonga</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="161">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/caribbean">Trinidad and Tobago</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="162">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/tunisia">Tunisia</a>
+         <ul><li lang="ar"><a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/tunisia">عربي</a></li></ul>
+         <ul><li lang="fr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.banquemondiale.org//fr/country/tunisia">Français</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="163">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/turkey">Turkey</a>
+         <ul><li lang="tr"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/tr/country/turkey">Türkçe</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="164">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/turkmenistan">Turkmenistan</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/turkmenistan">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="165">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Tuvalu</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="166">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/uganda">Uganda</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="167">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/ukraine">Ukraine</a>
+         <ul><li lang="uk"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/uk/country/ukraine">Yкраїнський</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="168">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/region/mena/brief/gcc">United Arab Emirates</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="169">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/unitedkingdom">United Kingdom</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="170">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/unitedstates">United States of America</a>
+      </li>
+   <li class="tt-suggestion" data-original-index="171">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/uruguay">Uruguay</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/uruguay">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="172">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/uzbekistan">Uzbekistan</a>
+         <ul><li lang="ru"><a class="lang-list dropdown-item tt-menu-list" href="https://www.vsemirnyjbank.org/ru/country/uzbekistan">Русский</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="173">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/pacificislands">Vanuatu</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="174">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/venezuela">Venezuela</a>
+         <ul><li lang="es"><a class="lang-list dropdown-item tt-menu-list" href="https://www.bancomundial.org//es/country/venezuela">Español</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="175">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/vietnam">Vietnam</a>
+         <ul><li lang="vi"><a class="lang-list dropdown-item tt-menu-list" href="https://www.worldbank.org/vi/country/vietnam">Tiẽng Việt</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="176">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/westbankandgaza">West Bank and Gaza</a>
+        <ul><li lang="ar"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/westbankandgaza">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="177">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/yemen">Yemen</a>
+        <ul><li lang="ar"> <a class="lang-list dropdown-item tt-menu-list" href="https://www.albankaldawli.org//ar/country/yemen">عربي</a></li></ul>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="178">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/zambia">Zambia</a>
+     
+   </li>
+   <li class="tt-suggestion" data-original-index="179">
+      
+         <a class="country-name dropdown-item tt-menu-list" href="https://www.worldbank.org/en/where-we-work/zimbabwe">Zimbabwe</a>
+     
+   </li>
+</ul>
+                              </div>
+                              </div> 
+                                      <div class="lp__megamenu_sublist">
+                                        <div class="h5" role="heading" aria-level="2"  tabindex="0">Recent Searches</div>
+                                        <ul class="no-mega-menu-sublist"></ul>
+                                      </div>
+                                        </div>
+                                      </div><!--end left column-->  
+                                      <div class="col-lg-7 col-md-7 col-sm-12">
+                                      <div class="lp__megamenu_right_col row">
+                                      <div class="lp__megamenu_sublist col-lg-6 col-md-6 col-sm-6">
+                                        <div class="h5" role="heading" aria-level="2"  tabindex="0">Regions</div>
+                                        <ul>
+                                          <li><a href="https://www.worldbank.org/en/region/afr">Africa</a></li>
+                                                  <li><a href="https://www.worldbank.org/en/region/eap">East Asia and Pacific</a></li>
+                                                  <li><a href="https://www.worldbank.org/en/region/eca">Europe and Central Asia</a></li>
+                                                  <li><a href="https://www.worldbank.org/en/region/lac">Latin America and Caribbean</a></li>
+                                                  <li><a href="https://www.worldbank.org/en/region/mena">Middle East and North Africa</a></li>
+                                                  <li><a href="https://www.worldbank.org/en/region/sar">South Asia</a></li>
+                                        </ul>
+                                      </div><!-- end col -->
+                                      <div class="lp__megamenu_sublist col-lg-6 col-md-6 col-sm-6">
+                                        <div class="h5" role="heading" aria-level="2"  tabindex="0">Country Groups</div>
+                                        <ul>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/eu">European Union</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/mic">Middle Income Countries</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/caribbean">Organization of Eastern Caribbean States</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/pacificislands">Pacific Islands</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/smallstates">Small States</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/gcc">Gulf Cooperation Council</a></li>
+                                          <li><a href="https://www.worldbank.org/en/where-we-work/westerneurope">Western Europe</a></li>
+                                      </ul>
+                                      </div><!-- end col -->
+                              
+                                    </div><!-- end col -->
+                                    </div>
+                                  </div>
+                                    </div>
+                                  </div>
+                                  </li>
+                              
+                              
+                 <li class="lp__megamenu_list">
+                                                  <a href="/en/understanding-poverty" class="lp__megamenu_item" aria-label="understanding poverty">UNDERSTANDING POVERTY</a>
+                                                  <div class="lp__megamenu_dropdown hidden-xs hidden-sm">
+                                                    <div class="container">
+                                                    <div class="row">
+                                                       <div class="col-lg-4 col-md-4 col-sm-12">
+                                                        <div class="lp__megamenu_left_col">
+                                                        <div class="lp__megamenu_img">
+                                                          <img class="img-responsive" src="/content/dam/wbr-redesign/images/megamenu-photo-pakistan.jpg" alt="megamenu-image-1" title="UNDERSTANDING POVERTY" tabindex="0">
+                                                        </div>
+                                                        <p class="lp__megamenu_blurb" tabindex="0">We face big challenges to help the world’s poorest people and ensure that everyone sees benefits from economic growth. Data and research help us understand these challenges and set priorities, share knowledge of what works, and measure progress.</p>
+                                                        </div>
+                                                      </div><!--end left column-->  
+                                                      <div class="col-lg-8 col-md-8 col-sm-12">
+                                                        <div class="lp__megamenu_right_col row">
+                                                          <div class="lp__megamenu_sublist col-lg-4 col-md-4">
+                                                              <div class="h5" role="heading" aria-level="2" tabindex="0">Data & Research</div>
+                                                              <ul>
+                                                                <li><a href="https://data.worldbank.org/"><span class="lp__megamenu_highlight_item">Open Data</span></a></li>
+                                                                <li><a href="https://data.worldbank.org/country">By Country</a></li>
+                                                                <li><a href="https://data.worldbank.org/indicator">By Indicator</a></li>
+                                                                <li><a href="https://www.worldbank.org/en/research"><span class="lp__megamenu_highlight_item">Research &amp; Publications</span></a></li>
+                                                              </ul>
+                                                            </div><!-- end col -->
+                                                            <div class="lp__megamenu_sublist col-lg-8 col-md-8">
+                                                               <div class="h5" role="heading" aria-level="2" tabindex="0">Development Topics</div>
+                                                               <ul class="lp__megamenu_sublist lp__topic_list">
+                                                                  <li><a href="https://www.worldbank.org/en/topic/climatechange">Climate Change</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/poverty">Poverty</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/education">Education</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/urbandevelopment">Urban Development</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/energy">Energy</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/trade">Trade</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/fragilityconflictviolence">Fragility, Conflict and Violence</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic/health">Health</a></li>
+                                                                  <li><a href="https://www.worldbank.org/en/topic"><span class="lp__megamenu_highlight_cta">All Development Topics</span></a></li>
+                                                                </ul>
+                                                            </div>
+                                                                             <div class="lp__megamenu_sublist col-lg-12 col-md-12 col-sm-12" >
+                                                  <hr>
+                                                         <!-- Begin Input Search -->   
+                                                           <div class="header-search-section">
+                                                           
+                                                             <form name="hiddensearch1" id="upovertyId" method="get" style="display:none" aria-hidden="true">
+                                                                <input id="upoverty" type="hidden" name="query" title="searchtexthidden1">
+                                                             </form>
+                                                             <form role="search" class="input-group" name="search1" onsubmit="return submit_search_form_upoverty();" method="get">  
+                                                                <input type="search"  placeholder="Search research and publications" class="search-input-field-1 search_form_poverty" id="search_research_publications" aria-label="Search research and publications" name="qterm_test1"> 
+                                                                <button type="submit" title="Search" onclick="javascript:submit_search_form_upoverty();" class="search-submit-icon"><span class="sr-only" aria-hidden="true">Search button</span>
+                                                                </button>
+                                                             </form>
+                                                          </div>
+                                                      <!-- End Input Search -->
+                                                </div>
+                                                        </div>
+                                                      </div>
+                                        
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                                </li>
+                  <li class="lp__megamenu_list">
+                                                            <a href="/en/work-with-us" class="lp__megamenu_item" aria-label="work with us">WORK WITH US</a>
+                                                            <div class="lp__megamenu_dropdown hidden-xs hidden-sm">
+                                                              <div class="container">
+                                                              <div class="row lp__megamenu_right_col">
+                                                                <div class="lp__megamenu_sublist col-md-15 col-sm-3">
+                                                           <div class="h5" role="heading" aria-level="2" tabindex="0">For Job Seekers</div>
+                                                            <ul>
+                                                              <li><a href="https://www.worldbank.org/en/about/careers">Jobs</a></li>
+                                                              <li><a href="https://www.worldbank.org/en/about/careers/programs-and-internships">Programs &amp; Internships</a></li>
+                                                            </ul>
+                                                          </div>
+                                                                <div class="lp__megamenu_sublist col-md-15 col-sm-3">
+                                                           <div class="h5" role="heading" aria-level="2" tabindex="0">For Partners</div>
+                                                            <ul>
+                                                            <li><a href="https://www.worldbank.org/en/about/partners">Partners</a></li>
+                                                                    <li><a href="https://clientconnection.worldbank.org/servlet/main?menuPK=234032&amp;pagePK=232663&amp;piPK=234033">Clients</a></li>
+                                                                    <li><a href="https://www.worldbank.org/en/about/partners/the-world-bank-group-and-private-sector">Private Sector</a></li>
+                                                                    <li><a href="https://www.worldbank.org/en/about/corporate-procurement">Corporate Procurement&nbsp;</a></li>
+                                                                    <li><a href="https://www.worldbank.org/en/about/partners/civil-society">Civil Society</a></li>
+                                                                    <li><a href="https://consultations.worldbank.org/?map=1">Consultations</a></li>
+                                                                    <li><a href="https://www.worldbank.org/en/about/parliamentarians">Parliamentarians</a></li>
+                                                          </ul>
+                                                          </div>
+                                                                <div class="lp__megamenu_sublist col-md-15 col-sm-3">
+                                                           <div class="h5" role="heading" aria-level="2" tabindex="0">For Investors</div>
+                                                            <ul>
+                                                              <li><a href="https://treasury.worldbank.org/en/about/unit/treasury/ibrd">World Bank Bonds &amp; Investment Products</a></li>
+                                                                    <li><a href="https://treasury.worldbank.org/">Treasury</a></li>
+                                                            </ul>
+                                                          </div>
+                                                                <div class="lp__megamenu_sublist col-md-15 col-sm-3">
+                                                           <div class="h5" role="heading" aria-level="2" tabindex="0">For Learners</div>
+                                                            <ul>
+                                                               <li><a href="https://olc.worldbank.org/">Open Learning Campus</a></li> 
+                                                            </ul>
+                                                          </div>
+                                                               <div class="lp__megamenu_sublist col-md-15 col-sm-3">
+                                                           <div class="h5" role="heading" aria-level="2" tabindex="0">Meet Us</div>
+                                                            <ul>
+                                                               <li><a href="https://www.worldbank.org/en/events">Events</a></li>
+                                                                      <li><a href="https://live.worldbank.org/">World Bank Live</a></li>
+                                                                      <li><a href="https://www.worldbank.org/en/about/speakers-bureau">Speaker's Bureau</a></li>
+                                                                      <li><a href="https://www.worldbank.org/en/meetings/splash">Spring &amp; Annual Meetings</a></li>
+                                                            </ul>
+                                                          </div>
+                                                          <div class="col-lg-12 col-md-12 col-sm-12">
+                                                            <hr>
+                                                            <ul>
+                                                              <li><a href="https://www.worldbank.org/en/about/contacts">
+                                                                           <span class="lp__megamenu_highlight_cta">Contacts &amp; Inquiries</span>
+                                                                           </a></li>
+                                                            </ul>
+                                                          </div>
+                                                              </div>
+                                                            </div>
+                                                          </div>
+                                                          </li> 
+          <!-- Begin News -->
+          </ul>
+          </nav>
+             <div class="lp__globalsearch hidden-sm hidden-xs">
+               <div class="sr-only" id="search-label">global Search dropdown</div>
+                       <a class="lang-lable dropdown-toggle" href="#" role="button" id="globalsearch-label" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-labelledby="search-label"><img class="megamenu_search_icon" src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/img/search-orange.svg" title="Global Search" alt="Search graphic"></a>
+                           <div class="lp__megamenu_dropdown dropdown-menu" aria-labelledby="search-label">
+                   <div class="container hidden-xs hidden-sm">
+                      <div class="lp__megamenu_right_col lp__global_search row">
+                      <div class=" col-lg-3 col-md-4 col-sm-12 col-xs-2">
+                       <label class="h2" for="qterm_id">Search</label> 
+                      </div>
+                       <div class=" col-lg-9 col-md-8 col-sm-8 col-xs-12 ">
+           
+                              <div class="header-search-section">
+                               
+                               <form name="hiddensearch" id="globalsearchId" method="get" style="display:none" aria-hidden="true">
+                               <input id="global_search" type="hidden" name="q" title="searchtexthidden"> 
+                              </form>
+                              <form role="search" class="input-group" name="search" onsubmit="return submit_search_form();" method="get">  
+                               <input type="search" onfocus="clearField(this)" placeholder="Search worldbank.org" class="search-input-field-1 global_search_form_desktop" id="qterm_id" name="qterm_test"> 
+                               <button type="submit" title="Search" onclick="javascript:submit_search_form();" class="search-submit-icon"><span class="sr-only" aria-hidden="true">Search button</span>
+                               </button>
+                              </form>
+                             </div>
+                         
+                         </div>
+                      </div>
+                 </div>
+               </div>
+           </div>
+      </div>
+
+        </div>
+    </div>
+</header>
+
+ 
+
+    
+    <div class="lang-toggler language_toggler parbase">
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<div class="breadcrumb-section " 123style="">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="page-title">
+                    
+                    
+                    
+                    <ol class="breadcrumb_redesign">
+                        
+                        <li><a class="l1-breadcrumb" href="/en/where-we-work">Where We Work</a></li>
+                        
+                    </ol>
+                    
+            
+            
+        </div>
+    </div><!-- End Page Title -->
+    
+    
+    
+</div>
+</div>
+</div>
+
+
+<div class="clearix"></div>
+
+
+
+
+
+<script>
+
+$(document).ready(function() {
+    
+    var cuurpage = "/content/country/somalia/en";
+    var pageLocale = "en";
+    
+    var activeLink =$(".breadcrumb_redesign li" ).first().children("a").attr('href');
+    
+    if (typeof activeLink !== 'undefined'){
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        
+        //adedd for D&R to Highlight menu 
+        if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+            activeLink = "/" + activeLink.split("/").slice(3).join("/");                
+        }//end
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            if ($(this).children("a").attr('href') == activeLink){
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+    
+    var isCPF = "false";
+    
+    var activeLink = "";
+    
+    if (isCPF == "true" && typeof activeLink !== 'undefined'){		
+        $(".lp__megamenu li.lp__megamenu_list a, .lp__megamenu li.lp__megamenu_list").removeClass("active");
+        $(".lp__megamenu li.lp__megamenu_list").each(function(index, obj) {
+            
+            if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+            {
+                $(this).addClass("active");
+                $(this).children("a").addClass("active");
+            }
+        });
+    }
+
+
+        var activeLink1 =$(".breadcrumb_redesign li" ).first().children("a").attr('href');
+        
+        if (typeof activeLink1 !== 'undefined'){
+            $(".navbar-collapse>.navbar-nav>li.mega-menu>a, .navbar-collapse>.navbar-nav>li.mega-menu").removeClass("active");
+            
+            //adedd for D&R to Highlight menu 
+            if(cuurpage.indexOf('publication/documents-reports') !== -1 && (cuurpage.indexOf("http") !== -1 || cuurpage.indexOf("https") !== -1)){
+                activeLink1 = "/" + activeLink1.split("/").slice(3).join("/");                
+            }//end
+            $(".navbar-collapse>.navbar-nav>li.mega-menu").each(function(index, obj) {
+                if ($(this).children("a").attr('href') == activeLink1){
+                    $(this).children("a").addClass("active");
+                }
+            });
+        }
+
+        
+        if (isCPF == "true" && typeof activeLink !== 'undefined'){        
+            $(".navbar-collapse>.navbar-nav>li.mega-menu>a, .navbar-collapse>.navbar-nav>li.mega-menu").removeClass("active");
+            $(".navbar-collapse>.navbar-nav>li.mega-menu").each(function(index, obj) {
+                
+                if ($(this).children("a").text().toLowerCase().trim() == activeLink.toLowerCase().trim())
+                {
+                    $(this).addClass("active");
+                    $(this).children("a").addClass("active");
+                }
+            });
+        }
+        
+    });
+
+ 
+
+</script>
+
+
+
+
+
+
+</div>
+
+        
+    
+ 
+<div class="par parsys"><div class="banner parbase section">  
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hero-v4"> 
+        <div id="hero-v4-image-1" class="hidden-xs">
+        <img id="hero-v4-image-1-img" class="img-responsive hero-cover-img" alt="Image" title="Image" src="/content/dam/photos/1440x300/2017/jun/somalia-banner.jpg">
+        
+        <span class="img-gradient"></span>
+    
+    </div>
+    
+
+    <div class="container hero-v4-container">  
+        <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                <div class="hero-v4-image-2">
+                    <img id="hero-v4-img" src="/content/dam/photos/150x150/2017/sep/AfricaCan-Logo-FINAL-150px-transparent-bg.png" class="img-responsive" alt="Image" title="Image"> 
+                </div>
+            </div>
+            <div class="hero-v4-img-overlay col-lg-10 col-md-10 col-sm-9 col-xs-12">
+                
+                
+                <div class="hero-v4-title">The World Bank In Somalia</div>
+                
+                
+                
+                <p class="hero-v4-description">The World Bank supports government institutions in Somalia to promote good governance, accelerate economic recovery and create jobs.</p>
+            </div>	
+        </div>   
+    </div>
+</div>
+
+
+
+
+<script>
+    
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf("MSIE ");
+    
+    if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))  // If Internet Explorer, return version number
+    {
+        document.write('<script src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/StackBoxBlur.js"><\/script>');
+        document.write('<script src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/js/StackBoxBlurWrapper.js"><\/script>')
+        
+        $("#hero-v4-image-1").each(function () {
+            var $container = $(this),
+                imgUrl = $container.find("img").prop("src");
+            if (imgUrl) {
+                $container.css("backgroundImage", 'url(' + imgUrl + ')').addClass("custom-object-fit");
+            }
+        });
+    }else{
+
+        //  console.log("other browser");
+        
+    }
+    
+    
+</script>    
+
+
+
+
+
+
+      
+</div>
+<div class="pagenavigation parbase section">
+
+
+
+
+
+
+
+<div class="n01v1-nav-list">
+    
+    <div class = "container">
+        <div class = "_loop_page_nav">
+            <ul class = "_loop_page_nav_list">
+
+                <li class = "_loop_nav_list_item"><a class="active" title="Somalia">Somalia</a>
+                
+                </li>
+                <li class = "_loop_nav_list_item">
+                <a class=" " title="Overview" href="/en/country/somalia/overview">Overview</a>
+                
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+    </div><div class="clearfix"></div>
+
+
+</div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#ffffff">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="redesign_title parbase section">
+
+
+
+
+
+
+
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
+<div class="carousal_container parbase section">
+
+
+
+
+
+
+
+<section class="_loop_slide_3  row slider">
+    
+    
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+        <div class="featuredcard_2 featuredcard parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/etc/designs/wbrrdesign/components/audiotracking.js"></script>
+
+
+
+
+
+
+
+<div class="hero-v3-smallimg-section">
+    <article class="hero-smallimg-item img-2 hero-square-image">
+        
+        
+        
+        
+        
+        <section class="hero-smallimg-content featuredcard hover">
+            
+            
+            <div class="hammer">BLOG4DEV</div>
+            
+            
+            
+            <div class="hero-small-title"><a href="https://blogs.worldbank.org/youth-transforming-africa/end-child-marriage-somali-mindsets-must-change" tabindex="0">Changing Child Marriage Beliefs</a> </div>
+            
+            
+            
+            <p class="hero-small-blurb-text">Shifting mindsets is key to ending child marriage in Somalia, says Blog4Dev winner Bahja Ali Mohamud.</p>
+            
+            
+            
+        </section>
+        
+        
+        
+        
+        
+        <!--section for highlights and features-->
+        
+        
+        
+        <!--section for Video pages-->
+        
+        
+        
+        <!--section for Manual entry IMAGE-->
+        
+        
+        
+        <div class="hero-smallimg">                
+            
+            <img src="https://www.worldbank.org/content/dam/photos/768x768/2020/jun/Bahja-Ali-Mohamud_Africa-Homepage_EN_768x768px-100.jpg" class="img-responsive cover" alt="Image" title="Image"> 
+            
+        </div>
+        
+        
+        
+        
+        
+        <!--section for Manual entry EMBED VIDEO-->
+        
+        
+        
+        
+        
+    </article>
+</div>
+
+
+
+</div>
+ 
+    </div>
+    
+    
+    
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+        <div class="featuredcard_1 featuredcard parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hero-v3-smallimg-section">
+    <article class="hero-smallimg-item img-2 hero-square-image">
+        
+        
+        
+        
+        
+        <section class="hero-smallimg-content featuredcard hover">
+            
+            
+            <div class="hammer">Horn of Africa</div>
+            
+            
+            
+            <div class="hero-small-title"><a href="https://www.worldbank.org/en/region/afr/publication/how-to-build-economic-growth-and-resilience-in-the-borderlands-of-the-horn-of-africa" tabindex="0">Borderlands: A Growth </a> </div>
+            
+            
+            
+            <p class="hero-small-blurb-text">A new report says the Horn of Africa, one of the world’s most challenging regions, also presents a unique opportunity for economic </p>
+            
+            
+            
+        </section>
+        
+        
+        
+        
+        
+        <!--section for highlights and features-->
+        
+        
+        
+        <div class="hero-smallimg">                
+            
+            <img src="/content/dam/photos/768x768/2020/may/how-to-build-economic-growth-and-resilience-in-the-borderlands-of-the-horn-of-africa-768x768.jpg" class="img-responsive cover" alt="Image" title="Image"> 
+            
+        </div>
+        
+        
+        
+        <!--section for Video pages-->
+        
+        
+        
+        <!--section for Manual entry IMAGE-->
+        
+        
+        
+        <!--section for Manual entry EMBED VIDEO-->
+        
+        
+        
+        
+        
+    </article>
+</div>
+
+
+
+</div>
+ 
+    </div>
+    
+    
+    
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+        <div class="featuredcard_0 featuredcard parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hero-v3-smallimg-section">
+    <article class="hero-smallimg-item img-2 hero-square-image">
+        
+        
+        
+        
+        
+        <section class="hero-smallimg-content featuredcard hover">
+            
+            
+            <div class="hammer">PANDEMIC RESPONSE </div>
+            
+            
+            
+            <div class="hero-small-title"><a href="https://www.worldbank.org/en/who-we-are/news/coronavirus-covid19" tabindex="0">World Bank Group &amp; COVID-19 </a> </div>
+            
+            
+            
+            <p class="hero-small-blurb-text">Learn how we are working with partners to support countries to manage the global health emergency.</p>
+            
+            
+            
+        </section>
+        
+        
+        
+        
+        
+        <!--section for highlights and features-->
+        
+        
+        
+        <div class="hero-smallimg">                
+            
+            <img src="/content/dam/photos/768x768/2020/mar/coronavirus-covid19-africa-768x768.jpg" class="img-responsive cover" alt="Image" title="Image"> 
+            
+        </div>
+        
+        
+        
+        <!--section for Video pages-->
+        
+        
+        
+        <!--section for Manual entry IMAGE-->
+        
+        
+        
+        <!--section for Manual entry EMBED VIDEO-->
+        
+        
+        
+        
+        
+    </article>
+</div>
+
+
+
+</div>
+ 
+    </div>
+    
+    
+</section>
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#333333">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="gridlayout parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+
+		    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_4_par_0 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="redesign_Overviewcard section">	 
+	 
+	
+	
+	
+	
+	
+	
+	 
+	
+	
+	
+	
+	 
+	
+	
+	
+	<div class="_loop_card_header_main_footer">
+	<div class="_loop_card_header">
+
+
+		
+		<h3>Somalia At-A-Glance </h3>
+		
+	</div>
+	<div class="_loop_card_main_section">
+	<p class="blurb-text">Following more than two decades of conflict, a new federal government emerged in Mogadishu in 2012 within the framework established by the Provisional Constitution. Soon after, the international community agreed to the Somali New Deal Compact–an organizing framework (2014-2016) for assistance delivery to the country—with the Federal Government of Somalia (FGS),...</p>
+	</div>
+		 
+	<div class="_loop_card_footer">
+
+	<a href="https://www.worldbank.org/en/country/somalia/overview" class="_loop_card_link">Overview</a>
+
+	</div>
+		
+	</div>
+	<div class="clearfix"></div>
+	
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+		    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_4_par_1 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="redesign_Datacard section"> 
+ 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+  		<div class="_loop_card_header_main_footer">
+           <div class="_loop_card_header">
+               
+              		 <h3>Data</h3>
+               
+  			</div>
+  			<div class="_loop_card_main_section">
+  			<div class="card-main-section">
+                
+  				<div class="section embedcode-data">
+  			    <div class="embed-responsive embed-responsive-16by9">
+  			    	<div class="embed-data">
+  			    	<div class=embed-data><iframe src=//data.worldbank.org/share/widget?locations=SO&indicators=NY.GDP.MKTP.KD.ZG width=450 height=300 frameBorder=0 scrolling=no></iframe></div>
+  			    	</div>
+  			    </div>
+  			    </div>
+  			</div>
+  			</div>
+		 
+  		<div class="_loop_card_footer">
+  			<a href="https://data.worldbank.org/country/somalia" class="_loop_card_link">Data</a>
+  		</div>
+		
+
+  		</div><!--end at-a-glance -->
+
+<div class="clearfix"></div>	
+	
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+		    <div class="col-md-4 col-lg-4 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_4_par_2 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="redesign_Projectcard section"> 
+ 
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+	<div class="_loop_card_header_main_footer">
+
+  			<div class="_loop_card_header">
+
+                
+              	  <h3>Project</h3>
+                
+  			</div>
+			
+			
+			
+
+           
+
+  			<div class="_loop_card_main_section">
+  				<div class="card-main-section">
+
+
+                    
+  				<a href="https://projects.worldbank.org/en/projects-operations/project-detail/P168115"><img class="card-project-img" src="/content/dam/photos/768x768/2019/oct/so-project-768x768.jpg" alt="Image"></a>
+				
+						<h4>
+                    
+                    
+                    <a href="https://projects.worldbank.org/en/projects-operations/project-detail/P168115">Digital Uplift Project</a>
+                    
+
+					
+					
+				</h4>
+
+				 
+  				<p class="blurb-text">This project supports increased access to basic digital financial and government services targeting entrepreneurship and employment, particularly for women.</p>
+				 
+  				</div>
+  			</div>
+
+       
+        <div class="_loop_card_footer">
+
+  			<a href="https://projects.worldbank.org/en/projects-operations/projects-list?lang=en&searchTerm=&countrycode_exact=SO" class="_loop_card_link">VIEW ALL PROJECTS</a></div>
+		
+
+  		</div><!--end at-a-glance -->
+
+
+
+<div class="clearfix"></div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+</div>
+<div class="clearfix"></div>
+
+
+	<div style="margin-bottom: 0px"></div>
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#f6f6f6">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="redesign_title parbase section">
+
+
+
+
+
+
+
+
+<div class="row">
+
+    <div class="heading-v1 ">
+        
+        
+        
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h2 style= 'color:#333;text-align:Left Align'>Research</h2>
+
+            
+            <a href="https://documents.worldbank.org/en/publication/documents-reports/documentlist?query=&count_key=82686&lang_key=120701&majdocty_key=906674^658101^948493" class="btn btn-sm btn-default primary-gray-btn view-all-btn" style="background:white;">
+                <span style="color:#0071BC;">View All Research</span><i style="color:#0071BC;" class="icon-angle-right"> <span class="sr-only">Arrow</span></i>
+            </a>
+            
+            
+        </div>
+        
+    </div>
+
+</div>
+
+
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
+<div class="research_auto_manual section">
+
+
+
+
+  
+     
+
+
+
+
+
+                 
+
+
+
+<script type="text/javascript" src="/etc/designs/wbr/components/inlinesearch_clientlib.js"></script>
+
+     
+
+
+
+
+
+
+
+  
+     
+
+
+
+
+
+                 
+
+
+
+
+
+<script type="text/javascript" src="/etc/designs/wbrrdesign/components/search_api_ajax3.js"></script>
+
+
+
+
+
+<div class="wbgajax" data-ajax-component-wbg-inline data-url='https://search.worldbank.org/api/v2/wds?fl=abstracts,authr,display_title,docdt,docty&majdocty_key=906674%5E658101%5E948493&countrycode_exact=SO&format=xml&apilang=en&lang_exact=English&rows=4' data-ajax-query-parameters='path=Y291bnRyeS9zb21hbGlhL2VuL2pjcjpjb250ZW50L3Bhci9zdXBlcmdyaWRfMTUxOTc0MTE2OC9wYXIvcmVzZWFyY2hfYXV0b19tYW51YWw=&lang=en'>
+
+    <div style="display:none">Api</div>
+
+    <img class="img-responsive center-block" style="margin: 0 auto;" src="/etc/designs/wbr/clientlibs/img/loaderwb.svg"/>
+    
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+
+
+        
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#f6f6f6">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="gridlayout parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+
+		    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" center-right-border">
+				<div class="grid_6_par_0 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:50px;" class="remove-padding-grid" >
+    
+    
+
+
+
+<hr class="hidden-lg hidden-md">
+
+
+
+<div class="inline_search_API section">
+
+
+
+
+  
+     
+
+
+
+
+
+                 
+
+
+
+
+     
+
+
+
+
+        
+
+
+  
+ 
+
+
+
+                 
+
+
+
+  
+
+
+
+
+<div class="wbgajax" data-ajax-component-wbg-inline data-url='https://search.worldbank.org/api/blogs?format=xml&rows=10&fl=title,link,author,photo_link,blog_date,number_of_comments&countrycode_exact=SO&lang_exact=english&lang_exact=english&rows=3' data-ajax-query-parameters='path=Y291bnRyeS9zb21hbGlhL2VuL2pjcjpjb250ZW50L3Bhci9zdXBlcmdyaWRfMzMwMTEyOTQ4L3Bhci9ncmlkbGF5b3V0L2dyaWRfNl9wYXJfMC9pbmxpbmVfc2VhcmNoX2FwaQ==&lang=en'>
+    <div style="display:none">Api</div>
+    <img class="img-responsive center-block" style="margin: 0 auto;" src="/etc/designs/wbr/clientlibs/img/loaderwb.svg"/>    
+</div>
+
+
+        
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+		    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_6_par_1 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+<hr class="hidden-lg hidden-md">
+
+
+
+<div class="redesign_experts section"> 
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+    <div id="s06v1-body"  class="clearfix row ">
+ <div class='col-md-12 col-xs-12'><h2>Experts</h2></div>
+
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+            <div class="s06v1-img ">
+
+                <a href="/en/about/people/k/kristina-svensson">
+  
+                    <img class="img-responsive" src="/content/dam/photos/220x220/2020/oct/20201008-Kristina-Svensson.jpg" alt="Kristina Svensson" title="Kristina Svensson">
+            
+                </a></div>
+
+            <div class="s06v1-content">
+                <h4><a href="/en/about/people/k/kristina-svensson">Kristina Svensson </a></h4>
+                <p class="blurb-text">Country Manager</p>
+            </div>
+           
+
+        </div>
+
+        
+    </div>
+
+  
+        
+
+    <a class="btn btn-default btn-sm primary-gray-btn mrg-t-15" href="https://www.worldbank.org/en/about/people/all?count_exact=Somalia&countrycode_exact=SO&apilang=en&lang_exact=English" style="background:#fff;">View All Experts<i class="icon-angle-right"> <span class="sr-only">Arrow</span></i></a>
+        
+
+
+    
+    
+    
+    
+   <script>
+$(document).ready(function(){
+
+ $("#s06v1-body").find(".s06v1:last").addClass("mrg-b-0");
+ 
+
+  });
+</script>
+</div>
+
+
+
+
+
+
+
+<hr>
+
+
+<div class="s03v2_stay_connected section">
+
+
+
+
+ 
+
+
+
+<div class="join-us">
+    <div class="join-us-socialicon stay_connected_horizontal">
+
+        <h2 style= color:#333>Stay Connected</h2>
+
+
+
+
+
+        <ul>
+
+            
+
+            <li class="join-us-list-item" data-shareCurrentPage="no"><a href="https://www.facebook.com/WorldBankAfrica" class="social-icon-img" data-customlink="sm:body content" data-text="facebook"><img src="https://www.worldbank.org/content/dam/wbr-redesign/icons/fb.svg" alt="Image" class="img-responsive"></a></li>  
+
+            
+
+            <li class="join-us-list-item" data-shareCurrentPage="no"><a href="https://www.twitter.com/WorldBankAfrica/" class="social-icon-img" data-customlink="sm:body content" data-text="twitter"><img src="https://www.worldbank.org/content/dam/wbr-redesign/icons/twitter.svg" alt="Image" class="img-responsive"></a></li>  
+
+            
+
+            <li class="join-us-list-item" data-shareCurrentPage="no"><a href="https://www.youtube.com/playlist?list=PL59FB6C9C9D741D01&feature=plcp" class="social-icon-img" data-customlink="sm:body content" data-text="youtube"><img src="https://www.worldbank.org/content/dam/wbr-redesign/icons/youtube.svg" alt="Image" class="img-responsive"></a></li>  
+
+            
+
+            <li class="join-us-list-item" data-shareCurrentPage="no"><a href="https://search.worldbank.org/api/v2/news?format=atom&countrycode_exact=SO" class="social-icon-img" data-customlink="rs:body content" data-text="rss"><img src="/content/dam/wbr/stayconnected/icons-rss.svg" alt="Image" class="img-responsive"></a></li>  
+
+            
+
+            <li class="join-us-list-item" data-shareCurrentPage="no"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=kafv5zrab&p=oi&m=1118636250122&sit=nntnkxcjb&f=cecb49d3-03da-4661-8a52-3bc34cc95107" class="social-icon-img" data-customlink="em:body content" data-text="newsletter"><img src="/content/dam/wbr/stayconnected/sm-icons-newsletter.svg" alt="Image" class="img-responsive"></a></li>  
+
+            
+
+        </ul>
+       <!-- 
+        <hr />
+        -->
+
+
+    </div>
+</div>
+
+
+
+
+<div class="clearfix"></div>
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+</div>
+<div class="clearfix"></div>
+
+
+	<div style="margin-bottom: 0px"></div>
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#fff">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="redesign_title parbase section">
+
+
+
+
+
+
+
+
+<div class="row">
+
+    <div class="heading-v1 ">
+        
+        
+        
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h2 style= 'color:#333;text-align:Left Align'>News &amp; Events</h2>
+
+            
+            
+        </div>
+        
+    </div>
+
+</div>
+
+
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
+<div class="gridlayout parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+
+		    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_6_par_0 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+<hr class="hidden-lg hidden-md">
+
+
+
+<div class="inline_search_API section">
+
+
+
+
+  
+     
+
+
+
+
+
+                 
+
+
+
+
+     
+
+
+
+
+        
+
+
+  
+ 
+
+
+
+                 
+
+
+
+  
+
+
+
+
+<div class="wbgajax" data-ajax-component-wbg-inline data-url='https://search.worldbank.org/api/v2/whatsnew?fct=displayconttype_exact,docty_exact,lang_exact&fl=url,cqpath,title,lang,wn_desc,master_recent_date,masterconttype&format=xml&rows=20&src=cq55&keywd=distribution:Global&&countrycode_exact=SO&apilang=en&lang_exact=English&rows=3' data-ajax-query-parameters='path=Y291bnRyeS9zb21hbGlhL2VuL2pjcjpjb250ZW50L3Bhci9zdXBlcmdyaWRfMTUwMjA1ODY3Mi9wYXIvZ3JpZGxheW91dC9ncmlkXzZfcGFyXzAvaW5saW5lX3NlYXJjaF9BUEk=&lang=en'>
+    <div style="display:none">Api</div>
+    <img class="img-responsive center-block" style="margin: 0 auto;" src="/etc/designs/wbr/clientlibs/img/loaderwb.svg"/>    
+</div>
+
+
+        
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+		    <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_6_par_1 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+<hr class="hidden-lg hidden-md">
+
+
+
+<div class="inline_search_API section">
+
+
+
+
+  
+     
+
+
+
+
+
+                 
+
+
+
+
+     
+
+
+
+
+        
+
+
+  
+ 
+
+
+
+                 
+
+
+
+  
+
+
+
+
+<div class="wbgajax" data-ajax-component-wbg-inline data-url='https://search.worldbank.org/api/v2/events?fct=displayconttype_exact,lang_exact&format=xml&rows=20&src=cq55&keywd=distribution:Global&&countrycode_exact=SO&lang_exact=English&rows=3' data-ajax-query-parameters='path=Y291bnRyeS9zb21hbGlhL2VuL2pjcjpjb250ZW50L3Bhci9zdXBlcmdyaWRfMTUwMjA1ODY3Mi9wYXIvZ3JpZGxheW91dC9ncmlkXzZfcGFyXzEvaW5saW5lX3NlYXJjaF9BUEk=&lang=en'>
+    <div style="display:none">Api</div>
+    <img class="img-responsive center-block" style="margin: 0 auto;" src="/etc/designs/wbr/clientlibs/img/loaderwb.svg"/>    
+</div>
+
+
+        
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+</div>
+<div class="clearfix"></div>
+
+
+	<div style="margin-bottom: 0px"></div>
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:#f6f6f6">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="redesign_title parbase section">
+
+
+
+
+
+
+
+
+<div class="row">
+
+    <div class="heading-v1 ">
+        
+        
+        
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h2 style= 'color:#333;text-align:Left Align'>In Depth</h2>
+
+            
+            
+        </div>
+        
+    </div>
+
+</div>
+
+
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
+<div class="gridlayout parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+
+		    <div class="col-md-12  colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_12_par_0 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="multi_indepth parbase section"> 
+ 
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/etc/designs/wbr/components/playvideo.js"></script>
+
+
+
+<div class="wbgindepth">
+<section class="row _loop_slide_4">
+    
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="card-v3-section">
+            <div class="card-wrapper _loop_indepth_card_wrapper">
+<div class= "card-img">
+                
+                
+                
+                <a data-customlink="nl:body content" data-text="Image" href="https://www.worldbank.org/en/region/afr/publication/in-sub-saharan-africa-strong-policies-can-support-economic-recovery-post-covid-19"> <img src="/content/dam/photos/780x439/2018/oct/africa-s-pulse-april-2018-780x439.jpg" class="img-responsive" title="Image" alt="Image"></a>
+                
+                
+                
+                </div>
+                
+                <!--End Of Image Div -->
+                <!-- Feature Image Ends -->  
+                <div class="card-content">
+                    
+                    <div class="hammer">
+                        <span> </span>
+                    </div>
+                    
+                    <h4>
+                        
+                        <a data-customlink="nl:body content" data-text="Strong Policies Can Support Economic Recovery" href="https://www.worldbank.org/en/region/afr/publication/in-sub-saharan-africa-strong-policies-can-support-economic-recovery-post-covid-19">
+                            Strong Policies Can Support Economic Recovery
+                        </a>
+                        
+                    </h4>
+                    <!--title ends -->
+                    <!-- Body Content starts -->
+                    <p class="card-description">
+                        The latest economic analysis for the region predicts predicts economic activity will decline by 3.3 percent in 2020, confirming the region’s first recession in 25 years.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="card-v3-section">
+            <div class="card-wrapper _loop_indepth_card_wrapper">
+<div class= "card-img">
+                
+                
+                
+                <a data-customlink="nl:body content" data-text="Image" href="https://www.worldbank.org/en/news/press-release/2019/07/31/macroeconomic-management-weakens-while-social-inclusion-policies-improve-slightly-in-africas-poorest-countries"> <img src="/content/dam/photos/780x439/2018/sep/CPIA-report-cover-780x439.png" class="img-responsive" title="Image" alt="Image"></a>
+                
+                
+                
+                </div>
+                
+                <!--End Of Image Div -->
+                <!-- Feature Image Ends -->  
+                <div class="card-content">
+                    
+                    <div class="hammer">
+                        <span> </span>
+                    </div>
+                    
+                    <h4>
+                        
+                        <a data-customlink="nl:body content" data-text="CPIA Africa " href="https://www.worldbank.org/en/news/press-release/2019/07/31/macroeconomic-management-weakens-while-social-inclusion-policies-improve-slightly-in-africas-poorest-countries">
+                            CPIA Africa 
+                        </a>
+                        
+                    </h4>
+                    <!--title ends -->
+                    <!-- Body Content starts -->
+                    <p class="card-description">
+                        Africa’s poorest countries saw little to no progress on average in improving the quality of their policy and institutional frameworks in 2018.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="card-v3-section">
+            <div class="card-wrapper _loop_indepth_card_wrapper">
+<div class= "card-img">
+                
+                
+                
+                <a data-customlink="nl:body content" data-text="Image" href="https://ida.worldbank.org/results/abcs/abcs-ida-key-achievements-country"> <img src="/content/dam/photos/780x439/2019/oct-2/ida-in-africa-780x439.jpg" class="img-responsive" title="Image" alt="Image"></a>
+                
+                
+                
+                </div>
+                
+                <!--End Of Image Div -->
+                <!-- Feature Image Ends -->  
+                <div class="card-content">
+                    
+                    <div class="hammer">
+                        <span> </span>
+                    </div>
+                    
+                    <h4>
+                        
+                        <a data-customlink="nl:body content" data-text="IDA in Africa  " href="https://ida.worldbank.org/results/abcs/abcs-ida-key-achievements-country">
+                            IDA in Africa  
+                        </a>
+                        
+                    </h4>
+                    <!--title ends -->
+                    <!-- Body Content starts -->
+                    <p class="card-description">
+                        With IDA’s help, hundreds of millions of people have escaped poverty—through the creation of jobs, access to clean water, schools, roads, nutrition, electricity, and more.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="card-v3-section">
+            <div class="card-wrapper _loop_indepth_card_wrapper">
+<div class= "card-img">
+                
+                
+                
+                <a data-customlink="nl:body content" data-text="Image" href="https://www.worldbank.org/en/news/multimedia?lang_exact=English&admreg_exact=Africa"> <img src="/content/dam/photos/780x439/2016/nov/afr-africa-climate-business-plan-delivering-on-climate-plan-promises-780x439.jpg" class="img-responsive" title="Image" alt="Image"></a>
+                
+                
+                
+                </div>
+                
+                <!--End Of Image Div -->
+                <!-- Feature Image Ends -->  
+                <div class="card-content">
+                    
+                    <div class="hammer">
+                        <span> </span>
+                    </div>
+                    
+                    <h4>
+                        
+                        <a data-customlink="nl:body content" data-text="World Bank Africa Multimedia" href="https://www.worldbank.org/en/news/multimedia?lang_exact=English&admreg_exact=Africa">
+                            World Bank Africa Multimedia
+                        </a>
+                        
+                    </h4>
+                    <!--title ends -->
+                    <!-- Body Content starts -->
+                    <p class="card-description">
+                        Watch, listen and click through the latest videos, podcasts and slideshows highlighting the World Bank’s work in Sub-Saharan Africa. 
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="card-v3-section">
+            <div class="card-wrapper _loop_indepth_card_wrapper">
+<div class= "card-img">
+                
+                
+                
+                <a data-customlink="nl:body content" data-text="Image" href="https://www.doingbusiness.org/"> <img src="/content/dam/photos/780x439/2016/oct-3/doing-business-780x439.jpg" class="img-responsive" title="Image" alt="Image"></a>
+                
+                
+                
+                </div>
+                
+                <!--End Of Image Div -->
+                <!-- Feature Image Ends -->  
+                <div class="card-content">
+                    
+                    <div class="hammer">
+                        <span> </span>
+                    </div>
+                    
+                    <h4>
+                        
+                        <a data-customlink="nl:body content" data-text="Doing Business" href="https://www.doingbusiness.org/">
+                            Doing Business
+                        </a>
+                        
+                    </h4>
+                    <!--title ends -->
+                    <!-- Body Content starts -->
+                    <p class="card-description">
+                        The Doing Business report provides objective measures of business regulations and their enforcement. See where your country ranks.
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+</div>
+<div class="clearfix"></div>
+
+
+	<div style="margin-bottom: 0px"></div>
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+<div class="country_newsletter parbase section">
+
+
+
+
+
+
+ 
+
+
+
+<a id="newsletter"></a>
+<div class="full-row-dark-blue-components">
+    <div class="container">
+         
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">                
+                   <div class="home-newsletter-section row">                        
+                        <!-- Begin Heading -->
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                             
+								<h3>Stay Connected</h3>
+                            
+                            <h4>Subscribe to Our Newsletters</h4>
+                        </div>
+                        
+                        <!-- End Heading -->
+                        <!-- Begin search box and check box -->
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="home-newsletter">
+                                <form action="http://www.worldbank.org/en/newsletter-subscription" method="GET" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate input-group mySignUpFormDesktop" target="_blank" accept-charset="UTF-8" novalidate="">
+                                    <input type="text" onfocus="value=''" placeholder="Enter email to subscribe..." class="email-input-field-1" name="email" id="fields_email" title="search" data-form="world bank group newsletters:newsletter"> 
+                                    <input type="submit" value="Submit" class="newsletter-submit btn-default btn-lg primary-dark-blue-btn" name="subscribe" id="mc-embedded-subscribe" data-form="world bank group newsletters:newsletter">
+                                    
+                                    
+                                    
+                                    
+                                    <input name="lang" value="en" type="hidden">
+                                    
+                                </form>                                
+                            </div>
+                        </div>
+                        <!-- End search box and check box -->
+                    </div>
+            </div><!-- End left column -->
+            
+            
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class=" center-left-border padd-l-64">
+                    <hr class="visible-xs visible-sm">
+                    
+                    <h3>Work With Us In Somalia</h3>
+                    
+
+                    <div class="subscribe-link">
+                        
+                        
+                        <h4><a href="https://www.worldbank.org/en/about/careers">Jobs</a></h4>
+                        
+
+                        
+                        
+                        <h4><a href="https://www.worldbank.org/en/projects-operations/products-and-services/procurement-projects-programs">Procurement</a></h4>
+                        
+
+                        
+                        
+                        <h4><a href="https://www.worldbank.org/fraudandcorruption">Report Fraud or Corruption</a></h4>
+                        
+                    </div>
+                </div>
+            </div><!-- End right column -->            
+                        
+        </div>
+    </div>
+</div>
+</div>
+<div class="supergrid parbase section">
+
+
+
+
+    
+    <div class="row clearfix full-row-white-components" style=" background-color:">
+    
+
+        
+        <div class="container">
+            	<div class="">
+            <div class="par parsys"><div class="redesign_title parbase section">
+
+
+
+
+
+
+
+
+<div class="row">
+
+    <div class="heading-v1 ">
+        
+        
+        
+        
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h2 style= 'color:#333;text-align:Left Align'>Additional Resources</h2>
+
+            
+            
+        </div>
+        
+    </div>
+
+</div>
+
+
+<style>
+    .heading-v1-center .lock-icon {
+        color: #fff;
+        border: 2px solid #fff;
+    }
+</style></div>
+<div class="gridlayout parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row ">
+
+		    <div class="col-md-3 col-lg-3 col-sm-4 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_3_par_0 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="redesign_related section">
+
+
+
+
+
+
+
+
+
+<!--<script type="text/javascript" src="/etc/designs/wbrrdesign/components/redesign_related.js"></script>
+-->
+  
+<div class="related-v1-section  "> 
+    <h3>Related</h3>
+
+    <div class="related-v1-wrapper">
+        <ul>
+            
+                        <li><a data-customlink="nl:body content" data-text="Country Partnership Framework (CPF FY2019-22)" href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/941361537906125793">Country Partnership Framework (CPF FY2019-22)</a>                        
+                            
+            </li>
+            
+                    <li>Somalia Economic Update                    
+                        
+                            <!-- Sub Link Starts -->
+                            <div class="s01v1-sub-links">
+                                <a data-customlink='nl:body content ' data-text='August 2019' href='https://documents.worldbank.org/en/publication/documents-reports/documentdetail/811231567610111001/somalia-economic-update-fourth-edition-building-education-to-boost-human-capital'>August 2019</a>   |   <a data-customlink='nl:body content ' data-text='August 2017' href='https://www.worldbank.org/en/country/somalia/publication/government-needs-income-from-a-broader-tax-base-to-rebuild-the-country'>August 2017</a>   |   <a data-customlink='nl:body content ' data-text='October 2015' href='https://documents.worldbank.org/curated/en/2015/11/25468667/somalia-economic-update-transition-amid-risks-special-focus-intergovernmental-fiscal-relations'>October 2015</a>
+                            </div>
+                            <!-- Sub Link Ends -->
+                            
+            </li>
+            
+                        <li><a data-customlink="nl:body content" data-text="Somalia MPF Progress Report July-Dec 2019" href="http://pubdocs.worldbank.org/en/880541585577866905/MPF-Progress-Report-Jul-Dec-2019.pdf">Somalia MPF Progress Report July-Dec 2019</a>                        
+                            
+            </li>
+            
+                        <li><a data-customlink="nl:body content" data-text="Somalia MPF Project Briefs July-Dec 2019" href="http://pubdocs.worldbank.org/en/791861585577851443/MPF-Project-Briefs-Jul-Dec-2019.pdf">Somalia MPF Project Briefs July-Dec 2019</a>                        
+                            
+            </li>
+            
+                        <li><a data-customlink="nl:body content" data-text="Interim Strategy Note FY14- FY16" href="https://documents.worldbank.org/curated/en/2013/11/18662723/somalia-interim-strategy-note-period-fy14-fy16">Interim Strategy Note FY14- FY16</a>                        
+                            
+            </li>
+            
+                        <li><a data-customlink="nl:body content" data-text="Board Report: Establishing a Multi-Partner Fund (MPF)" href="https://documents.worldbank.org/curated/en/2013/11/18550708/establishment-programmatic-multi-partner-fund-somalia">Board Report: Establishing a Multi-Partner Fund (MPF)</a>                        
+                            
+            </li>
+            
+                        <li><a data-customlink="nl:body content" data-text="Report: Ending Piracy" href="https://www.worldbank.org/en/news/feature/2013/04/11/ending-somali-piracy-go-after-the-system-not-just-the-pirates">Report: Ending Piracy</a>                        
+                            
+            </li>
+            
+                <li class="ultwo" style="display:none;"><a data-customlink="nl:body content" data-text="Macro-Poverty Outlook" href="https://www.worldbank.org/en/publication/macro-poverty-outlook/mpo_ssa">Macro-Poverty Outlook</a>         
+                    
+            </li>
+            
+                <li class="ultwo" style="display:none;"><a data-customlink="nl:body content" data-text="The World Bank in Africa" href="https://www.worldbank.org/en/region/afr">The World Bank in Africa</a>         
+                    
+            </li>
+            
+            <a class="show_more_less">
+                <span>Show More +</span>
+                <span style="display:none;">Show Less -</span>
+            </a> 
+            
+        </ul>
+    </div>
+    
+</div>
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+		    <div class="col-md-9 col-lg-9 col-sm-8 col-xs-12 colsplit" id="">
+	        
+			<div class=" ">
+				<div class="grid_9_par_1 parsys">
+    
+    
+
+<div style="padding-left:0px;padding-right:0px;" class="remove-padding-grid" >
+    
+    
+
+
+
+
+<div class="country_contacts parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+<div class="row">
+						<div class="heading-v1">
+				<div class="col-lg-12">
+
+<h3 class='h3'>Country Office Contacts</h3>
+
+
+ </div>
+			</div>
+			<div class="contacts-wrapper">
+			
+				
+			  <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+               <h5>Main Office Contact</h5>
+                
+			
+				<address>
+              Delta Center<br/>Menengai Road, Upper Hill<br/>PO Box 30577-00100<br/>Nairobi, Kenya<br/>
+
+				</address>
+				
+				<div class="display">
+
+				<span class="tel">
+
+                    +254-20-293-6061<br/> 
+
+
+				
+				</span>
+				</div>
+				 
+				
+				
+				</div>
+			
+				
+               
+                <!--  contact 2 -->
+                
+				
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+				    <!--  contact 1 -->
+              
+				
+               <h5>For general information and inquiries</h5>
+               
+                
+			
+				<address>
+				
+				
+			Kristina Svensson<br/>Country Manager<br/>Nairobi, Kenya<br/>
+				
+				</address>
+				
+				<div class="display">
+
+				<span class="tel">
+				+254202936061<br/>
+				</span>
+				</div>
+				
+				
+				  </div>
+				
+                
+				<!--  contact 3 -->
+                <!--  contact 3 -->
+
+                
+			
+					<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                <h5>For project-related issues and complaints</h5>
+              <address>
+
+              
+</address>
+
+				
+                <a data-customlink="em:body content" data-text="Email" href="mailto:somaliaalert@worldbank.org"> somaliaalert@worldbank.org</a>
+                 </div>
+				
+               
+				                                                                                                                                 
+																															   
+
+			
+
+ 
+
+
+				
+
+</div>
+
+</div>
+
+
+
+			
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+			</div>
+			
+		    </div>
+		    
+</div>
+<div class="clearfix"></div>
+
+
+	<div style="margin-bottom: 0px"></div>
+
+
+
+</div>
+
+</div>
+
+            </div>
+        </div>     
+    </div>
+    
+
+
+    </div>
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<!-- Begin  Global footer -->
+<footer>
+	<div class="row full-row-footer-components">
+		<div class="container">
+			<div class="lp__footer_top">
+				<div class="row">
+					<div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
+						<div class="lp__footer_menuitem">
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<ul>
+							<li><a href="https://www.worldbank.org/en/about">About</a></li>
+							<li><a href="https://data.worldbank.org">Data</a></li>
+							<li><a href="https://www.worldbank.org/en/research">Research and Publications</a></li>
+							<li><a href="https://olc.worldbank.org">Learning</a></li>
+							</ul>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+							<ul>
+							<li><a href="https://www.worldbank.org/en/news">News</a></li>
+							<li><a href="https://projects.worldbank.org/?lang=en">Projects and Operations</a></li>
+							<li><a href="https://www.worldbank.org/en/where-we-work">Countries</a></li>
+							<li><a href="https://www.worldbank.org/en/topic">Topics</a></li>
+							</ul>
+							</div>
+						</div>
+						</div>	
+					</div><!-- End left column footer menu section -->
+					<div class="col-lg-7 col-md-6 col-sm-12 col-xs-12">
+					<hr class="visible-sm visible-xs">
+						<div class="row">
+							<div class="col-lg-6 col-md-12 col-sm-6 col-xs-12">
+								<div class="lp__social_icon">
+									<div class="h6" aria-label="Follow us">FOLLOW US</div>
+									
+									<ul>
+
+										<li><a href="https://www.facebook.com/worldbank" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/fb.svg" alt="worldbank Facebook page" class="img-responsive"></a></li>	
+										<li><a href="https://www.twitter.com/worldbank" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/twitter.svg" alt="worldbank twitter page" class="img-responsive"></a></li>	
+										<li><a href="https://www.linkedin.com/company/the-world-bank" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/linkedln.svg" alt="worldbank linkedln page" class="img-responsive"></a></li>
+										<li><a href="https://instagram.com/worldbank/" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/instagram.svg" alt="worldbank instagram page" class="img-responsive"></a></li>			
+										<li><a href="https://www.youtube.com/user/WorldBank" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/youtube.svg" alt="worldbank youtube page" class="img-responsive"></a></li>			
+										<li><a href="https://www.flickr.com/photos/worldbank" class="lp__socialimg"><img src="/content/dam/wbr-redesign/icons/flickr.svg" alt="worldbank flickr page" class="img-responsive"></a></li>	
+										
+									</ul>
+								</div>
+							</div>
+			<div class="col-lg-6 col-md-12 col-sm-6 col-xs-12">	
+				<div class="lp__footer_newsletter">
+					<div class="lp__footersearch_section">
+						<label class="" for="Newsletter">newsletter</label>
+					<form action="https://www.worldbank.org/en/newsletter-subscription?worldbankgroup=true" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate input-group mySignUpFormDesktop" target="_blank" accept-charset="UTF-8" novalidate="">
+                    
+					<input type="hidden" name="worldbankgroup" value="true">
+                    
+                    <input type="email" placeholder="Enter email to subscribe..." class="search-input-field-1" id="Newsletter" name="email" data-form="world bank group newsletters:newsletter">
+                    <input class="search-submit-icon" data-form="world bank group newsletters:newsletter" name="subscribe" type="image" src="/etc/designs/wbrrdesign/clientlibs-wbrredsign/img/angle-right.svg" alt="submit">
+                </form>
+
+				</div>
+			</div>
+			<!-- Begin Language toggler -->
+            <div class="lp-footer-lang-dropdown lp__dropup">
+  	<span class="lang-lable" id="site-language">This Site in:</span>
+  	<div class=" lp-lang-toggler dropdown">
+			 <button type="button" class="lang-filter-label dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="lang-title" aria-labelledby="site-language lang-title">English</button>
+			 <div class="dropdown-menu" aria-labelledby="site-language">
+                <ul>
+                  <li lang="es"><a class="dropdown-item" href="https://www.bancomundial.org//">Español</a></li>
+					<li lang="fr"><a class="dropdown-item" href="https://www.banquemondiale.org//">Français</a></li>
+                    <li lang="ar"><a class="dropdown-item" href="https://www.albankaldawli.org//">عربي</a></li>
+                    <li lang="ru"><a class="dropdown-item" href="https://www.vsemirnyjbank.org//">Русский</a></li>  
+                    <li lang="zh"><a class="dropdown-item" href="https://www.shihang.org//">中文</a></li>
+                  	<li><a class="dropdown-item" href="https://www.worldbank.org/en/language-resources">View All »</a></li>
+                </ul>
+            </div>
+          </div>
+      </div>
+	<!-- End Language toggler -->
+</div>
+						</div>
+						</div>
+							</div><!-- End right column footer follow and newsletter section -->
+						<div class="row">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+						<div class="lp__footer_bottom">
+					<div class="row">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<div class="lp__listinline">
+						<ul>
+							<li class="disclaimer"><a href="https://www.worldbank.org/en/about/legal">Legal</a></li>
+<li class="disclaimer"><a href="https://www.worldbank.org/en/about/legal/privacy-notice">Privacy Notice</a></li>
+<li class="disclaimer"><a href="https://www.worldbank.org/en/who-we-are/site-accessibility">Site Accessibility</a></li>
+
+							<li class="disclaimer"><a href="https://www.worldbank.org/en/access-to-information">Access to Information</a></li>
+							<li class="disclaimer"><a href="https://www.worldbank.org/en/about/careers">Jobs</a></li>			
+							<li class="disclaimer"><a href="https://www.worldbank.org/en/about/contacts">Contact</a></li>		
+						</ul>
+					</div>
+					</div><!-- End disclaimer-->
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<div class="lp__footer_fraud"><a href="https://wbgcmsprod.microsoftcrmportals.com/en-US/anonymous-users/int-fraud-management/create-new-complaint/">REPORT FRAUD OR CORRUPTION</a></div>
+
+					</div>
+					</div>
+					</div><!-- End disclaimer and copy right -->
+					</div>
+				</div><!-- End footer Bottom row -->	
+				</div>
+		</div>
+	</div>
+<!-- End Top Footer -->
+<!-- Begin bottom Footer -->
+	<div class="row full-row-footer-black-components">
+		<div class="container">
+				<div class="row">
+				
+					<div class="lp__footer_bottom_left">
+						<div class="col-md-12 col-sm-12 col-xs-12">
+					
+							<ul>
+								<li><a href="https://www.worldbank.org/">
+								<img src="/content/dam/wbr-redesign/logos/logo-wbg-footer-en.svg" class="footer-logo" title="World Bank Group logo" alt="World Bank Group logo"></a>
+								</li>
+								<li><a class="lp__wbgpartnership" title="International Bank for Reconstruction and Development" href="https://www.worldbank.org/en/who-we-are/ibrd">IBRD</a></li>
+								<li><a class="lp__wbgpartnership" title="International Development Association" href="https://ida.worldbank.org/">IDA</a></li>
+								<li><a class="lp__wbgpartnership" title="International Finance Corporation" href="https://www.ifc.org/">IFC</a></li>
+								<li><a class="lp__wbgpartnership" title="Multilateral Investment Guarantee Agency" href="https://www.miga.org/">MIGA</a></li>
+								<li><a class="lp__wbgpartnership" title="International Centre for Settlement of Investment Disputes" href="https://icsid.worldbank.org/">ICSID</a></li>
+							</ul>
+						
+					
+					</div>
+				</div><!-- End logo and Wbg partnership -->
+				
+					
+					<div class="lp__copyright">
+						<div class="col-md-12 col-sm-12 col-xs-12">
+						© <span id="footer-year"></span>
+						<script language="JavaScript">
+<!-- Begin
+						var time=new Date();
+						var year=time.getYear();
+						if (year < 2000)
+						year = year + 1900;
+document.getElementById("footer-year").innerHTML = year;
+						// End -->
+						</script>
+						The World Bank Group, All Rights Reserved.
+					</div>
+				</div><!-- End dropdown and fraud  -->
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- End  Global footer -->
+    
+
+   	
+   <!-- <div class="floating-bars">
+        <a class="btn btn-help-to-improve " href='https://blogs.worldbank.org/voices/bold-new-worldbankorg'>Welcome</a>
+        <button type="button" class="btn btn-talk-to-help  hidden-xs hidden-sm" data-toggle="modal" data-target="#squarespaceModal" id="feedbut1">
+            Feedback Survey
+        </button>
+        <button type="button" class="btn btn-talk-to-help hidden-md hidden-lg" onclick="window.location='https://www.worldbank.org/en/home-page/feedback'" id="feedbut1">
+            Feedback Survey
+        </button>
+    </div>-->
+    
+
+    
+
+    	  
+
+
+    <script>
+        $(function() {
+            $('[data-ajax-component-banner]').each(function() {
+                var $this = $(this),
+                    url = $this.data('url'),
+                    queryParams = $this.data('ajax-query-parameters');
+                url = url+"?";
+                if (queryParams) {
+                    url +=  queryParams;
+                }
+                $.get(url).success(function(data) {
+                    $this.replaceWith(data);
+                });
+            });
+ 		});
+    </script>    
+	    
+
+
+    
+
+
+
+
+
+<script type="text/javascript">
+var appInsights=window.appInsights||function(a){
+  function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+  }({
+      instrumentationKey:"2ddee9f8-57ef-4c0e-8810-a2f743116654"
+  });
+
+window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+</script>
+
+
+
+		 
+
+    
+
+
+
+
+
+<script type="text/javascript" src="/etc/designs/wbg/clientlib/js/WebStatsUtil.js?q=nocache"></script>
+
+
+
+
+
+
+
+<script>   
+    
+    var filters = [], queryParamValue,section=[],sFilters="",sSection="";
+    var query_string = window.location.search;
+    var paramMap = {
+        'displayconttype_exact': 'type',
+        'topic_exact': 'topic',
+        'admreg_exact':'region',
+        'count_exact':'country',
+        'strdate':'startdate',
+        'enddate':'enddate',
+        'lang_exact':'language',
+        'tf':'timeframe',
+        'docty_exact':'document type',
+        'lang_spoken_exact':'languages spoken',
+        'job_title_exact':'role',
+        'unit_exact':'unit',
+        'first_name_AlphaBucket_exact':'first name',
+        'surname_AlphaBucket_exact':'last name',
+        'sector_exact':'sector',
+        'status_exact':'status',
+        'majdocty_exact':'major document type',
+        'majtheme_exact':'theme',
+        'teratopic_exact':'topic'
+        
+    };
+    
+    if(query_string){
+        var queryPair = query_string.slice(1).split('&');
+        for (var i = 0; i < queryPair.length; i++) {
+            queryParamValue = queryPair[i].split('=')[1];
+            
+            queryParamName = queryPair[i].split('=')[0];
+            
+            if((typeof paramMap[queryParamName]!='undefined')  && (queryParamName!='lang_exact') && (queryParamName!='pastevents') && (queryParamName!='futureevents') && (queryParamName!='srt') && (queryParamName!='qterm') && (queryParamName!='x')&&(queryParamName!='y')){
+                
+                
+                section.push(paramMap[queryParamName]);
+                
+                
+            }
+            
+            
+            if((queryParamName!='qterm') && (queryParamName!='futureevents') && (queryParamName!='pastevents') && (queryParamName!='srt') && (queryParamName!='os') && (queryParamName!='x') && (queryParamName!='lang_exact') &&(queryParamName!='y')){
+                if(queryParamValue != ''){
+                    filters.push(queryParamValue);
+                }
+            }
+        }
+        sFilters = filters.join(':');
+        sSection = section.join(':');
+        
+        sSection = decodeURIComponent(sSection);
+        
+        sSection = sSection.replace(new RegExp("\\+","g"),' ');
+
+        //s.eVar50= section;
+        
+        sFilters = decodeURIComponent(sFilters);
+        
+        sFilters = sFilters.replace(new RegExp("\\+","g"),' ');
+        //s.list1 =filters;
+    } 
+   </script> 
+
+
+
+   <script> 
+    var wbgData = wbgData || {};
+    wbgData.page = {
+        pageInfo: {
+            pageName: "en:country:somalia",
+            pageCategory: "sub navigation",
+            pageUid: "887cdd99-455b-4075-846c-8b982fd23b4a", 
+            pageFirstPub: "11-30-2016", 
+            pageLastMod: "10-12-2020", 
+            contentType:"Country",
+            topicTag:"not available",
+            hier1:"ecrcc~where we work~somalia~somalia",
+            channel:"AFR Somalia EXT",
+            webpackage:""
+        },
+        sectionInfo: {
+            siteSection: "where we work",
+            subsectionP2:"somalia",
+            subsectionP3:"somalia",
+            subsectionP4:"",
+            subsectionP5:""
+            
+        }
+    },
+        wbgData.site = {
+            siteInfo: {
+                siteLanguage: "en", 
+                siteCountry: "somalia", 
+                siteEnv: "prod", 
+                userIpaddressType:"10.59.72.51",
+                siteRegion:"Africa",
+                siteType:"main",
+            },
+            
+            techInfo: {
+                cmsType: "AEM",
+                bussVPUnit: "AFR",
+                bussUnit: "ECRCC",
+                bussUserGroup: "External",
+                bussAgency: "ibrd"
+            }
+              
+            
+
+        }
+
+
+
+         
+
+
+
+                
+
+                
+</script>
+
+
+<script type="text/javascript">
+    var wbgDataOld = {};
+    wbgDataOld.page= {
+        pageInfo: {
+            pageName: "en:country>somalia",
+            pageTitle:"Somalia",
+            pageDate:"2012/08/27",
+            hier1: "ecrcc~where we work~somalia~somalia", 
+            hier2: "wbg~en~english~where we work~somalia~somalia",
+            server:"10.59.72.99",
+            channel:"AFR Somalia EXT"
+        },
+        docInfo: {
+            docAuthor: "",//Document author  						  
+            docDate:"",//Document date					  
+            docRegion:"Africa",//Region								  
+            docCountry:"Somalia" 
+        },
+        
+        teragramInfo: {													 	
+            teragramTopic:"",  										  
+            teragramKeyword:""	
+        },
+        siteInfo: {
+            siteSection:"where we work",                                 
+            subSection1:"where we work~somalia",						      
+            subSection2:"where we work~somalia~somalia",              
+            subSection3:"where we work~somalia~somalia",              
+            siteLanguage:"English",                                        
+            siteRank:"1",											  
+            contentType:"other"   										  
+        },
+        packageInfo:{
+            
+            webpackage:""
+            
+        },
+        
+        
+        
+           
+            vpuInfo: {
+                vpuLegacy:"AFR",											 
+                    vpu:"ECRCC"													 
+            },
+                
+    }
+    
+    
+    
+    
+    
+    
+    var opsAanalytics ={
+        "projectId" :"NODATA", 
+        "upi":"NODATA",
+        "pageName":"where we work", 
+        "tabName":"where we work", 
+        "serverDate":"",  
+        "clientDate":new Date().getTime(), 
+        "totalResponseTime":"",
+        "pageUrl":(document.URL).replace("https://","").replace("http://",""),
+        "userAgent" :navigator.userAgent,
+        "server":"www.worldbank.org", 
+        "appId":"wbgext", 
+        "key1":"somalia",
+        "key2":"",
+        "key3":"",
+        "key4":"",
+        "key5":"",
+        "key6":"Anonymous",
+        "key7":"",
+        "key8":"",
+        "key9":"", 
+        "key10":""
+    };
+    
+    
+    
+</script>
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+    
+    <style>
+        button.editMode {
+            border: 0px;
+            line-height: 16px;
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            font-size: 12px;
+            padding: 10px 22px;
+            position: fixed;
+            right: 5%;
+            float: right;
+            background-color: #39beea;
+            top: 64px;
+            z-index: 1111;
+            right: 98px;
+        }
+    </style>    
+
+    <script>
+     
+   </script> 
+
+
+
+    <input type="hidden" name="wcmmode" class="WCMmode" value="DISABLED">
+ 
+
+	  <script type="text/javascript" src="/etc/designs/wbrrdesign/clientlibs-wbrredsign.js"></script>
+
+    
+
+		<script type="text/javascript">_satellite.pageBottom();</script>
+
+        
+
+
+
+<div class="cloudservices servicecomponents">
+</div>
+
+</body>
+
+ 
+
+
+
+
+
+
+
+
+
+    
+
+</html>
